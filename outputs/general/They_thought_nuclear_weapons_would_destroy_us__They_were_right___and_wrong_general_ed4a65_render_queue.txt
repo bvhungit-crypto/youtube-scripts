@@ -1,0 +1,83 @@
+============================================================
+VEO 3 RENDER QUEUE - They_thought_nuclear_weapons_would_destroy_us__They_were_right___and_wrong [general]
+Total clips: 7 | Duration: 00:00:55.870
+============================================================
+
+--------------------------------------------------
+CLIP C001 | 00:00:00.000 -> 00:00:08.000 | 8.0s
+Emotion: TRUST (low) | Arc: hook
+Audio: "The most important peace treaty of the twentieth century saved the world from nu"
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments. Medium close-up, very slow gentle push-in. Hand-drawn treaty document on sketched table, bold black outlines, high contrast monochrome. Clean doodle-style pen poised above paper, minimalist round-headed diplomat figure partially visible at edge of frame. Stark archival atmosphere with rough-sketched government office background. Audio: pen scratching paper, document pages rustling. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no photorealism, no color, no gradients, no soft shading, no 3D rendering, no camera shake, no fast movement
+
+--------------------------------------------------
+CLIP C002 | 00:00:08.000 -> 00:00:16.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+Audio: "The most important peace treaty of the twentieth century saved the world from nu"
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments. Medium shot, very slow dolly left. Group of minimalist doodle-style diplomats with round heads and simple expressive faces gathered around hand-sketched treaty table. Bold clean outlines, maximum black-white contrast. Figures lean forward with focused posture, hands positioned over document. Rough-sketched formal meeting room with stark architectural lines. Audio: document pages turning, paper sliding on wood. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 1.6s after.
+
+NEGATIVE:
+no photorealism, no color, no detailed faces, no soft lighting, no motion blur, no depth of field
+TIMING: Hold 1.6s after.
+
+--------------------------------------------------
+CLIP C003 | 00:00:16.000 -> 00:00:24.000 | 8.0s
+Emotion: ANTICIPATION (low) | Arc: build_up
+Audio: "This raises a question that deserves more attention than it gets. What happens t"
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments. Medium shot, very slow building push-in. Single minimalist character with round head in hand-sketched office, expressive eyes showing contemplation, shoulders slightly hunched. Clean line art figure sits at doodle-style desk with rough-sketched papers. Softer textured line work begins to emerge, maintaining high contrast. Audio: chair creaking, paper flipping, pen tapping desk. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no photorealism, no warm colors, no soft focus, no complex backgrounds, no realistic textures
+
+--------------------------------------------------
+CLIP C004 | 00:00:24.000 -> 00:00:32.000 | 8.0s
+Emotion: ANTICIPATION (low) | Arc: deep
+Audio: "This raises a question that deserves more attention than it gets. What happens t"
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments. Medium close-up, very slow creeping push-in. Minimalist round-headed character with expressive wide eyes showing doubt and realization, hand raised to chin in thought. Bold doodle-style figure against rough-sketched laboratory background with simple equipment outlines. Textured line work with dramatic side contrast, heavier ink strokes. Audio: pen tapping desk, papers shuffling, pencil rolling. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 3s after.
+
+NEGATIVE:
+no photorealism, no color, no detailed rendering, no soft edges, no atmospheric haze
+TIMING: Hold 3s after.
+
+--------------------------------------------------
+CLIP C005 | 00:00:32.000 -> 00:00:40.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+Audio: "The year was nineteen sixty-three. The document ran to eleven pages. Diplomats s"
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments. Medium shot, completely static. Hand-drawn treaty document pages spread across sketched table, bold text lines visible as simple horizontal strokes. Clean doodle-style aesthetic with maximum contrast, authoritative composition. Camera pans slowly right across document details, softer line work on paper texture. Audio: pages turning, pen scratching paper, paper sliding. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no photorealism, no color accents, no camera movement, no depth blur, no gradient shading
+
+--------------------------------------------------
+CLIP C006 | 00:00:40.000 -> 00:00:48.000 | 8.0s
+Emotion: SADNESS (low) | Arc: deep
+Audio: "Somewhere in San Diego, a team of physicists watched the news broadcast and unde"
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments. Medium-tight shot, slow zoom in. Group of minimalist doodle physicists with round heads and expressive faces watching hand-sketched television set. Figures show realization through widened eyes and slumped shoulders. Heavier ink strokes, denser shadows, maximum contrast. Rough-sketched lab environment with simple equipment outlines. Audio: television static crackling, footsteps shuffling, chair scraping. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no photorealism, no warm lighting, no color, no soft focus, no detailed backgrounds
+
+--------------------------------------------------
+CLIP C007 | 00:00:48.000 -> 00:00:55.870 | 7.87s
+Emotion: SADNESS (low) | Arc: payoff
+Audio: "Somewhere in San Diego, a team of physicists watched the news broadcast and unde"
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments. Close-up, static hold. Single minimalist face with round head, simple expressive features showing bittersweet acceptance—slight downturned mouth, soft eyes. Maximum contrast with heavy bold line work, denser ink strokes. Clean doodle aesthetic against minimal sketched background. Figure's hand rests on chin, posture settled. Audio: breathing exhale, chair scraping floor. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 7.87s.
+
+NEGATIVE:
+no photorealism, no color, no soft lighting, no camera movement, no background detail
