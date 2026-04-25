@@ -29,18 +29,18 @@ CHARACTERS (LOCKED):
 - [Character 2]: [Physical appearance, outfit, identifying features — fill in]
 
 ENVIRONMENT (GLOBAL):
-- Warm library interior, soft amber light filtering through tall windows, dust motes suspended in air, leather-bound volumes lining walls
-- Formal signing room with polished mahogany table, soft warm lighting from overhead chandelier, flags visible in soft focus background
-- The environment is a sleek, amber-lit control room with inactive consoles and dormant screens, suggesting capability without action
-- Office interior with amber-shadow lighting, venetian blinds casting striped patterns, technical papers scattered on desk behind
-- Clean archival space with even fluorescent lighting, white walls, organized filing cabinets, neutral temperature atmosphere
-- Dim office interior with muted cool lighting, rain-streaked window visible behind, scattered papers suggesting abandoned work, somber atmosphere
-- Shadowed laboratory space, dim overhead lighting, complex calculations visible on board, cool muted tones, atmosphere of quiet finality
-- Manicured lawn, white picket fence, amber afternoon light, period-accurate suburban architecture, warm nostalgic color temperature
-- He adjusts his glasses, then places one hand on the shelter's frame—a gesture of protection and futility
-- Clean modernist exhibition space with muted gray walls, archival photographs barely visible in soft focus behind the artifact
-- The environment feels like a museum display room—white walls, controlled lighting, quiet authority
-- His posture leans forward urgently, tie loosened, sleeves rolled
+- Cool blue-gray light filters through tall windows, casting long shadows across leather-bound volumes and faded maps
+- Cool archival light holds steady, shadows lengthen imperceptibly across aged paper and wood surfaces
+- Vintage desk lamp casts warm glow over scattered papers and slide rules
+- Amber light intensifies, papers on desk catch edge-light, creating layered depth
+- Even neutral light illuminates aged paper texture, official seals, formal signatures
+- Soft muted light from window, shadows pool in corners, period furniture and blackboard equations fade into background
+- Dim light holds steady, rain continues softly on window glass, television glow persists
+- Even neutral daylight, white picket fence, period clothing, wooden desk visible through window
+- The backyard is orderly but sparse—trimmed grass, a wooden fence, overcast sky casting flat, even light
+- Neutral-toned archival workspace with teal accent lighting, clean documentary aesthetic, soft diffused illumination
+- Authoritative workspace with teal-accented lighting, neutral color palette, clean professional environment
+- Bloomberg-style workspace with 3700K teal accent, neutral documentary palette, authoritative lighting
 
 [END CHARACTERS Description]
 
@@ -49,10 +49,10 @@ ENVIRONMENT (GLOBAL):
 SCENE 01: Trust — Hook [00:00–00:08]
 
 ENVIRONMENT (SCENE):
-- Warm library interior, soft amber light filtering through tall windows, dust motes suspended in air, leather-bound volumes lining walls
+- Cool blue-gray light filters through tall windows, casting long shadows across leather-bound volumes and faded maps
 
 ACTIONS:
-- Historian at wooden desk, shoulders squared, hands resting flat on aged treaty document, expression calm and measured. Fingers trace the edge of paper with deliberate precision, eyes focused downward with scholarly gravity.
+- Historian in archival study, shoulders squared, hands resting on aged document, expression measured and contemplative. Fingers trace treaty text with deliberate precision.
 
 CAMERA:
 - Lens: Close-up
@@ -61,7 +61,7 @@ CAMERA:
 - Focus: Sharp on subject
 
 AUDIO:
-- quiet room tone, faint rustle of paper, distant clock ticking
+- soft paper rustle, distant clock tick, room tone silence
 
 VISUAL FX:
 - None
@@ -74,19 +74,19 @@ VOICE:
 SCENE 02: Trust — Hook [00:08–00:16]
 
 ENVIRONMENT (SCENE):
-- Formal signing room with polished mahogany table, soft warm lighting from overhead chandelier, flags visible in soft focus background
+- Cool archival light holds steady, shadows lengthen imperceptibly across aged paper and wood surfaces
 
 ACTIONS:
-- Diplomat's hands placing fountain pen down on signed document, posture upright and formal, face showing restrained satisfaction with slight nod. Fingers release pen with ceremonial slowness, other hand smoothing the page corner.
+- Same historian, posture unchanged, gaze shifts from document to middle distance, expression deepening with quiet realization. Hands remain still on treaty pages.
 
 CAMERA:
 - Lens: Close-up
-- Movement: Slow Zoom In
+- Movement: Static
 - Framing: Close-up
 - Focus: Sharp on subject
 
 AUDIO:
-- quiet room tone, pen settling on wood, fabric shifting
+- sustained room silence, faint ambient hum, breath of stillness
 
 VISUAL FX:
 - None
@@ -99,10 +99,10 @@ VOICE:
 SCENE 03: Anticipation — Hook [00:16–00:24]
 
 ENVIRONMENT (SCENE):
-- The environment is a sleek, amber-lit control room with inactive consoles and dormant screens, suggesting capability without action
+- Vintage desk lamp casts warm glow over scattered papers and slide rules
 
 ACTIONS:
-- A solitary figure stands at the edge of a vast observation deck, shoulders slightly forward, head tilted in contemplation, hand resting on a railing. They gaze toward a distant starfield visible through massive windows, expression caught between wonder and hesitation.
+- Physicist in 1960s office, leaning forward slightly, brow furrowed, fingers steepled in contemplation. Eyes narrow with intellectual intensity as amber side light carves shadows across face.
 
 CAMERA:
 - Lens: Medium
@@ -111,7 +111,7 @@ CAMERA:
 - Focus: Sharp on subject
 
 AUDIO:
-- low rhythmic pulse, suspended synth note, faint metallic hum
+- building low frequency hum, suspended tension, held breath atmosphere
 
 VISUAL FX:
 - None
@@ -124,10 +124,10 @@ VOICE:
 SCENE 04: Anticipation — Build Up [00:24–00:32]
 
 ENVIRONMENT (SCENE):
-- Office interior with amber-shadow lighting, venetian blinds casting striped patterns, technical papers scattered on desk behind
+- Amber light intensifies, papers on desk catch edge-light, creating layered depth
 
 ACTIONS:
-- Physicist standing at window, arms crossed, shoulders slightly hunched, face in profile showing contemplative stillness. Body remains motionless except for slow exhale, gaze fixed on distant point beyond frame.
+- Same physicist, posture shifts forward, hands open in gesture of weighing invisible consequences. Expression transitions from contemplation to dawning understanding, shadows deepen across features.
 
 CAMERA:
 - Lens: Medium
@@ -136,7 +136,7 @@ CAMERA:
 - Focus: Sharp on subject
 
 AUDIO:
-- building rhythmic pulse, suspended note, held breath
+- rhythmic pulse builds subtly, suspended note holds, atmospheric tension accumulates
 
 VISUAL FX:
 - None
@@ -149,10 +149,235 @@ VOICE:
 SCENE 05: Trust — Build Up [00:32–00:40]
 
 ENVIRONMENT (SCENE):
-- Clean archival space with even fluorescent lighting, white walls, organized filing cabinets, neutral temperature atmosphere
+- Even neutral light illuminates aged paper texture, official seals, formal signatures
 
 ACTIONS:
-- Archivist in reading room, posture upright and professional, hands carefully opening leather document folder, expression neutral and focused. Fingers lift cover with practiced care, eyes scanning first page methodically.
+- Diplomat's hands in formal suit, placing fountain pen on treaty document with methodical precision. Posture upright, shoulders relaxed, fingers move with practiced ceremony.
+
+CAMERA:
+- Lens: Medium
+- Movement: Static
+- Framing: Medium Shot
+- Focus: Sharp on subject
+
+AUDIO:
+- paper slide, pen click, muted room tone, archival silence
+
+VISUAL FX:
+- None
+
+VOICE:
+- "The year was nineteen sixty-three. The document ran to eleven pages. Diplomats shook hands in Moscow while photographers captured the moment for posterity."
+
+---
+
+SCENE 06: Sadness — Build Up [00:40–00:48]
+
+ENVIRONMENT (SCENE):
+- Soft muted light from window, shadows pool in corners, period furniture and blackboard equations fade into background
+
+ACTIONS:
+- Physicist in dim 1960s office, shoulders slumped forward, hands clasped loosely on desk, gaze downward at television set casting pale glow. Expression quiet, resigned, eyes reflecting screen light.
+
+CAMERA:
+- Lens: Medium
+- Movement: Slow Zoom Out
+- Framing: Medium Shot
+- Focus: Sharp on subject
+
+AUDIO:
+- distant rain on glass, muffled city ambience, deep enveloping silence
+
+VISUAL FX:
+- None
+
+VOICE:
+- "Somewhere in San Diego, a team of physicists watched the news broadcast and understood, with the cold clarity of people who do mathematics for a living, that their work was finished. Not because it had failed. Because it had succeeded at the wrong time."
+
+---
+
+SCENE 07: Sadness — Build Up [00:48–00:56]
+
+ENVIRONMENT (SCENE):
+- Dim light holds steady, rain continues softly on window glass, television glow persists
+
+ACTIONS:
+- Same physicist, posture unchanged, hands now covering lower face, eyes closed briefly then open staring at nothing. Expression carries weight of understanding, not grief but acceptance.
+
+CAMERA:
+- Lens: Medium
+- Movement: Static
+- Framing: Medium Shot
+- Focus: Sharp on subject
+
+AUDIO:
+- sustained rain pattern, city hum distant, silence deepens
+
+VISUAL FX:
+- None
+
+VOICE:
+- "Somewhere in San Diego, a team of physicists watched the news broadcast and understood, with the cold clarity of people who do mathematics for a living, that their work was finished. Not because it had failed. Because it had succeeded at the wrong time."
+
+---
+
+SCENE 08: Trust — Build Up [00:56–01:04]
+
+ENVIRONMENT (SCENE):
+- Even neutral daylight, white picket fence, period clothing, wooden desk visible through window
+
+ACTIONS:
+- Suburban family in 1950s backyard, father gesturing toward half-built fallout shelter, mother's hand on child's shoulder, postures upright with practiced optimism. Expressions carry forced confidence masking uncertainty.
+
+CAMERA:
+- Lens: Medium
+- Movement: Static
+- Framing: Medium Shot
+- Focus: Sharp on subject
+
+AUDIO:
+- distant lawnmower, suburban birds, quiet neighborhood ambience
+
+VISUAL FX:
+- None
+
+VOICE:
+- "Rewind five years. America was building fallout shelters in suburban backyards and teaching children to hide under wooden desks as though plywood could negotiate with gamma radiation."
+
+---
+
+SCENE 09: Trust — Deep [01:04–01:12]
+
+ENVIRONMENT (SCENE):
+- The backyard is orderly but sparse—trimmed grass, a wooden fence, overcast sky casting flat, even light
+
+ACTIONS:
+- A middle-aged man in 1950s attire stands in a modest suburban backyard, hands clasped behind his back, gazing down at a half-built concrete fallout shelter entrance with a measured, resigned expression. He shifts his weight slightly, jaw set in quiet acceptance.
+
+CAMERA:
+- Lens: Medium
+- Movement: Static
+- Framing: Medium Shot
+- Focus: Sharp on subject
+
+AUDIO:
+- distant lawnmower hum, faint breeze through leaves, suburban stillness
+
+VISUAL FX:
+- None
+
+VOICE:
+- "Rewind five years. America was building fallout shelters in suburban backyards and teaching children to hide under wooden desks as though plywood could negotiate with gamma radiation."
+
+---
+
+SCENE 10: Trust — Deep [01:12–01:20]
+
+ENVIRONMENT (SCENE):
+- Neutral-toned archival workspace with teal accent lighting, clean documentary aesthetic, soft diffused illumination
+
+ACTIONS:
+- Person at research desk, posture upright and attentive, hands gesturing subtly to emphasize scale, expression conveying measured gravity. Examining technical specifications and satellite imagery, fingers tracing orbital paths on documents.
+
+CAMERA:
+- Lens: Medium
+- Movement: Static
+- Framing: Medium Shot
+- Focus: Sharp on subject
+
+AUDIO:
+- minimal room tone, paper movement, quiet focused atmosphere
+
+VISUAL FX:
+- None
+
+VOICE:
+- "Sputnik had crossed the sky the previous October, a one hundred and eighty-four-pound aluminum sphere that weighed less than a refrigerator and somehow managed to humiliate the most powerful nation on Earth. The psychological wound was fresh."
+
+---
+
+SCENE 11: Trust — Deep [01:20–01:28]
+
+ENVIRONMENT (SCENE):
+- Authoritative workspace with teal-accented lighting, neutral color palette, clean professional environment
+
+ACTIONS:
+- Person in documentary setting, shoulders slightly forward, hands folded contemplatively, expression reflecting quiet understanding. Reviewing technical reports and historical analysis, occasionally making notes with deliberate movements.
+
+CAMERA:
+- Lens: Medium
+- Movement: Static
+- Framing: Medium Shot
+- Focus: Sharp on subject
+
+AUDIO:
+- soft ambient silence, occasional paper sound, clean room tone
+
+VISUAL FX:
+- None
+
+VOICE:
+- "Sputnik had crossed the sky the previous October, a one hundred and eighty-four-pound aluminum sphere that weighed less than a refrigerator and somehow managed to humiliate the most powerful nation on Earth. The psychological wound was fresh."
+
+---
+
+SCENE 12: Trust — Deep [01:28–01:36]
+
+ENVIRONMENT (SCENE):
+- Bloomberg-style workspace with 3700K teal accent, neutral documentary palette, authoritative lighting
+
+ACTIONS:
+- Person at analysis desk, posture steady and composed, hands gesturing to emphasize institutional scale, expression calm but engaged. Examining budget documents and policy papers, fingers moving across financial data with precision.
+
+CAMERA:
+- Lens: Medium
+- Movement: Static
+- Framing: Medium Shot
+- Focus: Sharp on subject
+
+AUDIO:
+- quiet focused space, minimal paper movement, clean silence
+
+VISUAL FX:
+- None
+
+VOICE:
+- "Washington was spending money the way wounded empires always do, frantically, on everything, hoping something would stick."
+
+---
+
+SCENE 13: Trust — Deep [01:36–01:44]
+
+ENVIRONMENT (SCENE):
+- Neutral-toned documentary workspace with teal accent lighting, clean professional setting, soft diffused illumination
+
+ACTIONS:
+- Person in research environment, posture leaning slightly forward with interest, hands open in gesture of revelation, expression showing controlled fascination. Reviewing proposal documents from General Atomics, fingers tracing technical diagrams with careful attention.
+
+CAMERA:
+- Lens: Medium
+- Movement: Static
+- Framing: Medium Shot
+- Focus: Sharp on subject
+
+AUDIO:
+- minimal room tone, quiet focused atmosphere, soft paper sounds
+
+VISUAL FX:
+- None
+
+VOICE:
+- "Into this atmosphere of existential panic walked a proposal so audacious it read like satire. A small team at General Atomics in San Diego wanted to build a spacecraft propelled by nuclear explosions."
+
+---
+
+SCENE 14: Trust — Deep [01:44–01:52]
+
+ENVIRONMENT (SCENE):
+- Authoritative workspace with 3700K teal lighting, neutral documentary palette, clean professional environment
+
+ACTIONS:
+- Person at technical review desk, posture upright and focused, hands emphasizing distinction with precise gestures, expression conveying measured gravity. Examining technical specifications contrasting reactor designs with weapons systems, fingers pointing to key differences in documentation.
 
 CAMERA:
 - Lens: Medium
@@ -167,231 +392,6 @@ VISUAL FX:
 - None
 
 VOICE:
-- "The year was nineteen sixty-three. The document ran to eleven pages. Diplomats shook hands in Moscow while photographers captured the moment for posterity."
-
----
-
-SCENE 06: Sadness — Build Up [00:40–00:48]
-
-ENVIRONMENT (SCENE):
-- Dim office interior with muted cool lighting, rain-streaked window visible behind, scattered papers suggesting abandoned work, somber atmosphere
-
-ACTIONS:
-- Physicist seated at desk, shoulders slumped forward, hand covering lower face, eyes downcast with quiet resignation. Fingers press against temple, other hand resting limply on closed notebook.
-
-CAMERA:
-- Lens: Medium
-- Movement: Slow Zoom Out
-- Framing: Medium Shot
-- Focus: Sharp on subject
-
-AUDIO:
-- quiet rain on glass, distant muffled city, deep silence
-
-VISUAL FX:
-- None
-
-VOICE:
-- "Somewhere in San Diego, a team of physicists watched the news broadcast and understood, with the cold clarity of people who do mathematics for a living, that their work was finished. Not because it had failed. Because it had succeeded at the wrong time."
-
----
-
-SCENE 07: Sadness — Build Up [00:48–00:56]
-
-ENVIRONMENT (SCENE):
-- Shadowed laboratory space, dim overhead lighting, complex calculations visible on board, cool muted tones, atmosphere of quiet finality
-
-ACTIONS:
-- Scientist standing at blackboard, back partially to camera, hand lowered from equations, posture deflated with head bowed slightly. Shoulders curve inward, free hand hanging at side, stillness conveying professional defeat.
-
-CAMERA:
-- Lens: Medium
-- Movement: Slow Zoom Out
-- Framing: Medium Shot
-- Focus: Sharp on subject
-
-AUDIO:
-- quiet rain on glass, distant muffled city, deep silence
-
-VISUAL FX:
-- None
-
-VOICE:
-- "Somewhere in San Diego, a team of physicists watched the news broadcast and understood, with the cold clarity of people who do mathematics for a living, that their work was finished. Not because it had failed. Because it had succeeded at the wrong time."
-
----
-
-SCENE 08: Trust — Build Up [00:56–01:04]
-
-ENVIRONMENT (SCENE):
-- Manicured lawn, white picket fence, amber afternoon light, period-accurate suburban architecture, warm nostalgic color temperature
-
-ACTIONS:
-- Homeowner in 1950s suburban backyard, posture upright with hands on hips, expression showing determined optimism mixed with underlying concern. Body turns to survey concrete fallout shelter entrance, hand gesturing toward structure with measured pride.
-
-CAMERA:
-- Lens: Medium
-- Movement: Static
-- Framing: Medium Shot
-- Focus: Sharp on subject
-
-AUDIO:
-- quiet suburban ambience, distant lawnmower, birds chirping
-
-VISUAL FX:
-- None
-
-VOICE:
-- "Rewind five years. America was building fallout shelters in suburban backyards and teaching children to hide under wooden desks as though plywood could negotiate with gamma radiation."
-
----
-
-SCENE 09: Trust — Deep [01:04–01:12]
-
-ENVIRONMENT (SCENE):
-- He adjusts his glasses, then places one hand on the shelter's frame—a gesture of protection and futility
-
-ACTIONS:
-- A 1950s suburban backyard at dusk, wooden fallout shelter door half-open, a child's bicycle leaning against it. A father in rolled shirtsleeves stands with hands on hips, shoulders squared, gazing at the shelter with quiet resolve.
-
-CAMERA:
-- Lens: Medium
-- Movement: Static
-- Framing: Medium Shot
-- Focus: Sharp on subject
-
-AUDIO:
-- distant cicadas, faint hum of a refrigerator through an open window, soft rustle of evening breeze
-
-VISUAL FX:
-- None
-
-VOICE:
-- "Rewind five years. America was building fallout shelters in suburban backyards and teaching children to hide under wooden desks as though plywood could negotiate with gamma radiation."
-
----
-
-SCENE 10: Trust — Deep [01:12–01:20]
-
-ENVIRONMENT (SCENE):
-- Clean modernist exhibition space with muted gray walls, archival photographs barely visible in soft focus behind the artifact
-
-ACTIONS:
-- A polished aluminum sphere suspended in a museum display case, surface reflecting soft overhead light in precise geometric patterns. The sphere rests on a minimal mount, its metallic skin catching subtle teal accents from ambient lighting.
-
-CAMERA:
-- Lens: Medium
-- Movement: Static
-- Framing: Medium Shot
-- Focus: Sharp on subject
-
-AUDIO:
-- quiet museum room tone, faint HVAC hum, distant footsteps on polished floor
-
-VISUAL FX:
-- None
-
-VOICE:
-- "Sputnik had crossed the sky the previous October, a one hundred and eighty-four-pound aluminum sphere that weighed less than a refrigerator and somehow managed to humiliate the most powerful nation on Earth. The psychological wound was fresh."
-
----
-
-SCENE 11: Trust — Deep [01:20–01:28]
-
-ENVIRONMENT (SCENE):
-- The environment feels like a museum display room—white walls, controlled lighting, quiet authority
-
-ACTIONS:
-- A vintage aluminum sphere model rests on a clean white pedestal in a minimalist archival space, soft teal accent light catching its curved surface. The sphere sits perfectly still, its polished metal reflecting subtle highlights.
-
-CAMERA:
-- Lens: Medium
-- Movement: Static
-- Framing: Medium Shot
-- Focus: Sharp on subject
-
-AUDIO:
-- faint air conditioning hum, distant footsteps on polished floor
-
-VISUAL FX:
-- None
-
-VOICE:
-- "Sputnik had crossed the sky the previous October, a one hundred and eighty-four-pound aluminum sphere that weighed less than a refrigerator and somehow managed to humiliate the most powerful nation on Earth. The psychological wound was fresh."
-
----
-
-SCENE 12: Trust — Deep [01:28–01:36]
-
-ENVIRONMENT (SCENE):
-- His posture leans forward urgently, tie loosened, sleeves rolled
-
-ACTIONS:
-- A 1950s government office desk cluttered with scattered blueprints, budget documents, and coffee cups. A bureaucrat's hands move rapidly across papers, fingers tapping nervously, shuffling documents without clear purpose.
-
-CAMERA:
-- Lens: Medium
-- Movement: Handheld
-- Framing: Medium Shot
-- Focus: Sharp on subject
-
-AUDIO:
-- rustling paper, pen scratching, muffled telephone ringing in adjacent room, clock ticking
-
-VISUAL FX:
-- None
-
-VOICE:
-- "Washington was spending money the way wounded empires always do, frantically, on everything, hoping something would stick."
-
----
-
-SCENE 13: Trust — Deep [01:36–01:44]
-
-ENVIRONMENT (SCENE):
-- His expression is calm but intense, eyes focused on a single diagram
-
-ACTIONS:
-- A clean, minimalist conference room with crisp white walls and a single large window showing pale sky. A physicist in his 40s stands at a whiteboard covered in equations, marker in hand, shoulders back, chin lifted with quiet confidence.
-
-CAMERA:
-- Lens: Medium
-- Movement: Static
-- Framing: Medium Shot
-- Focus: Sharp on subject
-
-AUDIO:
-- faint marker squeak, air conditioning hum, distant footsteps in hallway, paper rustling
-
-VISUAL FX:
-- None
-
-VOICE:
-- "Into this atmosphere of existential panic walked a proposal so audacious it read like satire. A small team at General Atomics in San Diego wanted to build a spacecraft propelled by nuclear explosions."
-
----
-
-SCENE 14: Trust — Deep [01:44–01:52]
-
-ENVIRONMENT (SCENE):
-- Her posture is upright, shoulders squared, expression serious but not fearful
-
-ACTIONS:
-- A stark white laboratory table with a single small metallic device at center, spotlit from above. A scientist's hands enter frame, palms open, hovering over the device without touching it—a gesture of presentation and caution.
-
-CAMERA:
-- Lens: Medium
-- Movement: Static
-- Framing: Medium Shot
-- Focus: Sharp on subject
-
-AUDIO:
-- low electrical hum, faint ventilation, occasional metallic ping, near-silence
-
-VISUAL FX:
-- None
-
-VOICE:
 - "Not a reactor. Not a carefully contained fission process generating heat for a turbine. Actual bombs."
 
 ---
@@ -399,10 +399,10 @@ VOICE:
 SCENE 15: Trust — Deep [01:52–02:00]
 
 ENVIRONMENT (SCENE):
-- The hand is steady, deliberate, suggesting methodical explanation
+- Bloomberg-style workspace with teal accent lighting, neutral documentary aesthetic, soft professional illumination
 
 ACTIONS:
-- A technical schematic diagram on translucent paper, backlit on a light table. A hand wearing a simple watch points to a specific section with a pen, finger extended precisely.
+- Person in analysis setting, posture engaged and attentive, hands gesturing to illustrate sequential process, expression showing focused comprehension. Reviewing technical diagrams of propulsion mechanics, fingers tracing three-second interval patterns on schematics.
 
 CAMERA:
 - Lens: Medium
@@ -411,7 +411,7 @@ CAMERA:
 - Focus: Sharp on subject
 
 AUDIO:
-- faint fluorescent buzz, pen tapping on glass surface, distant ventilation, paper sliding
+- minimal room tone, quiet focused space, soft paper movement
 
 VISUAL FX:
 - None
@@ -424,10 +424,10 @@ VOICE:
 SCENE 16: Trust — Deep [02:00–02:08]
 
 ENVIRONMENT (SCENE):
-- His posture is relaxed but attentive, weight evenly distributed
+- Neutral-toned documentary workspace with 3700K teal accent, authoritative lighting, clean professional setting
 
 ACTIONS:
-- A scale model of a spacecraft on a laboratory workbench, surrounded by technical instruments. An engineer in a white coat stands with arms crossed, head tilted slightly, studying the model with calm analytical focus.
+- Person at research desk, posture relaxed but engaged, hands gesturing to emphasize institutional context, expression conveying calm authority. Examining DARPA funding documents and project approvals, fingers moving across bureaucratic paperwork with deliberate precision.
 
 CAMERA:
 - Lens: Medium
@@ -436,7 +436,7 @@ CAMERA:
 - Focus: Sharp on subject
 
 AUDIO:
-- quiet lab ambience, faint equipment hum, occasional beep from monitoring device, soft air circulation
+- quiet focused atmosphere, minimal room tone, soft ambient silence
 
 VISUAL FX:
 - None
@@ -449,10 +449,10 @@ VOICE:
 SCENE 17: Trust — Deep [02:08–02:16]
 
 ENVIRONMENT (SCENE):
-- The room is lit with cool authoritative teal-accented light, walls lined with reference books and classified folders
+- Warm-lit institutional office with period-accurate filing cabinets and blackboard equations, atmosphere of quiet intellectual confidence
 
 ACTIONS:
-- A physicist in a clean mid-century laboratory stands with shoulders squared, hands resting calmly on a drafting table, expression focused and assured. He reviews technical schematics spread across the surface, tracing propulsion diagrams with measured precision.
+- Person in mid-century research environment, shoulders squared, hands resting on desk with calm authority, expression focused and assured. Reviewing technical documents with deliberate, measured movements.
 
 CAMERA:
 - Lens: Medium
@@ -461,7 +461,7 @@ CAMERA:
 - Focus: Sharp on subject
 
 AUDIO:
-- soft hum of overhead fluorescent tubes, faint rustle of paper
+- soft paper rustle, distant ventilation hum, clean room tone
 
 VISUAL FX:
 - None
@@ -474,10 +474,10 @@ VOICE:
 SCENE 18: Trust — Payoff [02:16–02:24]
 
 ENVIRONMENT (SCENE):
-- The space glows with amber light, shelves of leather-bound journals behind him
+- Warm-lit study with vintage desk lamp casting golden undertones, atmosphere of historical significance and earned authority
 
 ACTIONS:
-- A distinguished mathematician in a warm-lit archive sits upright, hands folded on a desk, face calm with quiet pride. He gazes steadily at a framed photograph of early atomic research teams, nodding slightly in recognition.
+- Person in 1940s academic setting, posture upright with quiet pride, hands gesturing with precision, expression reflecting intellectual gravitas. Examining archival photographs and documents with reverent attention.
 
 CAMERA:
 - Lens: Close-up
@@ -486,7 +486,7 @@ CAMERA:
 - Focus: Sharp on subject
 
 AUDIO:
-- gentle creak of wooden chair, distant clock ticking
+- gentle page turn, soft leather creak, minimal ambient silence
 
 VISUAL FX:
 - None
@@ -499,10 +499,10 @@ VOICE:
 SCENE 19: Trust — Payoff [02:24–02:32]
 
 ENVIRONMENT (SCENE):
-- Warm light bathes the room, casting gentle shadows on stacks of classified reports
+- Warm-lit workspace with subtle golden glow, vintage filing system visible, atmosphere of reflective authority and historical weight
 
 ACTIONS:
-- A Polish-born scientist in a softly lit study stands with hands clasped behind his back, posture dignified, expression serene and contemplative. He gazes at a wall-mounted timeline of nuclear milestones, eyes tracing the years with quiet satisfaction.
+- Person in period research office, shoulders relaxed with contemplative confidence, hands folded thoughtfully, expression of measured reflection. Gazing at framed historical photograph on desk with quiet respect.
 
 CAMERA:
 - Lens: Close-up
@@ -511,7 +511,7 @@ CAMERA:
 - Focus: Sharp on subject
 
 AUDIO:
-- low ambient room tone, faint rustle of pages turning
+- distant clock tick, soft fabric shift, clean silence
 
 VISUAL FX:
 - None
@@ -524,10 +524,10 @@ VOICE:
 SCENE 20: Trust — Payoff [02:32–02:40]
 
 ENVIRONMENT (SCENE):
-- The room is bathed in soft amber light, filing cabinets and security stamps visible in the background
+- Warm-lit institutional space with period filing cabinets and vintage desk accessories, atmosphere of documentary finality and historical gravitas
 
 ACTIONS:
-- A researcher in a warm-lit Los Alamos office sits with hands resting on a typed memorandum, shoulders relaxed, face composed with quiet confidence. He reviews the document methodically, eyes scanning each line with deliberate care.
+- Person in 1940s Los Alamos-era office, posture upright with archival dignity, hands tracing timeline on aged document, expression of focused historical recounting. Reviewing classified memorandum with deliberate, reverent movements.
 
 CAMERA:
 - Lens: Close-up
@@ -536,7 +536,7 @@ CAMERA:
 - Focus: Sharp on subject
 
 AUDIO:
-- faint hum of ventilation, soft tap of fingers on paper
+- soft paper slide, distant ventilation, minimal room tone
 
 VISUAL FX:
 - None
@@ -549,10 +549,10 @@ VOICE:
 SCENE 21: Trust — Payoff [02:40–02:44]
 
 ENVIRONMENT (SCENE):
-- The space is illuminated with warm light, shelves of technical journals and security-stamped folders surrounding him
+- Warm-lit study with subtle golden undertones, vintage desk lamp, atmosphere of documentary conclusion and earned rest
 
 ACTIONS:
-- A scientist in a softly lit archive stands with hands folded, posture upright, expression calm and reflective. He gazes at a wall of framed patents and classified documents, nodding slightly in acknowledgment.
+- Person in mid-century archival setting, posture settled with contemplative authority, hands resting on closed document folder, expression of quiet finality. Sitting back slightly with measured satisfaction, allowing historical weight to settle.
 
 CAMERA:
 - Lens: Close-up
@@ -561,7 +561,7 @@ CAMERA:
 - Focus: Sharp on subject
 
 AUDIO:
-- quiet room tone, faint creak of floorboards
+- soft chair creak, distant ambient hum, clean silence
 
 VISUAL FX:
 - None
