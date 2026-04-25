@@ -9,10 +9,10 @@ Emotion: TRUST (low) | Arc: hook
 Audio: "The most important peace treaty of the twentieth century saved the world from nu"
 
 PROMPT:
-Medium close-up, very slow push-in. Historian in archival study, shoulders squared, hands resting on aged document, expression measured and contemplative. Fingers trace treaty text with deliberate precision. Cool blue-gray light filters through tall windows, casting long shadows across leather-bound volumes and faded maps. Audio: soft paper rustle, distant clock tick, room tone silence. Cinematic documentary, 24fps, 16:9. 8s.
+Medium close-up, very slow gentle push-in. Weathered hands rest on aged treaty document, fingers slightly curled in contemplative stillness. Hands shift subtly to trace faded signatures on yellowed paper under soft desk lamp. Quiet study lined with leather-bound volumes, dust motes suspended in amber lamplight, vignette edges suggesting archival depth. Audio: faint paper rustle, distant clock tick, hushed room tone. Cinematic documentary, 24fps, 16:9, 1080p. 8s.
 
 NEGATIVE:
-no bright warm lighting, no dramatic gestures, no sensationalized expressions, no modern office setting, no digital screens, no talking directly to camera
+no generic stock footage, no camera drift, no talking heads, no bright modern lighting, no digital screens, no color saturation
 
 --------------------------------------------------
 CLIP C002 | 00:00:08.000 -> 00:00:16.000 | 8.0s
@@ -20,10 +20,10 @@ Emotion: TRUST (low) | Arc: hook
 Audio: "The most important peace treaty of the twentieth century saved the world from nu"
 
 PROMPT:
-Medium close-up, static hold. Same historian, posture unchanged, gaze shifts from document to middle distance, expression deepening with quiet realization. Hands remain still on treaty pages. Cool archival light holds steady, shadows lengthen imperceptibly across aged paper and wood surfaces. Audio: sustained room silence, faint ambient hum, breath of stillness. Cinematic documentary, 24fps, 16:9. 8s. Hold 1.6s after.
+Medium close-up, static hold. Same historian, posture relaxed into chair, hands now folded, gaze steady toward middle distance with quiet authority. Slight head tilt suggests reflection on weight of subject. Archival library maintains cool blue-gray palette, vignette edges deepen, creating intimate frame within larger historical space. Audio: room tone, barely perceptible ventilation hum, profound quiet. Cinematic documentary, 24fps, 16:9. 8s. Hold 1.6s after.
 
 NEGATIVE:
-no camera movement, no lighting change, no dramatic reaction, no bright colors, no modern elements, no dialogue
+no generic stock footage, no camera movement, no warm inviting tones, no energetic body language, no direct address
 TIMING: Hold 1.6s after.
 
 --------------------------------------------------
@@ -32,10 +32,10 @@ Emotion: ANTICIPATION (low) | Arc: hook
 Audio: "This raises a question that deserves more attention than it gets. What happens t"
 
 PROMPT:
-Medium tight, slow creeping push toward unknown. Physicist in 1960s office, leaning forward slightly, brow furrowed, fingers steepled in contemplation. Eyes narrow with intellectual intensity as amber side light carves shadows across face. Vintage desk lamp casts warm glow over scattered papers and slide rules. Audio: building low frequency hum, suspended tension, held breath atmosphere. Cinematic documentary, 24fps, 16:9. 8s.
+Medium tight, very slow creeping push toward unknown. Historian leans forward slightly, brow furrowed, hands gesture toward unseen diagram, expression shifting from neutral to questioning concern. Fingers trace invisible trajectory in air. Library lighting shifts to dramatic amber side light, shadows lengthen across face, atmosphere becomes charged with intellectual tension. Audio: building rhythmic pulse, suspended note, held breath. Cinematic documentary, 24fps, 16:9. 8s.
 
 NEGATIVE:
-no modern technology, no bright cheerful lighting, no relaxed posture, no cold blue tones, no generic office
+no generic stock footage, no camera drift, no flat even lighting, no passive posture, no cold blue tones
 
 --------------------------------------------------
 CLIP C004 | 00:00:24.000 -> 00:00:32.000 | 8.0s
@@ -43,11 +43,12 @@ Emotion: ANTICIPATION (low) | Arc: build_up
 Audio: "This raises a question that deserves more attention than it gets. What happens t"
 
 PROMPT:
-Medium shot, slow building push-in. Same physicist, posture shifts forward, hands open in gesture of weighing invisible consequences. Expression transitions from contemplation to dawning understanding, shadows deepen across features. Amber light intensifies, papers on desk catch edge-light, creating layered depth. Audio: rhythmic pulse builds subtly, suspended note holds, atmospheric tension accumulates. Cinematic documentary, 24fps, 16:9. 8s. Hold 3s after.
+Medium shot, very slow push-in. A figure stands at a large window overlooking a starfield display, shoulders slightly forward, hand raised to chin in contemplation. They lean closer to the glass, fingers tracing an invisible trajectory across the stars. The room is lit by amber console lights casting building shadows, creating pools of warm 3400K glow against darker corners. Audio: low rhythmic pulse, suspended synthesizer note, the sound of held breath. Cinematic documentary, 24fps, 16:9. 8s. Hold 3s after.
 
 NEGATIVE:
-no sudden movements, no bright lighting, no modern setting, no cold tones, no resolution of tension
+no talking head, no generic stock footage, no camera drift, no bright flat lighting, no cold dark visuals, no static framing
 TIMING: Hold 3s after.
+[!] NEEDS HUMAN REVIEW
 
 --------------------------------------------------
 CLIP C005 | 00:00:32.000 -> 00:00:40.000 | 8.0s
@@ -55,10 +56,10 @@ Emotion: TRUST (low) | Arc: build_up
 Audio: "The year was nineteen sixty-three. The document ran to eleven pages. Diplomats s"
 
 PROMPT:
-Medium shot, static dolly. Diplomat's hands in formal suit, placing fountain pen on treaty document with methodical precision. Posture upright, shoulders relaxed, fingers move with practiced ceremony. Even neutral light illuminates aged paper texture, official seals, formal signatures. Vintage camera flash bulbs reflect softly in polished wood table. Audio: paper slide, pen click, muted room tone, archival silence. Cinematic documentary, 24fps, 16:9. 8s.
+Medium shot, very slow static dolly. Historian at desk with aged treaty document, posture upright and formal, hands positioned symmetrically on desk surface, expression neutral and documentary-precise. Gaze directed at document with archival detachment. Even 3800K lighting creates clean professional atmosphere, cool blue-gray palette returns, suggesting historical record. Audio: quiet focused space, minimal room tone, clean silence. Cinematic documentary, 24fps, 16:9. 8s.
 
 NEGATIVE:
-no dramatic lighting, no emotional expressions, no modern pens, no color film look, no sensationalism
+no generic stock footage, no camera drift, no dramatic lighting, no emotional expression, no warm amber tones
 
 --------------------------------------------------
 CLIP C006 | 00:00:40.000 -> 00:00:48.000 | 8.0s
@@ -66,10 +67,10 @@ Emotion: SADNESS (low) | Arc: build_up
 Audio: "Somewhere in San Diego, a team of physicists watched the news broadcast and unde"
 
 PROMPT:
-Medium shot, slow pull-back. Physicist in dim 1960s office, shoulders slumped forward, hands clasped loosely on desk, gaze downward at television set casting pale glow. Expression quiet, resigned, eyes reflecting screen light. Soft muted light from window, shadows pool in corners, period furniture and blackboard equations fade into background. Audio: distant rain on glass, muffled city ambience, deep enveloping silence. Cinematic documentary, 24fps, 16:9. 8s.
+Medium shot, very slow pull-back. Physicist in dim office, shoulders slumped forward, hands hanging loosely at sides, expression distant and resigned. Head bowed slightly, gaze unfocused toward floor. Soft dim muted 3100K lighting, shadows pool in corners, window shows gray overcast sky, atmosphere of quiet defeat. Audio: quiet rain on glass, distant muffled city, deep silence. Cinematic documentary, 24fps, 16:9. 8s.
 
 NEGATIVE:
-no bright lighting, no dramatic crying, no modern technology, no warm cheerful tones, no close-up on face
+no generic stock footage, no camera drift, no bright warm lighting, no energetic posture, no optimistic atmosphere
 
 --------------------------------------------------
 CLIP C007 | 00:00:48.000 -> 00:00:56.000 | 8.0s
@@ -77,10 +78,10 @@ Emotion: SADNESS (low) | Arc: build_up
 Audio: "Somewhere in San Diego, a team of physicists watched the news broadcast and unde"
 
 PROMPT:
-Medium shot, static hold. Same physicist, posture unchanged, hands now covering lower face, eyes closed briefly then open staring at nothing. Expression carries weight of understanding, not grief but acceptance. Dim light holds steady, rain continues softly on window glass, television glow persists. Audio: sustained rain pattern, city hum distant, silence deepens. Cinematic documentary, 24fps, 16:9. 8s.
+Medium shot, very slow pull-back continues. Same physicist, posture deepens into resignation, hands now pressed flat on desk surface, expression of quiet comprehension mixed with sorrow. Eyes closed briefly, accepting weight of realization. Dim muted lighting holds, frame gradually reveals more of confined office space, creating subtle claustrophobia. Audio: quiet rain on glass, distant muffled city, deep silence. Cinematic documentary, 24fps, 16:9. 8s.
 
 NEGATIVE:
-no camera movement, no lighting change, no dramatic gestures, no bright colors, no resolution
+no generic stock footage, no camera drift, no bright lighting, no hopeful expression, no warm color palette
 
 --------------------------------------------------
 CLIP C008 | 00:00:56.000 -> 00:01:04.000 | 8.0s
@@ -88,10 +89,10 @@ Emotion: TRUST (low) | Arc: build_up
 Audio: "Rewind five years. America was building fallout shelters in suburban backyards a"
 
 PROMPT:
-Medium shot, slow dolly. Suburban family in 1950s backyard, father gesturing toward half-built fallout shelter, mother's hand on child's shoulder, postures upright with practiced optimism. Expressions carry forced confidence masking uncertainty. Even neutral daylight, white picket fence, period clothing, wooden desk visible through window. Audio: distant lawnmower, suburban birds, quiet neighborhood ambience. Cinematic documentary, 24fps, 16:9. 8s.
+Medium shot, very slow static dolly. Historian with vintage 1950s civil defense materials, posture upright and documentary-neutral, hands gesturing toward fallout shelter diagram, expression measured and factual. Fingers point to specific details with archival precision. Even 3800K lighting, cool blue-gray palette, period-appropriate props create historical authenticity. Audio: quiet focused space, minimal room tone, clean silence. Cinematic documentary, 24fps, 16:9. 8s.
 
 NEGATIVE:
-no dramatic lighting, no fear expressions, no modern clothing, no color saturation, no sensationalism
+no generic stock footage, no camera drift, no dramatic lighting, no emotional expression, no modern setting
 
 --------------------------------------------------
 CLIP C009 | 00:01:04.000 -> 00:01:12.000 | 8.0s
@@ -99,11 +100,10 @@ Emotion: TRUST (low) | Arc: deep
 Audio: "Rewind five years. America was building fallout shelters in suburban backyards a"
 
 PROMPT:
-Medium shot, completely static camera. A middle-aged man in 1950s attire stands in a modest suburban backyard, hands clasped behind his back, gazing down at a half-built concrete fallout shelter entrance with a measured, resigned expression. He shifts his weight slightly, jaw set in quiet acceptance. The backyard is orderly but sparse—trimmed grass, a wooden fence, overcast sky casting flat, even light. Audio: distant lawnmower hum, faint breeze through leaves, suburban stillness. Cinematic documentary, 24fps, 16:9. 8s. Hold 2.6s after.
+Medium shot, completely static. A person stands in a 1950s suburban living room, shoulders slightly hunched, hands clasped in front of chest, eyes downcast with furrowed brow. They slowly turn their head toward a wooden school desk in the corner, expression shifting to quiet disbelief. The room is bathed in warm amber light filtering through venetian blinds, casting striped shadows across faded wallpaper and a fallout shelter pamphlet on a side table. Audio: soft creak of floorboards, distant muffled radio static, faint hum of refrigerator. Cinematic documentary, 24fps, 16:9. 8s.
 
 NEGATIVE:
-no camera movement, no bright colors, no dramatic lighting, no talking, no children visible, no sensationalism, no fast motion, no handheld shake
-TIMING: Hold 2.6s after.
+no bright cheerful colors, no modern furniture, no digital screens, no fast movement, no talking, no dialogue
 
 --------------------------------------------------
 CLIP C010 | 00:01:12.000 -> 00:01:20.000 | 8.0s
@@ -111,10 +111,11 @@ Emotion: TRUST (low) | Arc: deep
 Audio: "Sputnik had crossed the sky the previous October, a one hundred and eighty-four-"
 
 PROMPT:
-Medium shot, completely static camera. Person at research desk, posture upright and attentive, hands gesturing subtly to emphasize scale, expression conveying measured gravity. Examining technical specifications and satellite imagery, fingers tracing orbital paths on documents. Neutral-toned archival workspace with teal accent lighting, clean documentary aesthetic, soft diffused illumination. Audio: minimal room tone, paper movement, quiet focused atmosphere. Cinematic documentary, 24fps, 16:9. 8s.
+Medium shot, very slow completely static. A historian stands near a vintage globe in a dimly lit archive room, posture upright and composed, hands clasped behind back, expression contemplative with slight concern. They gaze upward toward a small metallic sphere suspended by thin wire above, suggesting the Sputnik satellite. The environment features warm amber-lit wooden shelves with period documents and maps from 1957, creating an atmosphere of reflective gravity. Audio: quiet room tone, distant paper rustle, minimal ambient hum. Cinematic documentary, 24fps, 16:9, 1080p. 8s.
 
 NEGATIVE:
-no camera movement, no dramatic lighting, no sensationalized space race imagery, no generic stock patterns, no bright warm tones for historical trauma
+no camera drift, no generic stock patterns, no bright cheerful lighting, no modern technology, no talking head without context, no dark cold visual for positive emotion
+[!] NEEDS HUMAN REVIEW
 
 --------------------------------------------------
 CLIP C011 | 00:01:20.000 -> 00:01:28.000 | 8.0s
@@ -122,10 +123,10 @@ Emotion: TRUST (low) | Arc: deep
 Audio: "Sputnik had crossed the sky the previous October, a one hundred and eighty-four-"
 
 PROMPT:
-Medium shot, completely static camera. Person in documentary setting, shoulders slightly forward, hands folded contemplatively, expression reflecting quiet understanding. Reviewing technical reports and historical analysis, occasionally making notes with deliberate movements. Authoritative workspace with teal-accented lighting, neutral color palette, clean professional environment. Audio: soft ambient silence, occasional paper sound, clean room tone. Cinematic documentary, 24fps, 16:9. 8s. Hold 2.9s after.
+Medium shot, completely static camera. A historian in a mid-century modern archive room stands with shoulders squared, chin slightly lifted, gazing upward through a window where pale daylight filters through venetian blinds. Their hand rests thoughtfully on a wooden desk scattered with declassified documents and period newspapers with Sputnik headlines. The room glows with warm amber light from desk lamps, wood paneling and leather chairs suggesting institutional authority. A vintage globe sits in soft focus. Audio: quiet room tone, distant paper rustle, faint clock tick. Cinematic documentary, 24fps, 16:9. 8s. Hold 2.9s after.
 
 NEGATIVE:
-no camera drift, no dramatic Cold War visuals, no sensationalized framing, no generic stock footage, no bright lighting for negative historical context
+no camera movement, no dark cold lighting, no modern technology, no bright sterile environments, no talking, no dialogue, no people speaking
 TIMING: Hold 2.9s after.
 
 --------------------------------------------------
@@ -134,11 +135,10 @@ Emotion: TRUST (low) | Arc: deep
 Audio: "Washington was spending money the way wounded empires always do, frantically, on"
 
 PROMPT:
-Medium shot, completely static camera. Person at analysis desk, posture steady and composed, hands gesturing to emphasize institutional scale, expression calm but engaged. Examining budget documents and policy papers, fingers moving across financial data with precision. Bloomberg-style workspace with 3700K teal accent, neutral documentary palette, authoritative lighting. Audio: quiet focused space, minimal paper movement, clean silence. Cinematic documentary, 24fps, 16:9. 8s. Hold 3.7s after.
+Medium shot, completely static. A person sits at a desk covered with scattered papers and budget documents, hands gripping the edge of the desk, knuckles white. Their posture is forward-leaning, shoulders hunched, brow deeply furrowed, eyes darting across the papers with urgency. The room has warm amber lighting with teal accents from a desk lamp, creating a sense of institutional pressure. A wall clock shows late hours. Audio: rustle of papers, distant typewriter clacking, low ventilation hum. Cinematic documentary, 24fps, 16:9. 8s.
 
 NEGATIVE:
-no camera movement, no dramatic empire imagery, no sensationalized government visuals, no generic stock patterns, no warm bright tones
-TIMING: Hold 3.7s after.
+no relaxed posture, no bright cheerful lighting, no organized desk, no smiling, no dialogue, no voice
 
 --------------------------------------------------
 CLIP C013 | 00:01:36.000 -> 00:01:44.000 | 8.0s
@@ -146,10 +146,10 @@ Emotion: TRUST (low) | Arc: deep
 Audio: "Into this atmosphere of existential panic walked a proposal so audacious it read"
 
 PROMPT:
-Medium shot, completely static camera. Person in research environment, posture leaning slightly forward with interest, hands open in gesture of revelation, expression showing controlled fascination. Reviewing proposal documents from General Atomics, fingers tracing technical diagrams with careful attention. Neutral-toned documentary workspace with teal accent lighting, clean professional setting, soft diffused illumination. Audio: minimal room tone, quiet focused atmosphere, soft paper sounds. Cinematic documentary, 24fps, 16:9. 8s.
+Medium shot, completely static. A person stands in a clean, well-lit office space, posture straightening, shoulders back, hands gesturing outward as if presenting an idea. Their expression shifts from concentration to cautious optimism, eyes widening slightly, mouth forming the beginning of a smile. The room transitions to cooler tones with clinical white and metallic accents, teal lighting from overhead fixtures. Technical blueprints are visible on a nearby table. Audio: soft fluorescent buzz, faint paper shuffle, quiet air conditioning. Cinematic documentary, 24fps, 16:9. 8s.
 
 NEGATIVE:
-no camera drift, no sensationalized sci-fi imagery, no dramatic lighting, no generic stock footage, no bright warm tones for audacious concept
+no dark oppressive lighting, no hunched posture, no fear expression, no warm amber tones, no dialogue, no voice
 
 --------------------------------------------------
 CLIP C014 | 00:01:44.000 -> 00:01:52.000 | 8.0s
@@ -157,11 +157,10 @@ Emotion: TRUST (low) | Arc: deep
 Audio: "Not a reactor. Not a carefully contained fission process generating heat for a t"
 
 PROMPT:
-Medium shot, completely static camera. Person at technical review desk, posture upright and focused, hands emphasizing distinction with precise gestures, expression conveying measured gravity. Examining technical specifications contrasting reactor designs with weapons systems, fingers pointing to key differences in documentation. Authoritative workspace with 3700K teal lighting, neutral documentary palette, clean professional environment. Audio: quiet room tone, minimal ambient sound, clean silence. Cinematic documentary, 24fps, 16:9. 8s. Hold 3.5s after.
+Medium shot, completely static. A person stands before a large technical diagram on a wall, hands clasped behind their back, posture erect and formal. Their expression is serious and focused, eyes fixed on the diagram, jaw set with determination. The room has clinical white lighting with metallic and teal accents, creating a sterile, scientific atmosphere. Technical equipment is visible on shelves in the background. Audio: low mechanical hum, faint ventilation system, subtle electrical buzz. Cinematic documentary, 24fps, 16:9. 8s.
 
 NEGATIVE:
-no camera movement, no dramatic nuclear imagery, no sensationalized weapon visuals, no generic stock patterns, no bright warm lighting
-TIMING: Hold 3.5s after.
+no warm amber lighting, no casual posture, no emotional expression, no cluttered space, no dialogue, no voice
 
 --------------------------------------------------
 CLIP C015 | 00:01:52.000 -> 00:02:00.000 | 8.0s
@@ -169,11 +168,10 @@ Emotion: TRUST (low) | Arc: deep
 Audio: "Ejected out the back of the vehicle at three-second intervals during acceleratio"
 
 PROMPT:
-Medium shot, completely static camera. Person in analysis setting, posture engaged and attentive, hands gesturing to illustrate sequential process, expression showing focused comprehension. Reviewing technical diagrams of propulsion mechanics, fingers tracing three-second interval patterns on schematics. Bloomberg-style workspace with teal accent lighting, neutral documentary aesthetic, soft professional illumination. Audio: minimal room tone, quiet focused space, soft paper movement. Cinematic documentary, 24fps, 16:9. 8s. Hold 3.4s after.
+Medium shot, completely static. A person stands in a pristine laboratory environment, hands raised to chest level, fingers forming a sequence gesture as if counting intervals. Their expression is intensely focused, eyes narrowed in concentration, lips pressed together. The room has cool, clinical white lighting with teal and metallic accents, creating a precise, technical atmosphere. A clock on the wall emphasizes timing. Audio: soft clock ticking, faint equipment hum, subtle air filtration system. Cinematic documentary, 24fps, 16:9. 8s.
 
 NEGATIVE:
-no camera drift, no dramatic explosion imagery, no sensationalized space visuals, no generic stock footage, no bright warm tones
-TIMING: Hold 3.4s after.
+no warm lighting, no relaxed posture, no emotional expression, no cluttered background, no dialogue, no voice
 
 --------------------------------------------------
 CLIP C016 | 00:02:00.000 -> 00:02:08.000 | 8.0s
@@ -181,10 +179,10 @@ Emotion: TRUST (low) | Arc: deep
 Audio: "Ejected out the back of the vehicle at three-second intervals during acceleratio"
 
 PROMPT:
-Medium shot, completely static camera. Person at research desk, posture relaxed but engaged, hands gesturing to emphasize institutional context, expression conveying calm authority. Examining DARPA funding documents and project approvals, fingers moving across bureaucratic paperwork with deliberate precision. Neutral-toned documentary workspace with 3700K teal accent, authoritative lighting, clean professional setting. Audio: quiet focused atmosphere, minimal room tone, soft ambient silence. Cinematic documentary, 24fps, 16:9. 8s.
+Medium shot, completely static. A person stands in a clean technical workspace, posture relaxed but attentive, hands resting on a table edge, fingers drumming lightly. Their expression is contemplative with a hint of satisfaction, eyes gazing slightly upward, corners of mouth subtly lifted. The room maintains clinical white and metallic tones with teal accent lighting, creating a sense of scientific achievement. Technical documents are neatly arranged on the table. Audio: quiet paper rustle, low ventilation hum, faint distant footsteps. Cinematic documentary, 24fps, 16:9. 8s.
 
 NEGATIVE:
-no camera movement, no dramatic government imagery, no sensationalized funding visuals, no generic stock patterns, no bright warm lighting
+no dark oppressive lighting, no tense posture, no fear expression, no cluttered space, no dialogue, no voice
 
 --------------------------------------------------
 CLIP C017 | 00:02:08.000 -> 00:02:16.000 | 8.0s
@@ -192,10 +190,10 @@ Emotion: TRUST (low) | Arc: deep
 Audio: "Ejected out the back of the vehicle at three-second intervals during acceleratio"
 
 PROMPT:
-Medium shot, completely static. Person in mid-century research environment, shoulders squared, hands resting on desk with calm authority, expression focused and assured. Reviewing technical documents with deliberate, measured movements. Warm-lit institutional office with period-accurate filing cabinets and blackboard equations, atmosphere of quiet intellectual confidence. Audio: soft paper rustle, distant ventilation hum, clean room tone. Cinematic documentary, 24fps, 16:9. 8s. Hold 1.88s after.
+Medium shot, completely static camera. Engineer in 1958 office, shoulders squared, hands precisely arranging technical diagrams on drafting table, expression focused and methodical. Carefully positioning blueprint sections showing propulsion schematics, movements deliberate and confident. Sparse government office with metal desk, filing cabinets, fluorescent overhead lighting casting clean shadows, atmosphere of quiet institutional authority. Audio: soft paper rustle, distant typewriter clicks, minimal room tone. Cinematic documentary, 24fps, 16:9. 8s. Hold 1.88s after.
 
 NEGATIVE:
-no camera drift, no modern technology, no bright lighting, no rushed movements, no generic stock patterns, no talking
+generic stock footage, camera drift, talking head longer than 20s without insert, no camera drift, no generic stock patterns, no bright warm visual for negative emotion, no dark cold visual for positive emotion, no dramatic shadows, no moody lighting, no dim interiors
 TIMING: Hold 1.88s after.
 
 --------------------------------------------------
@@ -204,10 +202,10 @@ Emotion: TRUST (low) | Arc: payoff
 Audio: "The intellectual pedigree was impeccable. Stanislaw Ulam, the Polish-born mathem"
 
 PROMPT:
-Medium close-up, slow confirming push-in. Person in 1940s academic setting, posture upright with quiet pride, hands gesturing with precision, expression reflecting intellectual gravitas. Examining archival photographs and documents with reverent attention. Warm-lit study with vintage desk lamp casting golden undertones, atmosphere of historical significance and earned authority. Audio: gentle page turn, soft leather creak, minimal ambient silence. Cinematic documentary, 24fps, 16:9. 8s.
+Medium close-up, slow confirming push-in. Elderly scientist in archival photograph, dignified posture with hands clasped thoughtfully, expression of calm intellectual authority. Gaze directed slightly upward suggesting visionary thinking. Warm library setting with soft amber light illuminating aged books and framed credentials, atmosphere of reverent legacy. Audio: quiet room tone, distant clock tick, paper settling. Cinematic documentary, 24fps, 16:9. 8s.
 
 NEGATIVE:
-no camera drift, no modern elements, no cold lighting, no casual posture, no generic stock patterns, no dialogue
+no modern settings, no cold lighting, no casual posture, no talking, no dialogue, no camera drift
 
 --------------------------------------------------
 CLIP C019 | 00:02:24.000 -> 00:02:32.000 | 8.0s
@@ -215,11 +213,10 @@ Emotion: TRUST (low) | Arc: payoff
 Audio: "The intellectual pedigree was impeccable. Stanislaw Ulam, the Polish-born mathem"
 
 PROMPT:
-Medium close-up, slow confirming push-in. Person in period research office, shoulders relaxed with contemplative confidence, hands folded thoughtfully, expression of measured reflection. Gazing at framed historical photograph on desk with quiet respect. Warm-lit workspace with subtle golden glow, vintage filing system visible, atmosphere of reflective authority and historical weight. Audio: distant clock tick, soft fabric shift, clean silence. Cinematic documentary, 24fps, 16:9. 8s. Hold 3.85s after.
+Medium close-up, slow confirming push-in. Mathematician's weathered hands holding vintage fountain pen over yellowed technical document, fingers steady with practiced precision. Posture suggests decades of disciplined thought. Warm academic office with leather-bound volumes and period desk lamp casting golden light, atmosphere of timeless scholarship. Audio: pen scratch on paper, soft leather creak, ambient silence. Cinematic documentary, 24fps, 16:9. 8s.
 
 NEGATIVE:
-no camera movement beyond slow push, no bright lighting, no modern decor, no rushed energy, no generic stock patterns, no talking
-TIMING: Hold 3.85s after.
+no modern technology, no bright fluorescent lighting, no rushed movements, no talking, no dialogue
 
 --------------------------------------------------
 CLIP C020 | 00:02:32.000 -> 00:02:40.000 | 8.0s
@@ -227,10 +224,10 @@ Emotion: TRUST (low) | Arc: payoff
 Audio: "Preliminary calculations followed in a nineteen forty-seven Los Alamos memorandu"
 
 PROMPT:
-Medium close-up, slow confirming push-in. Person in 1940s Los Alamos-era office, posture upright with archival dignity, hands tracing timeline on aged document, expression of focused historical recounting. Reviewing classified memorandum with deliberate, reverent movements. Warm-lit institutional space with period filing cabinets and vintage desk accessories, atmosphere of documentary finality and historical gravitas. Audio: soft paper slide, distant ventilation, minimal room tone. Cinematic documentary, 24fps, 16:9. 8s.
+Medium close-up, very slow push-in. Weathered hands placing a declassified 1955 technical document onto a polished wooden archive table, fingers resting with quiet certainty on the typed pages. The paper shows faded diagrams and equations, edges worn from handling. Warm afternoon light filters through tall windows of a Los Alamos research library, casting soft amber glow across leather-bound volumes and filing cabinets. Dust motes drift in golden shafts. Audio: faint rustle of paper, distant ventilation hum, soft creak of wooden furniture. Cinematic documentary, 24fps, 16:9, 1080p. 8s.
 
 NEGATIVE:
-no excessive camera movement, no modern technology, no cold lighting, no casual handling, no generic stock patterns, no dialogue
+no talking heads, no modern offices, no bright fluorescent lighting, no digital screens, no camera drift, no generic stock footage, no rushed movements
 
 --------------------------------------------------
 CLIP C021 | 00:02:40.000 -> 00:02:44.070 | 4.07s
@@ -238,7 +235,7 @@ Emotion: TRUST (low) | Arc: payoff
 Audio: "Preliminary calculations followed in a nineteen forty-seven Los Alamos memorandu"
 
 PROMPT:
-Medium close-up, slow confirming push-in. Person in mid-century archival setting, posture settled with contemplative authority, hands resting on closed document folder, expression of quiet finality. Sitting back slightly with measured satisfaction, allowing historical weight to settle. Warm-lit study with subtle golden undertones, vintage desk lamp, atmosphere of documentary conclusion and earned rest. Audio: soft chair creak, distant ambient hum, clean silence. Cinematic documentary, 24fps, 16:9. 4.07s.
+Medium close-up, slow confirming push-in. Technical drawing of propulsion system on aged vellum, pencil-marked calculations visible in margins, hands in period clothing adjusting compass and ruler with methodical care. Posture suggests breakthrough moment captured in stillness. Warm archival workspace with amber desk lamp, drafting tools arranged precisely, atmosphere of quiet innovation. Audio: compass scratch, ruler tap, paper rustle. Cinematic documentary, 24fps, 16:9. 4.07s.
 
 NEGATIVE:
-no camera drift, no modern elements, no bright lighting, no rushed movements, no generic stock patterns, no talking
+no digital screens, no cold lighting, no rushed movements, no talking, no dialogue, no camera drift
