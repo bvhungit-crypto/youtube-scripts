@@ -9,10 +9,10 @@ Emotion: TRUST (low) | Arc: hook
 Audio: ""Your guilt about resting isn't a personality flaw, it's intellectual property, "
 
 PROMPT:
-Medium close-up, very slow gentle push-in. Person in clean professional environment, shoulders squared, steady gaze directly at camera with subtle intensity in eyes. Hands rest deliberately on desk surface, fingers interlaced, conveying measured authority. Soft flattering 3-point lighting creates clinical atmosphere, cool blue undertones suggest investigative precision, minimal shadows. Audio: quiet room tone, barely perceptible ambient hum, clean silence. Cinematic documentary, 24fps, 16:9. 8s.
+Medium close-up, very slow gentle push-in. Person seated at desk in minimalist office, shoulders squared, hands resting deliberately on surface, eyes steady with investigative focus. Leaning slightly forward as if sharing a confidence, fingers tapping once on document. Cool blue-lit workspace with clean lines, single desk lamp casting clinical shadows, papers visible but not prominent. Audio: soft room tone, distant HVAC hum, faint paper rustle. Cinematic documentary, 24fps, 16:9. 8s.
 
 NEGATIVE:
-no generic stock footage, no camera drift, no bright warm lighting, no casual posture, no smiling, no talking head without purpose, no distracting background movement
+no camera drift, no warm golden lighting, no bright cheerful colors, no generic office stock footage, no talking head without purpose, no soft focus
 
 --------------------------------------------------
 CLIP C002 | 00:00:08.000 -> 00:00:16.000 | 8.0s
@@ -20,11 +20,10 @@ Emotion: TRUST (low) | Arc: hook
 Audio: ""Your guilt about resting isn't a personality flaw, it's intellectual property, "
 
 PROMPT:
-Medium close-up, very slow gentle push-in. Person maintains unwavering eye contact, jaw set with quiet determination, slight forward lean suggesting controlled urgency. Hands shift to open palm gesture, fingers spread as if presenting invisible evidence. Cool blue lighting holds clinical tone, shadows deepen slightly around eyes emphasizing investigative focus. Audio: minimal room tone, soft fabric rustle, clean focused silence. Cinematic documentary, 24fps, 16:9. 8s. Hold 2.4s after.
+Medium close-up, very slow gentle push-in. Person maintains steady investigative posture, hands now clasped together, expression calm but intent, slight head tilt suggesting careful consideration. Holding eye contact, breathing measured and deliberate, no unnecessary movement. Cool blue-lit environment unchanged, clinical atmosphere sustained, shadows deepening slightly around edges. Audio: minimal room tone, near silence, subtle fabric shift. Cinematic documentary, 24fps, 16:9. 8s.
 
 NEGATIVE:
-no generic stock footage, no camera drift, no warm inviting lighting, no relaxed posture, no smiling, no excessive movement, no distracting elements
-TIMING: Hold 2.4s after.
+no camera drift, no warm inviting tones, no bright lighting, no generic stock patterns, no movement without purpose, no soft romantic atmosphere
 
 --------------------------------------------------
 CLIP C003 | 00:00:16.000 -> 00:00:24.000 | 8.0s
@@ -32,10 +31,10 @@ Emotion: TRUST (low) | Arc: build_up
 Audio: "Fourteen focus group transcripts. nineteen sixty-six. Archived in the Philip Mor"
 
 PROMPT:
-Medium shot, very slow static dolly. Person in archival research environment, aged documents visible on desk surface, fingers tracing text on yellowed paper with deliberate precision. Posture leans forward with scholarly focus, brow slightly furrowed in concentration. Lighting shifts warmer, amber tones emerge suggesting historical depth, paper textures catch soft directional light. Audio: quiet archive atmosphere, subtle paper rustle, distant ventilation hum. Cinematic documentary, 24fps, 16:9. 8s.
+Medium shot, very slow static dolly. Person at research desk, posture upright and methodical, hands moving to gesture toward vintage documents spread before them, expression focused with slight furrow of concentration. Fingers tracing lines on aged paper, pausing at specific phrases. Amber-sepia tones emerging, archival documents with visible 1960s typography, aged paper texture prominent, desk lamp casting warm investigative glow. Audio: quiet archive room, paper whisper, distant ventilation. Cinematic documentary, 24fps, 16:9. 8s.
 
 NEGATIVE:
-no generic stock footage, no camera drift, no cold clinical lighting, no modern bright office, no digital screens, no rushed movements
+no camera drift, no bright modern lighting, no generic office footage, no rushed movements, no contemporary documents, no cold sterile atmosphere
 
 --------------------------------------------------
 CLIP C004 | 00:00:24.000 -> 00:00:32.000 | 8.0s
@@ -43,10 +42,10 @@ Emotion: TRUST (low) | Arc: build_up
 Audio: "Fourteen focus group transcripts. nineteen sixty-six. Archived in the Philip Mor"
 
 PROMPT:
-Medium shot, very slow methodical dolly. Person surrounded by archival documents, hands gesture between multiple papers spread across desk, connecting invisible threads. Expression shows measured revelation, eyes moving between documents with investigative precision. Amber lighting deepens, warm tones emphasize historical weight, shadows create documentary gravitas. Audio: quiet focused space, soft paper movement, minimal ambient presence. Cinematic documentary, 24fps, 16:9. 8s.
+Medium shot, very slow static. Person leaning over archival materials, shoulders angled forward with investigative intensity, hands spreading multiple documents across surface, expression showing recognition dawning. Fingers pointing to repeated phrases across different pages, head nodding slightly in confirmation. Warmer amber lighting on aged documents, Philip Morris letterhead partially visible, 1966 date stamps clear, sepia-toned atmosphere of discovery. Audio: archive silence, soft paper movement, careful page turning. Cinematic documentary, 24fps, 16:9. 8s.
 
 NEGATIVE:
-no generic stock footage, no camera drift, no bright modern lighting, no casual environment, no digital devices, no fast movements
+no camera drift, no bright contemporary lighting, no generic stock documents, no rushed pacing, no modern office setting, no cold blue tones
 
 --------------------------------------------------
 CLIP C005 | 00:00:32.000 -> 00:00:40.000 | 8.0s
@@ -54,10 +53,10 @@ Emotion: TRUST (low) | Arc: build_up
 Audio: "Fourteen focus group transcripts. nineteen sixty-six. Archived in the Philip Mor"
 
 PROMPT:
-Medium shot, very slow static hold. Person's hands hold single aged document at center frame, fingers pointing to specific highlighted text, posture upright with scholarly authority. Face shows controlled intensity, slight head tilt suggesting careful consideration. Amber lighting peaks, warm tones saturate aged paper texture, creating historical atmosphere. Audio: quiet archive space, barely audible paper texture, clean minimal tone. Cinematic documentary, 24fps, 16:9. 8s.
+Medium shot, very slow dolly. Person's hands holding specific Philip Morris document close to camera, posture leaning back slightly in contemplation, face showing measured concern, eyes scanning text with precision. Fingers underlining key phrase, then setting document down deliberately. Amber-sepia tones intensifying, tight focus on aged paper with visible typewriter text, University of California archive stamp visible, warm investigative lighting creating depth. Audio: quiet research space, paper texture sound, distant archive ambience. Cinematic documentary, 24fps, 16:9. 8s.
 
 NEGATIVE:
-no generic stock footage, no camera movement, no cold lighting, no modern office, no digital elements, no excessive gestures
+no camera drift, no bright modern tones, no generic documents, no rushed movements, no cold clinical lighting, no contemporary office
 
 --------------------------------------------------
 CLIP C006 | 00:00:40.000 -> 00:00:48.000 | 8.0s
@@ -65,10 +64,10 @@ Emotion: TRUST (low) | Arc: build_up
 Audio: "Fourteen focus group transcripts. nineteen sixty-six. Archived in the Philip Mor"
 
 PROMPT:
-Medium shot, very slow static dolly. Person's hands place document down deliberately, fingers spread across multiple papers showing repeated phrases, posture shifts back slightly with measured revelation. Expression shows controlled concern, eyes narrow with investigative focus. Amber tones hold, documentary lighting emphasizes archival authenticity, shadows deepen around document edges. Audio: quiet focused atmosphere, soft paper settling, minimal room presence. Cinematic documentary, 24fps, 16:9. 8s. Hold 0.9s after.
+Medium shot, very slow static. Person seated with archival materials, posture relaxed but attentive, hands resting on desk edge, expression thoughtful with slight knowing look, eyes steady. Slight lean back as if letting evidence speak, breathing calm and measured. Warm amber tones sustained, documents arranged methodically in frame, vintage paper textures prominent, soft investigative lighting creating contemplative mood. Audio: archive quiet, minimal room tone, soft settling sounds. Cinematic documentary, 24fps, 16:9. 8s. Hold 0.9s after.
 
 NEGATIVE:
-no generic stock footage, no camera drift, no bright lighting, no modern setting, no digital screens, no rushed movements
+no camera drift, no bright harsh lighting, no generic stock footage, no rushed energy, no cold modern tones, no unnecessary movement
 TIMING: Hold 0.9s after.
 
 --------------------------------------------------
@@ -77,10 +76,10 @@ Emotion: TRUST (low) | Arc: deep
 Audio: "Except these focus groups happened before the advertising campaign launched. Bef"
 
 PROMPT:
-Medium shot, completely static frame. Person in authoritative environment, hands steepled at chest level, fingers pressed together with deliberate tension. Posture perfectly still, shoulders squared, expression shows controlled gravity with slight jaw tension. Lighting shifts to Bloomberg-style authority, teal accent emerges in shadows, creating data journalism aesthetic. Audio: absolute minimal room tone, near-silence with subtle HVAC whisper. Cinematic documentary, 24fps, 16:9. 8s.
+Medium shot, completely static. Person at desk, posture suddenly more upright with realization, hands gesturing with controlled emphasis, expression shifting to sharp focus, eyes widening slightly with significance. Fingers tapping timeline on document, then pulling back as if revealing crucial detail. High-contrast lighting with teal accent, stark shadows, documents now appearing more clinical and damning, Bloomberg-style authoritative atmosphere. Audio: near silence, single sharp paper tap, minimal room presence. Cinematic documentary, 24fps, 16:9. 8s.
 
 NEGATIVE:
-no generic stock footage, no camera movement, no warm inviting lighting, no casual posture, no smiling, no distracting background, no movement
+no camera movement, no warm inviting tones, no soft lighting, no generic footage, no rushed pacing, no bright cheerful atmosphere
 
 --------------------------------------------------
 CLIP C008 | 00:00:56.000 -> 00:01:04.000 | 8.0s
@@ -88,10 +87,10 @@ Emotion: TRUST (low) | Arc: deep
 Audio: "Except these focus groups happened before the advertising campaign launched. Bef"
 
 PROMPT:
-Medium shot, completely static hold. Person's hands open from steepled position to palms-up gesture, revealing invisible weight of information. Posture remains authoritative, slight forward lean emphasizing gravity of disclosure. Expression shows controlled intensity, eyes hold steady with investigative certainty. Teal-accented lighting peaks, dramatic shadows frame face, creating data journalism authority. Audio: pure minimal silence, barely perceptible room presence, clean focused atmosphere. Cinematic documentary, 24fps, 16:9. 8s.
+Medium shot, completely static. Person holding position with investigative authority, hands now folded, posture grounded and unwavering, expression grave with controlled intensity, jaw set with implication weight. Maintaining steady presence, letting silence carry meaning, slight head shake of disbelief. Stark high-contrast lighting with teal accent, clinical shadows emphasizing isolation, documents visible but secondary to human reaction, authoritative data journalism aesthetic. Audio: profound silence, barely audible breath, room tone at minimum. Cinematic documentary, 24fps, 16:9. 8s.
 
 NEGATIVE:
-no generic stock footage, no camera movement, no warm lighting, no casual demeanor, no smiling, no excessive gestures, no distracting elements
+no camera movement, no warm comforting tones, no soft romantic lighting, no generic stock patterns, no rushed energy, no bright optimistic atmosphere
 
 --------------------------------------------------
 CLIP C009 | 00:01:04.000 -> 00:01:12.000 | 8.0s
@@ -99,7 +98,7 @@ Emotion: TRUST (low) | Arc: deep
 Audio: "Except these focus groups happened before the advertising campaign launched. Bef"
 
 PROMPT:
-Medium shot, completely static. Person in relevant environment, shoulders squared with focused posture, hands resting deliberately on desk surface. Reviewing archival documents with measured attention, fingers tracing text methodically. Quiet research space with teal-accented lighting at 3700K, shadows defining depth, authoritative Bloomberg-style atmosphere. Audio: soft paper rustle, distant room tone, clean focused silence. Cinematic documentary, 24fps, 16:9. 8s.
+Medium shot, completely static. Researcher in focused posture, shoulders squared, hands resting deliberately on archival documents spread across desk surface. Fingers trace methodically across yellowed paper, pausing on specific phrases, eyes narrowed in concentrated analysis. Sparse office environment with teal-accented task lighting, shadows defining document edges, atmosphere of quiet investigative authority. Audio: soft paper rustle, distant ventilation hum, clean room silence. Cinematic documentary, 24fps, 16:9. 8s.
 
 NEGATIVE:
 no camera drift, no generic stock patterns, no talking head without insert, no bright warm lighting, no movement
@@ -110,10 +109,10 @@ Emotion: TRUST (low) | Arc: deep
 Audio: "nineteen eighty-three. Tupperware Corporation internal training documents. The p"
 
 PROMPT:
-Medium shot, completely static. Person in relevant environment, leaning forward slightly with concentrated expression, one hand gesturing toward visible Tupperware training manual on desk. Examining corporate documents with investigative focus, fingers pointing to specific text passages. Teal-accented research space at 3700K, archival materials illuminated, authoritative documentary lighting. Audio: quiet page turn, minimal ambient hum, focused workspace silence. Cinematic documentary, 24fps, 16:9. 8s. Hold 1.5s after.
+Medium shot, completely static. Investigator's hands deliberately placing 1983 Tupperware training manual beside earlier documents, posture leaning forward with controlled intensity, jaw set in recognition. Fingers tap twice on matching phrase structure, creating visual parallel between decades. Warmer amber-toned lighting begins bleeding into teal clinical base, documents arranged in chronological pattern. Audio: deliberate paper placement, quiet exhale, minimal ambient tone. Cinematic documentary, 24fps, 16:9. 8s. Hold 1.5s after.
 
 NEGATIVE:
-no camera drift, no generic stock footage, no bright warm visuals, no movement, no talking head extended
+no camera drift, no generic stock footage, no bright cheerful lighting, no rushed movement, no talking head
 TIMING: Hold 1.5s after.
 
 --------------------------------------------------
@@ -122,10 +121,10 @@ Emotion: TRUST (low) | Arc: deep
 Audio: "nineteen eighty-three. Tupperware Corporation internal training documents. The p"
 
 PROMPT:
-Medium shot, completely static. Person in relevant environment, posture upright with deliberate stillness, both hands flat on desk beside spread corporate training materials. Studying documents with sustained attention, head tilted slightly in analytical focus. Teal-accented workspace at 3700K, multiple archival papers visible, Bloomberg-style authoritative lighting. Audio: soft ambient room tone, distant ventilation hum, clean investigative silence. Cinematic documentary, 24fps, 16:9. 8s.
+Medium shot, completely static. Researcher's hands now moving with increased purpose, pulling third document into frame, shoulders tense with mounting realization, expression shifting from analysis to dawning comprehension. Documents now form clear timeline pattern, amber archival tones fully saturating the frame, teal accents receding. Audio: faster paper movement, sharp intake of breath, room tone slightly elevated. Cinematic documentary, 24fps, 16:9. 8s.
 
 NEGATIVE:
-no camera drift, no generic stock patterns, no movement, no bright warm lighting, no talking head without context
+no camera drift, no generic stock patterns, no cold clinical lighting for this warmer revelation moment, no static posture
 
 --------------------------------------------------
 CLIP C012 | 00:01:28.000 -> 00:01:36.000 | 8.0s
@@ -133,10 +132,10 @@ Emotion: TRUST (low) | Arc: deep
 Audio: "nineteen eighty-three. Tupperware Corporation internal training documents. The p"
 
 PROMPT:
-Medium shot, completely static. Person in relevant environment, shoulders relaxed with contemplative posture, hands folded thoughtfully over archival documents. Reflecting on evidence with measured stillness, gaze steady and analytical. Desaturating teal-accented space at 3700K transitioning toward neutral documentary tones, shadows softening. Audio: minimal room presence, quiet breath of space, contemplative silence. Cinematic documentary, 24fps, 16:9. 8s.
+Medium shot, completely static. Investigator's posture now fully engaged, both hands framing multiple documents simultaneously, head tilted in analytical certainty, expression grave with implication weight. Timeline of evidence fills frame edge-to-edge, warm amber tones at peak saturation, creating archival montage effect. Audio: overlapping paper rustle, deliberate breathing, focused silence underneath. Cinematic documentary, 24fps, 16:9. 8s.
 
 NEGATIVE:
-no camera drift, no generic stock footage, no bright warm visuals, no movement, no extended talking head
+no camera drift, no generic stock footage, no cool detached lighting at this peak moment, no passive posture
 
 --------------------------------------------------
 CLIP C013 | 00:01:36.000 -> 00:01:44.000 | 8.0s
@@ -144,10 +143,10 @@ Emotion: TRUST (low) | Arc: payoff
 Audio: "Peloton's two thousand and twelve investor pitch deck, leaked in a lawsuit three"
 
 PROMPT:
-Medium close-up, very slow push-in. Person in relevant environment, posture open with subtle forward lean, hands gesturing gently toward modern investor deck materials. Connecting historical pattern to contemporary evidence with deliberate focus, expression revealing quiet realization. Warm revealing light at 4000K, desaturated documentary neutrals, Peloton materials partially visible. Audio: soft paper shift, quiet workspace ambience, focused silence. Cinematic documentary, 24fps, 16:9. 8s. Hold 1.3s after.
+Medium close-up, slow confirming push-in. Researcher's face now visible, eyes locked on modern Peloton pitch deck, expression shifting from historical analysis to present-day recognition, slight head shake of disbelief. Hand reaches deliberately toward slide 47, finger hovering over exact phrase match. Lighting transitions to stark contemporary white-blue, warm amber receding. Audio: single page turn, held breath, profound quiet. Cinematic documentary, 24fps, 16:9. 8s. Hold 1.3s after.
 
 NEGATIVE:
-no camera drift, no generic stock patterns, no bright warm visuals for negative emotion, no extended talking head
+no camera drift, no generic stock footage, no warm nostalgic lighting for this stark revelation, no rushed movement
 TIMING: Hold 1.3s after.
 
 --------------------------------------------------
@@ -156,10 +155,10 @@ Emotion: TRUST (low) | Arc: payoff
 Audio: "Peloton's two thousand and twelve investor pitch deck, leaked in a lawsuit three"
 
 PROMPT:
-Medium close-up, slow confirming push-in. Person in relevant environment, shoulders settled with grounded posture, hands resting on desk beside leaked lawsuit documents. Absorbing final evidence with contemplative stillness, expression conveying sobering understanding. Warm revealing light at 4000K, fully desaturated documentary neutrals, archival credibility emphasized. Audio: minimal room tone, distant quiet, clean documentary silence. Cinematic documentary, 24fps, 16:9. 8s.
+Medium close-up, slow confirming push-in continues. Investigator's finger now resting directly on slide 47 text, posture pulled back slightly in contemplative distance, eyes scanning between modern deck and historical documents, expression weighted with implication. Stark high-contrast lighting isolates subject, shadows deepening, atmosphere of final understanding. Audio: paper settling, slow controlled exhale, room silence expanding. Cinematic documentary, 24fps, 16:9. 8s.
 
 NEGATIVE:
-no camera drift, no generic stock footage, no bright warm lighting, no movement, no talking head without insert
+no camera drift, no generic stock patterns, no warm comforting lighting, no casual posture at this grave moment
 
 --------------------------------------------------
 CLIP C015 | 00:01:52.000 -> 00:01:55.440 | 3.44s
@@ -167,7 +166,7 @@ Emotion: TRUST (low) | Arc: payoff
 Audio: "Peloton's two thousand and twelve investor pitch deck, leaked in a lawsuit three"
 
 PROMPT:
-Medium close-up, slow confirming push-in completing. Person in relevant environment, posture still and grounded, hands motionless on desk surface. Holding final revelation with complete stillness, expression conveying quiet gravity of discovery. Warm revealing light at 4000K, fully desaturated documentary neutrals, shadows defining contemplative depth. Audio: near silence, barely perceptible room presence, extended quiet. Cinematic documentary, 24fps, 16:9. 3.4s.
+Medium close-up, push-in completes to tight framing. Researcher's face now filling frame, eyes lifting from documents to meet viewer's gaze directly, expression of shared knowing, slight nod of confirmation, posture of someone delivering difficult truth. Background documents blur into abstraction, stark lighting creates dramatic isolation, atmosphere of intimate revelation. Audio: final paper placement, extended silence, barely audible room tone. Cinematic documentary, 24fps, 16:9. 3.4s.
 
 NEGATIVE:
-no camera drift, no generic stock patterns, no bright warm visuals, no movement, no extended talking head
+no camera drift, no generic stock footage, no warm reassuring lighting, no averted gaze, no passive expression
