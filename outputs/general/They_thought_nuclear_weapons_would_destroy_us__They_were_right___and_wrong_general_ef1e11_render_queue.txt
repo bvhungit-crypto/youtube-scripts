@@ -1,0 +1,251 @@
+============================================================
+VEO 3 RENDER QUEUE - They_thought_nuclear_weapons_would_destroy_us__They_were_right___and_wrong [general]
+Total clips: 24 | Duration: 00:03:08.110
+============================================================
+
+--------------------------------------------------
+CLIP C001 | 00:00:00.000 -> 00:00:08.000 | 8.0s
+Emotion: TRUST (low) | Arc: hook
+
+PROMPT:
+A clean 2D animated infographic style, flat vector illustration, cartoonish but professional. High contrast, bold colors, minimalist characters with expressive poses. The background is a consistent blue technical grid. Smooth, clean lines, no gradients. Medium close-up, very slow gentle push-in. Flat vector illustration: bold '1963' text floats center frame on blue technical grid. Minimalist cartoon diplomats in simple suits lean forward, pens poised above stylized treaty document with clean lines. Faces show calm focus, shoulders squared. One diplomat's hand hovers mid-signature, creating incomplete action. High contrast colors—navy, white, red accents. Clean 2D animated infographic style, no gradients, smooth vector lines. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no photorealism, no live-action footage, no 3D rendering, no gradients, no textured surfaces, no camera shake, no lens flares, no depth of field blur, no warm lighting on diplomatic scene
+
+--------------------------------------------------
+CLIP C002 | 00:00:08.000 -> 00:00:16.000 | 8.0s
+Emotion: TRUST (low) | Arc: hook
+
+PROMPT:
+A clean 2D animated infographic style, flat vector illustration, cartoonish but professional. High contrast, bold colors, minimalist characters with expressive poses. The background is a consistent blue technical grid. Smooth, clean lines, no gradients. Medium close-up, very slow gentle push-in. Flat vector illustration: bold mushroom cloud icon in center, thick red diagonal line crosses across it. Clean 2D animation style, high contrast—black cloud silhouette, bright red prohibition line, blue technical grid background. Minimalist design, sharp vector edges, no gradients. Icon pulses once then holds static. Professional infographic aesthetic, cartoonish but serious tone. Cinematic documentary, 24fps, 16:9. 8s. Hold 1.6s after.
+
+NEGATIVE:
+no photorealism, no live-action, no 3D effects, no particle systems, no gradients, no textured smoke, no warm tones, no dramatic lighting, no depth blur
+TIMING: Hold 1.6s after.
+
+--------------------------------------------------
+CLIP C003 | 00:00:16.000 -> 00:00:24.000 | 8.0s
+Emotion: ANTICIPATION (low) | Arc: hook
+
+PROMPT:
+A clean 2D animated infographic style, flat vector illustration, cartoonish but professional. High contrast, bold colors, minimalist characters with expressive poses. The background is a consistent blue technical grid. Smooth, clean lines, no gradients. Medium tight, very slow creeping push toward unknown. Flat vector illustration: large question mark icon grows from small to dominant center frame. Blue technical grid background. Minimalist cartoon silhouette of person stands at bottom, head tilted up toward expanding question mark, arms slightly raised in contemplative gesture. Bold amber accent on question mark edges. Clean 2D animated infographic style, high contrast, smooth vector lines, no gradients. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no photorealism, no live-action, no 3D rendering, no gradients, no textured surfaces, no lens effects, no warm overall lighting, no dark cold tones
+
+--------------------------------------------------
+CLIP C004 | 00:00:24.000 -> 00:00:32.000 | 8.0s
+Emotion: ANTICIPATION (low) | Arc: hook
+
+PROMPT:
+A clean 2D animated infographic style, flat vector illustration, cartoonish but professional. High contrast, bold colors, minimalist characters with expressive poses. The background is a consistent blue technical grid. Smooth, clean lines, no gradients. Medium tight, very slow creeping push. Flat vector illustration: stylized atomic symbols (electrons orbiting nuclei) and treaty document icons swirl in circular motion around center, then abruptly freeze mid-rotation. Blue technical grid background, amber accent highlights on frozen symbols. Minimalist 2D animation, clean vector lines, high contrast colors, no gradients. Cartoon elements suspended in incomplete arc, creating visual tension. Professional infographic style. Cinematic documentary, 24fps, 16:9. 8s. Hold 3s after.
+
+NEGATIVE:
+no photorealism, no live-action footage, no 3D rendering, no gradients, no particle effects, no lens flares, no warm lighting, no dark cold palette
+TIMING: Hold 3s after.
+
+--------------------------------------------------
+CLIP C005 | 00:00:32.000 -> 00:00:40.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+A clean 2D animated infographic style, flat vector illustration, cartoonish but professional. High contrast, bold colors, minimalist characters with expressive poses. The background is a consistent blue technical grid. Smooth, clean lines, no gradients. Medium shot, very slow static hold. Flat vector illustration: minimalist calendar page flips to bold '1963' text. Below, stylized document pages stack up in clean layers. Three cartoon diplomats in simple suits sit at rectangular table, hands gesturing in mid-conversation, faces showing calm trust with slight smiles. Blue technical grid background, high contrast navy and white palette. Clean 2D animated infographic style, smooth vector lines, no gradients. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no photorealism, no live-action, no 3D rendering, no gradients, no textured paper, no camera movement, no warm dramatic lighting, no dark cold tones
+
+--------------------------------------------------
+CLIP C006 | 00:00:40.000 -> 00:00:48.000 | 8.0s
+Emotion: SADNESS (low) | Arc: build_up
+
+PROMPT:
+A clean 2D animated infographic style, flat vector illustration, cartoonish but professional. High contrast, bold colors, minimalist characters with expressive poses. The background is a consistent blue technical grid. Smooth, clean lines, no gradients. Medium shot, very slow pull-back. Flat vector illustration: minimalist lab interior with blue technical grid. Three cartoon physicists in white coats stand facing retro TV set showing broadcast waves. Heads turn toward screen, eyes widen, shoulders slump slightly. One physicist's hand drops to side. Muted color palette—desaturated blues, grays, dim amber screen glow. Clean 2D animated infographic style, smooth vector lines, high contrast, no gradients. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no photorealism, no live-action, no 3D rendering, no gradients, no textured surfaces, no bright warm lighting, no dramatic shadows, no lens effects
+
+--------------------------------------------------
+CLIP C007 | 00:00:48.000 -> 00:00:56.000 | 8.0s
+Emotion: SADNESS (low) | Arc: build_up
+
+PROMPT:
+A clean 2D animated infographic style, flat vector illustration, cartoonish but professional. High contrast, bold colors, minimalist characters with expressive poses. The background is a consistent blue technical grid. Smooth, clean lines, no gradients. Medium shot, very slow pull-back. Flat vector close-up: three cartoon physicist faces show dawning realization—eyebrows raised, mouths slightly open, eyes focused. Thought bubbles appear above heads containing atomic symbols and crossed-out rocket icons. Muted color palette with dim amber accents. Blue technical grid background. Clean 2D animated infographic style, bold outlines, high contrast, smooth vector lines, no gradients. Professional minimalist design. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no photorealism, no live-action footage, no 3D rendering, no gradients, no textured surfaces, no bright warm overall lighting, no dramatic shadows
+
+--------------------------------------------------
+CLIP C008 | 00:00:56.000 -> 00:01:04.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+A clean 2D animated infographic style, flat vector illustration, cartoonish but professional. High contrast, bold colors, minimalist characters with expressive poses. The background is a consistent blue technical grid. Smooth, clean lines, no gradients. Medium shot, very slow static hold. Flat vector illustration: minimalist suburban house with fallout shelter icon (radiation symbol in underground bunker). Shovel digs into stylized dirt layers shown in cross-section. Cartoon figure in simple clothing leans on shovel, posture upright and methodical. High contrast colors—bright blues, whites, earth tones. Blue technical grid background. Clean 2D animated infographic style, smooth vector lines, bold outlines, no gradients. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no photorealism, no live-action, no 3D rendering, no gradients, no textured dirt, no camera movement, no warm dramatic lighting, no dark cold palette
+
+--------------------------------------------------
+CLIP C009 | 00:01:04.000 -> 00:01:12.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+A clean 2D animated infographic style, flat vector illustration, cartoonish but professional. High contrast, bold colors, minimalist characters with expressive poses. The background is a consistent blue technical grid. Smooth, clean lines, no gradients. Medium shot, very slow dolly in. Flat vector illustration: minimalist cartoon family descends stylized staircase into underground shelter. Characters drawn with bold outlines, expressive worried postures—shoulders hunched, hands gripping railings. Clean 2D animation style, high contrast colors against consistent blue technical grid background. Smooth geometric shapes, no gradients. Family pauses mid-descent, looking back—visual open loop suggesting unfinished journey. Audio: footsteps on concrete stairs, metal door creaking. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no live-action footage, no realistic people, no photographic textures, no gradients, no camera drift, no warm lighting, no 3D rendering
+
+--------------------------------------------------
+CLIP C010 | 00:01:12.000 -> 00:01:20.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+A clean 2D animated infographic style, flat vector illustration, cartoonish but professional. High contrast, bold colors, minimalist characters with expressive poses. The background is a consistent blue technical grid. Smooth, clean lines, no gradients. Medium shot, very slow static. Clean 2D animated infographic: stylized Sputnik satellite arcs across flat starry background on blue technical grid. Bold vector illustration with sharp lines, cartoonish sphere with antenna spikes. Text '184 lbs' appears in bold sans-serif typography. Minimalist Earth below shows simplified continents. Satellite trails geometric arc path—incomplete trajectory suggesting ongoing motion. Audio: electronic beeping signal, faint radio static. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no photorealistic space, no 3D models, no gradients, no camera movement, no atmospheric haze, no lens flares
+
+--------------------------------------------------
+CLIP C011 | 00:01:20.000 -> 00:01:28.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+A clean 2D animated infographic style, flat vector illustration, cartoonish but professional. High contrast, bold colors, minimalist characters with expressive poses. The background is a consistent blue technical grid. Smooth, clean lines, no gradients. Medium shot, very slow completely static. A flat vector illustration of a cartoonish aluminum sphere (Sputnik) with bold antenna lines floats in the upper third of frame against a consistent blue technical grid background. Below, minimalist cartoon faces with wide eyes and open mouths look upward, shoulders hunched forward in anxious posture. Clean 2D animated radio wave lines emanate outward from the satellite in concentric circles. High contrast blue grid environment with teal accent highlights on the sphere's surface. Audio: metallic beeping sound, radio static crackle. No voice, sound effects only. cinematic documentary, 24fps, 16:9. 8s. Hold 2.91s after.
+
+NEGATIVE:
+no realistic footage, no live-action, no photographic textures, no gradients, no soft lighting, no camera movement, no dark moody tones, no warm colors, no 3D rendering
+TIMING: Hold 2.91s after.
+
+--------------------------------------------------
+CLIP C012 | 00:01:28.000 -> 00:01:36.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+A clean 2D animated infographic style, flat vector illustration, cartoonish but professional. High contrast, bold colors, minimalist characters with expressive poses. The background is a consistent blue technical grid. Smooth, clean lines, no gradients. Medium shot, completely static. Clean 2D animated infographic: flat vector money icons (dollar bills, coins) cascade downward in geometric pattern. Stylized Capitol building centered—bold simplified dome shape with clean lines. High contrast colors on blue technical grid background. Minimalist cartoonish style, no gradients. Money icons accumulate at building base, forming growing pile—visual re-engagement through accumulation pattern. Audio: paper bills fluttering, coins clinking on surface. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no photorealistic architecture, no 3D rendering, no camera movement, no gradients, no atmospheric perspective, no live-action
+
+--------------------------------------------------
+CLIP C013 | 00:01:36.000 -> 00:01:44.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+A clean 2D animated infographic style, flat vector illustration, cartoonish but professional. High contrast, bold colors, minimalist characters with expressive poses. The background is a consistent blue technical grid. Smooth, clean lines, no gradients. Medium shot, completely static. Flat vector illustration: animated blueprint unfurls from rolled state at center frame. Clean 2D style with bold lines on blue technical grid. Atomic symbols (electron orbits) and rocket icons appear sequentially as blueprint opens. Minimalist infographic aesthetic, high contrast colors, cartoonish but professional. Blueprint edges curl slightly—paper texture suggested through flat design. Symbols pulse with simple scale animation. Audio: paper unrolling, pen scratching blueprint surface. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no photorealistic paper, no 3D depth, no gradients, no camera movement, no realistic textures, no live-action elements
+
+--------------------------------------------------
+CLIP C014 | 00:01:44.000 -> 00:01:52.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+A clean 2D animated infographic style, flat vector illustration, cartoonish but professional. High contrast, bold colors, minimalist characters with expressive poses. The background is a consistent blue technical grid. Smooth, clean lines, no gradients. Medium shot, completely static. Clean 2D animated comparison graphic: left side shows reactor icon with bold red X crossing it out. Right side highlights explosion icon with bright emphasis glow. Flat vector style, high contrast colors on blue technical grid. Minimalist cartoonish design with sharp geometric shapes. Icons drawn with thick outlines, professional infographic aesthetic. Explosion icon pulses subtly—revelation moment showing true propulsion method. Audio: buzzer sound for X, sharp metallic ping for highlight. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no photorealistic icons, no 3D rendering, no gradients, no camera movement, no atmospheric effects, no realistic fire
+
+--------------------------------------------------
+CLIP C015 | 00:01:52.000 -> 00:02:00.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+A clean 2D animated infographic style, flat vector illustration, cartoonish but professional. High contrast, bold colors, minimalist characters with expressive poses. The background is a consistent blue technical grid. Smooth, clean lines, no gradients. Medium shot, completely static. Flat vector animation: minimalist spacecraft rear view, clean geometric design. Bold outlined bombs eject in sequence from back—three bombs visible at staggered positions. Geometric explosion bursts behind each bomb—stylized radiating lines and circles, high contrast colors. Blue technical grid background throughout. 2D animation style, cartoonish but technical, smooth motion. Bombs follow parallel trajectories—rhythmic pattern suggesting ongoing propulsion cycle. Audio: mechanical ejection clicks, sharp detonation pops. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no photorealistic explosions, no 3D spacecraft, no gradients, no camera movement, no realistic fire effects, no atmospheric haze
+
+--------------------------------------------------
+CLIP C016 | 00:02:00.000 -> 00:02:08.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+A clean 2D animated infographic style, flat vector illustration, cartoonish but professional. High contrast, bold colors, minimalist characters with expressive poses. The background is a consistent blue technical grid. Smooth, clean lines, no gradients. Medium shot, completely static. Clean 2D animated diagram: stylized plasma waves rendered as bold curved lines slam into flat pusher plate. Minimalist spacecraft design with geometric shapes, high contrast colors on blue technical grid. Cartoonish but professional vector illustration. Plasma waves shown as bright radiating curves with motion lines. Plate absorbs impact with subtle vibration animation—visual revelation of force transfer mechanism. Audio: deep metallic impact thuds, plasma wave whoosh. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no photorealistic plasma, no 3D models, no gradients, no camera movement, no realistic physics simulation, no atmospheric effects
+
+--------------------------------------------------
+CLIP C017 | 00:02:08.000 -> 00:02:16.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+A clean 2D animated infographic style, flat vector illustration, cartoonish but professional. High contrast, bold colors, minimalist characters with expressive poses. The background is a consistent blue technical grid. Smooth, clean lines, no gradients. Medium shot, completely static. Flat 2D animated infographic: stylized shock absorber mechanisms compress and extend in rhythmic sequence, bold black outlines, vibrant teal and white against consistent blue technical grid background. Minimalist cartoon springs and pistons pulse with mechanical precision, expressive geometric shapes convey steady trust. Clean vector illustration style, no gradients, high contrast. Audio: metallic spring compression, hydraulic hiss. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 1.88s after.
+
+NEGATIVE:
+no live-action footage, no realistic materials, no camera drift, no gradients, no soft lighting, no photographic textures, no 3D rendering, no warm tones for negative emotion
+TIMING: Hold 1.88s after.
+
+--------------------------------------------------
+CLIP C018 | 00:02:16.000 -> 00:02:24.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+A clean 2D animated infographic style, flat vector illustration, cartoonish but professional. High contrast, bold colors, minimalist characters with expressive poses. The background is a consistent blue technical grid. Smooth, clean lines, no gradients. Medium shot, completely static. Flat vector portrait of a mid-20th century mathematician materializes center frame—minimalist cartoon face with confident expression, bold outlines, professional posture. Mathematical symbols and equations float around his head in clean white lines against blue technical grid. High contrast teal accents, cartoonish but dignified illustration style, no gradients. Audio: chalk writing on blackboard, paper rustling. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no photorealistic portrait, no camera movement, no soft focus, no warm nostalgic tones, no gradients, no live-action, no 3D elements
+
+--------------------------------------------------
+CLIP C019 | 00:02:24.000 -> 00:02:32.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+A clean 2D animated infographic style, flat vector illustration, cartoonish but professional. High contrast, bold colors, minimalist characters with expressive poses. The background is a consistent blue technical grid. Smooth, clean lines, no gradients. Medium shot, completely static. Additional flat vector physicist portraits appear beside Ulam—Frederick Reines and Cornelius Everett as minimalist cartoon figures with expressive confident poses. Atomic diagrams and connecting lines link the three figures, bold white lines on blue grid. High contrast, clean vector style, professional infographic aesthetic. Audio: pen scratching paper, document pages turning. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 3.85s after.
+
+NEGATIVE:
+no realistic photographs, no camera drift, no soft lighting, no gradients, no 3D rendering, no warm tones, no photographic textures
+TIMING: Hold 3.85s after.
+
+--------------------------------------------------
+CLIP C020 | 00:02:32.000 -> 00:02:40.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+A clean 2D animated infographic style, flat vector illustration, cartoonish but professional. High contrast, bold colors, minimalist characters with expressive poses. The background is a consistent blue technical grid. Smooth, clean lines, no gradients. Medium close-up, slow confirming push-in. Animated flat vector document with '1947 Los Alamos' text header materializes. Cartoon scientist hand (simplified geometric shape) writes equations in white on blue grid background. Mathematical formulas and diagrams appear sequentially, bold outlines, high contrast teal accents. Clean 2D infographic style, minimalist professional aesthetic. Audio: fountain pen writing, paper sliding on desk. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no photorealistic documents, no camera shake, no soft focus, no gradients, no 3D paper texture, no warm nostalgic lighting, no live-action
+
+--------------------------------------------------
+CLIP C021 | 00:02:40.000 -> 00:02:48.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+A clean 2D animated infographic style, flat vector illustration, cartoonish but professional. High contrast, bold colors, minimalist characters with expressive poses. The background is a consistent blue technical grid. Smooth, clean lines, no gradients. Medium close-up, slow confirming push-in. Flat vector document with '1947' and 'Los Alamos' text prominent. Simplified cartoon scientist hand (geometric white shape) writes flowing equations across blue grid. Mathematical symbols materialize in clean white lines, bold contrast, minimalist infographic style. Professional 2D animation, high contrast teal and white. Audio: pencil scratching paper, document rustling. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 3.93s after.
+
+NEGATIVE:
+no realistic paper texture, no camera drift, no soft lighting, no gradients, no photographic elements, no 3D rendering, no warm tones
+TIMING: Hold 3.93s after.
+
+--------------------------------------------------
+CLIP C022 | 00:02:48.000 -> 00:02:56.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+A clean 2D animated infographic style, flat vector illustration, cartoonish but professional. High contrast, bold colors, minimalist characters with expressive poses. The background is a consistent blue technical grid. Smooth, clean lines, no gradients. Medium close-up, slow confirming push-in. 2D animation: stylized geometric bomb shapes (simple cylinders with fins) eject from flat vector spacecraft rear. Bold orange and yellow shock wave rings follow in clean concentric circles against blue grid. High contrast, minimalist cartoon style, expressive geometric motion. Professional infographic aesthetic, no gradients. Audio: metallic clang, compressed air release. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no realistic explosions, no camera shake, no soft lighting, no gradients, no 3D rendering, no photographic smoke, no warm tones for negative emotion
+
+--------------------------------------------------
+CLIP C023 | 00:02:56.000 -> 00:03:04.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+A clean 2D animated infographic style, flat vector illustration, cartoonish but professional. High contrast, bold colors, minimalist characters with expressive poses. The background is a consistent blue technical grid. Smooth, clean lines, no gradients. Medium close-up, slow confirming push-in. Dynamic 2D animation: geometric plasma bursts (bold yellow-orange radiating shapes) slam into massive flat vector pusher plate (steel blue rectangle with bold outlines). High contrast impact lines radiate outward, minimalist cartoon style. Expressive geometric energy, clean vector illustration against blue technical grid. Audio: heavy metal impact, hydraulic shock absorber compression. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 2.96s after.
+
+NEGATIVE:
+no realistic plasma effects, no camera shake, no soft lighting, no gradients, no 3D rendering, no photographic fire, no warm tones
+TIMING: Hold 2.96s after.
+
+--------------------------------------------------
+CLIP C024 | 00:03:04.000 -> 00:03:08.110 | 4.11s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+A clean 2D animated infographic style, flat vector illustration, cartoonish but professional. High contrast, bold colors, minimalist characters with expressive poses. The background is a consistent blue technical grid. Smooth, clean lines, no gradients. Close-up, slow confirming push-in. 2D view: flat vector pusher plate (bold steel blue rectangle) absorbs plasma impact. Simplified white shock lines radiate outward in concentric waves, clean geometric pattern. Technical grid overlay visible, high contrast teal accents, minimalist professional infographic style. Cartoonish but authoritative, expressive geometric compression. Audio: steel plate resonating, shock wave dissipating. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 4.11s.
+
+NEGATIVE:
+no realistic metal texture, no camera shake, no soft focus, no gradients, no 3D rendering, no photographic materials, no warm tones
