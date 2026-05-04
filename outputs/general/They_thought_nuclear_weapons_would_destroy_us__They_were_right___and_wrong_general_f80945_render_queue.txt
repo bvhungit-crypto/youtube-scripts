@@ -1,0 +1,1761 @@
+============================================================
+VEO 3 RENDER QUEUE - They_thought_nuclear_weapons_would_destroy_us__They_were_right___and_wrong [general]
+Total clips: 169 | Duration: 00:22:31.600
+============================================================
+
+--------------------------------------------------
+CLIP C001 | 00:00:00.000 -> 00:00:08.000 | 8.0s
+Emotion: TRUST (low) | Arc: hook
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Medium close-up, very slow push-in. Hand-drawn treaty document on sketched table, bold black ink signatures visible in high-contrast monochrome. Clean line art with doodle-like aesthetic. Document edges slightly rough, hand-sketched texture. Camera creeps forward with reverence, revealing partial text fragments. Audio: pen scratching paper, document rustling. No voice, sound effects only. Cinematic documentary style, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no photorealism, no color, no soft gradients, no 3D rendering, no camera shake, no motion blur, no talking heads, no live-action footage
+
+--------------------------------------------------
+CLIP C002 | 00:00:08.000 -> 00:00:16.000 | 8.0s
+Emotion: TRUST (low) | Arc: hook
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Medium close-up, static hold. Hand-drawn treaty document in stark black and white, bold outlines with high contrast. Clean signatures and text fragments visible. Minimalist 2D line art, doodle aesthetic. Frame holds completely still, letting gravity of the moment settle. Document texture hand-sketched, rough edges. Audio: paper settling on wood surface. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 1.6s after.
+
+NEGATIVE:
+no photorealism, no color, no movement, no soft lighting, no 3D depth, no camera drift, no live-action
+TIMING: Hold 1.6s after.
+
+--------------------------------------------------
+CLIP C003 | 00:00:16.000 -> 00:00:24.000 | 8.0s
+Emotion: ANTICIPATION (low) | Arc: hook
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Medium tight, slow creeping push toward unknown. Hand-drawn question mark or open document fragment in monochrome line art. Round-headed figure with minimalist expressive face, brow slightly furrowed, leaning forward with curiosity. Line work looser, inviting unease. Sketched environment suggests contemplation. Figure's hand reaches toward document edge, incomplete gesture. Audio: pencil tapping desk, paper flipping. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no photorealism, no color, no bright lighting, no 3D rendering, no complete actions, no resolved gestures
+
+--------------------------------------------------
+CLIP C004 | 00:00:24.000 -> 00:00:32.000 | 8.0s
+Emotion: ANTICIPATION (low) | Arc: hook
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Medium tight, static hold. Close-up of hand-drawn text fragment reading 'What happens to...' in bold black ink. Pen nib nearby, minimalist line art. High-contrast monochrome, clean doodle aesthetic. Frame holds completely still, building anticipation. Rough hand-sketched texture on paper. Audio: pen nib scratching, ink dripping on paper. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 3s after.
+
+NEGATIVE:
+no photorealism, no color, no camera movement, no soft gradients, no 3D depth, no complete sentences visible
+TIMING: Hold 3s after.
+
+--------------------------------------------------
+CLIP C005 | 00:00:32.000 -> 00:00:40.000 | 8.0s
+Emotion: TRUST (low) | Arc: hook
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Wide shot, gentle push-in. Sketched diplomatic chamber with round-headed figures at table, minimalist expressive faces neutral and formal. Hand-drawn document between them, bold outlines. High-contrast black and white, clean line art with doodle aesthetic. Rough hand-sketched urban environment background. Figures shake hands, measured posture. Audio: hands clapping together, paper sliding on table. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no photorealism, no color, no soft lighting, no 3D rendering, no camera shake, no live-action footage
+
+--------------------------------------------------
+CLIP C006 | 00:00:40.000 -> 00:00:48.000 | 8.0s
+Emotion: SADNESS (low) | Arc: hook
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Medium shot, completely static. Round-headed physicists around sketched TV, slumped postures with shoulders dropped. Minimalist faces show downcast eyes, one hand covers face. Softer line work conveys fragility. Monochrome high-contrast, doodle aesthetic. Rough hand-sketched room with TV outline. Human vulnerability in simple lines. Audio: TV static crackling, chair creaking. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no photorealism, no color, no bright lighting, no upright postures, no 3D rendering, no camera movement
+
+--------------------------------------------------
+CLIP C007 | 00:00:48.000 -> 00:00:56.000 | 8.0s
+Emotion: SADNESS (low) | Arc: hook
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Close-up, completely static. Single round-headed physicist's minimalist face, eyes downcast, mouth a simple downturned line. High-contrast black and white, clean bold outlines. Doodle-like aesthetic conveys quiet devastation through minimal expression. Hand-sketched texture. Frame holds stillness, no movement. Audio: slow exhale, paper crumpling in hand. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no photorealism, no color, no camera movement, no bright lighting, no 3D depth, no complex facial details
+
+--------------------------------------------------
+CLIP C008 | 00:00:56.000 -> 00:01:04.000 | 8.0s
+Emotion: TRUST (low) | Arc: hook
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Medium close-up, very slow gentle push-in. A simple round-headed figure in 1960s attire stands with shoulders slightly hunched, hands clasped in front, face showing quiet concern with downturned eyes. The figure gazes at a hand-drawn blueprint of a backyard fallout shelter spread on a wooden table. Minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast and bold outlines. Sketched suburban yard visible through a window behind—rough fence lines, simple tree shapes, shelter outline in dirt. Doodle-like aesthetic with clean expressive strokes. Audio: paper rustling on table, pencil tapping wood. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 0.34s after.
+
+NEGATIVE:
+no photorealistic rendering, no color, no soft gradients, no 3D depth, no detailed textures, no live-action footage, no camera shake, no bright cheerful tones, no relaxed postures
+TIMING: Hold 0.34s after.
+
+--------------------------------------------------
+CLIP C009 | 00:01:04.000 -> 00:01:12.000 | 8.0s
+Emotion: TRUST (low) | Arc: hook
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Medium close-up, very slow push-in. Hand-drawn fallout shelter entrance in minimalist 2D line art, bold black outlines on white. Rough-sketched sandbags stacked at opening, simple geometric shapes. Camera tilts down gently toward entrance. High-contrast monochrome palette, clean doodle aesthetic. Stark archival weight in composition. Audio: sandbags scraping concrete, metal latch clicking. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no photorealism, no color, no shading, no gradients, no live-action footage, no 3D rendering, no camera drift, no soft focus, no warm tones
+
+--------------------------------------------------
+CLIP C010 | 00:01:12.000 -> 00:01:20.000 | 8.0s
+Emotion: TRUST (low) | Arc: hook
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Wide shot, slow horizontal tracking. Hand-drawn night sky in minimalist line art, bold circular Sputnik with radiating antenna lines crossing frame. Simple round satellite body, clean geometric construction. Camera tracks arc left to right across sketched starfield. High-contrast black and white, doodle-like aesthetic. Monochrome palette emphasizes historical moment. Audio: faint metallic beeping signal, radio static crackling. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no photorealism, no color, no shading, no 3D models, no live-action space footage, no camera drift, no soft atmospheric effects
+
+--------------------------------------------------
+CLIP C011 | 00:01:20.000 -> 00:01:28.000 | 8.0s
+Emotion: TRUST (low) | Arc: hook
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Close-up, static hold. Hand-drawn newspaper headline in bold 2D line art: 'SPUTNIK CROSSES SKY' in thick black letters. Simple geometric text layout, rough-sketched paper texture with minimal detail. High-contrast monochrome, clean doodle aesthetic. Archival documentary weight in composition. Camera holds steady on headline. Audio: newspaper pages rustling, pen scratching paper. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 3s after.
+
+NEGATIVE:
+no photorealism, no color photography, no shading, no live-action props, no camera movement, no soft focus, no warm tones
+TIMING: Hold 3s after.
+
+--------------------------------------------------
+CLIP C012 | 00:01:28.000 -> 00:01:36.000 | 8.0s
+Emotion: TRUST (low) | Arc: hook
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Medium shot, slight zoom in. Hand-drawn government building in minimalist line art, bold black outlines. Simple round-headed figures rushing through sketched doorways, rough urban environment. Quick gestural lines suggest urgency in movement. High-contrast monochrome palette, doodle aesthetic. Energy increases through figure motion. Audio: footsteps echoing on marble, briefcase latches snapping. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 4s after.
+
+NEGATIVE:
+no photorealism, no color, no shading, no live-action footage, no 3D rendering, no camera drift, no soft atmospheric lighting
+TIMING: Hold 4s after.
+
+--------------------------------------------------
+CLIP C013 | 00:01:36.000 -> 00:01:44.000 | 8.0s
+Emotion: TRUST (low) | Arc: hook
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Close-up, static hold. Hand-drawn document being placed on table surface in 2D line art. Bold title visible in thick black letters, simple geometric text. Minimalist hand with clean outline lowers paper onto sketched desk. High-contrast monochrome, doodle aesthetic. Deliberate placement suggests weight of proposal. Audio: paper sliding on wood, document thudding on desk. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no photorealism, no color, no shading, no live-action hands, no 3D objects, no camera movement, no soft focus, no warm lighting
+
+--------------------------------------------------
+CLIP C014 | 00:01:44.000 -> 00:01:52.000 | 8.0s
+Emotion: TRUST (low) | Arc: hook
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Medium shot, slow push-in. Hand-drawn technical diagram in minimalist line art, reactor symbol crossed out with bold X, explosion symbol emphasized with radiating lines. Clean geometric shapes, instructional clarity. High-contrast monochrome palette, doodle aesthetic. Precise line work conveys technical distinction. Audio: chalk scratching blackboard, eraser wiping surface. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 4s after.
+
+NEGATIVE:
+no photorealism, no color, no shading, no 3D diagrams, no live-action footage, no camera drift, no soft atmospheric effects
+TIMING: Hold 4s after.
+
+--------------------------------------------------
+CLIP C015 | 00:01:52.000 -> 00:02:00.000 | 8.0s
+Emotion: TRUST (low) | Arc: hook
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Dynamic medium shot, slight zoom out. Hand-drawn bombs ejecting from vehicle rear in 2D line art, bold outlines. Simple cylindrical shapes with radiating explosion lines suggesting detonation sequence. Rough-sketched spacecraft with geometric pusher plate. High-contrast monochrome, doodle aesthetic. Energy builds through sequential motion. Audio: metal clanging ejection, compressed air hissing. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 3s after.
+
+NEGATIVE:
+no photorealism, no color, no shading, no 3D spacecraft models, no live-action explosions, no camera drift, no soft lighting
+TIMING: Hold 3s after.
+
+--------------------------------------------------
+CLIP C016 | 00:02:00.000 -> 00:02:08.000 | 8.0s
+Emotion: TRUST (low) | Arc: hook
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Close-up, static hold. Hand-drawn shock wave hitting pusher plate in minimalist line art. Bold radiating lines show force transfer, clean geometric plate surface. Simple mechanical beauty in 2D, high-contrast monochrome palette. Doodle aesthetic with technical precision. Force vectors clearly illustrated. Audio: metallic impact ringing, shock absorber compressing. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no photorealism, no color, no shading, no 3D rendering, no live-action mechanics, no camera movement, no soft atmospheric effects
+
+--------------------------------------------------
+CLIP C017 | 00:02:08.000 -> 00:02:16.000 | 8.0s
+Emotion: TRUST (low) | Arc: hook
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Medium close-up, very slow push-in. Hand-drawn sketched vehicle ascending vertically in stark black and white line art, simple bold outlines. Repeated explosion bursts below rendered as radiating line patterns, each blast pushing craft upward with clean geometric force lines. Monochrome high-contrast doodle aesthetic, rough urban sketch background fading to white sky. Audio: explosion bursts, metal creaking. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no photorealism, no color, no gradients, no 3D rendering, no soft shading, no camera drift, no live-action footage
+
+--------------------------------------------------
+CLIP C018 | 00:02:16.000 -> 00:02:24.000 | 8.0s
+Emotion: TRUST (low) | Arc: hook
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Medium close-up, very slow push-in. Hand-drawn portrait of Ulam in minimalist 2D line art, round head with thoughtful expression, simple expressive face. Clean bold outlines, monochrome black and white palette. Subject's posture upright, hands folded, conveying quiet intellectual authority. Rough sketched office environment behind, high contrast doodle aesthetic. Audio: pen scratching paper. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no photorealism, no color, no shading, no 3D depth, no camera drift, no live-action, no generic stock patterns
+
+--------------------------------------------------
+CLIP C019 | 00:02:24.000 -> 00:02:32.000 | 8.0s
+Emotion: TRUST (low) | Arc: hook
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Close-up, very slow push-in. Hand-drawn chalkboard in stark black and white line art, bold equations sketched in clean strokes. Simple drawn hand holding chalk, adding symbols methodically. High-contrast monochrome palette, doodle-like aesthetic. Mathematical elegance conveyed through minimalist line work, rough urban sketch texture on board edges. Audio: chalk tapping board. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 3.85s after.
+
+NEGATIVE:
+no photorealism, no color, no gradients, no 3D rendering, no camera drift, no live-action footage
+TIMING: Hold 3.85s after.
+
+--------------------------------------------------
+CLIP C020 | 00:02:32.000 -> 00:02:40.000 | 8.0s
+Emotion: TRUST (low) | Arc: hook
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Wide shot, very slow push-in. Hand-drawn 1947 Los Alamos memo on sketched desk, bold ink text visible in clean line art, date prominent. Monochrome black and white palette, high-contrast doodle aesthetic. Rough hand-sketched office environment, simple geometric desk lines. Archival weight conveyed through stark minimalist composition. Audio: paper rustling on desk. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no photorealism, no color, no shading, no 3D depth, no camera drift, no live-action, no generic stock patterns
+
+--------------------------------------------------
+CLIP C021 | 00:02:40.000 -> 00:02:48.000 | 8.0s
+Emotion: TRUST (low) | Arc: hook
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Close-up, very slow push-in. Hand-drawn 1947 Los Alamos memo in stark black and white line art, bold ink text filling frame, clean minimalist strokes. Monochrome high-contrast palette, doodle-like aesthetic. Simple geometric paper edges, rough sketch texture. Archival weight emphasized through composition, document's significance conveyed via clean bold outlines. Audio: paper sliding on wood. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 3.93s after.
+
+NEGATIVE:
+no photorealism, no color, no gradients, no 3D rendering, no camera drift, no live-action footage
+TIMING: Hold 3.93s after.
+
+--------------------------------------------------
+CLIP C022 | 00:02:48.000 -> 00:02:56.000 | 8.0s
+Emotion: TRUST (low) | Arc: hook
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Medium shot, very slow push-in. Hand-drawn technical diagram in stark black and white line art, sketched bombs ejecting backward with simple directional arrows. Clean bold outlines, monochrome high-contrast palette. Doodle-like aesthetic, rough geometric shapes representing propulsion disks. Methodical reveal of brutal elegance through minimalist line work. Audio: metal clanking, object ejecting. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no photorealism, no color, no shading, no 3D depth, no camera drift, no live-action, no generic stock patterns
+
+--------------------------------------------------
+CLIP C023 | 00:02:56.000 -> 00:03:04.000 | 8.0s
+Emotion: TRUST (low) | Arc: hook
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Dynamic medium shot, very slow push-in. Hand-drawn plasma waves in bold radiating lines hitting sketched pusher plate, stark black and white line art. Energy transfer visualized through clean geometric force lines, high-contrast monochrome palette. Doodle-like aesthetic, simple mechanical plate with rough sketch texture. Minimalist composition emphasizing power. Audio: metal impact, pressure wave. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 2.96s after.
+
+NEGATIVE:
+no photorealism, no color, no gradients, no 3D rendering, no camera drift, no live-action footage
+TIMING: Hold 2.96s after.
+
+--------------------------------------------------
+CLIP C024 | 00:03:04.000 -> 00:03:12.000 | 8.0s
+Emotion: TRUST (low) | Arc: hook
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Close-up, very slow push-in. Hand-drawn pusher plate diagram in stark black and white line art, shock absorbers rendered as clean mechanical lines. Monochrome high-contrast palette, bold outlines emphasizing precision engineering. Doodle-like aesthetic, simple geometric components with rough sketch texture. Minimalist composition conveying technical elegance. Audio: spring compressing, metal settling. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 3.89s after.
+
+NEGATIVE:
+no photorealism, no color, no shading, no 3D depth, no camera drift, no live-action, no generic stock patterns
+TIMING: Hold 3.89s after.
+
+--------------------------------------------------
+CLIP C025 | 00:03:12.000 -> 00:03:20.000 | 8.0s
+Emotion: TRUST (low) | Arc: hook
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Medium close-up, very slow gentle push-in. Hand-drawn figure with round head and minimalist face, posture upright and steady, expression calm and focused. Figure sits at sketched desk reviewing simple line-drawn documents labeled with cosmic symbols—numbers morphing into star shapes and orbital paths. Clean monochrome workspace with bold outlines, high-contrast black and white, rough urban sketch background visible through window. Audio: pen scratching paper, pages turning. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no photorealism, no color, no soft gradients, no live-action footage, no detailed shading, no camera drift, no bright warm visuals
+
+--------------------------------------------------
+CLIP C026 | 00:03:20.000 -> 00:03:28.000 | 8.0s
+Emotion: ANTICIPATION (low) | Arc: build_up
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Medium, very slow building push-in. Hand-drawn star field with bold black outlines, Alpha Centauri labeled in clean doodle text, simple trajectory line extending into vast negative space. Minimalist round-headed figure in foreground, posture leaning forward slightly, expression anticipatory with wide eyes. Figure traces the trajectory line with one hand, gesture incomplete. High-contrast monochrome palette, rough sketched stars scattered across frame. Audio: pencil drawing on paper, ruler sliding. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 2s after.
+
+NEGATIVE:
+no photorealism, no color, no soft gradients, no live-action footage, no detailed shading, no camera drift, no bright warm visuals
+TIMING: Hold 2s after.
+
+--------------------------------------------------
+CLIP C027 | 00:03:28.000 -> 00:03:36.000 | 8.0s
+Emotion: ANTICIPATION (low) | Arc: build_up
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Medium, very slow building push-in. Hand-drawn calendar pages flipping in sequence, bold line-drawn numbers marking decades, clean minimalist frames stacking vertically. Simple round-headed figures appear in successive frames, aging subtly through posture shifts—upright to slightly bent. High-contrast black and white, doodle-like aesthetic, rough sketched background suggests passage of time. Audio: paper flipping, clock ticking. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no photorealism, no color, no soft gradients, no live-action footage, no detailed shading, no camera drift, no bright warm visuals
+
+--------------------------------------------------
+CLIP C028 | 00:03:36.000 -> 00:03:44.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Medium shot, very slow static. Side-by-side comparison: hand-drawn Orion ship outline next to naval destroyer silhouette, bold comparative lines connecting them. Simple round-headed figure stands between sketches, posture neutral and observant, hand gesturing toward ship outline. Clean monochrome palette, high-contrast black and white, rough urban sketch background. Audio: ruler tapping paper, pencil marking. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 2.5s after.
+
+NEGATIVE:
+no photorealism, no color, no soft gradients, no live-action footage, no detailed shading, no camera drift, no bright warm visuals
+TIMING: Hold 2.5s after.
+
+--------------------------------------------------
+CLIP C029 | 00:03:44.000 -> 00:03:52.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Medium shot, very slow static. Close on hand-drawn ship cross-section, structural beams and mass distribution visible in clean line work. Simple round-headed figure examines blueprint, posture leaning in, expression focused with minimalist eyes narrowed. Hand traces beam patterns, gesture deliberate. High-contrast monochrome, bold outlines, rough sketched engineering environment. Audio: pencil scratching blueprint, paper rustling. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 2.8s after.
+
+NEGATIVE:
+no photorealism, no color, no soft gradients, no live-action footage, no detailed shading, no camera drift, no bright warm visuals
+TIMING: Hold 2.8s after.
+
+--------------------------------------------------
+CLIP C030 | 00:03:52.000 -> 00:04:00.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Medium shot, very slow static. Sequence of hand-drawn figures aging across frames: round heads with minimal aging cues—posture shifts from upright to slightly stooped, simple facial lines deepen. Figures pass through sketched doorways, generational passage visualized. High-contrast black and white, clean doodle aesthetic, rough urban sketch background. Audio: footsteps on metal floor, door creaking. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 0.7s after.
+
+NEGATIVE:
+no photorealism, no color, no soft gradients, no live-action footage, no detailed shading, no camera drift, no bright warm visuals
+TIMING: Hold 0.7s after.
+
+--------------------------------------------------
+CLIP C031 | 00:04:00.000 -> 00:04:08.000 | 8.0s
+Emotion: FEAR (low) | Arc: build_up
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Medium close-up, very slow subtle drift. Dyson's round-headed figure at sketched desk, posture hunched forward, expression intense with minimalist brow furrowed. Hand grips pencil, scribbling calculations on scattered papers. High-contrast monochrome, bold outlines, rough sketched office with shadows deepening. Audio: pencil scratching paper rapidly, paper crumpling. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no photorealism, no color, no soft gradients, no live-action footage, no detailed shading, no generic stock patterns, no bright warm visuals
+
+--------------------------------------------------
+CLIP C032 | 00:04:08.000 -> 00:04:16.000 | 8.0s
+Emotion: FEAR (low) | Arc: build_up
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Medium close-up, very slow subtle drift. Taylor's simple round-headed figure examining hand-drawn bomb schematics, posture rigid and focused, expression serious with minimalist eyes narrowed. Hand points to precise line-drawn components, gesture deliberate. High-contrast black and white, bold outlines, rough sketched lab environment with shadows deepening. Audio: pencil tapping schematic, metal tool clicking. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no photorealism, no color, no soft gradients, no live-action footage, no detailed shading, no generic stock patterns, no bright warm visuals
+
+--------------------------------------------------
+CLIP C033 | 00:04:16.000 -> 00:04:24.000 | 8.0s
+Emotion: FEAR (low) | Arc: build_up
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Medium close-up, very slow subtle handheld drift. Two hand-drawn physicist figures lean over a sketched table, shoulders tense, brows furrowed in concentration. One traces calculations with a pen, the other grips the table edge, both absorbed in dangerous work. Stark black-and-white line art workspace with bold outlines, scattered technical papers, shadows deepening across the scene. Audio: pen scratching paper, pages rustling. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no photorealism, no color, no soft lighting, no relaxed postures, no bright environments, no generic office stock footage
+
+--------------------------------------------------
+CLIP C034 | 00:04:24.000 -> 00:04:32.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Medium shot, very slow static. Wide sketched desert landscape with bold horizon line, simple hand-drawn scale model resting on ground in center frame. Minimalist 2D line art with high contrast, clean outlines, empty expanse suggesting empirical isolation. Audio: wind gusting across sand. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 3.2s after.
+
+NEGATIVE:
+no photorealism, no color, no complex detail, no urban settings, no human figures, no camera movement
+TIMING: Hold 3.2s after.
+
+--------------------------------------------------
+CLIP C035 | 00:04:32.000 -> 00:04:40.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Close-up, very slow static. Hand-drawn explosive charge beneath sketched model, radiating motion lines suggest imminent detonation. Bold black-and-white line art with high contrast, controlled experiment visualized through clean geometric shapes. Audio: fuse hissing, metal creaking. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no photorealism, no color, no soft edges, no chaotic composition, no human figures, no camera drift
+
+--------------------------------------------------
+CLIP C036 | 00:04:40.000 -> 00:04:48.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Dynamic medium shot, very slow dolly forward. Sketched model lifting off ground with bold upward motion lines, trajectory arcing skyward. Minimalist 2D line art with high contrast, clean outlines, proof of concept captured in simple geometric ascent. Audio: metal scraping ground, air whooshing. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no photorealism, no color, no static framing, no complex backgrounds, no human figures, no soft lighting
+
+--------------------------------------------------
+CLIP C037 | 00:04:48.000 -> 00:04:56.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Close-up, very slow static. Hand-drawn document with bold declarative text, clean ink lines, no conditional language visible. Minimalist 2D line art with high contrast, certainty embodied in simple typographic forms. Audio: pen tapping paper, page turning. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 1.52s after.
+
+NEGATIVE:
+no photorealism, no color, no handwriting, no soft edges, no human figures, no camera movement
+TIMING: Hold 1.52s after.
+
+--------------------------------------------------
+CLIP C038 | 00:04:56.000 -> 00:05:04.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Medium shot, very slow dolly right. Sketched timeline with dates and milestones arranged linearly, bold hand-drawn markers, future treated as inevitable. Minimalist 2D line art with high contrast, clean progression from left to right. Audio: ruler sliding on paper, pencil marking. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 4.15s after.
+
+NEGATIVE:
+no photorealism, no color, no curved lines, no human figures, no soft lighting, no camera drift
+TIMING: Hold 4.15s after.
+
+--------------------------------------------------
+CLIP C039 | 00:05:04.000 -> 00:05:12.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Wide shot, very slow static. Drawn office interior with funding documents on desk, multiple physicist figures with round heads working at drafting tables, equipment sketches on walls. Minimalist 2D line art with high contrast, bold outlines, infrastructure of ambition visualized. Audio: drafting tools clicking, paper shuffling. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no photorealism, no color, no soft lighting, no empty spaces, no camera movement, no detailed faces
+
+--------------------------------------------------
+CLIP C040 | 00:05:12.000 -> 00:05:20.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Medium shot, very slow static hold. Sketched workspace with tools and blueprints arranged methodically, everything poised for execution. Minimalist 2D line art with high contrast, clean composition, anticipation frozen in stillness. Audio: clock ticking, distant footsteps. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no photorealism, no color, no human figures, no camera movement, no soft edges, no bright lighting
+
+--------------------------------------------------
+CLIP C041 | 00:05:20.000 -> 00:05:28.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Medium shot, static hold. Hand-drawn clock face in bold black lines, minimalist doodle aesthetic. Round clock with simple numerals, second hand frozen mid-tick. Stark monochrome contrast, clean white background. High-contrast line art conveys methodical precision and quiet urgency. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no photorealism, no color, no shading, no gradients, no live-action footage, no 3D rendering, no camera drift, no warm lighting for negative emotion
+
+--------------------------------------------------
+CLIP C042 | 00:05:28.000 -> 00:05:36.000 | 8.0s
+Emotion: ANTICIPATION (low) | Arc: build_up
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Medium shot, very slow push-in. Hand-drawn map of Florida coastline, rough sketched lines indicating Cuba 90 miles offshore. Minimalist doodle style, bold black outlines on white. Camera slowly advances toward the island sketch. High-contrast monochrome palette builds spatial tension. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no photorealism, no color, no shading, no satellite imagery, no live-action, no camera drift, no bright visuals for tension
+
+--------------------------------------------------
+CLIP C043 | 00:05:36.000 -> 00:05:44.000 | 8.0s
+Emotion: ANTICIPATION (low) | Arc: build_up
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Medium shot, static hold. Sketched Cuban shoreline in minimal line work, distant structures suggested by simple geometric shapes. Bold black outlines, high-contrast monochrome. Frame holds on proximity and implied threat. Clean doodle aesthetic conveys suspended anticipation. Cinematic documentary, 24fps, 16:9. 8s. Hold 3.96s after.
+
+NEGATIVE:
+no photorealism, no color, no detailed architecture, no live-action, no camera movement, no warm tones
+TIMING: Hold 3.96s after.
+
+--------------------------------------------------
+CLIP C044 | 00:05:44.000 -> 00:05:52.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Medium shot, static hold. Hand-drawn pusher plate, bold curved lines showing shallow dish shape. Clean, precise draftsmanship in minimalist 2D style. Monochrome black on white, high contrast. Technical authority conveyed through deliberate line weight and geometric precision. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no photorealism, no color, no shading, no 3D rendering, no live-action metal, no camera drift
+
+--------------------------------------------------
+CLIP C045 | 00:05:52.000 -> 00:06:00.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Close-up, static hold. Cross-section diagram of steel plate in hand-drawn line art. Thickness annotations in clean hand-lettering, six-inch measurement marked. Bold black outlines, minimalist doodle aesthetic. High-contrast monochrome conveys technical precision and methodical authority. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no photorealism, no color, no shading, no CAD rendering, no live-action, no camera movement
+
+--------------------------------------------------
+CLIP C046 | 00:06:00.000 -> 00:06:08.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Medium shot, static hold. Sketched shock absorbers, massive cylindrical forms with bold outlines. Scale suggested through comparative line weight—thick trunks versus thin background elements. Minimalist 2D hand-drawn style, monochrome black and white. High contrast conveys industrial scale and quiet confidence. Cinematic documentary, 24fps, 16:9. 8s. Hold 3.01s after.
+
+NEGATIVE:
+no photorealism, no color, no shading, no 3D models, no live-action machinery, no camera drift
+TIMING: Hold 3.01s after.
+
+--------------------------------------------------
+CLIP C047 | 00:06:08.000 -> 00:06:16.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Dynamic shot, subtle dolly. Drawn shock absorber compressing, motion lines indicating force and rhythm. Bold black outlines, minimalist doodle aesthetic. Repeated visual rhythm through sequential compression frames. High-contrast monochrome conveys kinetic energy and methodical precision. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no photorealism, no color, no shading, no 3D animation, no live-action, no excessive camera movement
+
+--------------------------------------------------
+CLIP C048 | 00:06:16.000 -> 00:06:24.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Close-up, static hold. Hand-drawn pneumatic mechanism detail—springs and pistons rendered with precise technical line work. Minimalist 2D style, bold black outlines on white. High-contrast monochrome palette. Clean draftsmanship conveys engineering confidence and deliberate design. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no photorealism, no color, no shading, no CAD rendering, no live-action, no camera drift
+
+--------------------------------------------------
+CLIP C049 | 00:06:24.000 -> 00:06:32.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Medium shot, static camera. Hand-drawn bomb casing in minimalist 2D line art, compact cylindrical form with bold black outlines. Clean annotations in simple sans-serif indicate 'Hiroshima yield' and 'sub-100 lbs' in stark white text against black background. High-contrast monochrome palette, doodle-like technical precision. Sketched environment suggests archival blueprint aesthetic with rough grid lines. Audio: pen scratching on paper, ruler sliding across surface. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no photorealistic rendering, no 3D models, no color gradients, no soft shading, no live-action footage, no camera drift, no generic stock patterns
+
+--------------------------------------------------
+CLIP C050 | 00:06:32.000 -> 00:06:40.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Wide shot, very slow dolly forward. Hand-drawn sequence diagram in minimalist 2D line art showing bomb ejection path through pusher plate. Bold arrows indicate three-second intervals with clean numerical notation '3s' repeated. Simple geometric shapes represent bomb and tungsten disk in high-contrast black and white. Rough-sketched mechanical components with doodle-like precision. Audio: mechanical click repeating, metal sliding on metal. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no photorealistic machinery, no 3D animation, no color, no soft lighting, no live-action, no camera drift, no generic stock patterns
+
+--------------------------------------------------
+CLIP C051 | 00:06:40.000 -> 00:06:48.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Medium shot, static hold. Hand-drawn ejection mechanism in minimalist 2D line art, bold black outlines emphasizing mechanical precision. Simple round components with clean geometric forms, repetitive pattern suggested by duplicated sketched elements. High-contrast monochrome palette, doodle-like technical aesthetic. Rough-sketched background suggests relentless industrial rhythm. Audio: metal clanking rhythmically, spring compression sound. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 2.46s after.
+
+NEGATIVE:
+no photorealistic machinery, no 3D rendering, no color, no soft shading, no live-action, no camera drift, no generic stock patterns
+TIMING:  Hold 2.46s after.
+
+--------------------------------------------------
+CLIP C052 | 00:06:48.000 -> 00:06:56.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Dynamic sequence, camera static. Hand-drawn explosion rendered as radiating bold black lines expanding outward from center in minimalist 2D style. Plasma cloud depicted with aggressive, energetic line work creating starburst pattern. Simple geometric pusher plate at bottom receives impact, speed lines suggesting violent motion. High-contrast monochrome palette, doodle-like explosive energy. Audio: sharp metallic impact, whooshing air displacement. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no photorealistic explosion, no 3D effects, no color, no fire textures, no live-action, no camera drift, no generic stock patterns
+
+--------------------------------------------------
+CLIP C053 | 00:06:56.000 -> 00:07:04.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Wide shot, very slow dolly right. Hand-drawn vessel trajectory in minimalist 2D line art, bold arc curving upward across frame. Speed lines trailing behind simple geometric spacecraft form with round head and clean outlines. High-contrast black and white palette, doodle-like momentum aesthetic. Rough-sketched star field in background with minimal dot patterns. Audio: low rumble fading, wind rushing past. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 3.81s after.
+
+NEGATIVE:
+no photorealistic spacecraft, no 3D rendering, no color, no soft gradients, no live-action, no camera drift, no generic stock patterns
+TIMING:  Hold 3.81s after.
+
+--------------------------------------------------
+CLIP C054 | 00:07:04.000 -> 00:07:12.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Medium shot, very slow dolly forward. Hand-drawn line art: a simple round-headed figure with calm, focused expression stands before a large sketched star field chart, one hand tracing a bold trajectory line across the paper. The figure's posture is upright, shoulders relaxed, conveying quiet confidence. Monochrome black and white with high contrast, clean bold outlines. The background is a rough-sketched observatory interior with minimal detail. Audio: pen scratching paper, ruler sliding across chart. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no photorealistic rendering, no color, no soft gradients, no live-action footage, no camera shake, no warm lighting, no talking heads, no generic stock patterns
+
+--------------------------------------------------
+CLIP C055 | 00:07:12.000 -> 00:07:20.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Medium shot, very slow dolly in. Hand-drawn portrait of Dyson in minimalist 2D line art, simple round head with minimal facial features. Clean bold outlines, expressive eyes gazing directly forward with calm intellectual authority. High-contrast monochrome palette, doodle-like character aesthetic. Rough-sketched office environment with simple desk lines in background. Audio: paper rustling, pen tapping on desk. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 4.01s after.
+
+NEGATIVE:
+no photorealistic portrait, no 3D rendering, no color, no soft shading, no live-action, no camera drift, no generic stock patterns
+TIMING:  Hold 4.01s after.
+
+--------------------------------------------------
+CLIP C056 | 00:07:20.000 -> 00:07:28.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Close-up, very slow push in. Hand-lettered quote on paper in minimalist 2D line art, bold black ink reading 'most efficient propulsion system physically possible.' Simple sans-serif hand-drawn letters with clean outlines. High-contrast monochrome palette, doodle-like typographic aesthetic. Rough-sketched paper texture with minimal detail. Camera slowly pushes toward the word 'efficient.' Audio: pen scratching paper, page turning. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no photorealistic text, no 3D rendering, no color, no soft shading, no live-action, no camera drift, no generic stock patterns
+
+--------------------------------------------------
+CLIP C057 | 00:07:28.000 -> 00:07:36.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Medium shot, very slow dolly forward. Hand-drawn figure with round head and minimalist face, shoulders squared, posture upright and steady, hands resting calmly on desk. Figure gazes down at sketched technical blueprint with focused, composed expression. Clean black line work on white background, bold outlines, doodle-like aesthetic. Rough hand-sketched office environment with simple desk and chair. Audio: pen scratching paper, pages turning. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no photorealism, no color, no shading, no gradients, no live-action footage, no camera drift, no generic stock patterns, no bright warm visuals
+
+--------------------------------------------------
+CLIP C058 | 00:07:36.000 -> 00:07:44.000 | 8.0s
+Emotion: FEAR (low) | Arc: build_up
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Medium close-up, very slow subtle handheld drift. Hand-drawn figure with round head, brow slightly furrowed, shoulders tense, hands gripping edges of sketched blueprint. Figure leans forward, expression contemplative with hint of unease. Monochrome black and white palette, high contrast bold outlines, minimalist doodle style. Rough sketched workspace with angular shadows deepening. Audio: paper rustling, pencil tapping desk. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no photorealism, no color, no shading, no gradients, no live-action footage, no camera drift, no generic stock patterns, no dark cold visuals for positive emotion
+
+--------------------------------------------------
+CLIP C059 | 00:07:44.000 -> 00:07:52.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Wide shot, very slow static. Hand-drawn Point Loma test site, bold horizon line, simple launch pad with small-scale model rocket. Clean black outlines, high contrast monochrome palette, doodle-like aesthetic. Figure with round head stands at distance, posture relaxed, hands at sides, observing. Rough sketched coastal environment with minimal detail. Audio: metal clanking, wind whistling through structure. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no photorealism, no color, no shading, no gradients, no live-action footage, no camera drift, no generic stock patterns
+
+--------------------------------------------------
+CLIP C060 | 00:07:52.000 -> 00:08:00.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Medium shot, very slow dolly forward. A hand-drawn rocket model with bold black outlines hovers mid-flight against a stark white sky, motion lines trailing minimally from its base. The sketched pusher plate is visible beneath, shock absorbers rendered as simple coiled springs. Below, rough line-drawn cliffs of Point Loma overlook a minimalist Pacific horizon. The model's ascent is frozen at apex, capturing the precise moment theory crystallized into proof. Clean monochrome palette, high contrast between vehicle and empty sky. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no photorealistic textures, no color gradients, no live-action footage, no soft shading, no camera shake, no motion blur, no 3D rendering, no detailed mechanical parts, no atmospheric haze
+
+--------------------------------------------------
+CLIP C061 | 00:08:00.000 -> 00:08:08.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Wide shot, very slow static. Hand-drawn Point Loma coastline, bold horizon line dividing sky and ocean, clean black outlines. Simple sketched test range with minimal structures, doodle-like aesthetic. High contrast monochrome palette. Rough hand-sketched Pacific waves with horizontal line work. Audio: waves crashing on rocks, seagulls calling. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no photorealism, no color, no shading, no gradients, no live-action footage, no camera drift, no generic stock patterns
+
+--------------------------------------------------
+CLIP C062 | 00:08:08.000 -> 00:08:16.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Medium shot, very slow static. Hand-drawn film projector casting light beam, bold radiating lines. Simple drawn model rocket rising with wobbly trajectory lines, clean black outlines on white background. Minimalist doodle aesthetic, high contrast monochrome palette. Rough sketched projection room with angular shadows. Audio: film reel clicking, projector whirring. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no photorealism, no color, no shading, no gradients, no live-action footage, no camera drift, no generic stock patterns
+
+--------------------------------------------------
+CLIP C063 | 00:08:16.000 -> 00:08:24.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Close-up, very slow static. Hand-drawn explosion plumes beneath rising model, bold radiating lines and concentric circles. Simple rocket shape ascending, clean black outlines on white background. Minimalist doodle aesthetic, high contrast monochrome palette. Rough sketched sky with motion lines. Audio: explosion rumble, debris scattering. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no photorealism, no color, no shading, no gradients, no live-action footage, no camera drift, no generic stock patterns
+
+--------------------------------------------------
+CLIP C064 | 00:08:24.000 -> 00:08:32.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Medium shot, very slow static. Hand-drawn mission timeline chart on wall, clean horizontal lines connecting dates and milestones. Simple text labels in bold black outlines, doodle-like aesthetic. High contrast monochrome palette. Figure with round head stands before chart, posture upright, hands clasped behind back, expression focused. Rough sketched office wall. Audio: marker squeaking on whiteboard, footsteps on floor. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no photorealism, no color, no shading, no gradients, no live-action footage, no camera drift, no generic stock patterns
+
+--------------------------------------------------
+CLIP C065 | 00:08:32.000 -> 00:08:40.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Medium shot, very slow dolly forward. Hand-drawn calendar pages in minimalist 2D line art, bold black numerals marking 1964, 1968, 1970 in stark ink. Simple round-headed figure with calm, focused expression traces dates with finger, posture upright and methodical. Clean monochrome environment with sketched desk and paper textures, high-contrast black and white palette suggesting archival precision. Audio: pen scratching paper, page turning. No voice, sound effects only. Cinematic documentary, 24fps, 16:9.
+
+NEGATIVE:
+no photorealistic rendering, no 3D depth, no color gradients, no soft shading, no camera drift, no generic stock patterns
+
+--------------------------------------------------
+CLIP C066 | 00:08:40.000 -> 00:08:48.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Wide shot, very slow static hold. Sketched generation ship blueprint in minimalist 2D line art, vast cylindrical vessel drawn with bold outlines against negative space dotted with minimal stars. Simple round-headed engineer figure with steady, contemplative posture leans over blueprint, hand resting on edge. Monochrome black and white palette, high-contrast clean lines suggesting immense scale and ambition. Audio: pencil sketching on paper, ruler sliding. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. Hold 2.14s after.
+
+NEGATIVE:
+no photorealistic spacecraft, no 3D modeling, no color, no soft lighting, no camera movement, no generic sci-fi tropes
+TIMING:  Hold 2.14s after.
+
+--------------------------------------------------
+CLIP C067 | 00:08:48.000 -> 00:08:56.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Medium shot, very slow dolly in. Hand-drawn star chart in minimalist 2D line art, Alpha Centauri circled in bold ink with distance notation '4 light-years' in clean lettering. Simple round-headed figure with calm, focused expression points to circled star, posture upright and deliberate. Monochrome black and white palette, high-contrast clean lines, sketched background of minimal constellations. Audio: pen tapping paper, ruler clicking. No voice, sound effects only. Cinematic documentary, 24fps, 16:9.
+
+NEGATIVE:
+no photorealistic stars, no 3D space, no color gradients, no soft glow, no camera drift, no generic astronomy visuals
+
+--------------------------------------------------
+CLIP C068 | 00:08:56.000 -> 00:09:04.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Dynamic tracking shot, slow dolly along trajectory line. Hand-drawn trajectory in minimalist 2D line art, bold black line arcing from sketched Earth to distant star system. Simple round-headed figure with steady, contemplative expression traces line with finger, posture leaning forward with quiet determination. Monochrome black and white palette, high-contrast clean lines, negative space suggesting vast distance. Audio: finger sliding on paper, pencil drawing line. No voice, sound effects only. Cinematic documentary, 24fps, 16:9.
+
+NEGATIVE:
+no photorealistic planets, no 3D space, no color, no soft shading, no camera drift, no generic space visuals
+
+--------------------------------------------------
+CLIP C069 | 00:09:04.000 -> 00:09:12.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Close-up, completely static hold. Hand-drawn ship silhouette in minimalist 2D line art, bold black outline of massive cylindrical vessel against stark white negative space. Simple round-headed figure with calm, focused expression stands beside silhouette for scale, posture upright and still. Monochrome black and white palette, high-contrast clean lines suggesting immense ambition and scale. Audio: pencil tapping paper, breath exhale. No voice, sound effects only. Cinematic documentary, 24fps, 16:9.
+
+NEGATIVE:
+no photorealistic spacecraft, no 3D rendering, no color, no soft lighting, no camera movement, no generic sci-fi designs
+
+--------------------------------------------------
+CLIP C070 | 00:09:12.000 -> 00:09:20.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Medium shot, completely static hold. Sketched purchase order documents in minimalist 2D line art, stacked papers with bold official stamps and signatures visible. Simple round-headed figure with calm, methodical expression reviews documents, hand resting on stack, posture upright and deliberate. Monochrome black and white palette, high-contrast clean lines, sketched desk environment suggesting bureaucratic precision. Audio: paper shuffling, stamp pressing. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. Hold 1.32s after.
+
+NEGATIVE:
+no photorealistic paper, no 3D depth, no color, no soft shading, no camera movement, no generic office stock footage
+TIMING:  Hold 1.32s after.
+
+--------------------------------------------------
+CLIP C071 | 00:09:20.000 -> 00:09:28.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Close-up, completely static hold. Hand-drawn memo header in minimalist 2D line art, bold text reading 'Astronaut Recruitment' in clean typewriter-style lettering. Simple round-headed figure with focused, contemplative expression reads memo, hand holding paper edge, posture upright and still. Monochrome black and white palette, high-contrast clean lines, sketched paper texture suggesting official formality. Audio: paper rustling, pen clicking. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. Hold 1.24s after.
+
+NEGATIVE:
+no photorealistic paper, no 3D depth, no color, no soft lighting, no camera movement, no generic document visuals
+TIMING:  Hold 1.24s after.
+
+--------------------------------------------------
+CLIP C072 | 00:09:28.000 -> 00:09:36.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Medium shot, completely static hold. Sketched DARPA budget ledger in minimalist 2D line art, bold line items and dollar figures in stark columns. Simple round-headed figure with calm, focused expression reviews ledger, finger tracing column, posture upright and methodical. Monochrome black and white palette, high-contrast clean lines, sketched desk environment suggesting financial gravity. Audio: pencil marking paper, calculator clicking. No voice, sound effects only. Cinematic documentary, 24fps, 16:9.
+
+NEGATIVE:
+no photorealistic documents, no 3D depth, no color, no soft shading, no camera movement, no generic financial stock footage
+
+--------------------------------------------------
+CLIP C073 | 00:09:36.000 -> 00:09:44.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Medium shot, completely static. Hand-drawn line art document in monochrome black and white, bold clean outlines. Page reads 'Operational Budget' in stark handwritten capitals, underlined twice with heavy ink strokes. Pen nib rests beside the text, implying recent completion. High-contrast doodle aesthetic, authoritative and deliberate. Audio: pen scratching paper, pen cap clicking. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no camera movement, no color, no photorealism, no soft focus, no warm tones, no human figures, no talking, no ambient wash
+
+--------------------------------------------------
+CLIP C074 | 00:09:44.000 -> 00:09:52.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Wide shot, completely static. Minimalist 2D hand-drawn government office interior, monochrome black and white with high contrast. Sketched filing cabinets line the walls, desks with simple geometric forms, papers stacked in rough doodle style. Clean bold outlines convey bureaucratic weight and institutional scale. Empty chairs suggest unseen momentum. Audio: filing cabinet drawer sliding, paper rustling. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 3s after.
+
+NEGATIVE:
+no camera drift, no color, no realistic textures, no people, no dialogue, no ambient hum, no music
+TIMING: Hold 3s after.
+
+--------------------------------------------------
+CLIP C075 | 00:09:52.000 -> 00:10:00.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Medium shot, completely static. Hand-drawn organizational chart in bold black ink on white background, high-contrast doodle aesthetic. Boxes connected by clean straight lines, hierarchical structure with simple labels. Minimalist line art style, authoritative and precise. Chart implies scale and complexity through geometric clarity. Audio: pen drawing lines on paper, ruler sliding. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 3s after.
+
+NEGATIVE:
+no camera movement, no color gradients, no photorealism, no human figures, no voice, no room tone
+TIMING: Hold 3s after.
+
+--------------------------------------------------
+CLIP C076 | 00:10:00.000 -> 00:10:08.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Medium shot, completely static. Minimalist 2D hand-drawn physicist at desk, round head with simple expressive face showing concentration, hunched posture over sketched calculations. Monochrome black and white, bold clean outlines. Papers scattered in doodle style, pen in hand mid-calculation. High-contrast line art conveys meticulous focus. Audio: pen scratching paper, paper sliding on desk. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no camera drift, no color, no realistic shading, no talking, no ambient background, no music
+
+--------------------------------------------------
+CLIP C077 | 00:10:08.000 -> 00:10:16.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Close-up, completely static. Hand-drawn fallout dispersion diagram in bold black ink, monochrome high-contrast doodle aesthetic. Radiating lines spread from central point, wind pattern arrows in clean geometric strokes. Minimalist 2D line art, authoritative and precise. Diagram conveys invisible danger through stark visual clarity. Audio: pen drawing on paper, ruler tapping. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no camera movement, no color, no photorealism, no human figures, no voice, no ambient wash
+
+--------------------------------------------------
+CLIP C078 | 00:10:16.000 -> 00:10:24.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Extreme close-up, completely static. Hand-drawn numerical calculations in clean handwritten figures, monochrome black and white with high contrast. Bold ink strokes form precise numbers and equations, doodle-like aesthetic with meticulous detail. Minimalist line art conveys care and exactitude. Audio: pen scratching paper, pen nib tapping. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no camera drift, no color, no realistic textures, no human figures, no dialogue, no room tone
+
+--------------------------------------------------
+CLIP C079 | 00:10:24.000 -> 00:10:32.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Medium shot, completely static. Hand-drawn report page in monochrome black and white, bold clean outlines. Heading reads 'Statistical Casualties' in stark handwritten capitals, single number written below in heavy ink. High-contrast doodle aesthetic, authoritative and grave. Minimalist 2D line art conveys weight through simplicity. Audio: pen writing on paper, paper settling on desk. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 2s after.
+
+NEGATIVE:
+no camera movement, no color, no photorealism, no human figures, no voice, no ambient background
+TIMING: Hold 2s after.
+
+--------------------------------------------------
+CLIP C080 | 00:10:32.000 -> 00:10:40.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Close-up, completely static. Sketched hand in minimalist 2D line art placing report into filing cabinet drawer, monochrome black and white with high contrast. Bold clean outlines, simple round fingers, softer line work conveys deliberate weight. Doodle aesthetic, authoritative and somber. Audio: paper sliding into drawer, drawer closing. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no camera drift, no color, no realistic shading, no talking, no ambient wash, no music
+
+--------------------------------------------------
+CLIP C081 | 00:10:40.000 -> 00:10:48.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Medium shot, completely static. Hand-drawn spreadsheet with bold black casualty numbers, pen resting mid-calculation. Simple round-headed figure's hand hovers over paper, fingers slightly curled in methodical focus. Pen marks final number with deliberate stroke. Stark monochrome office with rough-sketched desk and window outline, high-contrast shadows suggest weight of decision. Audio: pen scratching paper, single tap on desk. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no color, no photorealism, no soft lighting, no movement, no ambient music, no voice
+
+--------------------------------------------------
+CLIP C082 | 00:10:48.000 -> 00:10:56.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Medium shot, completely static. Split frame: two hand-drawn clocks with bold outlines, left shows 1960s time, right shows modern time. Minimalist round-headed figure stands between frames, posture neutral, hands clasped in contemplation. Figure's gaze shifts subtly between clocks. Clean black-white contrast, negative space sky above, rough-sketched horizon below. Audio: clock ticking twice, pause. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 2.5s after.
+
+NEGATIVE:
+no color, no photorealism, no warm tones, no camera movement, no music, no narration
+TIMING: Hold 2.5s after.
+
+--------------------------------------------------
+CLIP C083 | 00:10:56.000 -> 00:11:04.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Wide shot, completely static. Rough-sketched Berlin Wall rising in bold vertical lines, dividing frame into stark halves. Simple round-headed guard figure in silhouette atop tower, posture rigid, hands gripping railing. Wall's geometry dominates, high-contrast black against white sky. Minimalist urban sketch with angular buildings in background. Audio: concrete scraping, metal gate clanging. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 1.4s after.
+
+NEGATIVE:
+no color, no photorealism, no soft edges, no camera drift, no ambient wash, no voice
+TIMING: Hold 1.4s after.
+
+--------------------------------------------------
+CLIP C084 | 00:11:04.000 -> 00:11:12.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Medium shot, completely static camera. Hand-drawn line art: sketched guard tower silhouette in bold black strokes against stark white negative space sky. Minimalist doodle-style watchtower with simple geometric forms—ladder rungs, platform edges, searchlight outline. Clean, high-contrast monochrome. Tower stands isolated, no human figures. Faint horizontal lines suggest distant horizon. Style: 2D hand-drawn animation, bold outlines, archival documentary aesthetic. Audio: wind whistling through metal structure. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no realistic footage, no photographic textures, no color, no gradients, no shading, no live-action, no camera movement, no warm tones, no bright lighting, no people visible, no dialogue, no music
+
+--------------------------------------------------
+CLIP C085 | 00:11:12.000 -> 00:11:20.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Medium shot, completely static. Hand-drawn map of Cuba and Florida with bold dotted missile trajectory lines arcing between them. Simple round-headed figure's hand points to '90 miles' text, fingers tense. Urgent, precise line work, high-contrast black on white. Rough-sketched compass rose and scale markers. Audio: pencil marking map, ruler sliding on paper. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 3s after.
+
+NEGATIVE:
+no color, no photorealism, no camera movement, no soft focus, no ambient tone, no voice
+TIMING: Hold 3s after.
+
+--------------------------------------------------
+CLIP C086 | 00:11:20.000 -> 00:11:28.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Close-up, completely static. Sketched missile silo cross-section diagram with clean, precise technical lines. Round-headed figure's hand traces silo depth with pen, posture leaning forward in focused analysis. Bold black ink on white, high-contrast hatching suggests underground threat. Minimalist technical drawing aesthetic. Audio: pen tapping diagram, paper rustling. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no color, no photorealism, no movement, no warm tones, no music, no narration
+
+--------------------------------------------------
+CLIP C087 | 00:11:28.000 -> 00:11:36.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Wide shot, completely static. Drawn coastline with bold '90 miles' text centered in frame. Simple round-headed figure stands on sketched shore, arms at sides, gaze toward horizon. Stark spatial relationship emphasized by negative space between landmasses. High-contrast monochrome, rough-sketched waves and distant land. Audio: waves lapping shore, distant seagull cry. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 2.4s after.
+
+NEGATIVE:
+no color, no photorealism, no camera drift, no soft lighting, no ambient music, no voice
+TIMING: Hold 2.4s after.
+
+--------------------------------------------------
+CLIP C088 | 00:11:36.000 -> 00:11:44.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Medium shot, completely static. Sketched desk piled with ignored Orion reports, sparse hatching implies dust. Round-headed figure's hand rests on separate urgent document, fingers spread in prioritization. Posture suggests abandonment of one task for another. High-contrast monochrome, bold outlines, minimalist office sketch. Audio: paper shuffling, file drawer closing. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no color, no photorealism, no movement, no warm tones, no ambient wash, no dialogue
+
+--------------------------------------------------
+CLIP C089 | 00:11:44.000 -> 00:11:52.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Medium shot, completely static. Hand-drawn treaty document dated August 5, 1963, bold black ink signatures and official seals sketched in clean monochrome lines. The paper lies flat on a simple desk surface, high-contrast black and white palette with sharp outlines. Minimalist doodle-like aesthetic, authoritative composition with geometric precision. Audio: pen scratching paper, document rustling. No voice, sound effects only. Cinematic documentary style, 24fps, 16:9. 8s. Hold 2.27s after.
+
+NEGATIVE:
+no color, no photorealism, no camera movement, no people visible, no warm tones, no soft lighting, no decorative elements
+TIMING: Hold 2.27s after.
+
+--------------------------------------------------
+CLIP C090 | 00:11:52.000 -> 00:12:00.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Wide shot, completely static. Three hand-drawn flags side by side—US, UK, USSR—rendered in bold monochrome line art with clean geometric shapes. High-contrast black and white, minimalist doodle aesthetic with symbolic unity in composition. Flags stand on simple sketched poles against blank background, authoritative framing with balanced negative space. Audio: fabric flapping, flagpole creaking. No voice, sound effects only. Cinematic documentary style, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no color, no photorealism, no camera drift, no people, no warm atmosphere, no decorative flourishes, no movement
+
+--------------------------------------------------
+CLIP C091 | 00:12:00.000 -> 00:12:08.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Extreme close-up, completely static. Simple round-headed figure's hand reaching toward sketched rotary phone, fingers extended but not yet touching. Monochrome line art with hesitant line weight variation suggesting pause. High-contrast black and white, minimalist doodle aesthetic, hand drawn with expressive uncertainty in posture. Audio: hand sliding on desk surface. No voice, sound effects only. Cinematic documentary style, 24fps, 16:9. 8s. Hold 5.9s after.
+
+NEGATIVE:
+no color, no photorealism, no completed action, no camera movement, no warm tones, no background detail
+TIMING: Hold 5.9s after.
+
+--------------------------------------------------
+CLIP C092 | 00:12:08.000 -> 00:12:16.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Medium shot, very slow completely static. Hand-drawn telephone receiver held in frame, simple round-headed figure's hand gripping it with calm, steady posture. Concentric circles radiate from earpiece in repetitive, mechanical rhythm—visual representation of dial tone. Minimalist 2D line art environment: sketched desk corner, bold black outlines, high-contrast monochrome palette. Audio: rotary dial clicking, receiver settling into cradle. No voice, sound effects only. cinematic documentary, 24fps, 16:9. 8s. Hold 1.32s after.
+
+NEGATIVE:
+no realistic photography, no color, no soft gradients, no camera movement, no warm lighting, no human voice, no ambient hum, no room tone
+TIMING: Hold 1.32s after.
+
+--------------------------------------------------
+CLIP C093 | 00:12:16.000 -> 00:12:24.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Medium shot, completely static. Minimalist round-headed figure in profile holding phone receiver to ear, expression blank with simple dot eyes and neutral line mouth. High-contrast monochrome line art, stark black and white palette with bold clean outlines. Doodle-like aesthetic, emotional void conveyed through minimal facial features and rigid posture. Audio: telephone receiver clicking, breathing. No voice, sound effects only. Cinematic documentary style, 24fps, 16:9. 8s. Hold 3.68s after.
+
+NEGATIVE:
+no color, no photorealism, no camera movement, no detailed expressions, no warm tones, no background activity
+TIMING: Hold 3.68s after.
+
+--------------------------------------------------
+CLIP C094 | 00:12:24.000 -> 00:12:32.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Insert shot, completely static. Hand-drawn calendar page with three bold X marks crossing out consecutive days. Monochrome line art with high-contrast black and white, clean geometric hash marks indicating time passage. Minimalist doodle aesthetic, authoritative precision in mark-making. Audio: pen marking paper, page turning. No voice, sound effects only. Cinematic documentary style, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no color, no photorealism, no camera movement, no decorative elements, no warm tones, no soft edges
+
+--------------------------------------------------
+CLIP C095 | 00:12:32.000 -> 00:12:40.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Close-up, completely static. Hand-drawn clock face showing 72-hour elapsed time with simple hash marks at intervals. Bold monochrome line art, high-contrast black and white with mechanical precision in line weight. Minimalist doodle aesthetic, geometric accuracy conveying authoritative measurement. Audio: clock ticking, mechanical clicking. No voice, sound effects only. Cinematic documentary style, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no color, no photorealism, no camera movement, no decorative numerals, no warm atmosphere, no irregular shapes
+
+--------------------------------------------------
+CLIP C096 | 00:12:40.000 -> 00:12:48.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Wide shot, completely static. Empty sketched office interior with three coffee cups on simple desk surface, rough hand-drawn urban environment visible through window outline. Monochrome line art with high-contrast black and white, bold clean outlines. Minimalist doodle aesthetic, accumulated objects suggesting passage of time through spatial arrangement. Audio: coffee cup settling on desk, paper rustling. No voice, sound effects only. Cinematic documentary style, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no color, no photorealism, no camera movement, no people present, no warm lighting, no decorative details
+
+--------------------------------------------------
+CLIP C097 | 00:12:48.000 -> 00:12:56.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Medium shot, completely static. Hand-drawn treaty document in minimalist 2D line art, eleven pages stacked with bold page numbers visible in clean black ink. Round-headed figure with simple expressive face leans forward, shoulders slightly hunched, eyes narrowed in focused concentration. Finger traces down each sketched page searching for text that isn't there. Stark monochrome office environment with rough hand-sketched desk and angular window frames, high contrast shadows. Audio: paper rustling, finger sliding on paper. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 1.5s after.
+
+NEGATIVE:
+no photorealistic rendering, no 3D elements, no color gradients, no soft shading, no camera drift, no generic stock patterns, no bright warm visuals
+TIMING: Hold 1.5s after.
+
+--------------------------------------------------
+CLIP C098 | 00:12:56.000 -> 00:13:04.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Close-up insert shot, completely static. Magnifying glass held over hand-drawn treaty text in bold black line art, clean hand-lettered clauses visible beneath the lens. Round-headed figure's hand grips the magnifying glass handle with firm deliberate posture. The lens circles slowly over specific sections where 'Orion' should appear but doesn't. Minimalist sketched desk surface with stark white background, high contrast black outlines. Audio: magnifying glass sliding on paper, pen tapping desk. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no photorealistic glass refraction, no color, no soft focus, no camera movement, no generic stock footage, no bright warm tones
+
+--------------------------------------------------
+CLIP C099 | 00:13:04.000 -> 00:13:12.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Medium shot, completely static. Stack of eleven hand-drawn treaty pages in minimalist 2D line art, bold page numbers 1 through 11 clearly visible on each sheet's corner. Round-headed figure with simple expressive face sits upright, hands resting flat on the table in resigned posture. Eyes gaze downward at the complete stack with quiet acceptance. Stark monochrome office with rough-sketched filing cabinets and angular desk, high contrast black and white palette. Audio: pages settling on desk, clock ticking. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 1.6s after.
+
+NEGATIVE:
+no photorealistic paper texture, no color accents, no soft lighting, no camera drift, no generic patterns, no warm visuals
+TIMING: Hold 1.6s after.
+
+--------------------------------------------------
+CLIP C100 | 00:13:12.000 -> 00:13:20.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Close-up, completely static. Hand-drawn treaty clause text in clean bold hand-lettering, key phrases 'atmosphere, outer space, underwater' underlined with thick black ink strokes. Round-headed figure's hand holds a pen poised above the text, fingers tense, knuckles slightly raised. The pen tip hovers over the underlined words without touching. Minimalist sketched document surface with stark white background, high contrast monochrome line art. Audio: pen scratching paper, paper crinkling. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no photorealistic ink, no color, no soft shading, no camera movement, no generic stock footage, no bright warm tones
+
+--------------------------------------------------
+CLIP C101 | 00:13:20.000 -> 00:13:28.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Medium shot, completely static. Hand-drawn mushroom cloud sketches on paper in minimalist 2D line art, bold radiating lines suggesting atmospheric blast waves. Round-headed figure with simple expressive face sits with shoulders squared, hands clasped together on desk in contemplative posture. Eyes fixed on the sketches with furrowed brow. Stark monochrome office environment with rough hand-sketched walls and angular desk, high contrast black and white palette. Audio: pencil scratching paper, paper sliding on desk. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 2.14s after.
+
+NEGATIVE:
+no photorealistic explosions, no color, no soft gradients, no camera drift, no generic stock patterns, no bright warm visuals
+TIMING: Hold 2.14s after.
+
+--------------------------------------------------
+CLIP C102 | 00:13:28.000 -> 00:13:36.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Close-up, completely static. Sketched calendar pages flipping in minimalist 2D line art, each page marked with small explosion doodles in bold black ink. Round-headed figure's hand flips each page with quick deliberate motion, fingers gripping the corner firmly. Each flip reveals another explosion mark, creating visual repetition. Stark monochrome background with rough hand-sketched calendar frame, high contrast black and white palette. Audio: pages flipping rapidly, pen marking paper. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no photorealistic paper motion, no color, no soft animation, no camera movement, no generic stock footage, no warm tones
+
+--------------------------------------------------
+CLIP C103 | 00:13:36.000 -> 00:13:44.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Wide shot, completely static. Minimalist drawn test site in 2D line art, simple horizon line dividing stark white sky from rough-sketched ground. Multiple blast markers dot the landscape as small radiating circles in bold black ink. Round-headed figure stands in foreground with arms crossed, posture upright but shoulders slightly slumped. Eyes scan the horizon with quiet resignation. High contrast monochrome palette, clean bold outlines. Audio: wind blowing across open space, distant metallic clanging. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no photorealistic landscape, no color, no soft shading, no camera movement, no generic stock patterns, no bright warm visuals
+
+--------------------------------------------------
+CLIP C104 | 00:13:44.000 -> 00:13:52.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Medium shot, completely static. Hand-drawn calculator and crossed-out budget figures in minimalist 2D line art, bold X marks slashing through numbers in thick black ink. Round-headed figure with simple expressive face sits with head tilted down, hand resting on forehead in defeated posture. Eyes closed, shoulders sagging forward. Stark monochrome office with rough-sketched desk and angular filing cabinet, high contrast black and white palette. Audio: pen striking paper, calculator keys clicking. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 1.98s after.
+
+NEGATIVE:
+no photorealistic calculator, no color, no soft shading, no camera drift, no generic stock footage, no bright warm tones
+TIMING: Hold 1.98s after.
+
+--------------------------------------------------
+CLIP C105 | 00:13:52.000 -> 00:14:00.000 | 8.0s
+Emotion: ANTICIPATION (low) | Arc: deep
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Medium close-up, very slow creeping push-in. Two simple round-headed figures hunched forward over sketched documents, shoulders tense, minimalist faces focused with furrowed brows. Pen moves deliberately across paper in bold black strokes, circling and annotating. Sparse hand-drawn office with rough-sketched desk and scattered papers, dramatic side lighting casting hard shadows, unresolved tension in the stark monochrome contrast. Audio: pen scratching paper, pages rustling. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no color, no photorealism, no soft gradients, no 3D rendering, no detailed backgrounds, no camera drift, no bright warm tones
+
+--------------------------------------------------
+CLIP C106 | 00:14:00.000 -> 00:14:08.000 | 8.0s
+Emotion: ANTICIPATION (low) | Arc: deep
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Medium close-up, very slow creeping push-in. Hand-drawn calendar page showing September 1963 in bold black line art, minimalist doodle aesthetic. A simple round-headed figure's hand enters frame, fingers tense and hovering, then circles the date with deliberate pressure—line thickens as pen presses. Stark monochrome contrast, clean outlines, sketched office environment with rough-drawn desk edge. Audio: pen scratching paper, single deliberate stroke. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no photorealism, no color, no shading, no gradients, no camera drift, no soft focus, no live-action footage, no generic stock patterns
+
+--------------------------------------------------
+CLIP C107 | 00:14:08.000 -> 00:14:16.000 | 8.0s
+Emotion: ANTICIPATION (low) | Arc: deep
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Wide shot, very slow creeping push-in. Sparse drawn office with two simple round-headed figures at opposite desks, bodies leaning forward with focused intensity, minimalist faces showing concentration. Both drafting simultaneously with quick pen movements, papers accumulating. Clean bold outlines define rough-sketched urban office space, dramatic unresolved side lighting, high-contrast black and white palette conveying urgency. Audio: dual pens scratching paper, chair creaking. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no color, no photorealism, no soft lighting, no detailed furniture, no camera drift, no warm inviting atmosphere
+
+--------------------------------------------------
+CLIP C108 | 00:14:16.000 -> 00:14:24.000 | 8.0s
+Emotion: ANTICIPATION (low) | Arc: deep
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Medium close-up, very slow creeping push-in. Stack of hand-drawn proposal documents in minimalist 2D line art, bold black outlines on white. Simple round-headed figure's hands place each sheet deliberately onto pile—fingers spread wide, posture rigid with controlled urgency. Titles visible in clean doodle lettering: 'Space-Based Testing,' 'Underground Alternatives.' Stark high-contrast monochrome, rough-sketched desk surface. Audio: paper sliding on paper, stacking rhythm. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 2.45s after.
+
+NEGATIVE:
+no photorealism, no color, no shading, no gradients, no camera drift, no soft focus, no live-action footage, no generic stock patterns, no bright warm tones
+TIMING: Hold 2.45s after.
+
+--------------------------------------------------
+CLIP C109 | 00:14:24.000 -> 00:14:32.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Medium shot, completely static. Sketched official letter in elegant cursive hand-lettering, simple round hand holding document with relaxed but formal posture, minimalist face neutral and composed. Letter remains still in frame, bold declining language visible in careful penmanship. Clean hand-drawn office background with minimal detail, authoritative Bloomberg-style lighting with teal accent, high-contrast black and white creating formal atmosphere. Audio: paper being set down on desk. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no color, no photorealism, no soft lighting, no detailed textures, no camera movement, no warm emotional tones
+
+--------------------------------------------------
+CLIP C110 | 00:14:32.000 -> 00:14:40.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Close-up, completely static. The phrase 'Current programmatic priorities' in bold hand-lettering fills frame, simple round hand pointing at text with finger extended, posture suggesting contemplation. Text remains motionless, allowing irony to land. Minimalist background with clean lines, authoritative lighting with teal accent, stark monochrome contrast emphasizing the bureaucratic language. Audio: finger tapping paper. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 4.91s. Hold 3.09s after.
+
+NEGATIVE:
+no color, no photorealism, no soft fonts, no detailed backgrounds, no camera movement, no warm tones
+TIMING: Hold 3.09s after.
+
+--------------------------------------------------
+CLIP C111 | 00:14:40.000 -> 00:14:48.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Wide shot, completely static. Hand-drawn Moon with sketched rocket trajectory arcing toward it in bold confident line, simple round-headed figure in foreground with upright posture and calm expression observing. Trajectory line clean and purposeful. Minimalist space background with rough-sketched stars, authoritative lighting with teal accent, high-contrast black and white palette conveying institutional confidence. Audio: pencil drawing line on paper. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no color, no photorealism, no soft gradients, no detailed celestial bodies, no camera movement, no dark ominous tones
+
+--------------------------------------------------
+CLIP C112 | 00:14:48.000 -> 00:14:56.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Medium shot, completely static. Simple drawn figure at desk with relaxed upright posture, minimalist face showing calm focus, NASA logo sketched on wall behind in bold lines. Figure's hands rest on desk in composed position. Clean hand-drawn office with minimal detail, authoritative Bloomberg-style lighting with teal accent, stark monochrome contrast conveying institutional stability. Audio: clock ticking on wall. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no color, no photorealism, no soft lighting, no detailed office equipment, no camera movement, no warm inviting atmosphere
+
+--------------------------------------------------
+CLIP C113 | 00:14:56.000 -> 00:15:04.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Medium shot, completely static. Hand-drawn calendar page in minimalist 2D line art style, monochrome black and white with high contrast. Bold circular ink mark around '1969' date, heavy pen strokes emphasizing deadline urgency. Clean doodle-like aesthetic with rough sketched numbers and grid lines. Timeline spans 1963-1969 with confident, declarative marks. Audio: pen scratching paper, ink circling date. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no camera movement, no color, no photorealism, no live-action footage, no soft focus, no warm tones, no 3D rendering, no detailed shading
+
+--------------------------------------------------
+CLIP C114 | 00:15:04.000 -> 00:15:12.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Medium shot, completely static. Split-frame composition in minimalist 2D hand-drawn line art, monochrome black and white. Left side: bold government seal with thick confident outlines, large and authoritative. Right side: tiny Orion spacecraft sketch, delicate thin lines, dwarfed by comparison. Stark scale disparity conveys institutional power imbalance. Clean doodle aesthetic with high contrast. Audio: stamp pressing paper, filing cabinet drawer sliding. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 2.23s after.
+
+NEGATIVE:
+no camera movement, no color, no photorealism, no equal visual weight between elements, no soft edges, no warm lighting, no 3D depth
+TIMING:  Hold 2.23s after.
+
+--------------------------------------------------
+CLIP C115 | 00:15:12.000 -> 00:15:20.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Medium shot, completely static. Simple round-headed figure (Kennedy silhouette) at sketched podium in minimalist 2D line art, monochrome black and white. Bold confident posture, shoulders back, chin raised. Clean doodle-like outlines with high contrast. Rough hand-sketched government building background with authoritative vertical lines. Expressive minimalist face shows determination. Audio: podium microphone feedback, paper rustling. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 1.6s after.
+
+NEGATIVE:
+no camera movement, no color, no photorealism, no detailed facial features, no soft lighting, no warm tones, no hesitant posture
+TIMING:  Hold 1.6s after.
+
+--------------------------------------------------
+CLIP C116 | 00:15:20.000 -> 00:15:28.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Close-up, completely static. Hand-drawn speech bubble in minimalist 2D line art, monochrome black and white with high contrast. Bold declarative lettering reads 'before this decade is out.' Thick confident pen strokes, doodle-like aesthetic. Clean outlines with rough sketched texture. Lettering fills frame with authoritative presence. Audio: chalk writing on blackboard, paper tearing. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no camera movement, no color, no photorealism, no cursive script, no soft edges, no warm tones, no hesitant line work, no 3D effects
+
+--------------------------------------------------
+CLIP C117 | 00:15:28.000 -> 00:15:36.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Wide shot, completely static. Two diverging paths sketched in minimalist 2D line art, monochrome black and white with high contrast. One path thick, straight, bold with confident strokes leading to visible destination. Other path thin, winding, uncertain with delicate lines fading into distance. Clean doodle aesthetic with rough hand-sketched ground texture. Visual logic stark and immediate. Audio: footsteps on gravel diverging, compass clicking. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 2.36s after.
+
+NEGATIVE:
+no camera movement, no color, no photorealism, no equal line weight, no soft focus, no warm lighting, no 3D perspective, no detailed shading
+TIMING:  Hold 2.36s after.
+
+--------------------------------------------------
+CLIP C118 | 00:15:36.000 -> 00:15:44.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Medium shot, completely static. Empty sketched chair in minimalist 2D line art, monochrome black and white with high contrast. Bold clean outlines define vacant seat, no figure present. Negative space carries moral weight. Rough hand-sketched office environment background with simple vertical lines. Doodle-like aesthetic emphasizes absence over presence. Audio: chair creaking empty, clock ticking. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 5.11s after.
+
+NEGATIVE:
+no camera movement, no color, no photorealism, no figure in chair, no soft lighting, no warm tones, no detailed shading, no 3D depth
+TIMING:  Hold 5.11s after.
+
+--------------------------------------------------
+CLIP C119 | 00:15:44.000 -> 00:15:52.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Close-up, completely static. Simple round-headed Dyson figure in minimalist 2D line art, monochrome black and white. Hand pressed to forehead, shoulders curved inward, posture conveys weariness. Line work softens slightly to suggest emotional weight. Expressive minimalist face shows understanding and resignation. Clean doodle aesthetic with high contrast. Rough sketched background minimal. Audio: paper sliding across desk, pen dropping. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no camera movement, no color, no photorealism, no detailed facial features, no upright posture, no warm lighting, no soft focus, no 3D rendering
+
+--------------------------------------------------
+CLIP C120 | 00:15:52.000 -> 00:16:00.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Medium shot, completely static. Simple round-headed Dyson figure at sketched window in minimalist 2D line art, monochrome black and white with high contrast. Posture slumped, shoulders forward, head tilted down. Hand resting on window frame. Rough hand-sketched sky visible through window with bold horizontal lines. Clean doodle aesthetic conveys contemplative weight. Expressive minimalist face shows resignation. Audio: window latch clicking, wind against glass. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no camera movement, no color, no photorealism, no upright posture, no detailed facial features, no warm lighting, no soft edges, no 3D depth
+
+--------------------------------------------------
+CLIP C121 | 00:16:00.000 -> 00:16:08.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Medium shot, completely static. A minimalist 2D hand-drawn figure with round head and downcast eyes, bold black outlines on white background. The character's shoulders slump forward, hands resting heavily on a sketched desk covered in papers with rough numerical notations. Simple line work conveys the weight of knowledge through posture alone. The environment is a stark, high-contrast office space with clean geometric shapes suggesting institutional authority. Audio: pen scratching paper, pages rustling. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no photorealism, no color, no gradients, no soft shading, no 3D rendering, no camera movement, no live-action footage, no detailed backgrounds
+
+--------------------------------------------------
+CLIP C122 | 00:16:08.000 -> 00:16:16.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Medium shot, completely static. Hand-drawn rain depicted as simple vertical lines falling into sketched soil cross-section below. A minimalist milk bottle sits to the right, bold black outline against white. The rain lines pass through invisible layers, suggesting contamination spreading unseen. High-contrast monochrome palette with clean, doodle-like aesthetic. The composition is divided horizontally: sky above, earth below, emphasizing the journey downward. Audio: rain pattering on soil, liquid dripping. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 2.25s after.
+
+NEGATIVE:
+no color, no photorealistic water, no 3D effects, no camera movement, no gradients, no soft textures, no live-action
+TIMING: Hold 2.25s after.
+
+--------------------------------------------------
+CLIP C123 | 00:16:16.000 -> 00:16:24.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Medium shot, completely static. Three minimalist 2D figures with round heads seated at a rough-sketched table, bold black outlines. Papers covered in hand-drawn numbers and equations spread before them. The figures lean slightly forward, simple facial expressions suggesting focused calculation. High-contrast black and white palette with clean line work. The environment is a sparse meeting room with minimal geometric background elements. Audio: papers sliding on table, pencil tapping. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 0.56s after.
+
+NEGATIVE:
+no photorealism, no color, no detailed faces, no camera movement, no 3D rendering, no soft lighting, no gradients
+TIMING: Hold 0.56s after.
+
+--------------------------------------------------
+CLIP C124 | 00:16:24.000 -> 00:16:32.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Medium shot, completely static. Two minimalist hand-drawn physicists with round heads positioned close together, examining a single sheet of sketched equations between them. Bold black outlines create intimate proximity. Their simple faces show concentration through minimal line work—slightly furrowed brows, focused eyes. High-contrast monochrome palette. The background is a rough-sketched laboratory with basic geometric shapes suggesting equipment. Audio: paper crinkling, pen scratching. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 0.62s after.
+
+NEGATIVE:
+no photorealism, no color, no detailed expressions, no camera movement, no 3D effects, no soft shading, no live-action
+TIMING: Hold 0.62s after.
+
+--------------------------------------------------
+CLIP C125 | 00:16:32.000 -> 00:16:40.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Wide shot, completely static. Rows upon rows of simple 2D hand-drawn figures with round heads, bold black outlines repeating across the frame in a grid pattern. Each figure is identical—minimalist doodle-like aesthetic emphasizing countable, tangible human presence. High-contrast black and white palette creates stark visual impact. The background is pure white, making the dense crowd of sketched figures the sole focus. Audio: footsteps echoing, distant murmuring crowd. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 0.7s after.
+
+NEGATIVE:
+no photorealism, no color, no detailed faces, no camera movement, no 3D rendering, no gradients, no individual character variation
+TIMING: Hold 0.7s after.
+
+--------------------------------------------------
+CLIP C126 | 00:16:40.000 -> 00:16:48.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Medium shot, completely static camera. A simple round-headed figure in minimalist 2D line art sits at a hand-sketched desk, posture upright and steady, hands resting flat on surface, face calm with soft eyes. The figure gazes forward at rough-drawn documents spread before them—treaty papers, population charts in bold black ink. The sketched room is sparse: clean vertical lines for walls, a single window outline showing abstract sky. High-contrast monochrome palette, bold outlines, doodle-like aesthetic. Audio: pen tapping desk, paper rustling. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no photorealism, no color, no shading, no live-action, no camera movement, no warm lighting, no talking, no music
+
+--------------------------------------------------
+CLIP C127 | 00:16:48.000 -> 00:16:56.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Medium shot, completely static. Tighter framing on a dense cluster of hand-drawn figures with round heads, bold black outlines creating high-contrast monochrome composition. The figures are packed closely together, emphasizing immediate tangible reality. Simple line work with doodle-like aesthetic. The background fades to pure white, isolating the crowd. The stark black-and-white palette emphasizes present versus distant possibility. Audio: breathing sounds overlapping, fabric rustling. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no photorealism, no color, no camera movement, no 3D rendering, no gradients, no detailed faces, no soft shading
+
+--------------------------------------------------
+CLIP C128 | 00:16:56.000 -> 00:17:04.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Medium shot, completely static. Split-frame composition: left half shows dense cluster of minimalist hand-drawn figures with round heads, bold black outlines; right half shows vast empty white space with a few scattered stars sketched as simple asterisks. High-contrast monochrome palette. The visual arithmetic is stark—tangible lives versus abstract possibility. Clean line work with doodle-like aesthetic creates immediate visual tension. Audio: clock ticking, pen marking paper. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 2.15s after.
+
+NEGATIVE:
+no photorealism, no color, no camera movement, no 3D effects, no gradients, no detailed backgrounds, no soft transitions
+TIMING: Hold 2.15s after.
+
+--------------------------------------------------
+CLIP C129 | 00:17:04.000 -> 00:17:12.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Medium shot, completely static. Hand-drawn figure in monochrome line art sits at sketched desk, shoulders squared, hands folded with deliberate calm, face composed with minimalist features showing quiet resolve. Figure reviews bold-outlined treaty documents spread across desk surface. Rough-sketched office environment with high-contrast black and white palette, clean lines suggesting institutional authority and measured decision-making. Audio: paper rustling on desk. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 1s after.
+
+NEGATIVE:
+no color, no photorealism, no soft focus, no camera movement, no warm lighting, no emotional ambiguity, no decorative elements
+TIMING: Hold 1s after.
+
+--------------------------------------------------
+CLIP C130 | 00:17:12.000 -> 00:17:20.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Medium close-up, completely static. Single hand-drawn hand cradles minimalist round head, fingers pressed against temple, posture curved inward showing exhaustion. Simple line-art figure sits motionless in stark black and white composition. Hand-sketched empty room with bold outlines, high contrast emphasizing isolation and the weight of being correct without power. Audio: pen tapping desk surface. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 4s after.
+
+NEGATIVE:
+no color, no photorealism, no movement, no multiple figures, no warm tones, no resolution, no comfort
+TIMING: Hold 4s after.
+
+--------------------------------------------------
+CLIP C131 | 00:17:20.000 -> 00:17:28.000 | 8.0s
+Emotion: ANTICIPATION (low) | Arc: deep
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Medium close-up, very slow creeping push-in. Hand-drawn classified documents with bold ink stamps and technical diagrams spread across sketched surface, clean precise line work showing decades of meticulous engineering. Minimalist doodle-style blueprints with high-contrast black and white palette. Camera slowly advances on unchanging documents in rough-sketched archive room. Audio: pages turning slowly. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no color, no photorealism, no resolution, no answers, no warm lighting, no human figures, no movement within frame
+
+--------------------------------------------------
+CLIP C132 | 00:17:28.000 -> 00:17:36.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Medium shot, completely static. Hand-drawn equations in bold black ink on white paper, clean mathematical notation with precise line work. Minimalist 2D style shows unchanging formulas, high-contrast monochrome palette. Camera holds steady on sketched paper surface in hand-drawn workspace. Audio: pen scratching paper. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 1s after.
+
+NEGATIVE:
+no color, no photorealism, no camera movement, no human figures, no decorative elements, no soft lines, no resolution
+TIMING: Hold 1s after.
+
+--------------------------------------------------
+CLIP C133 | 00:17:36.000 -> 00:17:44.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Medium shot, completely static. Hand-drawn equations in bold black ink on white paper, clean mathematical notation with precise line work. Minimalist 2D style shows unchanging formulas, high-contrast monochrome palette. Camera holds steady on sketched paper surface in hand-drawn workspace. Audio: pen scratching paper. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no color, no photorealism, no camera movement, no human figures, no decorative elements, no soft lines, no answers
+
+--------------------------------------------------
+CLIP C134 | 00:17:44.000 -> 00:17:52.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Medium close-up, completely static. Core equation in bold black ink fills frame, clean precise line work showing fundamental physics. Minimalist hand-drawn mathematical notation with high-contrast monochrome palette, authoritative doodle-style presentation. Camera holds tight on sketched formula that refuses negotiation. Audio: pen scratching paper. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 3s after.
+
+NEGATIVE:
+no color, no photorealism, no camera movement, no human figures, no decorative elements, no soft focus, no compromise
+TIMING: Hold 3s after.
+
+--------------------------------------------------
+CLIP C135 | 00:17:52.000 -> 00:18:00.000 | 8.0s
+Emotion: JOY (low) | Arc: deep
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Medium shot, slow gentle dolly forward. Sequence of hand-drawn propulsion systems in minimalist line art: sketched chemical rockets, ion drives, solar sails in quick succession. Bold black outlines with high-contrast monochrome palette, simple doodle-style technical diagrams. Rough-sketched technical environment showing alternative technologies. Audio: mechanical clicking sounds. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no color, no photorealism, no static frame, no single subject, no warm tones, no resolution yet, no Orion comparison
+
+--------------------------------------------------
+CLIP C136 | 00:18:00.000 -> 00:18:08.000 | 8.0s
+Emotion: JOY (low) | Arc: payoff
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Wide reveal, very slow pull-back then ascending crane. Hand-drawn propulsion systems from previous shot now dwarfed by scale indicators and efficiency metrics in bold line art. Minimalist 2D style with high-contrast black and white palette shows comparative weakness through simple numerical annotations. Rough-sketched technical space with clean outlines emphasizing vast performance gap. Audio: mechanical clicking sounds. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no color, no photorealism, no static frame, no equal scale, no warm lighting, no ambiguity, no soft lines
+
+--------------------------------------------------
+CLIP C137 | 00:18:08.000 -> 00:18:16.000 | 8.0s
+Emotion: JOY (low) | Arc: payoff
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Wide reveal, very slow pull-back then ascending crane. Minimalist 2D hand-drawn line art: vast sketched space filled with tiny doodle rockets—chemical, ion, solar sail—scattered across frame in simple bold outlines. Round-headed figure stands at bottom, posture upright, arms slightly raised in quiet triumph. Figure gazes upward at the fleet of small vessels. Monochrome black and white palette, high contrast, clean lines. Negative space dominates, emphasizing scale. Audio: pen scratching paper rapidly, multiple overlapping strokes. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no realistic footage, no photographic elements, no color, no shading, no 3D rendering, no live-action, no camera drift, no generic stock patterns
+
+--------------------------------------------------
+CLIP C138 | 00:18:16.000 -> 00:18:24.000 | 8.0s
+Emotion: ANTICIPATION (low) | Arc: payoff
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Tight then reveal, very slow creep then sudden pull-back. Minimalist 2D line art: medium shot of sketched government building, bold architectural lines, monochrome high contrast. Round-headed figure in window, posture tense, hands pressed against glass. Camera tilts up slowly, then pulls back to reveal building's imposing scale. Doodle-like aesthetic, clean outlines. Audio: single clock tick echoing, footsteps on marble floor. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no realistic architecture, no photographic textures, no color gradients, no soft focus, no live-action, no camera drift, no bright warm visuals
+
+--------------------------------------------------
+CLIP C139 | 00:18:24.000 -> 00:18:32.000 | 8.0s
+Emotion: ANTICIPATION (low) | Arc: payoff
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Tight then reveal, slow creep then sudden pull-back. Minimalist 2D hand-drawn interior: sketched bureaucrats at desks, round heads bent over papers, simple expressive faces showing concentration. Bold black outlines, high contrast monochrome. Hands move slowly across documents. Camera creeps forward on one figure, then pulls back to reveal rows of identical desks. Rough hand-sketched office environment. Audio: papers shuffling, pen tapping desk rhythmically. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no realistic office footage, no photographic detail, no color, no soft lighting, no 3D space, no camera drift, no generic stock patterns
+
+--------------------------------------------------
+CLIP C140 | 00:18:32.000 -> 00:18:40.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Medium close-up, very slow confirming push-in. Minimalist 2D line art: ballot box drawn in simple bold lines beside empty cradle sketch, both centered in frame. Monochrome black and white, high contrast, clean doodle aesthetic. Round-headed figure's hand reaches toward ballot box, fingers extended, posture deliberate. Stark negative space emphasizes the choice. Audio: single paper sliding into slot, soft thud. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no realistic objects, no photographic rendering, no color, no shading, no 3D forms, no live-action, no camera drift, no warm visuals for negative emotion
+
+--------------------------------------------------
+CLIP C141 | 00:18:40.000 -> 00:18:48.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Medium close-up, very slow confirming push-in. Minimalist 2D hand-drawn line art: sketched government building facade, bold architectural lines, monochrome high contrast. Round-headed figure stands at base, posture neutral, arms at sides, face turned upward. Camera static, emphasizing institutional permanence. Clean outlines, doodle-like aesthetic, rough hand-sketched urban environment. Audio: distant door closing, single footstep on concrete. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no realistic architecture, no photographic detail, no color, no soft focus, no 3D rendering, no camera drift, no generic stock patterns
+
+--------------------------------------------------
+CLIP C142 | 00:18:48.000 -> 00:18:56.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Medium close-up, very slow confirming push-in. Minimalist 2D line art: hand-drawn timeline on paper, bold black ink line descending diagonally across frame. Round-headed figure's hand holds pen, tracing downward path with deliberate movement. Monochrome high contrast, clean doodle aesthetic. Simple expressive face shows quiet focus. Audio: pen scratching paper slowly, single exhale. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no realistic paper texture, no photographic detail, no color, no shading, no 3D space, no live-action, no camera drift, no generic stock patterns
+
+--------------------------------------------------
+CLIP C143 | 00:18:56.000 -> 00:19:04.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Medium close-up, very slow confirming push-in. Minimalist 2D hand-drawn line art: sketched star chart, Alpha Centauri circled in bold ink at top of frame. Round-headed figure's hand points upward, arm extended, posture reaching. Monochrome black and white, high contrast, clean outlines. Simple expressive face shows quiet determination. Rough hand-sketched space environment with scattered stars. Audio: pen circling paper, single tap on chart. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no realistic star charts, no photographic detail, no color gradients, no soft focus, no 3D rendering, no camera drift, no generic stock patterns
+
+--------------------------------------------------
+CLIP C144 | 00:19:04.000 -> 00:19:12.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Medium close-up, very slow confirming push-in. Minimalist 2D line art: hold on star chart from previous shot. Camera slowly pulls back, revealing round-headed figure's hand lowering from chart, arm dropping, shoulders slumping slightly. Monochrome high contrast, bold outlines, doodle aesthetic. Simple expressive face shows quiet resignation. Negative space grows as camera retreats. Audio: paper rustling, pen dropping on desk. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no realistic motion, no photographic detail, no color, no shading, no 3D space, no live-action, no camera drift, no generic stock patterns
+
+--------------------------------------------------
+CLIP C145 | 00:19:12.000 -> 00:19:20.000 | 8.0s
+Emotion: JOY (low) | Arc: payoff
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Wide reveal, very slow pull-back then ascending crane. A minimalist 2D hand-drawn helicopter sits on rough sketched Martian terrain, bold black outlines against white dust. Simple rotor blades, clean doodle-like form. The drawn figure stands with shoulders squared, round head tilted upward, minimalist face showing quiet pride. One hand gestures toward the sketched helicopter in modest celebration. Rough hand-sketched Mars surface with jagged horizon lines, high contrast monochrome palette suggesting vast empty achievement. Audio: helicopter rotor whir, dust scattering on ground. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 2s after.
+
+NEGATIVE:
+no photorealistic footage, no 3D rendering, no color gradients, no soft shading, no live-action, no generic stock space imagery, no camera drift
+TIMING: Hold 2s after.
+
+--------------------------------------------------
+CLIP C146 | 00:19:20.000 -> 00:19:28.000 | 8.0s
+Emotion: JOY (low) | Arc: payoff
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Close-up, static hold. A hand-drawn mission patch or newspaper headline in bold black line art, clean doodle aesthetic. Simple circular patch with sketched helicopter icon, rough hand-lettered text. The drawn figure leans forward slightly, round head centered, minimalist face showing focused satisfaction. One hand traces the patch outline with deliberate pride. High-contrast monochrome background, stark white space framing the achievement. Audio: pen scratching paper, fabric rustling. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no photorealistic textures, no color, no soft lighting, no 3D depth, no live-action hands, no generic celebration imagery, no camera movement
+
+--------------------------------------------------
+CLIP C147 | 00:19:28.000 -> 00:19:36.000 | 8.0s
+Emotion: JOY (low) | Arc: payoff
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Wide reveal, very slow pull-back then ascending crane. A simple round-headed figure with wide eyes and raised arms stands on sketched Martian surface, bold black outlines against white ground. Small hand-drawn helicopter hovers nearby with motion lines. Figure's posture open, celebratory. Rough-sketched distant horizon with minimal detail. Clean monochrome contrast, doodle-like aesthetic. Audio: helicopter blades whirring, dust particles scattering. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no photorealism, no color, no gradients, no shading, no 3D rendering, no live-action footage, no detailed textures, no camera drift, no generic stock patterns
+
+--------------------------------------------------
+CLIP C148 | 00:19:36.000 -> 00:19:44.000 | 8.0s
+Emotion: ANTICIPATION (mid) | Arc: payoff
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Split frame composition, slow creep then sudden pull-back. Left: hand-drawn star chart with bold lines radiating to distant points, rough sketched constellations. Right: simple helicopter on Mars surface, tiny scale. The drawn figure stands between frames, round head turning from left to right, minimalist face showing dawning realization. Hands spread wide measuring the gap between ambitions. High-contrast monochrome, dramatic line weight difference suggesting orders of magnitude. Audio: paper unfolding sharply, pencil tapping desk. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 2s after.
+
+NEGATIVE:
+no color, no soft transitions, no photorealism, no 3D rendering, no live-action, no warm visuals for negative emotion, no camera drift
+TIMING: Hold 2s after.
+
+--------------------------------------------------
+CLIP C149 | 00:19:44.000 -> 00:19:52.000 | 8.0s
+Emotion: ANTICIPATION (mid) | Arc: payoff
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Medium shot, slow push-in. Stacked hand-drawn calendars or generational figures shrinking in size, bold black outlines, doodle-like aesthetic. Each layer smaller than the last, rough sketched dates and simplified human forms. The drawn figure stands beside the stack, round head bowed slightly, minimalist face showing resignation. One hand gestures downward along the shrinking progression. High-contrast monochrome background, clean white space emphasizing reduction. Audio: pages flipping slowly, calendar tearing. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no color, no soft shading, no photorealism, no 3D depth, no live-action, no warm visuals, no camera drift, no generic stock patterns
+
+--------------------------------------------------
+CLIP C150 | 00:19:52.000 -> 00:20:00.000 | 8.0s
+Emotion: ANTICIPATION (mid) | Arc: payoff
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Close-up, static hold. A hand-drawn graph with bold black lines, ceiling line dropping to meet floor line, clean doodle aesthetic. Simple axes, rough hand-lettered labels, stark visual proof. The drawn figure's hand enters frame, round head partially visible, minimalist face showing quiet frustration. One finger traces the descending line with deliberate pressure. High-contrast monochrome, white background, no distractions. Audio: pencil scratching graph paper, ruler sliding. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no color, no shading, no photorealism, no 3D rendering, no live-action, no warm visuals, no camera movement, no generic stock imagery
+
+--------------------------------------------------
+CLIP C151 | 00:20:00.000 -> 00:20:08.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Medium shot, very slow push-in. A hand-drawn treaty document beside an Orion blueprint, bold black outlines, doodle-like aesthetic. Treaty text on left, rocket schematic on right, incompatible artifacts. The drawn figure stands between them, round head level, minimalist face showing calm irony. Both hands rest on the documents, posture upright and still. High-contrast monochrome, stark white background framing the juxtaposition. Audio: paper sliding on desk, document rustling. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 2s after.
+
+NEGATIVE:
+no color, no soft lighting, no photorealism, no 3D depth, no live-action, no warm visuals, no camera drift, no generic stock patterns
+TIMING: Hold 2s after.
+
+--------------------------------------------------
+CLIP C152 | 00:20:08.000 -> 00:20:16.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Medium close-up, very slow confirming push-in. Hand-drawn treaty document with bold black text and signatures, Article IV circled in thick line. Simple round-headed figure's hand points to circled section, finger extended. Figure's face shows slight head tilt, contemplative expression with minimal features. Clean white background, high contrast monochrome. Sketched desk edge visible. Audio: paper rustling, pen tapping document. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no photorealism, no color, no gradients, no shading, no 3D rendering, no live-action footage, no detailed textures, no camera drift, no generic stock patterns, no bright warm visual
+
+--------------------------------------------------
+CLIP C153 | 00:20:16.000 -> 00:20:24.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Medium close-up, very slow push-in. Hand-drawn Orion spacecraft in flight, bold black outlines against white void, clean propulsion trail sketched with confident strokes. Simple cylindrical form with minimalist thruster detail, no weaponry visible. Craft drifts forward with quiet certainty, lines sharp and deliberate. Stark monochrome space, high contrast, empty except for vessel. Audio: thruster exhaust hiss. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 1.87s after.
+
+NEGATIVE:
+realistic spacecraft, photographic rendering, color, weapons visible, explosions, complex mechanical detail, soft lines, shading, gradients, live-action, CGI realism, camera shake
+TIMING: Hold 1.87s after.
+
+--------------------------------------------------
+CLIP C154 | 00:20:24.000 -> 00:20:32.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Medium close-up, static hold. Hand-drawn Orion spacecraft centered in frame, bold black lines on white background. No camera movement. Simple round hull, propulsion system sketched with clean strokes. Monochrome high-contrast line art, doodle-like aesthetic. Spacecraft isolated in empty white space, emphasizing its peaceful design. Audio: faint metal creak, air vent whisper. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no camera movement, no realistic rendering, no color, no weapons, no explosions, no military context, no soft lines, no background clutter
+
+--------------------------------------------------
+CLIP C155 | 00:20:32.000 -> 00:20:40.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Medium shot, very slow push-in. Simple drawn figure with round head at sketched desk, shoulders slightly hunched, hands resting on disarmament papers. Bold black outlines, minimalist face with downward gaze. Sparse office environment, rough hand-sketched walls, single window outline. Monochrome high-contrast line art. Quiet advocacy posture, reflective stillness. Audio: pen scratching paper, page turning. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no realistic human, no photographic detail, no color, no bright lighting, no dynamic movement, no camera drift, no complex backgrounds
+
+--------------------------------------------------
+CLIP C156 | 00:20:40.000 -> 00:20:48.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Wide shot, very slow push-in. Sketched institute building, sparse bold lines, minimal architectural detail. High-contrast black and white, clean doodle aesthetic. Empty foreground, building centered, vast white sky above. Simple geometric windows, no human figures. Monochrome line art, contemplative framing. Audio: distant footsteps on stone, door closing echo. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no realistic architecture, no photographic detail, no color, no people visible, no busy composition, no camera drift, no soft focus
+
+--------------------------------------------------
+CLIP C157 | 00:20:48.000 -> 00:20:56.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Close-up, very slow push-in. Hand-drawn stellar engineering diagrams, bold black lines on white. Dyson sphere sketches, orbital mechanics curves, geometric star patterns. High-contrast monochrome line art, clean doodle aesthetic. Diagrams layered, overlapping slightly, suggesting cosmic scale thinking. Audio: pencil on paper, ruler sliding. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no realistic rendering, no photographic detail, no color, no soft lines, no camera drift, no background clutter, no human figures
+
+--------------------------------------------------
+CLIP C158 | 00:20:56.000 -> 00:21:04.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Medium shot, static hold. Empty sketched desk, single paper centered, bold black outlines on white. Minimalist line art, high contrast, doodle aesthetic. Sparse environment, rough hand-sketched wall behind, single chair outline. No human figure. Clean geometric desk edges, paper slightly askew. Audio: clock ticking, paper settling. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no camera movement, no realistic detail, no color, no human figures, no busy composition, no soft focus, no warm lighting
+
+--------------------------------------------------
+CLIP C159 | 00:21:04.000 -> 00:21:12.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Medium shot, very slow push-in. Sketched memorial archive box labeled 'Taylor,' bold black lines on white. Simple geometric box shape, minimalist doodle aesthetic, high-contrast monochrome. Box centered on sparse shelf, rough hand-sketched background. Clean respectful framing, no human figures. Audio: box sliding on shelf, paper rustling inside. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no realistic rendering, no photographic detail, no color, no human figures, no camera drift, no soft focus, no busy backgrounds
+
+--------------------------------------------------
+CLIP C160 | 00:21:12.000 -> 00:21:20.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Wide shot, static hold. Archived Orion blueprints rolled on shelf, bold black outlines, sparse line work suggesting dust. High-contrast monochrome line art, minimalist doodle aesthetic. Blueprints centered, rough hand-sketched shelf and wall. Empty space around, vast white background. No camera movement. Audio: paper crinkle, shelf creak. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no camera movement, no realistic detail, no color, no human figures, no busy composition, no soft focus, no bright lighting
+
+--------------------------------------------------
+CLIP C161 | 00:21:20.000 -> 00:21:28.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Medium close-up, very slow push-in. Hand-drawn archive shelf in monochrome line art, rolled blueprint labeled 'Orion Flight Plan' in bold black ink. Simple geometric shelving with clean outlines, document tubes stacked with precision. Minimalist 2D aesthetic, high contrast black on white, doodle-like archival space. Audio: paper rustling against cardboard tube. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 1.24s after.
+
+NEGATIVE:
+no photorealistic textures, no color, no shading or gradients, no live-action footage, no camera drift, no generic stock patterns
+TIMING: Hold 1.24s after.
+
+--------------------------------------------------
+CLIP C162 | 00:21:28.000 -> 00:21:36.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Close-up, static hold. Hand-drawn declassification stamp on document cover in bold black ink, 'DECLASSIFIED 1980s' in clean geometric letters. High contrast monochrome, thick outlines, doodle-style bureaucratic mark. Simple round stamp border, crisp lines suggesting official accessibility. Audio: rubber stamp pressing paper. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 3.9s after.
+
+NEGATIVE:
+no photorealistic textures, no color, no shading, no live-action, no camera drift, no generic stock patterns
+TIMING: Hold 3.9s after.
+
+--------------------------------------------------
+CLIP C163 | 00:21:36.000 -> 00:21:44.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Medium shot, slow horizontal pan. Hand-drawn technical diagrams in monochrome line art: pusher plate cross-section, metallurgy notes, shock-absorption equations. Clean bold outlines, minimalist 2D doodle aesthetic, precise geometric shapes. Simple sketched annotations, high contrast black on white. Audio: pen scratching technical paper. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 4.1s after.
+
+NEGATIVE:
+no photorealistic rendering, no color, no shading, no live-action, no camera drift, no generic stock patterns
+TIMING: Hold 4.1s after.
+
+--------------------------------------------------
+CLIP C164 | 00:21:44.000 -> 00:21:52.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Dynamic tracking shot, ascending movement. Hand-drawn nuclear detonations as radiating line bursts, pusher plate ascending in bold geometric outline. Minimalist 2D monochrome, high contrast black on white, doodle-style energy lines. Simple round spacecraft silhouette, explosive patterns in clean strokes. Audio: rapid metallic clanging sequence. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no photorealistic effects, no color, no shading, no live-action, no camera drift, no generic stock patterns
+
+--------------------------------------------------
+CLIP C165 | 00:21:52.000 -> 00:22:00.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Medium close-up, very slow push-in. Hand-drawn spacecraft silhouette in bold black lines against stark white void, distance markers sketched in thin strokes radiating outward. Simple geometric form suggests quiet completion, gentle finality in its stillness. Minimalist star field dots scattered sparsely, emphasizing vastness and absence. Clean monochrome palette, high contrast between ship and empty space. Audio: faint paper rustling. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 1.86s after.
+
+NEGATIVE:
+realistic spacecraft, photographic stars, color gradients, motion blur, complex details, shading, texture, 3D rendering, camera drift, atmospheric haze
+TIMING: Hold 1.86s after.
+
+--------------------------------------------------
+CLIP C166 | 00:22:00.000 -> 00:22:08.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Split-screen composition, static hold. Left: hand-drawn treaty document with bold signatures and seals. Right: Orion blueprint with geometric spacecraft outline. Both in high contrast monochrome line art, minimalist 2D doodle aesthetic, equal visual weight. Clean black outlines, simple shapes. Audio: two pages settling on desk. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 2.31s after.
+
+NEGATIVE:
+no photorealistic documents, no color, no shading, no live-action, no camera drift, no generic stock patterns
+TIMING: Hold 2.31s after.
+
+--------------------------------------------------
+CLIP C167 | 00:22:08.000 -> 00:22:16.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Medium shot, very slow push-in. Hand-drawn Earth from orbit in minimalist 2D line art, atmospheric layer emphasized with soft curved lines. Monochrome black on white, doodle-style planetary fragility, simple round shape with delicate boundary. High contrast, clean outlines. Audio: soft wind passing over surface. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no photorealistic planet, no color, no shading, no live-action, no camera drift, no generic stock patterns
+
+--------------------------------------------------
+CLIP C168 | 00:22:16.000 -> 00:22:24.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Extreme close-up, static hold. Hand-drawn text 'wisdom always costs something' in bold black ink, pen nib resting beside. Minimalist 2D monochrome line art, high contrast, doodle-style calligraphy. Clean geometric letterforms, stark white background, maximum visual weight. Audio: pen nib tapping paper once. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 0.86s after.
+
+NEGATIVE:
+no photorealistic text, no color, no shading, no live-action, no camera drift, no generic stock patterns
+TIMING: Hold 0.86s after.
+
+--------------------------------------------------
+CLIP C169 | 00:22:24.000 -> 00:22:31.600 | 7.6s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+A minimalist 2D hand-drawn line art style, monochrome black and white palette with high contrast. Clean, bold outlines with a doodle-like aesthetic. Characters are simple with round heads and expressive, minimalist faces. The background consists of rough, hand-sketched urban environments.. Medium close-up, very slow push-in. A simple round-headed figure in minimalist 2D line art sits at a sparse hand-drawn desk, shoulders relaxed, head slightly tilted in quiet contemplation. Hands rest open on the table, fingers still. The figure gazes toward a sketched window where bold black lines frame empty white space. The room is drawn with clean, confident strokes—bare walls, minimal furniture, high contrast. Soft window light rendered as negative space. Audio: pen placed gently on desk. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 7.6s. Hold 1s after.
+
+NEGATIVE:
+no photorealistic rendering, no 3D models, no color, no gradients, no soft shading, no camera shake, no rapid movement, no cluttered backgrounds, no detailed textures, no live-action footage
+TIMING: Hold 1s after.
