@@ -1,0 +1,1837 @@
+============================================================
+VEO 3 RENDER QUEUE - The_prosecutor_didn_t_know_memory_doesn_t_work_like_a_camera__21_people_died_because_of_it [general]
+Total clips: 177 | Duration: 00:23:33.200
+============================================================
+
+--------------------------------------------------
+CLIP C001 | 00:00:00.000 -> 00:00:08.000 | 8.0s
+Emotion: TRUST (low) | Arc: hook
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium close-up, very slow push-in. Cartoon hand with bold black outline points across frame, index finger extended with confident posture. Hand holds steady in accusatory gesture against pale institutional blue background. Simple 2D courtroom setting with clean lines, vibrant but muted color palette. Audio: none. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no realistic hands, no photorealistic rendering, no 3D depth, no text overlays, no speech bubbles, no camera shake, no warm lighting for institutional setting
+
+--------------------------------------------------
+CLIP C002 | 00:00:08.000 -> 00:00:16.000 | 8.0s
+Emotion: TRUST (low) | Arc: hook
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium shot, static hold. Bold black tally marks appear one by one in clean groups of five, drawn with thick cartoon outlines against pale gray background. Marks form with deliberate rhythm, shoulders of frame empty, creating visual weight through accumulation. 2D infographic style with high contrast. Audio: pen scratching paper. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 3.4s after.
+
+NEGATIVE:
+no handwriting animation, no realistic pen textures, no paper grain, no 3D shadows, no warm colors, no decorative elements, no text labels
+TIMING: Hold 3.4s after.
+
+--------------------------------------------------
+CLIP C003 | 00:00:16.000 -> 00:00:24.000 | 8.0s
+Emotion: TRUST (low) | Arc: hook
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium wide, slow zoom out. Tally marks multiply rapidly across frame in organized rows, filling screen left to right with bold black lines. Clean 2D pattern emerges, marks appearing in quick succession with mechanical precision. Institutional blue-gray background, simple geometric composition. Audio: rapid pen scratching paper. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no realistic paper texture, no hand-drawn variation, no warm tones, no decorative borders, no text, no 3D depth, no shadows
+
+--------------------------------------------------
+CLIP C004 | 00:00:24.000 -> 00:00:32.000 | 8.0s
+Emotion: TRUST (low) | Arc: hook
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium tight, gentle push-in. Final tally marks complete dense grid pattern, screen now filled with organized black lines in groups of five. Camera slowly advances toward completed count, emphasizing scale through proximity. Clean 2D infographic style, high contrast black on pale gray. Audio: final pen scratch. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no realistic textures, no paper grain, no hand-drawn imperfections, no warm lighting, no decorative elements, no text overlays, no 3D rendering
+
+--------------------------------------------------
+CLIP C005 | 00:00:32.000 -> 00:00:40.000 | 8.0s
+Emotion: TRUST (low) | Arc: hook
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium close-up, very slow push-in. Hold on completed tally grid, dense pattern of black marks filling frame. Camera creeps forward incrementally, marks growing larger, emphasizing overwhelming quantity. Clean 2D cartoon style, stark black on pale institutional gray, bold outlines. Audio: none. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 2.1s after.
+
+NEGATIVE:
+no realistic paper, no texture variation, no warm colors, no decorative elements, no text, no 3D depth, no shadows, no camera shake
+TIMING: Hold 2.1s after.
+
+--------------------------------------------------
+CLIP C006 | 00:00:40.000 -> 00:00:48.000 | 8.0s
+Emotion: ANTICIPATION (mid) | Arc: hook
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium tight, slow creeping push forward. Large question mark icon materializes center frame, bold black outline with vibrant amber fill. Background transitions from institutional blue to warm amber gradient. Simple 2D cartoon style, clean geometric shape pulsing gently with rhythmic scale. Audio: low pulse tone. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no realistic rendering, no 3D effects, no text, no speech bubbles, no decorative flourishes, no cold lighting for warm emotion, no photorealistic gradients
+
+--------------------------------------------------
+CLIP C007 | 00:00:48.000 -> 00:00:56.000 | 8.0s
+Emotion: ANTICIPATION (mid) | Arc: hook
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium shot, slow drift. Central question mark remains, now surrounded by smaller floating question marks drifting slowly in orbital pattern. All marks share bold black outlines, amber fill. Warm amber background, clean 2D cartoon style. Marks rotate gently, creating unease through multiplication. Audio: multiple soft pulse tones overlapping. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 2.1s after.
+
+NEGATIVE:
+no realistic motion blur, no 3D depth, no text, no decorative elements, no cold colors, no photorealistic rendering, no camera shake
+TIMING: Hold 2.1s after.
+
+--------------------------------------------------
+CLIP C008 | 00:00:56.000 -> 00:01:04.000 | 8.0s
+Emotion: TRUST (low) | Arc: hook
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium close-up, very slow gentle push-in. Animated DNA double helix icon in clean 2D cartoon style with bold outlines and vibrant blue and green colors, rotating steadily against a neutral light gray background. The helix structure is simple but clearly defined, with smooth rotation conveying calm authority. Soft flattering lighting creates gentle highlights on the cartoon surfaces. Audio: helix structure clicking as segments lock into place. No voice, sound effects only. Cinematic documentary style, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no realistic footage, no live-action, no photographic elements, no text overlays, no camera drift, no dark moody lighting, no complex backgrounds, no multiple subjects
+
+--------------------------------------------------
+CLIP C009 | 00:01:04.000 -> 00:01:12.000 | 8.0s
+Emotion: TRUST (low) | Arc: hook
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium close-up, very slow push-in. A 2D cartoon grid of 375 simple human silhouettes in bold outline style, arranged in neat rows against a muted institutional blue background. Each silhouette is a clean geometric shape with minimal detail. The figures stand upright, shoulders squared, posture neutral and still. A few silhouettes in the front row begin to glow with soft amber light, their outlines pulsing briefly before settling back to gray. The grid extends beyond the visible frame, suggesting continuation. Audio: soft digital chime as silhouettes glow. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no realistic footage, no live-action, no photographic elements, no text overlays, no camera drift, no dark cold visuals, no chaotic movement
+
+--------------------------------------------------
+CLIP C010 | 00:01:12.000 -> 00:01:20.000 | 8.0s
+Emotion: TRUST (low) | Arc: hook
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium close-up, very slow push-in. The 2D cartoon grid of 375 silhouettes now shows 252 figures glowing in warm amber outline against the institutional blue background. The glowing majority creates a visual wave across the grid, left to right. Each amber silhouette stands with shoulders slightly slumped, heads tilted down in subtle resignation. The remaining gray figures stand rigid, creating stark contrast. The amber glow pulses gently in unison. Audio: cascading digital tones as figures light up sequentially. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no realistic footage, no live-action, no photographic elements, no text overlays, no camera drift, no dark cold visuals, no chaotic movement
+
+--------------------------------------------------
+CLIP C011 | 00:01:20.000 -> 00:01:28.000 | 8.0s
+Emotion: TRUST (low) | Arc: hook
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium tight, slow push-in. The 252 amber-glowing 2D cartoon silhouettes zoom forward from the grid, filling the frame with overlapping simple circular faces. Each face has wide circular eyes and a small downturned mouth, bold black outlines on vibrant amber fill. The faces layer over each other in depth, creating a dense crowd effect. Eyes blink in staggered rhythm, creating rippling motion through the crowd. The background shifts to warmer amber tones. Audio: layered whooshing sounds as faces zoom forward. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no realistic footage, no live-action, no photographic elements, no text overlays, no camera drift, no dark cold visuals, no aggressive expressions
+
+--------------------------------------------------
+CLIP C012 | 00:01:28.000 -> 00:01:36.000 | 8.0s
+Emotion: TRUST (low) | Arc: hook
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium wide, slow pull-back. The dense cluster of 252 2D cartoon faces compresses into a tight mass at frame center, bold outlines merging into a complex pattern. Each face maintains wide eyes and downturned mouth, creating collective expression of concern. The camera pulls back steadily, revealing the cluster is surrounded by empty amber space. The faces press together, shoulders touching, creating visual density. The cluster casts a simple drop shadow on the flat background. Audio: compression sound like air being pressed from a balloon. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no realistic footage, no live-action, no photographic elements, no text overlays, no camera drift, no dark cold visuals, no scattered composition
+
+--------------------------------------------------
+CLIP C013 | 00:01:36.000 -> 00:01:44.000 | 8.0s
+Emotion: ANTICIPATION (low) | Arc: hook
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium tight, slow creeping push-in. A 2D cartoon trophy icon in bold red outline appears against warm amber background. The trophy has a simple geometric cup shape with two handles and a warning triangle symbol in its center. The trophy tilts 15 degrees to the right, then slowly rocks back and forth in unstable motion. The warning symbol pulses with brighter red glow. The trophy's base appears slightly cracked with jagged line detail. Audio: metallic creaking sound as trophy rocks. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 2s after.
+
+NEGATIVE:
+no realistic footage, no live-action, no photographic elements, no text overlays, no camera drift, no bright warm visuals for negative emotion, no stable composition
+TIMING: Hold 2s after.
+
+--------------------------------------------------
+CLIP C014 | 00:01:44.000 -> 00:01:52.000 | 8.0s
+Emotion: ANTICIPATION (low) | Arc: hook
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium close-up, slow push-in. A 2D cartoon eyewitness icon (simple circular head with large eyes and pointing finger) connects to a prison bars icon via a bold red arrow. Both icons use clean geometric shapes with thick black outlines on amber background. The arrow pulses with traveling light effect, moving from eyewitness to bars. The eyewitness figure stands with finger extended, eyes wide and certain. The prison bars icon shows vertical lines with simple lock symbol. Audio: electronic pulse sound traveling along arrow path. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no realistic footage, no live-action, no photographic elements, no text overlays, no camera drift, no dark cold visuals, no complex details
+
+--------------------------------------------------
+CLIP C015 | 00:01:52.000 -> 00:02:00.000 | 8.0s
+Emotion: ANTICIPATION (low) | Arc: hook
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium wide, slow push-in. A 2D cartoon network diagram shows one central eyewitness icon (circular head with pointing finger) with multiple red arrows branching outward to eight prison bars icons arranged in radial pattern. All icons use bold outlines and simple geometric shapes on warm amber background. The arrows pulse sequentially, creating ripple effect from center outward. Each prison bars icon has a small silhouette figure behind the bars. The eyewitness figure maintains confident posture, finger pointing forward. Audio: cascading electronic pulses as arrows activate in sequence. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no realistic footage, no live-action, no photographic elements, no text overlays, no camera drift, no dark cold visuals, no chaotic layout
+
+--------------------------------------------------
+CLIP C016 | 00:02:00.000 -> 00:02:08.000 | 8.0s
+Emotion: ANTICIPATION (low) | Arc: hook
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium tight shot, very slow push in. A 2D cartoon figure in amber side lighting stands before a branching diagram of interconnected nodes and pathways, bold outlines in deep blue and gray. The figure's posture is leaning forward slightly, eyes narrowed in focused concern, one hand raised as if tracing invisible connections in the air. The diagram branches outward beyond the frame edges, nodes glowing faintly in amber. The environment feels institutional yet uncertain, with geometric patterns suggesting courtroom architecture dissolving into abstract networks. Audio: pen scratching paper, soft rustling of documents. No voice, sound effects only. Cinematic documentary style, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no photorealistic people, no live-action footage, no text overlays, no talking heads, no bright cheerful colors, no static composition, no camera drift, no generic stock patterns
+
+--------------------------------------------------
+CLIP C017 | 00:02:08.000 -> 00:02:16.000 | 8.0s
+Emotion: TRUST (low) | Arc: hook
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium close-up, very slow gentle push-in. Animated DNA helix icon in clean 2D cartoon style with bold outlines, rendered with partial transparency and dotted outline suggesting incompleteness. The helix floats centered in frame, vibrant blue and amber strands with missing segments indicated by dashed lines. Soft neutral warm lighting creates professional documentary feel. Muted institutional blue-gray background with subtle gradient. Audio: none. No voice, sound effects only. Cinematic documentary style, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no live-action footage, no realistic rendering, no 3D depth, no photographic elements, no camera shake, no text overlays, no bright saturated colors for negative emotion
+
+--------------------------------------------------
+CLIP C018 | 00:02:16.000 -> 00:02:24.000 | 8.0s
+Emotion: TRUST (low) | Arc: hook
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium close-up, very slow gentle push-in. Animated filing cabinet icon in clean 2D cartoon infographic style opens smoothly, folders cascade out in organized flow. Bold outlines, vibrant colors—folders in amber, blue, and gray tones. Each folder a simple rectangle with clean lines, spilling in neat geometric pattern. Soft 3-point lighting, neutral warm 3800K palette. Professional documentary aesthetic with institutional blue-gray background. Audio: paper rustling, folder sliding. No voice, sound effects only. Cinematic documentary style, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no photorealistic rendering, no live-action elements, no 3D depth simulation, no camera drift, no text on folders, no chaotic movement
+
+--------------------------------------------------
+CLIP C019 | 00:02:24.000 -> 00:02:32.000 | 8.0s
+Emotion: TRUST (low) | Arc: hook
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium close-up, camera pulls back slowly. Animated folders multiply rapidly in clean 2D cartoon style, filling screen in neat rows and columns. Bold outlines, vibrant institutional colors—blues, grays, amber accents. Geometric grid pattern creates visual overwhelm through repetition. Simple rectangular folder shapes stack in organized chaos. Soft flattering lighting, neutral warm palette. Professional documentary feel with muted background. Audio: rapid paper shuffling, multiple folders dropping. No voice, sound effects only. Cinematic documentary style, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no realistic textures, no photographic elements, no 3D rendering, no camera shake, no text labels, no warm bright colors
+
+--------------------------------------------------
+CLIP C020 | 00:02:32.000 -> 00:02:40.000 | 8.0s
+Emotion: TRUST (low) | Arc: hook
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium close-up, very slow gentle push-in. 2D cartoon character with calm, open expression and relaxed shoulders, hands resting gently on a large illustrated folder labeled with a simple icon. Character's eyes are steady, conveying quiet confidence. They carefully lift the folder's edge, revealing a glimpse of neatly organized cartoon documents inside. Bright, clean office environment with soft pastel walls, warm yellow desk lamp, and organized shelves in the background. Audio: paper rustling, folder tapping desk. No voice, sound effects only. Cinematic documentary style, 24fps, 16:9. 8s. Hold 3.67s after.
+
+NEGATIVE:
+no dark shadows, no cold tones, no chaotic clutter, no anxious expressions, no camera drift, no generic stock patterns, no realistic photography
+TIMING: Hold 3.67s after.
+
+--------------------------------------------------
+CLIP C021 | 00:02:40.000 -> 00:02:48.000 | 8.0s
+Emotion: SADNESS (mid) | Arc: hook
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium close-up, completely static. Three cartoon figures in row, clean 2D infographic style with bold outlines and simple expressive features. Center figure glows warm amber, outer two fade to desaturated gray. Figures stand with neutral posture, hands at sides. Overcast soft low-key lighting, 3200K desaturated palette. Muted institutional blue-gray background. Professional editorial documentary feel with rain-streaked window texture behind. Audio: rain tapping glass. No voice, sound effects only. Cinematic documentary style, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no photorealistic rendering, no live-action footage, no 3D depth, no camera movement, no text overlays, no bright saturated colors
+
+--------------------------------------------------
+CLIP C022 | 00:02:48.000 -> 00:02:56.000 | 8.0s
+Emotion: SADNESS (mid) | Arc: hook
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium close-up, completely static. Same three cartoon figures hold position in clean 2D style with bold outlines. Center figure's amber glow pulses once, then holds steady. Simple expressive faces show neutral concern. Figures remain still with hands at sides. Overcast soft lighting, desaturated 3200K palette. Muted blue-gray institutional background with subtle rain texture. Professional documentary aesthetic. Audio: single water drop hitting glass. No voice, sound effects only. Cinematic documentary style, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no realistic rendering, no live-action elements, no 3D depth, no camera drift, no text, no bright warm colors for negative context
+
+--------------------------------------------------
+CLIP C023 | 00:02:56.000 -> 00:03:04.000 | 8.0s
+Emotion: SADNESS (mid) | Arc: hook
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium close-up, slow pull-back. Grid of many cartoon faces in clean 2D infographic style, bold outlines, simple expressive features. Every third face glows warm amber, others remain desaturated gray. Pattern creates rhythmic visual across rows and columns. Faces show neutral expressions with slight concern. Overcast soft lighting, 3200K desaturated palette. Muted institutional blue-gray background. Professional documentary feel. Audio: rhythmic water drops on glass. No voice, sound effects only. Cinematic documentary style, 24fps, 16:9. 8s. Hold 4.19s after.
+
+NEGATIVE:
+no photorealistic faces, no live-action footage, no 3D rendering, no camera shake, no text, no bright saturated tones
+TIMING: Hold 4.19s after.
+
+--------------------------------------------------
+CLIP C024 | 00:03:04.000 -> 00:03:12.000 | 8.0s
+Emotion: TRUST (low) | Arc: hook
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium close-up, very slow gentle push-in. Grid of 100 simple cartoon silhouettes in clean 2D style with bold outlines. 99 silhouettes shift to institutional blue, 1 remains neutral gray. Figures stand with neutral posture, hands at sides. Stark visual majority creates institutional pattern. Soft flattering 3-point lighting, neutral warm 3800K palette. Muted blue-gray background with professional documentary aesthetic. Audio: single metallic click. No voice, sound effects only. Cinematic documentary style, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no photorealistic rendering, no live-action elements, no 3D depth, no camera drift, no text overlays, no warm bright colors
+
+--------------------------------------------------
+CLIP C025 | 00:03:12.000 -> 00:03:20.000 | 8.0s
+Emotion: TRUST (low) | Arc: hook
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium close-up, very slow gentle push-in. Animated 2D infographic: 99 identical blue cartoon silhouettes arranged in grid formation, bold outlines, flat shading. One orange silhouette stands apart at edge. Camera slowly pushes toward the grid. Institutional blue-gray background, clean geometric layout. Audio: none. No voice, sound effects only. Cinematic documentary style, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no live-action footage, no photorealism, no 3D rendering, no text overlays, no warm cheerful colors, no dynamic movement, no camera drift
+
+--------------------------------------------------
+CLIP C026 | 00:03:20.000 -> 00:03:28.000 | 8.0s
+Emotion: ANTICIPATION (low) | Arc: hook
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium tight, very slow creeping push toward unknown. Animated 2D: cartoon calendar pages flip rapidly in amber light, landing on bold '2019'. Glowing document icon emerges from page, pulsing amber. Simple character with wide eyes leans forward, hand reaching toward document. Warm amber side lighting, dramatic shadows cast right. Audio: paper flipping rapidly. No voice, sound effects only. Cinematic documentary style, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no live-action, no photorealism, no text on document, no 3D elements, no cold blue tones, no static composition, no generic stock patterns
+
+--------------------------------------------------
+CLIP C027 | 00:03:28.000 -> 00:03:36.000 | 8.0s
+Emotion: ANTICIPATION (low) | Arc: hook
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium tight, very slow creeping push. Animated 2D: cartoon scroll unfurls horizontally, bold black outlines. Abstract data symbols (circles, triangles, bars) float up from scroll surface in amber glow. Simple character with concerned expression watches symbols orbit the scroll. Warm amber lighting intensifies, shadows deepen. Audio: paper unrolling, soft whoosh of floating symbols. No voice, sound effects only. Cinematic documentary style, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no live-action, no photorealism, no readable text, no 3D rendering, no cold institutional colors, no static hold, no generic stock
+
+--------------------------------------------------
+CLIP C028 | 00:03:36.000 -> 00:03:44.000 | 8.0s
+Emotion: ANTICIPATION (low) | Arc: build_up
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium, very slow building push-in. Animated 2D: fully open scroll with orbiting data symbols (circles, bars, triangles) circling faster. Frame tightens on scroll center. Simple character's eyes follow circular motion, leaning closer. Amber lighting intensifies, building shadows frame edges. Vibrant amber-orange glow pulses from scroll. Audio: soft rhythmic whooshing, symbols orbiting faster. No voice, sound effects only. Cinematic documentary style, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no live-action, no photorealism, no text elements, no 3D rendering, no cool blue tones, no static composition, no camera drift
+
+--------------------------------------------------
+CLIP C029 | 00:03:44.000 -> 00:03:52.000 | 8.0s
+Emotion: ANTICIPATION (low) | Arc: build_up
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium shot, very slow push-in. Two cartoon figures side by side in 2D infographic style—one behind bold black bars with slumped shoulders and downcast eyes, the other free but cast in deep purple shadow with hunched posture and clenched fists. A broken chain connects them at chest level, links dangling. The barred figure stares forward with hollow expression, the shadowed figure turns away with guilt etched in simple line work. Institutional blue-gray background transitions to amber-shadow gradient (3400K). Vibrant but somber color palette with bold outlines. Cinematic documentary aesthetic, 1080p, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no live-action footage, no photorealism, no text overlays, no camera drift, no bright cheerful colors, no talking heads, no generic stock patterns, no warm lighting for negative emotion
+
+--------------------------------------------------
+CLIP C030 | 00:03:52.000 -> 00:04:00.000 | 8.0s
+Emotion: ANTICIPATION (low) | Arc: build_up
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium, very slow building push-in. Animated 2D: single cartoon house with bold outlines in safe neighborhood. Camera zooms out revealing hundreds of identical houses in grid pattern. One house glows amber while others remain muted blue-gray. Simple character in window of glowing house, hand on glass. Audio: soft zoom-out whoosh, single window tap. No voice, sound effects only. Cinematic documentary style, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no live-action, no photorealism, no text overlays, no 3D rendering, no warm cheerful atmosphere, no static composition, no camera drift
+
+--------------------------------------------------
+CLIP C031 | 00:04:00.000 -> 00:04:08.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium shot, static hold. Animated 2D: cartoon camera with bold black outlines, vintage style. Shutter clicks, freezing simple scene inside viewfinder (basic shapes: circle, square, triangle). Frozen scene remains perfectly still. Institutional blue-gray background, clean geometric layout. Camera and frozen scene hold uncomfortably long. Audio: single camera shutter click. No voice, sound effects only. Cinematic documentary style, 24fps, 16:9. 8s. 4.09s hold after.
+
+NEGATIVE:
+no live-action, no photorealism, no text, no 3D rendering, no warm amber tones, no movement after freeze, no generic stock patterns
+TIMING: Hold 4.09s after.
+
+--------------------------------------------------
+CLIP C032 | 00:04:08.000 -> 00:04:16.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium shot, static hold. Animated 2D: frozen scene from previous camera viewfinder remains perfectly still (circle, square, triangle shapes). No movement. Institutional blue-gray background. Simple cartoon character at edge of frame stares at frozen scene, posture rigid, hands at sides. Uncomfortable stillness. Audio: none. No voice, sound effects only. Cinematic documentary style, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no live-action, no photorealism, no text, no 3D rendering, no warm colors, no movement, no camera drift, no dynamic action
+
+--------------------------------------------------
+CLIP C033 | 00:04:16.000 -> 00:04:24.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium shot, very slow dolly in. Animated 2D cartoon camera icon with bold black outlines and vibrant blue casing, centered on clean white background. Camera icon clicks once with mechanical precision, freezing mid-action with a bright yellow flash effect. Simple geometric shapes suggest institutional trust. Educational infographic aesthetic with flat colors and clear visual hierarchy. Audio: camera shutter click. No voice, sound effects only. Cinematic documentary style, 24fps, 16:9. 8s. Hold 2s after.
+
+NEGATIVE:
+no live-action footage, no realistic textures, no photographic elements, no 3D rendering, no camera drift, no generic stock patterns, no talking heads, no text overlays
+TIMING: Hold 2s after.
+
+--------------------------------------------------
+CLIP C034 | 00:04:24.000 -> 00:04:32.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium shot, static frame. Clean 2D cartoon courtroom with bold outlines and institutional blue-gray palette. Animated judge figure with simple geometric features sits behind elevated bench, gavel raised. Six jury figures in jury box, heads tilted forward in synchronized nod, postures upright and attentive. Judge's gavel taps once with authority. Flat color blocks create educational infographic clarity. Audio: wooden gavel tap on desk. No voice, sound effects only. Cinematic documentary style, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no photorealism, no live actors, no 3D models, no camera movement, no warm amber tones yet, no text elements, no speech bubbles
+
+--------------------------------------------------
+CLIP C035 | 00:04:32.000 -> 00:04:40.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium shot, very slow push in. Same 2D cartoon jury box from previous frame, six jury figures continue synchronized nodding in perfect mechanical rhythm. Postures remain rigid, heads bob in unison like metronomes. Color palette shifts subtly toward warmer amber undertones while maintaining institutional blue base. Bold outlines emphasize the robotic repetition. Educational infographic style with unsettling precision. Audio: repetitive soft tapping rhythm. No voice, sound effects only. Cinematic documentary style, 24fps, 16:9. 8s. Hold 1s after.
+
+NEGATIVE:
+no live-action, no realistic humans, no 3D rendering, no camera drift, no speech, no text, no bright warm visuals
+TIMING: Hold 1s after.
+
+--------------------------------------------------
+CLIP C036 | 00:04:40.000 -> 00:04:48.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium shot, slow dolly in. Animated 2D cartoon microscope with bold black outlines and vibrant teal accents on left side of frame. Simple geometric brain icon with pink and amber tones on right side. Microscope lens rotates and focuses on brain icon with deliberate precision. Color palette transitions from institutional blue-gray toward warmer amber tones. Clean educational infographic aesthetic with flat colors. Audio: lens focusing mechanism clicking. No voice, sound effects only. Cinematic documentary style, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no photorealistic elements, no live-action, no 3D models, no camera shake, no text overlays, no speech bubbles
+
+--------------------------------------------------
+CLIP C037 | 00:04:48.000 -> 00:04:56.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium shot, static with subtle drift. 2D cartoon brain icon fractures into six colorful puzzle pieces with bold outlines—pink, amber, yellow, teal. Pieces separate and float in clean white space, then rearrange themselves into new configuration. Each piece shifts position with smooth animation. Warm amber tones dominate palette. Educational infographic style with clear visual metaphor. Audio: puzzle pieces sliding and clicking together. No voice, sound effects only. Cinematic documentary style, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no realistic brain imagery, no 3D rendering, no photographic textures, no live-action, no text, no dark cold visuals
+
+--------------------------------------------------
+CLIP C038 | 00:04:56.000 -> 00:05:04.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium shot, very slow dolly out. Same 2D cartoon puzzle pieces continue rearranging across frame in fluid motion. Six pieces shift through multiple configurations—no stable image forms. Colors cycle through amber, yellow, pink, teal with bold outlines. Pieces overlap and separate in continuous reconstruction. Clean white background emphasizes the chaos. Educational infographic aesthetic. Audio: continuous puzzle pieces shuffling and sliding. No voice, sound effects only. Cinematic documentary style, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no photorealism, no 3D models, no static composition, no text elements, no speech, no institutional blue tones
+
+--------------------------------------------------
+CLIP C039 | 00:05:04.000 -> 00:05:12.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium shot, slow dolly back. 2D cartoon puzzle pieces scatter chaotically across entire frame in explosive motion. Six colorful pieces with bold outlines fly outward from center—pink, amber, yellow, teal fragments refusing to connect. Camera pulls back revealing the full extent of dispersal against clean white background. Warm amber tones dominate. Educational infographic style with dynamic motion. Audio: multiple puzzle pieces scattering and clattering. No voice, sound effects only. Cinematic documentary style, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no realistic textures, no 3D rendering, no live-action, no camera shake, no text overlays, no dark cold palette
+
+--------------------------------------------------
+CLIP C040 | 00:05:12.000 -> 00:05:20.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium shot, very slow push in. Single 2D cartoon pencil with bold black outline and bright yellow body, eraser end pink. Pencil erases simple cartoon face drawn in black lines, then redraws it with slight variations—eyebrow angle changes, mouth curve shifts. Face redrawn three times, each version subtly different. Warm amber background. Clean educational infographic style. Audio: pencil erasing paper, then pencil drawing on paper. No voice, sound effects only. Cinematic documentary style, 24fps, 16:9. 8s. Hold 1s after.
+
+NEGATIVE:
+no photorealistic pencil, no 3D rendering, no live-action hands, no text, no speech bubbles, no institutional blue tones
+TIMING: Hold 1s after.
+
+--------------------------------------------------
+CLIP C041 | 00:05:20.000 -> 00:05:28.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium shot, very slow dolly forward. Cartoon hand holding bright blue pencil, fingers relaxed and steady, erases simple smiling face on white paper. Hand redraws face with slightly different eyes and mouth shape. Clean 2D animation style with bold outlines and vibrant colors. Warm amber lighting on paper surface, institutional blue background. Audio: pencil eraser rubbing paper, pencil tip scratching paper. No voice, sound effects only. Cinematic documentary aesthetic, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no live-action footage, no photorealistic rendering, no 3D depth, no camera shake, no text overlays, no speech bubbles yet, no dark moody lighting
+
+--------------------------------------------------
+CLIP C042 | 00:05:28.000 -> 00:05:36.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium shot, static hold. Cartoon witness figure with wide eyes and open mouth, shoulders squared, stands center frame. Simple speech bubble appears above head with wavy lines inside (no text). Behind witness, faded cartoon memory image of a different face begins to distort and blur at edges. Clean 2D infographic style, bold outlines, warm amber tones. Audio: paper rustling, pen tapping desk. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no live-action, no photorealism, no 3D rendering, no text in bubbles, no voice, no dark cold lighting for positive emotion, no camera drift
+
+--------------------------------------------------
+CLIP C043 | 00:05:36.000 -> 00:05:44.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium shot, slow dolly back. Same cartoon witness figure, now with multiple speech bubbles stacking around head (no text inside). Witness posture remains upright and confident, hands gesturing outward. Background memory image becomes increasingly blurred and fragmented. Warm amber lighting, clean 2D animation with vibrant colors. Audio: paper shuffling, multiple pen clicks. No voice, sound effects only. Cinematic documentary aesthetic, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no photorealistic elements, no 3D depth, no text content, no voice or dialogue, no dark visuals for positive valence, no generic stock patterns
+
+--------------------------------------------------
+CLIP C044 | 00:05:44.000 -> 00:05:52.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium shot, slow dolly back continues. Cartoon witness surrounded by dense cluster of speech bubbles (no text). Witness maintains steady posture, chin slightly raised. Original background memory image now completely replaced by new, different cartoon face silhouette in amber glow. Clean 2D infographic style, bold outlines, institutional blue transitioning to amber. Audio: papers stacking, pen scratching paper rapidly. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no live-action footage, no photorealism, no readable text, no voice, no ambient wash, no dark cold tones for positive emotion, no camera shake
+
+--------------------------------------------------
+CLIP C045 | 00:05:52.000 -> 00:06:00.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium shot, static hold. Confident cartoon witness with bright wide eyes, steady shoulders, slight smile. Behind figure, fragmented puzzle pieces float disconnected in amber-lit space. Clean 2D animation, bold outlines, warm amber tones. Witness hands rest calmly at sides. Audio: puzzle pieces clicking together, paper sliding on desk. No voice, sound effects only. Cinematic documentary aesthetic, 24fps, 16:9. 8s. Hold 3.5s after.
+
+NEGATIVE:
+no photorealism, no 3D rendering, no text elements, no voice or narration, no dark visuals for positive valence, no camera drift
+TIMING: Hold 3.5s after.
+
+--------------------------------------------------
+CLIP C046 | 00:06:00.000 -> 00:06:08.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium shot, slow dolly back. Same confident cartoon witness, bright eyes and steady posture. Camera pulls back to reveal witness holding script paper in hand, reading from it. Clean 2D infographic style, bold outlines, warm amber lighting. Witness's free hand gestures as if testifying. Audio: paper rustling in hand, pen tapping paper edge. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 0.6s after.
+
+NEGATIVE:
+no live-action, no photorealism, no 3D depth, no text on script, no voice, no ambient room tone, no dark cold tones for positive emotion
+TIMING: Hold 0.6s after.
+
+--------------------------------------------------
+CLIP C047 | 00:06:08.000 -> 00:06:16.000 | 8.0s
+Emotion: FEAR (mid) | Arc: build_up
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium tight shot, irregular handheld movement. Large glowing amber question mark icon pulses center frame, growing slightly larger with each pulse. Dark background with subtle red accent glow at edges. Clean 2D animation, bold outlines. Question mark casts animated shadow that shifts irregularly. Audio: low metallic pulse sound, paper tearing slowly. No voice, sound effects only. Cinematic documentary with tense aesthetic, 24fps, 16:9. 8s. Hold 2s after.
+
+NEGATIVE:
+no photorealism, no 3D rendering, no text beyond question mark symbol, no voice, no music, no ambient wash, no bright warm visuals for negative emotion
+TIMING: Hold 2s after.
+
+--------------------------------------------------
+CLIP C048 | 00:06:16.000 -> 00:06:24.000 | 8.0s
+Emotion: FEAR (mid) | Arc: build_up
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium tight shot, slow irregular dolly forward. Question mark dissolves into simplified cartoon brain outline glowing with amber light. Brain isolated on dark background with red accent edges. Clean 2D animation, bold outlines. Brain pulses gently, internal lines suggesting neural pathways. Audio: electrical crackling, pen scratching paper in short bursts. No voice, sound effects only. Cinematic documentary with unresolved tension, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no photorealism, no 3D depth, no text elements, no voice or dialogue, no music, no ambient room tone, no bright warm tones for negative valence
+
+--------------------------------------------------
+CLIP C049 | 00:06:24.000 -> 00:06:32.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium shot, very slow dolly forward. 2D cartoon split screen: left side shows simplified courthouse with bold outlines crumbling into geometric fragments, right side shows intact glowing brain with clean lines remaining solid. Character stands centered between panels, posture upright and steady, hands gesturing calmly toward brain side. Vibrant institutional blues fade to warm amber glow around brain. Clean infographic aesthetic with no text elements. Audio: building blocks tumbling, paper rustling. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no live-action footage, no realistic rendering, no photographic elements, no text overlays, no camera drift, no generic stock patterns, no dark cold visuals
+
+--------------------------------------------------
+CLIP C050 | 00:06:32.000 -> 00:06:40.000 | 8.0s
+Emotion: FEAR (low) | Arc: build_up
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium close-up, very slow handheld drift. 2D cartoon stopwatch with bold outlines counts down from 5 to 0. Each second, fragmented crime scene images flash: simplified weapon silhouette, shadow figure, motion lines. Character's cartoon eyes widen progressively with each tick. Cool blues with red accent on weapon. Shadows deepen incrementally. Clean infographic style, expressive but simple. Audio: clock ticking, sharp metallic clink. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 4.2s after.
+
+NEGATIVE:
+no live-action footage, no realistic rendering, no photographic elements, no text overlays, no camera drift, no bright warm visuals for negative emotion
+TIMING:  Hold 4.2s after.
+
+--------------------------------------------------
+CLIP C051 | 00:06:40.000 -> 00:06:48.000 | 8.0s
+Emotion: FEAR (low) | Arc: build_up
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium close-up, very slow handheld drift. 2D cartoon eye with bold outlines widens in shock, pupils dilating. Weapon silhouette appears as sharp reflection in pupil—knife or gun shape with clean lines. Character's face shows fear through simplified expression: raised eyebrows, open mouth. Cool lighting with red accent on weapon reflection. Vibrant colors with high contrast. Clean infographic aesthetic. Audio: sharp gasp, metal scraping. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no live-action footage, no realistic rendering, no photographic elements, no text overlays, no camera drift, no bright warm visuals for negative emotion
+
+--------------------------------------------------
+CLIP C052 | 00:06:48.000 -> 00:06:56.000 | 8.0s
+Emotion: FEAR (low) | Arc: build_up
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium close-up, very slow handheld drift. Multiple fragmented 2D cartoon images swirl chaotically around simplified character head: weapon silhouette, shadow figure, motion blur lines. All elements have bold outlines and vibrant colors. Character's expression shows overwhelm through wide eyes and tense posture. Rapid circular movement of fragments. Cool blues with red accents. Clean infographic style with expressive simplicity. Audio: whooshing air, objects rattling. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no live-action footage, no realistic rendering, no photographic elements, no text overlays, no camera drift, no bright warm visuals for negative emotion
+
+--------------------------------------------------
+CLIP C053 | 00:06:56.000 -> 00:07:04.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium shot, very slow dolly in. 2D cartoon crime scene frame divided into grid with bold lines. Small center section (15%) shows simplified perpetrator face with basic features, rest shows large weapon silhouette dominating frame. Character observes with calm, analytical posture, hand pointing to small face section. Even lighting, institutional blues transitioning to amber. Clean infographic aesthetic with no text. Audio: ruler sliding on paper, pen tapping. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 1.74s after.
+
+NEGATIVE:
+no live-action footage, no realistic rendering, no photographic elements, no text overlays, no camera drift, no dark cold visuals for positive emotion
+TIMING:  Hold 1.74s after.
+
+--------------------------------------------------
+CLIP C054 | 00:07:04.000 -> 00:07:12.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium shot, very slow dolly in. Zoom into 15% face section from previous grid. 2D cartoon face with bold outlines appears blurry and incomplete: missing eye, uncertain mouth line, fragmented edges. Character leans forward with concerned posture, hand reaching toward incomplete face. Even lighting, warm amber tones. Clean infographic style with expressive simplicity. Audio: static crackling, paper tearing. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 1.24s after.
+
+NEGATIVE:
+no live-action footage, no realistic rendering, no photographic elements, no text overlays, no camera drift, no dark cold visuals for positive emotion
+TIMING:  Hold 1.24s after.
+
+--------------------------------------------------
+CLIP C055 | 00:07:12.000 -> 00:07:20.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium shot, very slow dolly forward. Scattered 2D cartoon face fragments (eyes, nose, mouth) with bold outlines float separately in space, then snap together magnetically into complete but mismatched face. Character watches with steady, analytical posture, hands gesturing as pieces assemble. Warm amber lighting. Clean infographic aesthetic with vibrant colors. Audio: puzzle pieces clicking, magnetic snap. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 3.22s after.
+
+NEGATIVE:
+no live-action footage, no realistic rendering, no photographic elements, no text overlays, no camera drift, no dark cold visuals for positive emotion
+TIMING:  Hold 3.22s after.
+
+--------------------------------------------------
+CLIP C056 | 00:07:20.000 -> 00:07:28.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium shot, very slow dolly forward. Two 2D cartoon brains side by side with bold outlines. Left brain extracts simple geometric shape (circle) with clean lines, right brain attempts capturing complex details with tangled lines and overload symbols. Character stands between them, posture relaxed and confident, gesturing toward efficient left brain. Even lighting, institutional blues to warm amber. Clean infographic style. Audio: pencil sketching, eraser rubbing. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no live-action footage, no realistic rendering, no photographic elements, no text overlays, no camera drift, no dark cold visuals for positive emotion
+
+--------------------------------------------------
+CLIP C057 | 00:07:28.000 -> 00:07:36.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium shot, very slow dolly in. 2D cartoon crime scene diagram with bold outlines and vibrant colors. Simple geometric shapes represent evidence: triangle weapon, circle face outline, rectangle body silhouette. Character with calm, focused posture stands beside diagram, hand gesturing methodically toward shapes. Details progressively fade to transparent gray while core shapes remain vivid. Clean infographic aesthetic with muted blue-gray background transitioning to amber highlights on retained elements. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no live-action footage, no realistic textures, no photographic elements, no camera drift, no generic stock patterns, no talking head, no bright warm visuals
+
+--------------------------------------------------
+CLIP C058 | 00:07:36.000 -> 00:07:44.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium shot, slow push in. 2D cartoon brain with bold outline and vibrant colors holds glowing amber core concept symbol (danger icon) at center. Character with steady, contemplative posture observes brain diagram. Surrounding memory details illustrated as colorful fragments progressively fade to transparent gray, becoming ghost-like outlines. Clean infographic style with muted blue background. Methodical, deliberate pacing. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no photorealistic brain, no live-action, no camera drift, no generic stock footage, no talking head, no bright warm visuals for negative emotion
+
+--------------------------------------------------
+CLIP C059 | 00:07:44.000 -> 00:07:52.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium shot, very slow static. 2D cartoon face with bold outlines and simple expressive features. Character with calm, observational posture watches face diagram. Face progressively loses detail: hair texture dissolves first, then eye color fades, then facial structure blurs into basic shapes. Clean infographic aesthetic with muted blue-gray palette. Methodical transformation from detailed to schematic. Cinematic documentary, 24fps, 16:9. 8s. Hold 3s after.
+
+NEGATIVE:
+no photorealistic face, no live-action, no camera drift, no generic stock patterns, no talking head, no bright warm visuals
+TIMING: Hold 3s after.
+
+--------------------------------------------------
+CLIP C060 | 00:07:52.000 -> 00:08:00.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium shot, slow dolly out. 2D cartoon face with bold outlines appears crystal clear with vivid scar above eyebrow and specific jacket color. Character with focused, analytical posture examines face. Camera pulls back to reveal face is floating reconstruction assembled from scattered colorful fragments and geometric shapes. Clean infographic style with muted blue background transitioning to amber assembly glow. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no photorealistic elements, no live-action, no camera drift, no generic stock footage, no talking head, no dark cold visuals for positive emotion
+
+--------------------------------------------------
+CLIP C061 | 00:08:00.000 -> 00:08:08.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium shot, very slow static. 2D cartoon face in profile with bold outline and simple expressive features. Character with calm, observational posture stands beside face diagram. Eyebrow scar glows amber briefly, then fades. Clean infographic aesthetic with muted blue-gray background and warm amber accent on scar detail. Methodical, deliberate pacing. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no photorealistic face, no live-action, no camera drift, no generic stock patterns, no talking head, no bright warm visuals for negative emotion
+
+--------------------------------------------------
+CLIP C062 | 00:08:08.000 -> 00:08:16.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium shot, slow dolly in. 2D cartoon brain blueprint unfolds like architectural diagram with bold outlines and geometric precision. Character with steady, contemplative posture examines blueprint with hands tracing clean lines. Blueprint sections illuminate in sequence showing intentional design pathways. Clean infographic style with blue-gray palette and amber pathway highlights. Methodical, deliberate pacing. Cinematic documentary, 24fps, 16:9. 8s. Hold 5s after.
+
+NEGATIVE:
+no photorealistic brain, no live-action, no camera drift, no generic stock footage, no talking head, no malfunction imagery
+TIMING: Hold 5s after.
+
+--------------------------------------------------
+CLIP C063 | 00:08:16.000 -> 00:08:24.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium shot, very slow dolly in. Split-screen 2D cartoon: left side shows brain with bold outline glowing amber, right side shows simplified survival scene with character navigating geometric environment. Character on left with focused, analytical posture observes brain prioritizing pattern recognition over detail. Clean infographic aesthetic with muted blue-gray transitioning to warm amber tones. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no photorealistic elements, no live-action, no camera drift, no generic stock patterns, no talking head, no dark cold visuals for positive emotion
+
+--------------------------------------------------
+CLIP C064 | 00:08:24.000 -> 00:08:32.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium shot, slow push in. 2D cartoon figure with bold outline and simple expressive features navigates simplified environment with geometric obstacles. Character with calm, purposeful posture moves through space. Transparent brain overlay shows coherence pathways lighting up in amber sequence as figure makes decisions. Clean infographic aesthetic with muted blue-gray background warming to amber tones. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no photorealistic elements, no live-action, no camera drift, no generic stock footage, no talking head, no dark cold visuals for positive emotion
+
+--------------------------------------------------
+CLIP C065 | 00:08:32.000 -> 00:08:40.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium shot, very slow dolly in. Animated cartoon memory file folder opens on clean desk surface, bold outlines and vibrant flat colors. Simple cartoon document inside shifts color from blue to amber in real-time, lines redraw themselves subtly. Clean 2D infographic style, expressive but minimal character design. Audio: paper rustling, pen scratching paper. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no live-action footage, no realistic textures, no photographic elements, no 3D rendering, no camera drift, no generic stock patterns, no dramatic lighting changes
+
+--------------------------------------------------
+CLIP C066 | 00:08:40.000 -> 00:08:48.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium shot, very slow push-in. 2D cartoon infographic style: a simplified drawn figure sits at a clean desk, posture upright and attentive, hands resting calmly on surface. The figure's expression is neutral-focused, eyes steady. Around the figure, small illustrated memory fragments float—each a flat geometric shape in muted blue or gray. One fragment subtly shifts from pale blue to slightly warmer blue-gray, the change almost imperceptible. The environment is a minimal, clean illustrated room with even lighting, no shadows, conveying quiet methodical focus. Audio: pen tapping desk softly. No voice, sound effects only. Cinematic documentary aesthetic, 24fps, 16:9. 8s. Hold 3.66s after.
+
+NEGATIVE:
+no live-action footage, no photorealistic rendering, no camera shake, no dramatic lighting shifts, no dark moody tones for positive valence, no bright warm colors for negative emotion, no talking heads, no text overlays
+TIMING: Hold 3.66s after.
+
+--------------------------------------------------
+CLIP C067 | 00:08:48.000 -> 00:08:56.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium shot, very slow dolly out. Animated cartoon memory image morphs through subtle iterations in time-lapse style. Bold outlines, vibrant colors transitioning from amber to gray gradient. Clean 2D infographic aesthetic, simple expressive shapes. Each frame barely different, creating hypnotic progression. Audio: clock ticking, paper sliding. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no live-action, no realistic photography, no 3D rendering, no camera drift, no abrupt transitions, no complex character animation
+
+--------------------------------------------------
+CLIP C068 | 00:08:56.000 -> 00:09:04.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Close-up, static hold. Cartoon facial feature (eye with bold outline) flickers between three similar versions in clean 2D style. Flat vibrant colors, simple expressive design. Each version slightly different in shape and color. Uncertainty visualized through rapid but controlled alternation. Audio: light switch clicking repeatedly. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no photorealistic faces, no live-action, no 3D modeling, no smooth morphing, no camera movement, no complex shading
+
+--------------------------------------------------
+CLIP C069 | 00:09:04.000 -> 00:09:12.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium shot, slow dolly in. Two cartoon memory fragments (simple geometric shapes with bold outlines) merge seamlessly into one. Clean 2D infographic style, vibrant flat colors blending from amber to unified gray. No visible seam, fusion appears natural and inevitable. Audio: zipper closing smoothly. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no live-action, no photorealism, no 3D effects, no camera drift, no complex textures, no dramatic lighting
+
+--------------------------------------------------
+CLIP C070 | 00:09:12.000 -> 00:09:20.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Split screen medium shot, static. Left: cartoon witness (simple expressive character, bold outlines) views photo on desk. Right: lineup of cartoon figures. Photo image overlays lineup figure as transparent layer, contamination visualized. Clean 2D infographic style, vibrant colors. Audio: photo sliding on desk, finger tapping glass. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no live-action, no photorealistic people, no 3D rendering, no camera movement, no complex backgrounds, no dramatic shadows
+
+--------------------------------------------------
+CLIP C071 | 00:09:20.000 -> 00:09:28.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium shot, very slow dolly in. Animated cartoon brain (simple bold outline, vibrant colors) with two input streams (photo and memory fragment) merging into single output. Clean 2D infographic flow diagram, arrows and shapes in flat design. Expressive but minimal aesthetic. Audio: water droplets merging, pen drawing lines. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no live-action, no realistic anatomy, no 3D brain models, no camera drift, no complex medical imagery, no photographic elements
+
+--------------------------------------------------
+CLIP C072 | 00:09:28.000 -> 00:09:36.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium shot, completely static. Cartoon lineup figure (simple character, bold outlines) compared to fragmented composite image. Puzzle pieces float around solid figure in clean 2D style. Vibrant teal accent color, flat design. Mismatch highlighted with visual gap between pieces and figure. Audio: puzzle pieces clicking together, single piece dropping. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no live-action, no photorealistic people, no 3D rendering, no camera movement, no complex shading, no dramatic lighting, no bright warm tones
+
+--------------------------------------------------
+CLIP C073 | 00:09:36.000 -> 00:09:44.000 | 8.0s
+Emotion: ANTICIPATION (low) | Arc: deep
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium close-up, very slow creeping push-in. Cartoon witness figure sits in living room, shoulders slightly forward, eyes fixed on glowing TV screen. Screen displays animated height chart and beard icon in bold amber outline. Witness's head tilts subtly as information flows from screen into simplified brain diagram visible through translucent skull. Amber data streams merge with existing gray memory fragments. Clean 2D infographic style, vibrant teal and amber palette, bold outlines. cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no live-action footage, no photorealistic rendering, no 3D depth, no camera drift, no bright warm visuals, no text overlays, no dialogue
+
+--------------------------------------------------
+CLIP C074 | 00:09:44.000 -> 00:09:52.000 | 8.0s
+Emotion: ANTICIPATION (low) | Arc: deep
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium close-up, very slow creeping push-in. Cartoon memory file folder opens in simplified brain space, amber height marker icon drops into existing gray memory structure. File integrates seamlessly with soft glow effect, no visible seam. Witness figure in background, posture relaxed, expression neutral. Clean 2D infographic aesthetic, bold outlines, amber and gray color scheme. cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no photorealism, no 3D rendering, no camera shake, no live actors, no text elements, no bright visuals for negative emotion
+
+--------------------------------------------------
+CLIP C075 | 00:09:52.000 -> 00:10:00.000 | 8.0s
+Emotion: ANTICIPATION (low) | Arc: deep
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium close-up, very slow creeping push-in. Cartoon witness figure now recalls modified memory with confident posture, chin slightly raised, hands gesturing affirmatively. Memory visualization glows solid amber with no indication of contamination—unified, coherent structure. Clean 2D infographic style, vibrant amber lighting, bold character outlines. cinematic documentary, 24fps, 16:9. 8s. Hold 2.2s after.
+
+NEGATIVE:
+no live-action, no photorealistic faces, no 3D depth, no camera drift, no text overlays, no dialogue audio
+TIMING: Hold 2.2s after.
+
+--------------------------------------------------
+CLIP C076 | 00:10:00.000 -> 00:10:08.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium shot, completely static. Two cartoon memory fragments—one amber, one gray—weld together with bright animated flash. Seam disappears instantly, leaving single unified false memory glowing solid teal. Clean 2D infographic style, bold outlines, teal accent lighting. cinematic documentary, 24fps, 16:9. 8s. Hold 0.9s after.
+
+NEGATIVE:
+no photorealism, no live-action, no 3D rendering, no camera movement, no text elements, no warm visuals
+TIMING: Hold 0.9s after.
+
+--------------------------------------------------
+CLIP C077 | 00:10:08.000 -> 00:10:16.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium shot, completely static. Stack of cartoon research documents piles up rapidly in accelerated motion, five decades compressed into rising tower. Documents transition from amber at base to gray at top. Clean 2D infographic style, bold outlines, geometric precision, teal accent lighting. cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no photorealism, no live-action footage, no 3D depth, no camera drift, no text overlays, no warm bright visuals
+
+--------------------------------------------------
+CLIP C078 | 00:10:16.000 -> 00:10:24.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium shot, completely static. Wide establishing view of massive cartoon evidence mountain, geometric pile of research files in clean 2D infographic style. Scale emphasizes overwhelming scientific consensus. Bold outlines, gray and teal color palette, authoritative composition. cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no photorealism, no live-action, no 3D rendering, no camera movement, no text elements, no warm color palette
+
+--------------------------------------------------
+CLIP C079 | 00:10:24.000 -> 00:10:32.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium shot, completely static. Cartoon blueprint labeled 'specification' replaces 'error' label in stark black-and-white contrast. Design feature visualization, not flaw. Clean 2D infographic style, bold outlines, high-contrast monochrome palette. cinematic documentary, 24fps, 16:9. 8s. Hold 4.9s after.
+
+NEGATIVE:
+no photorealism, no live-action, no 3D depth, no camera movement, no text overlays beyond label swap, no color
+TIMING: Hold 4.9s after.
+
+--------------------------------------------------
+CLIP C080 | 00:10:32.000 -> 00:10:40.000 | 8.0s
+Emotion: FEAR (low) | Arc: deep
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Close-up, slow creeping push-in building tension. Cartoon confidence meter rises with bold red arrow while accuracy meter falls with opposing motion. Inverse relationship visualized through diverging animated gauges. Witness figure in background, posture rigid, expression falsely certain. Clean 2D infographic style, red warning color, harsh high-contrast lighting. cinematic documentary, 24fps, 16:9. 8s. Hold 1.8s after.
+
+NEGATIVE:
+no photorealism, no live-action footage, no 3D rendering, no camera shake, no text overlays, no warm bright visuals
+TIMING: Hold 1.8s after.
+
+--------------------------------------------------
+CLIP C081 | 00:10:40.000 -> 00:10:48.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium shot, completely static. Cartoon brain with bold outlines and vibrant colors, centered in frame, eyes closed in calm focus. Circular arrows loop around the brain in smooth, continuous motion, glowing amber. Clean 2D infographic style with flat teal background and minimal geometric shapes. Arrows trace perfect circles, creating hypnotic repetition pattern. Brain remains still while arrows rotate steadily. Audio: arrows whooshing in circular pattern. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no live-action, no realistic footage, no photographic elements, no 3D rendering, no textured surfaces, no camera drift, no depth of field blur, no room tone, no ambient wash, no music
+
+--------------------------------------------------
+CLIP C082 | 00:10:48.000 -> 00:10:56.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium shot, completely static. Cartoon witness figure with simple expressive face, shoulders relaxed, hands gesturing openly toward uniformed officer figure. Both drawn with bold outlines and flat vibrant colors. Speech bubble appears above witness with clean geometric shape, no text inside. Officer stands attentive, notepad visible. Teal-accented institutional background with minimal detail. Witness's posture conveys cooperative trust. Audio: pen scratching on notepad. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no live-action, no realistic people, no photographic elements, no text in bubbles, no 3D rendering, no camera movement, no ambient sound, no room tone, no music
+
+--------------------------------------------------
+CLIP C083 | 00:10:56.000 -> 00:11:04.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium shot, completely static. Same cartoon witness now facing detective figure in different uniform. Second speech bubble overlays first, slightly offset, both empty. Witness's posture shifts subtly—shoulders slightly more forward, hands more animated. Detective holds tablet device. Colors shift from cool teal to warmer amber tones. Bold outlines maintain clean infographic aesthetic. Audio: keyboard clicking on tablet. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no live-action, no realistic footage, no text elements, no 3D rendering, no camera drift, no depth effects, no ambient wash, no music, no voice
+
+--------------------------------------------------
+CLIP C084 | 00:11:04.000 -> 00:11:12.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium shot, completely static. Cartoon witness surrounded by four authority figures—officer, detective, prosecutor, jury member—arranged in semicircle. Multiple speech bubbles multiply and overlap, creating visual clutter. Witness's posture now tense, hands clasped, expression slightly strained. Amber glow intensifies. Bold outlines and flat colors maintain 2D style. Bubbles stack and intersect chaotically. Audio: papers shuffling rapidly. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 1s after.
+
+NEGATIVE:
+no live-action, no photographic realism, no text in bubbles, no 3D depth, no camera movement, no ambient tone, no music, no silence
+TIMING: Hold 1s after.
+
+--------------------------------------------------
+CLIP C085 | 00:11:12.000 -> 00:11:20.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium shot, completely static. Cartoon puzzle with bold geometric pieces, several gaps glowing amber against teal background. Empty spaces pulse gently with warm light. Clean 2D infographic style with simple shapes and vibrant colors. Puzzle pieces have clean edges, gaps are perfect geometric voids. Amber glow suggests something missing but significant. Audio: soft clicking of puzzle pieces settling. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no live-action, no photographic textures, no 3D rendering, no realistic materials, no camera movement, no ambient wash, no music, no room tone
+
+--------------------------------------------------
+CLIP C086 | 00:11:20.000 -> 00:11:28.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium shot, completely static. Same puzzle now complete, but new pieces are visibly different color—bright orange against original teal pieces. Forced fit visible through mismatched edges and color contrast. Bold outlines emphasize the mismatch. Clean 2D cartoon style with flat colors. Puzzle appears whole but wrong. Amber glow fades to reveal the color discrepancy. Audio: pieces snapping into place with slight strain. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 2s after.
+
+NEGATIVE:
+no live-action, no photographic realism, no 3D effects, no texture mapping, no camera drift, no ambient sound, no music, no silence
+TIMING: Hold 2s after.
+
+--------------------------------------------------
+CLIP C087 | 00:11:28.000 -> 00:11:36.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium shot, completely static camera. A 2D cartoon figure with simple rounded features sits at a clean desk, eyes slightly narrowed in concentration, hand resting thoughtfully on chin. Above their head, three nested speech bubbles float in descending size—each containing a smaller, slightly distorted version of the same scene. The bubbles have bold black outlines and vibrant teal accents. The background is a minimal flat-color office space with soft institutional blue-gray walls. The recursive pattern creates visual depth without camera movement. Cinematic documentary style, 24fps, 16:9. 8s. Hold 2.94s after.
+
+NEGATIVE:
+no photorealism, no live-action, no 3D rendering, no camera drift, no text in bubbles, no dialogue, no voice, no generic stock patterns, no warm lighting for this neutral-positive emotion
+TIMING: Hold 2.94s after.
+
+--------------------------------------------------
+CLIP C088 | 00:11:36.000 -> 00:11:44.000 | 8.0s
+Emotion: SURPRISE (low) | Arc: deep
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium shot transitioning to wide via slow ascending crane. Cartoon confidence meter with arrow rising from left to right, bold red arrow against teal background. Behind meter, memory fragments blur and fade—small geometric shapes dissolving into amber haze. Clean 2D infographic style with vibrant colors. Arrow climbs steadily as background details lose definition. Meter reaches top as fragments become completely abstract. Audio: ascending tone with fragments dissolving. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no live-action, no photographic realism, no 3D rendering, no realistic textures, no camera drift, no ambient wash, no music, no silence
+
+--------------------------------------------------
+CLIP C089 | 00:11:44.000 -> 00:11:52.000 | 8.0s
+Emotion: SURPRISE (low) | Arc: deep
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium shot transitioning to wide via very slow ascending crane pull-back. 2D cartoon brain character with wide eyes and raised eyebrows, floating puzzle pieces in vibrant mismatched colors (orange, purple, green) hovering around it but not connecting. Brain's expression shows dawning realization. Puzzle pieces drift slowly, refusing to align. Muted institutional blue-gray background with subtle teal accent lighting. Audio: puzzle pieces scraping against each other, soft whoosh of floating objects. No voice, sound effects only. Cinematic documentary style, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no realistic footage, no live-action, no photographic elements, no text overlays, no warm bright visuals, no smooth puzzle assembly, no generic stock patterns
+
+--------------------------------------------------
+CLIP C090 | 00:11:52.000 -> 00:12:00.000 | 8.0s
+Emotion: SURPRISE (low) | Arc: deep
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium shot transitioning to wide via very slow ascending crane pull-back. 2D cartoon witness character standing tall with chest puffed out, confident posture, bold outline, vibrant colors. Behind the character, fragmented memory images float as transparent overlays in contradictory colors (red vs blue, sharp vs blurry), creating ironic visual contrast. Character's confident stance juxtaposed against chaotic background. Institutional blue-gray environment with teal accent lighting. Audio: footsteps on hard floor, papers rustling. No voice, sound effects only. Cinematic documentary style, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no realistic footage, no live-action, no photographic elements, no text overlays, no warm bright visuals for negative emotion, no generic stock patterns
+
+--------------------------------------------------
+CLIP C091 | 00:12:00.000 -> 00:12:08.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium shot, completely static. 2D cartoon infographic of interconnected gears and cogs in clean mechanical style, each labeled with simple icons (question mark, lineup silhouettes, clock). Bold outlines, vibrant teal and blue colors. Gears rotate slowly in synchronized motion. Character observing the system with focused expression, hands gesturing toward the mechanism. Authoritative Bloomberg-style lighting with 3700K teal accent. Audio: gears clicking rhythmically, mechanical ticking. No voice, sound effects only. Cinematic documentary style, 24fps, 16:9. 8s. Hold 2.94s after.
+
+NEGATIVE:
+no realistic footage, no live-action, no photographic elements, no text overlays, no camera drift, no generic stock patterns
+TIMING: Hold 2.94s after.
+
+--------------------------------------------------
+CLIP C092 | 00:12:08.000 -> 00:12:16.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium shot, completely static. 2D cartoon infographic of same gear system, but one gear glows bright red with warning pulse. Bold outlines, vibrant colors. Red gear jams, causing domino effect as other gears slow and stutter. Character's expression shifts to concern, hand reaching toward the failing gear. Authoritative Bloomberg-style lighting with 3700K teal accent. Audio: gear grinding to halt, metallic scraping, sudden stop. No voice, sound effects only. Cinematic documentary style, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no realistic footage, no live-action, no photographic elements, no text overlays, no camera drift, no generic stock patterns
+
+--------------------------------------------------
+CLIP C093 | 00:12:16.000 -> 00:12:24.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium shot, completely static. 2D cartoon infographic showing broken gears and cogs scattering across frame in high contrast black and white with teal accents. Bold outlines, stark visual. Gears tumble and bounce, system collapsing. Character stands amid the wreckage with hands raised in dismay, expression showing realization. Authoritative Bloomberg-style lighting with 3700K teal accent. Audio: gears clattering on hard surface, metallic bouncing, final settling. No voice, sound effects only. Cinematic documentary style, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no realistic footage, no live-action, no photographic elements, no text overlays, no camera drift, no generic stock patterns
+
+--------------------------------------------------
+CLIP C094 | 00:12:24.000 -> 00:12:32.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium shot, completely static. 2D cartoon detective character leaning forward with subtle gesture, hand extended slightly. Bold outlines, vibrant colors. Witness character's eyes follow the detective's gesture, head tilting. Visual suggestion shown through directional lines or subtle glow connecting detective's gesture to witness's gaze. Institutional blue-gray environment with teal accent lighting. Audio: chair creaking, clothing rustling, pen tapping. No voice, sound effects only. Cinematic documentary style, 24fps, 16:9. 8s. Hold 3.81s after.
+
+NEGATIVE:
+no realistic footage, no live-action, no photographic elements, no text overlays, no camera drift, no generic stock patterns
+TIMING: Hold 3.81s after.
+
+--------------------------------------------------
+CLIP C095 | 00:12:32.000 -> 00:12:40.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium shot, completely static camera. A cartoon detective figure with bold outlines leans forward slightly, hand resting on chin, eyes focused and steady—posture radiating calm authority. Behind him, a lineup of five cartoon faces in simple, expressive 2D style; one face subtly glows with a soft teal highlight as the detective's shadow falls across it. Clean, institutional blue-gray background with minimal detail, fluorescent overhead lighting casting flat, even illumination. Audio: pen tapping glass. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 0.5s after.
+
+NEGATIVE:
+no camera drift, no realistic footage, no 3D rendering, no text overlays, no warm lighting, no dynamic movement, no ambient hum, no voice
+TIMING: Hold 0.5s after.
+
+--------------------------------------------------
+CLIP C096 | 00:12:40.000 -> 00:12:48.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium shot, completely static. 2D cartoon gavel striking down in single decisive frame. Bold outlines, stark minimal composition. Wrong figure character behind simplified bars in deep institutional blue background with high contrast black bars. Character's posture slumped, hands gripping bars, expression showing resignation. Authoritative Bloomberg-style lighting with 3700K teal accent. Audio: gavel striking wood, metal bars clanging shut, lock clicking. No voice, sound effects only. Cinematic documentary style, 24fps, 16:9. 8s. Hold 6.35s after.
+
+NEGATIVE:
+no realistic footage, no live-action, no photographic elements, no text overlays, no camera drift, no generic stock patterns
+TIMING: Hold 6.35s after.
+
+--------------------------------------------------
+CLIP C097 | 00:12:48.000 -> 00:12:56.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium shot, completely static. Animated timeline with three glowing markers labeled 1970s, 1990s, 2020s in bold cartoon style. Institutional blue-gray background with teal accent lighting. Stack of illustrated research papers appears beneath each marker, growing taller with each decade. Gap between knowledge markers and action widens visually as red conviction figures accumulate on opposite side of frame. Clean 2D infographic aesthetic with bold outlines and vibrant colors. cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no live-action footage, no realistic people, no photographic elements, no camera movement, no warm bright colors, no text overlays, no dialogue
+
+--------------------------------------------------
+CLIP C098 | 00:12:56.000 -> 00:13:04.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium shot, completely static camera. A 2D cartoon desk in bold outline style, stacked high with vibrant red folders labeled with years (1970s, 1990s, 2000s, 2010s). Each folder has a simple illustrated face icon showing distress. The stack grows taller as the camera holds, folders appearing one by one in smooth animation. The desk sits in a clean, minimal office space with teal accent lighting casting geometric shadows. The folders lean precariously but never fall. Cinematic documentary, 24fps, 16:9. 8s. Hold 2.5s after.
+
+NEGATIVE:
+no live-action footage, no photorealistic rendering, no camera movement, no text overlays, no talking characters, no warm bright colors, no cheerful expressions
+TIMING: Hold 2.5s after.
+
+--------------------------------------------------
+CLIP C099 | 00:13:04.000 -> 00:13:12.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium shot, completely static. Animated stack of illustrated research papers with glowing amber edges appears center frame. Clean 2D cartoon style with bold outlines. Papers feature simple diagrams of memory bubbles and brain icons. Warm amber light emanates from stack against muted blue scholarly background with teal accents. Vibrant colors, educational infographic aesthetic. No text visible on papers, only visual symbols. cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no photorealistic elements, no live-action, no camera movement, no dark cold colors, no text on papers, no dialogue
+
+--------------------------------------------------
+CLIP C100 | 00:13:12.000 -> 00:13:20.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium shot, completely static. Animated 2D papers from previous stack now floating away, drifting upward and outward in slow motion. Clean cartoon style with bold outlines. Amber glow fades as papers disperse against melancholic blue-gray background with teal accents. Knowledge exists but unheeded. Vibrant colors transitioning to muted tones. Educational infographic aesthetic showing institutional neglect. cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no realistic footage, no camera movement, no bright warm visuals, no text elements, no dialogue, no photographic style
+
+--------------------------------------------------
+CLIP C101 | 00:13:20.000 -> 00:13:28.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium shot, completely static. Animated cartoon scientist character at desk with contemplative posture, hand on chin. Floating memory bubbles above head shift shape and color from blue to amber. Clean 2D infographic style with bold outlines. Muted institutional blues dominate with teal accents. Scholarly, contemplative atmosphere. Simple expressive character design. Bubbles morph gently, showing malleability concept visually. cinematic documentary, 24fps, 16:9. 8s. Hold 1.2s after.
+
+NEGATIVE:
+no live-action, no photorealistic rendering, no camera movement, no text overlays, no dialogue, no bright warm colors
+TIMING: Hold 1.2s after.
+
+--------------------------------------------------
+CLIP C102 | 00:13:28.000 -> 00:13:36.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium shot, completely static. Simplified animated courtroom with bold cartoon gavel striking down center frame. Witness stand glows warm amber against institutional gray walls with teal accents. Clean 2D infographic style with vibrant colors and bold outlines. Legal machinery continues unchanged. No characters visible, only symbolic elements. Authoritative but sterile atmosphere. cinematic documentary, 24fps, 16:9. 8s. Hold 0.6s after.
+
+NEGATIVE:
+no realistic footage, no camera movement, no bright warm backgrounds, no text elements, no dialogue, no photographic style
+TIMING: Hold 0.6s after.
+
+--------------------------------------------------
+CLIP C103 | 00:13:36.000 -> 00:13:44.000 | 8.0s
+Emotion: ANTICIPATION (low) | Arc: deep
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium close-up, very slow push-in. Animated cartoon witness character pointing confidently across frame with extended arm and determined expression. Jury figures in background lean forward in unison, simple silhouettes with engaged postures. Warm amber light intensifies on pointing gesture. Bold outlines, vibrant colors. Clean 2D educational style. Conviction through certainty visualized. Dramatic side lighting creates moral clarity atmosphere. cinematic documentary, 24fps, 16:9. 8s. Hold 3s after.
+
+NEGATIVE:
+no live-action, no photorealistic rendering, no cold dark lighting, no text overlays, no dialogue, no camera drift
+TIMING: Hold 3s after.
+
+--------------------------------------------------
+CLIP C104 | 00:13:44.000 -> 00:13:52.000 | 8.0s
+Emotion: ANTICIPATION (low) | Arc: deep
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium close-up, very slow push-in continuing. Animated cartoon hand pointing in extreme close-up with bold outlines and vibrant amber lighting. Background jury silhouettes lean further forward, creating visual weight. Clean 2D infographic style. Gesture commands belief. Warm amber intensifies to near-glow. Simple but expressive character design. Dramatic unresolved tension in composition. Held breath atmosphere. cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no realistic footage, no camera drift, no cold colors, no text elements, no dialogue, no photographic rendering
+
+--------------------------------------------------
+CLIP C105 | 00:13:52.000 -> 00:14:00.000 | 8.0s
+Emotion: ANTICIPATION (low) | Arc: deep
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium close-up, very slow creeping push-in. Cartoon witness figure with bold outlines stands at elevated witness stand, arm extended in confident pointing gesture, shoulders squared, expression resolute with simplified determined eyes. Finger aims downward toward smaller accused figure below, creating visual power imbalance through scale. Institutional blue-gray courtroom environment with amber light creeping in from side, creating dramatic unresolved shadows. Audio: gavel tapping wood, paper rustling, chair creaking. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no realistic footage, no live-action, no photographic elements, no text overlays, no camera drift, no bright cheerful colors, no soft lighting, no resolved composition
+
+--------------------------------------------------
+CLIP C106 | 00:14:00.000 -> 00:14:08.000 | 8.0s
+Emotion: ANTICIPATION (low) | Arc: deep
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium close-up, very slow creeping push-in. 2D cartoon witness figure with bold outlines, hand raised and pointing forward, eyes wide with unwavering certainty, jaw set firm. Amber side lighting casts dramatic shadow across half the face. Background shows simplified courtroom benches in muted blue-gray, jury box silhouettes leaning forward. The pointing gesture holds steady, creating unresolved visual tension. Audio: gavel tap echoing, paper rustling, chair creaking. No voice, sound effects only. Cinematic documentary style, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no photorealistic people, no live-action footage, no text overlays, no speech bubbles, no camera drift, no bright cheerful colors, no resolved composition
+
+--------------------------------------------------
+CLIP C107 | 00:14:08.000 -> 00:14:16.000 | 8.0s
+Emotion: SADNESS (low) | Arc: deep
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Close-up, very slow static hold. Cartoon brain with bold outlines floats in muted gray space, tangled colorful threads extending from surface, threads slowly unraveling and drifting away. Brain expression shows confusion through simplified worried eyes and downturned mouth. Threads dissolve into transparency as scientific complexity fades. Overcast single-source lighting, 3000K very muted palette, no color accent. Audio: thread snapping, paper tearing softly, air hissing out. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no realistic footage, no live-action, no photographic elements, no text overlays, no camera drift, no bright colors, no warm tones, no resolved imagery
+
+--------------------------------------------------
+CLIP C108 | 00:14:16.000 -> 00:14:24.000 | 8.0s
+Emotion: SADNESS (low) | Arc: deep
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Isolated wide, gentle pull-back. Cartoon research papers with bold outlines scatter across frame, each page showing simplified brain diagrams and data charts. Papers fade to transparency and float upward, dismissed into white void. Single figure in background with slumped shoulders, head tilted down, hands open in helpless gesture. Muted gray environment, overcast lighting, 3000K palette. Audio: papers sliding on surface, pages flipping, wind carrying papers away. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no realistic footage, no live-action, no photographic elements, no text overlays, no camera drift, no bright colors, no warm tones, no energetic movement
+
+--------------------------------------------------
+CLIP C109 | 00:14:24.000 -> 00:14:32.000 | 8.0s
+Emotion: SADNESS (low) | Arc: deep
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Close-up, very slow gentle pull-back. 2D cartoon figure with slumped shoulders and downcast eyes, hand touching temple in confusion, surrounded by floating fragmented memory icons (puzzle pieces, faded photographs, question marks) in desaturated gray-blue palette. Single soft overcast light from above. Empty courtroom benches fade into background mist. The figure's posture conveys quiet resignation and doubt. Audio: rain tapping glass softly, distant muffled footsteps, paper sliding. No voice, sound effects only. Cinematic documentary style, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no photorealistic rendering, no live-action, no bright colors, no energetic movement, no text, no speech bubbles, no camera drift
+
+--------------------------------------------------
+CLIP C110 | 00:14:32.000 -> 00:14:40.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium shot, very slow completely static. 2D cartoon bureaucratic machine with bold outlines and vibrant institutional blue-gray color palette, gears and cogs turning methodically. Small glowing truth symbols (lightbulbs, scrolls) being crushed beneath mechanical stamps and conveyor belts. Machine dominates frame with confident, authoritative posture—no hesitation in its operation. Efficiency visualized through smooth, relentless mechanical action. Environment: clean infographic-style factory floor with teal accent lighting, authoritative Bloomberg-style atmosphere. Audio: stamps thumping, gears clicking. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 1.8s after.
+
+NEGATIVE:
+no live-action footage, no realistic textures, no photographic elements, no camera drift, no generic stock patterns, no bright warm visuals, no talking heads, no text overlays
+TIMING: Hold 1.8s after.
+
+--------------------------------------------------
+CLIP C111 | 00:14:40.000 -> 00:14:48.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium shot, completely static hold. Cartoon file folders with bold outlines stack upward in accelerating sequence, each folder opening briefly to reveal wrongful conviction icon (broken scales, prison bars, crossed-out face). Stack grows taller as amber light shifts toward crimson. Figure in background with shoulders hunched, hands sorting through endless folders, expression showing exhaustion through simplified tired eyes. Audio: folders slapping down, paper shuffling rapidly, stamps hitting paper. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 0.88s after.
+
+NEGATIVE:
+no realistic footage, no live-action, no photographic elements, no text overlays, no camera drift, no bright cheerful colors, no resolved composition
+TIMING:  Hold 0.88s after.
+
+--------------------------------------------------
+CLIP C112 | 00:14:48.000 -> 00:14:56.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium shot, completely static hold. Cartoon DNA helix with bold outlines and vibrant colors appears center frame, rotating slowly, then shatters cartoon prison bars in explosive burst. Bars fragment and scatter as exoneration visualized through structural collapse. Bold color contrast: teal DNA against crimson bars breaking into black-and-white fragments. Institutional environment crumbles at edges. Audio: glass shattering, metal bars clanging, debris scattering on ground. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no realistic footage, no live-action, no photographic elements, no text overlays, no camera drift, no muted colors, no soft resolution
+
+--------------------------------------------------
+CLIP C113 | 00:14:56.000 -> 00:15:04.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium shot, completely static. Animated grid of cartoon case file folders multiplying across screen in clean 2D infographic style. Each folder icon glows red briefly in sequence. Simple drawn character with steady posture and focused expression stands beside grid, hand gesturing toward pattern. Institutional blue-gray background with teal accent lighting. Audio: folder icons appearing with soft pop sounds, brief electronic beep for each red glow. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no live-action footage, no realistic photography, no camera drift, no generic stock patterns, no photorealistic rendering, no 3D modeling, no talking head
+
+--------------------------------------------------
+CLIP C114 | 00:15:04.000 -> 00:15:12.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium shot, completely static. Stylized 2D cartoon magnifying glass icon revealing hidden layers beneath surface. Bold outlined Innocence Project logo transforms into magnifying glass shape. Simple character with upright posture and determined expression holds magnifying glass over case files. Teal accent lighting on blue-gray background. Clean infographic aesthetic with vibrant colors. Audio: magnifying glass sliding into position with smooth whoosh, soft reveal chime. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 3.39s after.
+
+NEGATIVE:
+no live-action footage, no realistic photography, no camera drift, no generic stock patterns, no photorealistic rendering, no 3D modeling, no talking head
+TIMING: Hold 3.39s after.
+
+--------------------------------------------------
+CLIP C115 | 00:15:12.000 -> 00:15:20.000 | 8.0s
+Emotion: ANTICIPATION (low) | Arc: deep
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium close-up, very slow creeping push-in. Cartoon witness figure with furrowed brow and tense shoulders, leaning forward slightly, eyes darting left to right. Scanning five cartoon suspect faces arranged side-by-side in a lineup, hand hovering indecisively between two faces. Amber-lit institutional room with dramatic side lighting casting unresolved shadows, muted blue-gray walls. Audio: paper rustling, finger tapping table. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no live-action footage, no photorealistic faces, no bright cheerful lighting, no resolved composition, no static eyes, no camera drift
+
+--------------------------------------------------
+CLIP C116 | 00:15:20.000 -> 00:15:28.000 | 8.0s
+Emotion: ANTICIPATION (low) | Arc: deep
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium close-up, very slow creeping push-in. Cartoon witness character with wide, darting eyes and furrowed brow, shoulders slightly hunched forward in concentration. Character's gaze rapidly shifts between six cartoon portrait frames arranged in a grid, hand hovering indecisively between them. Warm amber-lit room with soft glowing edges, institutional blue-gray walls fading into warm amber tones, creating atmosphere of mounting cognitive pressure. Audio: paper rustling, finger tapping table surface. No voice, sound effects only. Cinematic documentary style, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no photorealistic faces, no dark cold lighting, no static composition, no text overlays, no speech bubbles visible, no harsh shadows
+
+--------------------------------------------------
+CLIP C117 | 00:15:28.000 -> 00:15:36.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium shot, completely static. Cartoon witness with resigned posture, shoulders slumped, pointing at one face in lineup with dotted line connecting to wrong suspect. Selected face glows amber while actual perpetrator silhouette fades in background corner. Clean teal-accented institutional room with authoritative Bloomberg-style lighting, muted blue-gray palette. Audio: finger tapping photo, paper sliding. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 1.37s after.
+
+NEGATIVE:
+no live-action, no photorealistic rendering, no bright warm tones, no camera movement, no text labels, no generic stock footage
+TIMING: Hold 1.37s after.
+
+--------------------------------------------------
+CLIP C118 | 00:15:36.000 -> 00:15:44.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium shot, completely static. Cartoon selected suspect glowing bright amber in foreground, bold outline pulsing, while true perpetrator figure fades to gray silhouette in distant background. Witness figure off to side with hand covering mouth, eyes wide. Teal-accented institutional space with authoritative lighting, muted blue-gray walls. Audio: photo dropping on table, pen clicking. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no photorealism, no camera movement, no bright cheerful colors, no text elements, no generic stock patterns, no live-action footage
+
+--------------------------------------------------
+CLIP C119 | 00:15:44.000 -> 00:15:52.000 | 8.0s
+Emotion: ANTICIPATION (low) | Arc: deep
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium close-up, very slow creeping push-in. Cartoon witness figure with slightly tilted head and uncertain expression, eyebrows raised in question, one hand touching chin thoughtfully. Large speech bubble with question mark hovers above, casting subtle shadow that presses down on character's shoulders. Warm amber lighting with soft institutional blue-gray background transitioning to warmer tones, creating atmosphere of subtle coercion. Audio: pen clicking, paper sliding across desk. No voice, sound effects only. Cinematic documentary style, 24fps, 16:9. 8s. Hold 3.38s after.
+
+NEGATIVE:
+no photorealistic rendering, no dark cold palette, no aggressive gestures, no text inside speech bubble, no harsh contrast, no static framing
+TIMING: Hold 3.38s after.
+
+--------------------------------------------------
+CLIP C120 | 00:15:52.000 -> 00:16:00.000 | 8.0s
+Emotion: ANTICIPATION (low) | Arc: deep
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium close-up, very slow creeping push-in. Cartoon witness character with downcast eyes and slight reluctant nod, shoulders sagging under invisible weight, hand moving hesitantly toward lineup. Pressure lines radiate outward from hovering question mark symbol, creating visual tension field around character's head. Muted amber and institutional blue-gray palette with uneasy color blending, atmosphere of compliance overriding certainty. Audio: chair creaking, fingernail tapping photograph. No voice, sound effects only. Cinematic documentary style, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no photorealistic style, no dark cold lighting for positive emotion, no bright cheerful colors, no confident posture, no text elements, no resolved composition
+
+--------------------------------------------------
+CLIP C121 | 00:16:00.000 -> 00:16:08.000 | 8.0s
+Emotion: ANTICIPATION (low) | Arc: deep
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium close-up, very slow creeping push-in. Animated speech bubble with bold question mark floats in center frame, glowing amber outline pulsing gently. Simple 2D cartoon style with vibrant colors and clean lines. The bubble hovers against a muted institutional blue background, suggesting unresolved tension. Audio: paper rustling, pen tapping on clipboard. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no live-action footage, no realistic people, no photographic elements, no 3D rendering, no text inside bubble, no camera drift, no bright cheerful colors for tense moment
+
+--------------------------------------------------
+CLIP C122 | 00:16:08.000 -> 00:16:16.000 | 8.0s
+Emotion: FEAR (low) | Arc: deep
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Close-up, very slow creeping push-in building. Two cartoon speech bubbles side-by-side in clean 2D infographic style. Left bubble amber with soft glow, right bubble crimson with harsh edges. Bold black arrow transforms between them, suggesting catastrophic shift. High contrast lighting, dim background with red accent. Audio: keyboard clicking rapidly, notification ping. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no live-action, no realistic textures, no 3D elements, no text in bubbles, no camera drift, no warm bright visuals for negative emotion
+
+--------------------------------------------------
+CLIP C123 | 00:16:16.000 -> 00:16:24.000 | 8.0s
+Emotion: SADNESS (low) | Arc: deep
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Close-up, static hold. Cartoon detective figure in simple 2D style stands beside lineup of five silhouettes, all bold outlines. One silhouette glows faintly amber. Detective holds clipboard, posture neutral but eyes directed toward glowing figure. Muted blue-gray institutional background, low key lighting. Audio: pen scratching paper, chair creaking. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no live-action, no photorealistic rendering, no 3D models, no text elements, no camera movement, no bright colors for sad moment
+
+--------------------------------------------------
+CLIP C124 | 00:16:24.000 -> 00:16:32.000 | 8.0s
+Emotion: SADNESS (low) | Arc: deep
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Close-up, gentle pull-back. Cartoon detective's eyes—simple dots—look toward glowing silhouette. Clean 2D infographic style with bold outlines. Detective's gaze creates directional visual cue. Muted color palette, overcast lighting, 3000K tone. Audio: footsteps on linoleum, door closing softly. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no live-action, no realistic faces, no 3D rendering, no text, no camera drift, no bright warm visuals for negative emotion
+
+--------------------------------------------------
+CLIP C125 | 00:16:32.000 -> 00:16:40.000 | 8.0s
+Emotion: SADNESS (low) | Arc: deep
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Close-up, static hold. Cartoon detective's hand points subtly toward glowing figure in lineup. Witness figure on opposite side mirrors the gesture unconsciously. Dotted line connects their hands, visualizing influence. Clean 2D style, muted colors, low key lighting. Audio: paper sliding across table, breath exhale. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 1s after.
+
+NEGATIVE:
+no live-action, no photorealistic elements, no 3D models, no text, no camera movement, no bright colors for sad tone
+TIMING:  Hold 1s after.
+
+--------------------------------------------------
+CLIP C126 | 00:16:40.000 -> 00:16:48.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium shot, completely static. Dotted line connects cartoon detective's eyes to witness's eyes across simple table. Amber particles flow along line in clean 2D infographic style. Both figures have minimal dot eyes, bold outlines. Teal accent lighting, 3700K, authoritative Bloomberg-style clarity. Audio: pen clicking, paper flipping. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no live-action, no realistic rendering, no 3D elements, no text, no camera drift, no dark cold visuals for positive emotion
+
+--------------------------------------------------
+CLIP C127 | 00:16:48.000 -> 00:16:56.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium shot, completely static. Blueprint-style diagram in clean 2D cartoon infographic style shows lineup procedure with bold arrows pointing toward conviction outcome icon. Mechanical, deliberate design with teal accents. Simple shapes, vibrant colors, authoritative lighting. Audio: ruler sliding on paper, stamp pressing. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 1s after.
+
+NEGATIVE:
+no live-action, no photorealistic textures, no 3D rendering, no text labels, no camera movement, no dark cold visuals for positive emotion
+TIMING:  Hold 1s after.
+
+--------------------------------------------------
+CLIP C128 | 00:16:56.000 -> 00:17:04.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium shot, completely static. Cartoon figure in clean 2D style shrugs with palms up, shoulders raised. Empty speech bubble above head. Dismissive body language, muted blue-gray tones, simple bold outlines. Authoritative lighting, teal accent. Audio: papers shuffling, chair scraping floor. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 4s after.
+
+NEGATIVE:
+no live-action, no realistic people, no 3D models, no text in bubble, no camera drift, no dark cold visuals for positive emotion
+TIMING:  Hold 4s after.
+
+--------------------------------------------------
+CLIP C129 | 00:17:04.000 -> 00:17:12.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium shot, completely static camera. A simplified 2D cartoon figure in business attire stands centered in frame, arms crossed, chin slightly raised—posture conveying calm authority. The character's expression is neutral but confident, eyes forward. Behind them, a clean infographic-style background shows abstract teal-accented data nodes and geometric shapes suggesting institutional structure. The color palette is muted blue-gray with sharp teal highlights. Audio: paper rustling, pen tapping desk. No voice, sound effects only. Cinematic documentary style, 24fps, 16:9. 8s. Hold 0s after.
+
+NEGATIVE:
+no photorealism, no live-action footage, no camera drift, no warm amber tones, no dark moody lighting, no talking head video, no generic stock patterns, no text overlays
+
+--------------------------------------------------
+CLIP C130 | 00:17:12.000 -> 00:17:20.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium shot, completely static. The same 2D cartoon figure from the previous frame now fades to semi-transparency, becoming ghost-like with reduced opacity. Bold outlines soften, vibrant teal color desaturates toward pale gray. The figure's shrug posture remains frozen as it dissolves. The pale background expands to fill more of the frame, creating a sense of emptiness and erasure. The figure's evaporation visualizes the collapse of the counterargument under scrutiny. Audio: none. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no live-action footage, no realistic humans, no photographic elements, no camera drift, no warm bright colors, no sudden movements, no text overlays
+
+--------------------------------------------------
+CLIP C131 | 00:17:20.000 -> 00:17:28.000 | 8.0s
+Emotion: TRUST (mid) | Arc: deep
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium shot, completely static. Against a pale gray background, small crimson 2D cartoon silhouettes begin appearing one by one in a slow, deliberate sequence. Each figure is identical—simple bold outlines, no facial features, standing upright. The figures materialize from left to right, top to bottom, building a grid pattern. Vibrant red against muted background creates stark contrast. The accumulation is methodical, each new figure adding weight to the visual count. Audio: none. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 3s after.
+
+NEGATIVE:
+no live-action footage, no realistic humans, no photographic elements, no camera movement, no warm bright colors for this somber data, no text overlays
+TIMING: Hold 3s after.
+
+--------------------------------------------------
+CLIP C132 | 00:17:28.000 -> 00:17:36.000 | 8.0s
+Emotion: TRUST (mid) | Arc: deep
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium shot, completely static. The crimson 2D cartoon silhouettes multiply rapidly across the pale gray background, filling the frame in an accelerating cascade. Bold red outlines create an overwhelming visual mass as identical figures appear in quick succession, forming dense rows and columns. The grid pattern expands outward from center, each new figure adding to the mounting visual weight. Vibrant red dominates the composition, transforming from sparse to saturated. The multiplication visualizes escalating human cost. Audio: none. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no live-action footage, no realistic humans, no photographic elements, no camera movement, no warm bright colors, no text overlays
+
+--------------------------------------------------
+CLIP C133 | 00:17:36.000 -> 00:17:44.000 | 8.0s
+Emotion: TRUST (mid) | Arc: deep
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium shot, slow zoom out. All 114 crimson 2D cartoon silhouettes now visible in a complete grid formation against pale gray background. Bold red outlines create a dense, organized pattern—rows and columns of identical standing figures. As the camera slowly pulls back, the full scale of the grid is revealed, emphasizing the magnitude of the count. Vibrant red against muted background creates stark, sobering contrast. The static grid holds steady, each figure representing documented loss. Audio: none. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no live-action footage, no realistic humans, no photographic elements, no rapid movement, no warm bright colors, no text overlays
+
+--------------------------------------------------
+CLIP C134 | 00:17:44.000 -> 00:17:52.000 | 8.0s
+Emotion: TRUST (mid) | Arc: deep
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium shot, completely static. The grid of 114 crimson 2D cartoon silhouettes holds motionless against pale gray background. Bold red outlines remain sharp and clear, each identical figure standing in formation. No movement, no change—pure visual weight. The static composition emphasizes the permanence and gravity of preventable death. Vibrant red against muted background creates unrelenting contrast. The stillness itself becomes the statement, a moment of contemplation before the next revelation. Audio: none. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no live-action footage, no realistic humans, no photographic elements, no camera movement, no warm bright colors, no text overlays
+
+--------------------------------------------------
+CLIP C135 | 00:17:52.000 -> 00:18:00.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium shot, completely static. Small 2D cartoon family figures appear beside the grid of crimson silhouettes. Each family group consists of 2-3 simple figures with bold outlines in muted blue and gray tones. Their faces show simple, expressive confusion—tilted heads, furrowed brows, hands raised in questioning gestures. The families are positioned at the edges of the red grid, visually separated from the victims. Vibrant red silhouettes contrast with subdued family figures, emphasizing disconnection and lack of closure. Audio: none. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 3s after.
+
+NEGATIVE:
+no live-action footage, no realistic humans, no photographic elements, no camera movement, no warm bright colors, no text overlays
+TIMING: Hold 3s after.
+
+--------------------------------------------------
+CLIP C136 | 00:18:00.000 -> 00:18:08.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium shot, completely static camera. A 2D cartoon family of four figures stands in a clean, minimalist courtroom setting—bold outlines, vibrant but muted institutional blues and grays. Their postures are upright but uncertain, hands clasped or at sides, faces drawn with simple confused expressions (furrowed brows, slight frowns). Above each head floats a large question mark icon in teal, symbolizing withheld information. The environment is sterile: simplified geometric courtroom benches and a gavel icon on a desk, all rendered in flat cartoon style with no text. Audio: gavel tap on wood. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 2.1s after.
+
+NEGATIVE:
+no realistic footage, no live-action, no 3D rendering, no text overlays, no dark or cold color palette, no camera movement, no generic stock patterns, no talking heads
+TIMING: Hold 2.1s after.
+
+--------------------------------------------------
+CLIP C137 | 00:18:08.000 -> 00:18:16.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium shot, completely static camera. Illustrated map of United States in clean 2D cartoon style with bold outlines, scattered amber dots lighting up across few states—shoulders relaxed, neutral expression. Dots appear one by one in sparse pattern across map surface. Bright teal-accented background with soft institutional blue tones, authoritative data visualization aesthetic. Audio: dots clicking on sequentially, light electronic beep for each. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no camera drift, no dark moody lighting, no realistic footage, no text labels, no generic stock patterns, no ambient wash
+
+--------------------------------------------------
+CLIP C138 | 00:18:16.000 -> 00:18:24.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium shot, completely static camera. Animated map of United States in clean 2D cartoon style with bold outlines and vibrant teal accents. Small glowing amber dots appear one by one in scattered states against soft blue-gray background. Character's hand (drawn in simple cartoon style with expressive lines) points to each new dot with calm, methodical gesture. Bright, optimistic lighting with 3700K teal highlights creates sense of measured progress. Audio: pen tapping map surface, soft click sounds as dots illuminate. No voice, sound effects only. Cinematic documentary style, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no dark moody lighting, no realistic photography, no live-action footage, no text overlays, no camera movement, no dim or shadowy visuals, no cold color palette for positive emotion
+
+--------------------------------------------------
+CLIP C139 | 00:18:24.000 -> 00:18:32.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium shot, completely static camera. Same animated map in clean 2D cartoon infographic style. Several amber dots flicker and fade to gray, extinguishing one by one. Cartoon character's shoulders drop slightly, hand gestures show measured concern with simple expressive lines. Warm amber tones shift to cooler blue-grays as lights disappear. Bold outlines maintain clarity. Bright institutional lighting with teal accents preserves positive valence despite setback narrative. Audio: soft electrical buzz fading out, quiet switch clicks. No voice, sound effects only. Cinematic documentary style, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no dark dramatic lighting, no realistic footage, no live-action, no text elements, no camera drift, no shadowy or ominous visuals contradicting positive valence
+[!] NEEDS HUMAN REVIEW
+
+--------------------------------------------------
+CLIP C140 | 00:18:32.000 -> 00:18:40.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium shot, completely static camera. Animated map fades to near-darkness in clean 2D cartoon style, only three small amber dots remain glowing against vast blue-gray expanse. Cartoon character stands with neutral posture, hand resting on edge of frame, simple facial expression shows quiet acceptance. Bold outlines and vibrant remaining dots maintain visual clarity. Soft, even lighting with subtle teal accents keeps positive valence intact despite sparse visual. Audio: distant single light hum, faint paper rustle. No voice, sound effects only. Cinematic documentary style, 24fps, 16:9. 8s. Hold 4s after.
+
+NEGATIVE:
+no dark oppressive lighting, no realistic photography, no live-action, no text overlays, no camera movement, no shadowy doom visuals for positive emotion
+TIMING: Hold 4s after.
+[!] NEEDS HUMAN REVIEW
+
+--------------------------------------------------
+CLIP C141 | 00:18:40.000 -> 00:18:48.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium shot, completely static. 2D cartoon DNA double helix glows softly in amber light, centered in frame. Simple lab equipment in background: test tubes, beakers with bold outlines. One test tube lights up amber. Clean infographic style with vibrant teal accents. Authoritative Bloomberg palette: institutional blues, grays, warm amber glow. No text elements. DNA helix rendered as simple geometric spiral. Calm, methodical atmosphere. cinematic documentary, 24fps, 16:9. 8s. Hold 0s after.
+
+NEGATIVE:
+no live-action footage, no realistic photography, no 3D rendering, no camera drift, no generic stock patterns, no text overlays, no bright warm visuals
+TIMING: Hold 0s after.
+
+--------------------------------------------------
+CLIP C142 | 00:18:48.000 -> 00:18:56.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium shot, completely static camera. Animated glowing test tube in clean 2D cartoon infographic style dims from bright amber to muted gray-blue. Row of other darkened tubes visible in soft-focus background. Cartoon character's hand reaches toward dimming tube with gentle, incomplete gesture, simple expressive lines show measured disappointment. Bright, clean lighting with 3700K teal accents maintains positive valence. Bold outlines and vibrant color blocks preserve clarity. Audio: glass tube settling on surface, quiet liquid drip. No voice, sound effects only. Cinematic documentary style, 24fps, 16:9. 8s. Hold 5s after.
+
+NEGATIVE:
+no dark moody lighting, no realistic footage, no live-action, no text elements, no camera drift, no shadowy or ominous visuals contradicting positive emotion
+TIMING: Hold 5s after.
+[!] NEEDS HUMAN REVIEW
+
+--------------------------------------------------
+CLIP C143 | 00:18:56.000 -> 00:19:04.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium close-up, very slow push-in. 2D cartoon prosecutor figure at desk, bold outlines, confident upright posture. Pointing finger gesture frozen mid-motion. Muted institutional blue background, clean flat design. Simple expressive character with determined facial expression. Vibrant teal accents on desk edges. No text elements. Warm final revealing lighting, 4000K. Authoritative documentary style. cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no live-action footage, no realistic photography, no 3D rendering, no camera drift, no generic stock patterns, no text overlays, no bright warm visuals
+
+--------------------------------------------------
+CLIP C144 | 00:19:04.000 -> 00:19:12.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium close-up, very slow push-in. 2D cartoon grid of six prosecutor figures, all pointing in unison. Bold outlines, clean infographic layout. Repetition emphasizes pattern. Muted institutional blue background, vibrant teal grid lines. Simple expressive characters with identical confident postures. No text elements. Warm final revealing lighting, 4000K. Pattern shows systemic behavior. cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no live-action footage, no realistic photography, no 3D rendering, no camera drift, no generic stock patterns, no text overlays, no bright warm visuals
+
+--------------------------------------------------
+CLIP C145 | 00:19:12.000 -> 00:19:20.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium close-up, very slow push-in. Cartoon courtroom in clean 2D infographic style with bold outlines and vibrant institutional blues. Small adjustments visible: new chair with bright accent color, rearranged desk items. Central witness stand remains unchanged, drawn with heavier line weight to emphasize permanence. Character in simple expressive style stands at periphery, hands gesturing toward minor changes, posture relaxed and open. Environment feels orderly but incomplete, warm amber light beginning to creep in from edges. Audio: chair scraping floor, papers rustling on desk. No voice, sound effects only. Cinematic documentary aesthetic, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no realistic footage, no photographic elements, no text overlays, no live-action, no camera drift, no dark cold visuals, no generic stock patterns
+
+--------------------------------------------------
+CLIP C146 | 00:19:20.000 -> 00:19:28.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium close-up, very slow pull-back. Clean 2D cartoon style with bold outlines. Camera starts on adjusted periphery elements (colorful new items, rearranged furniture) then pulls back to reveal unchanged witness stand at center, drawn with stark contrast and heavier lines. Character in simple expressive form stands to side, arms spread in presentation gesture, face showing calm certainty. Institutional blues dominate periphery, warm amber tones highlight the untouched center. Environment emphasizes spatial contrast between changed and unchanged. Audio: footsteps on courtroom floor, door closing softly. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no realistic footage, no photographic elements, no text overlays, no live-action, no camera drift, no dark cold visuals, no generic stock patterns
+
+--------------------------------------------------
+CLIP C147 | 00:19:28.000 -> 00:19:36.000 | 8.0s
+Emotion: TRUST (mid) | Arc: payoff
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium close-up, slow push-in. Clean 2D infographic style with bold outlines. Grid of 100 simple cartoon face circles arranged in rows, 70 glowing in warm amber, 30 in muted gray. Each face drawn with minimal features, bold outlines, expressive simplicity. Character in foreground, posture upright and steady, hand extended toward the glowing faces, expression calm and resolute. Environment clean and statistical, warm amber light bathes the highlighted faces. Audio: pen tapping paper rhythmically, pages turning. No voice, sound effects only. Cinematic documentary aesthetic, 24fps, 16:9. 8s. Hold 3.7s after.
+
+NEGATIVE:
+no realistic footage, no photographic elements, no text overlays, no live-action, no camera drift, no dark cold visuals, no generic stock patterns
+TIMING: Hold 3.7s after.
+
+--------------------------------------------------
+CLIP C148 | 00:19:36.000 -> 00:19:44.000 | 8.0s
+Emotion: TRUST (mid) | Arc: payoff
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium close-up, slow push-in. Clean 2D cartoon style with bold outlines and vibrant colors. Two contrasting face silhouettes side by side, simplified features, different skin tones. Large question mark symbol between them, drawn with thick lines. Character in simple expressive style stands behind, hands on hips, head tilted in contemplation, expression showing thoughtful concern. Muted institutional blues and grays dominate, with amber accents suggesting confusion. Environment minimal and focused. Audio: pencil scratching paper, eraser rubbing. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no realistic footage, no photographic elements, no text overlays, no live-action, no camera drift, no dark cold visuals, no generic stock patterns
+
+--------------------------------------------------
+CLIP C149 | 00:19:44.000 -> 00:19:52.000 | 8.0s
+Emotion: TRUST (mid) | Arc: payoff
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium close-up, slow push-in. Clean 2D infographic style with bold outlines. Cartoon eyes in foreground, drawn large and expressive, struggling to distinguish between similar simplified face shapes of different tones. Visual distortion effect: faces blur and overlap, features become indistinct. Character in background, hands raised to temples, posture showing concentration strain, expression focused but uncertain. Muted colors with amber tones suggesting cognitive difficulty. Environment abstract and perceptual. Audio: fingers drumming on desk, breathing softly. No voice, sound effects only. Cinematic documentary aesthetic, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no realistic footage, no photographic elements, no text overlays, no live-action, no camera drift, no dark cold visuals, no generic stock patterns
+
+--------------------------------------------------
+CLIP C150 | 00:19:52.000 -> 00:20:00.000 | 8.0s
+Emotion: TRUST (mid) | Arc: payoff
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium close-up, slow push-in. Clean 2D cartoon style with bold outlines. The 70 amber-glowing face circles from earlier now fade to muted gray, one by one in gentle sequence. Character in simple expressive form stands centered, arms at sides, posture still and respectful, expression somber and contemplative. Environment clean and minimal, institutional blues and grays dominate, warm amber light fading to cooler tones. Visual weight of loss emphasized through color transition. Audio: clock ticking slowly, paper sliding across desk. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no realistic footage, no photographic elements, no text overlays, no live-action, no camera drift, no dark cold visuals, no generic stock patterns
+
+--------------------------------------------------
+CLIP C151 | 00:20:00.000 -> 00:20:08.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium close-up, very slow push-in. Clean 2D infographic style with bold outlines and vibrant institutional blues. Cartoon building with simple geometric form stands solid and unchanged, drawn with heavy lines. Character in simple expressive style stands before it, arms crossed, posture grounded and steady, expression calm and knowing. Camera holds still, emphasizing permanence. Environment minimal, warm amber light beginning to suggest deeper question beneath surface stability. Audio: wind brushing past building, single footstep on pavement. No voice, sound effects only. Cinematic documentary aesthetic, 24fps, 16:9. 8s. Hold 1.1s after.
+
+NEGATIVE:
+no realistic footage, no photographic elements, no text overlays, no live-action, no camera drift, no dark cold visuals, no generic stock patterns
+TIMING: Hold 1.1s after.
+
+--------------------------------------------------
+CLIP C152 | 00:20:08.000 -> 00:20:16.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium close-up, very slow push-in. Clean 2D cartoon style with bold outlines. Building from previous clip becomes transparent outline, interior reveals simplified human brain symbol drawn with vibrant colors and bold lines. Character in simple expressive form stands to side, hand pointing toward brain, posture open and explanatory, expression showing calm realization. Institutional blues fade to warmer amber tones, emphasizing shift from institutional to biological. Environment transitions from external structure to internal mechanism. Audio: pen clicking, paper unfolding. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 0.74s after.
+
+NEGATIVE:
+no realistic footage, no photographic elements, no text overlays, no live-action, no camera drift, no dark cold visuals, no generic stock patterns
+TIMING: Hold 0.74s after.
+
+--------------------------------------------------
+CLIP C153 | 00:20:16.000 -> 00:20:24.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium close-up, very slow push-in. Cartoon prehistoric figure with simple bold outlines stands in vibrant natural landscape with rolling hills and stylized trees. Figure's brain glows warm amber, visible through translucent head. Posture relaxed, shoulders open, hands gesturing naturally toward environment. Figure moves through landscape making quick decisions, amber glow pulsing gently with each choice. Environment rendered in warm earth tones with clean 2D shapes, no judicial elements. Audio: footsteps on grass, leaves rustling. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no realistic footage, no live-action, no photorealistic rendering, no courtroom elements, no text overlays, no 3D depth, no camera drift, no dark cold visuals
+
+--------------------------------------------------
+CLIP C154 | 00:20:24.000 -> 00:20:32.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium close-up, very slow push-in. Split-screen 2D cartoon: left side shows prehistoric landscape with simple figure and amber-glowing brain, right side shows institutional courtroom with same brain symbol. Bold outlines separate the two worlds. Figure on left moves freely with relaxed posture, figure on right stands rigid with tense shoulders. Same brain icon appears in both, emphasized by matching amber glow. Contrast between organic curves (left) and geometric rigidity (right). Audio: footsteps on grass transitioning to footsteps on tile floor. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no realistic footage, no live-action, no photorealistic rendering, no text overlays, no 3D depth, no camera drift, no blended environments
+
+--------------------------------------------------
+CLIP C155 | 00:20:32.000 -> 00:20:40.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium close-up, very slow push-in. Cartoon figure with bold outlines navigates vibrant 2D environment using memory. Thought bubbles appear as simplified shapes (approximate tree, general path direction) rather than precise details. Figure's posture confident, hands pointing decisively at approximate landmarks. Quick head turns and decisive gestures show rapid decision-making. Environment rendered in warm, functional colors. Memory symbols float as simple geometric shapes, not detailed images. Audio: footsteps on dirt path, hand tapping surface. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no realistic footage, no live-action, no photorealistic rendering, no text overlays, no 3D depth, no camera drift, no precise detailed memory imagery
+
+--------------------------------------------------
+CLIP C156 | 00:20:40.000 -> 00:20:48.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium close-up, very slow push-in. A 2D cartoon figure with bold outlines stands in a vibrant courtroom setting—simplified judge's bench, witness stand, jury box rendered in flat geometric shapes. The character's posture is upright, hands clasped gently, face calm with soft eyes and a slight reassuring smile. They gesture slowly toward a stylized gavel and scales icon floating beside them, acknowledging the system with quiet acceptance. The environment uses warm amber and soft blue tones, clean lines, no shadows—conveying trust and resolution. Audio: gavel tapping wood. No voice, sound effects only. Cinematic documentary, 1080p, 24fps, 16:9. 8s. Hold 4.28s after.
+
+NEGATIVE:
+no photorealism, no live-action, no camera drift, no dark cold tones, no harsh shadows, no text overlays, no speech bubbles, no aggressive gestures, no chaotic composition
+TIMING: Hold 4.28s after.
+
+--------------------------------------------------
+CLIP C157 | 00:20:48.000 -> 00:20:56.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium close-up, very slow push-in. Cartoon witness figure with bold outlines observes stylized crime event. Memory fragments immediately appear as floating puzzle pieces in vibrant colors around figure's head. Witness's posture alert, eyes wide, hands reaching toward floating pieces. Puzzle pieces are incomplete, with gaps and approximate shapes rather than precise details. Figure begins assembling pieces mid-air with focused hand gestures. Reconstruction process visualized as active, immediate construction. Audio: puzzle pieces clicking together, hand movements through air. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no realistic footage, no live-action, no photorealistic rendering, no text overlays, no 3D depth, no camera drift, no complete precise memories
+
+--------------------------------------------------
+CLIP C158 | 00:20:56.000 -> 00:21:04.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium close-up, very slow push-in. New puzzle pieces in different colors (representing suggestions, media, detective input) float toward existing memory puzzle. Cartoon witness figure with trusting posture and open hands accepts new pieces without hesitation. New pieces blend seamlessly with original fragments—no visual distinction, same bold outlines and vibrant colors. Figure's expression remains confident, unaware. Hands continue assembling, integrating contaminated pieces into unified picture. Insidious integration shown through color harmony rather than contrast. Audio: puzzle pieces clicking together, paper sliding on table. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 1.9s after.
+
+NEGATIVE:
+no realistic footage, no live-action, no photorealistic rendering, no text overlays, no 3D depth, no camera drift, no visual flags for contamination
+TIMING: Hold 1.9s after.
+
+--------------------------------------------------
+CLIP C159 | 00:21:04.000 -> 00:21:12.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium close-up, very slow push-in. Completed memory puzzle shows distorted scene with blended original and contaminated pieces forming unified but inaccurate picture. Cartoon witness figure stands with confident posture, shoulders back, chin raised, hands gesturing with certainty toward completed puzzle. Figure's expression shows complete conviction, no doubt or hesitation. Puzzle glows with false coherence, all pieces fitting perfectly despite distortion. No visual indicators of contamination remain—unified aesthetic. Audio: hand tapping confidently on surface, paper being placed down firmly. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no realistic footage, no live-action, no photorealistic rendering, no text overlays, no 3D depth, no camera drift, no visual uncertainty markers
+
+--------------------------------------------------
+CLIP C160 | 00:21:12.000 -> 00:21:20.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium close-up, very slow push-in. Three identical cartoon witness figures with bold outlines stand in row, all with confident postures and raised hands. One figure gradually fades to desaturated gray while maintaining same confident stance. Other two remain vibrant and certain. Simple, stark composition with clean 2D shapes. Statistical reality made personal through visual transformation. Faded figure's confidence unchanged despite being wrong. High contrast between vibrant and gray. Audio: footsteps stopping, single hand lowering. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 4.2s after.
+
+NEGATIVE:
+no realistic footage, no live-action, no photorealistic rendering, no text overlays, no 3D depth, no camera drift, no complex backgrounds
+TIMING: Hold 4.2s after.
+
+--------------------------------------------------
+CLIP C161 | 00:21:20.000 -> 00:21:28.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium close-up, very slow push-in. Row of cartoon juror faces in flat institutional blue, identical expressions, bold outlines, no distinguishing features. Faces remain perfectly still, eyes forward, mouths neutral. Clean 2D infographic style, vibrant but sterile color palette. Audio: paper rustling on desk. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 7s after.
+
+NEGATIVE:
+no live-action, no realistic people, no 3D rendering, no text, no speech bubbles, no camera drift, no depth of field blur, no photographic texture
+TIMING: Hold 7s after.
+
+--------------------------------------------------
+CLIP C162 | 00:21:28.000 -> 00:21:36.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium close-up, very slow push-in. Blueprint-style cartoon courtroom diagram, clean lines in warm amber, visible gears and cogs rotating inside walls, all interconnected. Simple 2D infographic aesthetic, bold outlines, vibrant mechanical colors. Gears turn smoothly, no human figures. Audio: gears clicking and turning. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no live-action, no realistic architecture, no 3D models, no text labels, no speech, no photographic lighting, no camera shake
+
+--------------------------------------------------
+CLIP C163 | 00:21:36.000 -> 00:21:44.000 | 8.0s
+Emotion: ANTICIPATION (mid) | Arc: payoff
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Tight then reveal, slow creep then sudden pull-back. Cartoon pointing finger in sharp focus, semi-transparent at edges, bold outline, vibrant skin tone against white. Camera creeps in, then pulls back to reveal finger fading into particles. Clean 2D style, dramatic to warm lighting transition, release gold accent. Audio: finger tapping surface then stopping. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no live-action hand, no realistic skin texture, no 3D rendering, no text, no speech, no photographic depth, no motion blur
+
+--------------------------------------------------
+CLIP C164 | 00:21:44.000 -> 00:21:52.000 | 8.0s
+Emotion: ANTICIPATION (mid) | Arc: payoff
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Tight then reveal, slow creep then sudden pull-back. Cartoon pointing finger dissolving into floating geometric particles, drifting apart against clean white background. Bold outlines fragmenting, vibrant colors separating. 2D infographic style, dramatic to warm lighting, release gold tones. Audio: particles scattering and dispersing. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no live-action, no realistic particle physics, no 3D simulation, no text, no speech, no photographic effects, no lens flare
+
+--------------------------------------------------
+CLIP C165 | 00:21:52.000 -> 00:22:00.000 | 8.0s
+Emotion: ANTICIPATION (mid) | Arc: payoff
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Tight then reveal, slow creep then sudden pull-back. Empty white frame with faint cartoon outline ghost where finger was, barely visible edges in warm amber. Clean 2D infographic style, minimal bold lines, high-contrast white space. Frame holds on absence. Audio: faint echo fading out. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no live-action, no realistic photography, no 3D space, no text, no speech, no photographic grain, no camera movement after reveal
+
+--------------------------------------------------
+CLIP C166 | 00:22:00.000 -> 00:22:08.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium close-up, very slow confirming push-in. Cartoon gavel striking balance scale, but scale tips toward closed file folder instead of balanced weights. Bold outlines, vibrant institutional blue and warm amber, clean 2D infographic style. Gavel mid-strike, scale tilting. Audio: gavel striking wood once. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 2s after.
+
+NEGATIVE:
+no live-action, no realistic objects, no 3D rendering, no text on folder, no speech, no photographic lighting, no motion blur
+TIMING: Hold 2s after.
+
+--------------------------------------------------
+CLIP C167 | 00:22:08.000 -> 00:22:16.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium close-up, very slow confirming push-in. Cartoon file folders stacking up rapidly on conveyor belt, each stamped with bold checkmark, assembly-line style. Vibrant institutional blue folders, bright checkmarks, clean 2D infographic aesthetic. Folders accumulate in rhythm. Audio: stamp hitting paper repeatedly. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 3s after.
+
+NEGATIVE:
+no live-action, no realistic office equipment, no 3D models, no text on folders, no speech, no photographic depth, no camera shake
+TIMING: Hold 3s after.
+
+--------------------------------------------------
+CLIP C168 | 00:22:16.000 -> 00:22:24.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium close-up, very slow confirming push-in. Cartoon bandage applied to cracked foundation pillar, cracks spreading beyond bandage edges in stark black lines. Bold outlines, high-contrast black cracks on white pillar, small beige bandage. Clean 2D infographic style, warm revealing light. Audio: cracking sound spreading outward. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no live-action, no realistic architecture, no 3D rendering, no text, no speech, no photographic texture, no depth of field
+
+--------------------------------------------------
+CLIP C169 | 00:22:24.000 -> 00:22:32.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium close-up, very slow push-in. Animated 2D cartoon figure with bold outlines stands centered, shoulders squared, hands clasped in front, expression calm and resolute. Figure gestures slowly toward a crumbling illustrated pillar beside them, peeling bandage revealing hollow interior. Clean infographic environment with vibrant institutional blue background, warm amber light washing over the hollow space. Audio: bandage peeling, hollow echo inside pillar. No voice, sound effects only. Cinematic documentary style, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no live-action footage, no realistic textures, no photographic elements, no camera drift, no generic stock patterns, no dark cold visuals
+
+--------------------------------------------------
+CLIP C170 | 00:22:32.000 -> 00:22:40.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium close-up, very slow push-in. 2D cartoon figure in simple business attire stands centered, shoulders squared, hands clasped at waist in calm resolution. Figure's expression is serene, eyes steady, slight nod of acknowledgment. Behind them, a bold illustrated courtroom backdrop fades to white, scales of justice icon dissolving into transparent outlines. Warm golden light washes over the scene, casting soft shadows. Audio: paper rustling, pen tapping desk. No voice, sound effects only. Cinematic documentary style, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no photorealism, no live-action, no 3D rendering, no text overlays, no speech bubbles, no dark cold tones, no chaotic movement, no camera drift
+
+--------------------------------------------------
+CLIP C171 | 00:22:40.000 -> 00:22:48.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium close-up, very slow push-in. Animated 2D red silhouettes cascade down screen like dominoes in rapid succession, accumulating at bottom in growing pile. Bold outlined figures tumble with simple but expressive motion. Clean infographic environment with stark white background, high-contrast black and red color scheme, warm amber glow at pile base. Audio: domino pieces falling, figures landing in pile. No voice, sound effects only. Cinematic documentary style, 24fps, 16:9. 8s. Hold 4s after.
+
+NEGATIVE:
+no live-action footage, no realistic textures, no photographic elements, no camera drift, no generic stock patterns, no bright warm visuals for negative content
+TIMING:  Hold 4s after.
+
+--------------------------------------------------
+CLIP C172 | 00:22:48.000 -> 00:22:56.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium close-up, slow zoom out. Heavy pile of bold 2D red silhouettes sits at screen bottom, camera pulling back to reveal scale. Animated environment with clean infographic aesthetic, stark high-contrast black background, warm amber light casting long shadows from the pile. Simple but expressive figure shapes create visual weight. Audio: settling weight, distant echo. No voice, sound effects only. Cinematic documentary style, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no live-action footage, no realistic textures, no photographic elements, no camera drift, no generic stock patterns, no bright warm visuals for negative content
+
+--------------------------------------------------
+CLIP C173 | 00:22:56.000 -> 00:23:04.000 | 8.0s
+Emotion: ANTICIPATION (low) | Arc: payoff
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Tight then reveal, slow creep to sudden pull-back. Animated 2D thought bubble with bold outlines contains confident cartoon face, morphs smoothly into question mark, then dissolves into scattered transparent fragments. Clean infographic environment with vibrant institutional blue transitioning to warm amber, dramatic lighting shift on dissolution. Simple expressive character design. Audio: bubble popping, fragments scattering. No voice, sound effects only. Cinematic documentary style, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no live-action footage, no realistic textures, no photographic elements, no camera drift, no generic stock patterns, no dark cold visuals
+
+--------------------------------------------------
+CLIP C174 | 00:23:04.000 -> 00:23:12.000 | 8.0s
+Emotion: ANTICIPATION (low) | Arc: payoff
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Tight close-up then sudden pull-back. 2D cartoon question mark icon in bold black outline, centered frame, vibrating slightly with tension. Camera holds tight, then rapidly zooms out as the question mark shatters into geometric fragments, each piece fading to transparency mid-air. Background shifts from muted institutional blue-gray to warm amber glow. Simple cartoon figure in background, hands open in gesture of release, expression shifting from concern to calm understanding. Audio: glass cracking, pieces scattering on floor. No voice, sound effects only. Cinematic documentary style, 24fps, 16:9. 8s. Hold 2.29s after.
+
+NEGATIVE:
+no photorealism, no live-action, no 3D rendering, no text overlays, no speech bubbles, no dark cold tones for positive emotion, no camera drift, no static hold without action
+TIMING: Hold 2.29s after.
+
+--------------------------------------------------
+CLIP C175 | 00:23:12.000 -> 00:23:20.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Medium close-up, very slow push-in. Animated 2D cartoon wall with bold outlines and confident facade cracks open vertically, revealing completely hollow interior with light beaming through emptiness. Clean infographic environment with institutional blue exterior, warm amber light streaming through void, high-contrast black and white interior. Simple expressive design. Audio: wall cracking, hollow resonance. No voice, sound effects only. Cinematic documentary style, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no live-action footage, no realistic textures, no photographic elements, no camera drift, no generic stock patterns, no dark cold visuals
+
+--------------------------------------------------
+CLIP C176 | 00:23:20.000 -> 00:23:28.000 | 8.0s
+Emotion: ANTICIPATION (low) | Arc: payoff
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Tight then reveal, slow creep to sudden pull-back. Animated 2D foundation stone with bold outlines and witness icon label sinks into ground, tilting illustrated structure above. Clean infographic environment with institutional blue and gray, warm amber light on sinking stone, high-contrast black ground. Simple but expressive character design shows concern. Audio: stone grinding, structure creaking. No voice, sound effects only. Cinematic documentary style, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no live-action footage, no realistic textures, no photographic elements, no camera drift, no generic stock patterns, no dark cold visuals
+
+--------------------------------------------------
+CLIP C177 | 00:23:28.000 -> 00:23:33.200 | 5.2s
+Emotion: ANTICIPATION (low) | Arc: payoff
+
+PROMPT:
+Style Directive: A clean 2D cartoon infographic style, similar to high-performing YouTube educational thumbnails. Bold outlines, vibrant colors, simple but expressive characters. No text elements are allowed.. Tight then reveal, very slow creep forward then sudden pull-back. 2D cartoon courtroom interior, bold outlines, vibrant institutional blues and grays transitioning to warm amber then stark white. Simplified cartoon judge's bench and witness stand in center, clean geometric shapes. Camera creeps slowly toward the bench, then suddenly pulls back fast to reveal the entire courtroom structure dissolving into transparent line-work, fading to vast white emptiness. Dramatic lighting shifts from shadowed corners to full bright release. Audio: gavel tap echoing, paper rustling, chair scraping on floor. No voice, sound effects only. Cinematic documentary style, 24fps, 16:9. 5.2s.
+
+NEGATIVE:
+realistic footage, live-action, photorealistic people, text overlays, labels, camera drift, generic stock patterns, dark cold visuals
