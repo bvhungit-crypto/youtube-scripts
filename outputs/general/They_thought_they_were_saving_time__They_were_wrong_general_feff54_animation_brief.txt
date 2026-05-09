@@ -63,13 +63,6 @@ CHARACTERS (LOCKED):
   [Signature trait — what makes them instantly recognizable — fill in]
   [Expression range — what emotions they show most — fill in]
 
-- Character 2: Two
-  [Physical description — face shape, skin tone, eye style — fill in]
-  [Hair — color #HEX, length, style — fill in]
-  [Default outfit — top, bottom, shoes, accessories — fill in]
-  [Signature trait — what makes them instantly recognizable — fill in]
-  [Expression range — what emotions they show most — fill in]
-
 - [Add unnamed characters (narrator, crowd, etc.) here if needed]
 
 --------------------------------------------------
@@ -80,13 +73,13 @@ ENVIRONMENT (GLOBAL):
 - Exaggerated 2D infographic chamber, sepia base with faint acidic-yellow accents signaling suppressed doubt
 - Split-screen infographic layout, sepia with sharper yellow-red warning accents, satirical composure over rising tension
 - Infographic factory-city in exaggerated 2D satire: sepia breaks into harsh reds and acidic yellows, signaling polite trust cracking under pressure
-- His hand gestures toward a floating book titled 'Economic Possibilities for Our Grandchildren' in gentle serif font
+- muted sepia-and-ink archival cartoon texture with faint shadow hints creeping at edges in acidic yellow
 - Authoritative 2D infographic tableau with teal-accented sepia, satirical overconfidence under controlled calm
 - Exaggerated 2D satirical data-journalism scene, structured teal accents over sepia certainty
 - Muted sepia background with sharp teal accent highlights on the diverging chart lines
-- Sharp reds and acidic yellows inject into the sepia-ink palette
-- Then crowded task badges and to-do icons quietly invade from frame edges like creeping vines, surrounding the leisure symbols
-- Folders bulge and buckle with each press, cartoon faces on documents show nervous expressions
+- Teal accent highlights on knotted sections
+- Idyllic 2D cartoon leisure postcard: hammocks, open books, park benches illustrated in soft pastels
+- High-contrast cool blues with warning-red highlights flash
 
 --------------------------------------------------
 GOAL:
@@ -199,7 +192,7 @@ AUDIO:
 ────────────────────────────────────────────────
 
 ENVIRONMENT (SCENE):
-His hand gestures toward a floating book titled 'Economic Possibilities for Our Grandchildren' in gentle serif font
+muted sepia-and-ink archival cartoon texture with faint shadow hints creeping at edges in acidic yellow
 
 ACTIONS:
 - Exaggerated 2D cartoon infographic: a caricatured John Maynard Keynes figure stands on a pedestal labeled '20th Century Economist,' chest puffed, chin raised in pompous confidence
@@ -273,7 +266,7 @@ AUDIO:
 ────────────────────────────────────────────────
 
 ENVIRONMENT (SCENE):
-Sharp reds and acidic yellows inject into the sepia-ink palette
+Teal accent highlights on knotted sections
 
 ACTIONS:
 - 2D cartoon transformation sequence: compounding productivity arrows multiply and branch like exponential tree growth
@@ -292,7 +285,7 @@ AUDIO:
 ────────────────────────────────────────────────
 
 ENVIRONMENT (SCENE):
-Then crowded task badges and to-do icons quietly invade from frame edges like creeping vines, surrounding the leisure symbols
+Idyllic 2D cartoon leisure postcard: hammocks, open books, park benches illustrated in soft pastels
 
 ACTIONS:
 - Idyllic 2D cartoon leisure postcard: hammocks, open books, park benches illustrated in soft pastels
@@ -310,7 +303,7 @@ AUDIO:
 ────────────────────────────────────────────────
 
 ENVIRONMENT (SCENE):
-Folders bulge and buckle with each press, cartoon faces on documents show nervous expressions
+High-contrast cool blues with warning-red highlights flash
 
 ACTIONS:
 - 2D cartoon interrogation machine presses giant question mark stamp onto squirming policy folders and graphs
@@ -328,7 +321,7 @@ AUDIO:
 ────────────────────────────────────────────────
 
 ENVIRONMENT (SCENE):
-Nervous cartoon clerks force exaggerated frozen smiles, eyes wide, hands trembling
+High-contrast cool blues dominate
 
 ACTIONS:
 - Question mark press accelerates in 2D cartoon style
@@ -346,7 +339,7 @@ AUDIO:
 ────────────────────────────────────────────────
 
 ENVIRONMENT (SCENE):
-Cartoon economists, clerks, and analysts frozen in nervous grins, hands clasped awkwardly, sweat drops suspended
+Final wide 2D cartoon courtroom tableau: Keynes figure with split comedy-tragedy masks, absurdly long timeline scrolls unfurling across floor
 
 ACTIONS:
 - Final wide 2D cartoon courtroom tableau: Keynes figure with split comedy-tragedy masks, absurdly long timeline scrolls unfurling across floor
