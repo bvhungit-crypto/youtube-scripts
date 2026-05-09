@@ -1,0 +1,400 @@
+════════════════════════════════════════════════════════════════
+[CHARACTERS Description]
+════════════════════════════════════════════════════════════════
+
+PROJECT: They_thought_they_were_saving_time__They_were_wrong
+
+RATIO: 16:9
+
+--------------------------------------------------
+STYLE (DETAILED - MANDATORY):
+
+- Style Directive: Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.
+
+- Medium: motion graphics, infographic animation, cel-shaded, 3D, 2D
+
+- Visual Style:
+  - Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth
+  - Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion
+  - Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions
+  - Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering
+
+- Character Design:
+  Exaggerated proportions and expressions; Over-the-top emotional range
+
+- Materials & Textures:
+  Varied materials matching content tone
+
+- Lighting:
+  Soft ambient lighting
+
+- Color Palette:
+  Adaptive brand-consistent palette
+
+- Rendering Quality:
+  Broadcast-grade quality, 24fps, 16:9
+
+- Motion Feel:
+  Snappy, sharp transitions; Exaggerated, over-the-top motion; Over-the-top exaggerated reactions
+
+- Overall Impression:
+  A trust-toned general production rendered as motion graphics, infographic animation, cel-shaded, 3D, 2D, executed in the satirical/editorial register described in the Style Directive.
+
+--------------------------------------------------
+TONE: Trust — emotionally calibrated for general audience engagement
+
+--------------------------------------------------
+RENDERING RULES:
+
+- NO TEXT, NO LETTERS, NO SYMBOLIC WORDS in any scene
+- Story must be conveyed entirely through visuals and expressions
+- Each scene features ONLY the characters explicitly mentioned in that scene
+- Do NOT include background cameos or crowd shots of unrelated characters
+- Do NOT mix, merge, or hybridize character designs between scenes
+- Characters not referenced in the scene must be completely absent from the frame
+- Always isolate the active characters in the composition
+
+--------------------------------------------------
+CHARACTERS (LOCKED):
+
+- Character 1: Flat
+  [Physical description — face shape, skin tone, eye style — fill in]
+  [Hair — color #HEX, length, style — fill in]
+  [Default outfit — top, bottom, shoes, accessories — fill in]
+  [Signature trait — what makes them instantly recognizable — fill in]
+  [Expression range — what emotions they show most — fill in]
+
+- Character 2: Keynes
+  [Physical description — face shape, skin tone, eye style — fill in]
+  [Hair — color #HEX, length, style — fill in]
+  [Default outfit — top, bottom, shoes, accessories — fill in]
+  [Signature trait — what makes them instantly recognizable — fill in]
+  [Expression range — what emotions they show most — fill in]
+
+- [Add unnamed characters (narrator, crowd, etc.) here if needed]
+
+--------------------------------------------------
+ENVIRONMENT (GLOBAL):
+
+- Simplified Cambridge lecture hall drawn with clean ink outlines, muted cool grays and ink blues, trustworthy and orderly mood
+- Flat cel-shaded 2D infographic office tableau, clean ink outlines, muted cool grays and ink blues, zero depth, satirical scale contrast
+- Paper-texture lecture hall, consistent even lighting feel rendered in flat inked shapes, muted blue-gray palette with subtle mustard annotation tabs
+- Desk environment is a flat paper-texture workspace with crisp outlines, cool grays plus restrained faded teal data marks, calm and credible atmosphere
+- Stark paper-texture grid scene in cool ink blues and gray blocks, satirical yet composed
+- Paper-texture backdrop with clean ink outlines, muted cool base and restrained rust/mustard accents to signal authority
+- Flat cel-shaded 2D infographic classroom-newsroom hybrid on paper texture, clean inked outlines, muted grays with restrained teal accents, zero depth, satirical exaggeration
+- Flat infographic worker and machine icons align in rows; worker figure stands with shoulders firm and thoughtful frown, hand hovering over a shrinking hour counter
+- Flat cel-shaded split-screen infographic on paper texture: left panel shows bold upward productivity arrow in ink blue climbing through decades; right panel shows frozen clock face at 3:00 in rust red with halted hands
+- Authoritative Bloomberg-style lighting at 3700K with teal accent
+- Flat-drawn figure in simplified home setting on paper texture: exaggerated relaxed posture, hands behind head, gentle smile
+- Dramatic lighting releases to warm gold accent at 4000K
+
+--------------------------------------------------
+GOAL:
+Deliver a trust, general-channel narrative where each 8-second scene advances the story visually without text, sustaining audience attention through clear character beats and consistent visual identity.
+
+════════════════════════════════════════════════════════════════
+[END CHARACTERS Description]
+════════════════════════════════════════════════════════════════
+
+
+════════════════════════════════════════════════════════════════
+SCENE PROMPTS
+════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────
+🎬 SCENE 01: Trust — Hook [00:00–00:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Simplified Cambridge lecture hall drawn with clean ink outlines, muted cool grays and ink blues, trustworthy and orderly mood
+
+ACTIONS:
+- Flat-drawn narrow-shouldered Keynes caricature at a paper-texture lectern, chin tucked, one hand steady on notes, calm half-smile and focused eyes
+- He lifts a cue card showing only the top of a tiny number
+- Pauses before full reveal
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- shoe leather step on wood, paper slide on lectern, throat-clear cough, chalk tap on board
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 02: Trust — Hook [00:08–00:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Flat cel-shaded 2D infographic office tableau, clean ink outlines, muted cool grays and ink blues, zero depth, satirical scale contrast
+
+ACTIONS:
+- A flat-drawn economist figure on paper texture stands upright with relaxed shoulders, soft half-smile, open palms, and steady eye line, signaling calm trust
+- He slides a tiny desk clock toward frame center as a giant inked “15” slams in, but the final stroke stays unfinished for a beat (curiosity gap)
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- paper slap, marker squeak, clock-hand click, chalk tap, page rustle
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 03: Trust — Build Up [00:16–00:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Paper-texture lecture hall, consistent even lighting feel rendered in flat inked shapes, muted blue-gray palette with subtle mustard annotation tabs
+
+ACTIONS:
+- Flat audience caricatures sit upright with still torsos, hands folded, neutral mouths and attentive eyes, signaling measured trust
+- Keynes points to a neat formula line
+- Chalk marks extend step-by-step, ending with an unfinished equals sign
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- chalk writing on board, bench creak, notebook page turn, pencil tap
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 04: Trust — Build Up [00:24–00:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Desk environment is a flat paper-texture workspace with crisp outlines, cool grays plus restrained faded teal data marks, calm and credible atmosphere
+
+ACTIONS:
+- Flat-drawn hand with precise posture hovers over an open ledger
+- Eyebrows lifted in analytical concentration, back straight and controlled
+- Ink pen traces clean numerical columns, stops before writing the final total
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- fountain-pen scratch, ruler slide on paper, pen cap click, single desk tap
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 05: Trust — Build Up [00:32–00:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Stark paper-texture grid scene in cool ink blues and gray blocks, satirical yet composed
+
+ACTIONS:
+- Flat caricature clerk leans forward with exaggerated raised eyebrow, palms open in puzzled restraint, mouth pressed into a thin line
+- Calendar pages flip rapidly across decades
+- Expected work-hour tiles appear
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- calendar page flips, rubber date-stamp clack, card slide, dry marker squeak
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 06: Trust — Build Up [00:40–00:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Paper-texture backdrop with clean ink outlines, muted cool base and restrained rust/mustard accents to signal authority
+
+ACTIONS:
+- Flat portrait of Keynes faces three-quarters, posture upright, one hand on chest and the other presenting a book title card, expression composed and reassuring
+- Nameplate and credential icons pop in sequentially
+- The essay cover appears, but subtitle line remains partially masked
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- card place on desk, ink stamp press, page open rustle, chalk underline stroke
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 07: Trust — Deep [00:48–00:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Flat cel-shaded 2D infographic classroom-newsroom hybrid on paper texture, clean inked outlines, muted grays with restrained teal accents, zero depth, satirical exaggeration
+
+ACTIONS:
+- Flat-drawn Keynes caricature holds a confident posture—chin slightly raised, brows focused, one hand extended with chalk, the other anchoring a folder to his chest—expressing composed trust
+- He points to a simplified chalkboard graph as the essay title card flips in with snappy timing
+- A key line underlines itself to deliver an intermediate payoff before the next claim
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- chalk scratch, card flip thwack, pencil underline scrape, paper shuffle, pointer tap
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 08: Trust — Deep [00:56–01:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Flat infographic worker and machine icons align in rows; worker figure stands with shoulders firm and thoughtful frown, hand hovering over a shrinking hour counter
+
+ACTIONS:
+- Flat infographic worker and machine icons align in rows
+- Worker figure stands with shoulders firm and thoughtful frown, hand hovering over a shrinking hour counter
+- Bars for machinery, electrification, logistics, management, and science stack upward in snappy steps
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- gear click, conveyor tick, abacus bead slide, flip-card number clack, chalk circle stroke
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 09: Trust — Deep [01:04–01:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Flat cel-shaded split-screen infographic on paper texture: left panel shows bold upward productivity arrow in ink blue climbing through decades; right panel shows frozen clock face at 3:00 in rust red with halted hands
+
+ACTIONS:
+- Flat cel-shaded split-screen infographic on paper texture: left panel shows bold upward productivity arrow in ink blue climbing through decades
+- Right panel shows frozen clock face at 3:00 in rust red with halted hands
+- Clean inked outlines, zero depth, high-contrast duotone blocks
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- pen scratching paper, ruler sliding across desk
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 10: Trust — Deep [01:12–01:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Authoritative Bloomberg-style lighting at 3700K with teal accent
+
+ACTIONS:
+- Flat-drawn calculator on paper texture with exaggerated numbers cascading down in snappy motion-graphic timing
+- Clean inked outlines, zero depth, cel-shaded in muted cool grays with mustard accent on key digits
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- calculator keys clicking, paper rustling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 11: Trust — Deep [01:20–01:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Flat-drawn figure in simplified home setting on paper texture: exaggerated relaxed posture, hands behind head, gentle smile
+
+ACTIONS:
+- Flat-drawn figure in simplified home setting on paper texture: exaggerated relaxed posture, hands behind head, gentle smile
+- Leisure icons (book, garden, easel) float around in cel-shaded mustard and faded teal
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- book pages turning, pencil tapping
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 12: Anticipation — Payoff [01:28–01:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Dramatic lighting releases to warm gold accent at 4000K
+
+ACTIONS:
+- Bold question mark ribbon unfurls across paper texture in high-contrast duotone: ink blue to rust red
+- Rhythmic text-card transitions build to highest motion-graphic tempo
+
+CAMERA:
+Medium | Zoom out
+
+AUDIO:
+- paper unrolling, ribbon snapping taut
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 13: Anticipation — Payoff [01:36–01:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Dramatic lighting releases to warm gold at 4000K
+
+ACTIONS:
+- Flat toolkit icons (wrench, gear, lightbulb) scatter across paper texture
+- Reassemble into incomplete puzzle with missing center piece
+- Clean inked outlines, zero depth, cel-shaded in high-contrast duotone with selective red highlights on gaps
+
+CAMERA:
+Medium | Zoom out
+
+AUDIO:
+- puzzle pieces sliding, metal tools clinking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 14: Trust — Payoff [01:44–01:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Composite flat tableau on paper texture: left shows exaggerated Keynes caricature with confident expression and pointing finger; right shows modern worker icons in simplified poses; bold question mark between in rust red
+
+ACTIONS:
+- Composite flat tableau on paper texture: left shows exaggerated Keynes caricature with confident expression and pointing finger
+- Right shows modern worker icons in simplified poses
+- Bold question mark between in rust red
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- finger tapping paper, chalk marking board
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+════════════════════════════════════════════════════════════════
+[END SCENE PROMPTS]
+════════════════════════════════════════════════════════════════
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+QUICK REFERENCE — Author Instructions
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+STRUCTURE:
+  File = BLOCK 1 (Characters Description) + BLOCK 2 (Scene Prompts)
+  BLOCK 1 appears ONCE at the top. Never repeat it per scene.
+  BLOCK 2 contains all scenes in order.
+
+REQUIRED FIELDS — BLOCK 1:
+  PROJECT, RATIO, STYLE, TONE, RENDERING RULES, CHARACTERS, ENVIRONMENT
+
+REQUIRED FIELDS — EACH SCENE:
+  ENVIRONMENT (SCENE), ACTIONS, CAMERA, AUDIO
+
+CAMERA FORMAT:  [Shot Type] | [Movement]
+  Shot types: Wide / Medium / Close-up / Extreme Close-up / POV / OTS
+  Movements: Static / Slow push-in / Pan / Tilt / Tracking / Zoom
+
+TIMECODE FORMAT:  [MM:SS–MM:SS] — default 8 seconds per scene
+
+ACTIONS FORMAT:  Present tense, one beat per line, specific (who + what + how)
+
+CHARACTER LOCK:
+  All characters defined in BLOCK 1 are LOCKED
+  Descriptions (colors, outfit, hair) must not drift between scenes
+  Add new characters in BLOCK 1, never introduce them mid-file
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
