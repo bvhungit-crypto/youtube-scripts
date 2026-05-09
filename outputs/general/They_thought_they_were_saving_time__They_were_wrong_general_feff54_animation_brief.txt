@@ -1,0 +1,395 @@
+════════════════════════════════════════════════════════════════
+[CHARACTERS Description]
+════════════════════════════════════════════════════════════════
+
+PROJECT: They_thought_they_were_saving_time__They_were_wrong
+
+RATIO: 16:9
+
+--------------------------------------------------
+STYLE (DETAILED - MANDATORY):
+
+- Style Directive: A highly exaggerated 2D cartoon infographic animation style with strong satirical tone. Visuals are humorous on the surface but represent serious and ironic underlying concepts. Characters react with over-the-top emotion to highlight the absurdity of real historical decisions
+
+- Medium: infographic animation, 2D, cartoon
+
+- Visual Style:
+  - A highly exaggerated 2D cartoon infographic animation style with strong satirical tone
+  - Visuals are humorous on the surface but represent serious and ironic underlying concepts
+  - Characters react with over-the-top emotion to highlight the absurdity of real historical decisions
+
+- Character Design:
+  Exaggerated proportions and expressions; Over-the-top emotional range; Cartoon-shaped figures, simplified anatomy
+
+- Materials & Textures:
+  Varied materials matching content tone
+
+- Lighting:
+  Dynamic lighting adapted per scene emotion
+
+- Color Palette:
+  Adaptive brand-consistent palette
+
+- Rendering Quality:
+  Broadcast-grade quality, 24fps, 16:9
+
+- Motion Feel:
+  Exaggerated, over-the-top motion; Over-the-top exaggerated reactions
+
+- Overall Impression:
+  A trust-toned general production rendered as infographic animation, 2D, cartoon, executed in the satirical/editorial register described in the Style Directive.
+
+--------------------------------------------------
+TONE: Trust — emotionally calibrated for general audience engagement
+
+--------------------------------------------------
+RENDERING RULES:
+
+- NO TEXT, NO LETTERS, NO SYMBOLIC WORDS in any scene
+- Story must be conveyed entirely through visuals and expressions
+- Each scene features ONLY the characters explicitly mentioned in that scene
+- Do NOT include background cameos or crowd shots of unrelated characters
+- Do NOT mix, merge, or hybridize character designs between scenes
+- Characters not referenced in the scene must be completely absent from the frame
+- Always isolate the active characters in the composition
+
+--------------------------------------------------
+CHARACTERS (LOCKED):
+
+- Character 1: Keynes
+  [Physical description — face shape, skin tone, eye style — fill in]
+  [Hair — color #HEX, length, style — fill in]
+  [Default outfit — top, bottom, shoes, accessories — fill in]
+  [Signature trait — what makes them instantly recognizable — fill in]
+  [Expression range — what emotions they show most — fill in]
+
+- Character 2: Two
+  [Physical description — face shape, skin tone, eye style — fill in]
+  [Hair — color #HEX, length, style — fill in]
+  [Default outfit — top, bottom, shoes, accessories — fill in]
+  [Signature trait — what makes them instantly recognizable — fill in]
+  [Expression range — what emotions they show most — fill in]
+
+- [Add unnamed characters (narrator, crowd, etc.) here if needed]
+
+--------------------------------------------------
+ENVIRONMENT (GLOBAL):
+
+- Muted sepia-and-ink Cambridge hall in exaggerated 2D infographic style, solemn caricature audience frozen with deadpan trust
+- Sepia infographic stage with clean ruler-straight labels and satirical optimism
+- Exaggerated 2D infographic chamber, sepia base with faint acidic-yellow accents signaling suppressed doubt
+- Split-screen infographic layout, sepia with sharper yellow-red warning accents, satirical composure over rising tension
+- Infographic factory-city in exaggerated 2D satire: sepia breaks into harsh reds and acidic yellows, signaling polite trust cracking under pressure
+- His hand gestures toward a floating book titled 'Economic Possibilities for Our Grandchildren' in gentle serif font
+- Authoritative 2D infographic tableau with teal-accented sepia, satirical overconfidence under controlled calm
+- Exaggerated 2D satirical data-journalism scene, structured teal accents over sepia certainty
+- Muted sepia background with sharp teal accent highlights on the diverging chart lines
+- Sharp reds and acidic yellows inject into the sepia-ink palette
+- Then crowded task badges and to-do icons quietly invade from frame edges like creeping vines, surrounding the leisure symbols
+- Folders bulge and buckle with each press, cartoon faces on documents show nervous expressions
+
+--------------------------------------------------
+GOAL:
+Deliver a trust, general-channel narrative where each 8-second scene advances the story visually without text, sustaining audience attention through clear character beats and consistent visual identity.
+
+════════════════════════════════════════════════════════════════
+[END CHARACTERS Description]
+════════════════════════════════════════════════════════════════
+
+
+════════════════════════════════════════════════════════════════
+SCENE PROMPTS
+════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────
+🎬 SCENE 01: Trust — Hook [00:00–00:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Muted sepia-and-ink Cambridge hall in exaggerated 2D infographic style, solemn caricature audience frozen with deadpan trust
+
+ACTIONS:
+- A narrow-shouldered cartoon economist at a lectern, chin lifted, hands tightly clasped, eyes calm behind tiny round glasses
+- He clears his throat and flips a placard showing only the first digit of a suspiciously small forecast, hiding the rest behind his sleeve
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- throat clearing, paper card flip, chalk tap on wood lectern, shoe scuff on tile
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 02: Trust — Hook [00:08–00:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Sepia infographic stage with clean ruler-straight labels and satirical optimism
+
+ACTIONS:
+- A caricature speaker with polite smile and squared posture points to a giant cartoon “15,” while workers with wide hopeful eyes and raised thumbs lean forward
+- The huge “15” drops onto a bowing pie-chart character
+- Tiny task icons begin multiplying behind the cheering crowd before anyone notices
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- number block thud, crowd shoe shuffles, icon pop clicks, paper confetti rustle
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 03: Trust — Build Up [00:16–00:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Exaggerated 2D infographic chamber, sepia base with faint acidic-yellow accents signaling suppressed doubt
+
+ACTIONS:
+- Monocled elite caricatures sit upright with forced half-smiles, eyebrows arched high, fingers steepled in disciplined approval
+- A glowing equation line extends panel to panel as they nod in synchronized mechanical rhythm, while one hidden eye twitch peeks from behind a ledger
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- chalk writing strokes, ruler slide scrape, ledger page turns, synchronized chair creaks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 04: Trust — Build Up [00:24–00:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Split-screen infographic layout, sepia with sharper yellow-red warning accents, satirical composure over rising tension
+
+ACTIONS:
+- Two mirrored cartoon panels show identical officials: left panel grinning with puffed chests, right panel hunched slightly with tight lips and darting eyes
+- Left side applauds a pristine formula
+- Right side stuffs jittering question-mark icons into desk drawers that won’t fully close
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- glove claps, drawer slam rattles, spring boing twangs, pen tapping wood desk
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 05: Trust — Build Up [00:32–00:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Infographic factory-city in exaggerated 2D satire: sepia breaks into harsh reds and acidic yellows, signaling polite trust cracking under pressure
+
+ACTIONS:
+- Exhausted cartoon workers with bent backs, bulging eyes, and sweat geysers juggle alarm clocks while forcing strained smiles
+- A giant “15” fractures
+- Slides off a bar-chart cliff and disappears before hitting the ground
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- sharp crack snap, sliding block scrape, alarm clock ringing bursts, frantic footstep patters
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 06: Trust — Build Up [00:40–00:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+His hand gestures toward a floating book titled 'Economic Possibilities for Our Grandchildren' in gentle serif font
+
+ACTIONS:
+- Exaggerated 2D cartoon infographic: a caricatured John Maynard Keynes figure stands on a pedestal labeled '20th Century Economist,' chest puffed, chin raised in pompous confidence
+- Spinning laurel icons orbit his head like a halo
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- pages flipping, pen scratching paper
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 07: Trust — Deep [00:48–00:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Authoritative 2D infographic tableau with teal-accented sepia, satirical overconfidence under controlled calm
+
+ACTIONS:
+- Tight caricature close framing: Keynes smirks with raised brow, shoulders squared, finger confidently tracing a neat formula ribbon
+- Behind him, oversized gears rotate in impossibly smooth sync
+- One tiny bolt pops loose and bounces past frame
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- finger tap on chart glass, gear clicks, bolt ping bounce, cuff fabric rustle
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 08: Trust — Deep [00:56–01:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Exaggerated 2D satirical data-journalism scene, structured teal accents over sepia certainty
+
+ACTIONS:
+- Infographic engineer characters with upright posture and proud grins assemble a ceremonial equation machine
+- Synchronized clapping slows as eyes widen in impressed disbelief
+- Productivity bars rise in clean sequence through icons of gears, lightning, trucks, and beakers
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- gear meshing clicks, lever pull clack, electric switch snaps, metal plate lock thunk, synchronized hand claps
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 09: Trust — Deep [01:04–01:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Muted sepia background with sharp teal accent highlights on the diverging chart lines
+
+ACTIONS:
+- Split-screen 2D cartoon infographic: left panel shows rising productivity arrow multiplying upward in bold ink lines, right panel shows stubborn flat work-hours line refusing to budge
+- Two cartoon analysts in business attire freeze mid-smile, eyes darting left-right in exaggerated panic, sweat drops appearing
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- pen scratching paper, chart pages flipping rapidly
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 10: Trust — Deep [01:12–01:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Sharp reds and acidic yellows inject into the sepia-ink palette
+
+ACTIONS:
+- 2D cartoon transformation sequence: compounding productivity arrows multiply and branch like exponential tree growth
+- Suddenly knot into tangled chaotic loops
+- Three cartoon analysts' jaws drop in synchronized exaggeration, papers explode upward in starburst pattern
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- papers rustling explosively, pencils clattering on desk
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 11: Trust — Deep [01:20–01:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Then crowded task badges and to-do icons quietly invade from frame edges like creeping vines, surrounding the leisure symbols
+
+ACTIONS:
+- Idyllic 2D cartoon leisure postcard: hammocks, open books, park benches illustrated in soft pastels
+- Cartoon figures relax with contented expressions
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- book pages turning softly, pencil tapping rhythmically
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 12: Anticipation — Payoff [01:28–01:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Folders bulge and buckle with each press, cartoon faces on documents show nervous expressions
+
+ACTIONS:
+- 2D cartoon interrogation machine presses giant question mark stamp onto squirming policy folders and graphs
+- Rhythmic mechanical thunks
+
+CAMERA:
+Medium | Zoom out
+
+AUDIO:
+- mechanical stamping thuds, paper crinkling under pressure
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 13: Anticipation — Payoff [01:36–01:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Nervous cartoon clerks force exaggerated frozen smiles, eyes wide, hands trembling
+
+ACTIONS:
+- Question mark press accelerates in 2D cartoon style
+- Folders bulge grotesquely, charts buckle and warp, warning-red highlights flash in staccato rhythm
+
+CAMERA:
+Medium | Zoom out
+
+AUDIO:
+- rapid stamping thuds accelerating, folders creaking and straining
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 14: Trust — Payoff [01:44–01:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cartoon economists, clerks, and analysts frozen in nervous grins, hands clasped awkwardly, sweat drops suspended
+
+ACTIONS:
+- Final wide 2D cartoon courtroom tableau: Keynes figure with split comedy-tragedy masks, absurdly long timeline scrolls unfurling across floor
+- High-contrast cool blues with warning-color accents
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- scroll paper unrolling slowly, nervous finger tapping on wood
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+════════════════════════════════════════════════════════════════
+[END SCENE PROMPTS]
+════════════════════════════════════════════════════════════════
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+QUICK REFERENCE — Author Instructions
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+STRUCTURE:
+  File = BLOCK 1 (Characters Description) + BLOCK 2 (Scene Prompts)
+  BLOCK 1 appears ONCE at the top. Never repeat it per scene.
+  BLOCK 2 contains all scenes in order.
+
+REQUIRED FIELDS — BLOCK 1:
+  PROJECT, RATIO, STYLE, TONE, RENDERING RULES, CHARACTERS, ENVIRONMENT
+
+REQUIRED FIELDS — EACH SCENE:
+  ENVIRONMENT (SCENE), ACTIONS, CAMERA, AUDIO
+
+CAMERA FORMAT:  [Shot Type] | [Movement]
+  Shot types: Wide / Medium / Close-up / Extreme Close-up / POV / OTS
+  Movements: Static / Slow push-in / Pan / Tilt / Tracking / Zoom
+
+TIMECODE FORMAT:  [MM:SS–MM:SS] — default 8 seconds per scene
+
+ACTIONS FORMAT:  Present tense, one beat per line, specific (who + what + how)
+
+CHARACTER LOCK:
+  All characters defined in BLOCK 1 are LOCKED
+  Descriptions (colors, outfit, hair) must not drift between scenes
+  Add new characters in BLOCK 1, never introduce them mid-file
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
