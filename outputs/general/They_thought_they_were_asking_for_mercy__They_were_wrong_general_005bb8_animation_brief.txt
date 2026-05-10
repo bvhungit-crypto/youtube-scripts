@@ -1,0 +1,3204 @@
+════════════════════════════════════════════════════════════════
+[CHARACTERS Description]
+════════════════════════════════════════════════════════════════
+
+PROJECT: They_thought_they_were_asking_for_mercy__They_were_wrong
+
+RATIO: 16:9
+
+--------------------------------------------------
+STYLE (DETAILED - MANDATORY):
+
+- Style Directive: Hollywood cinematic drama style, shot on Arri Alexa, 35mm anamorphic lens, high contrast, warm cinematic lighting, modern American home interior, sharp focus on facial expressions, micro-expressions, 8k photorealistic, Netflix original series aesthetic.
+
+- Medium: Live-action / Cinematic
+
+- Visual Style:
+  - Photorealistic textures with accurate material response
+  - Cinematic composition with depth and motivated framing
+  - Anamorphic 2.39:1 framing language adapted to delivery ratio
+  - 8K capture-grade detail with deep blacks and clean highlights
+
+- Character Design:
+  Semi-realistic figures
+
+- Materials & Textures:
+  [e.g. Flat colors only / Cel-shaded with soft shadow / Painterly with visible brushwork]
+
+- Lighting:
+  [e.g. Bright even lighting / Dramatic rim lighting / Soft ambient with glow on focal elements]
+
+- Color Palette:
+  Warm palette
+
+- Rendering Quality:
+  [e.g. Crisp, clean, high-definition / Slightly grainy retro / Hyper-smooth anime-style]
+
+- Motion Feel:
+  [e.g. Smooth action-driven / Bouncy exaggerated / Slow cinematic / Snappy cut-driven]
+
+- Overall Impression:
+  [One paragraph — what should viewers FEEL when watching? What is the visual "brand" of this project?]
+
+--------------------------------------------------
+TONE:
+[Overall emotional register — e.g. High tension, urgent, dramatic / Dark comedic, absurdist / Warm and nostalgic / Energetic and hype]
+[Detected dominant emotion (auto, for reference): Trust]
+
+--------------------------------------------------
+RENDERING RULES:
+
+- [Rule 1 — e.g. NO TEXT, NO LETTERS, NO SYMBOLIC WORDS in any scene]
+- [Rule 2 — e.g. Story must be conveyed entirely through visuals and expressions]
+- [Rule 3 — e.g. Each scene must have a clear visual conflict or action beat]
+- [Rule 4 — e.g. Only include characters explicitly required in each scene]
+- [Rule 5 — e.g. No background crowd, no unnecessary props]
+- [Add more rules as needed]
+
+--------------------------------------------------
+CHARACTERS (LOCKED):
+
+- Character 1: Modern American
+  [Physical description — face shape, skin tone, eye style — fill in]
+  [Hair — color #HEX, length, style — fill in]
+  [Default outfit — top, bottom, shoes, accessories — fill in]
+  [Signature trait — what makes them instantly recognizable — fill in]
+  [Expression range — what emotions they show most — fill in]
+
+- Character 2: American
+  [Physical description — face shape, skin tone, eye style — fill in]
+  [Hair — color #HEX, length, style — fill in]
+  [Default outfit — top, bottom, shoes, accessories — fill in]
+  [Signature trait — what makes them instantly recognizable — fill in]
+  [Expression range — what emotions they show most — fill in]
+
+- Character 3: Amara
+  [Physical description — face shape, skin tone, eye style — fill in]
+  [Hair — color #HEX, length, style — fill in]
+  [Default outfit — top, bottom, shoes, accessories — fill in]
+  [Signature trait — what makes them instantly recognizable — fill in]
+  [Expression range — what emotions they show most — fill in]
+
+- Character 4: Day
+  [Physical description — face shape, skin tone, eye style — fill in]
+  [Hair — color #HEX, length, style — fill in]
+  [Default outfit — top, bottom, shoes, accessories — fill in]
+  [Signature trait — what makes them instantly recognizable — fill in]
+  [Expression range — what emotions they show most — fill in]
+
+- Character 5: Marcus
+  [Physical description — face shape, skin tone, eye style — fill in]
+  [Hair — color #HEX, length, style — fill in]
+  [Default outfit — top, bottom, shoes, accessories — fill in]
+  [Signature trait — what makes them instantly recognizable — fill in]
+  [Expression range — what emotions they show most — fill in]
+
+- [Add unnamed characters (narrator, crowd, etc.) here if needed]
+
+--------------------------------------------------
+ENVIRONMENT (GLOBAL):
+
+[Default background / world setting for the entire project]
+[e.g. Minimal clean background, soft gradient sky / Neon-lit urban rooftop / Pastel fantasy kingdom]
+[Note: individual scenes can override this with their own ENVIRONMENT field]
+
+[Detected scene environments (auto, for reference):]
+  - Warm tungsten practicals cast soft side light across her face, high contrast shadows define cheekbones, shallow anamorphic depth isolates her against blurred domestic background
+  - High contrast shadows separate figures, anamorphic bokeh softens background
+  - Warm side light from practical lamp creates high contrast shadow falloff across left side of face, anamorphic depth renders background into soft amber blur
+  - Modern American home interior, anamorphic depth separates planes
+  - Modern American home interior, muted tungsten, shallow depth, high contrast, warm cinematic light
+  - Inside a modern American home interior converted into a seafood prep space, stainless tables and route-marker “9” crate tags feel orderly, clean, and reassuringly lived-in
+  - Modern home sink, amber light, shallow focus, intimate and quiet
+  - Modern American home interior, high contrast amber shadows, controlled highlights, intimate realism
+  - 5
+  - Warm garage spill, high contrast, domestic pressure
+  - Warm tungsten kitchen, high contrast, invisible labor made physical
+  - Warm bedroom, high contrast, tender heaviness
+
+--------------------------------------------------
+GOAL:
+[Optional — one sentence stating the visual storytelling goal of the entire video]
+[e.g. "Make the audience feel the tension of nuclear deterrence without using any text or narration"]
+
+════════════════════════════════════════════════════════════════
+[END CHARACTERS Description]
+════════════════════════════════════════════════════════════════
+
+
+════════════════════════════════════════════════════════════════
+SCENE PROMPTS
+════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────
+🎬 SCENE 01: Trust — Hook [00:00–00:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm tungsten practicals cast soft side light across her face, high contrast shadows define cheekbones, shallow anamorphic depth isolates her against blurred domestic background
+
+ACTIONS:
+- Woman in her early thirties sits at modern kitchen table, shoulders slightly forward, hands resting flat on wood surface, jaw set with controlled composure, eyes steady but distant
+- She holds a neutral expression, micro-tension visible in the corner of her mouth
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- chair creaking under shifting weight
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 02: Trust — Hook [00:08–00:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+High contrast shadows separate figures, anamorphic bokeh softens background
+
+ACTIONS:
+- Seven people seated around kitchen table covered in engineering textbooks, warm tungsten overhead light slightly desaturated, modern American home interior
+- Man in mid-twenties gestures casually with half-wave toward woman standing at table edge holding tray, his posture relaxed, no eye contact with her
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- textbook pages turning, chair legs scraping floor
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 03: Trust — Hook [00:16–00:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm side light from practical lamp creates high contrast shadow falloff across left side of face, anamorphic depth renders background into soft amber blur
+
+ACTIONS:
+- Woman's face fills frame, eyes forward, no blink, shallow breathing visible in slight nostril flare, lips pressed together in controlled line, micro-tension in jaw
+- Warm side light from practical lamp creates high contrast shadow falloff across left side of face, anamorphic depth renders background into soft amber blur
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- clock ticking on wall
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 04: Trust — Hook [00:24–00:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Modern American home interior, anamorphic depth separates planes
+
+ACTIONS:
+- Woman's hands in foreground set down tray of food on kitchen table between textbooks, fingers release tray edge
+- She turns and walks toward hallway in background, shoulders level, gait steady
+- Warm tungsten practicals illuminate food tray in sharp focus, high contrast shadows define her silhouette as she exits frame right
+
+CAMERA:
+Medium | Tracking
+
+AUDIO:
+- ceramic plate settling on wood, footsteps on hardwood floor
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 05: Trust — Hook [00:32–00:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Modern American home interior, muted tungsten, shallow depth, high contrast, warm cinematic light
+
+ACTIONS:
+- Hand and notebook on warm kitchen table, fingertips hovering over one crossed-out sentence, posture still and thoughtful, faint relieved focus in eyes reflected in paper
+- She traces grammar marks
+- Pauses at one missing word as if truth sits inside correction
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- pencil scratch, paper rustle, pen cap click
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 06: Trust — Hook [00:40–00:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Inside a modern American home interior converted into a seafood prep space, stainless tables and route-marker “9” crate tags feel orderly, clean, and reassuringly lived-in
+
+ACTIONS:
+- A woman in waterproof work jacket stands upright with calm, steady eyes and relaxed jaw, trust visible in composed posture
+- She presses an old punch clock reading 11:42 PM
+- Lowers her gaze to a wet concrete threshold glistening under warm practical light, her gloved hand hovering before she steps in
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- time clock clack, rubber boots squeak on wet concrete, glove cuff snap, metal tray set down
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 07: Trust — Hook [00:48–00:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Modern home sink, amber light, shallow focus, intimate and quiet
+
+ACTIONS:
+- Bare hands held under warm sink light, shoulders unseen, fingers tense yet steady
+- Salt sits in cracked skin lines, thin red splits visible between knuckles
+- Hands turn palm-up
+
+CAMERA:
+Macro | Slow push-in
+
+AUDIO:
+- faucet trickle, skin rub, glove peel, water drip
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 08: Trust — Hook [00:56–01:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Modern American home interior, high contrast amber shadows, controlled highlights, intimate realism
+
+ACTIONS:
+- Wet work gloves over sink in warm kitchen light, fingers stiff, wrists braced
+- One glove peels back to expose brine-stung cuts, expression only in tense hands and hesitating motion
+- Droplets cling
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- rubber glove peel, brine drip, faucet click, wet fabric squeak
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 09: Trust — Hook [01:04–01:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+5
+
+ACTIONS:
+- Medium close-up, very slow gentle push-in
+- 2
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- pencil scratches, cardboard creaks, paper rustle
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 10: Trust — Hook [01:12–01:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+5
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- twenty-six minutes
+
+ACTIONS:
+- Medium wide, slow lateral drift
+- 2
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- page flips, spoon clinks, phone route ping
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 11: Trust — Hook [01:20–01:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm garage spill, high contrast, domestic pressure
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- twenty-six minutes
+
+ACTIONS:
+- Insert to medium close-up, slow push-in
+- 2
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- hood latch clunk, ratchet clicks, metal tap
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 12: Trust — Hook [01:28–01:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm tungsten kitchen, high contrast, invisible labor made physical
+
+ACTIONS:
+- Top-down insert, gentle push-in
+- 2
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- bill paper rustles, calculator clicks, marker scribbles, clock ticks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 13: Trust — Hook [01:36–01:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm bedroom, high contrast, tender heaviness
+
+ACTIONS:
+- Medium close-up, very slow push-in
+- 2
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- blanket rustle, bedroom door hinge creak, soft footstep
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 14: Trust — Hook [01:44–01:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+5
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Sixty percent
+
+ACTIONS:
+- Medium insert, locked-off slow push-in
+- 2
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- printer whir, paper flip, calculator clicks, pen tap
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 15: Trust — Hook [01:52–02:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+5
+
+ACTIONS:
+- Intimate close-up, slow push-in
+- 2
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- shirt fabric rustle, mirror frame creak, fingertip tap
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 16: Trust — Hook [02:00–02:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+5
+
+ACTIONS:
+- Over-shoulder close-up, very slow push-in
+- 2
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- refrigerator magnet clicks, paper shuffle, fingernail tap
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 17: Trust — Hook [02:08–02:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm kitchen table in muted amber, intimate domestic calm with hidden pattern starting to show
+
+ACTIONS:
+- Her hands stay careful but tense, fingers neat, jaw barely set in quiet trust
+- She stacks tiny domestic objects — receipt, key, sugar packet, lipstick cap — into a wobbling tower
+- Pauses when one slips halfway off
+
+CAMERA:
+Macro | Slow push-in
+
+AUDIO:
+- paper rustle, key clink, ceramic tap, receipt slide
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 18: Trust — Hook [02:16–02:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm amber light, intimate modern bathroom, tension inside ordinary routine
+
+ACTIONS:
+- His collar and wrist stay centered, expression off-frame but implied by deliberate stillness
+- Her eyes catch shift in mirror, brows lifting with quiet recognition
+- A plain woodsy cologne bottle is sprayed once
+
+CAMERA:
+Extreme Close-up | Slow push-in
+
+AUDIO:
+- spray hiss, cap click, glass set-down, fabric brush
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 19: Trust — Hook [02:24–02:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Empty hallway and dead-ended late-night scene imply Tuesday and Thursday lies without showing them
+
+ACTIONS:
+- She stands outside locked engineering doors, shoulders composed but eyes narrowed, one hand gripping backpack strap, the other checking clock at midnight
+- Empty hallway and dead-ended late-night scene imply Tuesday and Thursday lies without showing them
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- fluorescent buzz, wall clock tick, door latch rattle, distant footsteps
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 20: Anticipation — Hook [02:32–02:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Amber side light cuts warm shadow across modern kitchen, suspicion turning physical
+
+ACTIONS:
+- Chin lifts a fraction, lips parted but unspoken, eyes fixed on shirt collar with quiet certainty
+- She leans in as if catching smell
+- Stops before speaking
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- fabric rustle, sharp inhale, chair creak, sleeve brush
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 21: Trust — Hook [02:40–02:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm domestic light, burden made measurable
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Seventy-eight percent
+
+ACTIONS:
+- Her face stays calm but guarded — mouth soft, eyes tired, shoulders squared — while printed chart and phone screen show bold 78 percent in frame
+- Kitchen table cluttered with schedules, color-coded calendar, and a pen aligned with discipline
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- page flip, pen tap, paper slide, phone screen tap
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 22: Trust — Hook [02:48–02:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm desk lamp, intimate domestic investigation
+
+ACTIONS:
+- Her hand moves with controlled focus, brows faintly knit, mapping timestamps and mental notes across page, phone screen beside it full of repeated patterns
+- Sticky tabs, underlines, and time stamps stack into a system she insists is not a plan
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- pen scratch, phone tap, page turn, sticky note peel
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 23: Trust — Hook [02:56–03:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Raw hands brace a stack of tape-sealed boxes under harsh work lamps and warm shadows
+
+ACTIONS:
+- She stands at 3 AM beside packing boxes, shoulders rigid from fatigue, eyes locked on moving cartons as if watching keeps her upright
+- Raw hands brace a stack of tape-sealed boxes under harsh work lamps and warm shadows
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- conveyor rollers, cardboard thuds, tape rip, machine whir
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 24: Trust — Hook [03:04–03:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Sunrise edges modern kitchen in warm amber, pain quiet but real
+
+ACTIONS:
+- Her taped knuckles fill frame, skin scraped and raw, fingers flexing as she runs them under kitchen faucet at dawn
+- Exhaustion sits in hunched shoulders and a fixed, patient stare just out of frame
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- water run, tape crinkle, ceramic sink tap, breath through nose
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 25: Trust — Build Up [03:12–03:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Modern American kitchen, muted tungsten, still domestic air with quiet unease
+
+ACTIONS:
+- Marcus asleep at kitchen table, cheek pressed into highlighted thermodynamics chapter, shoulders sunk, mouth slack, one hand limp beside coffee ring
+- He breathes shallowly while warm light pools over underlines and steam-ring stains
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- paper rustle, chair creak, shallow breathing, mug clink
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 26: Trust — Build Up [03:20–03:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm modern American kitchen, tense stillness, secrecy made physical
+
+ACTIONS:
+- Face-down phone centered on kitchen table, black screen catching amber reflection, her fingertips hovering just short of touch, jaw tight in reflection on glass
+- Warm modern American kitchen, tense stillness, secrecy made physical
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- fingertip tap on tabletop, phone buzz muted by wood, fabric shift
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 27: Trust — Build Up [03:28–03:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Modern American home interior with warm-but-muted tungsten practicals, clean counters, soft amber highlights, high contrast without gloom, emotionally focused and calm
+
+ACTIONS:
+- Woman stands rigid in entryway, shoulders softened yet still, wet jacket clinging, lips parted, eyes steady with quiet acceptance
+- Water drops fall from jacket hem to linoleum in measured rhythm as her hand loosens from door handle but she does not move, unresolved
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- water dripping on linoleum, jacket fabric creaking, door latch clicking once
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 28: Trust — Build Up [03:36–03:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm desk lamp, modern American home interior, secrecy turned into paperwork
+
+ACTIONS:
+- Checkbook, bills, and red pen on kitchen counter, one payee line edited to "roommate" while her own checks stay visible, knuckles tense at frame edge
+- Warm desk lamp, modern American home interior, secrecy turned into paperwork
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- pen scratch, paper slide, receipt tear, fingertip tap
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 29: Trust — Build Up [03:44–03:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm kitchen table, amber shadows, impulse held back in plain sight
+
+ACTIONS:
+- Her hand hovers above face-down phone, fingers curled
+- Frozen, breathing steady, wrist taut with restraint
+- Warm kitchen table, amber shadows, impulse held back in plain sight
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- fingertip brush on glass, soft inhale, phone buzz under wood, sleeve rustle
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 30: Trust — Build Up [03:52–04:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm sink light in modern American kitchen, controlled calm replacing panic
+
+ACTIONS:
+- Gloved hands peel apart under running tap, water stinging
+- Washing clean over knuckles, shoulders just out of frame
+- Warm sink light in modern American kitchen, controlled calm replacing panic
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- gloves peeling, faucet running, water splash, drain gurgle
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 31: Trust — Build Up [04:00–04:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Modern American kids’ room, tender hush, protection replacing doubt
+
+ACTIONS:
+- Daughter asleep with blanket kicked away, son curled tight against wall, thumb near mouth, tiny bodies framed by warm lamp glow
+- Her posture softens at edge of frame
+- Modern American kids’ room, tender hush, protection replacing doubt
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- blanket rustle, mattress creak, soft breathing, faint bedframe tick
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 32: Trust — Build Up [04:08–04:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm clean light in modern American home interior, emotional control restored, no flare, no collapse
+
+ACTIONS:
+- She straightens at kitchen table, chin level, shoulders squared, eyes steady off-camera, calm certainty settling across face
+- Warm clean light in modern American home interior, emotional control restored, no flare, no collapse
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- slow exhale, chair leg scrape, shirt fabric shift, faint wall clock tick
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 33: Anticipation — Build Up [04:16–04:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm-muted amber practicals carve deepening shadows across a modern American home interior, suspense building in negative space
+
+ACTIONS:
+- A woman stands alone in her kitchen, shoulders slightly hunched, fingers pressed into the countertop, eyes scanning familiar cabinets with a guarded, searching stare
+- She reaches toward a family photo frame, stops inches short, leaving the action unresolved
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- refrigerator motor click, fingertip tap on quartz counter, cabinet hinge creak, distant floorboard creak
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 34: Anticipation — Build Up [04:24–04:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Modern American home interior glows amber yet emotionally off-balance, shadows subtly lengthening behind them
+
+ACTIONS:
+- In warm morning kitchen light, he leans in with an easy half-smile to kiss her forehead
+- She stays rigid, chin tucked, jaw tight, eyes open and unfocused past him
+- His hand lingers casually on her shoulder while her hand curls into her sleeve seam
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- fabric rustle, skin brush, ceramic mug set on wood, spoon clink against mug
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 35: Trust — Build Up [04:32–04:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm-but-muted tungsten interior, high-contrast shadows, emotional stillness with unresolved tension
+
+ACTIONS:
+- A woman with upright posture but tightening jaw and narrowed eyes freezes mid-reach, fingers hovering beside a phone
+- The phone vibrates on the counter, screen lighting with an unknown contact name and a visible heart emoji, while her hand stops short instead of touching it
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- phone buzzing on stone countertop, fingernail tapping quartz edge, shallow inhale through nose
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 36: Trust — Build Up [04:40–04:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm-even kitchen lighting and orderly domestic surfaces feel methodical, emotionally restrained
+
+ACTIONS:
+- Three paper place cards read ROOMMATE, PARTNER, and blank
+- The woman’s posture is folded inward, one elbow braced, brows pinched, mouth barely parted in realization
+- She slides a house key to ROOMMATE, a bank card to PARTNER
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- card stock slide on wood, key clink, bank card tap, controlled exhale through teeth
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 37: Trust — Build Up [04:48–04:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Medium closet-interior shot, very slow static push
+
+ACTIONS:
+- Empty hangers sway in foreground while she stands in doorway, spine rigid, jaw clenched, fists half-closed at her sides
+- She steps to the kitchen island and stops over a flat handwritten note beside an account balance screen showing $112, without picking either up
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- hanger hooks ticking on metal rod, soft footstep on hardwood, phone screen tap click, paper edge scrape on stone
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 38: Trust — Build Up [04:56–05:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Modern American bedroom interior with minimalist design, muted cream and beige tones
+
+ACTIONS:
+- Empty closet with wooden hangers swaying gently on chrome rod, soft afternoon light filtering through sheer curtains casting warm amber glow across white walls
+- Camera pushes slowly toward the vacant space, revealing subtle dust particles floating in the shaft of light
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- hangers clinking softly against rod, fabric rustling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 39: Trust — Build Up [05:04–05:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Modern American home interior with warm cinematic tungsten, high contrast, intimate micro-expression focus, heavy stillness
+
+ACTIONS:
+- A woman’s face enters edge frame in profile—brows steady, lips pressed, throat swallowing once—while her fingertips pin a flat note beside a phone showing $112
+- She smooths the paper like a receipt
+- Releases it and keeps her gaze fixed, controlled rather than collapsing
+
+CAMERA:
+Extreme Close-up | Slow push-in
+
+AUDIO:
+- paper sliding on quartz, fingertip rubbing paper fibers, phone case clicking against stone, measured exhale
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 40: Trust — Build Up [05:12–05:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Balanced warm light restores spatial control in the modern American home interior, ending the build-up in poised clarity
+
+ACTIONS:
+- She stands by a kitchen window, shoulders finally lowered, palms open on the sill, expression calm and certain with a faint exhale-softened gaze
+- Outside glass, rain beads slide while yellow pollen dust clings in streaks
+- She traces one line with a fingertip and lets it continue alone
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- rain droplets ticking on glass, fingertip glide on window, wooden frame creak, distant kettle lid rattle
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 41: Trust — Build Up [05:20–05:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm modern American kitchen, muted tungsten, quiet labor, emotional restraint
+
+ACTIONS:
+- Her knuckles tense above sink, salt crust in cracks, lips pressed calm but wary, eyes tracking a half-read line just out of frame
+- She rubs fish brine from skin
+- Stops when sentence lands
+
+CAMERA:
+Extreme Close-up | Slow push-in
+
+AUDIO:
+- fingertip scrape on dried salt, paper rustle, faucet drip, ceramic mug set down
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 42: Trust — Build Up [05:28–05:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+She sits at kitchen table under warm tungsten pendant light, shadows deepening across her face as she absorbs betrayal line by line
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- seven months
+
+ACTIONS:
+- Woman's hand holding smartphone in modern American home, fingers scrolling through text messages on illuminated screen, thumb pausing mid-swipe as her jaw tightens and eyes narrow in controlled realization
+- She sits at kitchen table under warm tungsten pendant light, shadows deepening across her face as she absorbs betrayal line by line
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- fingertip sliding on glass screen, single sharp tap on phone
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 43: Trust — Build Up [05:36–05:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The background is soft bokeh of a modern living room, warm amber and cream tones, anamorphic lens flare catching the edge of the lamp
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- seven months
+
+ACTIONS:
+- Woman's face in three-quarter profile, warm side-light from a table lamp creating controlled shadow falloff across her left cheek
+- Her expression shifts subtly—jaw tightens almost imperceptibly, a micro-flinch at the corner of her mouth, eyes narrowing as they fix on a specific point off-screen
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- faint exhale, fingernail tapping wood surface twice
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 44: Sadness — Build Up [05:44–05:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+She punches timecard without looking up, mouth flat, eyes tired
+
+ACTIONS:
+- She stands at kitchen table in half-zipped work uniform, shoulders collapsed, one hand on rent notice, other on timecard
+- Work boots and bills frame her like weight
+- Rain streaks window
+
+CAMERA:
+Medium | Zoom out
+
+AUDIO:
+- timecard punch, paper bill slide, boot heel tap, rain tapping window
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 45: Trust — Build Up [05:52–06:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Breakfast table, shoelaces, school notes, warm kitchen light
+
+ACTIONS:
+- She kneels by two tiny backpacks, shoulders rounded, palms open, smile fragile but steady as she explains without shattering them
+- Breakfast table, shoelaces, school notes, warm kitchen light
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- backpack zipper, little chair scrape, fabric rustle, floorboard creak
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 46: Trust — Build Up [06:00–06:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Fabric catches warm light; child-sized shoes and lunchbox blur behind
+
+ACTIONS:
+- Her hand pulls tiny backpack zipper shut, fingertips careful, expression just out of focus but tender and braced
+- Fabric catches warm light
+- Child-sized shoes and lunchbox blur behind
+
+CAMERA:
+Close-up | Tilt
+
+AUDIO:
+- zipper pull, nylon rasp, soft palm pat, toy plastic clack
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 47: Anticipation — Build Up [06:08–06:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Modern apartment hallway glows amber, shadows building
+
+ACTIONS:
+- Daughter in one sock stands foreground, chin lifted and brow pinched with hopeful worry
+- Mother freezes half-turned, eyes softening, hands hovering over school-play costume on chair
+- Son lingers low in frame, staring at floorboards, shoulders inward
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- sock shuffle, fabric rustle, chair leg scrape, floorboard creak
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 48: Anticipation — Build Up [06:16–06:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Mother’s face holds careful answer—lips parted, eyes wet but steady, chin lifted; behind her, son crosses hallway in ghostlike blur
+
+ACTIONS:
+- Mother’s face holds careful answer—lips parted, eyes wet but steady, chin lifted
+- Behind her, son crosses hallway in ghostlike blur
+- Warm amber light catches school-play paper and empty doorway, three days of silence implied
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- floorboard creak, paper flutter, distant toy clatter, sharp inhale
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 49: Sadness — Build Up [06:24–06:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Modern American home interior kitchen, warm-but-muted tungsten, high contrast, restrained desaturation, emotional suppression
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- sixty percent
+
+ACTIONS:
+- A tired mother at kitchen table, shoulders rounded, jaw clenched, eyes fixed on a paper chart with sixty percent shaded, fingers trembling over unpaid bills
+- She draws a rectangular camera frame on paper
+- Lets pen drop while morning tasks continue around her
+
+CAMERA:
+Medium | Zoom out
+
+AUDIO:
+- pencil scratching paper, pen dropping on wood, bill envelopes sliding, rain tapping window
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 50: Sadness — Build Up [06:32–06:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Modern American home interior counter and fridge wall, warm practicals, high contrast amber shadows, controlled realism
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- sixty percent
+
+ACTIONS:
+- Same mother, posture rigid, lips pressed, one hand gripping work badge while other marks a weekly grid where exactly sixty percent of time blocks are crossed out
+- She snaps lunchbox shut, taps alarm clock, stares at incomplete schedule
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- alarm clock beeping, lunchbox latch clicking, marker squeaking on calendar, coffee pot gurgling, badge clip snapping
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 51: Sadness — Build Up [06:40–06:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Modern American home interior bathroom, warm side light, muted tungsten, deep shadow split across face, intimate micro-expression focus
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- sixty percent
+
+ACTIONS:
+- Mother stands in bathroom, neck tight, eyes red but steady, chin lifted in forced control
+- A lipstick “60%” mark sits on mirror beside her reflection
+- She wipes one digit halfway, stops, and grips sink edge
+
+CAMERA:
+Medium | Zoom out
+
+AUDIO:
+- faucet drip hitting porcelain, cloth wiping glass, fingernails tapping sink, door hinge creaking softly
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 52: Trust — Build Up [06:48–06:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Modern American home interior kitchen-hallway, warm tungsten 3800K, clean contrast, documentary restraint
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- three hours
+
+ACTIONS:
+- Mother’s hands move methodically, wrists tense, eyelids heavy, breath controlled
+- A stove timer and wall clock both frame a literal three-hour span marked in red
+- She packs lunch, braids hair, ties shoes in repeating rhythm while clocks advance
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- zipper zipping lunch bag, hairbrush bristles dragging, shoelace tug squeaks, stove timer ticking, door lock clicking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 53: Trust — Build Up [06:56–07:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Modern American home interior, warm practical pools, higher contrast amber shadows, composed blocking
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- three hours
+
+ACTIONS:
+- Mother crosses living room-kitchen path repeatedly, spine straight, shoulders tight, expression flat with contained resolve
+- A bedside digital clock flashes sleep windows totaling three hours on sticky notes along doorway
+- She completes looped routine beats without pause
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- backpack buckle clicking, cabinet door thudding, bus pass tapping countertop, sneakers scuffing tile, front door latch clacking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 54: Trust — Build Up [07:04–07:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Modern American home interior at dusk with warm-but-muted tungsten practicals, clean surfaces, and controlled contrast that feels suspended and unresolved
+
+ACTIONS:
+- A woman with softened eyes and slightly slumped shoulders stares at a smartphone held at chest height, lips pressed in patient restraint
+- She wakes the screen, checks an empty notification panel, and keeps holding the phone without lowering it
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- phone lock-button click, fingertip tapping glass, fingernail tick on phone edge, cotton sleeve rustle
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 55: Trust — Build Up [07:12–07:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Modern American home interior, warm-muted tungsten, one-sided shadow, high-contrast emotional restraint
+
+ACTIONS:
+- Mother sits by window, posture upright but rigid, eyes tracking blank phone screen, lower eyelid twitch betraying fading hope
+- On table: child support forms, unopened envelope, blank address line highlighted
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- paper edges scraping, envelope sliding, highlighter cap clicking, fingernail tapping tabletop
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 56: Trust — Build Up [07:20–07:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Modern American home interior with warm practical lamps, high-contrast amber shadows, tidy but austere atmosphere of deliberate absence
+
+ACTIONS:
+- A woman sits alone at a kitchen table, back straight yet rigid, jaw set, one hand flattened over stacked unpaid envelopes, expression calm but guarded
+- She deliberately slides a single envelope away from the pile and leaves it unopened beside a silent phone, signaling controlled emotional accounting
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- envelope paper scraping wood, fingernail tapping tabletop, ceramic mug placed down softly
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 57: Trust — Build Up [07:28–07:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Modern American home interior at night, warm-muted tungsten practicals, controlled contrast, quiet domestic order with subtle tension
+
+ACTIONS:
+- Brass deadbolt and chain latch sit centered
+- A woman’s hand pauses mid-reach, shoulders slightly raised, jaw tightening in restrained alertness
+- Knuckles hover
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- knuckles rapping wood door, metal chain clink, latch click, fabric sleeve rustle
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 58: Trust — Build Up [07:36–07:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Porch-to-entry threshold in a modern American home, warm exterior spill and muted interior tungsten, controlled power imbalance in blocking
+
+ACTIONS:
+- A middle-aged woman in a pressed blazer stands upright with squared shoulders, chin level, holding a manila envelope to her chest
+- Beside her, an unfamiliar attorney stands rigid, heels planted, eyes fixed forward
+- The mother-in-law adjusts grip on the envelope but does not hand it over yet
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- high heels tapping concrete step, envelope paper creak, blazer fabric shift, door hinge creak
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 59: Trust — Build Up [07:44–07:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Modern American home entry with warm-muted practical light, balanced contrast, emotionally contained atmosphere
+
+ACTIONS:
+- Mother-in-law leans forward a fraction, lips moving with controlled politeness
+- The protagonist remains still, spine straight but fingers pressing into her palm, eyes fixed and unblinking in guarded trust
+- The attorney stays in peripheral frame, posture rigid
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- shoe sole scuff on concrete, envelope edge tapping blazer button, shallow inhale through nose, doorframe wood creak
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 60: Trust — Build Up [07:52–08:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Modern American home dining table under warm practical light, high-contrast amber neutrals, orderly but emotionally charged
+
+ACTIONS:
+- Petition text lines stay razor-sharp while a woman’s hand enters frame, posture rigid through the wrist
+- Her fingertip traces clauses
+- Stops at “temporary custody,” pressure visibly increasing
+
+CAMERA:
+Macro | Static
+
+AUDIO:
+- paper slide on wood, page flip snap, fingernail scraping paper, pen cap click
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 61: Trust — Build Up [08:00–08:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm cinematic modern home interior, tungsten practicals, crisp contrast, intimate domestic realism
+
+ACTIONS:
+- A manila envelope is tipped over a wooden table
+- Custody documents slide out and align imperfectly
+- The protagonist’s thumb freezes mid-turn above the first page, tendons taut, breath held in her throat
+
+CAMERA:
+Extreme Close-up | Static
+
+AUDIO:
+- envelope rasp, paper stack thud, fingertip drag on paper, ring lightly tapping tabletop
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 62: Trust — Build Up [08:08–08:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Modern American home interior, warm-muted tungsten with clean shadow edges, high contrast and skin-tone separation
+
+ACTIONS:
+- Her eyes track left-to-right across off-screen legal text
+- Jaw muscles pulse once, lips press thin, shoulders stay level in deliberate self-control
+- A blink halts halfway before completing, signaling contained shock without collapse
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- page corner flick, sleeve cuff brushing fabric, chair wood creak, controlled exhale through nose
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 63: Trust — Build Up [08:16–08:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Modern American home table setup, warm amber practicals, stronger contrast, intimate betrayal tone
+
+ACTIONS:
+- Highlighted legal lines fill foreground
+- In background, her hand tightens around a yellow marker until fingertips blanch
+- The marker rolls away as a paper edge nicks her finger
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- marker squeak on paper, marker clatter on wood, paper edge scrape skin, quick breath catch
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 64: Trust — Deep [08:24–08:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Modern American home interior, warm cinematic tungsten with subtle teal accent in appliances, authoritative contrast, lived-in realism
+
+ACTIONS:
+- At a kitchen counter, she stands slightly hunched from fatigue yet grounded, one hand on stacked bills, the other arranging lunchboxes and a work timecard
+- Expression is calm, eyes tired but steady
+- She lines items into neat rows as if rebuilding order from evidence against her
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- receipt crinkle, lunchbox latch snap, ceramic mug set on counter, clock tick, pen tapping paper
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 65: Trust — Deep [08:32–08:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm tungsten home interior with teal accents and deep, controlled shadow, intimate but composed
+
+ACTIONS:
+- A tired mother in a modern American kitchen sits hunched
+- Steadies, jaw tight, eyes wet but focused under a warm practical lamp
+- She lays out night-shift timecards beside a child’s lunch receipt and traces each hour with one finger as if presenting evidence
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- paper sliding on wood, pen tapping paper, fingernail scratching cardstock
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 66: Trust — Deep [08:40–08:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Modern American dining room, warm practicals with subtle teal edge, high-contrast domestic tension
+
+ACTIONS:
+- An older woman sits upright with composed hands clasped while an empty chair dominates foreground
+- Her mouth presses into a restrained, sincere line, not malicious
+- She nudges a neatly drawn family-access schedule toward center frame
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- chair leg scraping floor, pencil underlining paper, ceramic mug setting down
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 67: Trust — Deep [08:48–08:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm high-contrast tungsten with teal accent cuts across wood and paper, moral ambiguity settling in still air
+
+ACTIONS:
+- A mother in her 60s sits rigid at a modern American home dining table, shoulders squared, jaw tight, eyes damp but steady
+- She aligns custody forms beside a framed grandchild photo
+- Presses a neat stack toward frame edge while keeping her son’s portrait upright, showing protective certainty and controlled judgment
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- paper sliding on wood, binder ring clicks, fingernail tapping glass frame, chair fabric creak
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 68: Trust — Deep [08:56–09:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Modern American side table, warm tungsten practical with teal accent reflections, high-contrast emotional stillness
+
+ACTIONS:
+- A smiling family photo in a silver frame sits beside legal letterhead stamped “Petition”
+- Focus travels from children’s faces to the stamped page while a hand freezes mid-reach
+- The hand tremor and halted motion signal contained hurt
+
+CAMERA:
+Macro | Static
+
+AUDIO:
+- photo frame click, document edge flick, rubber stamp clack
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 69: Trust — Deep [09:04–09:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Modern American dining table under warm practical light with subtle teal accents, crisp contrast and order
+
+ACTIONS:
+- Documents are arranged like a tactical grid
+- A soft knit sweater sleeve enters as the mother’s index finger taps a highlighted phrase
+- Aligns pages into a precise stack
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- fingertip tapping paper, highlighter cap snapping, folder closing
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 70: Trust — Deep [09:12–09:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Modern American home office nook, warm practical pool and teal edge light, high contrast
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- eleven days
+
+ACTIONS:
+- A wall calendar fills frame with eleven consecutive dates boxed in red
+- The mother’s hand circles hearing day
+- Crosses off Day 1 while her other hand clenches the marker cap
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- marker squeak on paper, calendar page rustle, marker cap click
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 71: Trust — Deep [09:20–09:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Modern American dining table turned war-room, warm tungsten with teal accents and deep shadow
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Eleven days
+
+ACTIONS:
+- Eleven file tabs labeled Day 1–Day 11 stand upright
+- The mother, shoulders squared and lips pressed, rapidly sorts school records and affidavits despite bandaged split fingers
+- She pauses on Day 11, thumb pressing the tab, unresolved
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- binder ring snap, paper shuffling, adhesive bandage peeling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 72: Trust — Deep [09:28–09:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Modern American bedroom interior, warm cinematic practicals with teal accents, high contrast and clean skin-tone separation
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Eleven days
+
+ACTIONS:
+- The mother faces her reflection, chin lifting and shoulders settling back
+- Cracked hands flatten an index card reading “11 days” against the mirror frame
+- She rehearses composure with a tiny nod, eyes locked and steady
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- mirror frame creak, index card tape tear, fabric sleeve brushing countertop
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 73: Trust — Deep [09:36–09:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm, high-contrast modern American home dining table, teal accents, orderly evidence atmosphere
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- two years
+
+ACTIONS:
+- A meticulous pair of hands, shoulders squared and jaw relaxed, aligns a two-year wall calendar beside school attendance sheets, vaccine logs, pay stubs, and shift reports
+- Fingertips press edges flush with exacting calm
+- A rubber date stamp marks each month in sequence to complete a visible 24-month chain
+
+CAMERA:
+Macro | Static
+
+AUDIO:
+- rubber stamp thuds, paper edges tapping, binder clip snap, pen clicks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 74: Trust — Deep [09:44–09:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm, controlled modern home interior desk setup, practical lamp glow and teal edge light, restrained confidence
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- two years
+
+ACTIONS:
+- Her brow smooths and lips press in quiet conviction
+- Steady hand underlines key affidavit lines
+- Signed neighbor affidavits fill frame center, signatures and dates crisp, with “safe childcare” phrases marked in teal pen
+
+CAMERA:
+Extreme Close-up | Static
+
+AUDIO:
+- pen scratching paper, page turn flick, fingernail tap on margin, binder ring snap
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 75: Trust — Deep [09:52–10:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+A two-year timeline of pay stubs and shift reports is arranged month-by-month; she draws one continuous line across 24 boxes and clips a supervisor letter reading “no missed shifts.” Home dining table mapped like evidence grid, warm cinematic contrast, teal practical accent, disciplined calm
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- two years
+
+ACTIONS:
+- Her posture is upright and deliberate, fingers flattening corners with measured breath
+- A two-year timeline of pay stubs and shift reports is arranged month-by-month
+- She draws one continuous line across 24 boxes and clips a supervisor letter reading “no missed shifts.” Home dining table mapped like evidence grid, warm cinematic contrast, teal practical accent, disciplined calm
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- paper slide, metal paperclip snap, ruler drag on paper, marker cap click
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 76: Trust — Deep [10:00–10:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Fluorescent-quiet copy station with subdued warm correction and teal accents, controlled resolve
+
+ACTIONS:
+- Her palms press firm despite a slight tremor at the wrists
+- Eyes narrow
+- Steady
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- copier lid thud, scanner bar sweep, paper feed whirr, sheet eject slap, fingertip drag on glass
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 77: Trust — Deep [10:08–10:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Night interior in modern American home, warm practicals, high-contrast shadows, teal edge accents, quiet determination
+
+ACTIONS:
+- She sits squared to table, chin lifted, eyes hard but calm
+- Hands seal an evidence binder with decisive pressure
+- Cover page shows opposing filing name “Marcus” and tabbed exhibits beneath
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- zipper binder rasp, tab divider flick, envelope peel, adhesive press, chair leg scrape
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 78: Trust — Deep [10:16–10:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm, high-contrast modern American home interior staged like a legal prep station, teal accents, clean authoritative clarity
+
+ACTIONS:
+- A composed woman’s hand, steady wrist and controlled breath visible in slight sleeve movement, slides an opposing filing with “Marcus” on the header beside sworn affidavits
+- Her thumb holds the corner firm as a notary seal presses down
+- The packet is rotated to face an empty chair tag and a second nameplate, stopping before the last page is turned
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- folder slide, seal press clack, page flips, chair leg scrape
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 79: Trust — Deep [10:24–10:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Courtroom counsel table surface and beige backdrop stay minimal, emotionally cool but controlled within warm cinematic contrast
+
+ACTIONS:
+- Fingers remain tightly laced, knuckles pale
+- Tissue corners stay sharply folded and dry
+- The hand with the tissue rests motionless beside a witness statement folder, exposing performative fragility as action never follows
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- tissue crinkle, fingernail tap on wood, sleeve fabric drag, document edge scrape
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 80: Trust — Deep [10:32–10:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Beige courtroom background softly blurred, warm high-contrast key with teal accent preserving controlled authority
+
+ACTIONS:
+- The narrator sits at counsel table, shoulders grounded, breath slow, eyes forward with contained certainty
+- Jaw firms at the final beat
+- She lowers her pen onto the legal pad and keeps gaze fixed ahead, prepared for impact rather than performance
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- pen set on paper, chair leather creak, cuff button click, page edge lift
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 81: Trust — Deep [10:40–10:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm-but-muted tungsten with teal accent, high-contrast authority, controlled shadows, data-journalism mood
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- four times
+- six minutes
+
+ACTIONS:
+- A woman at a modern American home dining table holds a steady spine, restrained disbelief in her eyes, lips pressed flat
+- She slides a labeled folder forward while her index finger taps exactly four times beside a printed transcript phrase highlighted four times
+- A digital stopwatch freezes at 06:00
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- folder sliding on wood, paper rustling, fingertip tapping table, pen cap clicking, stopwatch button click
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 82: Trust — Deep [10:48–10:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Modern American home interior, warm cinematic lighting pools on the table surface, high contrast shadows frame the folder, 3700K teal accent glints off metal clasp
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- four times
+- six minutes
+
+ACTIONS:
+- Woman's hands rest flat on polished mahogany table, fingers spread wide, palms pressed down with controlled pressure
+- A manila folder sits centered between her hands, edges perfectly aligned
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- folder sliding across wood table, paper rustling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 83: Trust — Deep [10:56–11:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Home interior table staged as document review station, warm cinematic light, deep shadows, authoritative calm
+
+ACTIONS:
+- A judge’s hand and eyes are seen only in reflections on reading glasses
+- Posture rigid, gaze tracks left-right with analytical focus
+- Attendance sheet, pay stubs, and pediatric records are flipped in strict order
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- page flips, paper edges scraping, eyeglasses set down, stamp thud, binder ring snap
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 84: Trust — Deep [11:04–11:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Home-interior-to-threshold transition with warm practical spill, high contrast, restrained release atmosphere
+
+ACTIONS:
+- Shoulders locked high, neck tendons taut, she keeps her chin level and face unreadable while walking through a narrow hallway to exterior steps
+- Into a parking-lot edge frame
+- She reaches the car and pauses, body still before tremor
+
+CAMERA:
+Medium | Tracking
+
+AUDIO:
+- heeled footsteps on tile, handrail touch squeak, door push latch click, footsteps on concrete, car remote chirp
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 85: Anticipation — Deep [11:12–11:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm amber practicals from the house spill through the garage door windows, high-contrast shadows but emotionally grounded, tense yet purposeful
+
+ACTIONS:
+- A woman in a parked car in an attached modern American home garage, shoulders rigid, jaw locked, eyes steady, hands visibly trembling around a key ring
+- The keys rattle and strike the interior car door in tight rhythm
+- She forces one controlled exhale and stills her grip, rage compacting into focus
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- keys clinking against metal door panel, seat leather creaking, fingertips tapping steering wheel, controlled nasal exhale
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 86: Trust — Deep [11:20–11:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm cinematic home interior, high-contrast amber with clean highlights, disciplined momentum atmosphere
+
+ACTIONS:
+- She stands square to the counter, shoulders settled, eyes forward with calm determination
+- Aluminum trays are stacked, price labels written, and an order ledger updates from one referral to three
+- A blank line titled “waiting list” remains unfilled
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- aluminum trays clattering softly, marker squeaking on labels, receipt paper tearing, calculator button clicks, tape strip rip
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 87: Trust — Deep [11:28–11:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Modern American home prep station, warm practical light with crisp contrast, purposeful productivity mood
+
+ACTIONS:
+- Her hands move decisively, wrists relaxed, expression glimpsed in reflection—focused and unflinching
+- She heat-seals tray lids, checks off three names
+- Pins new order slips to a corkboard where weekend slots fill in real time
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- plastic lid snaps, sealing press click, pen checkmark strokes, pushpin punctures, paper slips fluttering down
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 88: Fear — Deep [11:36–11:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Dim warm practicals with red accent shadows, confined but resolute emotional pressure
+
+ACTIONS:
+- Her hand hovers, fingers tense
+- Eyes soften toward a sleeping child curled under a thin blanket in background bokeh
+- She places a bank deposit slip reading $340 beside a landlord warning on the kitchen table
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- envelope sliding under door, paper placed on wood, bank slip flick, blanket fabric rustle, cooling rack metal tick
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 89: Fear — Deep [11:44–11:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Modern American home kitchen feels compressed, warm tungsten shadows cutting across table, red accent from warning stamp
+
+ACTIONS:
+- A woman’s hand shows fear physically—wrist locked, fingers rigid, jaw tight at frame edge
+- She slides a bank deposit slip ($340) beside a landlord warning notice
+- Stops mid-motion as both documents align
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- paper scraping wood, envelope sliding, ceramic plate clink, distant child blanket rustle
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 90: Fear — Deep [11:52–12:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Modern American home interior stays warm yet oppressive, high-contrast amber pockets and deep shadow
+
+ACTIONS:
+- Eviction warning paper becomes primary subject with physical menace—hard creases, corner lifted like a blade, red underlined phrase visible
+- Reflection of frosted cupcakes glints on polished table beside deposit confirmation
+- The warning sheet slowly slides from AC draft until it touches the receipt, completing an ominous contact
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- paper flutter, refrigerator compressor click, phone notification ping, fingernail tap on tabletop
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 91: Trust — Deep [12:00–12:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Modern American home interior with warm cinematic practicals, teal edge accents, high-contrast shadows, controlled highlights, emotionally grounded and methodical
+
+ACTIONS:
+- A woman in her 40s stands upright at a kitchen wall organizer, jaw relaxed, eyes focused, shoulders squared with quiet conviction
+- She pins fresh order tickets in neat rows, marks month six and month nine on a wall calendar
+- Presses a custom rubber stamp onto thick cardstock menus, ending on her steady hand over the stamped business name
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- pushpin clicks, marker squeak on paper, rubber stamp thump, cardstock stack tap
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 92: Trust — Deep [12:08–12:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Night exterior of client’s modern home visible through windshield, warm streetlight and teal dash glow balancing calm after strain
+
+ACTIONS:
+- She shows relief physically—forehead on steering wheel
+- Spine rises with one full painless inhale, fingers unclench around wheel
+- Phone screen lights with cleared $1,200 invoice and a fresh buzz
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- seat leather creak, deep inhale, steering wheel friction squeak, smartphone vibration rattle in cup holder
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 93: Trust — Deep [12:16–12:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Modern American home interior opens spatially with warm practicals, balanced contrast, gentle teal edge light, no rush
+
+ACTIONS:
+- Kitchen table becomes stable subject while she shows grounded trust physically—upright torso, chin level, open palms resting, breath even
+- Lit phone on table repeats cleared invoice notification
+- She watches without touching it, letting moment settle into controlled ownership
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- chair wood creak, phone vibration on tabletop, fingertip tap on mug, distant utensil clink
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 94: Trust — Deep [12:24–12:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Modern American home interior, warm practical light with teal accent spill, high contrast, crisp facial micro-expressions, tense but composed atmosphere
+
+ACTIONS:
+- A woman at a kitchen counter freezes mid-chop, knife suspended, lips pressed thin, eyes locked on a smartphone screen with a restrained, wary calm
+- She taps voicemail, the waveform progresses, and her free hand slowly tightens around the phone edge while her expression shifts from neutral to guarded resolve
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- phone vibration burst, voicemail start beep, knife set on cutting board clack, fingernail tap on glass
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 95: Trust — Deep [12:32–12:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Modern American home dining room carries warm, authoritative light and clean depth separation
+
+ACTIONS:
+- Two framed photos and a hand-cut joinery sample express pride physically through objects
+- She in background shows quiet trust—soft eyes, lifted chest, restrained smile at corner of mouth
+- She sets employee roster sheet (“47”) beside commercial kitchen keys (“3 sites”)
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- picture frame set-down knock, paper slide, keyring jingle, palm press on wood
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 96: Trust — Deep [12:40–12:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Modern American home office keeps warm cinematic light, crisp highlights, teal accent practical
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Twelve years
+
+ACTIONS:
+- Contract page with hospital network logo and bold “12 YEAR TERM” is primary visual subject
+- Her expression shows resolved trust—steady gaze, relaxed jaw, shoulders square at frame edge
+- She signs slowly
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- fountain pen scratching paper, page turn rasp, contract folder snap shut, controlled exhale
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 97: Trust — Deep [12:48–12:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm cinematic lighting from overhead pendants casts high-contrast shadows, teal accent glows from laptop screen on counter
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Twelve years
+
+ACTIONS:
+- Woman in her late 40s stands behind polished kitchen island in modern American home, shoulders squared, hands resting flat on marble surface, expression calm and resolute
+- She gestures subtly to off-screen staff with controlled hand movements, directing meal prep operations
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- knife chopping vegetables, metal bowl sliding on marble, water running in sink
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 98: Trust — Deep [12:56–13:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Modern American home interior transitioning to small commercial prep space
+
+ACTIONS:
+- Hands arranging catering trays on counter in modern home kitchen, fingers precise, movements deliberate
+- Cut to clipboard with order forms stacking up, pen marking checkboxes
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- pen clicking, paper rustling, napkin fabric sliding
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 99: Trust — Deep [13:04–13:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Modern event venue interior, anamorphic bokeh in background
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- three days
+
+ACTIONS:
+- Two women in elegant event space, one holding napkin, leaning in with direct eye contact
+- Protagonist listens, jaw set, eyes calculating, micro-expression of guarded consideration
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- napkin crumpling, glass clinking on table, chair creaking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 100: Trust — Deep [13:12–13:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Modern American home interior, shallow depth of field isolating her face
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- three days
+
+ACTIONS:
+- Woman's face in profile, one side in warm light, one in shadow, eyes focused off-camera
+- Micro-expression shifts from calculation to quiet resolve, jaw relaxes slightly, breath deepens
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- breath exhale, fabric shifting, distant clock ticking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 101: Trust — Deep [13:20–13:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Modern urban street, shallow focus on van, background softly blurred
+
+ACTIONS:
+- White delivery van exterior in afternoon light, her name painted on side panel in clean lettering
+- Anamorphic lens compression, warm cinematic lighting, high contrast, teal accent on van logo
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- van door sliding open, keys jingling, footsteps on pavement
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 102: Trust — Deep [13:28–13:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Modern American home interior transitioning to workshop space
+
+ACTIONS:
+- Framed diploma on wall, gold seal visible, name 'Amara' in calligraphy
+- Cut to hands working wood with chisel, calluses visible, shavings falling
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- frame settling on wall, chisel scraping wood, wood shavings dropping
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 103: Trust — Deep [13:36–13:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Modern American home interior, shallow depth of field, anamorphic bokeh
+
+ACTIONS:
+- Woman's hands arranging family photos on mantle, fingers adjusting frames with precision
+- Her touch is deliberate, micro-movements showing controlled pride
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- photo frame sliding on wood, glass tapping glass, fingertips brushing frame edge
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 104: Trust — Deep [13:44–13:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Modern American home interior, warm cinematic light with teal edge accents and controlled contrast, emotionally steady and trustworthy
+
+ACTIONS:
+- The woman sits upright in profile at a dining table, jaw unclenched, hands open and still beside a phone showing an unsent message thread, expression calm and dignified under subtle shadow
+- She deletes a drafted accusation, locks the phone face-down, and slides a sealed envelope marked “References” forward without opening it, signaling restraint over attack
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- touchscreen taps, message delete swoosh, phone lock click, envelope paper scrape, wax seal crackle
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 105: Trust — Deep [13:52–14:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm morning light spills through modern American kitchen, teal reflections on glass, quiet and contained
+
+ACTIONS:
+- Amara sits rigid across kitchen table, shoulders tight, fingers trembling around coffee mug
+- Mother leans in with calm, trusting face, palms open
+- Amara tests truth with careful posture, chin lowered, eyes steady
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- ceramic mug clink, chair creak, spoon tap
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 106: Trust — Deep [14:00–14:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm kitchen light, deep shadow under cabinets, modern American home interior, intimate and tense
+
+ACTIONS:
+- Amara leans across table, jaw loosening, eyes wet but steady
+- One hand rests on mug, other half-raised in apology
+- Mother freezes, alert but open, absorbing sentence before it lands
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- breath catch, mug set down, fabric rustle
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 107: Trust — Deep [14:08–14:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm kitchen shadows, teal reflections, modern American home interior, quiet and suspended
+
+ACTIONS:
+- Refrigerator vibration sends tiny ripples through spoon, water glass, and napkin on counter
+- Amara's hands rest still at frame edge, tension melting into stunned clarity
+- Warm kitchen shadows, teal reflections, modern American home interior, quiet and suspended
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- refrigerator compressor kick, glassware rattle, spoon tremble
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 108: Trust — Deep [14:16–14:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Campus café feels lived-in, warm, slightly airy, with restrained trust
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Six months
+
+ACTIONS:
+- Six calendar pages clipped beside café window mark six months
+- Mismatched chairs and oat milk menu blur behind, while Amara sits reflected in glass, posture calm and measured
+- Campus café feels lived-in, warm, slightly airy, with restrained trust
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- paper flutter, espresso machine hiss, chair scrape
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 109: Trust — Deep [14:24–14:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Modern American home interior, muted warm tones with controlled highlights, anamorphic bokeh in background suggesting domestic space
+
+ACTIONS:
+- Smartphone screen in shallow focus, warm 3700K tungsten light casting soft glow on glass surface, teal accent reflecting from notification bar
+- Finger scrolling deliberately through message thread, text partially visible, pausing mid-scroll as if weighing each word
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- finger sliding on glass screen, single soft tap
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 110: Trust — Deep [14:32–14:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm kitchen light, deep shadow, modern American home interior, intimate and measured
+
+ACTIONS:
+- Amara's face stays composed, micro-expressions precise
+- Shoulders upright, fingers still on mug, breath controlled as she explains with clinical calm
+- Mother listens off-screen, tension softened by trust
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- slow inhale, mug handle tap, fabric rustle
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 111: Trust — Deep [14:40–14:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm afternoon light cuts long shadows across sidewalk, composed and humane
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- twenty minutes
+
+ACTIONS:
+- He waits outside café twenty minutes early, gray at temples, shoulders slightly bowed but patient
+- One hand rests near wristwatch reading 20 minutes, other in coat pocket
+- Warm afternoon light cuts long shadows across sidewalk, composed and humane
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- wristwatch tick, shoe scuff, café door chime
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 112: Trust — Deep [14:48–14:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Wide exterior, static
+
+ACTIONS:
+- He sits on bench outside café, posture folded inward but hopeful, empty cup beside him, gaze fixed on doorway like name may be called any second
+- Warm dusk light, deep shadows, modern American sidewalk, quiet and patient
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- bench creak, paper cup crinkle, door chime
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 113: Trust — Deep [14:56–15:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm-but-muted tungsten with teal practical accents, high-contrast shadows, intimate trustful stillness
+
+ACTIONS:
+- A mother in a modern American kitchen sits upright with softened shoulders, one eyebrow barely lifted, eyes moist but steady
+- She slides a worn family photo halfway out of an envelope, stopping before the full image is revealed
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- envelope paper rasp, fingertip dragging on glossy photo, ceramic mug settling on wood
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 114: Anticipation — Deep [15:04–15:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm modern American kitchen interior with amber practicals, high contrast but luminous skin tones, emotional tension suspended
+
+ACTIONS:
+- A woman’s hands tremble
+- Steady, fingers splayed over renal lab paperwork, jaw tight and shoulders lifted in contained anticipation
+- She slides one dialysis consent form from a stack and grips a ceramic mug until her knuckles blanch, not yet signing
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- paper slide on wood, page corner flick, ceramic mug set on table, finger joints crack softly
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 115: Anticipation — Deep [15:12–15:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm tungsten practicals and amber highlights hold emotional tension without turning cold; unfinished legal papers sit partly out of frame, one line still hidden as a re-engagement beat
+
+ACTIONS:
+- A woman at a dining table in a modern American home interior, shoulders slightly forward, jaw set, eyes fixed just past camera, fingers tense around a ceramic mug
+- She lowers the mug onto the wooden table with deliberate precision
+- Keeps her hand resting on it as her expression shifts to a restrained, searching half-frown
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- ceramic mug contacting wood, fingertip slide on glazed ceramic, sleeve fabric rustle, measured nasal inhale
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 116: Trust — Deep [15:20–15:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm tungsten with subtle teal accents, high-contrast domestic stillness
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Three years
+- two years
+
+ACTIONS:
+- A kitchen wall calendar fills center frame with two dates circled: “3 years” in red and “2 years” in blue
+- The mother stands beside it, chin lowered, jaw tightening microscopically, fingers pinned flat to the wall
+- She draws a line connecting both marks
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- marker cap click, felt-tip stroke on paper, fingertip tap on calendar, wooden chair leg scrape
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 117: Trust — Deep [15:28–15:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm practicals with teal edge accents, controlled high-contrast home interior
+
+ACTIONS:
+- On a flour-dusted kitchen counter, a custody folder, night-shift badge, and child’s crayon drawing are centered
+- Amara’s hands press flat, shoulders squared, throat tight but steady
+- She slides the folder beneath the drawing
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- folder drag on laminate, paper corner flick, badge metal tick, palm press on countertop
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 118: Trust — Deep [15:36–15:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm tungsten and teal practical accents, high contrast, intimate domestic pressure
+
+ACTIONS:
+- Extreme focus on clenched fists centered on a wooden table, tendons raised, flour dust caught in warm light
+- Her posture is rigid, shoulders locked, breath controlled
+- She loosens one fist slightly while the other remains tight, signaling unresolved internal split
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- knuckle crack, skin shift on wood grain, bracelet bead click, chair cushion creak
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 119: Anticipation — Deep [15:44–15:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm modern home office nook off the kitchen, amber practical light, sharp contrast with clean highlights and readable paper texture
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- seventy-five percent
+
+ACTIONS:
+- A printed chart card with a bold amber “75%” fills center frame
+- Her hand enters with a dry-erase marker, pauses
+- Draws a second circle labeled “next invoice,” fingers tense and breath held in her throat
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- marker cap click, marker squeak on card, pushpin press into cork, paper slap against board
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 120: Trust — Deep [15:52–16:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm clean cinematic light with teal practical accents, grounded emotional stillness in modern American home interior
+
+ACTIONS:
+- Two-shot across a kitchen table: Amara leans forward with pleading eyes and tightened lips, mother sits still with chin lifted, expression fragile but controlled
+- A cup of tea between them cools untouched as focus shifts from daughter’s gaze to mother’s trembling lower eyelid
+- Settles on both in balance
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- teaspoon light tap inside cup, cup saucer tick, fabric shift against chair, slow exhale through nose
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 121: Trust — Deep [16:00–16:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Modern American home interior with warm muted tungsten and subtle teal edge accents, high-contrast but gentle, emotionally restrained and intimate
+
+ACTIONS:
+- Two untouched tea cups centered on a dining table
+- A woman in the background sits upright with softened shoulders, fingers loosely interlaced, eyes steady but fragile
+- Steam is gone as she lightly rotates one cup a few millimeters
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- ceramic cup faintly scraping wood, sleeve fabric brushing, fingertip tapping porcelain
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 122: Trust — Deep [16:08–16:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm tungsten light creates high-contrast shadows climbing the walls, desaturated amber palette conveys suppressed emotion
+
+ACTIONS:
+- Woman trapped in modern kitchen corner, vertical cabinet lines and counter edges frame her like rising water
+- Her chest rises and falls in controlled breaths, shoulders pressed back against cabinetry, jaw tight, eyes fixed on middle distance
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- shallow breathing, fabric shifting against cabinet
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 123: Trust — Deep [16:16–16:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+High contrast lighting emphasizes lip texture and subtle moisture, desaturated warm tones maintain emotional restraint
+
+ACTIONS:
+- Woman's lips in sharp anamorphic focus, warm tungsten light grazing skin texture
+- Lips part slowly, hold open for two seconds, close with slight tremor
+- Part again halfway
+
+CAMERA:
+Extreme Close-up | Static
+
+AUDIO:
+- breath catching, lips parting wetly
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 124: Trust — Deep [16:24–16:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm tungsten overhead light, high contrast shadows, desaturated amber tones
+
+ACTIONS:
+- Front door swings open, man enters modern home interior carrying paper grocery bag in one arm
+- He looks toward woman at table
+- Toward camera position, expression shifting from casual to confused
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- door latch clicking, paper bag rustling, oranges hitting tile and rolling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 125: Trust — Deep [16:32–16:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Modern American home dining space, warm cinematic tungsten with controlled teal accents, high-contrast and calm tension
+
+ACTIONS:
+- A phone lies between two seated adults
+- Both sets of hands freeze mid-gesture, one hand slightly curled, the other hovering open, faces just out of focus behind with tightened lips
+- The phone screen suddenly blooms to life and vibrates once before either person moves
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- single phone vibration against wood, notification ping, fingernail clicking tabletop
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 126: Trust — Deep [16:40–16:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Modern American home interior glow reflects on knuckles, warm high-contrast cinematic lighting with restrained teal accents
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- twelve years
+
+ACTIONS:
+- Onscreen photo fills frame: a little girl in a hospital waiting room clutching a stuffed bear, staring directly into camera
+- The holder’s posture stiffens, thumb trembles at screen edge, jaw subtly locks
+- The image sharpens from bear to the child’s eyes, implying a twelve-year emotional bridge
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- fingertip swipe on glass, phone case creak, shallow inhale through nose
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 127: Anticipation — Payoff [16:48–16:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm tungsten light transitions to slightly cooler tone, high contrast shadows, building tension in color temperature shift
+
+ACTIONS:
+- Young woman's hand reaches across modern kitchen table toward glowing smartphone, fingers extended, movement frozen mid-reach
+- Simultaneously, young man's face enters frame from right, mouth opening to speak, eyes widening
+
+CAMERA:
+Medium | Zoom out
+
+AUDIO:
+- hand sliding across table surface, sharp intake of breath
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 128: Trust — Payoff [16:56–17:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Background shows woman's legs still seated at table, motionless
+
+ACTIONS:
+- Man's hands pick up oranges from white tile floor one by one, movements deliberate and careful, each orange cradled gently before being placed in paper bag
+- His posture is hunched, shoulders tense, each gesture rehearsed and guilt-laden
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- oranges being picked up from tile, paper bag crinkling, slow footsteps
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 129: Trust — Payoff [17:04–17:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm 4000K tungsten light from overhead fixture casts soft shadows across modern American kitchen table, clean countertops visible in shallow depth of field
+
+ACTIONS:
+- Man's hands carefully lifting oranges one by one from wooden table, fingers gentle and deliberate, shoulders slightly hunched in cautious posture
+- Each orange placed with measured precision into ceramic bowl
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- oranges rolling on wood, ceramic bowl settling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 130: Trust — Payoff [17:12–17:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+She sits across from camera position, modern American home interior visible in soft bokeh behind her
+
+ACTIONS:
+- Woman's face in warm 4000K light, jaw set with quiet resolve, eyes steady and clear
+- Both palms flat on kitchen table surface, fingers spread slightly, shoulders squared
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- palms pressing on wood table
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 131: Trust — Payoff [17:20–17:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm 4000K tungsten light creates high contrast shadows across the handwritten text
+
+ACTIONS:
+- Hands writing on crumpled grocery receipt on wooden table, pen tip moving deliberately across paper
+- Fingers grip pen with controlled pressure, knuckles slightly tense
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- pen scratching paper, paper crinkling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 132: Trust — Payoff [17:28–17:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Shallow depth of field isolates the two figures against softly lit home interior
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- six days
+
+ACTIONS:
+- Woman nodding subtly, eyes focused downward at table, expression calm and affirmed
+- Man's hand in foreground writing on grocery receipt, pen moving steadily
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- pen scraping on receipt, paper shifting on table
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 133: Trust — Payoff [17:36–17:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Modern American home interior softly blurred in background
+
+ACTIONS:
+- Woman's face filling frame, eyes steady and unwavering, jaw set with quiet authority
+- Warm 4000K light sculpts cheekbones and temple, creating high contrast shadows
+
+CAMERA:
+Extreme Close-up | Static
+
+AUDIO:
+- fabric shifting, breath settling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 134: Trust — Payoff [17:44–17:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Modern American home interior visible in soft bokeh behind her, clean lines and warm tones
+
+ACTIONS:
+- Woman's face in warm 4000K light, expression composed and resolute, eyes focused forward
+- Shoulders squared, posture upright and grounded
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- chair creaking, fabric settling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 135: Trust — Payoff [17:52–18:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Woman visible in background, seated on couch, posture upright and still, expression neutral
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- fifteen minutes
+
+ACTIONS:
+- Front door of modern American home interior, man standing in doorway fifteen minutes early, shoulders slightly tense, hands at sides
+- Warm 4000K light from interior spills onto threshold
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- door latch clicking, footsteps on threshold
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 136: Trust — Payoff [18:00–18:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Empty space around her emphasizes spatial control
+
+ACTIONS:
+- Modern American living room interior, warm 4000K tungsten light casting controlled highlights and deep shadows
+- Couch centered in frame, clean lines and neutral tones
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- couch cushion settling, fabric shifting
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 137: Trust — Payoff [18:08–18:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm modern American living room with amber practicals, controlled shadows, intimate trust-laced stillness
+
+ACTIONS:
+- A gray-templed man with narrowed shoulders sits on a couch edge, spine slightly collapsed, hands clasped tightly between his knees, jaw set in quiet surrender
+- He stares at his knuckles
+- Exhales and loosens one thumb as if accepting an unavoidable verdict
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- fabric creaking under shifting weight, fingers rubbing knuckles, slow exhale, wristwatch tick
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 138: Trust — Payoff [18:16–18:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm modern American home interior, kitchen doorway sharp behind him, nostalgic but grounded atmosphere
+
+ACTIONS:
+- The man’s expression turns wistful
+- Eyelids lower, mouth corners lift faintly, one hand opens from his lap with tentative warmth
+- He angles his head toward the kitchen and lightly inhales as if catching a remembered scent
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- ceramic mug set on wood table, subtle coat sleeve rustle, floorboard creak near doorway, soft nasal inhale
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 139: Trust — Payoff [18:24–18:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Modern American home interior, clean amber highlights, uncluttered frame, emotionally clear and composed
+
+ACTIONS:
+- A woman’s steady hand holds a white cloth and glass spray bottle
+- Posture relaxed, face partly visible in soft edge with calm eyes and controlled breath
+- She sprays once and wipes a glass tabletop in one precise stroke, leaving a crisp, streak-free line that catches warm light
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- trigger spray click, mist burst, cloth dragging on glass, bottle cap tap on table
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 140: Trust — Payoff [18:32–18:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm modern American kitchen-table setting, high-contrast amber shadows, trust and recognition in shared stillness
+
+ACTIONS:
+- The mother sits upright with still shoulders and level chin, hands flat and steady on the table
+- Daughter mirrors the posture with focused eyes and restrained breath
+- The daughter aligns index cards into a straight stack and taps edges square, matching the mother’s calm cadence and control
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- index cards tapping table, fingernails brushing cardstock, chair wood creak, measured inhale through nose
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 141: Trust — Payoff [18:40–18:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm modern American home interior, kitchen table under amber practical light, controlled contrast, emotionally sober trust
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- seven months
+
+ACTIONS:
+- A tense male hand hovers over the current date while a woman opposite remains motionless, fingers interlaced and expression guarded in frame edge
+- He flips through seven monthly pages quickly
+- Stops
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- calendar pages flipping, fingertip tapping paper dates, pen cap clicking once, chair leg scraping tile
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 142: Trust — Payoff [18:48–18:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm modern American living room, amber practicals and deep shadows, intimate truthful atmosphere
+
+ACTIONS:
+- The man lifts his gaze fully for the first time
+- Shoulders remain lowered, lips pressed
+- Part slightly, eyes glossy but controlled, hands unclasping onto his thighs
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- throat swallow click, shirt fabric shift at chest, fingers releasing against denim, clock second-hand tick
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 143: Trust — Payoff [18:56–19:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm modern American dining nook, high-contrast amber light carving facial micro-expressions, controlled emotional authority
+
+ACTIONS:
+- She tilts her head a few degrees, mouth firm, gaze direct
+- One brow lifts while her hands remain perfectly still, fingers aligned at the table edge
+- She slides a framed photo of her daughter into center frame and taps it once, underscoring the burden named
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- photo frame wood scrape on tabletop, single fingernail tap on glass, bracelet bead click, steady exhale through nose
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 144: Trust — Payoff [19:04–19:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm modern American home interior, soft amber practicals, intimate protective atmosphere centered on innocence
+
+ACTIONS:
+- She sits small but composed, shoulders slightly tucked, hands wrapped around a pencil with careful grip, eyes wide and searching yet calm
+- She erases a line in a notebook, rewrites it neatly
+- Pauses with pencil hovering as the room’s conflict stays out of focus around her
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- pencil scratching paper, eraser rubbing graphite, notebook page turn, hoodie cuff brushing tabletop
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 145: Anticipation — Payoff [19:12–19:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm modern American home interior shifts from muted tungsten tension to golden release, legal papers sharp in foreground as power balance flips
+
+ACTIONS:
+- Marcus’s jaw unclenches and shoulders drop as his eyes widen, while Amara stays upright with steady chin and calm breath
+- He reaches for a folder he didn’t expect, fingers hesitating before gripping it
+
+CAMERA:
+Medium | Zoom out
+
+AUDIO:
+- chair legs scraping wood, paper sliding, folder flap snapping shut, measured footsteps stopping
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 146: Trust — Payoff [19:20–19:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm modern American home interior feels orderly and reassuring, amber highlights defining edges of each document
+
+ACTIONS:
+- Amara’s posture is grounded and open, brows relaxed, one hand precise and deliberate as she arranges support materials
+- Marcus sits quieter, gaze lowered, hands folded in compliance
+- Referral sheets, social-service pamphlets, pediatric group cards, and guardianship attorney card are stacked like structured options
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- card stock tapping table, pen clicking once, paper corners flicking, binder ring snapping
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 147: Trust — Payoff [19:28–19:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Modern American home dining table in warm, clean cinematic light, high-contrast amber shadows, emotionally resolved atmosphere
+
+ACTIONS:
+- A composed woman with softened eyes and relaxed shoulders steadies her breath, trust visible in a small grounded nod
+- She places a thick folder, a fan of business cards, and a printed visiting-hours sheet into a man’s waiting hands
+- Withdraws calmly as he exits frame
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- cardstock sliding on wood, paper edges tapping, business cards flicking, zipper closing, leather shoes stepping away
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 148: Trust — Payoff [19:36–19:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm modern American home interior glows clean and stable, deep shadows controlled, emotional equilibrium fully restored
+
+ACTIONS:
+- Marcus stands near the doorway, shoulders modestly rounded, gives two small nods with restrained gratitude
+- Amara and family remain seated, upright and composed, faces calm and unfractured
+- He exits with paperwork in hand while their stillness holds center power
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- door latch clicking, paper rustling against jacket, two soft footstep pairs, deadbolt settling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 149: Trust — Payoff [19:44–19:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm modern American home interior maintains confident amber contrast, spatial composition clearly places authority with those who stay
+
+ACTIONS:
+- Marcus moves toward the front door with subdued posture, clutching documents
+- Behind him, Amara remains steady in frame depth, chin level, hands relaxed on table edge
+- He crosses threshold carrying paperwork instead of reconciliation
+
+CAMERA:
+Wide | Tracking
+
+AUDIO:
+- hinges creaking lightly, envelope corners brushing fabric, footsteps fading on porch boards, door closing click
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 150: Trust — Payoff [19:52–20:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm cinematic lighting, high contrast, sharp focus on micro-expressions, anamorphic depth, Netflix aesthetic
+
+ACTIONS:
+- Woman in her late thirties, shoulders relaxed, soft steady gaze, subtle upward curve at corner of mouth
+- She moves through warm-lit modern American home interior, placing folded laundry on counter, signing invoice at kitchen table, checking phone calendar with calm deliberate swipe
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- pen scratching paper, rubber stamp pressing, fabric folding, phone screen tap
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 151: Trust — Payoff [20:00–20:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm modern American home interior stays intimate and steady, golden practical light reflecting off glass for a gentle reveal beat
+
+ACTIONS:
+- Amara leans slightly forward, lips parting with quiet surprise, thumb hovering before tapping send
+- Her eyes soften as she reads a forwarded photo with blank caption
+- Smartphone screen fills frame center, message thread visible, no text beneath image
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- phone vibration buzz, fingertip tap on glass, notification chime click, sleeve brushing tabletop
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 152: Trust — Payoff [20:08–20:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm practical lighting bridges shop textures with home-like comfort, emotional trust grounded in specific physical proof
+
+ACTIONS:
+- Zuri sits cross-legged on the shop floor, relaxed cheeks and absorbed gaze, eating calmly from a lunch container
+- Nearby Marcus stays in soft background, posture respectful and supervised
+- Camera isolates the catering box corner where the small logo is visibly off-center
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- plastic lid popping, fork tapping container rim, chewing rustle, cardboard box sliding on concrete
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 153: Trust — Payoff [20:16–20:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm modern American home kitchen corner staged as a supervised visit space, high-contrast amber practicals and deep shadow, emotionally settled
+
+ACTIONS:
+- Zuri sits cross-legged with softened shoulders, brows easing from confusion into quiet recognition as she studies an off-center logo on a catering lunch box
+- She rotates the container and traces the misprinted corner with one fingertip, revealing authorship in a restrained smile
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- plastic lid click, fabric rustle, fingertip tapping cardboard, distant fork clink
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 154: Anticipation — Payoff [20:24–20:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm tungsten light pools on counter, deep shadows frame the edges
+
+ACTIONS:
+- Camera suddenly pulls back to reveal exhausted woman hunched over cramped kitchen counter at 3 AM, face lit by single overhead bulb, shoulders curved inward, eyes red-rimmed but focused
+- She hand-letters packaging labels surrounded by cracked tile and a single working burner, baby monitor glowing softly in background
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- pen scratching paper, tape tearing, cardboard folding
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 155: Trust — Payoff [20:32–20:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm modern American home dining nook, clean highlights and rich skin-tone separation, calm finality
+
+ACTIONS:
+- Tiny fingers clutch branded packaging
+- The child’s knuckles relax while the mother’s hand hovers protectively, wrist unclenching and mouth softening with tender pride
+- The child squeezes, crinkles, and hugs the box against their chest, turning survival into belonging
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- package crinkle, small fingers rubbing cardboard, soft table tap, sleeve brush
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 156: Trust — Payoff [20:40–20:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm modern American home interior, amber contrast with controlled shadows, composed authority
+
+ACTIONS:
+- She stands upright with chin level, open palms
+- Measured clasp
+- Expression calm, eyes steady, signaling boundaries without anger
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- key turn click, bin latch snap, cardboard set-down thud, pencil tick on label
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 157: Trust — Payoff [20:48–20:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+She stamps her name on each label and lets the boxes exit frame, proof traveling where she need not go
+
+ACTIONS:
+- Her posture is loose and grounded, shoulders lowered, eyes serene
+- She watches sealed packages move along a small countertop roller toward a doorway while she remains still
+- She stamps her name on each label and lets the boxes exit frame, proof traveling where she need not go
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- label peel rip, stamp thud, roller wheel rattles, box slide scrape, door latch click
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 158: Trust — Payoff [20:56–21:02]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm modern American home interior, clean amber highlights, deep controlled shadows, final authority
+
+ACTIONS:
+- Marcus appears at the doorway with raised brows and tentative half-step
+- She remains seated upright, jaw relaxed, gaze unwavering, a faint knowing exhale through the nose
+- He sets a key on the table and pauses
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- footsteps on wood, key drop on table, chair creak, coat fabric swish
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+════════════════════════════════════════════════════════════════
+[END SCENE PROMPTS]
+════════════════════════════════════════════════════════════════
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+QUICK REFERENCE — Author Instructions
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+STRUCTURE:
+  File = BLOCK 1 (Characters Description) + BLOCK 2 (Scene Prompts)
+  BLOCK 1 appears ONCE at the top. Never repeat it per scene.
+  BLOCK 2 contains all scenes in order.
+
+REQUIRED FIELDS — BLOCK 1:
+  PROJECT, RATIO, STYLE, TONE, RENDERING RULES, CHARACTERS, ENVIRONMENT
+
+REQUIRED FIELDS — EACH SCENE:
+  ENVIRONMENT (SCENE), ACTIONS, CAMERA, AUDIO
+
+CAMERA FORMAT:  [Shot Type] | [Movement]
+  Shot types: Wide / Medium / Close-up / Extreme Close-up / POV / OTS
+  Movements: Static / Slow push-in / Pan / Tilt / Tracking / Zoom
+
+TIMECODE FORMAT:  [MM:SS–MM:SS] — default 8 seconds per scene
+
+ACTIONS FORMAT:  Present tense, one beat per line, specific (who + what + how)
+
+CHARACTER LOCK:
+  All characters defined in BLOCK 1 are LOCKED
+  Descriptions (colors, outfit, hair) must not drift between scenes
+  Add new characters in BLOCK 1, never introduce them mid-file
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
