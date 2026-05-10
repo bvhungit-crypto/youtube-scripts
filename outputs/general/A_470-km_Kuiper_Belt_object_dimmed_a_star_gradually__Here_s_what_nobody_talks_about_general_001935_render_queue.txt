@@ -1,0 +1,349 @@
+============================================================
+VEO 3 RENDER QUEUE - A_470-km_Kuiper_Belt_object_dimmed_a_star_gradually__Here_s_what_nobody_talks_about [general]
+Total clips: 34 | Duration: 00:04:31.720
+============================================================
+
+--------------------------------------------------
+CLIP C001 | 00:00:00.000 -> 00:00:08.000 | 8.0s
+Emotion: TRUST (low) | Arc: hook
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium close-up, very slow gentle push-in. A bundled astrophysicist with relaxed shoulders and focused eyes stands beside a frosted viewport, calm confidence in a slight nod. They trace a tiny icy dwarf-planet marker on a transparent orbital panel, but their fingertip stops before revealing the label. A deep-black observatory dome with icy blue spill light feels clean, precise, and reassuring. Audio: stylus tapping glass, glove fabric brushing sleeve, telescope servo click. No voice, sound effects only. Cinematic photorealistic NASA documentary DNA, 8K HDR volumetric lighting, anamorphic lens aesthetic, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no generic stock footage, no camera drift, no shaky handheld, no talking head monologue, no warm orange sunset palette, no ominous horror contrast, no text glitches, no cartoon look
+
+--------------------------------------------------
+CLIP C002 | 00:00:08.000 -> 00:00:16.000 | 8.0s
+Emotion: TRUST (low) | Arc: hook
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium close-up, very slow gentle push-in. A focused planetary scientist in a bright observatory control bay, shoulders relaxed, soft confident eyes, one hand hovering over a glass data panel. They trace a 470-km body and temperature readouts, then stop just before revealing the final atmospheric-loss overlay. Clean white science-light with mild cyan interface glow and reflective instrument surfaces creates calm trust. Audio: stylus tapping glass, keyboard clicking, telescope mount servo whir, relay switch ticks. No voice, sound effects only. Cinematic photorealistic NASA documentary, 8K HDR volumetric lighting, anamorphic lens production aesthetic, cinematic documentary DNA, 24fps, 16:9, 1080p. 8s.
+
+NEGATIVE:
+Avoid generic stock footage, camera drift, prolonged talking-head framing, dark moody grading, heavy shadows, warm-orange dramatic look, abstract fake UI, and any voice or music
+
+--------------------------------------------------
+CLIP C003 | 00:00:16.000 -> 00:00:24.000 | 8.0s
+Emotion: TRUST (low) | Arc: hook
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium close-up, very slow gentle push-in. A mission analyst with upright posture and calm, intent expression faces a floating solar-system scale board. They slide a marker from Neptune to a barely visible speck, pausing before the data readout appears. The lab remains pristine and trust-building, cool cyan overlays over neutral science-white light and black starfield backdrop. Audio: touchscreen swipe, pen cap click, projector relay tick. No voice, sound effects only. Cinematic photorealistic NASA documentary DNA, 8K HDR volumetric lighting, anamorphic lens aesthetic, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no generic stock space montage, no camera drift, no aggressive zooms, no gloomy menace lighting, no warm nostalgic grading, no noisy compression artifacts
+
+--------------------------------------------------
+CLIP C004 | 00:00:24.000 -> 00:00:32.000 | 8.0s
+Emotion: ANTICIPATION (low) | Arc: hook
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium tight, very slow creeping push toward unknown. A senior physicist with composed stance, hands clasped at chest level, and confident half-smile watches equations stack across glass. They place Moon, Mars, and sub-Pluto cards in sequence; the final slot remains empty as numbers glow 40–50 K. The observatory office feels clinical yet inviting, amber edge light balanced by cool cyan data reflections. Audio: card slide on glass, marker squeak, tablet tap. No voice, sound effects only. Cinematic photorealistic NASA documentary DNA, 8K HDR volumetric lighting, anamorphic lens aesthetic, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no generic stock explainer graphics, no camera drift, no sinister shadows, no chaotic quick cuts, no bright celebratory confetti colors, no fantasy UI
+
+--------------------------------------------------
+CLIP C005 | 00:00:32.000 -> 00:00:40.000 | 8.0s
+Emotion: TRUST (low) | Arc: hook
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium close-up, very slow gentle push-in. An observatory operator stands upright with calm, assured posture and a slight anticipatory brow lift, hand poised over a date-entry console. They press in “JAN 10, 2024” as a clean date card begins to render but cuts before full context appears. Bright neutral-white control room, polished metal, cyan monitor accents, and soft volumetric light signal credible optimism. Audio: mechanical keypresses, touchscreen confirmation beep, thermal printer feed click, hard-drive activity ticks. No voice, sound effects only. Cinematic photorealistic NASA documentary, 8K HDR volumetric lighting, anamorphic lens production aesthetic, cinematic documentary DNA, 24fps, 16:9, 1080p. 8s.
+
+NEGATIVE:
+Avoid generic stock patterns, camera drift, dark-cold palette dominance, ominous contrast, slow empty holds, text glitches, voice, narration, or music
+
+--------------------------------------------------
+CLIP C006 | 00:00:40.000 -> 00:00:48.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium shot, very slow static dolly. Three Japanese telescope technicians, shoulders squared and faces focused, stand at synchronized consoles with disciplined calm. They trigger time-stamp capture in sequence; photon counters climb, then pause before the anomaly flag resolves. The high-altitude night observatory feels precise and trustworthy, cool cyan interfaces under neutral-white task lighting. Audio: keyboard clicking, shutter snap, relay click, printer feed. No voice, sound effects only. Cinematic photorealistic NASA documentary DNA, 8K HDR volumetric lighting, anamorphic lens aesthetic, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no generic stock control-room loops, no camera drift, no frantic action pacing, no horror darkness, no saturated warm festival tones, no fake HUD clutter
+
+--------------------------------------------------
+CLIP C007 | 00:00:48.000 -> 00:00:56.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium shot, very slow static dolly. Two telescope technicians in a bright monitoring room lean forward with steady intent, brows focused, hands synchronized over timing controls. They run a stellar occultation playback: star signal dips, rebounds, and a second unexplained notch starts forming as the graph freezes unresolved. Even white lab lighting, crisp cyan telemetry, and clean instrument geometry sustain trustworthy momentum. Audio: telescope drive motor stepping, keyboard clacks, detector cooling fan spin, timestamp trigger clicks. No voice, sound effects only. Cinematic photorealistic NASA documentary, 8K HDR volumetric lighting, anamorphic lens production aesthetic, cinematic documentary DNA, 24fps, 16:9, 1080p. 8s.
+
+NEGATIVE:
+Avoid generic stock astronomy shots, handheld wobble, dark oppressive grade, overdramatic lens flares, cluttered UI, voice, dialogue, music, or non-diegetic ambience
+
+--------------------------------------------------
+CLIP C008 | 00:00:56.000 -> 00:01:04.000 | 8.0s
+Emotion: ANTICIPATION (low) | Arc: build_up
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium shot, slow building push-in on contradiction visualization. Split-screen display shows dwarf planet thermal profile (40-50K) on left, atmospheric detection signature on right, impossible coexistence highlighted in amber warning text, posture shifting forward with hands clasped, brow furrowed in focused puzzle-solving. Camera advances as data panels converge toward center, emphasizing the paradox. Environment: observatory analysis room with amber side lighting casting long shadows, tension building in suspended silence, clinical precision meeting scientific mystery. Audio: data correlation tones, warning alert beep, hard drive seeking. No voice, sound effects only. Cinematic documentary, Canon C700 8K, anamorphic 2.39:1, 24fps, 16:9. 8s. Hold 0.6s after.
+
+NEGATIVE:
+warm golden lighting, motion blur, lens flares, oversaturated amber, dramatic shadows, handheld camera
+TIMING: Hold 0.6s after.
+
+--------------------------------------------------
+CLIP C009 | 00:01:04.000 -> 00:01:12.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium shot, very slow locked dolly-in. An astronomer in a white lab jacket stands upright, relaxed shoulders, focused eyes, one hand hovering over an orbital plot, calm confidence visible in a slight nod. They layer orbit path, diameter bars, and thermal map on a bright transparent display, pausing before the final equation resolves. Clean observatory control room with neutral white science light, soft cyan data glows, polished metal, hopeful clinical clarity. Audio: keyboard clicking, stylus tapping glass screen, mouse wheel scrolling, single marker cap snapping. No voice, sound effects only. Cinematic photorealistic NASA documentary DNA, 8K HDR volumetric lighting, anamorphic lens 2.39:1 look, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no generic stock footage, no camera drift, no talking head hold, no underexposed shadows, no dark cold mood, no warm orange cast, no voice, no narration, no music, no hum/drone/room tone
+
+--------------------------------------------------
+CLIP C010 | 00:01:12.000 -> 00:01:20.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium shot, very slow static frame. A data analyst sits forward with steady posture, brows gently knit, lips neutral, fingers poised with controlled precision. They scroll dense numeric columns while a cyan-highlighted anomaly row expands, then stops before the final interpretation panel opens. Bright operations desk with even white illumination, glass reflections, pale cyan interface light, orderly instruments, trustworthy technical calm. Audio: keyboard clicking, trackpad tapping, mechanical key switch clacks, paper sheet sliding, pen clicking once. No voice, sound effects only. Cinematic photorealistic NASA documentary DNA, 8K HDR volumetric lighting, anamorphic lens 2.39:1 look, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no generic stock visuals, no handheld wobble, no camera drift, no dark grading, no gloomy black crush, no dialogue, no voice, no music, no ambient wash, no fan hum
+
+--------------------------------------------------
+CLIP C011 | 00:01:20.000 -> 00:01:28.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium shot, very slow dolly. Three astronomers at Palomar-era workstations lean over stacked sky frames, intent faces, slightly hunched shoulders, precise hand placement. One advances exposure plates while another marks a faint shifting point between frames, building toward confirmation without yet stamping discovery. White desk lamps and cool cyan instrument glow shape a restrained archival-lab mood. Audio: film sleeve rustling, lightbox switch clicking, grease pencil marking acetate, binder ring snapping. No voice, sound effects only. Cinematic photorealistic NASA documentary, 8K HDR volumetric lighting anamorphic lens 2.39:1, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no reenactment melodrama, no handheld shake, no sepia nostalgia filter, no warm celebratory palette, no generic office stock props
+
+--------------------------------------------------
+CLIP C012 | 00:01:28.000 -> 00:01:36.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium shot, very slow static-to-micro dolly. Three researchers at a light table hold attentive posture, soft intent expressions, one points with a gloved finger while others track the mark with measured breaths. They compare sequential sky plates; stars stay fixed as one faint point shifts between frames, then a provisional label field starts populating and pauses mid-entry. Archival analysis room bathed in balanced white desk-lamp light with gentle cyan monitor spill, clean and reassuring. Audio: film sleeve rustling, light-table switch clicking, pencil writing on log sheet, keyboard clicking, mouse single-click. No voice, sound effects only. Cinematic photorealistic NASA documentary DNA, 8K HDR volumetric lighting, anamorphic lens 2.39:1 look, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no stock montage tropes, no camera drift, no dark noir lighting, no heavy blue-black shadows, no voice or dialogue, no music, no room tone words, no atmospheric hum
+
+--------------------------------------------------
+CLIP C013 | 00:01:36.000 -> 00:01:44.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium shot, very slow static dolly. An archivist with calm, upright stance and focused gaze aligns two enlarged sky frames on a light table, fingertip tracing a faint point’s incremental shift. They place a red locator dot on one frame and hover over the next, delaying the second mark to keep the sequence unresolved. Clinical observatory archive with cool whites, cyan highlights, and controlled contrast. Audio: light table switch click, photo paper sliding, wax pencil tapping glass, magnifier set down. No voice, sound effects only. Cinematic photorealistic NASA documentary, 8K HDR volumetric lighting anamorphic lens 2.39:1, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no generic stock montage, no jitter, no warm romantic grading, no mythic iconography, no overdesigned UI overlays
+
+--------------------------------------------------
+CLIP C014 | 00:01:44.000 -> 00:01:52.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium shot, very slow dolly forward. Astronomer's hands rest calmly on open logbook, fingers relaxed, posture upright and methodical. Hand writes provisional designation into catalog page with steady deliberate strokes, then sets pen down and closes book with quiet precision. Clean observatory workstation bathed in even 3800K light, telescope control monitors glowing softly in background, atmosphere of focused scientific routine. Audio: pen nib scratching paper, book cover closing softly. No voice, sound effects only. Cinematic documentary, 24fps, 16:9, 1080p. 8s. Hold 1.24s after.
+
+NEGATIVE:
+no camera drift, no generic stock patterns, no talking head, no bright warm tones, no rushed movement, no dramatic lighting shifts, no ambient room tone, no voice
+TIMING: Hold 1.24s after.
+
+--------------------------------------------------
+CLIP C015 | 00:01:52.000 -> 00:02:00.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium shot, very slow completely static. A scientist stands still at a teal-accent data wall, chin slightly lifted, hands clasped then opening to a single catalog line, expression composed and definitive. They reveal the full numeric designation and hold on it as surrounding mythic labels fade, delivering a measured intermediate payoff. Authoritative data-journalism lab, cool 3700K light, crisp cyan highlights, stable trustful tone. Audio: keypress enter click, screen UI tick, marker cap snapping, paper card placed on desk. No voice, sound effects only. Cinematic photorealistic NASA documentary, 8K HDR volumetric lighting anamorphic lens 2.39:1, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no dramatic zoom, no sentimental warmth, no fantasy naming graphics, no camera drift, no celebratory confetti visuals
+
+--------------------------------------------------
+CLIP C016 | 00:02:00.000 -> 00:02:08.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium shot, completely static camera. An archivist stands square to a large monitor wall, relaxed jaw, intent gaze, one hand resting on dated folders, showing patient confidence. They reveal three archived timestamps from 1990, 1991, and 1992; the same moving point is overlaid across plates, then a clean trajectory lock icon appears as intermediate confirmation. Bright archival lab with authoritative white lighting, subtle teal accents, crisp cyan overlays, organized shelves, steady trustworthy atmosphere. Audio: archive box lid sliding, photo sleeve crackling, keyboard clicking, mouse clicks, printer label peeling. No voice, sound effects only. Cinematic photorealistic NASA documentary DNA, 8K HDR volumetric lighting, anamorphic lens 2.39:1 look, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no stock detective cliché, no camera movement, no dark oppressive palette, no heavy vignette, no voice or dialogue, no music, no room tone descriptors, no hum/drone
+
+--------------------------------------------------
+CLIP C017 | 00:02:08.000 -> 00:02:16.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium shot, locked-off static frame. A focused astronomer with upright posture, relaxed shoulders, and a slight confirming nod studies layered archival plates on a transparent display. They align date-stamped frames (1990, 1991, 1992) and pause with fingertip hovering over the same faint moving point, creating an intermediate payoff. Bright neutral-white lab light with soft teal data accents, clean clinical optimism, NASA control-room documentary atmosphere. Audio: touchscreen tapping, stylus scratching glass, keyboard clicking, mouse wheel scrolling. No voice, sound effects only. Cinematic documentary DNA, cinematic photorealistic NASA documentary style, 8K HDR volumetric lighting, anamorphic lens look, 24fps, 16:9. 8s.
+
+NEGATIVE:
+generic stock footage, camera drift, handheld shake, long talking head, dark moody grade, heavy black shadows, warm orange cast, fantasy UI, noisy frame, text glitches, low detail
+
+--------------------------------------------------
+CLIP C018 | 00:02:16.000 -> 00:02:24.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium shot, fully static. Scientist at dual-monitor station, upright posture, slight nod, lips pressed in calm confidence, fingers hovering over timeline controls. They freeze occultation frame and pin unresolved star point beside measured trace, re-engagement element appears as blinking marker awaiting final constraint. Environment: neutral white science-light with cyan data glows, disciplined archive workspace, positive low-arousal trust. Audio: mouse click, mechanical keyboard taps, monitor button click, stylus tap on glass. No voice, sound effects only. Cinematic photorealistic NASA documentary DNA, 8K HDR volumetric lighting anamorphic-lens 2.39:1 look, 24fps, 16:9. 8s.
+
+NEGATIVE:
+camera drift, zoom creep, generic stock patterns, dramatic reaction acting, warm sunset palette, horror shadows, music cues, voice, fog effects
+
+--------------------------------------------------
+CLIP C019 | 00:02:24.000 -> 00:02:32.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium shot, locked-off static frame. A data analyst stands squared to a reduction screen, calm face and steady hands folded then opening to point at converging tracks. They freeze two overlaid trajectories as residual-error bars collapse, delivering an intermediate payoff of precision before final interpretation. Bright white science-light with balanced cyan-teal overlays and gentle volumetric shafts through glass consoles, controlled and trustworthy NASA documentary mood. Audio: keyboard clicking, trackball rolling, button pressing, printer feed rattling. No voice, sound effects only. Cinematic documentary DNA, cinematic photorealistic NASA documentary style, 8K HDR volumetric lighting, anamorphic lens look, 24fps, 16:9. 8s. Hold 4.16s after.
+
+NEGATIVE:
+camera drift, generic office stock, dark blue-black underexposure, ominous contrast, dialogue mouth sync, abstract bokeh only, exaggerated lens flares, cluttered UI, low-resolution charts
+TIMING: Hold 4.16s after.
+
+--------------------------------------------------
+CLIP C020 | 00:02:32.000 -> 00:02:40.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium shot, locked static. Orbital dynamicist at transparent board, relaxed shoulders, intent gaze, one hand tracing curve with measured precision. They complete two-to-three resonance diagram near Neptune and pause on matched rhythm ticks, giving intermediate payoff for classification clarity. Environment: clinical mission-analysis bay, teal highlights, crisp white work light, stable trustworthy mood. Audio: marker squeak on glass, tablet tap, keyboard key taps, laser pointer click. No voice, sound effects only. Cinematic photorealistic NASA documentary DNA, 8K HDR volumetric lighting anamorphic-lens 2.39:1 look, 24fps, 16:9. 8s.
+
+NEGATIVE:
+camera movement, dreamy bokeh romance tone, warm gold wash, chaotic clutter, speculative sci-fi holograms, narration captions, stock planet loop
+
+--------------------------------------------------
+CLIP C021 | 00:02:40.000 -> 00:02:48.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium shot, locked-off static frame. A mission scientist, chin slightly raised and brows softly intent, keeps one hand on a telescope inset while the other traces a 2:3 resonance diagram. They complete two luminous XV93 arcs against three Neptune arcs, then leave the loop glowing unresolved for re-engagement. Bright neutral-white instrumentation light with teal-cyan orbital graphics, crisp positive clinical clarity in a NASA documentary lab. Audio: pen tapping tablet, keyboard clicking, laser pointer click, monitor button press. No voice, sound effects only. Cinematic documentary DNA, cinematic photorealistic NASA documentary style, 8K HDR volumetric lighting, anamorphic lens look, 24fps, 16:9. 8s.
+
+NEGATIVE:
+dark cold grading, dramatic noir shadows, drifting camera, stock presenter close-up, cartoon planets, over-warm sunset palette, atmospheric haze obscuring data, audio-reactive graphics
+
+--------------------------------------------------
+CLIP C022 | 00:02:48.000 -> 00:02:56.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium shot, dead-static composition. Analyst in front of tightened orbit crop, neutral face, steady gaze, elbows anchored, deliberate hand tap at resonance node. They repeat classification beat with cleaner lines and reduced clutter, delivering intermediate payoff through reinforced certainty. Environment: high-discipline data room, cyan edge lighting, white instrument panels, trust-forward clinical calm. Audio: stylus tapping screen, keyboard clicks, mouse wheel ticks, binder ring snap. No voice, sound effects only. Cinematic photorealistic NASA documentary DNA, 8K HDR volumetric lighting anamorphic-lens 2.39:1 look, 24fps, 16:9. 8s.
+
+NEGATIVE:
+camera sway, random stock scientists, theatrical lighting contrast, warm amber dominance, ominous darkness, fantasy interface particles, dialogue subtitles
+
+--------------------------------------------------
+CLIP C023 | 00:02:56.000 -> 00:03:04.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium shot, locked-off static frame. A researcher with steady breathing, slight relieved smile, and open palm posture reviews an occultation light-curve beside a size comparator panel. They lock the readout at 470 km, then align it against Pluto and Moon scale markers for an intermediate payoff grounded in proportion. Bright white analytical lighting with restrained teal highlights and clean volumetric depth, confident NASA documentary data-bay atmosphere. Audio: keyboard clicking, stylus tapping screen, mouse click, paper chart sliding on desk. No voice, sound effects only. Cinematic documentary DNA, cinematic photorealistic NASA documentary style, 8K HDR volumetric lighting, anamorphic lens look, 24fps, 16:9. 8s. Hold 1.71s after.
+
+NEGATIVE:
+generic montage, camera motion, dark vignette, threatening sci-fi mood, deep black frame dominance, warm romantic glow, distracting crowd, unreadable numbers, low-contrast overlays
+TIMING: Hold 1.71s after.
+
+--------------------------------------------------
+CLIP C024 | 00:03:04.000 -> 00:03:12.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium shot, locked static. Instrument operator at timing console, relaxed shoulders, focused eyes, subtle nod, hands steady over trace controls. They freeze star blink-out timestamps and overlay instrument traces line-by-line, delivering intermediate payoff through precision match across channels. Environment: sterile observatory analysis room, cyan data glow, neutral white task light, controlled trustworthy atmosphere. Audio: toggle switch click, keyboard tapping, oscilloscope button press, ruler slide on desk. No voice, sound effects only. Cinematic photorealistic NASA documentary DNA, 8K HDR volumetric lighting anamorphic-lens 2.39:1 look, 24fps, 16:9. 8s.
+
+NEGATIVE:
+camera drift, stock montage repetition, overdramatic acting, warm cozy palette, dark threatening grade, soft dream filter, voice, music
+
+--------------------------------------------------
+CLIP C025 | 00:03:12.000 -> 00:03:20.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium shot, very slow completely static. Calm scientist, upright posture, relaxed shoulders, focused eyes, slight nod. Slides final 470 km marker onto occultation graph beside Pluto and Moon scale, one tick still unresolved until number locks in. Bright observatory control room, white science-light, cyan data panels, calm and precise. Audio: keyboard clicks, touchscreen taps, data slider clicks. No voice, sound effects only. cinematic documentary, NASA-style 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9. 8s. Hold 2.56s after.
+
+NEGATIVE:
+dark moody palette, shadow-heavy control room, shaky camera, generic stock footage, talking head, voice, music, hum, cluttered UI, ominous tone
+TIMING: Hold 2.56s after.
+
+--------------------------------------------------
+CLIP C026 | 00:03:20.000 -> 00:03:28.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium shot, completely static. Researcher in pressed white coat stands centered before large transparent comparison graphic, posture erect, hands folded at waist, expression neutral and assured, gaze fixed on overlaid scale showing 470km sphere falling short of 559km LA-SF distance line. Clinical environment with teal accent lighting 3700K, volumetric fog defining depth, 8K HDR precision, anamorphic 2.39:1 framing. Audio: soft digital beep as graphic updates, faint ventilation airflow. No voice, sound effects only. Cinematic photorealistic NASA documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+camera movement, warm color grading, smiling, gesturing, dialogue, generic stock patterns, emotional warmth
+
+--------------------------------------------------
+CLIP C027 | 00:03:28.000 -> 00:03:36.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium shot, completely static lock-off. An orbital dynamics specialist sits straight with chin slightly raised, calm mouth, and steady hand hovering over a stylus, expressing controlled assurance. They trace an ellipse and tilt marker, then pin labels e=0.12 and 13° while perihelion/aphelion points illuminate in sequence. Blue-black starfield displays and crisp white overlays create a clinical, reliable mood. Audio: stylus tapping screen, keyboard clicking, trackball rolling. No voice, sound effects only. Cinematic photorealistic NASA documentary DNA, 8K HDR, volumetric lighting, anamorphic lens look, 24fps, 16:9. 8s.
+
+NEGATIVE:
+stock planet loop, camera movement, chaotic particle effects, neon fantasy colors, emotional overacting, blurry text, inaccurate orbital geometry
+
+--------------------------------------------------
+CLIP C028 | 00:03:36.000 -> 00:03:44.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium close-up, very slow confirming push-in. A researcher with composed expression, relaxed jaw, and steady breathing keeps one palm near the orbital model in a resolved, confident pose. As the push-in continues, the ellipse, tilt plane, and current 38 AU position glow in orderly white-cyan, completing the orbital explanation. The lab remains cool and controlled, with desaturated gold sunlight accents diluted by blue shadows. Audio: soft keypad presses, stylus glide on tablet, mechanical slider click. No voice, sound effects only. Cinematic photorealistic NASA documentary DNA, 8K HDR, volumetric lighting, anamorphic lens look, 24fps, 16:9. 8s.
+
+NEGATIVE:
+camera drift, frenetic motion graphics, loud visual clutter, dark ominous grading, exaggerated lens flares, sci-fi hologram clichés
+
+--------------------------------------------------
+CLIP C029 | 00:03:44.000 -> 00:03:52.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium close-up, very slow confirming push-in. A navigation analyst stands balanced with shoulders open and a faint assured nod, hands resting flat on a console to signal closure. They advance a solar-system model where the tilted orbit path tracks smoothly and stops at a highlighted present position, confirming order rather than drama. Clean white interface lines over blue-black space preserve a trustworthy, low-arousal tone. Audio: console button clicks, trackball rolling, data panel beep. No voice, sound effects only. Cinematic photorealistic NASA documentary DNA, 8K HDR, volumetric lighting, anamorphic lens look, 24fps, 16:9. 8s.
+
+NEGATIVE:
+generic montage, handheld shake, extreme contrast, panic pacing, fantasy star colors, illegible labels, unnecessary character acting
+
+--------------------------------------------------
+CLIP C030 | 00:03:52.000 -> 00:04:00.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium close-up, very slow confirming push-in. A thermal modeler with calm eyes and slightly lowered shoulders holds a tablet against the chest, then extends one finger toward a distant Sun icon, conveying inevitable conclusion. They fade from orbit panel to a temperature scale where upper limits settle, visually locking the thermal ceiling. Sparse instrumentation, cool cyan highlights, and restrained gold spill keep the mood factual and settled. Audio: touchscreen tap, slider notch clicks, tablet casing set on desk. No voice, sound effects only. Cinematic photorealistic NASA documentary DNA, 8K HDR, volumetric lighting, anamorphic lens look, 24fps, 16:9. 8s.
+
+NEGATIVE:
+dramatic thriller look, rapid zoom, camera drift, warm romantic palette, noisy grain, speculative effects, symbolic metaphors
+
+--------------------------------------------------
+CLIP C031 | 00:04:00.000 -> 00:04:08.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium close-up, very slow confirming push-in. A mission scientist in a clean observatory bay stands upright with relaxed shoulders, steady gaze, and a faint assured half-smile, one gloved hand open beside a holographic 38 AU marker and a tiny Sun icon. She drags Pluto and XV93 orbital overlays, then taps volatile-ice labels as the warmer-end temperature and rock-hard water-ice values lock into place, ending in a clear side-by-side constraint readout. Bright neutral science-light with cold cyan data glows and diluted desaturated solar-gold highlights creates calm, trustworthy resolution. Audio: stylus tapping glass screen, glove fabric rustle, console button clicks, servo ring rotation ticks. No voice, sound effects only. Cinematic documentary DNA, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9. 8s.
+
+NEGATIVE:
+avoid generic stock footage, avoid camera drift, avoid prolonged talking-head framing, avoid dark underexposed palette, avoid moody shadows dominating frame, avoid warm-saturated romantic grading, avoid cluttered UI, avoid voice, dialogue, music, room tone, hum, drone
+
+--------------------------------------------------
+CLIP C032 | 00:04:08.000 -> 00:04:16.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium close-up, very slow confirming push-in. A mission scientist, posture upright and expression composed, opens one hand toward a wide system map while the other rests still, signaling final confidence. The view eases back within the frame to connect eccentric orbit, faint sunlight at 38 AU, and frozen-surface metrics in one consolidated proof tableau. Blue-black space, sterile whites, and subdued cyan maintain calm credibility. Audio: control dial turning, keyboard clicking, projector relay click. No voice, sound effects only. Cinematic photorealistic NASA documentary DNA, 8K HDR, volumetric lighting, anamorphic lens look, 24fps, 16:9. 8s.
+
+NEGATIVE:
+camera wander, flashy transitions, warm celebratory color wash, generic B-roll inserts, low-detail rendering, sensational framing
+
+--------------------------------------------------
+CLIP C033 | 00:04:16.000 -> 00:04:24.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium close-up, very slow confirming push-in. Calm planetary scientist, shoulders loose, faint assured half-smile, eyes steady on bright orbital charts. Fingers rest on luminous controls as Pluto and XV93 comparison resolves on clean split-screen. Warm science lab and observatory glass, soft gold-white key light, cyan data glows, confident conclusion atmosphere. Audio: touchscreen taps, projector clicks, paper rustle. No voice, sound effects only. cinematic documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9. 8s.
+
+NEGATIVE:
+dark icy shadows, fearful expression, tense posture, generic stock lab, camera drift, shaky push-in, cold blue-only palette, talking head, empty background
+
+--------------------------------------------------
+CLIP C034 | 00:04:24.000 -> 00:04:31.720 | 7.72s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium close-up, very slow confirming push-in. Same scientist leans forward with relaxed shoulders and a satisfied, trusting expression, one hand open toward glowing orbital diagram as seasonal atmosphere logic locks in. Bright observatory workstation, warm final revealing light, pale gold surfaces, clean cyan maps, resolved and reassuring atmosphere. Audio: touchscreen taps, projector clicks, paper rustle. No voice, sound effects only. cinematic documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9. 7.72s.
+
+NEGATIVE:
+dark frame, ominous space, fearful eyes, rigid posture, generic stock footage, camera drift, cold harsh contrast, shaky motion, talking head, empty lab
