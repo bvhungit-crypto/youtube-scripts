@@ -1,0 +1,766 @@
+════════════════════════════════════════════════════════════════
+[CHARACTERS Description]
+════════════════════════════════════════════════════════════════
+
+PROJECT: A_470-km_Kuiper_Belt_object_dimmed_a_star_gradually__Here_s_what_nobody_talks_about
+
+RATIO: 16:9
+
+--------------------------------------------------
+STYLE (DETAILED - MANDATORY):
+
+- Style Directive: Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1
+
+- Medium: Live-action / Cinematic — anamorphic lens, photorealistic, documentary, HDR, 8K, cinematic
+
+- Visual Style:
+  - Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1
+
+- Character Design:
+  Semi-realistic figures
+
+- Materials & Textures:
+  [e.g. Flat colors only / Cel-shaded with soft shadow / Painterly with visible brushwork]
+
+- Lighting:
+  Volumetric lighting with visible light shafts
+
+- Color Palette:
+  [Define color roles — e.g. Red = danger, Yellow = energy, Blue = calm, Black outline for clarity]
+
+- Rendering Quality:
+  [e.g. Crisp, clean, high-definition / Slightly grainy retro / Hyper-smooth anime-style]
+
+- Motion Feel:
+  [e.g. Smooth action-driven / Bouncy exaggerated / Slow cinematic / Snappy cut-driven]
+
+- Overall Impression:
+  [One paragraph — what should viewers FEEL when watching? What is the visual "brand" of this project?]
+
+--------------------------------------------------
+TONE:
+[Overall emotional register — e.g. High tension, urgent, dramatic / Dark comedic, absurdist / Warm and nostalgic / Energetic and hype]
+[Detected dominant emotion (auto, for reference): Trust]
+
+--------------------------------------------------
+RENDERING RULES:
+
+- [Rule 1 — e.g. NO TEXT, NO LETTERS, NO SYMBOLIC WORDS in any scene]
+- [Rule 2 — e.g. Story must be conveyed entirely through visuals and expressions]
+- [Rule 3 — e.g. Each scene must have a clear visual conflict or action beat]
+- [Rule 4 — e.g. Only include characters explicitly required in each scene]
+- [Rule 5 — e.g. No background crowd, no unnecessary props]
+- [Add more rules as needed]
+
+--------------------------------------------------
+CHARACTERS (LOCKED):
+
+- Character 1: [Name]
+  [Physical description — face shape, skin tone, eye style]
+  [Hair — color #HEX, length, style]
+  [Default outfit — top, bottom, shoes, accessories]
+  [Signature trait]
+  [Expression range]
+
+- Character 2: [Name]
+  [Physical description]
+  [Hair — color #HEX, length, style]
+  [Default outfit]
+  [Signature trait]
+  [Expression range]
+
+--------------------------------------------------
+ENVIRONMENT (GLOBAL):
+
+[Default background / world setting for the entire project]
+[e.g. Minimal clean background, soft gradient sky / Neon-lit urban rooftop / Pastel fantasy kingdom]
+[Note: individual scenes can override this with their own ENVIRONMENT field]
+
+[Detected scene environments (auto, for reference):]
+  - A deep-black observatory dome with icy blue spill light feels clean, precise, and reassuring
+  - Clean white science-light with mild cyan interface glow and reflective instrument surfaces creates calm trust
+  - The lab remains pristine and trust-building, cool cyan overlays over neutral science-white light and black starfield backdrop
+  - The observatory office feels clinical yet inviting, amber edge light balanced by cool cyan data reflections
+  - Bright neutral-white control room, polished metal, cyan monitor accents, and soft volumetric light signal credible optimism
+  - The high-altitude night observatory feels precise and trustworthy, cool cyan interfaces under neutral-white task lighting
+  - Even white lab lighting, crisp cyan telemetry, and clean instrument geometry sustain trustworthy momentum
+  - observatory analysis room with amber side lighting casting long shadows, tension building in suspended silence, clinical precision meeting scientific mystery
+  - Clean observatory control room with neutral white science light, soft cyan data glows, polished metal, hopeful clinical clarity
+  - Bright operations desk with even white illumination, glass reflections, pale cyan interface light, orderly instruments, trustworthy technical calm
+  - White desk lamps and cool cyan instrument glow shape a restrained archival-lab mood
+  - Archival analysis room bathed in balanced white desk-lamp light with gentle cyan monitor spill, clean and reassuring
+
+--------------------------------------------------
+GOAL:
+[Optional — one sentence stating the visual storytelling goal of the entire video]
+[e.g. "Make the audience feel the tension of nuclear deterrence without using any text or narration"]
+
+════════════════════════════════════════════════════════════════
+[END CHARACTERS Description]
+════════════════════════════════════════════════════════════════
+
+
+════════════════════════════════════════════════════════════════
+SCENE PROMPTS
+════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────
+🎬 SCENE 01: Trust — Hook [00:00–00:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+A deep-black observatory dome with icy blue spill light feels clean, precise, and reassuring
+
+ACTIONS:
+- A bundled astrophysicist with relaxed shoulders and focused eyes stands beside a frosted viewport, calm confidence in a slight nod
+- They trace a tiny icy dwarf-planet marker on a transparent orbital panel, but their fingertip stops before revealing the label
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- stylus tapping glass, glove fabric brushing sleeve, telescope servo click
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 02: Trust — Hook [00:08–00:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clean white science-light with mild cyan interface glow and reflective instrument surfaces creates calm trust
+
+ACTIONS:
+- A focused planetary scientist in a bright observatory control bay, shoulders relaxed, soft confident eyes, one hand hovering over a glass data panel
+- They trace a 470-km body and temperature readouts
+- Stop just before revealing the final atmospheric-loss overlay
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- stylus tapping glass, keyboard clicking, telescope mount servo whir, relay switch ticks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 03: Trust — Hook [00:16–00:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The lab remains pristine and trust-building, cool cyan overlays over neutral science-white light and black starfield backdrop
+
+ACTIONS:
+- A mission analyst with upright posture and calm, intent expression faces a floating solar-system scale board
+- They slide a marker from Neptune to a barely visible speck, pausing before the data readout appears
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- touchscreen swipe, pen cap click, projector relay tick
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 04: Anticipation — Hook [00:24–00:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The observatory office feels clinical yet inviting, amber edge light balanced by cool cyan data reflections
+
+ACTIONS:
+- A senior physicist with composed stance, hands clasped at chest level, and confident half-smile watches equations stack across glass
+- They place Moon, Mars, and sub-Pluto cards in sequence
+- The final slot remains empty as numbers glow 40–50 K
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- card slide on glass, marker squeak, tablet tap
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 05: Trust — Hook [00:32–00:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Bright neutral-white control room, polished metal, cyan monitor accents, and soft volumetric light signal credible optimism
+
+ACTIONS:
+- An observatory operator stands upright with calm, assured posture and a slight anticipatory brow lift, hand poised over a date-entry console
+- They press in “JAN 10, 2024” as a clean date card begins to render but cuts before full context appears
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- mechanical keypresses, touchscreen confirmation beep, thermal printer feed click, hard-drive activity ticks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 06: Trust — Build Up [00:40–00:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The high-altitude night observatory feels precise and trustworthy, cool cyan interfaces under neutral-white task lighting
+
+ACTIONS:
+- Three Japanese telescope technicians, shoulders squared and faces focused, stand at synchronized consoles with disciplined calm
+- They trigger time-stamp capture in sequence
+- Photon counters climb
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- keyboard clicking, shutter snap, relay click, printer feed
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 07: Trust — Build Up [00:48–00:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Even white lab lighting, crisp cyan telemetry, and clean instrument geometry sustain trustworthy momentum
+
+ACTIONS:
+- Two telescope technicians in a bright monitoring room lean forward with steady intent, brows focused, hands synchronized over timing controls
+- They run a stellar occultation playback: star signal dips, rebounds, and a second unexplained notch starts forming as the graph freezes unresolved
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- telescope drive motor stepping, keyboard clacks, detector cooling fan spin, timestamp trigger clicks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 08: Anticipation — Build Up [00:56–01:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+observatory analysis room with amber side lighting casting long shadows, tension building in suspended silence, clinical precision meeting scientific mystery
+
+ACTIONS:
+- Split-screen display shows dwarf planet thermal profile (40-50K) on left, atmospheric detection signature on right, impossible coexistence highlighted in amber warning text, posture shifting forward with hands clasped, brow furrowed in focused puzzle-solving
+- Camera advances as data panels converge toward center, emphasizing the paradox
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- data correlation tones, warning alert beep, hard drive seeking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 09: Trust — Build Up [01:04–01:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clean observatory control room with neutral white science light, soft cyan data glows, polished metal, hopeful clinical clarity
+
+ACTIONS:
+- An astronomer in a white lab jacket stands upright, relaxed shoulders, focused eyes, one hand hovering over an orbital plot, calm confidence visible in a slight nod
+- They layer orbit path, diameter bars, and thermal map on a bright transparent display, pausing before the final equation resolves
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- keyboard clicking, stylus tapping glass screen, mouse wheel scrolling, single marker cap snapping
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 10: Trust — Build Up [01:12–01:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Bright operations desk with even white illumination, glass reflections, pale cyan interface light, orderly instruments, trustworthy technical calm
+
+ACTIONS:
+- A data analyst sits forward with steady posture, brows gently knit, lips neutral, fingers poised with controlled precision
+- They scroll dense numeric columns while a cyan-highlighted anomaly row expands
+- Stops before the final interpretation panel opens
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- keyboard clicking, trackpad tapping, mechanical key switch clacks, paper sheet sliding, pen clicking once
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 11: Trust — Build Up [01:20–01:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+White desk lamps and cool cyan instrument glow shape a restrained archival-lab mood
+
+ACTIONS:
+- Three astronomers at Palomar-era workstations lean over stacked sky frames, intent faces, slightly hunched shoulders, precise hand placement
+- One advances exposure plates while another marks a faint shifting point between frames, building toward confirmation without yet stamping discovery
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- film sleeve rustling, lightbox switch clicking, grease pencil marking acetate, binder ring snapping
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 12: Trust — Build Up [01:28–01:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Archival analysis room bathed in balanced white desk-lamp light with gentle cyan monitor spill, clean and reassuring
+
+ACTIONS:
+- Three researchers at a light table hold attentive posture, soft intent expressions, one points with a gloved finger while others track the mark with measured breaths
+- They compare sequential sky plates
+- Stars stay fixed as one faint point shifts between frames
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- film sleeve rustling, light-table switch clicking, pencil writing on log sheet, keyboard clicking, mouse single-click
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 13: Trust — Build Up [01:36–01:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clinical observatory archive with cool whites, cyan highlights, and controlled contrast
+
+ACTIONS:
+- An archivist with calm, upright stance and focused gaze aligns two enlarged sky frames on a light table, fingertip tracing a faint point’s incremental shift
+- They place a red locator dot on one frame and hover over the next, delaying the second mark to keep the sequence unresolved
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- light table switch click, photo paper sliding, wax pencil tapping glass, magnifier set down
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 14: Trust — Build Up [01:44–01:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clean observatory workstation bathed in even 3800K light, telescope control monitors glowing softly in background, atmosphere of focused scientific routine
+
+ACTIONS:
+- Astronomer's hands rest calmly on open logbook, fingers relaxed, posture upright and methodical
+- Hand writes provisional designation into catalog page with steady deliberate strokes
+- Sets pen down and closes book with quiet precision
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- pen nib scratching paper, book cover closing softly
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 15: Trust — Deep [01:52–02:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Authoritative data-journalism lab, cool 3700K light, crisp cyan highlights, stable trustful tone
+
+ACTIONS:
+- A scientist stands still at a teal-accent data wall, chin slightly lifted, hands clasped
+- Opening to a single catalog line, expression composed and definitive
+- They reveal the full numeric designation and hold on it as surrounding mythic labels fade, delivering a measured intermediate payoff
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- keypress enter click, screen UI tick, marker cap snapping, paper card placed on desk
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 16: Trust — Deep [02:00–02:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Bright archival lab with authoritative white lighting, subtle teal accents, crisp cyan overlays, organized shelves, steady trustworthy atmosphere
+
+ACTIONS:
+- An archivist stands square to a large monitor wall, relaxed jaw, intent gaze, one hand resting on dated folders, showing patient confidence
+- They reveal three archived timestamps from 1990, 1991, and 1992
+- The same moving point is overlaid across plates
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- archive box lid sliding, photo sleeve crackling, keyboard clicking, mouse clicks, printer label peeling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 17: Trust — Deep [02:08–02:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Bright neutral-white lab light with soft teal data accents, clean clinical optimism, NASA control-room documentary atmosphere
+
+ACTIONS:
+- A focused astronomer with upright posture, relaxed shoulders, and a slight confirming nod studies layered archival plates on a transparent display
+- They align date-stamped frames (1990, 1991, 1992) and pause with fingertip hovering over the same faint moving point, creating an intermediate payoff
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- touchscreen tapping, stylus scratching glass, keyboard clicking, mouse wheel scrolling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 18: Trust — Deep [02:16–02:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+neutral white science-light with cyan data glows, disciplined archive workspace, positive low-arousal trust
+
+ACTIONS:
+- Scientist at dual-monitor station, upright posture, slight nod, lips pressed in calm confidence, fingers hovering over timeline controls
+- They freeze occultation frame and pin unresolved star point beside measured trace, re-engagement element appears as blinking marker awaiting final constraint
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- mouse click, mechanical keyboard taps, monitor button click, stylus tap on glass
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 19: Trust — Deep [02:24–02:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Bright white science-light with balanced cyan-teal overlays and gentle volumetric shafts through glass consoles, controlled and trustworthy NASA documentary mood
+
+ACTIONS:
+- A data analyst stands squared to a reduction screen, calm face and steady hands folded
+- Opening to point at converging tracks
+- They freeze two overlaid trajectories as residual-error bars collapse, delivering an intermediate payoff of precision before final interpretation
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- keyboard clicking, trackball rolling, button pressing, printer feed rattling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 20: Trust — Deep [02:32–02:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+clinical mission-analysis bay, teal highlights, crisp white work light, stable trustworthy mood
+
+ACTIONS:
+- Orbital dynamicist at transparent board, relaxed shoulders, intent gaze, one hand tracing curve with measured precision
+- They complete two-to-three resonance diagram near Neptune and pause on matched rhythm ticks, giving intermediate payoff for classification clarity
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- marker squeak on glass, tablet tap, keyboard key taps, laser pointer click
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 21: Trust — Deep [02:40–02:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Bright neutral-white instrumentation light with teal-cyan orbital graphics, crisp positive clinical clarity in a NASA documentary lab
+
+ACTIONS:
+- A mission scientist, chin slightly raised and brows softly intent, keeps one hand on a telescope inset while the other traces a 2:3 resonance diagram
+- They complete two luminous XV93 arcs against three Neptune arcs
+- Leave the loop glowing unresolved for re-engagement
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- pen tapping tablet, keyboard clicking, laser pointer click, monitor button press
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 22: Trust — Deep [02:48–02:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+high-discipline data room, cyan edge lighting, white instrument panels, trust-forward clinical calm
+
+ACTIONS:
+- Analyst in front of tightened orbit crop, neutral face, steady gaze, elbows anchored, deliberate hand tap at resonance node
+- They repeat classification beat with cleaner lines and reduced clutter, delivering intermediate payoff through reinforced certainty
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- stylus tapping screen, keyboard clicks, mouse wheel ticks, binder ring snap
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 23: Trust — Deep [02:56–03:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Bright white analytical lighting with restrained teal highlights and clean volumetric depth, confident NASA documentary data-bay atmosphere
+
+ACTIONS:
+- A researcher with steady breathing, slight relieved smile, and open palm posture reviews an occultation light-curve beside a size comparator panel
+- They lock the readout at 470 km
+- Align it against Pluto and Moon scale markers for an intermediate payoff grounded in proportion
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- keyboard clicking, stylus tapping screen, mouse click, paper chart sliding on desk
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 24: Trust — Deep [03:04–03:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+sterile observatory analysis room, cyan data glow, neutral white task light, controlled trustworthy atmosphere
+
+ACTIONS:
+- Instrument operator at timing console, relaxed shoulders, focused eyes, subtle nod, hands steady over trace controls
+- They freeze star blink-out timestamps and overlay instrument traces line-by-line, delivering intermediate payoff through precision match across channels
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- toggle switch click, keyboard tapping, oscilloscope button press, ruler slide on desk
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 25: Trust — Deep [03:12–03:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Bright observatory control room, white science-light, cyan data panels, calm and precise
+
+ACTIONS:
+- Calm scientist, upright posture, relaxed shoulders, focused eyes, slight nod
+- Slides final 470 km marker onto occultation graph beside Pluto and Moon scale, one tick still unresolved until number locks in
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- keyboard clicks, touchscreen taps, data slider clicks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 26: Trust — Deep [03:20–03:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clinical environment with teal accent lighting 3700K, volumetric fog defining depth, 8K HDR precision, anamorphic 2.39:1 framing
+
+ACTIONS:
+- Researcher in pressed white coat stands centered before large transparent comparison graphic, posture erect, hands folded at waist, expression neutral and assured, gaze fixed on overlaid scale showing 470km sphere falling short of 559km LA-SF distance line
+- Clinical environment with teal accent lighting 3700K, volumetric fog defining depth, 8K HDR precision, anamorphic 2.39:1 framing
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- soft digital beep as graphic updates, faint ventilation airflow
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 27: Trust — Deep [03:28–03:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+They trace an ellipse and tilt marker, then pin labels e=0.12 and 13° while perihelion/aphelion points illuminate in sequence
+
+ACTIONS:
+- An orbital dynamics specialist sits straight with chin slightly raised, calm mouth, and steady hand hovering over a stylus, expressing controlled assurance
+- They trace an ellipse and tilt marker
+- Pin labels e=0.12 and 13° while perihelion/aphelion points illuminate in sequence
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- stylus tapping screen, keyboard clicking, trackball rolling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 28: Trust — Payoff [03:36–03:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The lab remains cool and controlled, with desaturated gold sunlight accents diluted by blue shadows
+
+ACTIONS:
+- A researcher with composed expression, relaxed jaw, and steady breathing keeps one palm near the orbital model in a resolved, confident pose
+- As the push-in continues, the ellipse, tilt plane, and current 38 AU position glow in orderly white-cyan, completing the orbital explanation
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- soft keypad presses, stylus glide on tablet, mechanical slider click
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 29: Trust — Payoff [03:44–03:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clean white interface lines over blue-black space preserve a trustworthy, low-arousal tone
+
+ACTIONS:
+- A navigation analyst stands balanced with shoulders open and a faint assured nod, hands resting flat on a console to signal closure
+- They advance a solar-system model where the tilted orbit path tracks smoothly and stops at a highlighted present position, confirming order rather than drama
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- console button clicks, trackball rolling, data panel beep
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 30: Trust — Payoff [03:52–04:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Sparse instrumentation, cool cyan highlights, and restrained gold spill keep the mood factual and settled
+
+ACTIONS:
+- A thermal modeler with calm eyes and slightly lowered shoulders holds a tablet against the chest
+- Extends one finger toward a distant Sun icon, conveying inevitable conclusion
+- They fade from orbit panel to a temperature scale where upper limits settle, visually locking the thermal ceiling
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- touchscreen tap, slider notch clicks, tablet casing set on desk
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 31: Trust — Payoff [04:00–04:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Bright neutral science-light with cold cyan data glows and diluted desaturated solar-gold highlights creates calm, trustworthy resolution
+
+ACTIONS:
+- A mission scientist in a clean observatory bay stands upright with relaxed shoulders, steady gaze, and a faint assured half-smile, one gloved hand open beside a holographic 38 AU marker and a tiny Sun icon
+- She drags Pluto and XV93 orbital overlays
+- Taps volatile-ice labels as the warmer-end temperature and rock-hard water-ice values lock into place, ending in a clear side-by-side constraint readout
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- stylus tapping glass screen, glove fabric rustle, console button clicks, servo ring rotation ticks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 32: Trust — Payoff [04:08–04:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Blue-black space, sterile whites, and subdued cyan maintain calm credibility
+
+ACTIONS:
+- A mission scientist, posture upright and expression composed, opens one hand toward a wide system map while the other rests still, signaling final confidence
+- The view eases back within the frame to connect eccentric orbit, faint sunlight at 38 AU, and frozen-surface metrics in one consolidated proof tableau
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- control dial turning, keyboard clicking, projector relay click
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 33: Trust — Payoff [04:16–04:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm science lab and observatory glass, soft gold-white key light, cyan data glows, confident conclusion atmosphere
+
+ACTIONS:
+- Calm planetary scientist, shoulders loose, faint assured half-smile, eyes steady on bright orbital charts
+- Fingers rest on luminous controls as Pluto and XV93 comparison resolves on clean split-screen
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- touchscreen taps, projector clicks, paper rustle
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 34: Trust — Payoff [04:24–04:31]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Bright observatory workstation, warm final revealing light, pale gold surfaces, clean cyan maps, resolved and reassuring atmosphere
+
+ACTIONS:
+- Same scientist leans forward with relaxed shoulders and a satisfied, trusting expression, one hand open toward glowing orbital diagram as seasonal atmosphere logic locks in
+- Bright observatory workstation, warm final revealing light, pale gold surfaces, clean cyan maps, resolved and reassuring atmosphere
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- touchscreen taps, projector clicks, paper rustle
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+════════════════════════════════════════════════════════════════
+[END SCENE PROMPTS]
+════════════════════════════════════════════════════════════════
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+QUICK REFERENCE — Author Instructions
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+STRUCTURE:
+  File = BLOCK 1 (Characters Description) + BLOCK 2 (Scene Prompts)
+  BLOCK 1 appears ONCE at the top. Never repeat it per scene.
+  BLOCK 2 contains all scenes in order.
+
+REQUIRED FIELDS — BLOCK 1:
+  PROJECT, RATIO, STYLE, TONE, RENDERING RULES, CHARACTERS, ENVIRONMENT
+
+REQUIRED FIELDS — EACH SCENE:
+  ENVIRONMENT (SCENE), ACTIONS, CAMERA, AUDIO
+
+CAMERA FORMAT:  [Shot Type] | [Movement]
+  Shot types: Wide / Medium / Close-up / Extreme Close-up / POV / OTS
+  Movements: Static / Slow push-in / Pan / Tilt / Tracking / Zoom
+
+TIMECODE FORMAT:  [MM:SS–MM:SS] — default 8 seconds per scene
+
+ACTIONS FORMAT:  Present tense, one beat per line, specific (who + what + how)
+
+CHARACTER LOCK:
+  All characters defined in BLOCK 1 are LOCKED
+  Descriptions (colors, outfit, hair) must not drift between scenes
+  Add new characters in BLOCK 1, never introduce them mid-file
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
