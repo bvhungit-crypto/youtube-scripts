@@ -55,42 +55,14 @@ RENDERING RULES:
 --------------------------------------------------
 CHARACTERS (LOCKED):
 
-- Character 1: They
+- Character 1: Milky Way
   [Physical description — face shape, skin tone, eye style — fill in]
   [Hair — color #HEX, length, style — fill in]
   [Default outfit — top, bottom, shoes, accessories — fill in]
   [Signature trait — what makes them instantly recognizable — fill in]
   [Expression range — what emotions they show most — fill in]
 
-- Character 2: Researcher
-  [Physical description — face shape, skin tone, eye style — fill in]
-  [Hair — color #HEX, length, style — fill in]
-  [Default outfit — top, bottom, shoes, accessories — fill in]
-  [Signature trait — what makes them instantly recognizable — fill in]
-  [Expression range — what emotions they show most — fill in]
-
-- Character 3: Photorealistic
-  [Physical description — face shape, skin tone, eye style — fill in]
-  [Hair — color #HEX, length, style — fill in]
-  [Default outfit — top, bottom, shoes, accessories — fill in]
-  [Signature trait — what makes them instantly recognizable — fill in]
-  [Expression range — what emotions they show most — fill in]
-
-- Character 4: She
-  [Physical description — face shape, skin tone, eye style — fill in]
-  [Hair — color #HEX, length, style — fill in]
-  [Default outfit — top, bottom, shoes, accessories — fill in]
-  [Signature trait — what makes them instantly recognizable — fill in]
-  [Expression range — what emotions they show most — fill in]
-
-- Character 5: Scientist
-  [Physical description — face shape, skin tone, eye style — fill in]
-  [Hair — color #HEX, length, style — fill in]
-  [Default outfit — top, bottom, shoes, accessories — fill in]
-  [Signature trait — what makes them instantly recognizable — fill in]
-  [Expression range — what emotions they show most — fill in]
-
-- Character 6: Fermi
+- Character 2: Fermi
   [Physical description — face shape, skin tone, eye style — fill in]
   [Hair — color #HEX, length, style — fill in]
   [Default outfit — top, bottom, shoes, accessories — fill in]
@@ -107,14 +79,14 @@ ENVIRONMENT (GLOBAL):
 [Note: individual scenes can override this with their own ENVIRONMENT field]
 
 [Detected scene environments (auto, for reference):]
-  - A mission scientist in a NASA-style control room shows calm trust—upright posture, relaxed shoulders, steady eyes, slightly parted lips
-  - Observatory analysis bay with cobalt-black palette, cyan instrument accents, volumetric dust shafts, precise NASA documentary realism in 8K HDR anamorphic 2
+  - Monitors glow with deep blacks and cobalt shadows, clean consoles, restrained title-card corner, atmospheric dust in volumetric beams, Cinematic photorealistic NASA documentary, 8K HDR, anamorphic 2.39:1 look adapted to 16:9 framing
+  - Observatory analysis bay with cobalt-black palette, cyan instrument accents, volumetric dust shafts, precise NASA documentary realism in 8K HDR anamorphic 2.39:1 aesthetic adapted to 16:9
   - Warm NASA control room with amber side light, polished instrument surfaces, and hopeful investigative atmosphere; cyan-gold overlays float in parallax
-  - Investigative suite with deep-space blacks, amber edge light, cyan-gold instrument highlights emerging, volumetric particles, NASA documentary photorealism in 8K HDR anamorphic 2
-  - Quiet control room with balanced cool-warm neutrality, deep blacks, restrained highlights, Cinematic photorealistic NASA documentary 8K HDR anamorphic 2
-  - Hybrid observatory-lab set with cobalt-black space window, cyan-gold analytic overlays, volumetric shafts across instruments, Cinematic photorealistic NASA documentary, 8K HDR, anamorphic 2
+  - Investigative suite with deep-space blacks, amber edge light, cyan-gold instrument highlights emerging, volumetric particles, NASA documentary photorealism in 8K HDR anamorphic 2.39:1 style adapted to 16:9
+  - Quiet control room with balanced cool-warm neutrality, deep blacks, restrained highlights, Cinematic photorealistic NASA documentary 8K HDR anamorphic 2.39:1 aesthetic adapted to 16:9
+  - Hybrid observatory-lab set with cobalt-black space window, cyan-gold analytic overlays, volumetric shafts across instruments, Cinematic photorealistic NASA documentary, 8K HDR, anamorphic 2.39:1 style adapted to 16:9
   - Clean laboratory-observatory hybrid, neutral-warm 3800K practicals, luminous whites, subtle cyan accents, precise professional atmosphere
-  - Advanced visualization chamber with deep-space blacks, controlled HDR highlights, subtle anamorphic bloom, volumetric light columns, Cinematic photorealistic NASA documentary 8K HDR anamorphic 2
+  - Advanced visualization chamber with deep-space blacks, controlled HDR highlights, subtle anamorphic bloom, volumetric light columns, Cinematic photorealistic NASA documentary 8K HDR anamorphic 2.39:1 aesthetic adapted to 16:9
   - Surrounding monitors show clean spacetime curvature grids in balanced cool-warm tones, quiet and trustworthy atmosphere
   - The lab blends sepia archival texture with modern cyan-gold instrumentation under restrained, credible lighting
   - The environment is an observatory tech bay with clean cyan-gold accents, balanced warmth, and disciplined documentary calm
@@ -139,7 +111,7 @@ SCENE PROMPTS
 ────────────────────────────────────────────────
 
 ENVIRONMENT (SCENE):
-A mission scientist in a NASA-style control room shows calm trust—upright posture, relaxed shoulders, steady eyes, slightly parted lips
+Monitors glow with deep blacks and cobalt shadows, clean consoles, restrained title-card corner, atmospheric dust in volumetric beams, Cinematic photorealistic NASA documentary, 8K HDR, anamorphic 2.39:1 look adapted to 16:9 framing
 
 ACTIONS:
 - A mission scientist in a NASA-style control room shows calm trust—upright posture, relaxed shoulders, steady eyes, slightly parted lips
@@ -157,7 +129,7 @@ AUDIO:
 ────────────────────────────────────────────────
 
 ENVIRONMENT (SCENE):
-Observatory analysis bay with cobalt-black palette, cyan instrument accents, volumetric dust shafts, precise NASA documentary realism in 8K HDR anamorphic 2
+Observatory analysis bay with cobalt-black palette, cyan instrument accents, volumetric dust shafts, precise NASA documentary realism in 8K HDR anamorphic 2.39:1 aesthetic adapted to 16:9
 
 ACTIONS:
 - A focused astrophysicist at a transparent display conveys quiet confidence—chin slightly raised, brows soft, hands controlled
@@ -195,7 +167,7 @@ AUDIO:
 ────────────────────────────────────────────────
 
 ENVIRONMENT (SCENE):
-Investigative suite with deep-space blacks, amber edge light, cyan-gold instrument highlights emerging, volumetric particles, NASA documentary photorealism in 8K HDR anamorphic 2
+Investigative suite with deep-space blacks, amber edge light, cyan-gold instrument highlights emerging, volumetric particles, NASA documentary photorealism in 8K HDR anamorphic 2.39:1 style adapted to 16:9
 
 ACTIONS:
 - A data analyst expresses measured anticipation—upright but still, jaw set, eyes narrowed, one hand suspended mid-gesture
@@ -214,7 +186,7 @@ AUDIO:
 ────────────────────────────────────────────────
 
 ENVIRONMENT (SCENE):
-Quiet control room with balanced cool-warm neutrality, deep blacks, restrained highlights, Cinematic photorealistic NASA documentary 8K HDR anamorphic 2
+Quiet control room with balanced cool-warm neutrality, deep blacks, restrained highlights, Cinematic photorealistic NASA documentary 8K HDR anamorphic 2.39:1 aesthetic adapted to 16:9
 
 ACTIONS:
 - A scientist stands in composed trust—still shoulders, open chest, calm expression, hands resting on console edge
@@ -232,7 +204,7 @@ AUDIO:
 ────────────────────────────────────────────────
 
 ENVIRONMENT (SCENE):
-Hybrid observatory-lab set with cobalt-black space window, cyan-gold analytic overlays, volumetric shafts across instruments, Cinematic photorealistic NASA documentary, 8K HDR, anamorphic 2
+Hybrid observatory-lab set with cobalt-black space window, cyan-gold analytic overlays, volumetric shafts across instruments, Cinematic photorealistic NASA documentary, 8K HDR, anamorphic 2.39:1 style adapted to 16:9
 
 ACTIONS:
 - An astronomer conveys calm authority—steady stance, intent gaze, one hand guiding a projected rotation curve
@@ -269,7 +241,7 @@ AUDIO:
 ────────────────────────────────────────────────
 
 ENVIRONMENT (SCENE):
-Advanced visualization chamber with deep-space blacks, controlled HDR highlights, subtle anamorphic bloom, volumetric light columns, Cinematic photorealistic NASA documentary 8K HDR anamorphic 2
+Advanced visualization chamber with deep-space blacks, controlled HDR highlights, subtle anamorphic bloom, volumetric light columns, Cinematic photorealistic NASA documentary 8K HDR anamorphic 2.39:1 aesthetic adapted to 16:9
 
 ACTIONS:
 - A senior researcher embodies steady assurance—upright posture, slight nod, focused eyes, fingertips lightly touching a lensing simulation
@@ -362,7 +334,7 @@ AUDIO:
 ────────────────────────────────────────────────
 
 ENVIRONMENT (SCENE):
-Professor-like astronomer at University of Tokyo office, back straight, jaw set, expression calm but burdened; one hand rests on a single-author manuscript while the other hovers over a long collaboration author list
+Books, orbital charts, and clean monitors create a credible, warm-cool academic atmosphere
 
 ACTIONS:
 - Professor-like astronomer at University of Tokyo office, back straight, jaw set, expression calm but burdened
@@ -455,7 +427,7 @@ AUDIO:
 ────────────────────────────────────────────────
 
 ENVIRONMENT (SCENE):
-Layered holographic gamma-ray sky map suspended in research environment, overlapping translucent data planes—cosmic background radiation, unresolved point sources, instrumental noise—each layer subtly animated
+Cool cyan-gold scientific tones, volumetric lighting through data layers, 8K HDR
 
 ACTIONS:
 - Layered holographic gamma-ray sky map suspended in research environment, overlapping translucent data planes—cosmic background radiation, unresolved point sources, instrumental noise—each layer subtly animated
@@ -473,7 +445,7 @@ AUDIO:
 ────────────────────────────────────────────────
 
 ENVIRONMENT (SCENE):
-Galactic center visualization rotating slowly, dense star field with obscured core region, foreground and background separation difficulty visible through layered depth planes
+Dramatic amber side light from one edge, 3500K warmth cutting through cobalt shadows, volumetric haze
 
 ACTIONS:
 - Galactic center visualization rotating slowly, dense star field with obscured core region, foreground and background separation difficulty visible through layered depth planes
@@ -509,11 +481,11 @@ AUDIO:
 ────────────────────────────────────────────────
 
 ENVIRONMENT (SCENE):
-Gamma-ray energy spectrum graph on high-resolution display, horizontal axis labeled in GeV, vertical axis showing photon counts
+Soft flattering 3-point lighting, 3800K neutral warm, restrained cyan-gold scientific tones, 8K HDR clarity
 
 ACTIONS:
 - Gamma-ray energy spectrum graph on high-resolution display, horizontal axis labeled in GeV, vertical axis showing photon counts
-- Precise crosshair locks onto 20 GeV mark, numerical annotation appears: '20
+- Precise crosshair locks onto 20 GeV mark, numerical annotation appears: '20.0 GeV—WIMP prediction match.' Graph line shows clear excess peak at that exact energy
 
 CAMERA:
 Close-up | Slow push-in
@@ -545,11 +517,11 @@ AUDIO:
 ────────────────────────────────────────────────
 
 ENVIRONMENT (SCENE):
-Particle physics equation overlay on deep-space starfield: 'WIMP mass = 43 GeV → annihilation → γ-rays ≈ 20 GeV
+Particle physics equation overlay on deep-space starfield: 'WIMP mass = 43 GeV → annihilation → γ-rays ≈ 20 GeV.' Terms animate sequentially left to right, each appearing with subtle glow
 
 ACTIONS:
-- Particle physics equation overlay on deep-space starfield: 'WIMP mass = 43 GeV → annihilation → γ-rays ≈ 20 GeV
-- ' Terms animate sequentially left to right, each appearing with subtle glow
+- Particle physics equation overlay on deep-space starfield: 'WIMP mass = 43 GeV → annihilation → γ-rays ≈ 20 GeV.' Terms animate sequentially left to right, each appearing with subtle glow
+- Cool cobalt shadows, restrained neutral highlights on equation text, volumetric lighting through starfield, 8K HDR
 
 CAMERA:
 Close-up | Slow push-in
@@ -563,11 +535,11 @@ AUDIO:
 ────────────────────────────────────────────────
 
 ENVIRONMENT (SCENE):
-' Soft flattering 3-point lighting, 3800K neutral warm, cyan-gold scientific tones, volumetric particle trails, 8K HDR
+Freeze at annihilation moment—burst of gamma-ray photons radiating outward, annotated '43 GeV → 20 GeV γ.' Soft flattering 3-point lighting, 3800K neutral warm, cyan-gold scientific tones, volumetric particle trails, 8K HDR
 
 ACTIONS:
 - Particle collision simulation inset: two WIMP particles approaching from opposite sides of frame, trajectories marked with cyan trails, collision point at center
-- Freeze at annihilation moment—burst of gamma-ray photons radiating outward, annotated '43 GeV → 20 GeV γ
+- Freeze at annihilation moment—burst of gamma-ray photons radiating outward, annotated '43 GeV → 20 GeV γ.' Soft flattering 3-point lighting, 3800K neutral warm, cyan-gold scientific tones, volumetric particle trails, 8K HDR
 
 CAMERA:
 Medium | Slow push-in
@@ -637,7 +609,7 @@ AUDIO:
 ────────────────────────────────────────────────
 
 ENVIRONMENT (SCENE):
-Three vertical panels on photorealistic 8K display: left panel labeled 'Energy' with glowing 20 GeV marker, center panel 'Morphology' showing halo profile, right panel 'Timeline' spanning 15 years
+Volumetric lighting, anamorphic 2.39:1, neutral warm 3800K with cyan-gold instrument accents
 
 ACTIONS:
 - Three vertical panels on photorealistic 8K display: left panel labeled 'Energy' with glowing 20 GeV marker, center panel 'Morphology' showing halo profile, right panel 'Timeline' spanning 15 years
@@ -655,7 +627,7 @@ AUDIO:
 ────────────────────────────────────────────────
 
 ENVIRONMENT (SCENE):
-Academic paper title card fills screen in clean sans-serif typography against matte charcoal background, key phrase "candidate signal" subtly highlighted in soft cyan glow, then cross-dissolve to rack-focused laboratory instrument panel—spectrometer dials, LED readouts in amber and white, shallow depth of field
+Lighting: soft 3-point with edge separation, 3800K neutral
 
 ACTIONS:
 - Academic paper title card fills screen in clean sans-serif typography against matte charcoal background, key phrase "candidate signal" subtly highlighted in soft cyan glow
@@ -674,7 +646,7 @@ AUDIO:
 ────────────────────────────────────────────────
 
 ENVIRONMENT (SCENE):
-Soft even lighting, neutral warm 3800K, deep blacks with restrained highlights, anamorphic 2
+Soft even lighting, neutral warm 3800K, deep blacks with restrained highlights, anamorphic 2.39:1
 
 ACTIONS:
 - Photorealistic 8K display showing white typography 'NOT DETECTION' beside residual data plot with scattered points around zero baseline, no triumphant peaks
@@ -692,11 +664,11 @@ AUDIO:
 ────────────────────────────────────────────────
 
 ENVIRONMENT (SCENE):
-' Photorealistic 8K render, deep space blacks, clean white typography, no additional elements
+Volumetric lighting creates subtle glow around text
 
 ACTIONS:
 - Minimal black frame with white sans-serif text centered: 'Implications
-- Not conclusions
+- Not conclusions.' Photorealistic 8K render, deep space blacks, clean white typography, no additional elements
 
 CAMERA:
 Medium | Static
@@ -710,11 +682,11 @@ AUDIO:
 ────────────────────────────────────────────────
 
 ENVIRONMENT (SCENE):
-Volumetric lighting, anamorphic 2
+Volumetric lighting, anamorphic 2.39:1
 
 ACTIONS:
-- Photorealistic montage of past research headlines and null-result plots on 8K monitors: 'Direct Detection Claim Retracted,' 'Instrumental Drift Identified,' 'Pulsar Misidentification Confirmed
-- ' Slightly desaturated, cool cobalt shadows, restrained neutral highlights
+- Photorealistic montage of past research headlines and null-result plots on 8K monitors: 'Direct Detection Claim Retracted,' 'Instrumental Drift Identified,' 'Pulsar Misidentification Confirmed.' Slightly desaturated, cool cobalt shadows, restrained neutral highlights
+- Scientist's hand gestures across screens, fingers open and deliberate, posture upright, expression sober and reflective
 
 CAMERA:
 Medium | Static
@@ -1073,7 +1045,7 @@ AUDIO:
 ────────────────────────────────────────────────
 
 ENVIRONMENT (SCENE):
-Deep-space blacks with cobalt shadows frame luminous data visualization, higher-contrast scientific palette
+Controlled research environment with volumetric lighting, methodical temporal progression
 
 ACTIONS:
 - 43 GeV case study overlay materializes on Fermi all-sky gamma-ray map, expected spectral peak rendered in cyan-gold instrument tones, hands gesturing toward screen with deliberate precision, posture engaged and analytical
@@ -1127,7 +1099,7 @@ AUDIO:
 ────────────────────────────────────────────────
 
 ENVIRONMENT (SCENE):
-Cyan-gold scientific instrument tones against deep-space blacks, balanced cool-warm harmony
+Quiet analytical environment with even lighting, investigative tempo
 
 ACTIONS:
 - Supersymmetry parameter landscape graphic, 10-1000 GeV viable region highlighted in restrained cyan band, 43 GeV marker positioned comfortably within window, calm narrator-led pointer animation tracing connection, hands gesturing toward theory space with measured precision, posture upright and methodical
@@ -1145,7 +1117,7 @@ AUDIO:
 ────────────────────────────────────────────────
 
 ENVIRONMENT (SCENE):
-Deep-space blacks with cobalt shadows, higher-contrast scientific palette, cleaner luminous whites signaling clarity
+Controlled research environment with volumetric lighting, measured investigative tempo
 
 ACTIONS:
 - Supersymmetry mass range landscape, 10-1000 GeV window rendered in measured cyan-gold gradient, 43 GeV result positioned centrally in viable region, hands tracing parameter boundaries with deliberate gesture, expression focused and investigative
@@ -1311,7 +1283,7 @@ AUDIO:
 ────────────────────────────────────────────────
 
 ENVIRONMENT (SCENE):
-Medium shot, very slow dolly forward through volumetric space
+NASA mission control environment bathed in consistent 3800K tungsten glow, cyan-gold data overlays floating in anamorphic 2.39:1 frame, cobalt shadows defining depth
 
 ACTIONS:
 - Photorealistic supercomputer visualization array displaying layered galaxy formation simulation data in 8K HDR clarity, scientist's hands resting confidently on console edge, posture upright and attentive
@@ -1404,8 +1376,8 @@ ENVIRONMENT (SCENE):
 Controlled HDR rendering, volumetric light defining analytical space, 3800K documentary lighting
 
 ACTIONS:
-- Photorealistic 8K split-screen comparison showing 1996 NFW prediction alongside 2020s Fermi observation data, perfect geometric alignment in anamorphic 2
-- 39:1 composition
+- Photorealistic 8K split-screen comparison showing 1996 NFW prediction alongside 2020s Fermi observation data, perfect geometric alignment in anamorphic 2.39:1 composition
+- Researcher stands centered between displays, arms crossed in measured confidence, expression reflecting quiet validation
 
 CAMERA:
 Medium | Static
@@ -1549,7 +1521,7 @@ AUDIO:
 ────────────────────────────────────────────────
 
 ENVIRONMENT (SCENE):
-A detector engineer in cleanroom glass corridor shows concentrated assurance—brows slightly knit, controlled breathing, gloved hand hovering over a sodium-iodide module cross-section
+Environment is sterile yet cinematic: cyan-gold instrument glints, deep blacks, luminous whites
 
 ACTIONS:
 - A detector engineer in cleanroom glass corridor shows concentrated assurance—brows slightly knit, controlled breathing, gloved hand hovering over a sodium-iodide module cross-section
@@ -1568,7 +1540,7 @@ AUDIO:
 ────────────────────────────────────────────────
 
 ENVIRONMENT (SCENE):
-They expand a long-baseline modulation chart while side panels labeled “independent tests” remain intentionally blurred, creating re-engagement before disclosure
+Environment keeps disciplined cyan-gold analytics over cobalt-black depth with crisp documentary whites
 
 ACTIONS:
 - A data physicist at an observatory console carries energetic focus—slight smile fades to measured seriousness, shoulders still, fingertips tapping a yearly waveform
@@ -1586,7 +1558,7 @@ AUDIO:
 ────────────────────────────────────────────────
 
 ENVIRONMENT (SCENE):
-Three scientists in separate detector control rooms (XENON, LUX, PandaX) show calm, credible resolve—straight posture, minimal gestures, synchronized nods as each result channel reads null
+Environment is balanced cool-warm with teal accents, clean luminous whites, and restrained volumetric depth
 
 ACTIONS:
 - Three scientists in separate detector control rooms (XENON, LUX, PandaX) show calm, credible resolve—straight posture, minimal gestures, synchronized nods as each result channel reads null
@@ -1604,7 +1576,7 @@ AUDIO:
 ────────────────────────────────────────────────
 
 ENVIRONMENT (SCENE):
-cool black research bay with starfield-backed screens, cobalt shadows, balanced teal highlights, quiet authoritative atmosphere in Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2
+cool black research bay with starfield-backed screens, cobalt shadows, balanced teal highlights, quiet authoritative atmosphere in Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1
 
 ACTIONS:
 - A focused astrophysicist stands upright at a transparent lab display, shoulders relaxed, brows calm, hands lightly clasped in measured confidence
@@ -1660,7 +1632,7 @@ AUDIO:
 ────────────────────────────────────────────────
 
 ENVIRONMENT (SCENE):
-quiet deep-space analysis suite, cool black and cobalt field, measured teal highlights, disciplined investigative mood in Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2
+quiet deep-space analysis suite, cool black and cobalt field, measured teal highlights, disciplined investigative mood in Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1
 
 ACTIONS:
 - A mission scientist faces a galactic-center map with chin slightly lowered, expression thoughtful, one hand hovering in caution over uncertainty bands
@@ -1679,7 +1651,7 @@ AUDIO:
 ────────────────────────────────────────────────
 
 ENVIRONMENT (SCENE):
-volumetric-lit mission data room, cool neutral blacks, teal-cyan instrument glow, quiet confidence atmosphere in Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2
+volumetric-lit mission data room, cool neutral blacks, teal-cyan instrument glow, quiet confidence atmosphere in Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1
 
 ACTIONS:
 - A senior analyst sits squared to dual holographic plots, calm eyes and slightly tightened lips, hands resting flat to signal control
@@ -1715,7 +1687,7 @@ AUDIO:
 ────────────────────────────────────────────────
 
 ENVIRONMENT (SCENE):
-subdued documentary archive bay with cool black backdrop, teal accents, balanced neutral highlights, reflective trust-building mood in Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2
+subdued documentary archive bay with cool black backdrop, teal accents, balanced neutral highlights, reflective trust-building mood in Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1
 
 ACTIONS:
 - An evidence editor stands by suspended archival panels, posture straight, expression composed, one hand calmly stamping outcomes
@@ -1734,7 +1706,7 @@ AUDIO:
 ────────────────────────────────────────────────
 
 ENVIRONMENT (SCENE):
-calm mission analytics lab, cool deep blacks, cobalt shadows, clean luminous whites, trustworthy scientific atmosphere in Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2
+calm mission analytics lab, cool deep blacks, cobalt shadows, clean luminous whites, trustworthy scientific atmosphere in Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1
 
 ACTIONS:
 - A principal investigator at a desk-to-data interface sits upright with steady gaze, relaxed jaw, and deliberate hand placement, projecting methodological confidence
@@ -1788,7 +1760,7 @@ AUDIO:
 ────────────────────────────────────────────────
 
 ENVIRONMENT (SCENE):
-A gamma-ray analyst in a mission control lab stands upright with relaxed shoulders, steady gaze, and lightly pressed lips conveying calm confidence
+Bright research environment with luminous whites, soft teal-cyan accents, balanced cool-warm monitors, volumetric light through glass, precise NASA documentary atmosphere of disciplined clarity
 
 ACTIONS:
 - A gamma-ray analyst in a mission control lab stands upright with relaxed shoulders, steady gaze, and lightly pressed lips conveying calm confidence
@@ -2344,7 +2316,7 @@ AUDIO:
 ────────────────────────────────────────────────
 
 ENVIRONMENT (SCENE):
-A focused astrophysicist in a mission control lab shows calm confidence—upright posture, relaxed jaw, steady eyes, one hand hovering over a transparent spectrum panel
+Environment is a quiet, teal-accented NASA analysis bay with volumetric light shafts, cool blacks, cobalt shadows, restrained cyan-gold highlights, stable and trustworthy atmosphere
 
 ACTIONS:
 - A focused astrophysicist in a mission control lab shows calm confidence—upright posture, relaxed jaw, steady eyes, one hand hovering over a transparent spectrum panel
@@ -2441,7 +2413,7 @@ Environment is a quiet NASA control workspace with teal accents, volumetric haze
 
 ACTIONS:
 - A researcher in profile remains composed—still shoulders, neutral mouth, reflective eyes fixed on a paused model
-- They let a minimalist panel read “Not impossible
+- They let a minimalist panel read “Not impossible.” while the mismatched maps remain faintly visible behind, creating a restrained intermediate payoff through cautious concession
 
 CAMERA:
 Medium | Static
@@ -2564,7 +2536,7 @@ AUDIO:
 ────────────────────────────────────────────────
 
 ENVIRONMENT (SCENE):
-Layered uncertainty analysis: translucent bands in cyan and amber overlay core gamma-ray spectrum, hands gesturing to annotate effective area corrections and background model parameters
+Clean NASA documentary composition with restrained teal accents, volumetric light casting precise shadows across data layers
 
 ACTIONS:
 - Layered uncertainty analysis: translucent bands in cyan and amber overlay core gamma-ray spectrum, hands gesturing to annotate effective area corrections and background model parameters
@@ -2690,7 +2662,7 @@ AUDIO:
 ────────────────────────────────────────────────
 
 ENVIRONMENT (SCENE):
-He toggles halo and disk opacity, exposing their edge overlap instead of a clean boundary
+Quiet analysis suite, cool blacks, teal lines, sober ambiguity
 
 ACTIONS:
 - Scientist stands square-shouldered, calm but intent, one hand hovering over layered contour maps
@@ -2801,8 +2773,8 @@ ENVIRONMENT (SCENE):
 Vast clean-room environment, volumetric light shafts through dome aperture, balanced cool-warm harmony
 
 ACTIONS:
-- Completed 8
-- 4-meter primary mirror dominates observatory interior at dawn, technician silhouettes in foreground for scale reference, posture upright and attentive
+- Completed 8.4-meter primary mirror dominates observatory interior at dawn, technician silhouettes in foreground for scale reference, posture upright and attentive
+- Mirror surface reflects cyan-gold instrument lighting with restrained anamorphic flare
 
 CAMERA:
 Medium | Static
@@ -2816,7 +2788,7 @@ AUDIO:
 ────────────────────────────────────────────────
 
 ENVIRONMENT (SCENE):
-Time-lapse stars begin trailing overhead as dome opens
+Building dramatic lighting transitions to warm release gold, volumetric night atmosphere
 
 ACTIONS:
 - Technician hands adjust final calibration controls with focused precision, shoulders squared
@@ -2834,7 +2806,7 @@ AUDIO:
 ────────────────────────────────────────────────
 
 ENVIRONMENT (SCENE):
-Microscopic camera drift across precise axis labels and probability curves
+Warm 4000K revealing light, balanced cool-warm harmony, cleaner luminous whites
 
 ACTIONS:
 - Clean data visualization overlays three-to-four sigma confidence band on luminous graph, researcher's hand rests calmly on desk edge, expression composed and attentive
@@ -2852,7 +2824,7 @@ AUDIO:
 ────────────────────────────────────────────────
 
 ENVIRONMENT (SCENE):
-Dual-threshold line chart displays 'interesting' versus 'discovery' labels with precise typography, researcher's posture upright and hands folded in measured confidence
+Balanced cool tones with cyan-gold scientific accents, volumetric lighting, cleaner luminous whites
 
 ACTIONS:
 - Dual-threshold line chart displays 'interesting' versus 'discovery' labels with precise typography, researcher's posture upright and hands folded in measured confidence
@@ -2978,11 +2950,11 @@ AUDIO:
 ────────────────────────────────────────────────
 
 ENVIRONMENT (SCENE):
-4-meter primary mirror surface reflects cyan-gold instrument lights, technician in cleanroom suit stands beside housing, posture attentive, hand gestures toward camera assembly
+Controlled highlights, balanced cool-warm tones, 4000K practicals
 
 ACTIONS:
-- 8
-- 4-meter primary mirror surface reflects cyan-gold instrument lights, technician in cleanroom suit stands beside housing, posture attentive, hand gestures toward camera assembly
+- 8.4-meter primary mirror surface reflects cyan-gold instrument lights, technician in cleanroom suit stands beside housing, posture attentive, hand gestures toward camera assembly
+- Giant 3.2-gigapixel camera focal plane visible, sensor array glowing faintly
 
 CAMERA:
 Medium | Tracking
@@ -3105,7 +3077,7 @@ AUDIO:
 ────────────────────────────────────────────────
 
 ENVIRONMENT (SCENE):
-She traces a circular guide; a halo-shaped gamma-ray distribution appears around the Milky Way core, contour rings and clean axis labels snapping into alignment to reveal the centered structure
+Environment is a controlled NASA visualization suite with cobalt shadows, restrained cyan-gold scientific tones, and warm final reveal light
 
 ACTIONS:
 - An astronomer beside a transparent analysis display keeps an open posture, chin lifted, brows relaxed, and measured breathing that conveys trust
@@ -3127,8 +3099,8 @@ ENVIRONMENT (SCENE):
 Engineer in observatory control room engages with detector feed displays, expression focused and confident
 
 ACTIONS:
-- Photorealistic Rubin Observatory hardware closeups—precision optics, detector arrays, instrument panels—rendered in 8K HDR anamorphic 2
-- 39:1
+- Photorealistic Rubin Observatory hardware closeups—precision optics, detector arrays, instrument panels—rendered in 8K HDR anamorphic 2.39:1
+- Cyan-gold scientific instrument tones illuminate clean UI layers and calibration readouts, posture deliberate and methodical, hands adjusting controls with measured precision
 
 CAMERA:
 Close-up | Slow push-in
@@ -3145,8 +3117,8 @@ ENVIRONMENT (SCENE):
 Scientist in clean control room reviews the parallel streams, expression calm and methodical
 
 ACTIONS:
-- Photorealistic split-screen visualization: left shows raw detector feed, right displays reconstructed weak lensing mass field, 8K HDR anamorphic 2
-- 39:1
+- Photorealistic split-screen visualization: left shows raw detector feed, right displays reconstructed weak lensing mass field, 8K HDR anamorphic 2.39:1
+- Cyan-gold pipeline annotations trace step-by-step data transformation, posture upright and assured, hands gesturing between the two feeds
 
 CAMERA:
 Close-up | Slow push-in
@@ -3163,8 +3135,8 @@ ENVIRONMENT (SCENE):
 Cool-warm balance with cleaner luminous whites signaling clarity, volumetric lighting casting soft glow across the visualization
 
 ACTIONS:
-- Photorealistic geometric alignment test animation: gamma-ray halo contours overlay gravitational mass map, 8K HDR anamorphic 2
-- 39:1
+- Photorealistic geometric alignment test animation: gamma-ray halo contours overlay gravitational mass map, 8K HDR anamorphic 2.39:1
+- Matched contours illuminate with subtle luminous white confirmation cues, shoulders relaxed, hands tracing the aligned geometry
 
 CAMERA:
 Close-up | Slow push-in
@@ -3181,8 +3153,8 @@ ENVIRONMENT (SCENE):
 Cool-warm balanced palette with cleaner luminous whites, volumetric lighting casting soft morning glow across the dome structure, posture upright and forward-leaning, hands gesturing toward the future
 
 ACTIONS:
-- Photorealistic two-to-three-year timeline graphic overlays Rubin Observatory exterior at dawn, 8K HDR anamorphic 2
-- 39:1
+- Photorealistic two-to-three-year timeline graphic overlays Rubin Observatory exterior at dawn, 8K HDR anamorphic 2.39:1
+- Cool-warm balanced palette with cleaner luminous whites, volumetric lighting casting soft morning glow across the dome structure, posture upright and forward-leaning, hands gesturing toward the future
 
 CAMERA:
 Close-up | Slow push-in
@@ -3199,8 +3171,8 @@ ENVIRONMENT (SCENE):
 Cool deep-space blacks with cobalt shadows and neutral highlights, volumetric lighting casting soft cosmic glow, posture still and authoritative, hands resting calmly
 
 ACTIONS:
-- Photorealistic deep-space wide establishing frame with restrained typography overlaying the central question, 8K HDR anamorphic 2
-- 39:1
+- Photorealistic deep-space wide establishing frame with restrained typography overlaying the central question, 8K HDR anamorphic 2.39:1
+- Cool deep-space blacks with cobalt shadows and neutral highlights, volumetric lighting casting soft cosmic glow, posture still and authoritative, hands resting calmly
 
 CAMERA:
 Close-up | Slow push-in
@@ -3345,7 +3317,7 @@ AUDIO:
 ────────────────────────────────────────────────
 
 ENVIRONMENT (SCENE):
-” Scene: cinematic NASA archive-lab hybrid, warm 4000K highlights over deep-space blacks, balanced whites, volumetric haze, respectful documentary tone
+She slides from Zwicky-era imagery to present-day observatory feeds; a timeline compresses from decades to years, then settles on “falsifiable now.” Scene: cinematic NASA archive-lab hybrid, warm 4000K highlights over deep-space blacks, balanced whites, volumetric haze, respectful documentary tone
 
 ACTIONS:
 - A historian-scientist holds dignified trust—gentle half-smile, composed brow, hands resting on an old Coma Cluster plate beside a modern tablet
