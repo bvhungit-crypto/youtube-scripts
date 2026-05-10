@@ -1,0 +1,605 @@
+════════════════════════════════════════════════════════════════
+[CHARACTERS Description]
+════════════════════════════════════════════════════════════════
+
+PROJECT: A_470-km_Kuiper_Belt_object_dimmed_a_star_gradually__Here_s_what_nobody_talks_about
+
+RATIO: 16:9
+
+--------------------------------------------------
+STYLE (DETAILED - MANDATORY):
+
+- Style Directive: Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1
+
+- Medium: Live-action / Cinematic
+
+- Visual Style:
+  - Photorealistic textures with accurate material response
+  - Observational documentary framing — restrained and credible
+  - Cinematic composition with depth and motivated framing
+  - Anamorphic 2.39:1 framing language adapted to delivery ratio
+  - 8K capture-grade detail with deep blacks and clean highlights
+  - HDR contrast — preserved highlights, nuanced shadows
+
+- Character Design:
+  Semi-realistic figures
+
+- Materials & Textures:
+  [e.g. Flat colors only / Cel-shaded with soft shadow / Painterly with visible brushwork]
+
+- Lighting:
+  Volumetric lighting with visible light shafts
+
+- Color Palette:
+  [Define color roles — e.g. Red = danger, Yellow = energy, Blue = calm, Black outline for clarity]
+
+- Rendering Quality:
+  [e.g. Crisp, clean, high-definition / Slightly grainy retro / Hyper-smooth anime-style]
+
+- Motion Feel:
+  [e.g. Smooth action-driven / Bouncy exaggerated / Slow cinematic / Snappy cut-driven]
+
+- Overall Impression:
+  [One paragraph — what should viewers FEEL when watching? What is the visual "brand" of this project?]
+
+--------------------------------------------------
+TONE:
+[Overall emotional register — e.g. High tension, urgent, dramatic / Dark comedic, absurdist / Warm and nostalgic / Energetic and hype]
+[Detected dominant emotion (auto, for reference): Trust]
+
+--------------------------------------------------
+RENDERING RULES:
+
+- [Rule 1 — e.g. NO TEXT, NO LETTERS, NO SYMBOLIC WORDS in any scene]
+- [Rule 2 — e.g. Story must be conveyed entirely through visuals and expressions]
+- [Rule 3 — e.g. Each scene must have a clear visual conflict or action beat]
+- [Rule 4 — e.g. Only include characters explicitly required in each scene]
+- [Rule 5 — e.g. No background crowd, no unnecessary props]
+- [Add more rules as needed]
+
+--------------------------------------------------
+CHARACTERS (LOCKED):
+
+- Character 1: Samuel Oschin
+  [Physical description — face shape, skin tone, eye style — fill in]
+  [Hair — color #HEX, length, style — fill in]
+  [Default outfit — top, bottom, shoes, accessories — fill in]
+  [Signature trait — what makes them instantly recognizable — fill in]
+  [Expression range — what emotions they show most — fill in]
+
+- Character 2: Neptunian
+  [Physical description — face shape, skin tone, eye style — fill in]
+  [Hair — color #HEX, length, style — fill in]
+  [Default outfit — top, bottom, shoes, accessories — fill in]
+  [Signature trait — what makes them instantly recognizable — fill in]
+  [Expression range — what emotions they show most — fill in]
+
+- [Add unnamed characters (narrator, crowd, etc.) here if needed]
+
+--------------------------------------------------
+ENVIRONMENT (GLOBAL):
+
+[Default background / world setting for the entire project]
+[e.g. Minimal clean background, soft gradient sky / Neon-lit urban rooftop / Pastel fantasy kingdom]
+[Note: individual scenes can override this with their own ENVIRONMENT field]
+
+[Detected scene environments (auto, for reference):]
+  - Environment is vast, clean, ice-blue space with soft volumetric rays and trustful clarity
+  - Bright ice-blue and soft amber volumetric light in a clean deep-space documentary bay, calm and trustworthy
+  - Environment is silent-looking, crystalline, and emotionally steady, with cool neutral trust and volumetric rim light
+  - Neutral archive space, exact and tense
+  - 5
+  - Three telescope domes in Japan track same star, motors turning in perfect sync
+  - Mechanical interior feels exact, tense, controlled
+  - Warm amber highlights over clean ice-neutral space, volumetric shafts and controlled shadow buildup in NASA-documentary realism
+  - Deep indigo space with ice-blue scatter and clean volumetric starlight sustains calm analytical trust
+  - Neutral gray-black data environment with cool teal accents and soft volumetric monitor bloom conveys trustworthy authority
+  - Anamorphic 2.39:1 framing emphasizes horizontal dome curve against vertical sky
+  - Warm amber instrument lamps against cool teal indicator LEDs create a calm evidence-driven atmosphere
+
+--------------------------------------------------
+GOAL:
+[Optional — one sentence stating the visual storytelling goal of the entire video]
+[e.g. "Make the audience feel the tension of nuclear deterrence without using any text or narration"]
+
+════════════════════════════════════════════════════════════════
+[END CHARACTERS Description]
+════════════════════════════════════════════════════════════════
+
+
+════════════════════════════════════════════════════════════════
+SCENE PROMPTS
+════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────
+🎬 SCENE 01: Trust — Hook [00:00–00:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Environment is vast, clean, ice-blue space with soft volumetric rays and trustful clarity
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- seventy kilometers
+- Solar wind
+
+ACTIONS:
+- A 470-kilometer icy dwarf planet sits centered, faint exosphere halo thinning like a fragile breath, conveying calm vulnerability
+- A luminous scale bracket resolves only partially, stopping before the full diameter while solar-wind particle streaks begin grazing the limb
+
+CAMERA:
+Wide | Slow push-in
+
+AUDIO:
+- particle impacts on spacecraft shielding, subtle instrument relay clicks, data-tick beeps
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 02: Trust — Hook [00:08–00:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Bright ice-blue and soft amber volumetric light in a clean deep-space documentary bay, calm and trustworthy
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- seventy kilometers
+- Solar wind
+
+ACTIONS:
+- A frost-rimmed dwarf planet model hangs centered, posture-like axial tilt and a thin pale limb ring suggesting fragile persistence
+- On-screen measurements lock in sequence—470 km diameter, 40–50 K temperature—while a visible particle stream strikes the limb and strips faint vapor threads, leaving an incomplete atmospheric arc as a curiosity gap
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- particle impacts ticking against shielding, gyroscope motor whirring, relay switch clicks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 03: Trust — Hook [00:16–00:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Environment is silent-looking, crystalline, and emotionally steady, with cool neutral trust and volumetric rim light
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- seventy kilometers
+- Solar wind
+
+ACTIONS:
+- Surface fractures and micro-craters read crisp and still, while a thread-thin gas veil trembles at the edge like a strained expression of persistence
+- Charged particles sweep across frame, progressively stripping the veil from sunward to night side
+
+CAMERA:
+Extreme Close-up | Slow push-in
+
+AUDIO:
+- ice-grain skitter, detector ticking, particle ping strikes
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 04: Anticipation — Build Up [00:24–00:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Neutral archive space, exact and tense
+
+ACTIONS:
+- Wide scientific visualization, slow orbital drift
+- 2
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- projector whir, interface ticks, cursor clicks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 05: Trust — Build Up [00:32–00:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+5
+
+ACTIONS:
+- Insert shot, static lockoff
+- 2
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- page flip, clock tick, screen tap, camera shutter
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 06: Trust — Build Up [00:40–00:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Three telescope domes in Japan track same star, motors turning in perfect sync
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- three telescopes
+
+ACTIONS:
+- Medium wide, slow pan
+- 2
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- dome motors, gear whirrs, keypad clicks, printer ticks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 07: Trust — Build Up [00:48–00:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Mechanical interior feels exact, tense, controlled
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- three telescopes
+
+ACTIONS:
+- Close-up, slow push-in
+- 2
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- servo whine, relay clicks, keypad taps, hard-drive clicks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 08: Anticipation — Build Up [00:56–01:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm amber highlights over clean ice-neutral space, volumetric shafts and controlled shadow buildup in NASA-documentary realism
+
+ACTIONS:
+- The small distant dwarf planet sits centered with a tense, forward-leaning silhouette implied by orbital overlays and a tight luminous rim, conveying restrained anticipation
+- Three data tags build and remain unresolved—size, extreme cold, far-sun distance—while the atmosphere indicator flashes “present?” without revealing mechanism, forming an open loop
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- telescope mount servo ticks, keypad beeps, hard-drive seek clicks, marker pen tapping glass
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 09: Trust — Build Up [01:04–01:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep indigo space with ice-blue scatter and clean volumetric starlight sustains calm analytical trust
+
+ACTIONS:
+- A distant trans-Neptunian object hangs center frame with a rigid, frost-cracked surface and slight axial tilt, conveying stoic resistance
+- A thermal false-color layer maps unexpectedly warm patches while a thin orbital path overlay remains unresolved, ending before closure
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- telescope motor ticking, relay clicks, data printer chattering
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 10: Trust — Deep [01:12–01:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Neutral gray-black data environment with cool teal accents and soft volumetric monitor bloom conveys trustworthy authority
+
+ACTIONS:
+- A precise orbital mechanics display sits upright and disciplined at center, teal markers crisp like measured calm
+- Orbit, size scale bar, and thermal curve update in sync
+- Diverge at the January 10 point where one value freezes mid-refresh for a re-engagement beat
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- keyboard tapping, mouse wheel scrolling, stylus tapping glass screen
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 11: Trust — Deep [01:20–01:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Anamorphic 2.39:1 framing emphasizes horizontal dome curve against vertical sky
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Palomar Observatory
+- Samuel Oschin telescope
+
+ACTIONS:
+- Palomar Observatory's white dome structure at night, December 2002, exterior floodlights casting sharp shadows on curved architecture, interior warm tungsten glow visible through open slit
+- Samuel Oschin 1.2-meter telescope silhouette visible inside dome opening, pointed toward star field
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- telescope motor whirring, dome mechanism grinding metal on metal
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 12: Trust — Deep [01:28–01:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm amber instrument lamps against cool teal indicator LEDs create a calm evidence-driven atmosphere
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Palomar Observatory
+- Samuel Oschin telescope
+
+ACTIONS:
+- The Samuel Oschin telescope’s CCD assembly fills frame, cables taut and aligned like focused composure
+- The shutter cycles through exposures while timestamp counters step forward frame after frame in measured cadence
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- shutter snapping, cooling fan rattling, switch toggles clicking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 13: Trust — Deep [01:36–01:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Neutral archival desk with cool-white inspection light and soft volumetric dust shafts supports trusted forensic tone
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Palomar Observatory
+- Samuel Oschin telescope
+
+ACTIONS:
+- Archival sky frames lie flat and steady
+- One faint point is circled, the mark precise and restrained like controlled excitement
+- Two exposures alternate, fixed stars staying locked while the faint point shifts a few pixels, confirming motion
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- paper sliding, magnifier ring scraping glass, marker cap clicking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 14: Trust — Deep [01:44–01:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cool night blues outside and controlled tungsten practicals inside create balanced, trustworthy atmosphere
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Palomar Observatory
+- Samuel Oschin telescope
+
+ACTIONS:
+- Palomar dome interior stands tall and composed
+- The Samuel Oschin telescope points through the open slit in a confident, centered stance
+- The mount executes a small corrective track
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- mount gear clicking, cable chain rattling, hatch wheel creaking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 15: Trust — Deep [01:52–02:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Archival classification bay, cool neutral grays and whites with soft teal accents, orderly trustworthy atmosphere
+
+ACTIONS:
+- Archivist stands upright with relaxed shoulders and steady gaze, gloved hands holding discovery plate beside object image, calm confidence visible in precise posture
+- She aligns catalog card and types exact designation “(612533) 2002 XV93” as clean overlay locks over trans-Neptunian object frame
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- keyboard clicking, card index drawer sliding, stamp pressing paper, thermal printer feed whirring
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 16: Trust — Deep [02:00–02:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cool-neutral archive room with tungsten raking light and volumetric dust conveys careful retrospective proof
+
+ACTIONS:
+- Glass negatives sit flat with a meticulous, patient presence
+- Date tabs are aligned like disciplined memory
+- A light pen marks 1990, 1991, 1992 frames as the same faint point is matched in each, showing the same slow drift across years
+
+CAMERA:
+Macro | Tracking
+
+AUDIO:
+- glass plate clinking, index card flicking, grease pencil scratching
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 17: Trust — Deep [02:08–02:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Climate-controlled archive lab with warm amber task lights, teal instrument accents, orderly shelves, and reassuring methodological atmosphere
+
+ACTIONS:
+- A backlit archival Palomar glass plate and adjacent digital sky-map monitor fill center frame
+- An astronomer’s shoulders are level, hands steady, eyes narrowed in calm concentration
+- A cursor toggles 1990, 1991, 1992 frames as the same faint point is boxed each time
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- film scanner rollers, mouse double-clicks, keyboard taps, grease pencil circling dates on acetate
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 18: Trust — Deep [02:16–02:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cool-neutral control room with amber monitor edges conveys patient certainty
+
+ACTIONS:
+- Three archival sky frames fill the center in a side-by-side comparator while a calm analyst stands squared shoulders, neutral mouth, steady hand poised over a trackball
+- A blinking crosshair steps frame-to-frame and lands on one identical unresolved point each year, leaving a thin teal trajectory line that remains incomplete at the edge
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- trackball clicks, keyboard taps, stylus tapping screen, paper note flipped
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 19: Trust — Payoff [02:24–02:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cool gray archive visualization space with gentle warm highlights signals closure and trust
+
+ACTIONS:
+- An orbital reconstruction display is centered
+- A researcher in profile shows a small relieved exhale, lowered shoulders, and a faint confident nod
+- The plotted path from 1990–1992 snaps into a single continuous arc and a timestamp stack locks into alignment, resolving prior ambiguity
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- mouse click, keypress enter, digital pen scratch on tablet, printer label peel
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 20: Trust — Payoff [02:32–02:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+In a clean mission-briefing environment with cool neutrals and soft amber accents, the classification feels definitive
+
+ACTIONS:
+- A precise solar-system diagram dominates frame
+- Neptune’s orbit and XV93’s path appear as distinct lines while a scientist’s posture is upright, hands clasped loosely, expression composed and assured
+- Animated markers count three Neptune loops against two XV93 loops
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- stylus drag on glass panel, soft button press, laser pointer click, notebook page turn
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 21: Trust — Payoff [02:40–02:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Subdued gray-white data suite with controlled highlights communicates scientific trust
+
+ACTIONS:
+- A classification card labeled “Plutino — 2002 XV93” is overlaid on a trans-Neptunian map
+- The operator’s face shows calm confidence with relaxed brow and steady gaze, shoulders squared
+- The semi-major axis value “39.6 AU” types in and aligns beside Pluto’s
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- keyboard clicks, onscreen toggle click, ruler placed on desk, archival folder flap closing
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 22: Trust — Payoff [02:48–02:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cool neutral observatory visualization room with disciplined lighting sustains credibility
+
+ACTIONS:
+- A resonance phase-wheel fills frame
+- Two pointers rotate at different speeds while a technician stands still with hands resting flat, chin slightly raised, expression quietly satisfied
+- The pointers repeatedly meet at the same phase marker, visually proving stable resonance
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- rotary encoder clicks, pen tapping clipboard, touchscreen tap, mechanical stopwatch button press
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 23: Trust — Payoff [02:56–02:57]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cool neutral palette with restrained warmth gives composed documentary closure
+
+ACTIONS:
+- A wide context map with Neptune and the plutino band sits centered
+- An astronomer at frame edge shows a soft final nod, relaxed hands lowering to the desk
+- The resonance diagram minimizes into a verified archive badge, leaving a clean final planetary context
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- chair fabric shift, single keyboard tap, archive stamp press, binder ring snap shut
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+════════════════════════════════════════════════════════════════
+[END SCENE PROMPTS]
+════════════════════════════════════════════════════════════════
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+QUICK REFERENCE — Author Instructions
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+STRUCTURE:
+  File = BLOCK 1 (Characters Description) + BLOCK 2 (Scene Prompts)
+  BLOCK 1 appears ONCE at the top. Never repeat it per scene.
+  BLOCK 2 contains all scenes in order.
+
+REQUIRED FIELDS — BLOCK 1:
+  PROJECT, RATIO, STYLE, TONE, RENDERING RULES, CHARACTERS, ENVIRONMENT
+
+REQUIRED FIELDS — EACH SCENE:
+  ENVIRONMENT (SCENE), ACTIONS, CAMERA, AUDIO
+
+CAMERA FORMAT:  [Shot Type] | [Movement]
+  Shot types: Wide / Medium / Close-up / Extreme Close-up / POV / OTS
+  Movements: Static / Slow push-in / Pan / Tilt / Tracking / Zoom
+
+TIMECODE FORMAT:  [MM:SS–MM:SS] — default 8 seconds per scene
+
+ACTIONS FORMAT:  Present tense, one beat per line, specific (who + what + how)
+
+CHARACTER LOCK:
+  All characters defined in BLOCK 1 are LOCKED
+  Descriptions (colors, outfit, hair) must not drift between scenes
+  Add new characters in BLOCK 1, never introduce them mid-file
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
