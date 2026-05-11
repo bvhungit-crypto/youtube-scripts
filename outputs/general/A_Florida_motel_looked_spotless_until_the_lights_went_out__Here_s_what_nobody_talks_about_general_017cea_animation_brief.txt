@@ -1,0 +1,4036 @@
+════════════════════════════════════════════════════════════════
+[CHARACTERS Description]
+════════════════════════════════════════════════════════════════
+
+PROJECT: A_Florida_motel_looked_spotless_until_the_lights_went_out__Here_s_what_nobody_talks_about
+
+RATIO: 16:9
+
+--------------------------------------------------
+STYLE (DETAILED - MANDATORY):
+
+- Style Directive: Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.
+
+- Medium: Animation
+
+- Visual Style:
+  - Cel-shaded forms with hard shadow boundaries
+  - Motion-graphics composition — geometric layout, animated transitions
+  - Infographic composition — labels, callouts, data hierarchy
+
+- Character Design:
+  Exaggerated proportions and expressions; Over-the-top emotional range
+
+- Materials & Textures:
+  [e.g. Flat colors only / Cel-shaded with soft shadow / Painterly with visible brushwork]
+
+- Lighting:
+  Volumetric lighting with visible light shafts; Soft ambient lighting
+
+- Color Palette:
+  [Define color roles — e.g. Red = danger, Yellow = energy, Blue = calm, Black outline for clarity]
+
+- Rendering Quality:
+  [e.g. Crisp, clean, high-definition / Slightly grainy retro / Hyper-smooth anime-style]
+
+- Motion Feel:
+  Snappy, sharp transitions; Exaggerated, over-the-top motion; Over-the-top exaggerated reactions
+
+- Overall Impression:
+  [One paragraph — what should viewers FEEL when watching? What is the visual "brand" of this project?]
+
+--------------------------------------------------
+TONE:
+[Overall emotional register — e.g. High tension, urgent, dramatic / Dark comedic, absurdist / Warm and nostalgic / Energetic and hype]
+[Detected dominant emotion (auto, for reference): Trust]
+
+--------------------------------------------------
+RENDERING RULES:
+
+- [Rule 1 — e.g. NO TEXT, NO LETTERS, NO SYMBOLIC WORDS in any scene]
+- [Rule 2 — e.g. Story must be conveyed entirely through visuals and expressions]
+- [Rule 3 — e.g. Each scene must have a clear visual conflict or action beat]
+- [Rule 4 — e.g. Only include characters explicitly required in each scene]
+- [Rule 5 — e.g. No background crowd, no unnecessary props]
+- [Add more rules as needed]
+
+--------------------------------------------------
+CHARACTERS (LOCKED):
+
+- Character 1: Civil War
+  [Physical description — face shape, skin tone, eye style — fill in]
+  [Hair — color #HEX, length, style — fill in]
+  [Default outfit — top, bottom, shoes, accessories — fill in]
+  [Signature trait — what makes them instantly recognizable — fill in]
+  [Expression range — what emotions they show most — fill in]
+
+- Character 2: North Carolina
+  [Physical description — face shape, skin tone, eye style — fill in]
+  [Hair — color #HEX, length, style — fill in]
+  [Default outfit — top, bottom, shoes, accessories — fill in]
+  [Signature trait — what makes them instantly recognizable — fill in]
+  [Expression range — what emotions they show most — fill in]
+
+- Character 3: Science Subcommittee
+  [Physical description — face shape, skin tone, eye style — fill in]
+  [Hair — color #HEX, length, style — fill in]
+  [Default outfit — top, bottom, shoes, accessories — fill in]
+  [Signature trait — what makes them instantly recognizable — fill in]
+  [Expression range — what emotions they show most — fill in]
+
+- Character 4: Commission Chair
+  [Physical description — face shape, skin tone, eye style — fill in]
+  [Hair — color #HEX, length, style — fill in]
+  [Default outfit — top, bottom, shoes, accessories — fill in]
+  [Signature trait — what makes them instantly recognizable — fill in]
+  [Expression range — what emotions they show most — fill in]
+
+- Character 5: Florida Department
+  [Physical description — face shape, skin tone, eye style — fill in]
+  [Hair — color #HEX, length, style — fill in]
+  [Default outfit — top, bottom, shoes, accessories — fill in]
+  [Signature trait — what makes them instantly recognizable — fill in]
+  [Expression range — what emotions they show most — fill in]
+
+- Character 6: Yeshion
+  [Physical description — face shape, skin tone, eye style — fill in]
+  [Hair — color #HEX, length, style — fill in]
+  [Default outfit — top, bottom, shoes, accessories — fill in]
+  [Signature trait — what makes them instantly recognizable — fill in]
+  [Expression range — what emotions they show most — fill in]
+
+- [Add unnamed characters (narrator, crowd, etc.) here if needed]
+
+--------------------------------------------------
+ENVIRONMENT (GLOBAL):
+
+[Default background / world setting for the entire project]
+[e.g. Minimal clean background, soft gradient sky / Neon-lit urban rooftop / Pastel fantasy kingdom]
+[Note: individual scenes can override this with their own ENVIRONMENT field]
+
+[Detected scene environments (auto, for reference):]
+  - Dramatic amber side light casts hard inked shadows
+  - Flat cel-shaded 2D infographic animation on paper texture, clean outlines, zero depth, navy field with amber side accents and sharp graphic timing
+  - A flat cel-shaded 2D motel room infographic on paper texture in neutral creams and charcoal with brief electric blue edge flickers, clean ink outlines, zero depth
+  - Split-screen medium infographic composition, slow push-in across panels
+  - Clean paper-texture infographic board, neutral warm creams and charcoal, sharp ink outlines, zero depth
+  - Paper-texture room-map backdrop, muted navy-to-cream transition, crisp flat ink, zero depth, restrained satirical exaggeration
+  - Sparse motel-paper backdrop, neutral warm tones with disciplined blue accents, clean outlines, zero depth
+  - Paper texture infographic environment, charcoal and cream with faint electric-blue ticks, flat noir contrast, zero depth
+  - Paper-texture room transforms into charcoal coordinate map with neutral cream blocks and thin blue guides, zero depth
+  - Paper-texture workstation with muted creams, charcoal lines, fading blue highlights, restrained satirical infographics, zero depth
+  - Balanced neutral cream and charcoal palette on paper grain, no depth or shadow
+  - Two branching paths emerge—one labeled 'voluntary,' one 'coercion'—both ending in question marks
+
+--------------------------------------------------
+GOAL:
+[Optional — one sentence stating the visual storytelling goal of the entire video]
+[e.g. "Make the audience feel the tension of nuclear deterrence without using any text or narration"]
+
+════════════════════════════════════════════════════════════════
+[END CHARACTERS Description]
+════════════════════════════════════════════════════════════════
+
+
+════════════════════════════════════════════════════════════════
+SCENE PROMPTS
+════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────
+🎬 SCENE 01: Anticipation — Hook [00:00–00:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Dramatic amber side light casts hard inked shadows
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Three days
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture: a drawn detective figure in exaggerated crouch, eyes wide with anticipation, one hand gripping a spray bottle aimed at a flat inked motel floor
+- Blue-white reagent bloom erupts across the black paper carpet in graphic radiating lines, tracing an invisible path toward a doorway
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- spray bottle hiss, liquid splatter on carpet
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 02: Anticipation — Hook [00:08–00:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Flat cel-shaded 2D infographic animation on paper texture, clean outlines, zero depth, navy field with amber side accents and sharp graphic timing
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Three days
+
+ACTIONS:
+- A flat-drawn motel cleaner, bent back and clenched jaw, scrubs frantically while a calendar page marked “3 DAYS” looms above with tense inked arrows
+- Suds wipe the floor clean
+- A latent blue-white route reappears over the same spot, contradicting the effort
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- brush scrubbing strokes, bucket slosh, sponge squeeze squeak, calendar page flap, spray bottle pump click
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 03: Anticipation — Hook [00:16–00:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Flat cel-shaded 2D infographic animation, paper texture, inked outlines, zero depth, high-contrast navy/cream with electric blue accents, snappy editorial timing
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Three days
+
+ACTIONS:
+- A flat-drawn gloved hand with taut fingers and a raised brow hovers over a glowing stain edge, visibly startled yet controlled
+- The linework zooms into jagged blue-white stain borders while rotating forensic icons (droplet, footprint, doorway) orbit like a live diagram without final label
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- marker circle strokes, evidence tag paper flick, glove latex snap, camera shutter click, pen tap on clipboard
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 04: Anticipation — Hook [00:24–00:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Flat cel-shaded 2D infographic animation on paper texture, clean ink outlines, zero depth, navy/amber/cream contrast, satirical UPA-style graphic impact
+
+ACTIONS:
+- A flat-drawn investigator silhouette, chin forward and tense hand half-raised, faces colliding symbols with intent focus
+- A reagent droplet icon strikes an erased smear icon
+- Bold stamped words “VANISHED?” and “WAITING?” slam in
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- rubber stamp thud, paper slap, ink pen scratch, adhesive note rip, pointer stick tap
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 05: Anticipation — Hook [00:32–00:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Flat cel-shaded 2D infographic animation, paper texture, clean outlines, zero depth, controlled navy and cream with restrained amber accents, editorial motion timing
+
+ACTIONS:
+- A flat-drawn red question mark, anthropomorphic with tightened posture and trembling outline, sits center as inked evidence arrows jab toward it from all sides
+- Arrows from droplet, fabric stain, tile mark, and doorway icons accumulate
+- One arrow halts mid-draw before touching the question mark
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- marker squeak strokes, pushpin clicks, tape peel, index card flick, ruler knock on desk
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 06: Trust — Hook [00:40–00:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Flat cel-shaded 2D infographic animation on paper texture, clean ink outlines, zero depth, neutral warm creams/charcoal with light amber accents, professional documentary tone
+
+ACTIONS:
+- A flat-drawn officer with squared shoulders, calm eyes, and methodical posture scans a cutaway Florida motel room
+- He points through a clean infographic inventory pass: thin wall line, rattling AC box, wrinkled curtain, disordered tabletop, red-brown fabric stain, tile trace near bathroom threshold
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- notebook page flip, pen ticking checkmarks, AC vent rattle, curtain ring scrape, glass rolling and stopping
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 07: Trust — Hook [00:48–00:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Flat cel-shaded 2D infographic animation, paper texture, clean outlines, zero depth, neutral warm palette with restrained red-brown accents, steady analytic pacing
+
+ACTIONS:
+- A flat-drawn evidence technician kneels with straight back and concentrated frown, gloved hand hovering millimeters above a partial shoe impression
+- She places a transparent measurement grid over crisp tread residue at the bathroom threshold
+- Stops before completing the final measurement line
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- measuring tape zip, plastic grid set-down click, glove rub on tile, pencil notation scratches, camera shutter click
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 08: Trust — Hook [00:56–01:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Flat cel-shaded 2D infographic animation on paper texture, clean ink outlines, zero depth, cream/charcoal base with muted blue highlights, calm documentary clarity
+
+ACTIONS:
+- A flat-drawn analyst with relaxed shoulders and intent gaze arranges three evidence panels with careful hands
+- Left panel: wall stain swab path
+- Center: sink basin speck map
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- swab stick rub, sample vial cap twist, panel card slide, string pin click, clipboard clip snap
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 09: Trust — Hook [01:04–01:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+A flat cel-shaded 2D motel room infographic on paper texture in neutral creams and charcoal with brief electric blue edge flickers, clean ink outlines, zero depth
+
+ACTIONS:
+- A flat-drawn Officer Stone stands slightly forward with relaxed shoulders, narrowed attentive eyes, and a measured mouth line, conveying calm procedural trust
+- He checks a paper inventory card
+- Traces red-brown marks on fabric and tile with a pen tip
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- pen scratching paper, latex gloves snapping, camera shutter clicks, shoe sole pressing tacky tile
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 10: Trust — Hook [01:12–01:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Split-screen medium infographic composition, slow push-in across panels
+
+ACTIONS:
+- Exaggerated flat caricature inspector leans forward with skeptical squint, one hand raised in caution, posture steady and analytical
+- He stamps alternating cause icons beside identical glowing stains—wine bottle spill, rust pipe drip, cleaner splash, sauce shoe sole—while homicide icon remains unconfirmed
+
+CAMERA:
+Medium | Pan
+
+AUDIO:
+- rubber stamp thuds, bottle glug splash, metal pipe drip ticks, spray trigger clicks, shoe sole squish steps, index card slide
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 11: Trust — Hook [01:20–01:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clean paper-texture infographic board, neutral warm creams and charcoal, sharp ink outlines, zero depth
+
+ACTIONS:
+- A flat-drawn investigator with slightly furrowed brows and steady breathing leans forward, one hand paused midair over labeled arrows
+- Animated arrows slide between a shoe print, stain swatch, and chemical bottle tag
+- Each connection redraws
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- adhesive labels peeling, paper arrows flicking, grease pencil writing, evidence tag hole-punch click
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 12: Trust — Hook [01:28–01:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Paper-texture room-map backdrop, muted navy-to-cream transition, crisp flat ink, zero depth, restrained satirical exaggeration
+
+ACTIONS:
+- A flat-drawn officer with upright posture, softened jaw, and attentive eyes watches branching lines with patient confidence
+- A central stain icon splits into a flowchart of possible causes
+- Each branch ends in dangling question tags that sway but never settle
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- marker squeaking on board, sticky notes slapping paper, tag strings flicking, index cards shuffling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 13: Trust — Hook [01:36–01:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Sparse motel-paper backdrop, neutral warm tones with disciplined blue accents, clean outlines, zero depth
+
+ACTIONS:
+- Officer Stone, flat-drawn with squared shoulders, calm brow, and firm mouth, stands centered holding a clipboard like a shield of method
+- He checks boxes in sequence—inspect, photograph, sketch, measure—then pauses before the final unchecked box
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- clipboard paper flipping, pencil ticking checkboxes, tape measure retracting, camera shutter click
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 14: Trust — Hook [01:44–01:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Paper texture infographic environment, charcoal and cream with faint electric-blue ticks, flat noir contrast, zero depth
+
+ACTIONS:
+- A flat-drawn mapping specialist with bent posture and intent eyes traces measured lines, lips pursed in careful precision
+- The motel room transforms from furniture outlines into a coordinate grid
+- Each stain and shoe mark snaps to numbered intersections, one corner still unnumbered
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- chalk snapping, measuring tape sliding, graph paper unfolding, label stickers pressing down
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 15: Trust — Hook [01:52–02:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Paper-texture room transforms into charcoal coordinate map with neutral cream blocks and thin blue guides, zero depth
+
+ACTIONS:
+- Flat-drawn gloved hands show disciplined posture—wrists aligned, fingers precise, expression implied by meticulous motion graphics rhythm
+- Hands inspect, photograph, sketch, measure, and bag evidence in sequence
+- Lens-angle card, ruler ticks, and coordinate labels snap into defensible positions while grid keeps expanding beyond frame
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- tape measure zip, pencil scratching paper, camera shutter clicks, evidence bag crinkle, zip seal rasp, clipboard clip snap
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 16: Trust — Hook [02:00–02:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Paper-texture workstation with muted creams, charcoal lines, fading blue highlights, restrained satirical infographics, zero depth
+
+ACTIONS:
+- Flat-drawn Stone sits upright
+- Leans in, jaw unclenching, eyes narrowing from doubt to focused trust, elbows anchored over desk
+- He aligns two forensic printouts and transparent overlays
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- paper shuffle, acetate sheet flick, ruler tap, pen circling paper, binder ring click, photo corner peel
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 17: Trust — Hook [02:08–02:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Balanced neutral cream and charcoal palette on paper grain, no depth or shadow
+
+ACTIONS:
+- Flat cel-shaded 2D infographic animation on paper texture
+- Drawn forensic investigator in clean inked outline, neutral posture, hands holding clipboard with checklist graphic overlaid
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- pen scratching paper, clipboard tapping
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 18: Trust — Hook [02:16–02:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Two branching paths emerge—one labeled 'voluntary,' one 'coercion'—both ending in question marks
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- five hours
+
+ACTIONS:
+- Flat cel-shaded 2D infographic animation on paper texture
+- Drawn crime scene floor plan in clean ink, staggered arrows labeled 'struggle,' 'injury,' 'movement,' 'exit' appear in sequence across the grid
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- ruler sliding on paper, pencil marking dots
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 19: Trust — Hook [02:24–02:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Balanced neutral cream and charcoal palette, no depth
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- five hours
+
+ACTIONS:
+- Flat cel-shaded 2D infographic animation on paper texture
+- Drawn investigators in clean ink outlines assemble timeline tiles across a horizontal paper strip—each tile labeled with a timestamp
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- paper tiles sliding, soft tapping
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 20: Trust — Hook [02:32–02:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Balanced neutral cream and charcoal palette transitioning to muted dusk tones, no depth
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- five hours
+
+ACTIONS:
+- Flat cel-shaded 2D infographic animation on paper texture
+- Drawn evidence board in clean ink, pinned photos and notes connected by string lines
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- pin dropping on corkboard, string stretching
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 21: Trust — Hook [02:40–02:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Paper-texture office, clean ink outlines, zero depth, sharp blackout tension
+
+ACTIONS:
+- Flat-drawn forensic specialist flinches, shoulders raised, one hand frozen at wall switch, brows pinched in cautious focus
+- Finger snaps switch down mid-gesture
+- Ceiling bulbs die and room sinks into navy silhouette
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- switch click, relay thunk, fluorescent buzz cut-off, paper rustle
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 22: Trust — Hook [02:48–02:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Bright neutral cream lab board with charcoal linework and blue-white accent marks, calm analytical mood, zero depth
+
+ACTIONS:
+- A flat-drawn forensic specialist in profile, shoulders relaxed and eyes focused, grips a labeled luminol spray bottle with steady hands
+- The nozzle depresses once
+- Dotted mist arcs toward a paper-textured test swatch while a small hemoglobin icon flips from hidden to half-visible, stopping before full reveal
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- trigger click, plastic bottle squeeze, fine mist hiss, droplets pattering on paper, marker cap tap
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 23: Trust — Hook [02:56–03:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Flat-drawn gloved fingertips hover rigid over a labeled reagent drop and faint footprint outline; narrowed eyes peek in from edge, focused and calm
+
+ACTIONS:
+- Flat-drawn gloved fingertips hover rigid over a labeled reagent drop and faint footprint outline
+- Narrowed eyes peek in from edge, focused and calm
+- One droplet lands on hidden stain, and thin blue-white ring starts blooming but stops short of full reveal
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- dropper click, liquid drip, paper card slide, pen tap
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 24: Trust — Hook [03:04–03:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm cream background, charcoal evidence labels, reassuring procedural clarity with satirical UPA-style exaggeration, zero depth
+
+ACTIONS:
+- A drawn gloved hand with precise, controlled posture hovers over a flat carpet diagram
+- Brows angled in calm concentration on a tiny face badge icon
+- Luminol droplets land in sequence and blue-white contour lines trace latent stain paths across the diagram, ending at an unfinished branch left open
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- spray burst, droplet ticks, paper slide, ruler tap, clipboard snap
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 25: Trust — Hook [03:12–03:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clean cream background with charcoal outlines, soft neutral lighting, no shadows or depth
+
+ACTIONS:
+- Flat cel-shaded 2D infographic animation on paper texture: a drawn forensic specialist's gloved hand holds a spray bottle labeled 'LUMINOL' in bold inked letters, fingers positioned on trigger with confident grip, expression calm and methodical
+- The hand squeezes the trigger in a single deliberate motion, releasing a fine mist illustrated as dotted lines arcing toward a flat-drawn carpet section below
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- spray bottle trigger click, liquid mist hiss
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 26: Trust — Hook [03:20–03:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Flat paper-texture interior, charcoal ground, electric blue-white nodes, measured analytical mood
+
+ACTIONS:
+- Gloved hand held ultra-steady at frame edge, fingers relaxed, as blue-white luminol points ignite across carpet with patient trust
+- Dots connect into clean branching streaks, still incomplete at frame edge, like evidence waking up
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- spray hiss, droplet taps, carpet fiber rustle
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 27: Trust — Hook [03:28–03:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Top-down map tableau, very slow push-in
+
+ACTIONS:
+- Steady gloved pointer traces carpet floorplan
+- Long blue-white streaks run center to door, handprint icons cling to frame edge, shoe-print marks line up in parallel
+- Flat navy paper texture, clinical and tense but readable
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- marker squeak, paper tap, stamp clicks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 28: Trust — Hook [03:36–03:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Split-panel infographic, gentle lateral slide
+
+ACTIONS:
+- Calm gloved hand slides ruler between panels
+- Left panel clean carpet grid, right panel hidden blue-white trail and shoe prints resolve in measured steps
+- Flat-drawn arrows and numbered markers make inference click at once
+
+CAMERA:
+Medium | Pan
+
+AUDIO:
+- paper rustle, ruler tap, stamp thuds
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 29: Trust — Hook [03:44–03:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Steady gloved hand drags label markers as blue-white trail gets numbered from center to door; handprint icons and shoe impressions settle into clean analytical alignment
+
+ACTIONS:
+- Steady gloved hand drags label markers as blue-white trail gets numbered from center to door
+- Handprint icons and shoe impressions settle into clean analytical alignment
+- Flat navy paper texture, calm cream annotations, exact and unsparing
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- marker squeak, ruler tap, label sticker peel
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 30: Sadness — Hook [03:52–04:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Wide overhead infographic, slow static hold
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Three days
+
+ACTIONS:
+- Slumped 3-day calendar card hovers over bleach-scrubbed floor map
+- Beneath washed surface, blue-white violence lines leak back through like censored ink
+- Tired, disappointed mood on paper-texture grays and bruised blue accents
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- calendar page flip, bleach bottle squeeze, damp mop swish
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 31: Sadness — Build Up [04:00–04:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Slumped 3-day calendar card opens into wider room schematic as bleach marks fade, then blue-white annotations uncover violence lines underneath; flat-drawn scene feels drained and exhausted
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Three days
+
+ACTIONS:
+- Slumped 3-day calendar card opens into wider room schematic as bleach marks fade
+- Blue-white annotations uncover violence lines underneath
+- Flat-drawn scene feels drained and exhausted
+
+CAMERA:
+Medium | Zoom out
+
+AUDIO:
+- mop swish, marker drag, paper slide
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 32: Trust — Build Up [04:08–04:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Flat checklist panel replaces ominous music with crossed-out violin icon, then clean checkboxes march around a calm evidence card labeled implication
+
+ACTIONS:
+- Flat checklist panel replaces ominous music with crossed-out violin icon
+- Clean checkboxes march around a calm evidence card labeled implication
+- Dry, restrained, slightly wry tone on paper texture creams and charcoal lines
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- pencil ticks, checkbox taps, paper clip click
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 33: Trust — Build Up [04:16–04:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Minimal paper-texture infographic stage, balanced cream and charcoal, trust without drama
+
+ACTIONS:
+- Medium shot, very slow dolly
+- 2
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- paper slide, marker tap, card flip
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 34: Trust — Build Up [04:24–04:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Spare paper-texture lab panel, clean and analytical, contradiction held in view
+
+ACTIONS:
+- Medium shot, very slow static
+- 2
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- sponge swipe, peel snap, paper rustle
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 35: Trust — Build Up [04:32–04:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Neutral infographic board, orderly and skeptical, every clean thing under question
+
+ACTIONS:
+- Medium shot, very slow dolly
+- 2
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- label stamp, pointer click, paper slide
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 36: Trust — Build Up [04:40–04:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clean infographic workspace, measured and trustworthy, explanation unfolding without flourish
+
+ACTIONS:
+- Medium shot, very slow static
+- 2
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- fingertip tap, ruler tick, paper slide
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 37: Trust — Build Up [04:48–04:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Sparse forensic infographic frame, disciplined and clear, method over spectacle
+
+ACTIONS:
+- Medium shot, very slow dolly
+- 2
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- marker stroke, tag slap, paper flutter
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 38: Trust — Build Up [04:56–05:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+5
+
+ACTIONS:
+- Medium shot, very slow static
+- 2
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- icon clicks, page flips, dial ticks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 39: Trust — Build Up [05:04–05:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The background is neutral cream paper with subtle grain
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture: a drawn luminol spray bottle sits centered on a clean white surface, surrounded by rotating hand-drawn icons in inked outlines — a courthouse stamp, a hospital cross, a police badge, a property deed — each icon cycling methodically around the bottle like a carousel
+- A flat-drawn hand enters frame and taps each icon with a pen, leaving small question marks in blue ink beside them
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- pen tapping paper, spray bottle cap clicking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 40: Trust — Build Up [05:12–05:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Balanced neutral infographic field with fading dusk-blue accents, calm and credible
+
+ACTIONS:
+- Medium shot, very slow zoom out
+- 2
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- paper unfurl, rubber stamp, map pin click
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 41: Trust — Build Up [05:20–05:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Paper-textured motel outline recedes into neutral cream and charcoal, clean ink lines, zero depth, satirical UPA-style infographic restraint
+
+ACTIONS:
+- A flat-drawn investigator with squared shoulders, calm eyes, and a firm jaw steps in clutching a briefcase to his chest
+- He pauses mid-step as the briefcase latch starts to lift but does not open
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- shoe soles tapping tile, briefcase latch clicking, coat fabric rustling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 42: Trust — Build Up [05:28–05:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Flat graphic text labels fade in beside figure listing credentials in sans-serif type
+
+ACTIONS:
+- Flat cel-shaded 2D: drawn figure of investigator in profile, clean ink outline on cream paper texture, shoulders squared, chin slightly raised, hands clasped behind back in composed stance
+- Figure stands centered against minimal background with faint institutional line-work (university seal, diploma frames as flat graphic icons)
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- pen scratching paper, single page turn
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 43: Trust — Build Up [05:36–05:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Paper texture panel layout, electric blue-white accents over neutral charcoal, clean ink lines, zero depth, UPA-infographic satire
+
+ACTIONS:
+- A flat-drawn hand with steady wrist and focused posture opens a briefcase
+- Expression implied by controlled, deliberate movement
+- A luminol bottle icon pops up
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- briefcase clasp snapping, hinge creaking, glass bottle clinking, marker squeaking on chart
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 44: Trust — Build Up [05:44–05:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+A flat timeline strip labeled 1975 to 1999 to consulting years bends across frame; a drawn figure icon at center stands balanced, relaxed shoulders, confident neutral face
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- forty-one years
+
+ACTIONS:
+- A flat timeline strip labeled 1975 to 1999 to consulting years bends across frame
+- A drawn figure icon at center stands balanced, relaxed shoulders, confident neutral face
+- Date stamps hit the line one by one while a “41 years” counter flips upward and pauses before final lock
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- date stamp thuds, card flip clicks, map pin tacking, pen underlining
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 45: Trust — Build Up [05:52–06:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Paper-textured infographic board, neutral cream/charcoal palette, crisp inked outlines, zero depth, snappy but measured timing
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- forty-one years
+
+ACTIONS:
+- Four flat role icons—scientist, lab director, special agent, expert witness—surround a central drawn figure with calm, upright stance and attentive eyes
+- The figure rotates a pointer toward prosecution and defense scales
+- Both scales start oscillating and do not settle
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- pointer tapping board, scale weights clacking, folder tabs flicking, stamp pressing paper
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 46: Trust — Build Up [06:00–06:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Neutral paper backdrop with charcoal ink lines and sparse electric blue accents, zero depth, satirical editorial motion style
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- forty-one years
+
+ACTIONS:
+- A flat-drawn profile portrait with thoughtful brow and steady breathing posture is encircled by badge, microscope, DNA helix, and witness-box icons
+- Icons orbit rhythmically
+- One icon slot remains empty as the orbit continues
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- icon tiles clicking track, pencil circling paper, evidence box sliding, badge pin snapping
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 47: Trust — Build Up [06:08–06:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Paper texture, clean ink outlines, no depth, balanced neutral tones for trust
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- forty-one years
+
+ACTIONS:
+- A flat courtroom infographic panel shows witness stand, prosecution and defense labels, and a composed drawn expert in profile with slight nod, hands clasped low, calm expression
+- Citation plaques slide in from both sides
+- One final plaque remains off-screen as arrows point toward it
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- gavel wood knock, paper exhibit shuffling, plaque sliding rail clicks, pen note scribbling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 48: Trust — Build Up [06:16–06:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clean evidence-board setting, bright neutral atmosphere, methodical and reassuring
+
+ACTIONS:
+- Flat-drawn luminol bottle and test swab centered on cream paper texture, upright and steady, with calm confident posture and clean labels
+- Bright blue-white rings bloom from a tiny red presumptive stain as a partial result chart starts filling, leaving one final line unfinished
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- glass bottle click, paper rustle, marker squeak, page flip
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 49: Surprise — Build Up [06:24–06:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Neutral cream paper background with charcoal ink
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- twenty years
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture: drawn calendar pages stacked in exaggerated perspective, each page inked with a bold year number (2003, 2004, 2005…2023), pages flipping backward in snappy motion-graphic timing
+- A flat-drawn silhouette figure stands motionless at center, arms at sides, expression blank, while the calendar stack behind them grows taller and taller, dwarfing the figure
+
+CAMERA:
+Medium | Crane
+
+AUDIO:
+- calendar pages flipping rapidly, paper rustling, single page drop
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 50: Surprise — Build Up [06:32–06:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Flat paper newsroom collage with high-contrast ink wash blocks, neutral palette with brief blue-white flash
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- twenty years
+
+ACTIONS:
+- Giant cutout newspaper front page with exaggerated caricature faces, one editor figure bent forward, eyes wide, clenched pen hand
+- Headline tiles slam in: “TRIAL OF THE CENTURY,” side badges stack “AAFS Fellow,” “Science Subcommittee,”
+- A clipped strip reading “20 YEARS” hangs unresolved at bottom edge
+
+CAMERA:
+Medium | Crane
+
+AUDIO:
+- letterpress clacks, scissors snips, paper slaps, camera shutter clicks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 51: Surprise — Build Up [06:40–06:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Flat ink-wash background, neutral documentary tones, crisp paper edges, no depth
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- twenty years
+
+ACTIONS:
+- Split-panel subject: left courtroom sketch with judge leaning forward, brows raised
+- Right exoneration file stack with drawn freed person upright but trembling hands
+- Left panel bangs through citation stamps while right panel date tabs flip rapidly toward “20 YEARS,” both streams stop mid-transition
+
+CAMERA:
+Medium | Crane
+
+AUDIO:
+- stamp thuds, index card flicks, folder snaps, chalk underline scrape
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 52: Surprise — Build Up [06:48–06:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Neutral cream/charcoal atmosphere with restrained blue accent flashes, flat spotlight circle graphic only
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- twenty years
+
+ACTIONS:
+- Center subject becomes single towering paper file labeled “WRONGFUL CONVICTION,” beside tiny folded prison uniform icon
+- Drawn investigator figure stands firm, chin lifted, one hand open toward release stamp
+- Red “CORRECTION” stamp hits file while calendar ribbon unspools to “A LIFE,”
+
+CAMERA:
+Medium | Crane
+
+AUDIO:
+- heavy stamp impact, ribbon unroll flutter, cabinet drawer slide, key drop on metal tray
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 53: Trust — Build Up [06:56–07:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Flat paper infographic field, balanced neutral tones, methodical pacing
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- twenty years
+- ten thousand years
+- thirty years
+
+ACTIONS:
+- Horizontal timeline ruler as primary subject stretches backward from “20 YEARS” to “10,000 YEARS,” with drawn hands at each marker: criminal file tab, Civil War artifact shard, ancient object tag
+- Figure at center leans in focused, lips pressed, steady posture
+- Date cards multiply and march leftward, stopping before oldest endpoint
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- ruler slide, card flicks, pencil ticks, tag string twangs
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 54: Trust — Build Up [07:04–07:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Flat paper texture, clean ink outlines, even neutral light
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- twenty years
+- ten thousand years
+- thirty years
+
+ACTIONS:
+- Magnifying glass icon dominates frame over layered case files marked “Gettysburg,” “Bennington,” and numeric counter “136”
+- Drawn examiner crouches with furrowed brow, one elbow locked, other hand guiding lens
+- Lens sweep triggers blue trace marks on musket balls, buckshot, slugs, each trace appearing
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- glass scrape on paper, file rustles, metal pellets clink, grease pencil circles
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 55: Trust — Build Up [07:12–07:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Wide medium tableau, very slow static dolly
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- twenty years
+- ten thousand years
+- thirty years
+
+ACTIONS:
+- Circular arrangement of concrete evidence icons as subject: musket balls, buckshot, slugs, carbon-date tags, each pinned around central “230 YEARS” badge
+- Drawn investigator stands stiff and determined, eyebrows lifted, fist lightly closed at side
+- Icons rotate one notch at time and lock with click, final empty slot remains open
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- pin clicks, metal taps, paper pinboard punctures, tag snaps
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 56: Trust — Build Up [07:20–07:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Subject action directly shows “file closed, archive expanded.” Clean paper-texture records room, balanced neutral cream/charcoal palette, calm procedural trust
+
+ACTIONS:
+- A flat motel case folder with drooping corner tabs is centered
+- Physically clamps shut as an oversized archive cabinet beside it straightens and swells upward
+- A drawn clerk hand hovers, tense wrist, before pulling one new drawer that extends but does not reveal contents
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- folder snap shut, metal latch click, cabinet rollers rumble, drawer slide scrape, index cards flick
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 57: Sadness — Build Up [07:28–07:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Split-screen paper-texture frame in dark navy and electric blue-white, muted low-energy sadness, clean ink outlines, zero depth, satirical infographic tone
+
+ACTIONS:
+- Oversized flat checkmark icon on the left stands rigid while an oversized question-mark icon on the right slumps with a worried tilt and downturned “face” mark
+- A thin glowing blood-trace line between them is partly wiped by a moving mop stroke, leaving broken but still legible segments
+
+CAMERA:
+Medium | Zoom out
+
+AUDIO:
+- mop swishing on tile, rubber-glove squeak, water drips on window, marker squeak
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 58: Sadness — Build Up [07:36–07:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Minimalist editorial composition, no volumetric lighting, no 3D geometry
+
+ACTIONS:
+- Flat cel-shaded 2D: drawn courtroom evidence table on paper texture, clean inked outlines, zero depth
+- Exaggerated flat-drawn mop bucket tipped on its side, dark stain spreading across floorboards in graphic waves, UPA-style motion-graphic timing
+
+CAMERA:
+Medium | Zoom out
+
+AUDIO:
+- liquid dripping onto wood, mop handle scraping floor
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 59: Sadness — Build Up [07:44–07:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Sparse dark-navy paper field with fading blue highlights, low-arousal sadness, sharp ink contours, zero depth
+
+ACTIONS:
+- A minimalist verdict counter board with drooping numeral cards appears center, its drawn pointer hand trembling downward in fatigue
+- Number tiles flip upward rapidly
+- Freeze mid-flip while a blue residue line fades but never vanishes
+
+CAMERA:
+Medium | Zoom out
+
+AUDIO:
+- flip-card clacks, chalk scratch, adhesive tape peel, single tile snap
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 60: Sadness — Build Up [07:52–08:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Sparse charcoal-and-cream paper atmosphere, low-energy warning mood, flat satirical infographic exaggeration
+
+ACTIONS:
+- A drawn black-gloved hand icon with rigid wrist and narrowed eyes hovers over a case-file panel that shows a confident checkmark shrinking into a faint dot
+- The hand drags an eraser bar across highlighted blood annotations, removing certainty marks while leaving ambiguous smudges and a large “How many verdicts?” title unresolved
+
+CAMERA:
+Medium | Zoom out
+
+AUDIO:
+- eraser scrape on paper, file drawer slide, stamp click, cardboard folder slap
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 61: Sadness — Build Up [08:00–08:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Dark navy paper background with muted dusk accents, restrained satirical tension, zero depth
+
+ACTIONS:
+- A flat caricature silhouette with hunched shoulders and tight jaw stands behind a translucent evidence board, eyes narrowed in guarded focus
+- One hand switches on a UV icon that makes a blood pattern appear
+- The other immediately pulls a blackout strip over part of the glow, making certainty disappear in the same motion
+
+CAMERA:
+Medium | Zoom out
+
+AUDIO:
+- switch click, acetate sheet slide, tape rip, marker cap pop
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 62: Trust — Build Up [08:08–08:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Three institutional stamps (York/GWU/SUNY) appear sequentially with sharp pops, each label in balanced cream and charcoal
+
+ACTIONS:
+- Flat cel-shaded 2D: drawn dossier card sliding in from right on paper texture, clean inked outlines, zero depth
+- Exaggerated flat-drawn portrait of Yeshion—calm precise expression, hands folded, UPA-style snappy timing
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- paper sliding on desk, rubber stamp hitting paper three times
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 63: Trust — Build Up [08:16–08:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Even light on paper texture, balanced trust valence, crisp satirical infographic timing, zero depth
+
+ACTIONS:
+- A flat workbench diagram fills frame: microscope, swab, scale, and affidavit icon, while a drawn pair of hands with focused, squared wrists and relaxed brow align each tool in exact left-to-right order
+- As each icon locks into place, a circular aperture graphic tightens from “life sciences” to “legal consequence,”
+- Pauses before full closure
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- metal tool clink, ruler tap, paper card flick, binder ring click
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 64: Trust — Build Up [08:24–08:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Balanced cream background, charcoal ink, no volumetric lighting, no 3D geometry
+
+ACTIONS:
+- Flat cel-shaded 2D: drawn checklist on paper texture, clean inked outlines, zero depth
+- Exaggerated flat-drawn hand holding pen, posture unwavering, UPA-style motion-graphic timing
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- pen scratching paper, three sharp pen taps
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 65: Trust — Build Up [08:32–08:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Paper-textured infographic corridor, sterile and reassuring, navy, cream, and blue-white accents, clean inked outlines, zero depth
+
+ACTIONS:
+- Three flat-drawn diploma cards lean forward in steady alignment, seals crisp, edges squared, calm confidence in posture
+- They slide through three labeled panels—biology, forensic science, education—each cut narrowing like calibrated aperture, the path becoming more exact
+
+CAMERA:
+Medium | Pan
+
+AUDIO:
+- paper sliding, rubber stamp thumps, pen scratching
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 66: Trust — Build Up [08:40–08:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Paper texture stays clean, restrained cream-charcoal palette with blue-white accents for trust
+
+ACTIONS:
+- Flat-drawn eyes behind glasses centered
+- Brows slightly lowered, jaw relaxed, posture steady with hands folded near chest-level role labels
+- Procedural arrows orbit head
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- pencil tap, marker squeak, paper card flip, adhesive note peel
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 67: Trust — Build Up [08:48–08:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Atmosphere methodical, low-arousal trust, no depth, crisp inked edges
+
+ACTIONS:
+- Flat paper timeline dominates frame
+- Bold “1975” tile drops in, North Carolina SBI badge icon folds open
+- Drawn analyst leans forward with careful hands and intent eyes
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- glass vial clink, pipette squeeze click, droplet plop, paper label tear
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 68: Trust — Build Up [08:56–09:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Neutral cream/charcoal palette sustains trust and analytical calm
+
+ACTIONS:
+- Year cards flip one by one across paper texture
+- Drawn hands keep rigid, patient posture while placing serology icons in ordered slots
+- Face neutral and disciplined
+
+CAMERA:
+Medium | Pan
+
+AUDIO:
+- card flip snap, ruler drag scrape, chart pin prick, folder slide
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 69: Trust — Build Up [09:04–09:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Paper texture and balanced neutrals keep trustworthy tone; satirical exaggeration stays subtle via snappy icon timing
+
+ACTIONS:
+- Flat ink shapes assemble into North Carolina SBI building icon
+- Yeshion silhouette steps in with deliberate upright posture, chin slightly raised, measured expression
+- Around figure, modules for bench, corridor, witness stand rotate into a partial ring, leaving one gap to imply evolving grammar of discipline
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- paper cutout drop, shoe heel tap, file drawer shut, badge pin click
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 70: Trust — Build Up [09:12–09:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Paper texture, neutral cream/charcoal palette, trust-forward measured pacing
+
+ACTIONS:
+- Flat-drawn central figure holds steady posture while role labels—Forensic Scientist, Lab Director, Special Agent, Consultant—slide into orbit and stack in clean hierarchy
+- Expression calm, assured, non-triumphant
+- Decorative clutter peels away, leaving instructional diagram clarity and one unlabeled slot blinking
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- label sticker peel, card slot click, pen cap snap, document stack tap
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 71: Trust — Build Up [09:20–09:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Environment clean documentary infographic, balanced neutrals with muted blue accents, zero depth
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- forty-one years
+
+ACTIONS:
+- Concrete subject: giant flat “41 YEARS” counter made from stacked paper-number tiles at center
+- Drawn Yeshion figure stands beside with straight back, relaxed mouth, attentive eyes
+- A 24-unit Florida bar extends beneath, segment ticks filling methodically toward 1999 while role icons light sequentially
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- counter wheel tick, tile place thud, stamp press, timeline notch click
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 72: Trust — Build Up [09:28–09:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Paper texture, clean ink outlines, neutral cream/charcoal trust atmosphere, satirical overstatement through exaggerated stack height only
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- forty-one years
+
+ACTIONS:
+- Concrete subject: forty-one case folders stack into tall flat column labeled 41
+- Centered figure braces knees slightly, arms steady, disciplined expression as each folder locks
+- Three ground bands—lab bench, investigative corridor, witness stand—interleave under stack, showing combined service paths converging
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- folder slap, metal clip snap, box lid slide, paper rustle
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 73: Trust — Build Up [09:36–09:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Neutral cream and charcoal infographic office atmosphere, deliberate pacing, satirical restraint
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- forty-one years
+
+ACTIONS:
+- A flat-drawn FDLE caseboard timeline is the subject, paper texture, inked outlines
+- A stern cartoon archivist stands side-on with squared shoulders, narrowed eyes, and one hand hovering, physically focused
+- Red ink stamps appear one by one across years, labeling forensic scientist, crime lab director, special agent, consultant
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- marker squeak, rubber stamp thud, paper slide, pushpin click
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 74: Trust — Build Up [09:44–09:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Balanced cream/charcoal paper-texture records wall, clean ink outlines, methodical trust atmosphere
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- forty-one years
+
+ACTIONS:
+- Flat infographic filing cabinet character with calm face, squared shoulders, deliberate rhythm
+- Folder tabs labeled by years slide in sequentially
+- Each insertion triggers small red tick marks climbing toward “41,”
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- folder paper shuffling, drawer rail clacks, date stamp punches, tab snaps
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 75: Trust — Build Up [09:52–10:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Neutral paper-texture chamber with crisp inked geometry, low-energy trust tone
+
+ACTIONS:
+- Flat-drawn courtroom split diagram with witness figure centered, chin level, palms open, expression composed
+- Witness pivots left to prosecutor icon
+- Right to defense icon, placing identical evidence cards on both tables
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- gavel tap, paper card flicks, chair legs scraping, scale pointer tick
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 76: Trust — Build Up [10:00–10:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cream charcoal paper-texture legal infographic, clean outlines, restrained positive valence
+
+ACTIONS:
+- Flat balance scale character with neutral eyes and steady posture between caricature attorneys mirroring same stance
+- Scale pulses once
+- Equal-weight tokens from both sides drop simultaneously
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- coin drops on metal pans, spring boing, wooden pointer click, brief shoe scuff
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 77: Trust — Build Up [10:08–10:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Paper-texture media wall in muted navy-to-cream contrast, satirical but controlled trust mood
+
+ACTIONS:
+- Small flat-drawn expert figure stands centered, shoulders relaxed, face calm, while giant headline tiles slam around him with exaggerated spectacle icons
+- He raises two placards—“means” and “refuses to mean”—and both stay suspended, unresolved
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- cardboard placard clacks, headline tile slams, camera flash clicks, marker underline scratch
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 78: Trust — Build Up [10:16–10:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Neutral cream paper texture with charcoal inks and faint blue accents, measured trust atmosphere
+
+ACTIONS:
+- Flat-drawn chemistry beaker icon with earnest eyes leans forward as loud spectacle icons shrink and desaturate behind
+- Bold words “CHEMISTRY” and “THEATRICS” appear
+- Expert hand stamps “RIGOR” over center while surrounding icons continue flickering without resolution
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- rubber stamp thud, paper tear rip, chalk writing squeak, small bulb pop
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 79: Trust — Build Up [10:24–10:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Sparse paper-texture infographic field in balanced creams and dusk blues, deliberate trust pacing
+
+ACTIONS:
+- Flat hinge mechanism labeled “MOTEL CASE” bends with strained posture, narrowed eyes
+- Rotates from left panel to right panel and snap-stops at midpoint
+- Decision arrow hangs unfinished
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- metal hinge creak, latch snap, arrow placard swish, wooden block knock
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 80: Trust — Build Up [10:32–10:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm cream paper texture, charcoal outlines, balanced neutral palette with electric blue accents, methodical infographic pacing, satirical UPA-style exaggeration, zero depth
+
+ACTIONS:
+- Flat-drawn forensic technician with calm brow, squared shoulders, steady hands hovers between two ink-labeled paper boxes: “PRESUMPTIVE” and “CONFIRMATORY.” Technician mists left box
+- Blue-white cel-shaded glow blooms only there while right box stays neutral
+- Icons for bleach bottle, copper pipe, horseradish root stamp into glowing box as caution tags
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- trigger spray hiss, marker squeak on paper labels, paper card slap, droplet patter on carpet swatch
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 81: Trust — Deep [10:40–10:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Neutral cream paper background with teal accents, clean ink outlines, zero depth, UPA/editorial infographic satire
+
+ACTIONS:
+- A flat-drawn forensic diagram board shows two oversized labels—“PRESUMPTIVE” upright and calm, “CONFIRMATORY” faded and crossed—like characters with stern eyebrows and squared posture
+- Blue-white stain contours animate onto a motel-carpet panel
+- Pause beside icons for iron, copper, bleach, and horseradish, each lighting the same way
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- spray trigger click, aerosol hiss, marker squeak, stamp thud
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 82: Trust — Deep [10:48–10:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Balanced neutral cream and charcoal background with electric blue-white accent glow, authoritative Bloomberg-style lighting at 3700K
+
+ACTIONS:
+- Flat cel-shaded 2D infographic animation on paper texture: drawn magnifying glass icon hovers over glowing blue-white stain pattern, clean inked outlines, zero depth
+- Exaggerated question mark appears in teal ink with snappy motion-graphic timing
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- pen scratching paper, single tap on glass surface
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 83: Trust — Deep [10:56–11:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Balanced neutral cream and charcoal background with teal accent line dividing screens, authoritative Bloomberg-style lighting at 3700K
+
+ACTIONS:
+- Flat cel-shaded 2D split-screen infographic on paper texture: left panel shows glowing blue-white stain with clean inked outlines, right panel shows crossed-out verdict stamp in red ink with exaggerated X motion
+- Zero depth layering, snappy motion-graphic timing
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- rubber stamp hitting desk, paper sliding across surface
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 84: Trust — Deep [11:04–11:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cream paper room with teal evidence lines and charcoal props, zero depth, inked outlines, satirical UPA-style infographic discipline
+
+ACTIONS:
+- Flat caricature of Yeshion stands centered, back straight, jaw tight, eyes narrowed, gripping a clipboard to his chest while a checklist column fills in: photos, measurements, sketches, logs, chain-of-custody
+- He marks one box at a time with deliberate hand pressure, never smiling
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- pencil scratch, ruler slide, page turn, clipboard tap
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 85: Trust — Deep [11:12–11:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Paper-texture cream backdrop, teal/charcoal palette, crisp ink lines, zero depth, satirical editorial 2D
+
+ACTIONS:
+- A conveyor-like flat infographic procession moves evidence icons past Yeshion’s rigid stance—shoe-track cast, photo card, measuring tape, sketch pad, sealed bag—while a prosecutor silhouette on one side leans in and recoils, arms alternating between open demand and crossed discomfort
+- Yeshion points firmly at protocol arrows, posture immovable, expression sternly impartial
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- zipper seal pull, tape rip, camera shutter, evidence bag crinkle
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 86: Trust — Deep [11:20–11:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Background remains plain cream with teal ticks, clean outlines, no depth, UPA/editorial paper animation style
+
+ACTIONS:
+- Yeshion’s flat-drawn eyes dominate the panel
+- Brow pinched, lower eyelids tight, lips pressed into a thin line, shoulders barely visible but squared
+- Reflections inside his lenses cycle through tiny evidence symbols—shoe tread, smear angle, spacing marks—each snapping into alignment like syntax
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- lens cloth swipe, caliper click, pen tap, file card shuffle
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 87: Trust — Deep [11:28–11:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Muted cream and dusk-charcoal with fading teal glow, paper texture, clean ink lines, zero depth, satirical infographic style
+
+ACTIONS:
+- Yeshion stands centered between two flat icons: a lab bench stacked with evidence bags on the left and a courtroom door glyph on the right
+- His torso leans equally both ways, knees braced, mouth neutral, hands open as if balancing pressure
+- A thin path of footprint marks threads behind him and stops short of either side
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- door latch click, shoe sole squeak, folder set-down, chalk line drag
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 88: Trust — Deep [11:36–11:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Neutral cream paper with teal geometry and charcoal labels, clean outlines, zero depth, UPA editorial infographic animation
+
+ACTIONS:
+- A flat motel floor-plan diagram fills screen
+- Bold drag-mark arrows angle toward a parking-lot block while handprint icons along a baseboard appear in interrupted sequence
+- A ruler and protractor slide in to mark smear angle, stride interruption, and transfer spacing
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- chalk scrape, ruler knock, protractor click, paper slide
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 89: Trust — Deep [11:44–11:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Paper-texture infographic room in balanced cream/charcoal with clean outlines, zero depth, satirical UPA/editorial motion style
+
+ACTIONS:
+- A flat-drawn evidence-board icon with narrowed inked “eyes” and rigid posture conveys calm certainty
+- Teal cutout arrows slide from drag marks toward a parking-lot symbol while low handprint icons and broken contact dots snap into a movement path, revealing sequence as the intermediate payoff
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- marker squeak, paper slide, tape peel, pencil tap
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 90: Trust — Deep [11:52–12:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The hand plants a ruler over a drag mark; tick marks and angle labels pop in, then stride-interruption brackets appear but stop one beat before full equation, creating an open analytical re-engagement
+
+ACTIONS:
+- An exaggerated flat-drawn gloved hand leans forward with a focused frown and stiff elbow, signaling meticulous trust
+- The hand plants a ruler over a drag mark
+- Tick marks and angle labels pop in
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- ruler tap, graphite scratch, card flick, pen click
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 91: Trust — Deep [12:00–12:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Paper-texture newsroom infographic space feels orderly and trustworthy, with balanced cream and charcoal tones and teal accents
+
+ACTIONS:
+- A flat-drawn forensic floor-plan board sits center frame
+- Exaggerated analyst hands and narrowed eyes are inked in profile, shoulders squared in calm focus
+- Teal drag-mark vectors, low baseboard handprint icons, and broken stride dots are placed in sequence
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- marker scratching paper, ruler sliding on paper, tape peeling, paper card snapping onto board
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 92: Trust — Deep [12:08–12:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Paper-texture courtroom-lab graphic, muted teal/charcoal, clean ink outlines, zero depth, satirical editorial timing
+
+ACTIONS:
+- Two flat icons—beaker (tight worried mouth) and gavel (impatient clenched jaw)—face off with tense, angled posture
+- Split panel animates: left side blooms blue trace dots, right side slams “FINALITY” tabs over nuance notes
+- Fissure lines spread between panels, showing conflict between disclosure and closure as an intermediate payoff
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- glass clink, card snap, stamp thud, paper tear
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 93: Trust — Deep [12:16–12:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+A flat courtroom silhouette crowd recoils with exaggerated raised shoulders and wide eyes while an oversized stamp character grimaces downward
+
+ACTIONS:
+- A flat courtroom silhouette crowd recoils with exaggerated raised shoulders and wide eyes while an oversized stamp character grimaces downward
+- “FINALITY” crashes onto the docket
+- Tiny nuance notes scatter aside
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- heavy stamp slam, wood knock, paper skid, ink blot pop
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 94: Trust — Deep [12:24–12:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Paper-texture infographic field in muted dusk tones and teal highlights, clean ink outlines, zero depth, satirical UPA/editorial design
+
+ACTIONS:
+- A flat justice scale with expressive face shows strained asymmetry: one side labeled “FINALITY” presses down, the “NUANCE” side trembles upward with anxious eyes
+- Small luminol-blue dots appear along a crack between pans
+- Connect into a subtle pattern, giving intermediate payoff that hidden traces persist inside imbalance
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- metal clink, chain rattle, pencil circle, card slide
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 95: Trust — Deep [12:32–12:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Paper-texture close insert style, teal-on-charcoal accents, clean outlines, zero depth, snappy editorial satire
+
+ACTIONS:
+- A flat gavel icon with clenched teeth and downward-leaning posture shows impatient authority
+- It strikes once
+- From the impact point, crisp ink fissure lines radiate and expose hidden blue trace marks beneath the surface, creating an intermediate payoff linking legal force to forensic ambiguity
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- gavel crack, wood clack, paper rip, chalk scrape
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 96: Anticipation — Deep [12:40–12:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Courtroom infographic tableau on paper texture with amber-charcoal tension, unresolved but controlled
+
+ACTIONS:
+- Medium close-up, very slow creeping push-in
+- 2
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- shoe sole scuff, acetate sheet flick, stamp thud, chalk tick marks, wooden bench creak
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 97: Anticipation — Deep [12:48–12:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Arrows flow from blue glow through his torso to jury icons, labeled 'pattern,' 'concentration,' 'context.' Muted amber-dark palette, dramatic side lighting effect drawn as gradient wash
+
+ACTIONS:
+- Flat cel-shaded 2D infographic animation on paper texture: drawn figure of Yeshion stands center frame between a glowing blue rectangle (labeled 'evidence') on left and twelve simplified jury-box silhouettes on right, shoulders squared, one hand gesturing toward glow, other toward jury, eyebrows furrowed in concentration
+- Arrows flow from blue glow through his torso to jury icons, labeled 'pattern,' 'concentration,' 'context.' Muted amber-dark palette, dramatic side lighting effect drawn as gradient wash
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- pen scratching paper, marker squeaking on card, paper sliding across desk
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 98: Trust — Deep [12:56–13:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+balanced neutral cream background, charcoal text, teal accent lines, paper grain texture, UPA editorial style
+
+ACTIONS:
+- Flat cel-shaded 2D infographic on paper texture: drawn Yeshion figure center frame, clean inked outline, zero depth, measured authoritative pose with hands clasped
+- Credential badges appear in rhythmic sequence around him—'AAFS Fellow' in bold sans-serif type, 'PA Commission Chair' in institutional gray palette, flat graphic icons with no shadow
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- stamp thud, paper rustle, badge click
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 99: Trust — Deep [13:04–13:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+balanced neutral cream background, charcoal borders, paper grain visible, UPA editorial motion graphics style
+
+ACTIONS:
+- Flat cel-shaded 2D infographic on paper texture: drawn certificate icons stack vertically in center frame—diploma scrolls, official seals, commission letterheads—all clean inked outlines, zero depth, institutional gray and teal palette
+- Action: certificates slide into frame from left in snappy motion-graphic timing, each settling with subtle bounce, creating rhythmic visual beat
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- paper slide, folder snap, seal stamp
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 100: Trust — Deep [13:12–13:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Balanced neutral cream and charcoal palette with teal accent line framing credentials
+
+ACTIONS:
+- Flat cel-shaded 2D infographic animation on paper texture: drawn figure of Yeshion in center, upright posture, holding oversized credential folder open toward viewer, expression calm and measured
+- Behind him, two flat graphic panels: left panel shows 'Fellow AAFS' badge icon, right panel shows 'PA Commission Chair' seal
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- folder clasp snapping open, paper stack thumping down, rubber stamp thudding twice
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 101: Trust — Deep [13:20–13:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+stark paper texture, UPA editorial style, teal accent lines
+
+ACTIONS:
+- Flat cel-shaded 2D infographic split-screen on paper texture: left panel shows suspect silhouette in crime scene with blood spatter pattern, right panel shows same methodology icon (magnifying glass over droplet) bridging to opposite outcome—crossed-out conviction stamp
+- Clean inked outlines, zero depth, high-contrast navy and electric blue-white accents
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- slide whoosh, stamp thud, paper flip
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 102: Surprise — Deep [13:28–13:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+stark high-contrast navy background transitioning to warm burst of cream light, paper grain visible, UPA animation style
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- twenty years
+
+ACTIONS:
+- Flat cel-shaded 2D infographic on paper texture: drawn calendar flips to '1999' in bold type
+- Exaggerated consultant character (Yeshion caricature with oversized luminol bottle as key) unlocks cell door, clean inked outlines, zero depth
+- His expression shows satirical heroic determination with raised eyebrow and confident smirk
+
+CAMERA:
+Medium | Crane
+
+AUDIO:
+- calendar page flip, key turn click, door creak
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 103: Surprise — Deep [13:36–13:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+paper-texture courtroom with simplified bench and gavel icons, cool tones transitioning to warm burst, UPA editorial style
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- twenty years
+
+ACTIONS:
+- Flat cel-shaded 2D infographic courtroom on paper texture: flat caricature judge with exaggerated wide eyes and dropped jaw reacts as glowing evidence folder slides across bench in snappy motion-graphic timing, clean inked outlines, zero depth
+- Judge's posture leans back in surprise, hands raised
+
+CAMERA:
+Medium | Crane
+
+AUDIO:
+- folder slide, gavel tap, gasp sound effect
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 104: Surprise — Deep [13:44–13:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+muted dusk tones, fading blue highlights on door frame, charcoal background transitioning to cream light, paper grain visible, UPA animation style with deliberate sparse transitions
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- twenty years
+
+ACTIONS:
+- Flat cel-shaded 2D infographic on paper texture: drawn prisoner figure walks through opening door in center frame, clean inked outline, zero depth, posture shows cautious hope with shoulders slightly hunched, hand shielding eyes
+- Action: blue glow trail follows footsteps in flat graphic style, door swings wider revealing fading light beyond
+
+CAMERA:
+Medium | Crane
+
+AUDIO:
+- footstep shuffle, door hinge creak, distant echo
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 105: Surprise — Deep [13:52–14:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Balanced neutral cream and charcoal background with electric blue-white accents
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- twenty years
+
+ACTIONS:
+- Flat cel-shaded 2D infographic animation on paper texture: drawn exoneration document with bold 'EXONERATED' stamp in electric blue ink, clean inked outlines, zero depth
+- Satirical institutional figure with conflicted expression overlay—eyebrows raised, mouth twisted—stands beside document, hand hovering uncertainly
+
+CAMERA:
+Medium | Crane
+
+AUDIO:
+- stamp hitting paper, document rustling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 106: Trust — Deep [14:00–14:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Both beakers glow faintly with teal accent light against neutral cream background
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture: split-panel composition, identical drawn beaker with blue liquid on left and right side of frame
+- Institutional hand (drawn as simple graphic shape with clean ink outline) reaches from top, index finger extended with calm deliberate posture, pointing toward right beaker
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- finger tapping glass beaker
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 107: Trust — Deep [14:08–14:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Flat cel-shaded 2D infographic animation on paper texture: editorial diagram with gavel and molecule orbiting each other in opposing circular paths, clean inked outlines, zero depth
+
+ACTIONS:
+- Flat cel-shaded 2D infographic animation on paper texture: editorial diagram with gavel and molecule orbiting each other in opposing circular paths, clean inked outlines, zero depth
+- Tension lines radiate outward from center in exaggerated graphic style
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- gavel tapping wood, glass beaker clinking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 108: Trust — Deep [14:16–14:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Flat cel-shaded 2D infographic animation on paper texture: drawn Yeshion figure (exaggerated flat character with contemplative expression) stands at crossroads junction, clean inked outlines, zero depth
+
+ACTIONS:
+- Flat cel-shaded 2D infographic animation on paper texture: drawn Yeshion figure (exaggerated flat character with contemplative expression) stands at crossroads junction, clean inked outlines, zero depth
+- 'Celebrity' path fades to transparent on left, 'Friction' path glows with annotation marks and teal highlights on right
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- pen marking paper, footsteps on gravel
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 109: Trust — Deep [14:24–14:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Grid lines in balanced neutral charcoal, axes labeled in clean sans-serif
+
+ACTIONS:
+- Flat cel-shaded 2D infographic animation on paper texture: coordinate grid with 'Science' vertical axis and 'Justice' horizontal axis, clean inked outlines, zero depth
+- Exaggerated collision spark (flat graphic burst in electric blue-white) at exact intersection point
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- chalk on blackboard, spark crackling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 110: Trust — Deep [14:32–14:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Flat cel-shaded 2D infographic animation on paper texture: close-up of evidence file folder on desk, two institutional stamps (one labeled 'Lab', one 'Court') hover above, clean inked outlines, zero depth
+
+ACTIONS:
+- Flat cel-shaded 2D infographic animation on paper texture: close-up of evidence file folder on desk, two institutional stamps (one labeled 'Lab', one 'Court') hover above, clean inked outlines, zero depth
+- Stamps frozen mid-descent, neither touching paper
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- stamps hovering (air whoosh), paper rustling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 111: Trust — Deep [14:40–14:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Flat cel-shaded 2D infographic animation on paper texture: luminol spray bottle icon (drawn with clean inked outlines, zero depth) reopens sealed conviction folder, folder flap lifts in snappy UPA motion-graphic timing
+
+ACTIONS:
+- Flat cel-shaded 2D infographic animation on paper texture: luminol spray bottle icon (drawn with clean inked outlines, zero depth) reopens sealed conviction folder, folder flap lifts in snappy UPA motion-graphic timing
+- Calendar pages scatter backward in exaggerated flat trajectory, dates visible (1999→1979)
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- spray bottle hissing, pages flipping rapidly
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 112: Trust — Deep [14:48–14:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Flat cel-shaded 2D infographic animation on paper texture: courtroom frame (drawn as simple rectangular border, clean inked outlines, zero depth) expands outward in concentric rings
+
+ACTIONS:
+- Flat cel-shaded 2D infographic animation on paper texture: courtroom frame (drawn as simple rectangular border, clean inked outlines, zero depth) expands outward in concentric rings
+- Each ring contains small vignette panels showing different decade's reaction—exaggerated flat-drawn figures with varied expressions (shock, relief, confusion)
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- paper expanding (whoosh), multiple gasps (staggered)
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 113: Trust — Deep [14:56–15:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Environment is a cream-and-charcoal infographic courtroom board with teal accents, zero depth, clean ink outlines, low-arousal analytical mood
+
+ACTIONS:
+- A flat-drawn judge caricature stands rigid with squared shoulders and a calm, intent stare, one eyebrow lifted in measured trust
+- Blue-white luminol droplets fall onto one pan of minimalist paper-texture scales, tipping it gradually while tiny icons of battlefield relics and ancient objects slide into frame but remain partly off-screen
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- spray trigger clicks, liquid droplets splattering paper, scale hinge creaking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 114: Anticipation — Deep [15:04–15:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Florida interior rendered as stark navy and charcoal infographic panels, held-breath anticipation
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- twenty years
+
+ACTIONS:
+- A flat-drawn floorboard cross-section on paper texture, with a tense gloved forensic hand hovering, wrist stiff and fingers curled, eyes narrowed in a tiny inset caricature
+- Twenty stacked footprint icons labeled by descending years compress into the wood layers
+- Warped planks and peeled linoleum strips cycle down-up-down in snappy loops
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- spray-bottle hiss, droplet splatter on wood, floorboard creaks, linoleum peel rip, marker scratching year labels
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 115: Anticipation — Deep [15:12–15:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+paper-texture infographic strip in muted amber and charcoal, crisp outlines, zero depth, low-intensity anticipation
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- twenty years
+
+ACTIONS:
+- A flat sequence of tenant, landlord, and inspector silhouettes marches across one floor panel
+- Each figure shows exaggerated impatience—forward lean, swinging arms, tight mouths—while leaving faint overlay marks
+- The panel cycles through calendar flips to twenty years, humidity lines buckle planks, and beneath translucent layers a hemoglobin bond diagram pulses once
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- footsteps stomping wood, clipboard stamp thuds, paper report pages flipping, wood crack ticks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 116: Anticipation — Deep [15:20–15:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Environment is flat cel-shaded neutral creams and charcoals with amber edge accents, zero depth, restrained investigative mood
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- twenty years
+
+ACTIONS:
+- A paper-texture close-up of trampled floor surface fills frame
+- Overlapping stain shapes and warped grain dominate while a drawn gloved hand hovers tense above, fingers curled and wrist stiff, eyes (in tiny inset face) focused and cautious
+- Cheap linoleum scraps are peeled back and re-laid in layered cutout animation, but no glow appears yet
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- scraper dragging, adhesive tape tearing, glove friction on wood, short spray bottle shake rattle
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 117: Anticipation — Deep [15:28–15:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+paper-texture room diagram with muted dusk neutrals and electric blue accents, zero depth, analytic trust tone
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- twenty years
+
+ACTIONS:
+- A flat investigator character kneels at floor level, back slightly hunched, lips pressed, skeptical eyes narrowed
+- One hand steadies while the other squeezes a luminol spray bottle
+- The mist lands, and a sharp blue-white chemiluminescent shape blooms across drawn wood grain, expanding into a clear trace pattern
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- spray trigger squeezes, fine mist hiss, droplets striking wood, sudden fizz crackle
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 118: Trust — Deep [15:36–15:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Environment is clean paper-texture desk infographic with teal accents and charcoal lines, zero depth, calm authoritative mood
+
+ACTIONS:
+- A flat lab notebook page is centered
+- Yeshion caricature sits upright with precise posture, neutral mouth, focused eyes, and carefully checks a box beside bold ink text: CALIBRATION
+- The pen pauses midair for a beat before finishing the stroke, implying controlled restraint
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- fountain pen scratching paper, checkbox stamp click, clipboard snap shut
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 119: Trust — Deep [15:44–15:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+paper-texture editorial board with teal and muted dusk tones, zero depth, trust-forward documentary clarity
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- three days
+
+ACTIONS:
+- A flat-drawn timeline strip tears at Gettysburg
+- A solemn guide figure with straight posture and grave expression points to oversized typography: 51,000 over three day blocks, while tourists in tiny caricature poses smile and snap photos above manicured grass
+- Below, soil cutaway reveals Civil War artifacts as luminol drops hit and return a blue-white signal burst labeled CHEMISTRY
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- camera shutter clicks, souvenir cash register clink, soil trowel scrape, spray squeeze hiss, brief electric fizz
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 120: Trust — Deep [15:52–16:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+A flat battlefield silhouette and modern crime-scene tape overlay collide in one paper-texture frame; a composed analyst character stands side-on with open palm and steady gaze, indicating three calendar tiles (Day 1, Day 2, Day 3) that lock into place
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- three days
+
+ACTIONS:
+- A flat battlefield silhouette and modern crime-scene tape overlay collide in one paper-texture frame
+- A composed analyst character stands side-on with open palm and steady gaze, indicating three calendar tiles (Day 1, Day 2, Day 3) that lock into place
+- Civil War-era kepi and buckle icons from soil are swabbed
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- grass shears snipping, shoe steps on dirt, swab stick rubbing metal, spray click, chemical fizz pop
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 121: Trust — Deep [16:00–16:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Neutral cream/charcoal paper-texture infographic space with teal accents, calm analytical mood, zero depth, UPA/editorial motion-graphics style
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- three days
+
+ACTIONS:
+- Primary subject: a flat ink-drawn Gettysburg map and bold paper timeline labeled Day 1, Day 2, Day 3
+- Beside it, a drawn conservator stands upright with relaxed shoulders, focused eyes, and steady hands
+- The conservator dabs luminol onto Civil War artifacts
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- paper map unfolding, marker ticking, glass vial set down, cotton swab rubbing metal, liquid droplet taps
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 122: Trust — Deep [16:08–16:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Drawn silhouette of Civil War-era canteen and musket ball appear center frame against neutral cream background
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- thirty years
+
+ACTIONS:
+- Flat cel-shaded 2D paper texture: illustrated calendar pages flip in rapid succession, drawn with clean inked outlines, counting from 1863 to 1994 in bold numerals
+- Pages settle on final date card
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- pages flipping, paper settling on desk
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 123: Trust — Deep [16:16–16:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+UPA-style infographic: steady, measured motion-graphic beats
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- thirty years
+
+ACTIONS:
+- Flat cel-shaded 2D paper texture: drawn date card '1863 → 1994' centered in clean inked frame
+- Illustrated pointer icon taps twice on timeline, linking era labels to small drawn icon of museum artifact tag
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- pointer tapping paper twice, pen marking diagram
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 124: Trust — Deep [16:24–16:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clean inked outlines, balanced neutral cream and charcoal palette with teal accent line
+
+ACTIONS:
+- Flat cel-shaded 2D paper texture: illustrated grant approval stamp appears top-left, drawn checklist with tick marks populates center, flat-drawn control-vial icons arrange in grid bottom-right
+- Clean inked outlines, balanced neutral cream and charcoal palette with teal accent line
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- stamp pressing paper, pen ticking checklist boxes, vials clinking softly
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 125: Trust — Deep [16:32–16:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Flat cel-shaded 2D infographic animation on paper texture, clean inked outlines, zero depth, authoritative and controlled
+
+ACTIONS:
+- Gloved archival hands, wrists squared and fingers precise, calm and composed, lowering one labeled musket ball into orderly paper grid
+- Rows of 136 Revolutionary War projectiles—musket balls, buckshot, slugs—sit in teal-accented compartments
+- One slot remains open, turning testing into visible proof
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- paper tray slide, latex glove snap, metal pellet clicks, pencil tick
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 126: Trust — Deep [16:40–16:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+UPA-style infographic: measured, deliberate beats
+
+ACTIONS:
+- Flat cel-shaded 2D paper texture: split-panel composition
+- Left panel: drawn protocol sheet with numbered steps and flat-drawn icons
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- paper sliding into frame, swab touching metal, pen tapping steps
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 127: Trust — Deep [16:48–16:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Paper-texture forensic diagram space, teal accents, calm authoritative trust tone, zero depth, UPA/editorial motion-graphics aesthetic
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- thirty years
+
+ACTIONS:
+- Primary subject: a flat cutaway infographic of one projectile path through simplified tissue, bone
+- Soil strata, with a bold paper counter reading 230+ YEARS
+- A drawn analyst at frame edge shows widened eyes and a controlled inhale posture, hands open in measured disbelief
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- dropper squeeze, droplet plink, chalk line draw, small metal tap, card flip
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 128: Trust — Deep [16:56–17:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Exaggerated flat-drawn 'NO SPECTACLE' label appears bottom-right in understated sans-serif
+
+ACTIONS:
+- Flat cel-shaded 2D paper texture: 136 small drawn object icons tile across paper field in orderly grid
+- Count-up numerals pulse minimally in corner: 1, 2, 3
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- pen ticking boxes, paper rustling softly, drawer closing
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 129: Trust — Deep [17:04–17:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Neutral cream and charcoal infographic workspace with teal accents, calm and methodical atmosphere, zero depth
+
+ACTIONS:
+- A flat-drawn row of 136 evidence icons on paper texture sits dead-center
+- A stern inspector figure at frame edge leans forward with narrowed eyes, crossed arms, and a measured, almost bored expression
+- Three identical test passes run across the same icon row
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- stamp thuds, pencil ticks, paper shuffling, ruler tap
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 130: Trust — Deep [17:12–17:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Paper-texture infographic wall, teal accents on cream-charcoal, calm authoritative atmosphere with ironic contrast
+
+ACTIONS:
+- A flat-drawn analyst figure leans evenly between two panels, brows lifted in measured surprise, palms open to show balance
+- Left panel reads “Forensics: substantial” with heavier icon stack
+- Right panel reads “Everything else: vertiginous” with sparse but widening rings, unresolved edge arrows still expanding
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- marker squeak, paper card slide, sticky note peel, ruler tap
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 131: Trust — Deep [17:20–17:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Neutral analytical paper-texture setting, trustworthy low-arousal tone
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- ten thousand years
+
+ACTIONS:
+- A flat-drawn timeline curator stands straight with intent gaze, one hand pinning a date tag while jaw set in sober certainty
+- A paper timeline stretches past “18th century” into a bold “10,000 years” marker
+- Yeshion nameplate slides in beside oxidized artifact icons and luminol droplets, while a “crime scene” label fades at the far edge
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- label sticker rip, card slot click, chalk tick mark, glass dropper squeeze
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 132: Trust — Deep [17:28–17:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Paper-texture infographic stage in muted teal-cream palette, calm but mentally charged
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- ten thousand years
+
+ACTIONS:
+- A flat-drawn skeptic character shifts from crossed arms and narrowed eyes to upright attentive posture, eyebrows softening into cautious trust
+- Simplified photon arrows orbit a stain icon and lock into a clean measurement ring
+- An archaeology tag and oxidation symbol snap into place while jurisdiction text fragments drift off-screen unfinished
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- paper cutout snap, arrow card flick, stamp click, pencil underline scratch
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 133: Trust — Deep [17:36–17:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Paper-texture environment in balanced cream-charcoal with restrained teal marks, sober trust tone
+
+ACTIONS:
+- A flat-drawn institutional board figure sits still with lowered shoulders and solemn eyes, hands resting open in acceptance
+- Suspect, family, and detective icons are crossed out one by one
+- Center frame holds a persistent blood-record symbol etched into layered civilization blocks that remain after the icons vanish
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- red crayon strike-through, paper tear, file folder close, chisel scratch
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 134: Trust — Deep [17:44–17:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Paper-texture infographic desk in neutral creams and charcoal with teal highlights, quiet confidence
+
+ACTIONS:
+- A flat-drawn research clerk with straight posture and calm, intent expression presses both palms near a centered evidence notebook icon
+- Smaller crossed-out suspect/family/detective icons recede to corners while notebook pages flip to repeated hemoglobin entries, emphasizing method over prosecution
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- notebook page flip, pencil tap, binder ring click, index tab snap
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 135: Trust — Deep [17:52–18:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Paper-texture infographic chamber with muted teal accents, composed analytical atmosphere
+
+ACTIONS:
+- A flat-drawn archivist figure stands balanced, neutral mouth and steady eyes, one hand holding a crime-scene badge cutout while the other holds an artifact tag
+- The badge flips into the tag in a flat swap
+- Two paperwork stacks differ in labels but merge into one hemoglobin symbol as a reagent droplet highlights iron and oxygen icons
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- paper flip slap, label stamp, dropper squeeze, card stack thud
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 136: Trust — Deep [18:00–18:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Paper-texture split-panel infographic in neutral cream-charcoal with teal cues, calm evidentiary tone
+
+ACTIONS:
+- A flat-drawn comparator figure kneels between two sample swatches with concentrated eyes and a composed half-frown, fingertips aligned to both surfaces
+- Left swatch shows motel floor tile, right shows Neolithic soil
+- One luminol droplet line links both
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- ceramic chip clink, soil sprinkle, dropper squeeze, metal badge click
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 137: Trust — Deep [18:08–18:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Paper-texture infographic lab table with subdued teal accents and calm analytical atmosphere, zero depth
+
+ACTIONS:
+- A flat-drawn forensic reagent bottle and two evidence cards sit center-frame, label arrows pointing to a motel knife smear and a Neolithic spear-tip smear
+- The illustrated examiner figure has relaxed shoulders, steady hands, neutral focused eyes
+- One dropper releases reagent onto both smears, and identical red bloom rings spread at the same pace while two different paperwork forms slide in from opposite sides, unresolved checkboxes still blank
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- glass dropper squeeze, liquid drops tapping paper, card stock sliding, pen scratching forms
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 138: Trust — Deep [18:16–18:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+flat infographic desk layout on textured paper, teal and muted charcoal with disciplined spacing
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- forty-one years
+
+ACTIONS:
+- A caricatured expert with raised caution finger, bent elbows, and attentive eyes leans over a paper timeline labeled 1→41 years
+- Calendar tiles flip rapidly
+- Stop at year 41 as a red PRESUMPTIVE banner snaps over a glowing swab card beside icons for bleach, copper, and horseradish
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- calendar flip clicks, rubber stamp smack, pen tap, evidence bag crinkle
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 139: Trust — Deep [18:24–18:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+charcoal-on-cream paper board, teal highlights, zero-depth UPA editorial style
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- forty-one years
+
+ACTIONS:
+- An overconfident flat-drawn attorney figure leans forward with chin up and pointed finger
+- Recoils as red correction slashes strike claims
+- From one central blue glow blot, branching arrows expand to hemoglobin, plant peroxidase, copper, bleach, and horseradish icons, while a composed expert at frame edge marks context checkboxes
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- chalk squeak, marker cross-out, paper flap snap, pointer tap on board
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 140: Trust — Deep [18:32–18:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+muted paper texture, sparse ink lines, flat cel-shaded editorial composition with no depth
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- forty-one years
+
+ACTIONS:
+- A weary but steady illustrated examiner sits upright with hands folded, brows slightly knit, watching a branching chart fade into dusk tones
+- A thin blue residue line remains while a paper-cut question mark hangs unresolved over the last node, and an admissible file tab stays unopened
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- folder slide stop, pencil scratch, single stamp click, page turn
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 141: Trust — Deep [18:40–18:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+cream paper field, crisp ink outlines, teal accents, flat satirical infographic animation
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- forty-one years
+
+ACTIONS:
+- A caricature expert pauses physically—wrist frozen mid-air, shoulders held, lips pressed—beside a glowing stain graphic
+- A circular pause icon locks the frame for a beat
+- A bold red PRESUMPTIVE stamp slams down while small icons of bleach, copper, and plant enzyme pop in as qualifiers
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- stopwatch click, stamp slam, card pop, pen underline scratch
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 142: Trust — Deep [18:48–18:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+balanced cream/charcoal paper texture, teal accent paths, flat cel-shaded 2D editorial style
+
+ACTIONS:
+- Left: a drawn beaker with neutral face emits a jagged signal line
+- Right: a scientist caricature with careful posture, pinched fingers, and concentrated eyes places meaning labels on cards
+- The two lines cross like tangled wires
+
+CAMERA:
+Medium | Pan
+
+AUDIO:
+- liquid drip plink, wire snap, label sticker peel, gavel tap
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 143: Surprise — Deep [18:56–19:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+textured paper stage shifting cool charcoal to warmer neutral accents, satirical UPA editorial look, zero depth
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- twenty years
+
+ACTIONS:
+- A drawn Yeshion figure straightens from skeptical hunch to confident upright stance, eyes softened with earned respect
+- Paper-cut badges stack: Academy Fellow, Science Subcommittee Chair, while prison-bar tally marks count to 20 years
+- Crack open to release small innocent-figure icons
+
+CAMERA:
+Medium | Crane
+
+AUDIO:
+- badge pin clicks, stamp thuds, tally chalk marks, metal gate clank
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 144: Surprise — Deep [19:04–19:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+flat paper texture, crisp black ink, teal-to-muted dusk accents, UPA/editorial motion-graphics satire with zero depth
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- twenty years
+
+ACTIONS:
+- A caricature official with squared shoulders and firm jaw points at a standards checklist while fellowship title blocks stamp rhythmically across frame
+- A side counter climbs to 20 years beside prison bars
+- Flips to RELEASED tags as documented-case folders fan open
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- rubber stamp repeats, folder snap open, checkbox tick clicks, paper fan flutter
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 145: Surprise — Deep [19:12–19:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Background is neutral cream paper with subtle charcoal grid lines
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- twenty years
+
+ACTIONS:
+- Flat cel-shaded 2D infographic animation on paper texture
+- Drawn figure in exaggerated upright posture, shoulders squared, hands clasped behind back, expression calm and focused
+
+CAMERA:
+Medium | Crane
+
+AUDIO:
+- badge cards snapping into place, paper rustling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 146: Trust — Deep [19:20–19:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Both figures wear lab coats, expressions exaggerated—left calm and deliberate, right impatient and overconfident
+
+ACTIONS:
+- Flat cel-shaded 2D infographic animation on paper texture
+- Split-screen composition: left panel shows drawn figure following a checklist with methodical hand gestures, checkmarks appearing sequentially
+- Right panel shows identical figure skipping steps, hand waving dismissively, conclusion icon flashing prematurely
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- pen ticking checkboxes, paper flipping
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 147: Trust — Deep [19:28–19:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Background transitions from courtroom bench outline to broadcast studio grid
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- six decades
+
+ACTIONS:
+- Flat cel-shaded 2D infographic animation on paper texture
+- Drawn courtroom gavel icon slides horizontally across frame, morphing into a vintage TV set with antenna
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- gavel tap, TV static click, card sliding
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 148: Trust — Deep [19:36–19:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Teal accent highlights on card edges
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- six decades
+
+ACTIONS:
+- Flat cel-shaded 2D infographic animation on paper texture
+- Illustrated broadcast lower-third cards stack vertically beside lab notebook pages
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- cards stacking, paper tapping desk
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 149: Trust — Deep [19:44–19:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Teal and cream palette with charcoal outlines
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- six decades
+
+ACTIONS:
+- Flat cel-shaded 2D infographic animation on paper texture
+- Drawn TV channel logo, episode slate, and lab diagram cycle in a three-panel horizontal sequence
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- paper cards flipping, pen scratching X
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 150: Trust — Deep [19:52–20:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Neutral cream background
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- six decades
+
+ACTIONS:
+- Flat cel-shaded 2D infographic animation on paper texture
+- Illustrated clipboard graphic centered in frame
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- pen underlining twice, clipboard tapping
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 151: Trust — Deep [20:00–20:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Below, trophy icon fades out and is replaced by methodology flowchart with arrows and labeled boxes: 'Collect', 'Analyze', 'Interpret', 'Report'
+
+ACTIONS:
+- Flat cel-shaded 2D infographic animation on paper texture
+- Large headline 'UNKNOWN GIANT' appears at top in bold inked letters
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- headline stamping, trophy icon fading whoosh, pen drawing flowchart lines
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 152: Trust — Deep [20:08–20:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Process map shows interconnected nodes labeled 'Systems', 'Methods', 'Standards'
+
+ACTIONS:
+- Flat cel-shaded 2D infographic animation on paper texture
+- Drawn figure in exaggerated gesture removes illustrated crown from portrait on wall
+- Pins process map in its place
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- crown lifting off, pin tapping into wall, paper unfolding
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 153: Trust — Deep [20:16–20:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+charcoal paper texture, electric-blue accents, orderly data-infographic mood
+
+ACTIONS:
+- Flat paper-timeline ribbon spans frame, teal checkmarks marching into place beside crossed-out erasures, stain tags, and date blocks
+- Subject: archival proof strip shows calm, exact posture, as if refusing to vanish
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- paper rustling, marker squeaks, checkbox ticks, label peel, page flips
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 154: Anticipation — Deep [20:24–20:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Flat cel-shaded 2D infographic on paper texture: manila archive file marked Yeshion lies half-open, edges jittering with tense energy while bright red blood-trace line snakes across calendar boxes and file tabs
+
+ACTIONS:
+- Flat cel-shaded 2D infographic on paper texture: manila archive file marked Yeshion lies half-open, edges jittering with tense energy while bright red blood-trace line snakes across calendar boxes and file tabs
+- File tilts forward as if reaching viewer
+- Freezes before full reveal
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- folder thump, paper flutter, archive drawer scrape, marker squeak
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 155: Anticipation — Deep [20:32–20:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+It drops onto the wrong desk label, nudging aside a neat stack as tiny ruin icons fade behind it while a red-brown stain remains fixed
+
+ACTIONS:
+- A flat-drawn manila file marked “YESHION” appears physically anxious—tilted posture, bent corner like a clenched jaw, stamp mark skewed as if bracing
+- It drops onto the wrong desk label, nudging aside a neat stack as tiny ruin icons fade behind it while a red-brown stain remains fixed
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- file drop thud, paper scrape, binder ring click, stamp clack
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 156: Trust — Deep [20:40–20:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+teal-accent analysis table, paper texture, subdued trust-building mood
+
+ACTIONS:
+- Flat sketch paper shows checklist, drag marks, and handprint cards snapping into a clean forensic grid
+- Subject: evidence board stands firm, orderly, and quietly satisfied, with blue checkmarks replacing earlier disorder
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- graphite scratching, tape measure snap, paper rustle, card tap, checkmark tick
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 157: Trust — Deep [20:48–20:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Environment is teal-accent analytical paper texture, clean ink lines, zero depth, Bloomberg-style infographic stability
+
+ACTIONS:
+- A flat-drawn forensic checklist board stands upright with calm, confident posture
+- Adjacent evidence icons show focused expression cues—handprint icon squared, shoeprint icon aligned, drag-path line straightened
+- Tick marks snap in sequence as luminol blue-white shapes resolve into crisp geometric overlays without drama
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- tape measure snap, camera flash pop, pencil drag on paper, marker checkmark squeak
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 158: Trust — Deep [20:56–21:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Environment remains minimalist teal-charcoal paper texture, zero depth, UPA/editorial style
+
+ACTIONS:
+- A flat-drawn motel floor plan lies with composed posture while a single investigator figure at frame edge shows low-arousal trust—shoulders relaxed, chin lowered, eyes narrowed in concentration
+- Blue-white glow recedes from residue lines, but mapped drag marks, catalogued handprints, and matched partial shoe track stay ink-solid, forming a clean geometric network
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- UV lamp switch click, evidence tag peel, clipboard clip snap, shoe sole press on paper
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 159: Trust — Deep [21:04–21:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+neutral charcoal workspace, disciplined documentary mood, faded blue accents
+
+ACTIONS:
+- Flat grid of tape measures, drag lines, handprint cards, and case labels arranges into exact evidence map on paper texture
+- Subject: forensic layout feels controlled, low-arousal, and trust-heavy, with teal ticks marching across each row
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- tape measure snap, paper cards shuffling, pencil scratch, label peel, checklist ticks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 160: Trust — Deep [21:12–21:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Neutral cream paper texture with warm-teal accents, stable and analytical, satirical UPA/editorial motion-graphic style, zero depth
+
+ACTIONS:
+- A flat motel floor-plan board is drawn with confident teal and charcoal lines
+- Oversized evidence symbols show rigid posture through crisp angular orientation, conveying calm procedural certainty
+- Animated icons complete steps in sequence: drag-mark vectors lock into place, handprint grid stamps align, a partial shoe tread overlay clicks into a matched outline
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- camera flash pop, tape measure snap, pencil scrape, rubber stamp press, acetate overlay click
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 161: Trust — Deep [21:20–21:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Sterile office environment drawn in neutral cream and charcoal tones, flat UPA-style editorial graphic
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture: a drawn rubber stamp icon slams down onto a flat manila folder graphic, leaving a bold red 'CLOSED' mark
+- The folder lies centered on a minimal desk illustration with clean inked outlines, no depth or shadow
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- rubber stamp thudding on paper, folder rustling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 162: Trust — Payoff [21:28–21:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Small institutional icons (badge, gavel) scatter faintly in background, losing opacity
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture: drawn label reading 'CASE SOLVED' in bold charcoal lettering sits left of frame beside oversized floating question mark icon in muted dusk blue
+- Question mark pulses subtly larger with each beat
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- paper sliding on desk, pen tapping
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 163: Trust — Payoff [21:36–21:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Institutional badge icon fades to near-transparency in background
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture: tighter crop of previous composition, question mark now dominates right two-thirds of frame in fading blue outline, 'SOLVED' label shrinks to lower left corner in charcoal
+- Institutional badge icon fades to near-transparency in background
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- paper creasing, pencil scratching
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 164: Trust — Payoff [21:44–21:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Background is stark cream paper with minimal institutional icons (filing cabinet, clipboard) in charcoal outlines
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture: exaggerated flat-drawn hand holding oversized rubber stamp descends from top of frame, stamps 'ERASED' in bold teal ink across center
+- Second hand enters with pink eraser icon, scrubs back and forth over the word in theatrical motion-graphic timing
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- stamp thudding, eraser rubbing paper
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 165: Trust — Payoff [21:52–22:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The blue stain graphic reappears as an overlay on the courtroom illustration, connecting the sequence
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- ten thousand years
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture: a drawn motel room icon fades to black
+- A bright blue luminol stain blooms across the frame in flat graphic style
+- Hard cut to a courtroom diagram with clean inked outlines—witness stand, evidence table, all flat 2D icons
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- liquid dripping, paper shuffling, gavel tapping wood
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 166: Trust — Payoff [22:00–22:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Background is balanced neutral cream with subtle inspection marks and notation symbols
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- ten thousand years
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture: courtroom exhibit panel expands to fill frame, luminol stain diagram in center with radiating arrows labeled in charcoal ink
+- Flat-drawn witness stand icon in corner, skeptical judge figure with exaggerated furrowed brow and crossed arms
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- paper rustling, pen clicking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 167: Trust — Payoff [22:08–22:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Slow deliberate pacing as push-in centers the droplet icon against muted dusk-tone background
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- ten thousand years
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture: luminol residue icon (glowing blue droplet outline) pinned beside flat witness notes page with handwritten scribbles in charcoal ink
+- Inspection marks (checkboxes, circles) drawn in teal accent surround the composition
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- paper sliding, pen scratching
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 168: Trust — Payoff [22:16–22:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Background is balanced cream with fading blue highlights
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- forty-one years
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture: horizontal timeline strip unfolds left to right, divided into three flat panels with clean black borders
+- Left panel: lab glassware icons (beaker, test tube) in charcoal outline
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- paper unfolding, pen tapping
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 169: Trust — Payoff [22:24–22:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm 4000K lighting cast as flat gradient wash across paper background, muted cream and charcoal palette
+
+ACTIONS:
+- Flat cel-shaded 2D infographic animation on paper texture: drawn reagent bottle labeled 'Luminol' centered in frame, clean inked outline, bottle cap slightly open with illustrated droplets suspended mid-fall
+- Bottle sits on drawn laboratory bench with flat-shaded test tubes and beakers arranged in precise grid
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- glass bottle cap twisting open, liquid droplets hitting glass surface
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 170: Trust — Payoff [22:32–22:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The bottle label reads 'Luminol' in bold sans-serif; the test tube glows faint blue against the cream background
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture: a drawn laboratory reagent bottle and test tube sit centered on a clean white bench, inked outlines crisp, no depth or shadow
+- The bottle label reads 'Luminol' in bold sans-serif
+- The test tube glows faint blue against the cream background
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- dropper glass tapping bench, liquid settling in tube
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 171: Trust — Payoff [22:40–22:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm 4000K lighting as flat wash, muted cream and charcoal palette
+
+ACTIONS:
+- Flat cel-shaded 2D infographic animation on paper texture: drawn evidence tags stacked in rigid vertical columns, each tag illustrated with chain-of-custody seal stamp and case number in clean ink
+- Testimony cards arranged in parallel column, flat-shaded manila color with typed witness names
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- paper cards stacking on desk, rubber stamp pressing ink pad then paper
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 172: Anticipation — Payoff [22:48–22:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Dramatic lighting shifts to warm release gold gradient
+
+ACTIONS:
+- Flat cel-shaded 2D infographic animation on paper texture: drawn timeline starting tight on North Carolina SBI badge icon in 1975, clean inked outline
+- Camera creeps right as decade tick marks appear with institutional icons—Florida Department badge, university seal, academy emblem—each drawn flat with exaggerated clarity
+
+CAMERA:
+Medium | Zoom out
+
+AUDIO:
+- badge clinking on desk, paper timeline unrolling, stamp pressing repeatedly
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 173: Anticipation — Payoff [22:56–23:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+UPA editorial motion graphic, crisp transitions between milestones
+
+ACTIONS:
+- Flat cel-shaded 2D infographic animation on paper texture: drawn Florida Department of Law Enforcement marker centered, clean inked badge with state outline
+- Timeline continues right with illustrated lab notebook icon and field kit case, each flat-shaded with exaggerated detail
+
+CAMERA:
+Medium | Zoom out
+
+AUDIO:
+- notebook pages flipping, metal case latches clicking open
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 174: Anticipation — Payoff [23:04–23:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Flat cel-shaded 2D infographic animation on paper texture: drawn Gannon University seal and American Academy of Forensic Sciences emblem appear in sequence on timeline, clean inked crests with exaggerated heraldic detail
+
+ACTIONS:
+- Flat cel-shaded 2D infographic animation on paper texture: drawn Gannon University seal and American Academy of Forensic Sciences emblem appear in sequence on timeline, clean inked crests with exaggerated heraldic detail
+- Illustrated TV screen icon shows D.B
+
+CAMERA:
+Medium | Zoom out
+
+AUDIO:
+- official seal embossing paper, television static click, parachute fabric rustling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 175: Trust — Payoff [23:12–23:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm 4000K lighting as flat gradient, muted dusk tones with fading blue highlights
+
+ACTIONS:
+- Flat cel-shaded 2D infographic animation on paper texture: three drawn sample swatches arranged horizontally—motel carpet fiber, battlefield soil clump, ancient tool stone fragment—each outlined in clean ink with label beneath
+- Identical blue luminescence glow illustrated as flat radiating lines emanating from each swatch
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- fabric swatch dropping on table, soil sample pouring into dish, stone fragment tapping surface
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 176: Trust — Payoff [23:20–23:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm 4000K lighting as flat gradient, muted dusk tones
+
+ACTIONS:
+- Flat cel-shaded 2D infographic animation on paper texture: split-frame composition—left side shows drawn human head silhouette with fragmenting memory icons (fading photographs, dissolving text) illustrated as flat shapes breaking apart
+- Right side shows stacked institutional file folders, drawn with exaggerated thickness and clean inked labels, rigid and immovable
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- photograph tearing slowly, heavy file folders thudding onto desk
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 177: Trust — Payoff [23:28–23:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Flat cel-shaded 2D infographic animation on paper texture, clean inked outlines, zero depth; muted dusk tones with fading blue highlights, calm resolving atmosphere
+
+ACTIONS:
+- A tiny stack of labeled memory cards is drawn with curled corners and scuffed ink, visibly compressed and tilting as if strained
+- Monolithic paper folder towers slide inward and loom over the cards, swallowing handwritten notes and clippings until only one card edge remains
+- A final tab flips open to reveal the surviving record plainly
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- paper shuffling, index tab snapping, card case clicking, binder thud, pencil tick marks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 178: Trust — Payoff [23:36–23:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Paper-texture infographic field in warm muted dusk tones, controlled satirical irony
+
+ACTIONS:
+- A stern flat-drawn judge icon with neutral face and rigid posture faces left-to-right panels, gavel hand fixed like a metronome
+- Panels trigger in sequence: VERDICT stamp slams, sentence sheet slides, FILE CLOSED clamp snaps
+- Then a monument icon rises while a tiny cost footnote shrinks at the corner
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- gavel knock, rubber stamp slam, paper slide, binder snap, chisel chip
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 179: Trust — Payoff [23:44–23:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Minimalist paper-texture backdrop, warm neutral-charcoal atmosphere with fading blue accents, dry satirical tone
+
+ACTIONS:
+- A flat archive-box apparatus with expressionless face decal and straight mechanical arms sits centered, posture rigid and emotionless
+- It conveyor-feeds case files past courthouse and monument icons while a small alibi clock hand advances and paper edges visibly crumble
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- conveyor rattle, box lid snap, clock tick, paper tear, staple ping
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 180: Trust — Payoff [23:52–24:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Split-panel paper-texture lab diagram in warm dusk neutrals, calm trustful clarity
+
+ACTIONS:
+- A flat-drawn technician with relaxed brow, neutral mouth, and steady wrists holds two evidence swabs at equal height
+- Matching luminol sprays hit a fresh stain card and a centuries-old stain card
+- Both bloom identical electric blue, confirming chemistry’s indifference
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- spray hiss, droplet patter, glove squeak, vial tap, clipboard click
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 181: Trust — Payoff [24:00–24:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clean paper-texture infographic space in warm cream and charcoal with faint fading blue
+
+ACTIONS:
+- A flat timeline ruler stretches across centuries
+- A technician figure with upright posture and unreadable expression points evenly to both ends
+- Two stain marks at opposite dates blink the same blue cadence while iron-catalysis symbols rotate identically, emphasizing non-negotiable reproducibility
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- marker squeak, trigger spritz, droplet tick, ruler tap, page flip
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 182: Trust — Payoff [24:08–24:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Paper-texture environment, muted warm dusk tones, measured satirical atmosphere
+
+ACTIONS:
+- A flat handshake icon with a polite smiling face and stiff elbows trembles
+- Cracks
+- Surrounding courthouse, badge, and records-system icons keep composed expressions but tilt uneasily
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- handshake squeak, crack snap, droplet splat, blueprint unfurl rasp, pin click
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 183: Trust — Payoff [24:16–24:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Sparse paper-texture desk in warm charcoal-cream, dry satirical calm
+
+ACTIONS:
+- A flat mechanical stamping arm with narrowed “focused” eyes and locked elbow posture hovers over file stacks
+- Expression is efficient, almost cheerful
+- It repeatedly stamps FORGETTING in perfect rhythm as folders advance
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- motor whirr-click, stamp thud, paper slap, roller squeak, tray clack
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 184: Anticipation — Payoff [24:24–24:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Paper-texture infographic hall in warm release-gold and muted dusk charcoal, satirical but respectful closure
+
+ACTIONS:
+- A small flat-drawn Yeshion figure with modest posture, open palms, and calm determined eyes stands beside an enormous reproducible procedure flowchart
+- A crossed-out hero halo icon drops away
+- He triggers one step
+
+CAMERA:
+Medium | Zoom out
+
+AUDIO:
+- marker stroke, card slot click, switch toggle, synchronized stamp taps, chart roll snap
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 185: Trust — Payoff [24:32–24:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm muted dusk tones with fading electric-blue highlights create trusted resolution in a flat cel-shaded 2D infographic style with clean ink outlines and zero depth
+
+ACTIONS:
+- A drawn technician with relaxed shoulders, focused eyes, and steady gloved hands shows calm confidence
+- In looped panels, they mix luminol, flip a lights-off switch
+- Spray a measured arc as blue traces bloom over a supposedly clean surface
+
+CAMERA:
+Close-up | Pan
+
+AUDIO:
+- bottle cap twist, liquid pouring, switch click, trigger spray hiss
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 186: Trust — Payoff [24:40–24:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm neutral cream-and-charcoal paper-texture room with simple inked outlines and zero depth, UPA/editorial motion-graphics style
+
+ACTIONS:
+- A flat-drawn forensic technician with relaxed shoulders, focused eyes, and steady gloved hands leans in with quiet confidence
+- In a satirical triptych across three map-labeled jurisdictions, the same gesture repeats: paperwork stamped “CLEAN” is lifted, luminol is misted, and bright blue-white splatter marks bloom on each surface—final visual proof without drama
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- spray bottle hiss, glove snap, paper rustle, stamp thud, UV lamp click
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 187: Trust — Payoff [24:48–24:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm neutral paper field, snappy but restrained editorial timing, cel-shaded 2D inked outlines, zero depth
+
+ACTIONS:
+- A flat-drawn paper hand with composed wrist and deliberate grip tears across frame
+- The letters hold firm with confident graphic tension
+- “QUIET REVOLUTION” appears
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- paper slide, tape peel, paper tear rip, card slap
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 188: Trust — Payoff [24:56–25:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Muted warm paper tones with restrained blue accents, flat cel-shaded infographic style, zero depth
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- twenty years
+
+ACTIONS:
+- A flat-drawn exoneree stands center with slumped shoulders, tired eyes, and loosened hands
+- Straightens slightly as bars slide open—quiet relief without triumph
+- Calendar pages flip rapidly
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- calendar flips, stamp thud, metal latch clack, bars sliding scrape, footsteps
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 189: Trust — Payoff [25:04–25:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm 4000K lighting on muted dusk-toned paper background
+
+ACTIONS:
+- Flat cel-shaded 2D infographic animation on paper texture: two drawn conveyor belts side-by-side in clean inked outlines
+- Left belt moves rapidly, carrying flat illustrated verdict stamps (red 'GUILTY' icons) zipping past in quick succession with motion lines
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- fast stamping thuds, slow magnifying glass sliding scrape, warning beep flashing
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 190: Trust — Payoff [25:12–25:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm paper atmosphere, muted dusk palette, editorial satire, cel-shaded 2D ink lines, zero depth
+
+ACTIONS:
+- A drawn analyst figure at frame edge keeps relaxed posture, open palms, and attentive eyes, signaling calm method rather than panic
+- Scattered marks reorganize into node arrows: “visible marks” to “sequence” to “test,” while clutter snaps into ordered evidence paths
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- paper rustle, pencil circling, sticky-note peel, arrow stamp click
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 191: Trust — Payoff [25:20–25:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm balanced tones with restrained blue reveal accents, satirical yet calm, flat cel-shaded 2D on paper texture, zero depth
+
+ACTIONS:
+- A flat-drawn operator with steady elbows, neutral mouth, and focused brow sprays reagent across a timeline while sentimental heart-shaped thought bubbles physically wrinkle and slide away
+- Underneath, numbered evidence markers 1–5 lock into place in clean order
+
+CAMERA:
+Close-up | Pan
+
+AUDIO:
+- trigger spray hiss, bubble pop taps, paper crumple, number tile clicks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 192: Trust — Payoff [25:28–25:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Flat cel-shaded 2D infographic animation, clean ink outlines, zero depth
+
+ACTIONS:
+- The composition ends balanced, with calmer icon poses and muted warm dusk tones plus faint blue edges
+- Flat cel-shaded 2D infographic animation, clean ink outlines, zero depth
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- block slide thunks, card shuffle, file drawer clack, index stamp press
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 193: Trust — Payoff [25:36–25:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Left panel shows a drawn courtroom evidence token (fingerprint card) suspended in neutral cream space
+
+ACTIONS:
+- Flat cel-shaded 2D infographic animation on paper texture: split-screen composition with clean inked outlines
+- Left panel shows a drawn courtroom evidence token (fingerprint card) suspended in neutral cream space
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- paper rustling, pen scratching on card
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 194: Trust — Payoff [25:44–25:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Oxidation icons (Fe²⁺ → Fe³⁺) animate stepwise in neutral cream background
+
+ACTIONS:
+- Flat cel-shaded 2D infographic animation on paper texture: drawn chemical reaction diagram at center frame with clean inked outlines
+- Oxidation icons (Fe²⁺ → Fe³⁺) animate stepwise in neutral cream background
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- pen tapping on desk, paper sliding
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 195: Trust — Payoff [25:52–26:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Flat cel-shaded 2D infographic animation on paper texture: two large hand-drawn text blocks with clean inked outlines appear sequentially
+
+ACTIONS:
+- Flat cel-shaded 2D infographic animation on paper texture: two large hand-drawn text blocks with clean inked outlines appear sequentially
+- 'CLARITY' materializes in electric blue-white ink on left side of frame
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- chalk writing on board, eraser tapping
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 196: Trust — Payoff [26:00–26:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Right panel shows three empty flat-drawn chairs arranged in a row, rendered in charcoal on cream background
+
+ACTIONS:
+- Flat cel-shaded 2D infographic animation on paper texture: split-frame composition with clean inked outlines
+- Left panel shows a drawn exoneration certificate with official stamp in muted blue-white
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- stamp pressing paper, chair scraping floor
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 197: Trust — Payoff [26:08–26:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Muted dusk infographic environment with clean ink outlines and zero depth, emotionally steady closure
+
+ACTIONS:
+- Split-frame flat-drawn tableau on paper texture: left, Bennington grave markers under fading blue highlights
+- Right, a towering paperwork stack with blank affidavits, the top pages unsigned
+- Center strip shows blood-marked ancient artifact shards labeled “10,000 years” with no name tags
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- paper sheet slap, file drawer clack, rubber stamp thud, gravel footstep crunch
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 198: Trust — Payoff [26:16–26:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The expansion is deliberate and measured, emphasizing the permanent central void
+
+ACTIONS:
+- Flat cel-shaded 2D infographic animation on paper texture: central map diagram with clean inked outlines expands outward in concentric rings
+- Known facts rendered as small charcoal nodes spread across cream background in muted blue-white and charcoal
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- pen drawing lines on paper, ruler sliding
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 199: Trust — Payoff [26:24–26:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm cream paper field, charcoal labels, soft neutral balance, fading blue accents, analytical payoff
+
+ACTIONS:
+- Flat-drawn layered cross-section of paint, grout, asphalt, varnish, and memorial bronze tiles fills frame
+- Each layer looks taut, with blue residue line pinned beneath
+- One by one, layers peel back and stubborn blue trace stays put under every finish
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- paper peel rip, chalk tick, brush scrape, tape lift
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 200: Trust — Payoff [26:32–26:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm cream paper texture, minimal charcoal marks, pale blue accent, clean final confirmation
+
+ACTIONS:
+- Flat-drawn peeled surface swatch and oversized question mark sit center frame
+- Thin blue residue line lingers under varnish while glow thins to narrow trace
+- Final reveal feels calm and certain, with almost no movement except tiny ink flicker
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- paper peel, marker squeak, label lift, stamp tap
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 201: Anticipation — Payoff [26:40–26:47]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Tight insert then reveal, very slow creep on a jagged electric-blue ink waveform across paper texture, then sudden pull-back to a full flat infographic board
+
+ACTIONS:
+- The primary subject is the anomaly itself: a sharp-toothed zigzag line hunched forward like a predator, edges trembling, with a tiny twitching gold highlight at its peak
+- It repeatedly spikes, slams down, and spikes again
+- The pull-back reveals oversized tick marks, scratched dates, and a huge ink question mark looming above
+
+CAMERA:
+Medium | Zoom out
+
+AUDIO:
+- marker squeak, paper scratch, stamp thud, ruler tap, ink splatter
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+════════════════════════════════════════════════════════════════
+[END SCENE PROMPTS]
+════════════════════════════════════════════════════════════════
