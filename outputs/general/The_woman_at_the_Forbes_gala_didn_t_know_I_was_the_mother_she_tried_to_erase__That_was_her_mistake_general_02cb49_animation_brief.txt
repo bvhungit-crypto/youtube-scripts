@@ -1,0 +1,3593 @@
+════════════════════════════════════════════════════════════════
+[CHARACTERS Description]
+════════════════════════════════════════════════════════════════
+
+PROJECT: The_woman_at_the_Forbes_gala_didn_t_know_I_was_the_mother_she_tried_to_erase__That_was_her_mistake
+
+RATIO: 16:9
+
+--------------------------------------------------
+STYLE (DETAILED - MANDATORY):
+
+- Style Directive: Minimalist 2D chalkboard animation, white chalk drawing on green board, hand-drawn style, emotional atmosphere, rough sketch lines, chalkboard texture background
+
+- Medium: Animation
+
+- Visual Style:
+  - Hand-drawn line work with visible craft
+
+- Character Design:
+  Minimal, geometric figure design
+
+- Materials & Textures:
+  [e.g. Flat colors only / Cel-shaded with soft shadow / Painterly with visible brushwork]
+
+- Lighting:
+  [e.g. Bright even lighting / Dramatic rim lighting / Soft ambient with glow on focal elements]
+
+- Color Palette:
+  [Define color roles — e.g. Red = danger, Yellow = energy, Blue = calm, Black outline for clarity]
+
+- Rendering Quality:
+  [e.g. Crisp, clean, high-definition / Slightly grainy retro / Hyper-smooth anime-style]
+
+- Motion Feel:
+  [e.g. Smooth action-driven / Bouncy exaggerated / Slow cinematic / Snappy cut-driven]
+
+- Overall Impression:
+  [One paragraph — what should viewers FEEL when watching? What is the visual "brand" of this project?]
+
+--------------------------------------------------
+TONE:
+[Overall emotional register — e.g. High tension, urgent, dramatic / Dark comedic, absurdist / Warm and nostalgic / Energetic and hype]
+[Detected dominant emotion (auto, for reference): Trust]
+
+--------------------------------------------------
+RENDERING RULES:
+
+- [Rule 1 — e.g. NO TEXT, NO LETTERS, NO SYMBOLIC WORDS in any scene]
+- [Rule 2 — e.g. Story must be conveyed entirely through visuals and expressions]
+- [Rule 3 — e.g. Each scene must have a clear visual conflict or action beat]
+- [Rule 4 — e.g. Only include characters explicitly required in each scene]
+- [Rule 5 — e.g. No background crowd, no unnecessary props]
+- [Add more rules as needed]
+
+--------------------------------------------------
+CHARACTERS (LOCKED):
+
+- Character 1: Affordable Units
+  [Physical description — face shape, skin tone, eye style — fill in]
+  [Hair — color #HEX, length, style — fill in]
+  [Default outfit — top, bottom, shoes, accessories — fill in]
+  [Signature trait — what makes them instantly recognizable — fill in]
+  [Expression range — what emotions they show most — fill in]
+
+- Character 2: Eleanor
+  [Physical description — face shape, skin tone, eye style — fill in]
+  [Hair — color #HEX, length, style — fill in]
+  [Default outfit — top, bottom, shoes, accessories — fill in]
+  [Signature trait — what makes them instantly recognizable — fill in]
+  [Expression range — what emotions they show most — fill in]
+
+- Character 3: James
+  [Physical description — face shape, skin tone, eye style — fill in]
+  [Hair — color #HEX, length, style — fill in]
+  [Default outfit — top, bottom, shoes, accessories — fill in]
+  [Signature trait — what makes them instantly recognizable — fill in]
+  [Expression range — what emotions they show most — fill in]
+
+- [Add unnamed characters (narrator, crowd, etc.) here if needed]
+
+--------------------------------------------------
+ENVIRONMENT (GLOBAL):
+
+[Default background / world setting for the entire project]
+[e.g. Minimal clean background, soft gradient sky / Neon-lit urban rooftop / Pastel fantasy kingdom]
+[Note: individual scenes can override this with their own ENVIRONMENT field]
+
+[Detected scene environments (auto, for reference):]
+  - Fluorescent-lit cafeteria booth suggested by minimal background lines, chalkboard texture visible throughout, dramatic amber side lighting creates shadows on green surface
+  - Soft flattering lighting on chalkboard surface, clean professional aesthetic, chalkboard texture visible
+  - Chalkboard texture throughout, soft neutral warm lighting
+  - Chalkboard texture visible, soft neutral warm lighting creates gentle shadows
+  - Rough sketch lines convey movement through time, chalkboard texture visible throughout, soft neutral warm lighting
+  - Soft flattering lighting on the chalkboard surface, 3800K neutral warm tone, minimal shadows
+  - Chalkboard texture visible throughout, soft neutral warm lighting creates calm atmosphere
+  - Green chalkboard texture background, soft muted chalk tones suggesting fluorescent light, minimal shading
+  - Emotional atmosphere: quiet resignation, the weight of another shift ending
+  - Green chalkboard background, soft muted chalk tones, cup as barrier between two seated figures sketched faintly in background
+  - Chalkboard texture background, muted chalk tones with slight contrast suggesting controlled concern
+  - Sharper chalk contrast, deeper shadows on board
+
+--------------------------------------------------
+GOAL:
+[Optional — one sentence stating the visual storytelling goal of the entire video]
+[e.g. "Make the audience feel the tension of nuclear deterrence without using any text or narration"]
+
+════════════════════════════════════════════════════════════════
+[END CHARACTERS Description]
+════════════════════════════════════════════════════════════════
+
+
+════════════════════════════════════════════════════════════════
+SCENE PROMPTS
+════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────
+🎬 SCENE 01: Anticipation — Hook [00:00–00:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Fluorescent-lit cafeteria booth suggested by minimal background lines, chalkboard texture visible throughout, dramatic amber side lighting creates shadows on green surface
+
+ACTIONS:
+- Two chalk-drawn hands reaching hesitantly across cafeteria table on green chalkboard, fingers not yet touching, rough sketch lines convey anticipation and uncertainty, white chalk strokes deliberate and incomplete
+- Hands pause mid-reach, creating visual gap
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- chalk scratching on board, fingertips sliding across table surface
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 02: Trust — Hook [00:08–00:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Soft flattering lighting on chalkboard surface, clean professional aesthetic, chalkboard texture visible
+
+ACTIONS:
+- Chalk-drawn Forbes magazine cover emerging on green chalkboard, bold white outline of magazine frame with simple figure sketch inside, rough hand-drawn style with confident strokes suggesting future success
+- Cover details incomplete, leaving viewer to imagine the full image
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- chalk tapping on board edge, paper rustling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 03: Trust — Hook [00:16–00:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Chalkboard texture throughout, soft neutral warm lighting
+
+ACTIONS:
+- Chalk-drawn ballroom interior on green chalkboard, rows of seated figures sketched in white, third row figure more defined with pearl earrings and upright posture, view from stage perspective looking out at audience
+- Sharp deliberate chalk strokes convey formal atmosphere, rough sketch lines show charcoal dress silhouette, chin lifted in composed dignity
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- chalk drawing continuous lines, fabric shifting in seat
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 04: Trust — Hook [00:24–00:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Chalkboard texture visible, soft neutral warm lighting creates gentle shadows
+
+ACTIONS:
+- Chalk-drawn face on green chalkboard, eyes widening in realization, rough sketch lines convey trapped feeling and recognition arriving too late
+- Expression shifts from neutral to awareness, hand-drawn eyebrows lifting, mouth slightly opening, white chalk strokes capture moment of understanding escape is impossible
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- sharp breath intake, chair creaking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 05: Trust — Hook [00:32–00:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Rough sketch lines convey movement through time, chalkboard texture visible throughout, soft neutral warm lighting
+
+ACTIONS:
+- Chalk-drawn clock face on green chalkboard with calendar pages flipping backward, erasing and redrawing motion creates temporal transition, white chalk strokes show pages dissolving and reforming in reverse
+- Rough sketch lines convey movement through time, chalkboard texture visible throughout, soft neutral warm lighting
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- pages flipping rapidly, chalk erasing and redrawing
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 06: Trust — Hook [00:40–00:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Chalkboard texture visible, soft neutral warm lighting with harsh overhead fluorescent suggestion
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Seven months
+
+ACTIONS:
+- Chalk-drawn pregnant silhouette on green chalkboard under harsh fluorescent line patterns above, hand on lower back, shoulders slumped forward in exhaustion, rough smudged chalk strokes convey deep fatigue
+- Seven-month belly prominent, posture heavy and weary, white chalk lines deliberate and weighted
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- hand rubbing lower back, slow footsteps dragging
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 07: Trust — Hook [00:48–00:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Soft flattering lighting on the chalkboard surface, 3800K neutral warm tone, minimal shadows
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- forty-five minutes
+- thirty minutes
+
+ACTIONS:
+- White chalk car sketch driving steadily across green chalkboard, clean confident lines forming the vehicle's shape, rough sketch texture visible in wheels and windows
+- The car moves toward a simple institutional building outline emerging in background, hospital cross symbol drawn with deliberate strokes
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- chalk scratching board rhythmically, eraser tapping surface twice
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 08: Trust — Hook [00:56–01:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Chalkboard texture visible throughout, soft neutral warm lighting creates calm atmosphere
+
+ACTIONS:
+- Chalk-drawn mother figure already seated in cafeteria booth on green chalkboard, waiting posture with hands folded on table, soft protective lines convey maternal presence, white chalk strokes create gentle welcoming expression
+- Figure drawn with care and warmth, rough sketch style shows booth outline and table edge
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- chair settling, hands folding together on table
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 09: Trust — Hook [01:04–01:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Green chalkboard texture background, soft muted chalk tones suggesting fluorescent light, minimal shading
+
+ACTIONS:
+- Chalk-drawn figure frozen mid-step in doorway, white lines hesitant and incomplete, posture stiff with shoulders slightly raised, head tilted in dawning realization
+- Hand half-extended toward door frame, fingers splayed in arrested motion
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- footsteps stopping on linoleum
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 10: Trust — Hook [01:12–01:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Emotional atmosphere: quiet resignation, the weight of another shift ending
+
+ACTIONS:
+- Minimalist 2D chalkboard animation: white chalk-drawn cafeteria tray centered on green board, rough sketch lines showing plate with scrambled eggs, no steam rising, lifeless shapes
+- Hand-drawn fork rests beside plate, simple geometric forms, chalkboard texture visible
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- tray sliding on table surface, fork clinking against plate edge
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 11: Trust — Hook [01:20–01:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Green chalkboard background, soft muted chalk tones, cup as barrier between two seated figures sketched faintly in background
+
+ACTIONS:
+- Chalk-drawn hands gripping coffee cup, fingers tense and overlapping, knuckles white with pressure lines, cup held at chest height like a shield
+- No drinking motion, cup static and untouched
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- ceramic cup scraping table
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 12: Trust — Hook [01:28–01:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Chalkboard texture background, muted chalk tones with slight contrast suggesting controlled concern
+
+ACTIONS:
+- Minimalist 2D chalkboard animation: white chalk-drawn profile of mother's face on green board, mouth moving in smooth deliberate strokes, reasonable expression sketched with soft lines
+- Hand-drawn speech bubble fragments appear and fade, rough sketch style
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- coffee cup settling on table, chair creaking slightly
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 13: Trust — Hook [01:36–01:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Sharper chalk contrast, deeper shadows on board
+
+ACTIONS:
+- Minimalist 2D chalkboard animation: white chalk-drawn word 'THIS' in center of frame, harshly circled and underlined multiple times with aggressive strokes on green board texture
+- Hand-drawn style with emotional atmosphere of dehumanization, rough sketch lines erasing and redrawing the circle, reducing life to a problem
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- chalk scraping board, eraser rubbing surface
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 14: Trust — Hook [01:44–01:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Soft warm lighting on chalkboard surface, gentle shadows, clean professional atmosphere with muted green background and bright white chalk contrast
+
+ACTIONS:
+- White chalk hand draws the word 'THIS' in harsh capital letters on green chalkboard, posture tense and deliberate, fingers gripping chalk tightly
+- Hand circles the word aggressively
+- Underlines it twice with sharp strokes, erasing the warmth of previous context
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- chalk scratching board, sharp underlining strokes
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 15: Trust — Hook [01:52–02:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Green chalkboard background, deeper shadows accumulating, harsher contrasted whites creating authoritative atmosphere
+
+ACTIONS:
+- Eleanor leaning forward, chalk-drawn posture assertive with shoulders angled toward viewer, spine straight, chin slightly raised
+- Hand gesturing with pointed finger, motion lines indicating emphasis
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- coffee cup tapping table firmly
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 16: Trust — Hook [02:00–02:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Green chalkboard texture background, soft muted tones, table surface drawn with horizontal grain lines
+
+ACTIONS:
+- Folded paper sliding across table surface, white chalk motion lines trailing behind, phone number visible on exposed edge in rough handwritten digits
+- Hand pushing paper forward with deliberate slow motion, fingers extended and firm
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- paper sliding on wood table
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 17: Trust — Hook [02:08–02:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Minimalist 2D chalkboard animation style, white chalk on green board, emotional atmosphere through line weight and spacing
+
+ACTIONS:
+- Chalk-drawn clinic building exterior sketched faintly in background on green chalkboard, sterile architectural lines in white chalk, rough sketch texture
+- Eleanor's words floating as hand-drawn text in foreground, deliberate chalk strokes forming letters
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- chalk scratching board surface, soft erasing sound
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 18: Trust — Hook [02:16–02:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Head tilted forward, chin dropping, betrayal encoded in the simplicity of the movement
+
+ACTIONS:
+- Chalk-drawn profile of mother's head nodding once, single economical downward motion line, complicit gesture captured in minimal strokes on green chalkboard
+- Head tilted forward, chin dropping, betrayal encoded in the simplicity of the movement
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- single chalk tap on board
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 19: Trust — Hook [02:24–02:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Minimalist 2D chalkboard animation, white chalk on green board, emotional atmosphere through agitated line work and motion indicators
+
+ACTIONS:
+- Chalk-drawn hands gripping cafeteria tray edge, silverware rattling shown through motion lines vibrating around fork and knife on green chalkboard
+- Fingers white-knuckled, trembling indicated by repeated overlapping chalk strokes
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- silverware clattering on tray, scraping metal sounds
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 20: Trust — Hook [02:32–02:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Time rendered as burden through thick chalk lines and deep shadows around numerals
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- twelve hours
+
+ACTIONS:
+- Chalk-drawn clock face showing twelve hours marked in heavy deliberate strokes on green chalkboard, numbers bold and oppressive
+- Clock hands pointing to twelve and twelve, creating visual weight
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- clock ticking slowly, heavy mechanical sound
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 21: Trust — Hook [02:40–02:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+One bedroom layout sketched faintly behind door outline
+
+ACTIONS:
+- Chalk-drawn apartment door with '2nd Floor' scratched above in rough lettering on green chalkboard
+- Heavy shadows around doorframe, wavy distortion marks suggesting heat rising from pipes
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- pipe clanking, metallic groaning sound
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 22: Trust — Hook [02:48–02:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Minimalist 2D chalkboard animation, white chalk on green board, rough sketch lines, chalkboard texture visible, soft smudging around edges
+
+ACTIONS:
+- Chalk-drawn silhouette seated on edge of bed, head bowed, hands resting in lap, shoulders slightly hunched
+- Figure remains still, no movement, posture conveys quiet exhaustion
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- faint fabric rustling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 23: Trust — Hook [02:56–03:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Word dominates frame, emotional weight through typographic aggression and repetition of underline
+
+ACTIONS:
+- Chalk-drawn word 'SENTENCE' in sharp angular letters, underlined twice with harsh white strokes on green chalkboard
+- Letters bold and oppressive, line weight heavy, double underline creating visual emphasis
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- chalk scraping hard, double underline scratching sound
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 24: Trust — Hook [03:04–03:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Minimalist 2D animation style, emotional weight in simplicity
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- four months
+
+ACTIONS:
+- White chalk-drawn phone screen on green chalkboard, simple rectangle with text message barely legible, timestamp '11:47' clearly visible in corner
+- Hand-drawn lines rough and sketch-like, institutional cold atmosphere
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- chalk tapping screen outline, finger tracing timestamp numbers
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 25: Trust — Hook [03:12–03:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Soft neutral lighting on chalkboard texture, minimal smudging around edges suggesting focused attention
+
+ACTIONS:
+- White chalk rectangle (phone screen outline) centered on green chalkboard, single line of text inside reading "11:47 PM Tuesday", hand-drawn with rough sketch lines
+- Chalk hand enters frame from right, taps the rectangle twice with fingertip
+- Withdraws slowly
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- chalk tapping board twice, fingertip dragging slightly
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 26: Trust — Hook [03:20–03:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Rough sketch style, chalkboard texture background, muted chalk tones
+
+ACTIONS:
+- Minimalist 2D chalkboard animation: white chalk-drawn lips in profile, slightly parted, speaking into empty green board space
+- Soft intimate lines, gentle posture suggesting quiet resolve
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- chalk tapping board edge
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 27: Anticipation — Hook [03:28–03:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Dramatic amber side light effect through chalk shading, sharper contrasted whites, deeper shadows on green board
+
+ACTIONS:
+- Minimalist 2D chalkboard animation: white chalk hand erasing previous scene with deliberate sweeping motion, wiping board clean from left to right
+- Motion lines suggest resolute gesture
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- eraser sweeping chalkboard
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 28: Trust — Hook [03:36–03:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Chalkboard texture visible, muted chalk tones
+
+ACTIONS:
+- Minimalist 2D chalkboard animation: white chalk-drawn ICU heart monitor with jagged heartbeat line across screen, analog clock showing overlapping 12-hour shifts, harsh fluorescent lines above
+- Exhaustion conveyed through rough, hurried chalk strokes
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- chalk scratching rapidly on board
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 29: Trust — Build Up [03:44–03:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Chalkboard texture background, muted chalk tones
+
+ACTIONS:
+- Minimalist 2D chalkboard animation: white chalk silhouette of woman in scrubs hunched over kitchen counter, textbooks spread open, secondhand crib sketched in corner
+- Rough hurried lines convey relentless pace, shoulders curved inward showing fatigue
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- pages turning, chalk tapping
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 30: Trust — Build Up [03:52–04:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Rough sketch lines, chalkboard texture visible, muted chalk tones suggesting absence
+
+ACTIONS:
+- Minimalist 2D chalkboard animation: series of small white chalk vignettes arranged horizontally—empty chair at Christmas, first steps (small footprints), birthday candle
+- Each crossed out with single diagonal line
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- chalk drawing line, eraser tapping
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 31: Trust — Build Up [04:00–04:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Stark deliberate composition, chalkboard texture visible, muted chalk tones
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Four years
+
+ACTIONS:
+- Minimalist 2D chalkboard animation: blank green chalkboard with '4 YEARS' written in center in bold white chalk
+- Nothing else
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- chalk writing slowly on board
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 32: Trust — Build Up [04:08–04:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Rough sketch style, chalkboard texture background, harsher contrasted whites and deeper shadows on green board
+
+ACTIONS:
+- Minimalist 2D chalkboard animation: white chalk-drawn envelope on table surface, unopened, sharp angular shadows suggesting foreboding
+- No warmth in lines, only tension
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- envelope sliding on table
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 33: Trust — Build Up [04:16–04:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Chalkboard texture visible, emotional atmosphere tense and foreboding
+
+ACTIONS:
+- Minimalist 2D chalkboard animation: white chalk-drawn legal document centered on green board, header reads 'CUSTODY PETITION' in bold capitals, dense illegible text fills the page in aggressive, heavy strokes
+- Rough sketch lines, harsh white contrast against textured green surface
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- chalk scratching on board, paper rustling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 34: Surprise — Build Up [04:24–04:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Emotional atmosphere of dawning realization frozen mid-stroke
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- three times
+
+ACTIONS:
+- Minimalist 2D chalkboard animation: white chalk-drawn hands gripping edge of kitchen counter in foreground, knuckles rendered with sharp angular lines suggesting tension
+- Legal document lies flat on counter surface
+
+CAMERA:
+Medium | Zoom out
+
+AUDIO:
+- paper sliding on counter, chalk tapping board
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 35: Trust — Build Up [04:32–04:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The clinic card from earlier scene now juxtaposed with legal papers, visual echo of betrayal rendered in harsh, angry chalk strokes
+
+ACTIONS:
+- Minimalist 2D chalkboard animation: white chalk drawing on green board
+- Split frame composition—left side shows rough-sketched clinic card with phone number, right side shows custody document with sharp angular lines
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- paper sliding across table, pen scratching paper
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 36: Trust — Build Up [04:40–04:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Hand-drawn style, emotional atmosphere of absence and ignorance
+
+ACTIONS:
+- Minimalist 2D chalkboard animation: white chalk-drawn form with labeled fields on green board
+- Fields read 'Middle Name:', 'Pediatrician:', 'Bedtime Routine:' but instead of answers, large question marks fill each space
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- chalk erasing board, chalk tapping empty spaces
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 37: Trust — Build Up [04:48–04:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Hand-drawn style, emotional atmosphere of systematic ignorance
+
+ACTIONS:
+- Minimalist 2D chalkboard animation: continuation of previous scene, more chalk-drawn question marks appear on green board
+- Additional fields labeled 'Favorite Food:', 'Fears:', 'Nicknames:' all filled with large white question marks
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- chalk scratching question marks, eraser brushing board
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 38: Trust — Build Up [04:56–05:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Emotional atmosphere of conclusive absence
+
+ACTIONS:
+- Minimalist 2D chalkboard animation: single large white chalk question mark centered on green board, drawn with heavy deliberate strokes
+- Rough sketch lines, bold and final
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- single heavy chalk stroke, chalk dust settling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 39: Trust — Build Up [05:04–05:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The woman's hand hovers near a chalk-drawn document labeled 'family name,' her fingers poised as if rewriting
+
+ACTIONS:
+- White chalk-drawn silhouette of a woman (Eleanor) standing upright, shoulders squared, gaze directed downward toward a smaller figure—a child drawn with softer, rounder lines
+- Her posture is rigid, calculating
+- The child's posture is open, vulnerable
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- chalk scratching on board, paper rustling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 40: Trust — Build Up [05:12–05:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Contrast implied through simplicity versus complexity
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- eleven months
+
+ACTIONS:
+- Minimalist 2D chalkboard animation: white chalk-drawn reusable grocery bag on green board, overflowing with papers and file folders spilling out the top
+- Rough sketch lines, humble and absurd but determined
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- paper rustling in bag, chalk scratching bag outline
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 41: Trust — Build Up [05:20–05:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Green chalkboard texture visible throughout, emotional atmosphere of quiet dread
+
+ACTIONS:
+- Minimalist 2D chalkboard animation: two chalk-drawn hands reaching toward center of green board, fingers tense and slightly curved inward, rough agitated strokes convey anxiety
+- Hands tremble subtly as white chalk lines redraw and overlap, creating visual tension
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- chalk scratching board, eraser rubbing surface
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 42: Trust — Build Up [05:28–05:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Green board texture prominent, shadows deepen around hand contours
+
+ACTIONS:
+- Minimalist 2D chalkboard animation: same chalk-drawn hands now closer, one hand trembling with broken discontinuous lines, fingers splayed and vulnerable
+- Smudged chalk dust around edges conveys fragility, rough sketch lines show emotional weight
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- chalk tapping board, hand brushing dust
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 43: Trust — Build Up [05:36–05:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Chalkboard texture visible, emotional atmosphere of tender gravity
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- four years
+- two months
+
+ACTIONS:
+- Minimalist 2D chalkboard animation: white chalk number '4' drawn large and deliberate on green board, beside it a small simple silhouette of a child figure, head bowed
+- Quiet weight in composition, minimal strokes, clean lines convey solemnity
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- chalk writing slowly, single tap on board
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 44: Trust — Build Up [05:44–05:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Documents labeled with fragments of text, institutional feel, sharp straight lines
+
+ACTIONS:
+- White chalk-drawn courtroom table on green chalkboard, scattered document outlines in rough sketch lines
+- Hand enters frame, deliberate posture, fingers tracing document edge with measured calm
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- chalk scratching on board, paper rustling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 45: Trust — Build Up [05:52–06:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Soft even lighting, muted chalk tones, chalkboard texture visible
+
+ACTIONS:
+- White chalk text fragment on green chalkboard: "Financial instability inconsistent with developmental needs" in clean institutional lettering
+- Hand-drawn quotation marks frame the phrase
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- chalk tapping on board, eraser brushing surface
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 46: Trust — Build Up [06:00–06:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Overlapping lines create visual density, emotional atmosphere of relentless effort
+
+ACTIONS:
+- Minimalist 2D chalkboard animation: chalk-drawn time clock and kitchen table overlapping on green board, layered rough strokes show exhaustion
+- Clock hands move slightly, table has open book and coffee cup sketched in white chalk
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- clock ticking, pages turning, cup setting down
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 47: Trust — Build Up [06:08–06:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Green board texture prominent, emotional atmosphere of weariness
+
+ACTIONS:
+- Minimalist 2D chalkboard animation: same chalk-drawn time clock and kitchen table now more heavily smudged, chalk dust blurs edges suggesting passage of time
+- Lines fade and redraw, nights blurring into mornings, visual fatigue in repeated overlapping strokes
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- eraser rubbing board, chalk dust falling, clock ticking faintly
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 48: Trust — Build Up [06:16–06:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Chalkboard texture visible, emotional atmosphere of endurance
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- four hours
+
+ACTIONS:
+- Minimalist 2D chalkboard animation: chalk-drawn clock face on green board showing four hours passing, hands moving from 12 to 4, erasing and redrawing multiple times
+- Rough sketch lines show visual fatigue, overlapping strokes create sense of duration
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- chalk drawing repeatedly, eraser scraping, clock hands clicking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 49: Anticipation — Build Up [06:24–06:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Rough sketch aesthetic, emotional atmosphere of relentless routine accumulating
+
+ACTIONS:
+- Minimalist 2D chalkboard animation: white chalk schedule drawn vertically on green board, cramped overlapping text filling frame—times stacked tight (4:15, 5:40, 6:30), tasks written in rough sketch lines
+- Hand-drawn clock faces, arrows connecting entries, chalkboard texture visible
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- chalk scratching board rapidly, erasing sounds, chalk tapping
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 50: Anticipation — Build Up [06:32–06:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Building shadows intensify
+
+ACTIONS:
+- Minimalist 2D chalkboard animation: same vertical schedule now denser, more entries added in white chalk on green board—additional tasks squeezed between existing lines, arrows crossing, text overlapping chaotically
+- Hand-drawn style with rough sketch lines, chalkboard texture background
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- rapid chalk scratching, multiple erasing swipes, chalk breaking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 51: Trust — Build Up [06:40–06:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Pen moves methodically across page, emotionless documentation
+
+ACTIONS:
+- Minimalist 2D chalkboard animation: white chalk-drawn hand holding pen, writing on notepad without looking up—mechanical downward strokes, no warmth
+- Hand-drawn style with rough sketch lines on green board, chalkboard texture visible
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- pen scratching paper steadily, paper rustling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 52: Trust — Build Up [06:48–06:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Chalkboard texture background, consistent even light
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Four years
+
+ACTIONS:
+- Minimalist 2D chalkboard animation: white chalk-drawn conference table on green board, two figures opposite—one slumped with rounded shoulders, one upright with straight posture
+- Hand-drawn style, rough sketch lines, sharp contrast in body language
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- papers sliding on table, chair creaking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 53: Trust — Build Up [06:56–07:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Collar perfectly aligned, tie knot centered
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Four years
+
+ACTIONS:
+- Minimalist 2D chalkboard animation: close-up of upright figure's collar and tie drawn in clean white chalk lines on green board—crisp edges, smooth strokes, unburdened
+- Hand-drawn style with deliberate, rested aesthetic
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- fabric rustling, briefcase clasp clicking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 54: Trust — Build Up [07:04–07:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Hand-drawn style, chalkboard texture background
+
+ACTIONS:
+- Minimalist 2D chalkboard animation: white chalk-drawn briefcase and clean shirt on green board—smooth, confident strokes, sharp lines
+- Hand-drawn style, chalkboard texture background
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- briefcase latches snapping, paper sliding into folder
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 55: Sadness — Build Up [07:12–07:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Emotional atmosphere of revelation beginning
+
+ACTIONS:
+- Minimalist 2D chalkboard animation: white chalk-drawn folder opening on green board, pages spreading outward—deliberate, slow strokes
+- Hand-drawn style with rough sketch lines, chalkboard texture visible
+
+CAMERA:
+Medium | Zoom out
+
+AUDIO:
+- folder opening, pages sliding apart, paper settling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 56: Trust — Build Up [07:20–07:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Hand-drawn style with rough sketch lines, chalkboard texture background
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Four years
+- eighteen months
+
+ACTIONS:
+- Minimalist 2D chalkboard animation: white chalk-drawn calendar pages on green board—four years of empty squares stacked vertically, all blank
+- Hand-drawn style with rough sketch lines, chalkboard texture background
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- pages turning slowly, calendar flipping, paper settling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 57: Trust — Build Up [07:28–07:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Chalkboard texture background visible, soft smudges suggesting passage of years
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Four years
+- eighteen months
+
+ACTIONS:
+- Minimalist 2D chalkboard animation: white chalk drawing on green board
+- Four overlapping calendar pages sketched in rough lines, each marked with an X, stacked to suggest accumulated time
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- chalk scratching board, paper rustling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 58: Trust — Build Up [07:36–07:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Chalkboard background clean except for faint smudges at edges
+
+ACTIONS:
+- Minimalist 2D chalkboard animation: white chalk drawing on green board
+- Large question mark drawn in center of frame, thick chalk lines, surrounded by empty green board space
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- chalk tapping board, single heavy stroke completing the question mark
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 59: Anticipation — Build Up [07:44–07:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Chalkboard texture visible, emotional atmosphere of impossible comparison
+
+ACTIONS:
+- Minimalist 2D chalkboard animation: white chalk drawing on green board
+- Unbalanced scale drawn in rough chalk lines, left side weighted down with overlapping scribbled marks suggesting burden, right side empty and floating upward
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- chalk scraping board, scale creaking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 60: Trust — Build Up [07:52–08:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Chalkboard texture background, soft even lighting
+
+ACTIONS:
+- Minimalist 2D chalkboard animation: white chalk drawing on green board
+- Courthouse doors sketched in simple chalk lines, one door slightly ajar
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- footsteps on stone steps, door closing
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 61: Trust — Build Up [08:00–08:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Chalkboard texture background visible, rough sketch lines convey quiet comfort
+
+ACTIONS:
+- Minimalist 2D chalkboard animation: white chalk drawing on green board
+- Kitchen table sketched in simple lines, bowl of dinosaur-shaped pasta drawn in center, small child's hand holding fork reaching toward bowl
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- fork clinking bowl, pasta pieces shifting
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 62: Trust — Build Up [08:08–08:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Chalkboard texture background prominent, emotional atmosphere of intentional absence
+
+ACTIONS:
+- Minimalist 2D chalkboard animation: white chalk drawing on green board
+- Empty chalkboard space in center, single erased smudge where text was written, faint ghost of letters barely visible
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- eraser brushing board, chalk dust settling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 63: Fear — Build Up [08:16–08:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Chalkboard texture background, shadows deepening around the child's face
+
+ACTIONS:
+- Minimalist 2D chalkboard animation: white chalk drawing on green board
+- Two chalk figures at kitchen table, cereal bowls sketched simply in front of each
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- spoon clinking bowl, cereal crunching
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 64: Anticipation — Build Up [08:24–08:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Chalkboard texture background visible, building shadows created by heavier chalk pressure
+
+ACTIONS:
+- Minimalist 2D chalkboard animation: white chalk drawing on green board
+- Close-up of child's chalk-drawn face, simple circle head with wide eyes sketched in rough lines, mouth forming words
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- breath intake, chair creaking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 65: Trust — Build Up [08:32–08:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Green chalkboard texture background, rough sketch lines, soft even lighting suggested by consistent chalk density
+
+ACTIONS:
+- Minimalist 2D chalkboard animation: white chalk-drawn mother's profile facing right across a simple table, firm deliberate strokes forming her jawline and shoulders, posture upright and protective
+- She speaks across the table toward an unseen child, her hand resting flat on the surface, fingers spread in a gesture of grounding and reassurance
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- chalk tapping table surface
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 66: Trust — Build Up [08:40–08:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Green chalkboard texture, rough sketch lines, emotional atmosphere of careful absorption
+
+ACTIONS:
+- Minimalist 2D chalkboard animation: white chalk-drawn child's head in profile, nodding downward in three deliberate stages, each position sketched with overlapping lines to show motion
+- Shoulders slightly hunched, hands folded in lap, posture suggesting internalization and quiet processing
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- chalk scraping downward in rhythm
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 67: Trust — Build Up [08:48–08:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Rough sketch lines, green chalkboard texture, emotional atmosphere of quiet determination
+
+ACTIONS:
+- Minimalist 2D chalkboard animation: white chalk-drawn kitchen table from above, morning light suggested by diagonal hatching lines streaming from upper left
+- Two hands clasped together at center of frame, knuckles white with pressure, fingers interlocked in a gesture of silent vow
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- chalk pressing and holding on board
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 68: Trust — Build Up [08:56–09:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Green chalkboard texture background, emotional atmosphere of building from nothing
+
+ACTIONS:
+- Minimalist 2D chalkboard animation: white chalk sketch of a simple house outline emerging from rough lines, upward arrow drawn beside it, foundation lines being added stroke by stroke
+- Hand-drawn style, rough aspirational strokes suggesting construction and growth
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- chalk drawing continuous lines
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 69: Trust — Build Up [09:04–09:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Hand-drawn style, rough sketch lines, green chalkboard texture, emotional atmosphere of late-night solitary study
+
+ACTIONS:
+- Minimalist 2D chalkboard animation: white chalk-drawn kitchen table covered in scattered textbooks and papers, lamp suggested by radiating light lines from upper right
+- Single coffee cup at edge of frame, steam lines rising
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- chalk scratching paper texture
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 70: Trust — Build Up [09:12–09:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Green chalkboard texture, rough sketch lines, emotional atmosphere of competence and growth
+
+ACTIONS:
+- Minimalist 2D chalkboard animation: white chalk-drawn teenage profile reading a document held in both hands, confident upright posture, sharper more assured lines forming the jawline and shoulders
+- Eyes tracking across the page, suggested by directional hatching
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- paper rustling and flipping
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 71: Anticipation — Build Up [09:20–09:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Green chalkboard texture, building shadows suggested by heavier chalk density, emotional atmosphere of discovery
+
+ACTIONS:
+- Minimalist 2D chalkboard animation: view through chalk-drawn car windshield, forgotten neighborhood sketched in rough lines—boarded windows, broken fences, overgrown lots
+- Composition emphasizes potential through negative space and incomplete structures
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- car engine idling low
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 72: Anticipation — Build Up [09:28–09:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Green chalkboard texture, rough sketch lines, building shadows, emotional atmosphere of collaborative anticipation
+
+ACTIONS:
+- Minimalist 2D chalkboard animation: two chalk silhouettes in car interior, one pointing forward through windshield, the other leaning in to look
+- Partnership visible in mirrored gestures and overlapping lines, shared purpose in parallel posture
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- finger tapping glass
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 73: Trust — Build Up [09:36–09:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Rough sketch lines, chalkboard texture background visible
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- three years
+
+ACTIONS:
+- Minimalist 2D chalkboard animation: condemned duplex drawn in harsh, broken white chalk lines on green board
+- Boarded windows sketched with rough strokes, sagging porch rendered in uneven lines
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- chalk scratching on board surface
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 74: Trust — Build Up [09:44–09:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Chalkboard texture background
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- three years
+
+ACTIONS:
+- Minimalist 2D chalkboard animation: chalk-drawn checkbook center frame on green board
+- Hand writing numbers in deliberate white chalk strokes, forming '$38,000' with careful precision
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- pen scratching paper, chalk tapping board
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 75: Trust — Build Up [09:52–10:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Bodies lean forward in shared labor
+
+ACTIONS:
+- Minimalist 2D chalkboard animation: two chalk-drawn figures ripping carpet, rough energetic white strokes on green board
+- One figure smaller (son), one larger (mother), working side by side
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- carpet tearing, footsteps on wooden porch
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 76: Trust — Deep [10:00–10:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Chalkboard texture background with teal accent in the circled number
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Six months
+
+ACTIONS:
+- Minimalist 2D chalkboard animation: chalk-drawn bank statement center frame on green board
+- Number '$127,000' circled in clean, triumphant white chalk strokes
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- pen circling paper, chalk tapping board firmly
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 77: Anticipation — Deep [10:08–10:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Chalkboard texture background with amber accent in the eyes
+
+ACTIONS:
+- Minimalist 2D chalkboard animation: son's chalk face looking forward on green board, mouth forming 'What's next?' in white chalk
+- Hand-drawn style with eager, forward-leaning posture visible in the angle of the head and shoulders
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- breath intake, chalk scratching forming letters
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 78: Trust — Deep [10:16–10:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Chalkboard texture background
+
+ACTIONS:
+- Minimalist 2D chalkboard animation: six building outlines sketched across green board in white chalk, arranged in expanding composition
+- Hand-drawn style showing growth through increasing complexity
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- chalk drawing multiple lines rapidly, paper shuffling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 79: Trust — Deep [10:24–10:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Chalkboard texture background
+
+ACTIONS:
+- Minimalist 2D chalkboard animation: son's hands on chalk-drawn contracts, calculator, and inspection reports spread across green board
+- Hand-drawn style with confident, precise white chalk strokes showing competence
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- calculator keys clicking, paper sliding on desk
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 80: Trust — Deep [10:32–10:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Chalkboard texture background
+
+ACTIONS:
+- Minimalist 2D chalkboard animation: three chalk figures at table on green board—mother, son, and new partner Ray
+- Handshake suggested between two figures, business documents sketched between them in white chalk
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- hands shaking, paper sliding across table
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 81: Trust — Deep [10:40–10:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Authoritative Bloomberg-style lighting at 3700K with teal accent
+
+ACTIONS:
+- Chalk-drawn laptop screen on green chalkboard, white chalk cursor hovering over digital bank account interface
+- Rough sketch lines form the laptop frame and screen elements, chalkboard texture visible through lighter strokes
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- keyboard keys clicking, mouse clicking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 82: Trust — Deep [10:48–10:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Authoritative Bloomberg-style lighting at 3700K with teal accent
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- nine years
+
+ACTIONS:
+- Chalk-drawn bank account screen on green chalkboard, balance line showing zero in harsh white chalk
+- Sharp, jagged strokes convey shock of total loss
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- eraser scraping chalkboard, chalk snapping
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 83: Trust — Deep [10:56–11:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Authoritative Bloomberg-style lighting at 3700K with teal accent
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- nine years
+
+ACTIONS:
+- Chalk-drawn list of seven properties on green chalkboard, white chalk dollar signs beside each address
+- Hand enters frame with eraser, harsh diagonal strokes cross out each line
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- eraser scraping chalkboard repeatedly, chalk dust falling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 84: Fear — Deep [11:04–11:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The silence of betrayal rendered visible through negative space
+
+ACTIONS:
+- Chalk-drawn disconnected phone icon on green chalkboard, white chalk X drawn over handset
+- Minimal strokes, maximum emptiness
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- phone line disconnecting tone, dial tone buzzing
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 85: Trust — Deep [11:12–11:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Authoritative Bloomberg-style lighting at 3700K with teal accent
+
+ACTIONS:
+- Chalk-drawn car interior on green chalkboard, figure slumped over steering wheel in white chalk
+- Smudged lines suggest time passing, dashboard clock hands moving slowly forward through rough sketch animation
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- car engine idling, clock ticking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 86: Trust — Deep [11:20–11:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Authoritative Bloomberg-style lighting at 3700K with teal accent
+
+ACTIONS:
+- Chalk-drawn car interior on green chalkboard, car door opening in rough sketch animation
+- Second figure entering frame with gentle chalk strokes, contrasting with mother's heavy, smudged posture at steering wheel
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- car door opening, fabric rustling on seat
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 87: Trust — Deep [11:28–11:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Authoritative Bloomberg-style lighting at 3700K with teal accent
+
+ACTIONS:
+- Two chalk-drawn faces in profile on green chalkboard, facing each other across car interior
+- Simple white chalk lines, son's expression calm and determined, mother's face showing exhaustion
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- breathing, fabric shifting
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 88: Trust — Deep [11:36–11:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Authoritative Bloomberg-style lighting at 3700K with teal accent
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Twenty-one years
+
+ACTIONS:
+- Close-up chalk-drawn face of twenty-one-year-old son on green chalkboard, white chalk rendering with care and detail
+- Rough sketch lines convey youth and determination, eyes forward, expression resolute
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- pen tapping dashboard, paper rustling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 89: Trust — Deep [11:44–11:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Minimalist kitchen environment sketched in background, soft chalk smudging for depth, emotional atmosphere of quiet trust
+
+ACTIONS:
+- Chalk-drawn hands holding a folder on green chalkboard, white chalk lines, rough sketch style
+- Hands steady, fingers gently gripping document edges, posture calm and purposeful
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- paper rustling against table
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 90: Sadness — Deep [11:52–12:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Low-key lighting effect through chalk density variation, muted tones, deep shadows
+
+ACTIONS:
+- Split chalkboard composition: left side shows chalk-drawn figure with head bowed, shoulders slumped, rough erased areas suggesting grief
+- Right side shows figure hunched over desk with papers, active sketching motion lines
+- White chalk on green board, hand-drawn style with contrasting energy—static vs
+
+CAMERA:
+Close-up | Zoom out
+
+AUDIO:
+- chalk scratching on board
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 91: Trust — Deep [12:00–12:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Hand-drawn style with confident, purposeful strokes, emotional atmosphere of hope and ambition
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- six months
+- fifteen years
+
+ACTIONS:
+- Chalk-drawn architectural sketch on green chalkboard: multi-story building with labeled sections—'Affordable Units' at top, 'Retail' at bottom, 'Community Space' in middle
+- White chalk lines, rough perspective drawing, trees and pathways sketched around building
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- pen scratching paper
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 92: Trust — Deep [12:08–12:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Chalk-drawn aerial view of community development on green chalkboard: multiple buildings arranged in neighborhood grid, white chalk lines showing streets, green spaces sketched with rough texture, perspective lines converging
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- six months
+- fifteen years
+
+ACTIONS:
+- Chalk-drawn aerial view of community development on green chalkboard: multiple buildings arranged in neighborhood grid, white chalk lines showing streets, green spaces sketched with rough texture, perspective lines converging
+- Hand-drawn style with expansive scope, rough sketch aesthetic, emotional atmosphere of possibility
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- ruler sliding across paper
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 93: Trust — Deep [12:16–12:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Chalk-drawn detail of building plan on green chalkboard: labels reading 'Affordable Units—120,' 'Community Center—3,500 sq ft,' white chalk text and arrows, rough sketch lines showing floor layouts
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- six months
+- fifteen years
+
+ACTIONS:
+- Chalk-drawn detail of building plan on green chalkboard: labels reading 'Affordable Units—120,' 'Community Center—3,500 sq ft,' white chalk text and arrows, rough sketch lines showing floor layouts
+- Hand-drawn style with careful, intentional strokes, emotional atmosphere of social purpose
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- pen tapping on paper
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 94: Trust — Deep [12:24–12:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Minimalist domestic setting, soft chalk shading for table edges, chalkboard texture visible
+
+ACTIONS:
+- Chalk-drawn kitchen table on green chalkboard: rectangular table surface with document laid flat in center, two chairs sketched on opposite sides
+- White chalk lines, rough hand-drawn style, emotional atmosphere of cyclical return and recognition
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- paper sliding on wood
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 95: Trust — Deep [12:32–12:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Hand-drawn style, rough sketch aesthetic, emotional atmosphere of legitimacy and thoroughness
+
+ACTIONS:
+- Chalk-drawn spreadsheet and meeting sketches on green chalkboard: columns of numbers aligned in grid, small figures seated in circle representing community meeting, white chalk lines with confident strokes
+- Hand-drawn style, rough sketch aesthetic, emotional atmosphere of legitimacy and thoroughness
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- calculator keys clicking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 96: Trust — Deep [12:40–12:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Chalk-drawn empty box labeled 'Track Record' on green chalkboard, white chalk outline with question mark inside, rough sketch style
+
+ACTIONS:
+- Chalk-drawn empty box labeled 'Track Record' on green chalkboard, white chalk outline with question mark inside, rough sketch style
+- Adjacent puzzle pieces drawn with one piece missing, emotional atmosphere of honest acknowledgment without defeat
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- eraser rubbing on paper
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 97: Trust — Deep [12:48–12:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Soft chalk strokes on green board, hand-drawn style, emotional atmosphere of quiet certainty
+
+ACTIONS:
+- Minimalist 2D chalkboard animation: white chalk-drawn face of a young man, slight smile, calm confident expression, eyes steady and knowing
+- Rough sketch lines suggest he's already thought this through
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- chalk tapping board softly
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 98: Trust — Deep [12:56–13:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Hand-drawn style, chalkboard texture background
+
+ACTIONS:
+- Minimalist 2D chalkboard animation: white chalk-drawn face of a woman, eyes widening slightly, realization dawning
+- Softer chalk lines, rough sketch style on green board, emotional atmosphere of understanding
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- chalk scratching board gently
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 99: Trust — Deep [13:04–13:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Chalkboard texture background, emotional atmosphere of stability
+
+ACTIONS:
+- Minimalist 2D chalkboard animation: white chalk drawing of duplex building on green board, address '43rd and Paulina' labeled above
+- Solid, deliberate chalk strokes, rough sketch lines, hand-drawn style
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- chalk drawing building outline
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 100: Trust — Deep [13:12–13:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Chalkboard texture background
+
+ACTIONS:
+- Minimalist 2D chalkboard animation: white chalk duplex building connected by arrow to development plan sketch
+- Simple, decisive chalk stroke drawing the arrow
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- chalk drawing arrow connecting shapes
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 101: Anticipation — Deep [13:20–13:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm amber-lit chalkboard surface, dramatic side lighting casting soft shadows across rough chalk lines, unresolved tension in incomplete drawings
+
+ACTIONS:
+- White chalk hand sketching blueprints on green chalkboard, deliberate strokes building structure, fingers steady and methodical
+- Hand draws rectangular floor plans with patient precision, each line placed without hesitation, rough sketch texture accumulating
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- chalk scratching board, rhythmic drawing strokes
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 102: Anticipation — Deep [13:28–13:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm amber-lit chalkboard texture, dramatic side lighting creating depth in layered chalk marks, suspended tension in growing stacks
+
+ACTIONS:
+- White chalk hand stacking simple rectangular document shapes on green chalkboard, patient repetition of forms
+- Hand draws one rectangle
+- Another beside it
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- chalk tapping board, repetitive drawing rhythm
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 103: Trust — Deep [13:36–13:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Chalkboard texture background, teal accent lighting
+
+ACTIONS:
+- Minimalist 2D chalkboard animation: white chalk number '26' drawn bold on green board
+- Building silhouettes emerging beside it
+- South Side skyline sketch, rough sketch lines, hand-drawn style
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- chalk drawing number and buildings
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 104: Trust — Deep [13:44–13:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Chalkboard texture background, teal accent lighting
+
+ACTIONS:
+- Minimalist 2D chalkboard animation: white chalk numbers '$200M' written large on green board
+- Community buildings sketched around it
+- Rough architectural outlines, hand-drawn style, emotional atmosphere of achievement
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- chalk writing numbers and drawing buildings
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 105: Trust — Deep [13:52–14:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+White chalk sketch of expanding cityscape on green chalkboard, rough hand-drawn building outlines spreading outward from center, blueprints unrolling beneath hard hat, emotional atmosphere of quiet achievement
+
+ACTIONS:
+- White chalk sketch of expanding cityscape on green chalkboard, rough hand-drawn building outlines spreading outward from center, blueprints unrolling beneath hard hat, emotional atmosphere of quiet achievement
+- Multiple structures emerge in deliberate strokes, chalkboard texture visible, Forbes magazine layout sketched in corner
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- paper unrolling, chalk scratching board
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 106: Trust — Deep [14:00–14:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Rough sketch style, chalkboard texture background, teal accent in minimal shading
+
+ACTIONS:
+- White chalk profile of James on green chalkboard, simple hand-drawn lines forming face and shoulders, one arm raised in reassuring gesture, soft deliberate strokes, emotional atmosphere of calm authority
+- Rough sketch style, chalkboard texture background, teal accent in minimal shading
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- chalk tapping board, hand brushing surface
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 107: Trust — Deep [14:08–14:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+White chalk calendar pages flipping on green chalkboard, rough sketch marks showing sequential dates, hand-drawn page corners curling, one date circled with deliberate strokes, emotional atmosphere of building anticipation
+
+ACTIONS:
+- White chalk calendar pages flipping on green chalkboard, rough sketch marks showing sequential dates, hand-drawn page corners curling, one date circled with deliberate strokes, emotional atmosphere of building anticipation
+- Chalkboard texture visible, minimal smudging between pages
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- paper flipping, chalk circling date
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 108: Trust — Deep [14:16–14:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Hand-drawn rough sketch style, chalkboard texture background
+
+ACTIONS:
+- White chalk ballroom interior on green chalkboard, vertical lines converging upward to high ceiling, simple circular chandeliers suspended, vast empty space emphasized by minimal strokes, emotional atmosphere of grandeur and distance
+- Hand-drawn rough sketch style, chalkboard texture background
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- chalk drawing long vertical lines, hand sweeping across board
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 109: Trust — Deep [14:24–14:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+White chalk perspective from floor looking upward on green chalkboard, converging vertical lines emphasizing height, ceiling vanishing point at top, emotional atmosphere of scale and awe
+
+ACTIONS:
+- White chalk perspective from floor looking upward on green chalkboard, converging vertical lines emphasizing height, ceiling vanishing point at top, emotional atmosphere of scale and awe
+- Rough hand-drawn strokes, chalkboard texture visible, teal accent in corner shading
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- chalk scraping upward, hand tapping board edge
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 110: Trust — Deep [14:32–14:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Rough sketch lines, chalkboard texture background, first luxury item rendered with deliberate strokes
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- three years
+
+ACTIONS:
+- White chalk sketch of dress on hanger on green chalkboard, simple hand-drawn outline, price tag dangling with visible numbers, emotional atmosphere of quiet significance
+- Rough sketch lines, chalkboard texture background, first luxury item rendered with deliberate strokes
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- chalk drawing fabric folds, tag swinging on string
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 111: Trust — Deep [14:40–14:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The chalkboard texture remains visible, with rough sketch lines defining the scene
+
+ACTIONS:
+- White chalk-drawn figure seated at a simple table, posture upright and attentive, hands resting gently on surface, face turned slightly toward an emerging second figure
+- The first figure's lines are clear and confident, suggesting calm focus
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- chalk tapping on board surface
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 112: Trust — Deep [14:48–14:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Hand-drawn rough sketch style, chalkboard texture background, room lines radiating from her position
+
+ACTIONS:
+- White chalk Eleanor seated in third row on green chalkboard, pearl earrings as small precise circles, charcoal dress rendered in sharp deliberate lines, posture upright and centered, emotional atmosphere of composed authority
+- Hand-drawn rough sketch style, chalkboard texture background, room lines radiating from her position
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- chalk drawing precise circles, hand sketching sharp lines
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 113: Trust — Deep [14:56–15:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Soft chalkboard texture background, warm fluorescent glow suggested by lighter chalk shading around figure, intimate quiet space
+
+ACTIONS:
+- White chalk outline of a human torso on green chalkboard, hand-drawn with rough sketch lines, gentle radiating lines emanating from chest area suggesting subtle internal sensation
+- Chalk hand slowly draws soft wavy lines outward from heart region, delicate and measured strokes, no agitation
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- chalk scratching board, soft continuous strokes
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 114: Trust — Deep [15:04–15:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Minimalist 2D chalkboard animation: large white chalk number '19' drawn boldly at center of green board, then partially erased with rough hand motions, redrawn with heavier pressure, years compressed into single visual moment, rough sketch lines showing temporal weight, hand-drawn style with emotional atmosphere of time passing, chalkboard texture background
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- nineteen years
+
+ACTIONS:
+- Minimalist 2D chalkboard animation: large white chalk number '19' drawn boldly at center of green board
+- Partially erased with rough hand motions, redrawn with heavier pressure, years compressed into single visual moment, rough sketch lines showing temporal weight, hand-drawn style with emotional atmosphere of time passing, chalkboard texture background
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- chalk tapping board repeatedly, eraser rubbing surface
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 115: Trust — Deep [15:12–15:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Minimalist 2D chalkboard animation: white chalk thought bubble drawn with tense angular lines on green board, inside the bubble a protective gesture sketched—outstretched hand with fingers spread defensively, rough sketch style conveying maternal fear, emotional atmosphere through agitated line work, hand-drawn with chalkboard texture visible
+
+ACTIONS:
+- Minimalist 2D chalkboard animation: white chalk thought bubble drawn with tense angular lines on green board, inside the bubble a protective gesture sketched—outstretched hand with fingers spread defensively, rough sketch style conveying maternal fear, emotional atmosphere through agitated line work, hand-drawn with chalkboard texture visible
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- chalk drawing rapid short strokes
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 116: Trust — Deep [15:20–15:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Minimalist 2D chalkboard animation: white chalk audience figures drawn as simple silhouettes all facing forward toward center of green board, podium sketched at focal point with deliberate empty space around it, stillness conveyed through minimal line work, rough sketch style with emotional atmosphere of anticipation, hand-drawn with chalkboard texture background
+
+ACTIONS:
+- Minimalist 2D chalkboard animation: white chalk audience figures drawn as simple silhouettes all facing forward toward center of green board, podium sketched at focal point with deliberate empty space around it, stillness conveyed through minimal line work, rough sketch style with emotional atmosphere of anticipation, hand-drawn with chalkboard texture background
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- single chalk line drawn slowly across board
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 117: Trust — Deep [15:28–15:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Minimalist 2D chalkboard animation: white chalk figure at podium on green board, large quotation marks drawn around the space where words would appear, bold confident strokes forming the speaker's posture, rough sketch lines conveying authority, hand-drawn style with emotional atmosphere of declaration, chalkboard texture visible throughout
+
+ACTIONS:
+- Minimalist 2D chalkboard animation: white chalk figure at podium on green board, large quotation marks drawn around the space where words would appear, bold confident strokes forming the speaker's posture, rough sketch lines conveying authority, hand-drawn style with emotional atmosphere of declaration, chalkboard texture visible throughout
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- chalk drawing bold continuous line
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 118: Trust — Deep [15:36–15:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Minimalist 2D chalkboard animation: two white chalk faces drawn across distance on green board, one in lower portion (fourth row) one elevated (podium), single unbroken eye-line drawn as straight chalk line connecting them, rough sketch style with emotional weight in the connection, hand-drawn with chalkboard texture background
+
+ACTIONS:
+- Minimalist 2D chalkboard animation: two white chalk faces drawn across distance on green board, one in lower portion (fourth row) one elevated (podium), single unbroken eye-line drawn as straight chalk line connecting them, rough sketch style with emotional weight in the connection, hand-drawn with chalkboard texture background
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- chalk drawing single sustained line across board
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 119: Trust — Deep [15:44–15:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Minimalist 2D chalkboard animation: white chalk silhouette of young woman on green board, number '26' drawn beside her head, double shift visualized through overlapping figure outlines suggesting exhaustion, heavy rough sketch lines conveying weight of fatigue, hand-drawn style with emotional atmosphere of struggle, chalkboard texture visible
+
+ACTIONS:
+- Minimalist 2D chalkboard animation: white chalk silhouette of young woman on green board, number '26' drawn beside her head, double shift visualized through overlapping figure outlines suggesting exhaustion, heavy rough sketch lines conveying weight of fatigue, hand-drawn style with emotional atmosphere of struggle, chalkboard texture visible
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- chalk scratching board in heavy deliberate strokes
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 120: Trust — Deep [15:52–16:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Minimalist 2D chalkboard animation: white chalk ballroom scene on green board, multiple simple figure outlines all frozen mid-gesture, stillness visualized through complete absence of motion lines, silence conveyed through deliberate empty space between figures, rough sketch style with emotional atmosphere of held breath, hand-drawn with chalkboard texture background
+
+ACTIONS:
+- Minimalist 2D chalkboard animation: white chalk ballroom scene on green board, multiple simple figure outlines all frozen mid-gesture, stillness visualized through complete absence of motion lines, silence conveyed through deliberate empty space between figures, rough sketch style with emotional atmosphere of held breath, hand-drawn with chalkboard texture background
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- single chalk tap on board
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 121: Trust — Deep [16:00–16:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Hand-drawn style, emotional atmosphere, chalkboard texture background visible
+
+ACTIONS:
+- Minimalist 2D chalkboard animation: white chalk drawing on green board, rough sketch lines
+- Courtroom table drawn in center frame, single figure seated alone on left side, opposing side crowded with overlapping silhouettes of multiple figures
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- chalk scratching on board, eraser rubbing surface
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 122: Trust — Deep [16:08–16:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Rough sketch lines, emotional atmosphere, chalkboard texture background
+
+ACTIONS:
+- Minimalist 2D chalkboard animation: white chalk drawing on green board, hand-drawn style
+- Two faces in profile, mother and son, overlapping slightly at the edges, drawn with soft, deliberate chalk strokes
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- chalk tapping on board, soft eraser dusting
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 123: Trust — Deep [16:16–16:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Hand-drawn style, emotional atmosphere, chalkboard texture background visible
+
+ACTIONS:
+- Minimalist 2D chalkboard animation: white chalk drawing on green board, rough sketch lines
+- Empty podium drawn center frame, spotlight suggested by radiating chalk lines emanating outward
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- eraser rubbing board, chalk dust falling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 124: Trust — Deep [16:24–16:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Rough sketch lines, emotional atmosphere, chalkboard texture background
+
+ACTIONS:
+- Minimalist 2D chalkboard animation: white chalk drawing on green board, hand-drawn style
+- Chalk portrait of a single speaker, centered, facing forward
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- chalk drawing continuous line, light tapping on board
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 125: Trust — Deep [16:32–16:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Hand-drawn style, emotional atmosphere, chalkboard texture background
+
+ACTIONS:
+- Minimalist 2D chalkboard animation: white chalk drawing on green board, rough sketch lines
+- Chalk-drawn hands clapping, starting with one pair at bottom of frame
+- Multiplying upward—two pairs, four pairs, eight pairs—building density and energy through repetition
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- chalk scratching rapidly, multiple strokes overlapping
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 126: Joy — Deep [16:40–16:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Rough sketch lines, emotional atmosphere, chalkboard texture background
+
+ACTIONS:
+- Minimalist 2D chalkboard animation: white chalk drawing on green board, hand-drawn style
+- Overhead chalk sketch of round tables scattered across frame, champagne glasses drawn as simple circles, scattered figures suggested by quick, light strokes
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- chalk tapping glasses, light scratching on board
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 127: Trust — Deep [16:48–16:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Hand-drawn style, emotional atmosphere, chalkboard texture background visible
+
+ACTIONS:
+- Minimalist 2D chalkboard animation: white chalk drawing on green board, rough sketch lines
+- Chalk-drawn window frame in center, city skyline beyond suggested by simple geometric shapes
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- chalk smudging on board, soft eraser brushing
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 128: Trust — Deep [16:56–17:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Rough sketch lines, emotional atmosphere, chalkboard texture background
+
+ACTIONS:
+- Minimalist 2D chalkboard animation: white chalk drawing on green board, hand-drawn style
+- Chalk-drawn ear and partial profile of face, sound waves suggested by faint curved lines radiating toward the ear
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- chalk drawing curved lines, light tapping on board
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 129: Trust — Deep [17:04–17:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Background figures smudged into soft blur
+
+ACTIONS:
+- Two chalk-drawn figures face each other, three feet apart, posture rigid and controlled
+- One figure holds a champagne flute, untouched, arm perfectly still
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- champagne glass clinking against table edge
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 130: Trust — Deep [17:12–17:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Chalkboard texture background, rough sketch aesthetic, white chalk on green board
+
+ACTIONS:
+- Close-up chalk drawing of champagne flute, untouched, held perfectly still in drawn hand
+- Background figures heavily smudged, focus sharp on the glass
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- fabric rustling against fabric
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 131: Trust — Deep [17:20–17:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Chalkboard texture visible, rough sketch lines, white chalk on green board
+
+ACTIONS:
+- Chalk-drawn mouth speaking, smile lines too perfect, too rehearsed
+- The words 'He's extraordinary
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- pen scratching paper
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 132: Trust — Deep [17:28–17:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Chalkboard texture background, rough sketch aesthetic, white chalk on green board
+
+ACTIONS:
+- Chalk-drawn hand gesturing, open palm extended forward
+- The word 'discussing' sketched nearby in rough script
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- hand brushing against fabric
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 133: Trust — Deep [17:36–17:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Chalkboard texture visible, rough sketch lines, white chalk on green board
+
+ACTIONS:
+- Chalk figure pausing mid-gesture
+- Erased and redrawn slightly to the side
+- Visual stutter made visible through overlapping sketch lines, ghosted previous position still faintly visible
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- eraser rubbing against chalkboard
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 134: Trust — Deep [17:44–17:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Chalkboard texture background, rough sketch aesthetic, white chalk on green board
+
+ACTIONS:
+- Chalk-drawn hand extended forward, palm up, fingers open in invitation
+- The word 'family' sketched above it in sharp, deliberate script
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- fingertips tapping together
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 135: Trust — Deep [17:52–18:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The simplicity of recognition, the weight of nineteen years compressed into one word
+
+ACTIONS:
+- Single chalk word on green board: 'There.' Underlined twice with rough, deliberate strokes
+- The simplicity of recognition, the weight of nineteen years compressed into one word
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- chalk tapping against board
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 136: Trust — Deep [18:00–18:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Rough sketch lines, white chalk on green board, chalkboard texture background
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Nineteen years
+
+ACTIONS:
+- Chalk timeline drawn horizontally: nineteen years of blank space
+- Sudden cluster of words at the end: 'we,' 'family,' 'together.' The erasure made visible through empty space
+- Rough sketch lines, white chalk on green board, chalkboard texture background
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- chalk scratching long line across board
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 137: Trust — Deep [18:08–18:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+[Scene environment — fill in]
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- eleven months
+
+ACTIONS:
+- [Character actions — fill in]
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- quiet focused space, minimal room tone, clean silence
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 138: Trust — Deep [18:16–18:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+[Scene environment — fill in]
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- eleven months
+
+ACTIONS:
+- [Character actions — fill in]
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- quiet focused space, minimal room tone, clean silence
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 139: Trust — Deep [18:24–18:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+[Scene environment — fill in]
+
+ACTIONS:
+- [Character actions — fill in]
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- quiet focused space, minimal room tone, clean silence
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 140: Trust — Deep [18:32–18:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+[Scene environment — fill in]
+
+ACTIONS:
+- [Character actions — fill in]
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- quiet focused space, minimal room tone, clean silence
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 141: Trust — Deep [18:40–18:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+[Scene environment — fill in]
+
+ACTIONS:
+- [Character actions — fill in]
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- quiet focused space, minimal room tone, clean silence
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 142: Trust — Deep [18:48–18:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+[Scene environment — fill in]
+
+ACTIONS:
+- [Character actions — fill in]
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- quiet focused space, minimal room tone, clean silence
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 143: Trust — Deep [18:56–19:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+[Scene environment — fill in]
+
+ACTIONS:
+- [Character actions — fill in]
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- quiet focused space, minimal room tone, clean silence
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 144: Trust — Deep [19:04–19:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+[Scene environment — fill in]
+
+ACTIONS:
+- [Character actions — fill in]
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- quiet focused space, minimal room tone, clean silence
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 145: Trust — Deep [19:12–19:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Minimalist 2D chalkboard animation style, rough sketch lines on green board texture, deliberate strokes forming questioning posture
+
+ACTIONS:
+- White chalk-drawn figure seated at table, posture upright and attentive, hands resting flat on surface suggesting openness
+- Rectangular shapes sketched beside figure representing documents or papers
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- paper rustling on table
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 146: Trust — Deep [19:20–19:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Minimalist 2D chalkboard animation, rough sketch lines on green board, deliberate strokes showing armor going up
+
+ACTIONS:
+- White chalk figure straightening posture, shoulders squaring, hands repositioning into formal gesture
+- Lines become more rigid and controlled, suggesting shift from casual to businesslike register
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- fabric shifting, chair creaking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 147: Trust — Deep [19:28–19:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Minimalist 2D chalkboard animation, white chalk on green board, rough sketch lines, silence dominating composition through negative space
+
+ACTIONS:
+- Empty space between two chalk-drawn figures, faint word marks floating in air between them dissolving into background
+- Minimalist 2D chalkboard animation, white chalk on green board, rough sketch lines, silence dominating composition through negative space
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- clock ticking distantly
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 148: Trust — Deep [19:36–19:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Minimalist 2D chalkboard animation, rough sketch lines on green board, sharp strokes showing intentional movement
+
+ACTIONS:
+- White chalk-drawn hand reaching into jacket, pulling out rectangular phone shape, turning device toward viewer
+- Screen suggested by simple rectangle, deliberate accusatory gesture
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- phone sliding from pocket, fabric rustling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 149: Trust — Deep [19:44–19:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+White chalk-drawn legal document pages filling frame, horizontal text lines suggested by parallel strokes, figure's hand holding papers at edge of composition
+
+ACTIONS:
+- White chalk-drawn legal document pages filling frame, horizontal text lines suggested by parallel strokes, figure's hand holding papers at edge of composition
+- Minimalist 2D chalkboard animation, rough sketch lines on green board, public record made visible and undeniable through stark presentation
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- paper pages turning, document rustling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 150: Trust — Deep [19:52–20:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Minimalist 2D chalkboard animation, rough sketch lines on green board, confrontation through citation
+
+ACTIONS:
+- White chalk-drawn document text filling frame, one line emphasized with heavier strokes or underline, figure's eyes suggested at edge looking directly forward without breaking gaze
+- Minimalist 2D chalkboard animation, rough sketch lines on green board, confrontation through citation
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- finger tapping on paper, breath exhaling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 151: Trust — Payoff [20:00–20:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Minimalist 2D chalkboard animation, rough sketch lines on green board, testimony made visible through careful placement
+
+ACTIONS:
+- White chalk-drawn document text, words forming in deliberate sequence: 'emotional instability, financial inadequacy, inability to provide stable environment.' Heavy chalk strokes, each phrase weighted
+- Minimalist 2D chalkboard animation, rough sketch lines on green board, testimony made visible through careful placement
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- pen scratching paper, document sliding on table
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 152: Trust — Payoff [20:08–20:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Minimalist 2D chalkboard animation, rough sketch lines on green board, visual rhythm of careful damning placement
+
+ACTIONS:
+- White chalk-drawn words forming one at a time with deliberate spacing: 'emotional instability
+- Financial inadequacy
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- chalk tapping on board, hand brushing surface
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 153: Trust — Payoff [20:16–20:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Hand-drawn arrows connecting the scenes
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- fourteen months
+- thirty minutes
+
+ACTIONS:
+- White chalk drawing on green chalkboard: split timeline composition
+- Left side: rough sketch of hospital cafeteria table, two seated figures facing each other, fluorescent overhead lines suggesting institutional space
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- chalk tapping board twice, paper rustling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 154: Trust — Payoff [20:24–20:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Hand-drawn lines emphasizing cramped space and sacrifice
+
+ACTIONS:
+- White chalk drawing on green chalkboard: exhausted figure in hospital scrubs, shoulders slumped, posture conveying fatigue
+- Two clock faces drawn above showing overlapping shift times
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- pages turning slowly, pen scratching paper
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 155: Trust — Payoff [20:32–20:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Small apartment layout visible in background with sleeping infant in crib
+
+ACTIONS:
+- White chalk drawing on green chalkboard: same exhausted figure from previous frame, now with open certification books drawn in foreground
+- Hand sketching notes on one book
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- clock ticking softly, paper sliding on table
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 156: Trust — Payoff [20:40–20:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Background minimal, focus entirely on the moment of choice
+
+ACTIONS:
+- White chalk drawing on green chalkboard: woman's face in profile, eyes calculating, expression neutral but tense
+- Rough sketch lines suggesting internal deliberation
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- pen clicking twice, fabric shifting
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 157: Trust — Payoff [20:48–20:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Minimalist 2D chalkboard animation style, hand-drawn emotional atmosphere, rough sketch lines
+
+ACTIONS:
+- White chalk-drawn family crest on green chalkboard, ornate shield with 'WHITMORE' banner, beside it a small child figure sketched in rough lines, separated by a thick chalk X crossing out the child
+- Hand enters frame holding chalk, underlining the crest with deliberate strokes, emphasizing protection of legacy over person
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- chalk scraping board, soft tapping
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 158: Trust — Payoff [20:56–21:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Background minimal, focus on the physical change in demeanor signaling new strategy
+
+ACTIONS:
+- White chalk drawing on green chalkboard: woman's figure, posture softening slightly from previous rigid stance
+- Shoulders lowering, head tilting in calculated gentleness
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- fabric rustling softly, breath exhaling slowly
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 159: Trust — Payoff [21:04–21:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Emotional atmosphere of rationalization through organized, persuasive chalk composition
+
+ACTIONS:
+- White chalk drawing on green chalkboard: hand-drawn buildings representing institutions, dollar signs, network of connecting lines suggesting resources and connections
+- Woman's chalk-drawn hand gesturing toward these symbols in offering motion
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- paper sliding across table, pen tapping twice
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 160: Trust — Payoff [21:12–21:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Emotional atmosphere of quiet authority through clean, decisive chalk strokes
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- four years
+
+ACTIONS:
+- White chalk drawing on green chalkboard: absent father figure drawn as outline only, hollow and empty
+- Custody document sketched beside the outline
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- phone sliding into fabric pocket, paper settling on surface
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 161: Trust — Payoff [21:20–21:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Hand-drawn minimalist style, emotional atmosphere of quiet resolution, chalkboard texture visible throughout
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- four years
+
+ACTIONS:
+- Chalk-drawn hand sliding phone into jacket pocket on green chalkboard, deliberate final gesture rendered in confident white strokes, rough sketch lines showing fabric folds and decisive movement
+- Hand-drawn minimalist style, emotional atmosphere of quiet resolution, chalkboard texture visible throughout
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- fabric rustling, phone sliding into pocket
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 162: Trust — Payoff [21:28–21:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Minimalist 2D chalkboard animation style, hand-drawn with chalkboard texture background, intimate atmosphere of suspended response
+
+ACTIONS:
+- Chalk-drawn mouth opening mid-breath on green chalkboard, hesitant white sketch lines suggesting words forming but not emerging, rough emotional strokes capturing the moment before speech
+- Minimalist 2D chalkboard animation style, hand-drawn with chalkboard texture background, intimate atmosphere of suspended response
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- breath intake, lips parting
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 163: Trust — Payoff [21:36–21:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Minimalist 2D hand-drawn style, emotional atmosphere of protective remembrance, chalkboard texture visible
+
+ACTIONS:
+- James's chalk silhouette speaking in foreground, mother's smaller figure sketched faintly behind him in protective overlapping composition on green chalkboard, white rough sketch lines showing posture of defense and memory
+- Minimalist 2D hand-drawn style, emotional atmosphere of protective remembrance, chalkboard texture visible
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- chalk scratching board, hand brushing surface
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 164: Trust — Payoff [21:44–21:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Minimalist 2D chalkboard animation, hand-drawn emotional atmosphere of quiet certainty, chalkboard texture background
+
+ACTIONS:
+- Chalk-drawn eyes rendered in simple direct white lines on green chalkboard, steady gaze holding without aggression or apology, no smudging, rough sketch style conveying unwavering focus
+- Minimalist 2D chalkboard animation, hand-drawn emotional atmosphere of quiet certainty, chalkboard texture background
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- pen tapping table, paper rustling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 165: Trust — Payoff [21:52–22:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Minimalist 2D chalkboard animation style, emotional atmosphere of deliberate negation, chalkboard texture visible
+
+ACTIONS:
+- Chalk text fragments floating on green chalkboard: 'Whitmore money,' 'Whitmore connections,' each crossed out with single decisive white strokes, rough hand-drawn lines showing erasure and rejection
+- Minimalist 2D chalkboard animation style, emotional atmosphere of deliberate negation, chalkboard texture visible
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- chalk striking board, erasing sounds
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 166: Trust — Payoff [22:00–22:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Minimalist 2D hand-drawn style, emotional atmosphere of grounding support, chalkboard texture background visible
+
+ACTIONS:
+- Chalk hand resting on shoulder from behind on green chalkboard, warm solid pressure conveyed through confident complete white strokes, rough sketch lines showing weight and connection
+- Minimalist 2D hand-drawn style, emotional atmosphere of grounding support, chalkboard texture background visible
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- hand settling on fabric, clothing shifting
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 167: Trust — Payoff [22:08–22:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Minimalist 2D chalkboard animation, hand-drawn emotional atmosphere of frozen composure, chalkboard texture visible
+
+ACTIONS:
+- Eleanor's chalk silhouette rigid on green chalkboard, champagne glass and pearls rendered with trembling uncertain white lines suggesting internal collapse, rough sketch style showing stillness masking turmoil
+- Minimalist 2D chalkboard animation, hand-drawn emotional atmosphere of frozen composure, chalkboard texture visible
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- glass trembling, pearls clicking together
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 168: Trust — Payoff [22:16–22:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Minimalist 2D hand-drawn style, emotional atmosphere of quiet dismissal, chalkboard texture background visible
+
+ACTIONS:
+- James's chalk figure turning on green chalkboard, Eleanor's form receding into background smudge, gentle pivot rendered in white rough sketch lines showing deliberate redirection not drama
+- Minimalist 2D hand-drawn style, emotional atmosphere of quiet dismissal, chalkboard texture background visible
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- footstep pivoting, clothing rustling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 169: Trust — Payoff [22:24–22:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm final revealing light at 4000K bathes the chalkboard surface
+
+ACTIONS:
+- White chalk sketch on green chalkboard: narrator's eyes drawn with soft, careful strokes, gaze directed toward a small distant figure of Eleanor
+- The chalk lines are calm, factual, no anger in the strokes—just clarity
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- chalk tapping board twice
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 170: Joy — Payoff [22:32–22:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Camera pulls back to reveal the full figure standing alone, then ascends to show the empty space around her
+
+ACTIONS:
+- White chalk drawing on green chalkboard: Eleanor sketched as a simple outline with minimal detail, no facial features, just a silhouette holding a champagne glass
+- The chalk strokes are calm, factual, like sketching furniture—no emotional weight
+
+CAMERA:
+Wide | Crane
+
+AUDIO:
+- chalk scraping long stroke, eraser patting board
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 171: Trust — Payoff [22:40–22:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Rough sketch texture, gentle smudging
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- twenty years
+
+ACTIONS:
+- White chalk on green chalkboard: two separate handshake sketches side-by-side
+- Left sketch shows business partner handshake with confident strokes
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- chalk drawing two quick strokes, hand patting chalkboard gently
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 172: Trust — Payoff [22:48–22:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Rough sketch texture, chalkboard background
+
+ACTIONS:
+- White chalk on green chalkboard: a speech bubble drawn with careful, respectful strokes containing the catering manager's name in deliberate, remembered letters
+- The chalk lines are precise, each letter formed with intention
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- chalk writing letters slowly, chalk tapping period
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 173: Trust — Payoff [22:56–23:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Chalkboard texture background
+
+ACTIONS:
+- White chalk on green chalkboard: view from hallway perspective
+- A doorway frame drawn with rough sketch lines, inside the frame a distant small figure of Eleanor stands alone
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- chalk drawing doorframe lines, soft eraser brush
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 174: Trust — Payoff [23:04–23:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Empty space around her with faint outlines of other figures turned away
+
+ACTIONS:
+- White chalk on green chalkboard: Eleanor drawn at the edge of a sketched reception room, holding an untouched champagne glass
+- Simple outline figure, no facial detail
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- chalk drawing still figure, eraser patting softly
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 175: Trust — Payoff [23:12–23:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Rough sketch texture, chalkboard background
+
+ACTIONS:
+- White chalk on green chalkboard: valet's hands drawn presenting car keys with flowing, courteous strokes
+- Adjacent sketch shows James's hand opening a car door, rendered with simple, respectful gestures
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- chalk drawing flowing lines, keys jingling softly
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 176: Anticipation — Payoff [23:20–23:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The drawing expands outward, each memory layered in soft, warm chalk strokes with gentle smudging, evoking nighttime city glow and emotional release
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- four hours
+
+ACTIONS:
+- White chalk hand-drawn sketch on green chalkboard: a cafeteria table emerges stroke by stroke, two hands resting side-by-side, a tray with cold eggs rendered in simple lines
+- The frame slowly pulls back to reveal more context—a coffee cup, custody papers sketched faintly, a parking lot window fogged over in rough chalk smudges
+
+CAMERA:
+Medium | Zoom out
+
+AUDIO:
+- chalk scratching on board, soft erasing sounds
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 177: Anticipation — Payoff [23:28–23:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Chalkboard texture visible, emotional atmosphere of quiet resolution
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- four hours
+
+ACTIONS:
+- White chalk hand-drawn sketch on green chalkboard: a simple table corner with two coffee cups side by side, rough sketch lines showing steam rising from one cup
+- The hand-drawn cups sit close together, chalk strokes gaining solidity through gentle repetition
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- chalk tapping gently on board surface
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 178: Anticipation — Payoff [23:36–23:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Emotional atmosphere of quiet resolution
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- four hours
+
+ACTIONS:
+- White chalk on green chalkboard, hand-drawn minimalist style
+- Custody papers sketched as stacked rectangles with rough text lines, kitchen counter edge in foreground, a pen lying across the papers
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- paper rustling, pen rolling on counter
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 179: Trust — Payoff [23:44–23:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Emotional atmosphere of trust and quiet confirmation
+
+ACTIONS:
+- White chalk on green chalkboard, minimalist 2D animation
+- The word 'Yes' drawn large and steady in center frame, unadorned capital letters, simple declarative strokes—no flourish, no performance
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- single chalk stroke completing letter, hand lifting from board
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 180: Trust — Payoff [23:52–24:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Chalkboard texture background, emotional atmosphere of gentle epiphany
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- twenty years
+
+ACTIONS:
+- White chalk sketch on green chalkboard: dashboard drawn in rough lines, city lights as simple white dots streaming past a car window frame
+- Chalk strokes soft and smudged to suggest motion blur
+
+CAMERA:
+Medium | Zoom out
+
+AUDIO:
+- chalk dragging smoothly across board
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 181: Trust — Payoff [24:00–24:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Emotional atmosphere of letting go, victory redefined
+
+ACTIONS:
+- White chalk on green chalkboard, minimalist 2D animation
+- Ballroom sketch fading—chandelier, tables, figures—being erased with deliberate hand smudges, soft chalk dust settling
+
+CAMERA:
+Wide | Zoom out
+
+AUDIO:
+- hand smudging chalk, soft brushing sound
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 182: Trust — Payoff [24:08–24:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+City lights as blurred vertical and horizontal chalk streaks in background, soft smudging conveys motion and peace
+
+ACTIONS:
+- White chalk on green chalkboard, hand-drawn minimalist style
+- Son's hands on steering wheel, fingers relaxed, wheel turning gently
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- steering wheel creaking, turn signal clicking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 183: Trust — Payoff [24:16–24:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Emotional atmosphere of quiet trust and grounding
+
+ACTIONS:
+- White chalk on green chalkboard, minimalist 2D animation
+- Hand resting on dashboard, fingers spread, palm flat—tender chalk strokes with soft smudging around edges
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- hand settling on surface, fabric rustling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 184: Trust — Payoff [24:24–24:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Emotional atmosphere of trust and connection
+
+ACTIONS:
+- White chalk on green chalkboard, hand-drawn minimalist style
+- Chalk-drawn figure facing viewer, arms open in gesture of recognition and invitation—rough sketch lines soften at edges, suggesting warmth and shared experience
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- chalk drawing continuous line, hand lifting and returning to board
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 185: Trust — Payoff [24:32–24:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm chalk strokes with gentle smudging create intimate atmosphere, rough sketch lines visible, chalkboard texture prominent
+
+ACTIONS:
+- Chalk-drawn hand reaching gently toward viewer on green chalkboard, fingers open in offering gesture, soft smudged edges suggesting warmth
+- Hand completes its reach, palm up, inviting connection
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- chalk dragging softly across board surface
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 186: Anticipation — Payoff [24:40–24:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Dramatic lighting transitions to warmer tones, sharp white chalk contrasts deepen then soften, release gold accent emerges in corner
+
+ACTIONS:
+- Chalk-drawn silhouette of figure labeled 'James' partially sketched on green board, head and shoulders incomplete with sharp angular lines suggesting mystery
+- Chalk hand suddenly pulls back revealing question mark beside the figure
+
+CAMERA:
+Medium | Zoom out
+
+AUDIO:
+- chalk tapping board rhythmically then scraping quickly
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 187: Trust — Payoff [24:48–24:53]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm chalk tones with gentle smudging around edges, rough sketch aesthetic, chalkboard grain visible throughout
+
+ACTIONS:
+- Chalk-drawn words 'But I will' centered on green chalkboard, confident complete strokes with slight texture variation showing deliberate pressure
+- Letters settle into place with final period added slowly
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- chalk pressing firmly, period tapping once
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+════════════════════════════════════════════════════════════════
+[END SCENE PROMPTS]
+════════════════════════════════════════════════════════════════
