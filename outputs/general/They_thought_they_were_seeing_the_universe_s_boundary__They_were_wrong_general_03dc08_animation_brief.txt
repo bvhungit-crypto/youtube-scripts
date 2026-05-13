@@ -1,0 +1,2359 @@
+════════════════════════════════════════════════════════════════
+[CHARACTERS Description]
+════════════════════════════════════════════════════════════════
+
+PROJECT: They_thought_they_were_seeing_the_universe_s_boundary__They_were_wrong
+
+RATIO: 16:9
+
+--------------------------------------------------
+STYLE (DETAILED - MANDATORY):
+
+- Style Directive: Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1
+
+- Medium: Live-action / Cinematic
+
+- Visual Style:
+  - Photorealistic textures with accurate material response
+  - Observational documentary framing — restrained and credible
+  - Cinematic composition with depth and motivated framing
+  - Anamorphic 2.39:1 framing language adapted to delivery ratio
+  - 8K capture-grade detail with deep blacks and clean highlights
+  - HDR contrast — preserved highlights, nuanced shadows
+
+- Character Design:
+  Semi-realistic figures
+
+- Materials & Textures:
+  [e.g. Flat colors only / Cel-shaded with soft shadow / Painterly with visible brushwork]
+
+- Lighting:
+  Volumetric lighting with visible light shafts
+
+- Color Palette:
+  [Define color roles — e.g. Red = danger, Yellow = energy, Blue = calm, Black outline for clarity]
+
+- Rendering Quality:
+  [e.g. Crisp, clean, high-definition / Slightly grainy retro / Hyper-smooth anime-style]
+
+- Motion Feel:
+  [e.g. Smooth action-driven / Bouncy exaggerated / Slow cinematic / Snappy cut-driven]
+
+- Overall Impression:
+  [One paragraph — what should viewers FEEL when watching? What is the visual "brand" of this project?]
+
+--------------------------------------------------
+TONE:
+[Overall emotional register — e.g. High tension, urgent, dramatic / Dark comedic, absurdist / Warm and nostalgic / Energetic and hype]
+[Detected dominant emotion (auto, for reference): Trust]
+
+--------------------------------------------------
+RENDERING RULES:
+
+- [Rule 1 — e.g. NO TEXT, NO LETTERS, NO SYMBOLIC WORDS in any scene]
+- [Rule 2 — e.g. Story must be conveyed entirely through visuals and expressions]
+- [Rule 3 — e.g. Each scene must have a clear visual conflict or action beat]
+- [Rule 4 — e.g. Only include characters explicitly required in each scene]
+- [Rule 5 — e.g. No background crowd, no unnecessary props]
+- [Add more rules as needed]
+
+--------------------------------------------------
+CHARACTERS (LOCKED):
+
+- Character 1: Kuiper Belt
+  [Physical description — face shape, skin tone, eye style — fill in]
+  [Hair — color #HEX, length, style — fill in]
+  [Default outfit — top, bottom, shoes, accessories — fill in]
+  [Signature trait — what makes them instantly recognizable — fill in]
+  [Expression range — what emotions they show most — fill in]
+
+- Character 2: Chivito
+  [Physical description — face shape, skin tone, eye style — fill in]
+  [Hair — color #HEX, length, style — fill in]
+  [Default outfit — top, bottom, shoes, accessories — fill in]
+  [Signature trait — what makes them instantly recognizable — fill in]
+  [Expression range — what emotions they show most — fill in]
+
+- Character 3: Dracula
+  [Physical description — face shape, skin tone, eye style — fill in]
+  [Hair — color #HEX, length, style — fill in]
+  [Default outfit — top, bottom, shoes, accessories — fill in]
+  [Signature trait — what makes them instantly recognizable — fill in]
+  [Expression range — what emotions they show most — fill in]
+
+- Character 4: Keplerian
+  [Physical description — face shape, skin tone, eye style — fill in]
+  [Hair — color #HEX, length, style — fill in]
+  [Default outfit — top, bottom, shoes, accessories — fill in]
+  [Signature trait — what makes them instantly recognizable — fill in]
+  [Expression range — what emotions they show most — fill in]
+
+- [Add unnamed characters (narrator, crowd, etc.) here if needed]
+
+--------------------------------------------------
+ENVIRONMENT (GLOBAL):
+
+[Default background / world setting for the entire project]
+[e.g. Minimal clean background, soft gradient sky / Neon-lit urban rooftop / Pastel fantasy kingdom]
+[Note: individual scenes can override this with their own ENVIRONMENT field]
+
+[Detected scene environments (auto, for reference):]
+  - Deep indigo background scattered with distant stars
+  - Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+  - Scaled comparison visualization: smaller golden protoplanetary disk representing our solar system's formation disk, warm amber glow at center fading to soft orange at 100 AU boundary marker, translucent measurement grid overlaid showing 4.6 billion mile span, eight planetary orbit rings faintly traced in pale blue, warm 3800K lighting emphasizing human-scale intimacy against black space
+  - Deep indigo background, amber-lit core, cool blue outer regions
+  - Clean NASA mission control aesthetic, soft 3-point lighting, warm 3800K palette
+  - Clean space, no stars visible, focus entirely on scale comparison
+  - Cool blue tones with desaturated twilight palette, volumetric lighting casting long shadows through dust, anamorphic lens rendering infinite depth
+  - Warm studio environment with soft volumetric lighting, clean NASA documentary aesthetic, 8K HDR clarity
+  - Dramatic amber side lighting emphasizes texture difference, volumetric dust scattering creates mystery, anamorphic lens compressing depth
+  - Desaturated cool palette with blue-white monitor glow, volumetric dust motes in air catching screen light, anamorphic lens rendering shallow depth of field
+  - Warm amber monitor glow illuminates the data, soft volumetric light rays
+  - Disk structure sharpens from soft archival grain to crystalline 8K clarity, warm amber and soft gold tones replacing cold blue data visualization
+
+--------------------------------------------------
+GOAL:
+[Optional — one sentence stating the visual storytelling goal of the entire video]
+[e.g. "Make the audience feel the tension of nuclear deterrence without using any text or narration"]
+
+════════════════════════════════════════════════════════════════
+[END CHARACTERS Description]
+════════════════════════════════════════════════════════════════
+
+
+════════════════════════════════════════════════════════════════
+SCENE PROMPTS
+════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────
+🎬 SCENE 01: Trust — Hook [00:00–00:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep indigo background scattered with distant stars
+
+ACTIONS:
+- Vast glowing protoplanetary disk suspended in deep space, luminous blue-white core radiating outward through swirling gas and dust, edges fading into black void
+- Disk rotates imperceptibly, volumetric light catching particle clouds
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- faint stellar wind particles brushing disk surface
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 02: Trust — Hook [00:08–00:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+ACTIONS:
+- Glowing protoplanetary disk IRAS 23077+6707 centered in frame, faint spiral arms visible against deep indigo starfield, warm amber core radiating outward, text overlay lower third reading 'IRAS 23077+6707 / Dracula's Chivito', disk edges softly illuminated by scattered starlight
+- Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- faint electrical hum from display screen
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 03: Trust — Hook [00:16–00:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+ACTIONS:
+- Protoplanetary disk structure in cross-section: swirling gas and dust particles illuminated by central protostar, volumetric light rays penetrating through density variations
+- Amber and gold tones warming the inner regions, cooler blues at outer edge
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- dust grains colliding softly, gas molecules hissing through vacuum
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 04: Trust — Hook [00:24–00:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+ACTIONS:
+- Single bright reference star centered in frame against pure black void, faint lens flare, no other elements
+- Pause for cognitive reset
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- single photon impact on detector surface
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 05: Trust — Hook [00:32–00:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Scaled comparison visualization: smaller golden protoplanetary disk representing our solar system's formation disk, warm amber glow at center fading to soft orange at 100 AU boundary marker, translucent measurement grid overlaid showing 4.6 billion mile span, eight planetary orbit rings faintly traced in pale blue, warm 3800K lighting emphasizing human-scale intimacy against black space
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 100 times
+- 4.6 billion miles
+
+ACTIONS:
+- Scaled comparison visualization: smaller golden protoplanetary disk representing our solar system's formation disk, warm amber glow at center fading to soft orange at 100 AU boundary marker, translucent measurement grid overlaid showing 4.6 billion mile span, eight planetary orbit rings faintly traced in pale blue, warm 3800K lighting emphasizing human-scale intimacy against black space
+- Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+CAMERA:
+Medium | Orbit
+
+AUDIO:
+- soft mechanical whir of projection system
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 06: Trust — Hook [00:40–00:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+[Scene environment — fill in]
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 100 times
+- 4.6 billion miles
+
+ACTIONS:
+- Solar system formation disk in warm amber and gold tones, compact and intimate scale, central protostar glowing softly
+- Eight planetary orbits faintly traced in dust lanes, moons and smaller bodies suggested as bright points
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- protoplanetary material swirling, faint gravitational hum
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 07: Trust — Hook [00:48–00:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+ACTIONS:
+- Solar system disk rendered tiny and isolated against vast black void, desaturated twilight palette, cool blue-gray tones
+- Emptiness dominates composition, emphasizing cosmic quiet and human scale
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- distant stellar wind passing through void
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 08: Trust — Hook [00:56–01:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep indigo background, amber-lit core, cool blue outer regions
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 400 billion miles
+
+ACTIONS:
+- Dracula's Chivito protoplanetary disk filling frame, vast luminous structure with swirling gas lanes and dust clouds, volumetric light rays penetrating through density waves
+- Scale text overlay '400 billion miles' materializing in lower third
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- massive gas clouds churning, dust particles cascading through gravitational field
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 09: Trust — Hook [01:04–01:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clean NASA mission control aesthetic, soft 3-point lighting, warm 3800K palette
+
+ACTIONS:
+- Animated solar system diagram in warm amber light, Neptune's orbit glowing softly in pale blue, hands off-frame adjusting transparent overlay of massive protoplanetary disk extending far beyond planetary boundaries
+- Disk rendered in luminous gold and cream tones, semi-transparent, rotating gently clockwise
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- faint mechanical click of projection system engaging
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 10: Trust — Hook [01:12–01:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clean space, no stars visible, focus entirely on scale comparison
+
+ACTIONS:
+- Luminous protoplanetary disk in warm amber and cream tones dominates frame, Neptune's orbit now a tiny inner ring, Kuiper Belt boundary marked by faint dotted circle, disk continuing outward in all directions
+- Soft volumetric lighting reveals dust lanes in warm gold
+
+CAMERA:
+Wide | Zoom out
+
+AUDIO:
+- soft whoosh of digital zoom-out interface
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 11: Trust — Hook [01:20–01:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cool blue tones with desaturated twilight palette, volumetric lighting casting long shadows through dust, anamorphic lens rendering infinite depth
+
+ACTIONS:
+- Photorealistic cosmic schematic: entire solar system reduced to tiny central cluster, dwarfed by colossal rotating disk spanning frame edge to edge, all planets and Kuiper Belt objects contained within inner 5% of disk radius
+- Camera holds static as disk rotates slowly, hidden star at center obscured by equatorial dust band
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- deep subsonic throb of rotating disk mass displacing space
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 12: Trust — Hook [01:28–01:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm studio environment with soft volumetric lighting, clean NASA documentary aesthetic, 8K HDR clarity
+
+ACTIONS:
+- Edge-on protoplanetary disk suspended in frame, two luminous wings of scattered starlight flanking a dark equatorial band, soft amber glow illuminating dust particles along the outer edges
+- The disk rotates imperceptibly, its asymmetry becoming subtly apparent as the camera advances
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- faint mechanical hum of telescope tracking motor
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 13: Anticipation — Hook [01:36–01:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Dramatic amber side lighting emphasizes texture difference, volumetric dust scattering creates mystery, anamorphic lens compressing depth
+
+ACTIONS:
+- Photorealistic false-color infrared mapping of protoplanetary disk, one hemisphere showing dense clumped structures in amber-orange, opposite side smooth and featureless in cool blue
+- Camera advances inexorably toward asymmetric region as structures resolve into sharp detail
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- rhythmic pulse of data processing algorithm isolating anomalous structures
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 14: Trust — Hook [01:44–01:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Desaturated cool palette with blue-white monitor glow, volumetric dust motes in air catching screen light, anamorphic lens rendering shallow depth of field
+
+ACTIONS:
+- Photorealistic archival telescope interface aesthetic: grainy low-resolution CCD image of edge-on disk appearing on vintage monitor screen, timestamp overlay reading '2016-03-12 UT 08:47', digital scan lines and compression artifacts visible
+- Camera pushes slowly toward screen as disk shape resolves from noise
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- soft click of mouse selecting image file, hard drive spinning up
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 15: Trust — Hook [01:52–02:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm amber monitor glow illuminates the data, soft volumetric light rays
+
+ACTIONS:
+- Pan-STARRS archival data interface fills frame, timestamp '2016-03-12' visible in corner, raw pixel grid resolving into two elongated wings of light separated by dark central band
+- Cursor hovers
+- Clicks to enhance contrast, revealing the edge-on disk structure emerging from noise
+
+CAMERA:
+Extreme Close-up | Static
+
+AUDIO:
+- mouse click, keyboard tap, hard drive spin-up whir
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 16: Trust — Hook [02:00–02:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Disk structure sharpens from soft archival grain to crystalline 8K clarity, warm amber and soft gold tones replacing cold blue data visualization
+
+ACTIONS:
+- Fully resolved edge-on protoplanetary disk dominates frame, two brilliant wings of scattered light extending symmetrically from dark equatorial dust lane, central star completely obscured
+- Disk structure sharpens from soft archival grain to crystalline 8K clarity, warm amber and soft gold tones replacing cold blue data visualization
+
+CAMERA:
+Wide | Orbit
+
+AUDIO:
+- soft whoosh of data processing, faint electronic beep of completion
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 17: Trust — Hook [02:08–02:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm amber glow from monitor illuminates surrounding workspace, soft 3800K lighting creates focused scientific atmosphere
+
+ACTIONS:
+- Computer monitor displaying Pan-STARRS archival image, two bright elongated wings of scattered light separated by dark central band resolving into clarity on screen
+- The disk structure sharpens as contrast adjusts, equatorial dust lane becoming distinct against scattered stellar light
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- mouse clicking, keyboard tapping, monitor humming
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 18: Trust — Hook [02:16–02:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Soft flattering 3-point lighting, 3800K neutral warm
+
+ACTIONS:
+- Split-screen comparison: Gomez's Hamburger (left) and Dracula's Chivito (right), both edge-on protoplanetary disks rendered in false-color infrared
+- Faint northern extensions on Dracula's Chivito resemble fangs, annotated with measurement overlays
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- annotation pen scratching on tablet, data processing beep
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 19: Trust — Build Up [02:24–02:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Desaturated twilight tones, 3800K consistent even light
+
+ACTIONS:
+- Digital archive interface scrolling through timestamped astronomical survey frames, each stamped with observation dates spanning years
+- Dracula's Chivito appears repeatedly, untagged, in frame after frame
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- hard drive seeking, mouse wheel scrolling, timestamp counter incrementing
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 20: Trust — Build Up [02:32–02:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm amber and soft gold tones illuminate the disks against deep indigo space, volumetric light from distant stars, anamorphic lens flares
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- galaxy
+
+ACTIONS:
+- Multiple faint protoplanetary disks scattered across deep space, each a thin luminous line against the black void of the Milky Way galaxy
+- Disks glow softly in amber and pale gold, dust lanes visible, stars embedded within nebulous clouds
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- none
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 21: Trust — Build Up [02:40–02:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm 3800K glow from stellar core creates golden highlights across dust lanes, volumetric light rays pierce through gas clouds
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- galaxy
+
+ACTIONS:
+- Ancient protoplanetary disk in deep cosmic void, swirling dust and gas illuminated by warm amber starlight from forming central star
+- Disk rotates slowly, planetesimals accreting in bright orbital bands, gravity pulling matter into proto-worlds
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- low rumbling, particles colliding, gas whooshing
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 22: Trust — Build Up [02:48–02:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cool blue-white lighting, clinical clarity, volumetric rendering of dust density
+
+ACTIONS:
+- Symmetrical protoplanetary disk model rotating slowly, clean circular structure with concentric rings of dust and gas
+- Camera holds steady, posture of scientific neutrality
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- none
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 23: Trust — Build Up [02:56–03:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Desaturated twilight tones, 3800K consistent even light
+
+ACTIONS:
+- Dracula's Chivito rendered in high-resolution false-color infrared against starfield
+- Asymmetric, irregular silhouette with faint northern extensions
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- data anomaly alert tone, spectrograph needle scratching
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 24: Surprise — Build Up [03:04–03:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Desaturated twilight tones building to reveal
+
+ACTIONS:
+- Push in on Dracula's Chivito's irregular edge, volumetric dust catching amber light from hidden central star
+- Dust grains scatter light in uneven patterns
+
+CAMERA:
+Medium | Crane
+
+AUDIO:
+- dust grain impacts, gas pressure release hiss, spectrograph scanning beep
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 25: Trust — Build Up [03:12–03:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Volumetric light from distant horizon casts amber glow on metal surfaces
+
+ACTIONS:
+- Radio telescope dish array silhouetted against deep indigo twilight sky, dishes angled upward in precise alignment
+- Methodical documentary framing emphasizes scale and scientific purpose
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- metal dish motors whirring, mechanical tracking servos clicking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 26: Trust — Build Up [03:20–03:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep space backdrop with faint stellar field
+
+ACTIONS:
+- False-color infrared image of protoplanetary disk fills frame: two luminous cyan-white wings arc symmetrically above and below a dense charcoal equatorial band, dust lane blocking central star
+- Camera tilts methodically to reveal perfect vertical symmetry
+
+CAMERA:
+Medium | Tilt
+
+AUDIO:
+- faint electronic beep sequence from imaging system
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 27: Trust — Build Up [03:28–03:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Camera moves methodically through depth of field, revealing texture and opacity variation
+
+ACTIONS:
+- Dense equatorial dust lane in 8K macro detail, particle density gradient visible as warm amber tones emerge in densest regions
+- Volumetric lighting reveals layered structure blocking central star
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- subtle static crackle, faint electromagnetic interference
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 28: Trust — Build Up [03:36–03:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+8K HDR, volumetric lighting minimal
+
+ACTIONS:
+- Idealized scientific visualization of smooth protoplanetary disk rotating in orderly Keplerian motion
+- Clean neutral palette of cool blues and grays
+
+CAMERA:
+Wide | Orbit
+
+AUDIO:
+- low frequency rotation hum, mechanical precision tone
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 29: Trust — Build Up [03:44–03:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Volumetric lighting flickers during transition
+
+ACTIONS:
+- Idealized circular disk fractures and morphs into irregular asymmetric form of Dracula's Chivito
+- Visual disruption: clean geometry breaks into chaotic structure
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- digital glitch burst, sharp static pop, data corruption crackle
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 30: Trust — Build Up [03:52–04:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Dark UI background, warm amber accents on active data points
+
+ACTIONS:
+- Radio telescope spectral data visualization: velocity measurements scroll vertically as color-coded contour lines overlay disk cross-section
+- Cold gas motion vectors resolve in real-time, amber and cyan gradients mapping Doppler shifts across disk radius
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- mouse click, keyboard tap, hard drive spin-up whir
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 31: Trust — Build Up [04:00–04:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Volumetric lighting emphasizes depth layers
+
+ACTIONS:
+- Velocity map of protoplanetary disk color-coded by rotation speed: gradient from red (fast inner regions) through amber to blue (slow outer regions)
+- Camera orbits revealing organized Keplerian motion pattern
+
+CAMERA:
+Medium | Orbit
+
+AUDIO:
+- spectral analysis tone sweep, frequency modulation chirp
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 32: Trust — Build Up [04:08–04:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Anamorphic lens 2.39:1 emphasizes horizontal expanse
+
+ACTIONS:
+- Entire protoplanetary disk with velocity vector field overlaid: hundreds of arrows all pointing same rotational direction, color-coded by speed
+- Inner vectors longer and redder, outer vectors shorter and bluer
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- low frequency gravitational hum, orbital resonance tone
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 33: Trust — Build Up [04:16–04:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Bright volumetric lighting highlights the layered architecture against a soft indigo backdrop
+
+ACTIONS:
+- Luminous gas cloud in deep space, warm amber and soft gold tones, structured concentric layers rotating in perfect synchrony
+- Camera pushes gently toward the organized disk, revealing ordered motion and deliberate structure
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- gas layers whooshing in synchronized rotation
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 34: Trust — Build Up [04:24–04:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 195 billion miles
+- 70 times
+
+ACTIONS:
+- Animated scale diagram resolving on screen: nested orbital paths in warm amber and gold, concentric rings labeled with distance markers
+- Central obscured region glows softly
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- digital interface beeps as numbers resolve on screen
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 35: Trust — Build Up [04:32–04:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 195 billion miles
+- 70 times
+
+ACTIONS:
+- Single luminous particle traces elliptical trajectory through nested orbital rings, warm amber and soft gold tones
+- Camera tracks the particle as it accelerates toward the hidden center, concentric paths tightening
+
+CAMERA:
+Medium | Tracking
+
+AUDIO:
+- particle whooshing along orbital path, speed increasing
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 36: Trust — Build Up [04:40–04:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Graphic line extends from central void to disk perimeter, numerical annotation resolves in clean sans-serif type
+
+ACTIONS:
+- Protoplanetary disk in profile, measurement overlay appears showing 7,000 AU radius spanning only half the visible structure from center to edge, not full diameter
+- Graphic line extends from central void to disk perimeter, numerical annotation resolves in clean sans-serif type
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- soft electronic beep of measurement lock
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 37: Trust — Build Up [04:48–04:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Volumetric dust scattering, anamorphic bokeh in background stars
+
+ACTIONS:
+- Disk in profile showing active construction process, gas layers rotating and sorting by density, material accreting into denser inner rings, warm amber light illuminating active regions where particles collide and coalesce
+- Layered motion visible as differential rotation speeds, inner rings moving faster than outer
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- rhythmic clatter of particle collisions
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 38: Trust — Build Up [04:56–05:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+ACTIONS:
+- Rotation curve graph displayed on screen: velocity vs
+- Radius plot in warm amber and soft gold, data points forming smooth Keplerian curve
+
+CAMERA:
+Medium | Zoom out
+
+AUDIO:
+- pen marking final data point on paper graph
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 39: Trust — Build Up [05:04–05:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Hubble Space Telescope in low Earth orbit, Earth's blue limb and cloud layers visible below, slow pan across solar panels and primary mirror housing
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Hubble Space Telescope
+
+ACTIONS:
+- Hubble Space Telescope in low Earth orbit, Earth's blue limb and cloud layers visible below, slow pan across solar panels and primary mirror housing
+- Telescope rendered in photorealistic detail, cool blue-gray metallic surfaces, volumetric atmosphere glow at Earth's edge
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- mechanical whir of solar panel tracking motors
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 40: Trust — Build Up [05:12–05:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Volumetric light scatter through optics
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Hubble Space Telescope
+
+ACTIONS:
+- View through Hubble's targeting interface, IRAS 23077+6707 disk centered in crosshairs, targeting reticle locks on with amber UI overlay, six wavelength filter indicators illuminate sequentially from visible blue to near-infrared
+- Disk appears as faint structured glow against star field, UI elements resolve in clean typography
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- electronic chirp of targeting lock sequence
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 41: Trust — Build Up [05:20–05:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Earth's curved horizon glows soft blue below, atmospheric limb catching sunlight
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Hubble Space Telescope
+
+ACTIONS:
+- The Hubble Space Telescope floats in low Earth orbit, solar panels extended, its cylindrical body angled toward deep space
+- The telescope's aperture door is open, revealing the primary mirror's faint reflection of distant starlight
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- solar panel servos whirring, faint mechanical clicks from guidance system
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 42: Trust — Build Up [05:28–05:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Technicians methodically calibrate spectral filters under bright even laboratory lighting, white walls and sterile surfaces reflecting soft 3800K illumination
+
+ACTIONS:
+- Hubble Space Telescope's optical assembly in clean room, engineers' hands carefully adjusting mirror segments with precision tools, focused posture leaning forward with steady controlled movements
+- Technicians methodically calibrate spectral filters under bright even laboratory lighting, white walls and sterile surfaces reflecting soft 3800K illumination
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- precision screwdriver clicking, filter mechanism sliding into place, soft mechanical latch engaging
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 43: Trust — Build Up [05:36–05:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep indigo background transitions to amber-lit wisps
+
+ACTIONS:
+- Above the disk's center plane, wispy irregular structures extend vertically into space, glowing faintly across multiple wavelengths
+- The material forms delicate filaments and sheets, reaching far beyond the disk's main body
+
+CAMERA:
+Wide | Tilt
+
+AUDIO:
+- faint crackling of ionized gas, soft whoosh of material streaming upward
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 44: Trust — Build Up [05:44–05:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Data visualization shows material reaching far beyond disk boundary, complex tendrils glowing in amber and indigo against deep space backdrop, structural detail resolving across multiple spectral bands simultaneously
+
+ACTIONS:
+- Wispy irregular gas structures extending vertically from protoplanetary disk's center plane, rendered as luminous filaments in six-wavelength composite image on large display screen
+- Data visualization shows material reaching far beyond disk boundary, complex tendrils glowing in amber and indigo against deep space backdrop, structural detail resolving across multiple spectral bands simultaneously
+
+CAMERA:
+Medium | Tilt
+
+AUDIO:
+- display screen pixels refreshing, cooling fan spinning steadily, data drive clicking softly
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 45: Trust — Build Up [05:52–06:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The filament glows with warm amber highlights against deep indigo shadows, revealing complexity invisible at wider scales
+
+ACTIONS:
+- A single wispy filament of disk material fills frame in HDR detail, its structure intricate and irregular
+- Tiny dust grains catch starlight, creating micro-scale texture
+
+CAMERA:
+Extreme Close-up | Static
+
+AUDIO:
+- faint ticking of thermal expansion, soft crackle of static discharge
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 46: Trust — Build Up [06:00–06:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The system appears vast, complex, active
+
+ACTIONS:
+- The full disk of IRAS 23077+6707 appears in frame, with upper and lower wispy structures visible extending vertically
+- The disk's main body glows amber at center, fading to deep indigo at edges
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- deep rumble of disk rotation, faint whistling of vertical gas flows
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 47: Trust — Build Up [06:08–06:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Amber-lit wisps contrast with deep indigo voids
+
+ACTIONS:
+- The disk's outer atmosphere churns visibly, gas and dust swirling in turbulent eddies
+- Particle streams flow outward and upward, creating dynamic motion
+
+CAMERA:
+Medium | Orbit
+
+AUDIO:
+- rushing wind of gas flows, sharp crackle of particle collisions, low rumble of turbulent eddies
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 48: Trust — Build Up [06:16–06:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Desaturated twilight tones replace earlier warmth, creating contemplative atmosphere
+
+ACTIONS:
+- The asymmetric disk structure of IRAS 23077+6707 appears in full view, northern edge brighter and more extended than southern
+- The imbalance is clear, undeniable, unexplained
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- faint hiss of distant gas, soft tick of cooling dust grains
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 49: Trust — Deep [06:24–06:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+ACTIONS:
+- Luminous amber-lit filaments stretching vertically from glowing disk edge into deep space, physical tendrils reaching outward against soft indigo nebula backdrop
+- Filament tips glow warm gold, trailing into darkness
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- faint electrical hum from filament energy discharge
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 50: Trust — Deep [06:32–06:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Anamorphic lens 2.39:1, authoritative lighting
+
+ACTIONS:
+- Asymmetric protoplanetary disk in false-color infrared, 8K HDR
+- Northern hemisphere dense and turbulent, southern hemisphere smooth and sparse
+
+CAMERA:
+Medium | Orbit
+
+AUDIO:
+- low-frequency rumble of turbulent gas flow
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 51: Trust — Deep [06:40–06:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+ACTIONS:
+- Split-frame composition: left half shows turbulent swirling gas patterns in warm amber and orange, chaotic motion
+- Right half displays smooth laminar flow in soft teal and cream, perfectly ordered
+- Sharp vertical boundary line divides the two regions down center frame
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- low rumbling turbulence on left channel, silence on right channel creating stereo contrast
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 52: Trust — Deep [06:48–06:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clinical blue-white lighting, 8K HDR, precise scientific aesthetic
+
+ACTIONS:
+- Multi-wavelength data overlay on protoplanetary disk: infrared, optical, radio layers stacked semi-transparently
+- Each wavelength shows identical asymmetry pattern, northern hemisphere brighter in all bands
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- soft beep of data point registration
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 53: Trust — Deep [06:56–07:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+8K HDR, volumetric lighting, anamorphic lens 2.39:1
+
+ACTIONS:
+- Same protoplanetary disk asymmetry rendered across three instrument views side-by-side: Hubble optical, ALMA radio, Spitzer infrared
+- Each panel shows identical lopsided structure
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- synchronized instrument shutter clicks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 54: Trust — Deep [07:04–07:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Neutral authoritative lighting, preparing hypothesis exploration
+
+ACTIONS:
+- Protoplanetary disk centered in frame, 8K HDR
+- Three faint translucent overlay zones appear sequentially: first zone highlights northern edge (gas infall), second zone pulses in disk interior (density waves), third zone circles exterior (gravitational disturbance)
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- soft tone as each zone appears
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 55: Trust — Deep [07:12–07:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Streams rendered as luminous blue-white tendrils in 8K HDR, volumetric lighting traces their descent
+
+ACTIONS:
+- Gas streams from surrounding molecular cloud rain asymmetrically onto protoplanetary disk's northern hemisphere
+- Streams rendered as luminous blue-white tendrils in 8K HDR, volumetric lighting traces their descent
+
+CAMERA:
+Medium | Tracking
+
+AUDIO:
+- rushing wind of infalling gas
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 56: Trust — Deep [07:20–07:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Anamorphic lens 2.39:1
+
+ACTIONS:
+- Gas impact zone at protoplanetary disk's northern edge, 8K HDR
+- Infalling material collides with disk surface, creating turbulent mixing layer
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- low rumble of gas compression
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 57: Trust — Deep [07:28–07:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+[Scene environment — fill in]
+
+ACTIONS:
+- [Character actions — fill in]
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- quiet focused space, minimal room tone, clean silence
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 58: Trust — Deep [07:36–07:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep indigo background with warm amber core
+
+ACTIONS:
+- A luminous stellar core glows at frame center, surrounded by volumetric light rays radiating outward through dust
+- The star appears as a brilliant point source eleven times brighter than our Sun, with anamorphic lens flare creating horizontal streaks of amber and teal light
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- deep bass resonance of stellar contraction
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 59: Trust — Deep [07:44–07:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Camera pans steadily left to right, emphasizing the band's length and opacity
+
+ACTIONS:
+- The edge-on dust band stretches horizontally across frame, a razor-thin silhouette backlit by faint infrared glow
+- High contrast: the dust is pure black, the background a gradient from deep indigo to warm amber at the edges
+
+CAMERA:
+Medium | Pan
+
+AUDIO:
+- soft crackling of dust particles absorbing photons
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 60: Trust — Deep [07:52–08:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Volumetric lighting reveals the microscopic texture of dust
+
+ACTIONS:
+- Individual dust grains in 8K HDR detail, each particle absorbing incoming starlight
+- Warm amber photons strike the dust and are converted to deep indigo shadow and faint infrared glow
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- faint hiss of thermal radiation escaping through dust
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 61: Trust — Deep [08:00–08:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Anamorphic lens flare streaks horizontally
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- eleven times
+
+ACTIONS:
+- The obscured central star region glows with warm amber light filtered through dust, surrounded by a faint volumetric halo
+- Lower-third text overlay appears: '1.5–2× solar mass, 11× brighter, still contracting.' The camera zooms slowly inward, emphasizing the star's mass and luminosity through scale
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- deep bass rumble of gravitational contraction
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 62: Trust — Deep [08:08–08:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Desaturated indigo background
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- eleven times
+
+ACTIONS:
+- Two faint stellar cores emerge from the obscuring dust, positioned in a binary configuration with subtle orbital motion suggested by their relative positions
+- The left star glows amber, the right glows cooler teal, creating a dual-light-source composition
+
+CAMERA:
+Wide | Pan
+
+AUDIO:
+- faint oscillating tone suggesting orbital resonance
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 63: Trust — Deep [08:16–08:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The camera holds perfectly still, allowing the twin stars to anchor the frame
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- two stars
+
+ACTIONS:
+- Two distinct stellar points of light emerge side by side within the glowing core of a protoplanetary disk
+- The stars are rendered as bright pinpricks surrounded by soft diffraction spikes, separated by a narrow band of dust
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- faint crackle of ionized gas between the two stars
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 64: Trust — Deep [08:24–08:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+[Scene environment — fill in]
+
+ACTIONS:
+- [Character actions — fill in]
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- quiet focused space, minimal room tone, clean silence
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 65: Trust — Deep [08:32–08:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+[Scene environment — fill in]
+
+ACTIONS:
+- [Character actions — fill in]
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- quiet focused space, minimal room tone, clean silence
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 66: Trust — Deep [08:40–08:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+[Scene environment — fill in]
+
+ACTIONS:
+- [Character actions — fill in]
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- quiet focused space, minimal room tone, clean silence
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 67: Trust — Deep [08:48–08:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+[Scene environment — fill in]
+
+ACTIONS:
+- [Character actions — fill in]
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- quiet focused space, minimal room tone, clean silence
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 68: Trust — Deep [08:56–09:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+[Scene environment — fill in]
+
+ACTIONS:
+- [Character actions — fill in]
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- quiet focused space, minimal room tone, clean silence
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 69: Trust — Deep [09:04–09:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+[Scene environment — fill in]
+
+ACTIONS:
+- [Character actions — fill in]
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- quiet focused space, minimal room tone, clean silence
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 70: Trust — Deep [09:12–09:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+[Scene environment — fill in]
+
+ACTIONS:
+- [Character actions — fill in]
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- quiet focused space, minimal room tone, clean silence
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 71: Trust — Deep [09:20–09:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+[Scene environment — fill in]
+
+ACTIONS:
+- [Character actions — fill in]
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- quiet focused space, minimal room tone, clean silence
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 72: Trust — Deep [09:28–09:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+[Scene environment — fill in]
+
+ACTIONS:
+- [Character actions — fill in]
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- quiet focused space, minimal room tone, clean silence
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 73: Trust — Deep [09:36–09:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Authoritative Bloomberg-style lighting at 3700K with subtle teal accent highlights the disk's outer boundary
+
+ACTIONS:
+- Vast protoplanetary disk edge glowing softly in warm amber and pale gold against deep space, outer radius marked by faint luminous arc thousands of astronomical units wide
+- Camera holds perfectly still, emphasizing the serene, stable expanse
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- faint particle hiss, distant stellar wind whisper
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 74: Trust — Deep [09:44–09:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cool blue-white volumetric lighting emphasizes chemical transformation
+
+ACTIONS:
+- Microscopic view of frost crystals forming on individual dust grain surface in outer disk region
+- Ice molecules adhere to grain in slow motion, crystalline structures growing visibly
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- ice crystals crackling softly, grain surface settling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 75: Trust — Deep [09:52–10:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Volumetric lighting highlights molecular bonds forming
+
+ACTIONS:
+- Extreme close-up of molecules adhering to dust grain surface in ultra-slow motion
+- Individual molecular structures visible in 8K detail, attaching to grain and altering surface chemistry
+
+CAMERA:
+Macro | Static
+
+AUDIO:
+- molecular bonding clicks, grain surface vibration
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 76: Trust — Deep [10:00–10:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Volumetric lighting reveals wave structures propagating through disk
+
+ACTIONS:
+- Protoplanetary disk density waves visible as luminous spiral patterns in cross-section
+- Disk material shows instability with regions of varying density
+
+CAMERA:
+Medium | Tilt
+
+AUDIO:
+- low-frequency density wave rumble, disk material shifting
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 77: Trust — Deep [10:08–10:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Camera orbits slowly around collapsing gas pockets, volumetric lighting creates dramatic contrast between dense clumps and surrounding disk
+
+ACTIONS:
+- Dense gas clumps forming within massive protoplanetary disk, self-gravitating regions visible as bright concentrations
+- Camera orbits slowly around collapsing gas pockets, volumetric lighting creates dramatic contrast between dense clumps and surrounding disk
+
+CAMERA:
+Wide | Orbit
+
+AUDIO:
+- gas compression whoosh, gravitational collapse rumble
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 78: Trust — Deep [10:16–10:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The compression is visible as density increases, forming a proto-planetary body without a solid core
+
+ACTIONS:
+- A dense clump of gas within the protoplanetary disk collapses inward under its own gravity, particles spiraling in slow motion toward the center
+- The camera pushes steadily closer, emphasizing the gravitational pull as luminous gas streams converge into a glowing core
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- low rumble of gas compression, particle impacts
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 79: Trust — Deep [10:24–10:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, anamorphic lens 2.39:1, 3700K teal accent
+
+ACTIONS:
+- Left side: calm theoretical disk model with smooth, uniform structure
+- Right side: turbulent observed disk with asymmetric features and active regions
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- model simulation beep, disk turbulence rumble
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 80: Trust — Deep [10:32–10:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The palette desaturates into contemplative twilight tones—muted indigo, pale teal, and charcoal blacks
+
+ACTIONS:
+- The protoplanetary disk shrinks in frame as the camera pulls back, revealing it as one faint glowing ring among dozens of other distant disks scattered across the cosmic field
+- The palette desaturates into contemplative twilight tones—muted indigo, pale teal, and charcoal blacks
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- faint stellar wind, distant particle drift
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 81: Trust — Deep [10:40–10:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm volumetric dust illuminated by distant young Sun, teal accent light rimming planetary edge, 3700K color temperature
+
+ACTIONS:
+- Young Earth forming in amber-lit protoplanetary disk, surface glowing with molten heat, posture stable and centered
+- Planet coalesces slowly from swirling dust and gas, gravitational pull drawing material inward
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- molten rock bubbling, dust particles colliding
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 82: Trust — Deep [10:48–10:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Empty orbital plane in deep space, faint debris trails suspended in void, eight planets positioned in stable elliptical paths around distant Sun
+
+ACTIONS:
+- Empty orbital plane in deep space, faint debris trails suspended in void, eight planets positioned in stable elliptical paths around distant Sun
+- Desaturated twilight palette with soft teal accent lighting at 3700K, volumetric god rays cutting through cosmic dust
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- faint metallic debris particles settling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 83: Trust — Deep [10:56–11:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary aesthetic, 8K HDR, volumetric lighting, anamorphic lens 2.39:1
+
+ACTIONS:
+- Ancient meteorite fragment rotating slowly in controlled laboratory light box, surface pocked with ablation scars and fusion crust textures illuminated by warm 3700K teal-accented key light
+- Chondrules and metal flecks visible in cross-section as specimen completes single rotation, revealing 4.5-billion-year-old mineral structure
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- specimen rotation motor clicking, glass case latch opening
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 84: Trust — Deep [11:04–11:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary aesthetic, 8K HDR, volumetric lighting, anamorphic lens 2.39:1
+
+ACTIONS:
+- Current solar system configuration in cross-section: Sun at center, four inner rocky planets in tight orbits, asteroid belt, four gas giants in outer orbits, Kuiper belt objects at periphery
+- Warm 3700K teal-accented lighting emphasizes geometric order and vast empty space where protoplanetary disk once existed
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- none
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 85: Trust — Deep [11:12–11:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm amber gradients in disk interior, teal accent grid lines, 3700K color temperature
+
+ACTIONS:
+- Holographic reconstruction of compact protoplanetary disk rotating, scientific grid overlays marking density zones, posture methodical and analytical
+- Camera orbits disk model as data annotations resolve, revealing smooth density distribution
+
+CAMERA:
+Medium | Orbit
+
+AUDIO:
+- holographic interface beeping, data processing clicks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 86: Trust — Deep [11:20–11:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Amber and orange volumetric lighting, warm 3700K tones, teal accent on boundary layers
+
+ACTIONS:
+- Layered disk structure in cross-section, stratified zones of gas and dust, posture geological and revelatory
+- Camera pushes through strata, revealing temperature and density gradients
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- gas flowing through layers, dust grains settling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 87: Trust — Deep [11:28–11:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary aesthetic, 8K HDR, volumetric lighting, anamorphic lens 2.39:1
+
+ACTIONS:
+- Scientific reconstruction of early solar system protoplanetary disk rendered as holographic data visualization, concentric rings of gas and dust particles color-coded by temperature and density, orbital paths traced in luminous teal at 3700K
+- Disk structure remains frozen mid-rotation, data annotations labeling inner rocky zone, outer gas giant formation region, and stable orbital resonances
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- holographic projector fan spinning, data point markers appearing
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 88: Trust — Deep [11:36–11:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Authoritative lighting emphasizes comparative analysis
+
+ACTIONS:
+- Left frame: Dracula's Chivito disk with prominent asymmetric spiral arms and dust concentrations rendered in 8K detail, warm amber tones
+- Right frame: empty space with subtle question mark formed by faint stellar dust, cool desaturated blue-grey
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- data comparison interface clicking, soft electronic toggle
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 89: Trust — Deep [11:44–11:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+empty black void emphasizing isolation, single distant nebula barely visible at frame edge
+
+ACTIONS:
+- Earth suspended in deep space, isolated against vast cosmic backdrop, no nearby stars visible
+- Planet rendered with subtle atmospheric glow, continents faintly visible through cloud cover
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- faint atmospheric wind over planetary surface
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 90: Trust — Deep [11:52–12:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The scene conveys deep time and cosmic patience
+
+ACTIONS:
+- A glowing protoplanetary disk rotates slowly in deep space, its amber-lit core steady and undisturbed, edges fading into soft indigo
+- The disk occupies center frame, isolated against a vast field of distant stars
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- faint gas hiss, distant stellar wind
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 91: Trust — Deep [12:00–12:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The composition emphasizes negative space, creating a sense of quiet sanctuary
+
+ACTIONS:
+- Earth's blue-white disk suspended in vast empty space, surrounded by sparse distant stars against deep indigo void
+- The planet appears small, centered, isolated — a single bright point of calm in an otherwise dark and chaotic stellar field
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- faint solar wind particles passing
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 92: Trust — Deep [12:08–12:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Background shows faint chaotic nebulae in cool tones, creating contrast
+
+ACTIONS:
+- Protoplanetary disk rotates smoothly in warm amber light, center glowing soft gold, edges transitioning to pale teal
+- Disk structure shows concentric rings of dust and gas in laminar flow, no turbulence
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- dust grains settling onto disk plane, faint crystallization clicks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 93: Trust — Deep [12:16–12:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+warm-to-cool gradient from planet surface (amber) to outer disk (twilight blue), soft volumetric lighting showing atmospheric layers
+
+ACTIONS:
+- Earth's surface showing oceans, continents, and cloud patterns in sharp detail
+- Camera pulls back to reveal protective protoplanetary disk environment surrounding the planet
+- Posture: nested, sheltered
+
+CAMERA:
+Close-up | Zoom out
+
+AUDIO:
+- ocean waves on planetary surface, faint disk particle flow
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 94: Trust — Deep [12:24–12:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+increasing visual complexity, varied color temperatures from hot blue-white to cool red-orange, high contrast lighting emphasizing structural differences
+
+ACTIONS:
+- Multiple exotic protoplanetary disk configurations: asymmetric spiral arms, binary star disks with figure-eight patterns, warped disks tilted at extreme angles, disks with massive gaps and rings
+- Each configuration 1-2 seconds
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- rapid sequence of different disk rotation frequencies, particle collision patterns changing with each cut
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 95: Trust — Deep [12:32–12:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+cool scientific blue palette, teal accent lighting on disk edges, measurement grid rendered in desaturated white, minimal background stars
+
+ACTIONS:
+- IRAS 23077+6707 disk centered in frame with translucent distance measurement grid overlaying the scene
+- Measurement lines and numerical annotations flicker on and off, showing conflicting distance estimates (600 ly, 1200 ly, 2600 ly)
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- electronic measurement tones cycling through different frequencies, data processing clicks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 96: Trust — Deep [12:40–12:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+ACTIONS:
+- Three-dimensional star field with glowing distance markers at 600 and 2,600 light-years, rendered as translucent teal grid planes
+- The protoplanetary disk of IRAS 23077+6707 stretches between them, its scale visibly expanding as the camera pulls back
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- holographic grid materializing, faint electronic hum
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 97: Trust — Deep [12:48–12:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Authoritative Bloomberg-style lighting with 3700K teal accent highlights grid intersections
+
+ACTIONS:
+- Layered translucent disk models stacked at different depth planes — 600 light-years nearest, 2,600 light-years farthest — each ghosted in desaturated indigo and steel blue
+- Measurement grids overlay each layer, numbers recalculating in real-time as scale bars shift
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- grid lines snapping into place, faint electronic beep sequence
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 98: Trust — Payoff [12:56–13:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Desaturated twilight palette with warm highlights on the disk layers
+
+ACTIONS:
+- Layered translucent visualization of the protoplanetary disk rendered at three distance scales simultaneously — 600, 1,400, and 2,600 light-years — each ghosted layer slightly offset in depth, creating a volumetric uncertainty map
+- The disk glows in warm amber and soft gold against deep space, with scale markers and distance annotations fading in along the frame edges
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- soft data tone pulsing three times
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 99: Trust — Payoff [13:04–13:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cool analytical lighting, desaturated blue-white grade
+
+ACTIONS:
+- A scientific data readout screen displaying distance measurements with expanding error bars—values flicker between 600 and 2600 light-years, uncertainty margins widening in real-time
+- Cool analytical lighting, desaturated blue-white grade
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- keyboard key clicks as values update
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 100: Trust — Payoff [13:12–13:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The James Webb Space Telescope's iconic golden hexagonal mirror array catching infrared light, volumetric amber beams passing through swirling dust particles in foreground
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- James Webb Space Telescope
+
+ACTIONS:
+- The James Webb Space Telescope's iconic golden hexagonal mirror array catching infrared light, volumetric amber beams passing through swirling dust particles in foreground
+- Warm 4000K lighting, dust illuminated in soft orange-gold hues
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- faint mechanical whir of mirror actuators adjusting
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 101: Trust — Payoff [13:20–13:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The James Webb Space Telescope's primary mirror array fills the frame, each hexagonal gold-coated segment reflecting faint starlight
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- James Webb Space Telescope
+
+ACTIONS:
+- The James Webb Space Telescope's primary mirror array fills the frame, each hexagonal gold-coated segment reflecting faint starlight
+- The camera advances through the optical path, passing the secondary mirror mount and into the infrared sensor housing, where faint thermal glow indicates active cooling
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- mirror actuator click, faint thermal cooling vent hiss
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 102: Trust — Payoff [13:28–13:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm 4000K lighting with amber-gold accents
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- James Webb Space Telescope
+
+ACTIONS:
+- Infrared wavelength visualization—amber-orange volumetric light rays piercing through dense cosmic dust clouds, revealing hidden thermal structure beneath
+- Dust particles scatter light in slow motion, heat signature emerging as glowing core
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- faint crackling static as infrared data resolves
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 103: Trust — Payoff [13:36–13:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Desaturated twilight palette of steel blue and muted violet
+
+ACTIONS:
+- The ALMA telescope array spreads across the Atacama Desert at twilight, 66 white dishes arranged in geometric precision against desaturated blue-gray mountains
+- Each dish is angled slightly upward, tracking the same region of sky
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- distant wind gust across metal, single dish motor whir
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 104: Trust — Payoff [13:44–13:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm amber and soft gold tones dominate, with the dish's clean geometry framed against a gradient sky transitioning from deep blue to warm peach
+
+ACTIONS:
+- Single ALMA radio dish in warm dawn light, its white surface glowing softly against the high-altitude Atacama sky
+- The dish tracks smoothly across the frame, motors engaged, parabolic surface catching the first golden light
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- dish motor whir, mount bearing rotation
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 105: Trust — Payoff [13:52–14:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Radio telescope dish array at golden hour, warm amber light washing across white metal surfaces, gentle shadows defining parabolic curves
+
+ACTIONS:
+- Radio telescope dish array at golden hour, warm amber light washing across white metal surfaces, gentle shadows defining parabolic curves
+- Camera advances steadily toward central receiver assembly, revealing intricate feed horn geometry
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- metal creaking as dish adjusts position, servo motor whirring, mechanical latch clicking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 106: Trust — Payoff [14:00–14:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm 4000K key light from below, volumetric rays through translucent data planes
+
+ACTIONS:
+- High-resolution false-color radio map materializing on holographic display, warm orange and teal contours defining disk structure, grain size distribution rendered as textured density variations
+- Camera circles the floating data visualization, revealing layered complexity
+
+CAMERA:
+Close-up | Orbit
+
+AUDIO:
+- holographic emitter clicking on, light buzzing as image stabilizes, faint electronic chirp as contours lock
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 107: Trust — Payoff [14:08–14:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+[Scene environment — fill in]
+
+ACTIONS:
+- [Character actions — fill in]
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- quiet focused space, minimal room tone, clean silence
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 108: Trust — Payoff [14:16–14:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+8K HDR photorealistic NASA documentary
+
+ACTIONS:
+- Split-screen dissolve transition — infrared thermal map on left, optical wavelength image center, radio contour map on right, all three views merging into single composite multi-spectral image of protoplanetary disk
+- Camera motionless
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- image processing click, data merge tone, digital alignment beep
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 109: Trust — Payoff [14:24–14:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Complete protoplanetary disk IRAS 23077+6707 rotating slowly in frame — structured spiral arms, asymmetric density regions, turbulent outer atmosphere visible in false-color amber and teal gradients
+
+ACTIONS:
+- Complete protoplanetary disk IRAS 23077+6707 rotating slowly in frame — structured spiral arms, asymmetric density regions, turbulent outer atmosphere visible in false-color amber and teal gradients
+- Balanced composition, warm 4000K key light from upper left, volumetric haze, anamorphic 2.39:1 framing
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- low-frequency rotation rumble, dust particle collision patter, magnetic field crackle
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 110: Trust — Payoff [14:32–14:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Protoplanetary disk IRAS 23077+6707 centered in frame, rotation decelerating — spiral structure and asymmetric features visible, surrounded by increasing void as camera pulls back
+
+ACTIONS:
+- Protoplanetary disk IRAS 23077+6707 centered in frame, rotation decelerating — spiral structure and asymmetric features visible, surrounded by increasing void as camera pulls back
+- Desaturated twilight color palette shifting from warm amber core to cool indigo periphery
+
+CAMERA:
+Medium | Zoom out
+
+AUDIO:
+- rotation deceleration whoosh, distant stellar wind, cooling metal tick
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 111: Trust — Payoff [14:40–14:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Minimal lighting, soft diffuse glow from disk itself
+
+ACTIONS:
+- Protoplanetary disk rendered small in frame center, surrounded by vast empty space, desaturated twilight palette with muted grays and soft amber
+- Disk structure visible but distant, emphasizing isolation and scale
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- paper rustling as pages turn, pen cap clicking off, pen tip scratching on paper surface
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 112: Trust — Payoff [14:48–14:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Desaturated twilight palette, 4000K backlight, volumetric haze
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- one star
+
+ACTIONS:
+- Asymmetric density region within protoplanetary disk highlighted in false-color — cool blue and violet gradients marking turbulent zone, density contours pulsing subtly, unresolved structure creating visual tension
+- Camera drifts right, questioning
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- electromagnetic interference pulse, density fluctuation crackle, stellar wind
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 113: Trust — Payoff [14:56–15:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep indigo space surrounds it, vast and silent, with faint nebula wisps drifting at the edges
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- one star
+
+ACTIONS:
+- A single luminous star glows at center frame, shoulders relaxed, gaze steady and open
+- The star pulses gently, its light steady and unwavering
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- faint stellar wind hiss, distant plasma crackle
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 114: Trust — Payoff [15:04–15:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Surrounding space is desaturated twilight gray, infinite and indifferent
+
+ACTIONS:
+- Earth's pale blue disk floats in lower third of frame, posture small and fragile, expression humble
+- The planet rotates slowly, continents drifting into shadow
+
+CAMERA:
+Wide | Zoom out
+
+AUDIO:
+- faint atmospheric whisper, distant wind over ocean
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 115: Anticipation — Payoff [15:12–15:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Camera pulls back abruptly to reveal the disk's vast scale against empty space, releasing held tension
+
+ACTIONS:
+- IRAS 23077 protoplanetary disk fills frame, asymmetric arms churning, posture turbulent and restless
+- Gas and dust spiral violently, clumps forming and dissolving
+
+CAMERA:
+Medium | Zoom out
+
+AUDIO:
+- low rumble of gas collision, sharp dust grain impact
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 116: Surprise — Payoff [15:20–15:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep space backdrop with distant stars
+
+ACTIONS:
+- Split-screen composition: left half shows our solar system's protoplanetary disk as a smooth, symmetrical golden spiral glowing softly in warm amber light
+- Right half reveals IRAS 23077's chaotic asymmetric disk with turbulent gas streams and bright collision zones
+- Both disks rotate slowly, the contrast between order and chaos visually stark
+
+CAMERA:
+Wide | Crane
+
+AUDIO:
+- faint gas whooshing left disk, sharp particle impacts right disk
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 117: Surprise — Payoff [15:28–15:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep space backdrop with distant stars
+
+ACTIONS:
+- Split-screen composition: left half shows Earth's serene protoplanetary disk with gentle concentric rings and soft amber glow, right half reveals a chaotic turbulent disk with violent gas jets and asymmetric spiral arms
+- Both disks rotate slowly in opposite directions
+
+CAMERA:
+Wide | Crane
+
+AUDIO:
+- gas jets hissing right channel, disk material grinding left channel
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 118: Trust — Payoff [15:36–15:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Distant stars provide subtle background illumination
+
+ACTIONS:
+- Ancient protoplanetary disk glowing softly in warm amber and golden tones, concentric rings of dust and gas rotating gently in pristine darkness
+- Camera pushes slowly toward the disk's luminous core where planets are forming
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- dust grains settling softly, ice crystals forming
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 119: Trust — Payoff [15:44–15:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Background shows sparse starfield
+
+ACTIONS:
+- Warm-lit protoplanetary disk center frame showing gentle planetary formation in progress, with small proto-planets visible as bright points within cleared orbital gaps
+- Soft golden and amber lighting at 4000K illuminates the disk's inner regions
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- proto-planet orbital resonance tones, material accretion clicks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 120: Trust — Payoff [15:52–16:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Sparse stars in background
+
+ACTIONS:
+- Tranquil protoplanetary disk bathed in warm 4000K golden light, showing the moment of stillness where organized matter begins to form complex structures
+- Camera pushes gently toward a region where dust and gas have settled into stable, concentric patterns
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- molecular bonds forming, crystalline structures clicking into place
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 121: Trust — Payoff [16:00–16:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm amber light bathes a delicate spiral of cosmic dust suspended in deep space, its edges glowing softly against a gradient of twilight indigo fading to gentle gold
+
+ACTIONS:
+- Warm amber light bathes a delicate spiral of cosmic dust suspended in deep space, its edges glowing softly against a gradient of twilight indigo fading to gentle gold
+- The spiral rotates almost imperceptibly, matter coalescing in quiet harmony
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- faint crystalline chime resonating
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+════════════════════════════════════════════════════════════════
+[END SCENE PROMPTS]
+════════════════════════════════════════════════════════════════
