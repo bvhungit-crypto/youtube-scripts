@@ -1,0 +1,2287 @@
+════════════════════════════════════════════════════════════════
+[CHARACTERS Description]
+════════════════════════════════════════════════════════════════
+
+PROJECT: They_thought_they_were_seeing_the_universe_s_boundary__They_were_wrong
+
+RATIO: 16:9
+
+--------------------------------------------------
+STYLE (DETAILED - MANDATORY):
+
+- Style Directive: Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1
+
+- Medium: Live-action / Cinematic
+
+- Visual Style:
+  - Photorealistic textures with accurate material response
+  - Observational documentary framing — restrained and credible
+  - Cinematic composition with depth and motivated framing
+  - Anamorphic 2.39:1 framing language adapted to delivery ratio
+  - 8K capture-grade detail with deep blacks and clean highlights
+  - HDR contrast — preserved highlights, nuanced shadows
+
+- Character Design:
+  Semi-realistic figures
+
+- Materials & Textures:
+  [e.g. Flat colors only / Cel-shaded with soft shadow / Painterly with visible brushwork]
+
+- Lighting:
+  Volumetric lighting with visible light shafts
+
+- Color Palette:
+  [Define color roles — e.g. Red = danger, Yellow = energy, Blue = calm, Black outline for clarity]
+
+- Rendering Quality:
+  [e.g. Crisp, clean, high-definition / Slightly grainy retro / Hyper-smooth anime-style]
+
+- Motion Feel:
+  [e.g. Smooth action-driven / Bouncy exaggerated / Slow cinematic / Snappy cut-driven]
+
+- Overall Impression:
+  [One paragraph — what should viewers FEEL when watching? What is the visual "brand" of this project?]
+
+--------------------------------------------------
+TONE:
+[Overall emotional register — e.g. High tension, urgent, dramatic / Dark comedic, absurdist / Warm and nostalgic / Energetic and hype]
+[Detected dominant emotion (auto, for reference): Trust]
+
+--------------------------------------------------
+RENDERING RULES:
+
+- [Rule 1 — e.g. NO TEXT, NO LETTERS, NO SYMBOLIC WORDS in any scene]
+- [Rule 2 — e.g. Story must be conveyed entirely through visuals and expressions]
+- [Rule 3 — e.g. Each scene must have a clear visual conflict or action beat]
+- [Rule 4 — e.g. Only include characters explicitly required in each scene]
+- [Rule 5 — e.g. No background crowd, no unnecessary props]
+- [Add more rules as needed]
+
+--------------------------------------------------
+CHARACTERS (LOCKED):
+
+- Character 1: Voyager
+  [Physical description — face shape, skin tone, eye style — fill in]
+  [Hair — color #HEX, length, style — fill in]
+  [Default outfit — top, bottom, shoes, accessories — fill in]
+  [Signature trait — what makes them instantly recognizable — fill in]
+  [Expression range — what emotions they show most — fill in]
+
+- Character 2: Network
+  [Physical description — face shape, skin tone, eye style — fill in]
+  [Hair — color #HEX, length, style — fill in]
+  [Default outfit — top, bottom, shoes, accessories — fill in]
+  [Signature trait — what makes them instantly recognizable — fill in]
+  [Expression range — what emotions they show most — fill in]
+
+- [Add unnamed characters (narrator, crowd, etc.) here if needed]
+
+--------------------------------------------------
+ENVIRONMENT (GLOBAL):
+
+[Default background / world setting for the entire project]
+[e.g. Minimal clean background, soft gradient sky / Neon-lit urban rooftop / Pastel fantasy kingdom]
+[Note: individual scenes can override this with their own ENVIRONMENT field]
+
+[Detected scene environments (auto, for reference):]
+  - Shadowed control-bay environment with cool steel-blue monitor spill and calm, trustworthy atmosphere
+  - Deep-space data chamber aesthetic: steel-blue blacks, instrument-white highlights, precise volumetric light, clean documentary mood
+  - A physical plasma chamber display of solar wind shows flowing particle filaments, posture-like flow smooth then thinning at the boundary
+  - Vast black starfield with crisp cyan measurement lines, emotionally reassuring through precision
+  - Clean deep-space corridor with steel-blue blacks, instrument-white highlights, and reassuring contrast, contemplative not ominous
+  - Night observatory environment with steel-blue highlights and trustworthy procedural calm
+  - Mission operations environment lit by cool instrument-white screens, emotionally steady and precise
+  - Medium close-up, gentle push-in on a command workstation at Jet Propulsion Laboratory
+  - Blue-white instrument light in Jet Propulsion Laboratory feels disciplined and reassuring
+  - Clean console bay with cool steel-blue highlights and orderly cable runs conveys dependable routine
+  - Cool, sterile control room lighting feels calm yet consequential
+  - Deep-space black and steel-cyan instrument whites create precise, trustworthy stillness in a Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1 aesthetic
+
+--------------------------------------------------
+GOAL:
+[Optional — one sentence stating the visual storytelling goal of the entire video]
+[e.g. "Make the audience feel the tension of nuclear deterrence without using any text or narration"]
+
+════════════════════════════════════════════════════════════════
+[END CHARACTERS Description]
+════════════════════════════════════════════════════════════════
+
+
+════════════════════════════════════════════════════════════════
+SCENE PROMPTS
+════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────
+🎬 SCENE 01: Trust — Hook [00:00–00:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Shadowed control-bay environment with cool steel-blue monitor spill and calm, trustworthy atmosphere
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 50 YEARS
+
+ACTIONS:
+- A brushed-metal Voyager telemetry module marked “50 YEARS,” steady and dignified, indicator posture rigid and unwavering
+- One thin status trace flickers
+- Drops out mid-scroll, leaving an incomplete line
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- relay click, status beep cutoff, cooling fan whir, switch toggle
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 02: Trust — Hook [00:08–00:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep-space data chamber aesthetic: steel-blue blacks, instrument-white highlights, precise volumetric light, clean documentary mood
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- solar wind
+
+ACTIONS:
+- Medium close-up, very slow gentle push-in
+- 2
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- telemetry beeps, relay clicks, antenna servo whir
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 03: Trust — Hook [00:16–00:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+A physical plasma chamber display of solar wind shows flowing particle filaments, posture-like flow smooth then thinning at the boundary
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- solar wind
+
+ACTIONS:
+- A physical plasma chamber display of solar wind shows flowing particle filaments, posture-like flow smooth
+- Thinning at the boundary
+- The measured stream weakens toward interstellar medium, with the crossing moment left unresolved
+
+CAMERA:
+Macro | Static
+
+AUDIO:
+- oscilloscope tick, instrument button press, servo motor rotate, printer feed pull
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 04: Trust — Hook [00:24–00:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Vast black starfield with crisp cyan measurement lines, emotionally reassuring through precision
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 15 billion miles
+
+ACTIONS:
+- Earth and Voyager markers hold disciplined spacing while a numeric ruler physically expands
+- “15,000,000,000 miles” resolves digit by digit
+- The probe marker continues drifting as the far endpoint stays beyond frame, action intentionally incomplete
+
+CAMERA:
+Wide | Zoom out
+
+AUDIO:
+- digital counter ticks, mouse click, trackball roll, mechanical meter ratchet
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 05: Trust — Hook [00:32–00:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clean deep-space corridor with steel-blue blacks, instrument-white highlights, and reassuring contrast, contemplative not ominous
+
+ACTIONS:
+- Voyager 1 high-gain antenna centered, steady posture against frame, dish angled with calm precision
+- Tiny status LEDs glow softly like a composed expression
+- A narrow cyan radio pulse begins crossing sparse interstellar dust and stops just before reaching a distant star marker, leaving the transmission unresolved
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- antenna motor whir, relay click, telemetry beep, static crackle
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 06: Trust — Hook [00:40–00:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Night observatory environment with steel-blue highlights and trustworthy procedural calm
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 23 hours
+
+ACTIONS:
+- The dish structure appears deliberate and steadfast, angle joints tense yet controlled
+- A visible “23:00:00” uplink timer starts counting down as the antenna slews toward target, leaving outcome pending
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- gear motor whine, azimuth drive clunk, countdown button click, cable reel spin
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 07: Trust — Hook [00:48–00:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Mission operations environment lit by cool instrument-white screens, emotionally steady and precise
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 23 hours
+
+ACTIONS:
+- A return-path timeline panel shows outbound and inbound light-time bars
+- Posture of the interface is rigid, with a blank confirmation slot waiting
+- Seconds accumulate on a “+23h return” clock while no telemetry line appears yet
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- clock tick, keycap press, status LED click, paper log stamp
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 08: Trust — Hook [00:56–01:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Medium close-up, gentle push-in on a command workstation at Jet Propulsion Laboratory
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 48 years
+- Jet Propulsion Laboratory
+
+ACTIONS:
+- A dated mission log spine marked “48 YEARS” sits beside restrained hands
+- Shoulders squared, expression implied by controlled, careful movements
+- One command key is pressed, transmit switch engaged, and the cursor pauses before any reply field updates
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- keyboard clicking, transmit switch snap, pen scratching paper, printer line-feed
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 09: Trust — Hook [01:04–01:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Blue-white instrument light in Jet Propulsion Laboratory feels disciplined and reassuring
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 48 years
+- Jet Propulsion Laboratory
+
+ACTIONS:
+- A veteran JPL flight engineer with relaxed shoulders, steady gaze, and lightly furrowed brow stands beside a wall of dated Voyager mission plaques marked across 48 years
+- He presses a transmit key
+- Keeps his finger hovering before release, incomplete
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- keyboard clicking, switch toggling, pen tapping clipboard, printer paper feeding
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 10: Trust — Hook [01:12–01:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clean console bay with cool steel-blue highlights and orderly cable runs conveys dependable routine
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 48 years
+- Jet Propulsion Laboratory
+
+ACTIONS:
+- Gloved hands with calm, precise posture annotate a worn JPL checklist binder labeled with decades of dates
+- Expression implied through unhurried, deliberate pen pressure
+- A line item “uplink sent” is checked while the final checkbox remains blank
+
+CAMERA:
+Macro | Static
+
+AUDIO:
+- pen scratching paper, binder rings clacking, mechanical keyboard clicking, relay button clicking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 11: Trust — Hook [01:20–01:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cool, sterile control room lighting feels calm yet consequential
+
+ACTIONS:
+- Voyager 1 power budget monitor is center frame
+- A seated controller at edge frame shows composed posture, clasped hands, tight lips
+- The wattage number ticks down by tiny increments while a subsystem priority card is moved to the top but not acted on
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- monitor button beeps, card sliding on desk, pen cap clicking, keyboard clicking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 12: Trust — Hook [01:28–01:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep-space black and steel-cyan instrument whites create precise, trustworthy stillness in a Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1 aesthetic
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 15 billion miles
+
+ACTIONS:
+- Voyager 1 appears tiny and stoic at map edge, while irradiance bars visibly thin and contract toward near-black, conveying calm inevitability
+- A luminous distance ruler expands from Sun to a labeled 15-billion-mile mark
+- Solar flux numerals resolve downward until panels icon fades unusable and RTG output line remains
+
+CAMERA:
+Wide | Slow push-in
+
+AUDIO:
+- interface beeps, relay clicks, data-tick pulses
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 13: Trust — Hook [01:36–01:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Sterile white components against deep black space evoke exact engineering truth
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 15 billion miles
+
+ACTIONS:
+- Voyager RTG cross-section fills frame
+- No person visible, but the design language conveys controlled confidence through symmetric, rigid geometry
+- A luminous path traces heat from plutonium source through thermocouples into an electrical output meter that begins to rise
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- mechanical relay clicking, meter needle ticking, cooling fan whirring, switch snapping
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 14: Trust — Hook [01:44–01:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+High-contrast blacks and instrument whites feel clinical and dependable
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 15 billion miles
+
+ACTIONS:
+- Split-frame shows RTG exterior render and live voltage readout
+- An engineer’s hand at frame edge rests steady, fingers slightly curled, signaling controlled concern
+- Voltage digits step downward in measured intervals while a threshold marker remains just ahead, unresolved
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- telemetry beep sequence, key switch turning, stylus tapping glass, printer line-feed chatter
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 15: Trust — Hook [01:52–02:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Bright instrument-white surfaces with soft 3800K neutral-warm highlights create a trustworthy mission-lab atmosphere in a Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1 style
+
+ACTIONS:
+- A benchtop power meter and a dim LED lamp centered frame, clean labels visible
+- The indicator glow feels calm and dependable
+- The meter stabilizes at 4.0 W while a split-screen style overlay begins drawing a yearly decision tally but stops mid-mark, withholding the final count
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- switch toggle click, meter button press, tiny cooling fan tick, pen tap on clipboard
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 16: Trust — Hook [02:00–02:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Mission data console surface in neutral-warm light with crisp cyan-white traces, clean controlled documentary atmosphere
+
+ACTIONS:
+- A descending power-output line graph labeled launch-to-April-2026 is the subject
+- Calm, trustworthy intent is expressed through stable axis marks and orderly annotations
+- Data points resolve one-by-one: heater off, instrument off, redundant system off, while the line nears a highlighted threshold and pauses just before crossing
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- keyboard keypresses, trackball clicks, marker squeak on acetate, printer feed chatter
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 17: Trust — Build Up [02:08–02:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Environment is a clean spacecraft data wall in cool steel-blue and instrument-white, emotionally focused and deliberate
+
+ACTIONS:
+- A Voyager power telemetry panel shows calm, trustworthy order: stable grid lines, steady status LEDs, one cyan-highlighted subsystem label waiting unresolved
+- Numeric output physically strains into focus at 47% of launch power
+- Pauses before the next shutdown candidate is selected
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- relay click, toggle switch snap, keypad taps, thermal printer feed
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 18: Trust — Build Up [02:16–02:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Bright instrument-white and steel-blue mission display glow in a clean control environment, conveying disciplined trust rather than loss
+
+ACTIONS:
+- Voyager 1 power telemetry panel fills frame
+- Declining wattage trace feels fragile yet orderly, with crisp numerals and calm, balanced composition
+- A sequence list auto-advances: HEATER OFF, INSTRUMENT OFF, REDUNDANT BUS OFF
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- relay click, keyboard tap, confirmation beep, switch toggle
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 19: Anticipation — Build Up [02:24–02:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Environment is an instrument console surface with growing shadow edges and controlled amber accents over cool blacks
+
+ACTIONS:
+- A command timestamp panel reads APR 17 2026 with anticipatory tension: cursor blinking, confirmation field empty, indicator light amber and waiting
+- The execute command appears
+- Stalls one beat before confirmation, leaving the action incomplete
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- keyboard key press, trackball roll, confirmation key click, relay snap
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 20: Anticipation — Build Up [02:32–02:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clean control bay with warm amber-shadow 3400K and soft gold-blue highlights, tension accumulating but hopeful
+
+ACTIONS:
+- Deep Space Network antenna feedhorn and waveguide assembly centered, servo housing slightly vibrating like a steady heartbeat
+- Posture reads fragile persistence through taut cables and trembling metal
+- Indicator LEDs pulse in staggered sequence while a thin gold data trace crawls across an overlay map from Earth toward Voyager, not yet reaching lock
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- relay clicks, servo motor whir, cable strain creaks, status light beeps
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 21: Trust — Build Up [02:40–02:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+archival-to-modern composited data wall, cool instrument-white on steel-blue in Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- five years
+
+ACTIONS:
+- A mission-duration graph and instrument manifest occupy frame
+- The ‘5 years’ marker stands crisp while a ten-instrument bar set appears taut and orderly, conveying disciplined confidence
+- Timeline scrub advances from 1977 launch to outer-planet flyby endpoints
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- film reel click, data cursor tap, keyboard keypress, projector sprocket chatter
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 22: Trust — Build Up [02:48–02:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Even 3800K neutral-warm light with gentle gold-blue balance in a clean operations environment, deliberate and trustworthy
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- That mission
+
+ACTIONS:
+- A mission timeline monitor fills frame with a calm, factual expression through design: archival bars compressed toward the left, final mission-phase marker glowing softly
+- A nearby engineer’s hand rests still, fingers unclenched, signaling acceptance
+- The cursor advances to “Mission Ended” and stops while downstream timeline lanes remain blank and waiting
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- keyboard key tap, trackball clicks, monitor button press, printer paper feed
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 23: Trust — Build Up [02:56–03:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+minimalist black star map with cyan vectors and subtle gold-blue balance, quiet endurance tone in Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1
+
+ACTIONS:
+- Deep-space tracking display shows Voyager icon steady and upright, trajectory line unwavering like composed determination
+- A live distance counter increments continuously while a signal-return waveform keeps pulsing, never dropping to zero
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- telemetry pulse click, counter tick, dish actuator step, packet receipt chirp
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 24: Trust — Build Up [03:04–03:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Environment stays bright instrument-white and steel-blue with subtle warm balance, evoking procedural trust
+
+ACTIONS:
+- Instrument status rack and schematic bus map dominate frame
+- Channel indicators appear orderly but strained, with steady geometry and neutral, composed visual posture
+- Across decades on the display, indicators extinguish one by one in chronological blocks while power-margin numbers recalculate, each cutoff deliberate and unfinished by clip end
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- circuit-breaker snap, relay clack, panel button press, data terminal beep
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 25: Trust — Build Up [03:12–03:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+clean spacecraft avionics interior, cool steel-blue highlights, documentary clarity with low-arousal confidence
+
+ACTIONS:
+- Voyager instrument bay panel is the subject, metal faceplate steady and dignified, indicator rows like calm eyes with a restrained, trustful stillness
+- Status LEDs extinguish one by one in deliberate sequence
+- Remaining channels keep a single steady green, leaving the shutdown process unresolved
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- relay click, switch toggle snap, LED driver tick, cooling fan bearing whirr
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 26: Trust — Build Up [03:20–03:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Bright flight-data bay with steel-blue and instrument-white illumination, clean positive scientific atmosphere
+
+ACTIONS:
+- Voyager 1 telemetry panel and instrument-status matrix appear steady and orderly, digits crisp and balanced, conveying calm confidence
+- A highlighted timestamp locks on “2012 interstellar crossing” while three remaining instrument channels pulse and one quantitative value resolves from noise into a stable number, leaving additional fields still pending
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- relay clicks, thermal-printer ticks, keypad taps, short confirmation beeps
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 27: Trust — Build Up [03:28–03:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clean instrument rack and glass display surfaces in cool steel-blue and white highlights, high-clarity documentary calm
+
+ACTIONS:
+- A single telemetry waveform line runs taut and unwavering across a real mission monitor, its trace smooth and composed, signaling reliable trust
+- Packet markers arrive at regular intervals
+- Each marker stamps a new interstellar reading
+
+CAMERA:
+Macro | Static
+
+AUDIO:
+- packet decoder clicks, hard-drive seek ticks, switch toggles, printer chattering
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 28: Trust — Build Up [03:36–03:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+deep-space cartography chamber look, cool steel-blue whites, precise volumetric contrast
+
+ACTIONS:
+- Primary subject is an interstellar region map, initially blank and rigid
+- Overlaid by first direct measurement points
+- The map’s geometry reads as cautious confidence
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- stylus tap on glass, interface knob ratchet, marker pen scratch on acetate, projector relay click
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 29: Trust — Build Up [03:44–03:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+clean analytical visualization space, cool cyan highlights over deep blacks, methodical documentary mood
+
+ACTIONS:
+- Primary subject is comparative plasma-density graph bands, composed and trustworthy in posture
+- Measured trace rises beyond model envelope with restrained tension
+- Magnetic-orientation arrow set rotates to a non-predicted angle, and a sharp vertical heliopause edge appears against previously soft theoretical gradient
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- mouse click, graph cursor tick, stylus drag on tablet, alert LED click
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 30: Trust — Build Up [03:52–04:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Environment is a black-cyan data theater in Cinematic photorealistic NASA documentary style, 8K HDR, volumetric lighting, anamorphic lens 2.39:1 aesthetic, controlled and analytical mood
+
+ACTIONS:
+- A layered scientific visualization carries physical tension: plasma density bars stand taller and compressed, magnetic vectors abruptly pivot, and a razor-thin luminous heliopause boundary appears rigid like a wall rather than a gradient
+- An older semi-transparent model band remains behind it, visibly softer and now contradicted
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- marker squeak on glass board, mechanical pointer clicks, monitor button presses, printer feed whirrs
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 31: Trust — Build Up [04:00–04:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+clean research visualization space, steel-blue whites and controlled contrast, contemplative documentary atmosphere
+
+ACTIONS:
+- Primary subject is a boundary diagram beside handwritten equations on transparent board, symbols upright but incomplete, conveying calm trust with visible uncertainty
+- One equation line stops mid-term
+- Beyond it, Voyager track markers continue into interstellar coordinates without matching solution
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- marker squeak on glass, eraser rub, chalk snap, page turn flick
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 32: Trust — Build Up [04:08–04:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+high-contrast deep-space analysis display, cool cyan accents, photoreal NASA documentary restraint
+
+ACTIONS:
+- Primary subject is Voyager trajectory over a heliopause schematic with layered anomaly markers, line posture steady and composed, signaling durable trust while gaps remain
+- Known boundary parameters lock into place
+- Unknown beyond-boundary findings stay as blinking unclassified nodes, unresolved through the hold
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- status light click, data packet chirp, console key press, hard-drive seek tick
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 33: Trust — Build Up [04:16–04:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep-space operations bay glows steel-blue with instrument-white highlights, controlled and methodical atmosphere in Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1 style
+
+ACTIONS:
+- A timestamped telemetry monitor shows calm, trustworthy precision—flat signal line, steady indicator bars, clean numerals, no human in frame
+- At 2023-11-14 00:00 UTC, one channel abruptly kinks into irregular blocks while adjacent channels remain stable, leaving cause unresolved
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- relay clicks, monitor button beeps, thermal printer chattering paper feed
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 34: Trust — Build Up [04:24–04:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep Space Network telemetry console centered; a flight engineer behind it shows low-intensity concern—forward-leaning posture, tight jaw, steady eyes, one hand hovering above keys
+
+ACTIONS:
+- Deep Space Network telemetry console centered
+- A flight engineer behind it shows low-intensity concern—forward-leaning posture, tight jaw, steady eyes, one hand hovering above keys
+- Carrier-lock indicator stays solid green while incoming packet text mutates into scrambled glyphs and checksum fields flash red
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- keyboard clicking, relay clicks, printer paper feed rattling, antenna servo motor ticks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 35: Trust — Build Up [04:32–04:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Controlled mission-ops backdrop with steel-blue whites and crisp contrast in Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1 style
+
+ACTIONS:
+- Split-frame instrumentation appears composed and trustworthy: left panel power and command response meters hold stable bars, right panel science telemetry window splinters into scrambled hex clusters
+- No faces shown
+- Diagnostic cursor steps line-by-line through both streams, confirming one path healthy and one broken
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- switch toggles, data-terminal key taps, dot-matrix printer ratcheting
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 36: Trust — Build Up [04:40–04:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Even, documentary-clean control room atmosphere with cool instrument light in Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1 style
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- The mission
+
+ACTIONS:
+- Mission-control team is the subject: engineers stand upright with calm but tightened shoulders, focused eyes, restrained expressions of concern and resolve
+- A central fault board flashes “UNCLASSIFIED FAULT PATH” as hands freeze above checklists
+- Resume deliberate marking, signaling unprecedented territory
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- marker squeaks on whiteboard, paper pages flipping, keyboard clicks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 37: Trust — Build Up [04:48–04:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Archival-tech environment feels meticulous and sober in Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1 style
+
+ACTIONS:
+- A 1970s computer architecture schematic appears physically ‘strained’ yet orderly—annotated buses, memory blocks, and command paths marked with precise pencil circles, no people centered
+- A round-trip timer display increments toward 47:58:00 while queued test commands remain pending, emphasizing two-day feedback latency without resolution
+
+CAMERA:
+Medium | Tracking
+
+AUDIO:
+- pencil scratching paper, mechanical stopwatch clicks, file drawer metal slide
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 38: Trust — Build Up [04:56–05:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Quiet archival workspace with cool whites and cyan spill, emotionally steady in Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1 style
+
+ACTIONS:
+- Original 1970s engineering notes become primary subject, physically conveying fragile trust—creased pages, faded ink, careful handwritten fault trees, clipped subsystem map edges
+- No talking heads
+- A gloved hand aligns two mismatched paper schematics and circles a possible bypass path but stops before completion
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- paper rustling, binder ring snaps, pencil taps on desk
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 39: Trust — Build Up [05:04–05:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+High-contrast black-cyan telemetry bay in Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1 style
+
+ACTIONS:
+- A deep-space range readout dominates frame with composed precision—distance numerals roll steadily while a diagnostic command queue waits in amber status, no person centered
+- Command packet IDs advance one slot
+- Stall beside the vast distance value, visually encoding the communication gap and unresolved verification
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- keypad clicks, command-enter key thunks, status LED relay ticks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 40: Trust — Build Up [05:12–05:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Methodical operations atmosphere with cool steel-blue and subtle balanced highlights in Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1 style
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- five months
+
+ACTIONS:
+- The mission-progress board is central, physically expressing patient trust—orderly posture in pinned cards, tidy handwritten dates, calm check marks
+- Sequential overlays show software patch versions, rerouted memory addresses, and a final provisional bypass line connecting broken and healthy paths, still awaiting full confirmation
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- sticky note peel, marker strokes, keyboard return-key clicks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 41: Trust — Build Up [05:20–05:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Inside JPL operations, steel-blue monitor spill and instrument-white practicals create calm procedural tension
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- two days
+
+ACTIONS:
+- A dual-day mission elapsed timer rack is the subject, seven-segment digits rigid and unblinking like restrained breath, status LEDs steady
+- The readout ticks from 47:59:59 toward 48:00:00 while a command queue line remains pending, unresolved
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- relay click, fluorescent ballast buzz, wall clock tick, chair fabric creak
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 42: Trust — Build Up [05:28–05:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Mission operations bay feels orderly and hopeful, steel-blue instrument light with soft volumetric shafts and clean contrast
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- five months
+
+ACTIONS:
+- A telemetry monitor is center frame with an engineer behind it, shoulders unclenched and a faint relieved smile
+- New data packets begin repopulating line by line while five monthly calendar tabs (Dec–Apr) clipped beside the screen mark the gap just ended
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- relay clicks, keyboard key taps, thermal printer chatter, pen tapping clipboard
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 43: Joy — Build Up [05:36–05:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm-leaning control lab with amber accents over steel-blue instrumentation, hopeful energy without excess
+
+ACTIONS:
+- A propulsion test manifold and archived thruster telemetry overlay are centered
+- Valve housing appears tense in rigid alignment, indicator needles quiver
+- Settle
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- valve clack, nitrogen hiss, actuator chirp, thermal blanket rustle
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 44: Joy — Deep [05:44–05:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Mission analysis room remains clean and restrained, cool blacks with subtle warm key on hardware edges
+
+ACTIONS:
+- Split-screen engineering display is primary: left pane shows 2004 thruster failure flatline, right pane shows present restart trace
+- Waveform posture shifts from collapsed to upright, conveying regained function
+- A diagnostic flag flips from INHIBIT to ENABLE, delivering a measured intermediate payoff
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- toggle switch snap, stylus tap on glass, data recorder spool click, console button press
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 45: Joy — Deep [05:52–06:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+High-contrast lab chamber with cyan shadows and precise amber edge lights sustains disciplined optimism
+
+ACTIONS:
+- Voyager-style thruster nozzle assembly dominates frame, metal petals rigid
+- Subtly vibrating
+- Plume test ignites as thrust vector graph resolves upward with controlled confidence
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- igniter tick, brief combustion whoosh, metal ping, gauge needle tap
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 46: Trust — Deep [06:00–06:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Teal-accented archival bay, even documentary light, stable and authoritative atmosphere
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Fifty years
+- 23 hours
+- Voyager mission
+
+ACTIONS:
+- A physical mission timeline wall is centered: “1977–2026” placards, a mechanical 23-hour countdown module, and Voyager mission patch pins
+- Materials appear worn yet upright, conveying enduring trust
+- Hands enter only to slide a new fault card under ‘current cycle,’ linking fifty years to one waiting window
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- card slot scrape, magnet click, stopwatch button press, paper flip
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 47: Trust — Deep [06:08–06:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The room feels calm, precise, and quietly triumphant with teal-cyan highlights and balanced contrast
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Fifty years
+- 23 hours
+- Voyager mission
+
+ACTIONS:
+- A physical Voyager mission timeline wall dominates center frame
+- Two technicians at the edges stand upright with focused faces and steady hands
+- One hand flips milestone cards to reveal “50 YEARS,” another advances a split-flap counter through “23:00,”
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- card flip snaps, marker squeak on board, split-flap clacks, toggle switch clicks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 48: Fear — Deep [06:16–06:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cold high-contrast control environment with deep blacks and cyan edges, tension without chaos
+
+ACTIONS:
+- A power telemetry plot is primary
+- Voltage trace physically drops hard below threshold band, red fault-protect marker blinking while instrument-priority table shuffles to automatic order
+- The severe drop unfolds visibly, escalating fear with procedural clarity
+
+CAMERA:
+Wide | Crane
+
+AUDIO:
+- alarm chirp burst, hard keypress, relay clack, plotter pen scratch
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 49: Fear — Deep [06:24–06:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Flight instrumentation bay in cold steel-blue darkness, cyan highlights, tense documentary atmosphere
+
+ACTIONS:
+- Macro insert, locked-off camera with micro push-in
+- 2
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- relay click, switch toggle, alarm chirp, thermal metal creak
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 50: Fear — Deep [06:32–06:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep Space Network dish appears physically strained, tilted posture against wind, indicator lights strobing like alarmed eyes
+
+ACTIONS:
+- Epic wide, slow ascending crane
+- 2
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- servo motor whine, gear clack, gravel crunch, cable snap-tick
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 51: Trust — Deep [06:40–06:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Mission command console in neutral teal-accent practical light, calm authoritative atmosphere
+
+ACTIONS:
+- Medium shot, completely static camera
+- 2
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- keyboard clicking, keycap press thud, confirmation beep, wrist fabric rustle
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 52: Trust — Deep [06:48–06:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep-space map room visualization with cool teal accents and disciplined calm
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 23 hours
+- three hours
+- fifteen minutes
+
+ACTIONS:
+- Medium-wide data graphic shot, static camera
+- 2
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- button click, marker pen tap, digital timer tick, printer feed ratchet
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 53: Trust — Deep [06:56–07:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Spacecraft instrument bay rendered with clinical teal-white highlights, instructional clarity
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Charged Particle experiment
+
+ACTIONS:
+- Technical close-up, static camera with slight rack focus
+- 2
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- latch click, connector snap, panel screw turn, diagnostic beep
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 54: Trust — Deep [07:04–07:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cool steel-blue archive lab texture blending into deep-space cyan-black, reflective yet confident mood
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 48 years
+- 224 days
+- galaxy
+
+ACTIONS:
+- Split-frame archival macro, static camera
+- 2
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- dot-matrix printing, paper feed whirr, film reel click, stylus scratch
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 55: Trust — Deep [07:12–07:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+5
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 48 years
+- 224 days
+- galaxy
+
+ACTIONS:
+- Wide cosmic visualization, slow orbital drift around mapped data volume
+- 2
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- telemetry tick, marker ping, electrode crackle, hard-drive seek click
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 56: Trust — Deep [07:20–07:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+5
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 48 years
+- 224 days
+- galaxy
+
+ACTIONS:
+- Rapid macro montage, precise locked cuts
+- 2
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- page flip, keyboard tap, projector click, plotter pen scratching
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 57: Trust — Deep [07:28–07:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Instrument bay interior with cool steel-blue and teal accents, emotionally steady rather than bleak, Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1 aesthetic
+
+ACTIONS:
+- LECP status panel centered, its design reads calm reliability through rigid alignment and an unblinking red OFFLINE lamp
+- The indicator flips from green memory trace to flat red status
+- Holds without flicker
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- relay click, status LED tick, cooling fan bearing whir
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 58: Trust — Deep [07:36–07:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep-black avionics cavity with cyan edge highlights and teal instrument reflections, restrained trust
+
+ACTIONS:
+- A half-watt motor assembly is the subject
+- Worn gear teeth and taut spindle convey fragile persistence through precise, controlled motion
+- The spindle rotates one measured turn, pauses
+
+CAMERA:
+Macro | Static
+
+AUDIO:
+- stepper motor ticks, gear chatter, ceramic bearing scrape
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 59: Trust — Deep [07:44–07:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm instrument-white panels with teal accents create a clean, reassuring control-bay atmosphere in a Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1 aesthetic
+
+ACTIONS:
+- The half-watt motor and sensor gimbal are centered
+- A nearby flight engineer shows low-arousal trust with relaxed shoulders, unclenched hands, and a steady, focused expression
+- The sensor rotates in slow, continuous increments while a power-budget overlay climbs toward a tentative restart threshold
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- servo ticks, bearing whir, switch toggle click, status-button press
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 60: Trust — Deep [07:52–08:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep-space black with cyan edges and slight gold-blue balance creates calm authority and enduring trust
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 23 hours
+
+ACTIONS:
+- Voyager 1 schematic dominates frame with two modules physically highlighted—magnetometer boom and plasma wave instrument—both glowing with stable status bars, their visual posture balanced and reliable
+- Data overlays resolve in sequence: magnetic field trace, plasma density waveform
+- A transmission path counter settling on “23:00:00” one-way light time
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- data printer chatter, keyboard tap, antenna actuator clack
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 61: Trust — Deep [08:00–08:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Steel-blue monitor glass, teal linework, disciplined documentary lighting with volumetric depth, trust-forward tone
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 23 hours
+
+ACTIONS:
+- Dual readouts fill frame: magnetometer trace and plasma-wave density graph, both physically “calm” through stable baselines and clean periodic spikes
+- Numeric field resolves to “signal transit: 23 h” as both channels continue updating in sync
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- keyboard keypresses, plotter pen scratching, monitor button clicks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 62: Trust — Deep [08:08–08:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Control-room screen surface shows subtle dust and phosphor grain in cool cyan shadows, conveying cautious confidence
+
+ACTIONS:
+- A monochrome telemetry line on an onboard monitor sits centered, with a blinking cursor beside the latest valid packet
+- The cursor’s measured pulse reads as composed but fragile
+- No new packet arrives
+
+CAMERA:
+Extreme Close-up | Static
+
+AUDIO:
+- cursor beep, hard-drive click, cooling fan blade tick
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 63: Trust — Deep [08:16–08:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Desk surface in cool steel-blue with teal reflections, paper whites clean and authoritative, Cinematic photorealistic NASA documentary texture
+
+ACTIONS:
+- A printed JPL shutdown-priority document is centered
+- Dog-eared corners and pencil pressure marks physically convey careful, responsible judgment
+- A graphite underline stops mid-sentence near “irreplaceable data,” leaving the decision path visually incomplete
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- paper rustle, pencil scratching, binder ring snap
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 64: Trust — Deep [08:24–08:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cyan-highlighted paper texture against deep neutral blacks, balanced cool tone with faint gold continuity
+
+ACTIONS:
+- Ranked shutdown entries dominate frame
+- Checkmarks and strike-throughs express sober trust through deliberate, methodical order
+- One remaining line item is isolated in shallow focus while previous revisions stack in margins, showing accumulated consensus
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- page turn flick, pen cap click, clipboard latch snap
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 65: Trust — Deep [08:32–08:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Inside a cool instrument bay display wall with teal accents, stable and authoritative atmosphere
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- five decades
+
+ACTIONS:
+- A mission telemetry checklist panel shows physically calm order—straight alignment, crisp typography, no jitter, conveying quiet confidence
+- A luminous year scale resolves from 1977 to 2027 as five decade markers illuminate one by one
+- Stop at an unfinished final tick
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- relay click, switch toggle, marker pen tap on metal clipboard
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 66: Trust — Deep [08:40–08:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+In a clean lab-display environment with steel-blue shadows and cyan highlights, calm technical clarity
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- five decades
+
+ACTIONS:
+- A 1970s soldered avionics board appears resilient—rigid geometry, weathered lacquer, steady presence suggesting dependable trust
+- A hard match-cut reveals a present-day telemetry daughterboard with identical signal path traces lighting in sequence, proving continuity across decades
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- soldering iron hiss, tiny screw set down, connector snap-in
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 67: Trust — Deep [08:48–08:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Set on a high-contrast deep-space chart table with cyan annotation light, contemplative and trustworthy
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- five decades
+
+ACTIONS:
+- A heliopause trajectory map carries a composed, enduring expression through precise lines and steady labels
+- A glowing spacecraft trace advances from Jupiter past the solar boundary while decade hash marks accumulate to nearly fifty years
+- Pause before completion
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- stylus drag on glass screen, button press, printer tick
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 68: Trust — Deep [08:56–09:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Environment is a documentary data wall, cool and precise
+
+ACTIONS:
+- A mission screen list appears solemn but controlled—rows perfectly aligned, sharp white text against teal-black, conveying disciplined trust
+- Instrument names appear one by one in hard cuts: photopolarimeter, infrared spectrometer, ultraviolet spectrometer, plasma science instrument, cosmic ray subsystem, imaging system, low-energy charged particle experiment
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- keyboard key press, confirmation beep, mechanical keycap click
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 69: Trust — Deep [09:04–09:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+In a cool archival console bay with cyan edge light and deep blacks, factual and composed mood
+
+ACTIONS:
+- A printed subsystem roster sits tense but orderly—paper edges slightly curled, stamped fields rigid, a restrained expression of depletion without panic
+- Each listed instrument row receives an OFFLINE stamp, leaving visible blanked rows at the bottom
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- rubber stamp thud, paper slide, binder ring snap
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 70: Trust — Deep [09:12–09:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clean mission operations bay in authoritative data-journalism mood, warm-neutral 3700K with teal accents, bright steel-blue highlights and clear whites
+
+ACTIONS:
+- Center-framed spacecraft telemetry status board with a flight systems engineer beside it, shoulders level, hands unclenched, calm focused eyes conveying quiet trust
+- Instrument rows update in sequence: seven labels fade to inactive gray, two remain bright instrument-white
+- A subtle overlay locks on “2 REMAINING” as an intermediate procedural payoff
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- keyboard key clicks, relay switch clicks, touchscreen tap ticks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 71: Trust — Deep [09:20–09:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Surrounding starfield and hard-edged instrument-white overlays create a factual, composed atmosphere of earned trust
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 3.7 billion miles
+- The spacecraft
+
+ACTIONS:
+- Voyager 1 itself is centered in deep black
+- Its bus appears weathered yet upright, dish locked forward with a restrained, resilient stance
+- A launch-to-now power graph draws downward in crisp cyan beside the craft, crossing below the halfway mark, while “3.7 BILLION MILES” ticks into place and a single transmitter path on the bus schematic stays illuminated
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- gyroscope wheel whir, actuator tick, data-printer chatter, keyboard key click, confirm-button beep
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 72: Trust — Deep [09:28–09:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep-space backdrop with high-contrast blacks, cyan rim light, and documentary realism
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 3.7 billion miles
+- The spacecraft
+
+ACTIONS:
+- The spacecraft hardware shows dignified endurance—pitted metal, stable alignment, no tremor, expressing resilient trust through physical wear
+- Tiny attitude-control movement settles the dish toward Earth while a small transmitter status indicator remains active
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- actuator motor whirr, latch click, gyroscope tick
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 73: Trust — Deep [09:36–09:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Mission control instrumentation bay glows in cool steel-blue and instrument white, restrained contrast, emotionally steady
+
+ACTIONS:
+- A flight-power console readout shows calm, trustworthy stability: straight graph posture, crisp cyan digits, no jitter
+- The equation resolves live: “-4 W/year,”
+- Projected end-date shifts one year forward as keypad entries complete
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- keypad clicking, relay tick, thermal printer chattering
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 74: Trust — Deep [09:44–09:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Data-wall environment in teal-accent documentary lighting feels precise and sober
+
+ACTIONS:
+- A timeline interface panel conveys controlled confidence: bars sit level, labels sharp, color balance disciplined
+- LECP shutdown executes as a visible event
+- The mission-duration bar extends by 12 months
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- touchscreen tap, confirmation beep, servo slider ratchet
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 75: Trust — Deep [09:52–10:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clean mission operations bay with warm gold-blue balance, polished metal, reassuring order, Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1 look
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 48 years
+
+ACTIONS:
+- A deep-space transmitter status rack fills frame
+- A small brass plaque reading “48 YEARS UNBROKEN” sits beneath LEDs, posture implied by machine steadiness, one amber indicator trembling at threshold
+- The final instrument channel light clicks from green to standby
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- relay click, soft status beep, cooling-fan whir, toggle switch snap
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 76: Trust — Deep [10:00–10:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Desert observatory at blue-hour with teal highlights and clean instrument contrast conveys composed trust
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 48 years
+
+ACTIONS:
+- A Deep Space Network dish appears physically patient and attentive: rigid stance, fixed elevation, unmoving feed horn
+- The dish stops tracking and holds, implying awaited silence after decades of lock
+
+CAMERA:
+Medium | Pan
+
+AUDIO:
+- azimuth motor winding down, gear clunk, wind buffeting metal struts
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 77: Trust — Deep [10:08–10:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep-space blacks with cyan edge light maintain serene, positive trust
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 000 miles
+- galaxy
+
+ACTIONS:
+- Voyager 1 occupies center with steadfast physical expression: high-gain antenna forward, bus stable, attitude unwavering
+- A clean overlay marks “38,000 mph” as the craft advances against sparse starfield, carrying the gold record visibly mounted
+
+CAMERA:
+Medium | Tracking
+
+AUDIO:
+- reaction-control thruster puff, gyroscope spin, instrument relay click
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 78: Trust — Deep [10:16–10:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Observatory-grade visualization chamber with cool white and teal instrument light sustains documentary authority
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 000 miles
+- galaxy
+
+ACTIONS:
+- A heliosphere boundary diagram in physical space appears as layered luminous shells with disciplined geometry, emotionally composed
+- Voyager’s trajectory line crosses outward while the boundary recedes behind, clarifying galaxy-bound travel without haste
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- projector shutter clicking, laser pointer tap, panel button press
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 79: Trust — Deep [10:24–10:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep-space tracking room with balanced blue-gold highlights and crisp blacks feels precise yet humane
+
+ACTIONS:
+- Left: Voyager probe icon feed with a disciplined pulse trace
+- Right: inert tumbling metal fragment silhouette, while a ground operator stands upright at a receive console, shoulders steady, eyes fixed, jaw relaxed in deliberate commitment
+- The active pulse completes a 23-hour loop marker and overlays the dead fragment feed, proving chosen reception creates meaning
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- keyboard tapping, toggle switch snap, printer paper feed, antenna motor rotation
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 80: Trust — Deep [10:32–10:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+A thin bidirectional signal line pulses between points, then steadies, embodying the “longest conversation.” Deep black space with gentle gold-blue balance delivers emotional resolution and trust
+
+ACTIONS:
+- Voyager appears tiny but resolute—antenna posture fixed toward a distant, faint Earth marker
+- Expression is enduring rather than triumphant
+- A thin bidirectional signal line pulses between points
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- transmitter carrier beep, antenna actuator click, data recorder spin
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 81: Trust — Deep [10:40–10:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Mission lab bench with teal monitor glints and disciplined, trustworthy atmosphere
+
+ACTIONS:
+- A weathered Voyager probe engineering model sits upright under steel-blue light, micro-scratches visible
+- A technician’s gloved hands at frame edge stay steady, shoulders relaxed, face unseen but posture deliberate and calm
+- One hand turns a tiny power-control dial by a single notch
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- rotary switch click, glove fabric rustle, relay tick, pen tap
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 82: Trust — Deep [10:48–10:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+A labeled magnetic data tape reel in foreground and a modern server drive stack behind it form the center frame; archival wear marks and clean metal surfaces mirror continuity, conveying quiet confidence through ordered alignment
+
+ACTIONS:
+- A labeled magnetic data tape reel in foreground and a modern server drive stack behind it form the center frame
+- Archival wear marks and clean metal surfaces mirror continuity, conveying quiet confidence through ordered alignment
+- The focus shifts from spinning tape hub to blinking drive activity LED as records persist across eras
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- tape reel whir, reel latch snap, drive tray click, indicator button press
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 83: Trust — Deep [10:56–11:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Practical monitor spill creates crisp cyan highlights and deep black separation
+
+ACTIONS:
+- A printed procedure checklist is centered
+- A gloved index finger rests firm, knuckles slightly tense but controlled, signaling cautious trust
+- The finger tracks line-by-line while a graphite check mark appears beside “power swap sequence,” stopping before the final unchecked line
+
+CAMERA:
+Macro | Static
+
+AUDIO:
+- pencil scratching paper, page edge flick, glove creak, clipboard clip snap
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 84: Trust — Deep [11:04–11:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Mission operations bay glows in cool steel-blue and teal instrument light, clean ordered atmosphere, trust-forward and controlled
+
+ACTIONS:
+- A Voyager command-sequence terminal and power budget panel sit centered with steady green status bars and unwavering numerals, conveying disciplined confidence
+- A single batched upload script populates step-by-step
+- Pauses at an unexecuted final line tagged “BIG BANG,” leaving the action intentionally incomplete
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- keyboard clicking, mechanical key switch clacks, relay ticks, printer paper feeding
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 85: Trust — Deep [11:12–11:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Bright mission operations bay with clean instrument-white panels and teal edge light, confident and orderly atmosphere
+
+ACTIONS:
+- Primary subject: Voyager command-sequence simulator and live telemetry readout, indicators physically calm—straight stable bars, unblinking green lock icons, evenly spaced power curves
+- A single synchronized command block executes, legacy module lines fade while lower-power lines illuminate together
+- A countdown labeled “23h one-way” starts
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- relay click, keyboard tapping, confirmation beep, servo switch snap
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 86: Trust — Deep [11:20–11:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Dawn haze with cyan-steel highlights and deep-space black sky gradient
+
+ACTIONS:
+- A DSN dish fills frame in compression
+- Its structure appears poised and confident, bolted joints rigid, maintenance crew silhouettes at base standing still with attentive posture
+- The dish rotates by a precise few degrees and locks onto heading, unresolved for transmission return
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- servo motor whine, gear teeth chatter, brake clamp thunk, metal cable creak
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 87: Anticipation — Payoff [11:28–11:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Operations wall in cooler cyan transitioning to subtle gold accents
+
+ACTIONS:
+- A mission timeline display starts on the date marker “JUL 2026”
+- Nearby, a planner’s hand hovers with restrained tension, fingers curled
+- Relaxes as the camera reveals both Voyager 2 test window and Voyager 1 later slot
+
+CAMERA:
+Medium | Zoom out
+
+AUDIO:
+- magnetic marker click, touchscreen tap, plastic ruler slide, wall panel button press
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 88: Trust — Payoff [11:36–11:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Bench environment carries gently warmed gold-blue balance over clean instrument whites, emotionally resolving without triumph
+
+ACTIONS:
+- The LECP half-watt motor assembly fills frame, its housing worn yet stable, with a subtle vibration and consistent rotation signaling cautious hope in physical form
+- Diagnostic readout increments uptime and current draw while a restart flag changes from standby to armed, revealing a grounded possibility rather than certainty
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- motor whir, bearing tick, relay click, button press
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 89: Trust — Payoff [11:44–11:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep-space black with restrained gold-blue highlights and sparse instrument-white overlays creates patient confidence
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- two days
+- The spacecraft
+
+ACTIONS:
+- Voyager spacecraft rendered small but unwavering, high-gain dish fixed forward like a calm, trusted gaze
+- A command packet timer advances
+- Splits into two synchronized 24-hour countdown rings, with no confirmation yet
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- relay click, button press, thermal panel tick
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 90: Trust — Payoff [11:52–12:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep-space operations bay glows warm-instrument white with clean NASA overlays marking failure paths and active redundancies, calm and deliberate
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- two days
+- The spacecraft
+
+ACTIONS:
+- Voyager spacecraft high-gain antenna holds an unwavering forward posture, dish rim lit in gentle gold-blue, conveying quiet resolve
+- A command-sequence panel and subsystem diagram execute step-by-step
+- A 48:00 countdown begins
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- relay clicks, toggle switch snaps, keypad taps, status beeps
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 91: Trust — Payoff [12:00–12:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Vast black field and crisp instrument-white labels convey calm factual trust
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 16.1 billion miles
+- 000 miles
+- 24 hours
+
+ACTIONS:
+- A heliocentric distance plot presents a composed, authoritative expression: Earth and Voyager markers hold steady while a cyan vector extends to a labeled one-light-day boundary
+- The number resolves in-place to 16.1 billion miles and a 24-hour light-travel stamp locks on
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- data terminal key click, marker pen tick, console switch click
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 92: Trust — Payoff [12:08–12:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Numeric readout resolves in stages to 16.1 billion miles while a light pulse departs Earth and advances along the track toward the probe; a clock ticks to 24:00, completing the one-light-day relation
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 16.1 billion miles
+- 000 miles
+- 24 hours
+
+ACTIONS:
+- A luminous distance scale from Earth to Voyager appears physically anchored in space, line tension straight and stable like a confident stance
+- Numeric readout resolves in stages to 16.1 billion miles while a light pulse departs Earth and advances along the track toward the probe
+- A clock ticks to 24:00, completing the one-light-day relation
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- clock ticks, UI confirmation chimes, marker pen taps on glass display
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 93: Trust — Payoff [12:16–12:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Minimal composition, deep blacks, cyan-white numerics, and gentle warm edge tone communicate trusted finality
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 16.1 billion miles
+- 000 miles
+- 24 hours
+
+ACTIONS:
+- A mission clock and distance readout hold a calm, confident expression through steady digits and unblinking indicator states
+- The 24-hour light-time value remains fixed as the mile count increments by tiny precise steps, reinforcing patient continuity
+
+CAMERA:
+Close-up | Pan
+
+AUDIO:
+- clock relay tick, keycap press, panel latch click
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 94: Trust — Payoff [12:24–12:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+A spacecraft power-budget timeline display shows calm, trustworthy precision—steady grid lines, soft gold-blue highlights, and clean numerals with no human visible
+
+ACTIONS:
+- A spacecraft power-budget timeline display shows calm, trustworthy precision—steady grid lines, soft gold-blue highlights, and clean numerals with no human visible
+- Instrument status icons switch from active to offline one by one through early-2030s dates
+- A transmitter bar continues briefly before its final segment gently fades
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- relay click, touchscreen tap, single confirmation beep, cooling fan whirr
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 95: Trust — Payoff [12:32–12:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+A subtle velocity tag marks 38,000 mph as Earth’s marker sits tens of billions of miles behind, tiny and distant
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 000 miles
+
+ACTIONS:
+- The spacecraft reads as an artifact with composed physical expression: scarred surfaces, fixed dish, and steady trajectory posture through interstellar black
+- A subtle velocity tag marks 38,000 mph as Earth’s marker sits tens of billions of miles behind, tiny and distant
+
+CAMERA:
+Wide | Orbit
+
+AUDIO:
+- structure creak, mount click, panel tick
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 96: Trust — Payoff [12:40–12:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Surrounding starfield remains sparse, with disciplined warm-gold and cool-cyan balance for calm trust
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 000 miles
+
+ACTIONS:
+- The record assembly expresses quiet reverence through worn metal texture, engraved diagrams, and unwavering mount alignment
+- As the camera passes, etched symbols and playback instructions resolve clearly, confirming what is being carried forward
+
+CAMERA:
+Extreme Close-up | Static
+
+AUDIO:
+- latch click, metal tick, fastener creak
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 97: Trust — Payoff [12:48–12:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep interstellar black with faint cyan starlight and gentle gold-blue balance, contemplative and trustworthy
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 000 miles
+
+ACTIONS:
+- Voyager 1 bus and golden record dominate frame, antenna dish canted forward like a listening posture, surfaces scarred yet steady, conveying calm endurance
+- The craft drifts at relentless speed while the gold record catches a thin warm rim-light, revealing etched grooves as the emotional resolution
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- gyroscope whir, relay click, metal creak, particle ping on antenna
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 98: Trust — Payoff [12:56–13:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep-space observatory visualization with gently warmed gold-blue highlights over black cosmic depth, emotionally reassuring and reflective
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 000 years
+
+ACTIONS:
+- A luminous trajectory map plate shows Voyager’s path
+- The glowing “40,000 YEARS” marker sits near a neighboring star, with calm, steady line geometry conveying quiet certainty
+- The arc advances fractionally toward the closest-approach node
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- console button clicks, telemetry beeps, plotter pen scratching graph paper
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 99: Trust — Payoff [13:04–13:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep-space operations bay and spacecraft detail in a warm gold-blue balance, hopeful and transparent atmosphere, sparse luminous instruments
+
+ACTIONS:
+- Voyager 1 high-gain antenna and telemetry panel, posture steady and unwavering
+- Status lights soft and calm, conveying quiet trust
+- Bit-error bars climb while a final data packet resolves into a clear star-map frame
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- relay clicks, telemetry beeps, thermal-printer ticks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 100: Trust — Payoff [13:12–13:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Volumetric dust light, deep blacks, cyan-to-gold documentary grade signaling wonder made measurable
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 40 times
+- 15 billion miles
+
+ACTIONS:
+- A colossal planet-forming disk spans frame with concentric scale rings labeled by solar-system diameter, while a tiny Voyager trace and 15-billion-mile command path hold a confident, needle-straight posture
+- The three claims resolve sequentially: 40x disk scale, unpredicted interstellar structure, successful remote patch line lock
+
+CAMERA:
+Wide | Slow push-in
+
+AUDIO:
+- marker scribble on acetate, console button click, signal pulse tick, hard-drive seek
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 101: Trust — Payoff [13:20–13:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+A multi-layer scientific display shows a protoplanetary disk scale ring labeled “40× SOLAR SYSTEM” and a deep-space range counter stabilizing at “15,000,000,000 MILES”; the numerals lock with poised confidence
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 40 times
+- 15 billion miles
+
+ACTIONS:
+- A multi-layer scientific display shows a protoplanetary disk scale ring labeled “40× SOLAR SYSTEM” and a deep-space range counter stabilizing at “15,000,000,000 MILES”
+- The numerals lock with poised confidence
+- Data layers align into one coherent frame, revealing strangeness made measurable
+
+CAMERA:
+Macro | Slow push-in
+
+AUDIO:
+- keyboard tapping, toggle switch snaps, thermal printer feeding paper
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 102: Trust — Payoff [13:28–13:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep-space backdrop with restrained cyan stars and gentle warm edge light, dignified and calm
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 48 years
+
+ACTIONS:
+- Voyager high-gain antenna and instrument boom hold center frame with a balanced, upright posture
+- Worn insulation and micrometeoroid pitting read as age carried with composure
+- A mission-elapsed counter overlay increments to 48 years and settles while the craft continues steady flight, signaling durable continuity
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- attitude-thruster puff, structure ping, instrument relay click, timer tick
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 103: Trust — Payoff [13:36–13:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+High-contrast black, cyan filaments, subtle gold accents, contemplative and precise
+
+ACTIONS:
+- Interstellar plasma streams and magnetic field lines form layered filaments, their smooth, unhurried flow reading as ancient composure
+- No detector markers appear at first
+- Then Voyager trajectory overlay enters frame edge, implying the first measurable witness to a previously unmeasured medium
+
+CAMERA:
+Wide | Slow push-in
+
+AUDIO:
+- particle impact ticks, sensor calibration click, magnetometer pulse, tape-drive step
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 104: Trust — Payoff [13:44–13:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep blacks with cyan highlights and faint warm edge tones maintain trusted closure
+
+ACTIONS:
+- Uninstrumented interstellar gas bands drift in layered depth, their long, level motion and unbroken spacing conveying indifferent calm
+- Magnetic threads cross like silent architecture
+- A dormant receiver icon remains unlit while distance markers slide past, emphasizing eras without measurement or return signal
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- particle crack ticks, cable strain creak, switch clack, telemetry burst pop
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 105: Trust — Payoff [13:52–14:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep space with gentle gold-blue rim light and volumetric shafts, contemplative and trustworthy
+
+ACTIONS:
+- Voyager 1’s weathered high-gain antenna and instrument boom fill frame, metal pitted and steady like a calm, enduring face
+- The probe glides against star-black while a tiny telemetry indicator on its bus blinks at long intervals, implying decades of listening
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- relay click, actuator tick, antenna motor whir, telemetry beep
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 106: Trust — Payoff [14:00–14:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Gold-blue desert observatory atmosphere with restrained volumetric haze, calm and purposeful
+
+ACTIONS:
+- A DSN dish feed horn and cryogenic receiver assembly sit centered, posture-like in still, confident alignment under warm dusk-blue light
+- A thin signal trace crawls across a monitor and steadies just above noise, physically showing a fragile transmission being preserved
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- servo rotation click, cable rattle, cooling pump chatter, data-printer tick
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 107: Anticipation — Payoff [14:08–14:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Vast starfield with NASA-grade instrument realism, high-contrast blacks easing into a subtle gold-blue release atmosphere
+
+ACTIONS:
+- A single deep-space carrier-signal point appears physically strained—flickering weakly, halo thinning, like a fading pulse
+- The point emits one last crisp burst
+- Contracts to a sparse luminous dot against near-black, resolving the tension
+
+CAMERA:
+Wide | Zoom out
+
+AUDIO:
+- relay click, oscillator chirp, brief telemetry beep, switch toggle
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+════════════════════════════════════════════════════════════════
+[END SCENE PROMPTS]
+════════════════════════════════════════════════════════════════
