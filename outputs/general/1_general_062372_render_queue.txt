@@ -1,0 +1,1667 @@
+============================================================
+VEO 3 RENDER QUEUE - 1 [general]
+Total clips: 157 | Duration: 00:20:48.280
+============================================================
+
+--------------------------------------------------
+CLIP C001 | 00:00:00.000 -> 00:00:08.000 | 8.0s
+Emotion: TRUST (low) | Arc: hook
+
+PROMPT:
+cinematic. Medium close-up, very slow gentle push-in. A child's crayon drawing on white paper—yellow sun, simple house, two stick figures—pinned to a refrigerator door with a magnet, shoulders relaxed, soft gaze resting on the drawing. Fingers gently touch the edge of the paper, tracing the crayon lines. Warm kitchen interior, soft afternoon light through window, neutral tones, quiet domestic space. Audio: magnet clicking against metal, paper rustling. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no dark lighting, no cold tones, no shadowy atmosphere, no empty doorways, no desaturated palette, no camera drift
+
+--------------------------------------------------
+CLIP C002 | 00:00:08.000 -> 00:00:16.000 | 8.0s
+Emotion: TRUST (low) | Arc: hook
+
+PROMPT:
+cinematic. Medium close-up, very slow gentle push-in. A man's hand resting on a wooden table surface, fingers slightly curled, relaxed posture. The hand slowly opens, palm up, as if receiving something invisible. Soft neutral lighting from overhead, warm wood grain texture, clean kitchen environment. Audio: wood creaking, fingers sliding on table surface. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no dark shadows, no cold blue lighting, no tense body language, no desaturated colors, no camera drift
+
+--------------------------------------------------
+CLIP C003 | 00:00:16.000 -> 00:00:24.000 | 8.0s
+Emotion: TRUST (low) | Arc: hook
+
+PROMPT:
+cinematic. Medium close-up, very slow gentle push-in. A small rural house exterior at golden hour, single story with white siding, surrounded by open fields. A mailbox in foreground reads 'Delaney', shoulders square, steady stance. The house sits quietly in warm late-day light, gravel driveway leading to front door. Audio: gravel shifting underfoot, distant wind through grass. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no cold dusk lighting, no isolation emphasis, no desaturated blues, no empty ominous framing, no camera drift
+
+--------------------------------------------------
+CLIP C004 | 00:00:24.000 -> 00:00:32.000 | 8.0s
+Emotion: TRUST (low) | Arc: hook
+
+PROMPT:
+cinematic. Medium close-up, very slow gentle push-in. A grain cooperative building exterior, weathered metal siding with 'Route 7 Co-op' sign, warm afternoon light. A work truck parked outside, posture upright, calm expression. The building stands solid and functional, surrounded by silos and farmland. Audio: truck door closing, boots on gravel. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no dark lighting, no cold tones, no lonely framing, no desaturated palette, no camera drift
+
+--------------------------------------------------
+CLIP C005 | 00:00:32.000 -> 00:00:40.000 | 8.0s
+Emotion: TRUST (low) | Arc: hook
+
+PROMPT:
+cinematic. Close-up, very slow gentle push-in. Worn work boots on floor beside coat hook, denim jacket hanging motionless. Muted gray-blue tones, soft natural light from window. Details of ordinary life frozen in stillness. Audio: clock ticking. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no people visible, no bright warm tones, no camera drift, no generic stock patterns, no movement
+
+--------------------------------------------------
+CLIP C006 | 00:00:40.000 -> 00:00:48.000 | 8.0s
+Emotion: ANTICIPATION (low) | Arc: hook
+
+PROMPT:
+cinematic. Medium tight, very slow creeping push toward unknown. Man's hands gripping table edge, knuckles white, fingers trembling slightly. Shoulders tense, leaning forward. Dramatic amber side light from single source, deep shadows. Building tension, inexorable forward motion. Audio: pen tapping wood. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 3s after.
+
+NEGATIVE:
+no full face visible, no cold blue tones, no camera drift, no generic stock patterns, no relaxed posture
+TIMING: Hold 3s after.
+
+--------------------------------------------------
+CLIP C007 | 00:00:48.000 -> 00:00:56.000 | 8.0s
+Emotion: TRUST (low) | Arc: hook
+
+PROMPT:
+cinematic. Close-up, very slow gentle push-in. Small toy car on windowsill, soft focus background of empty room. Warmer amber tones mixing with cool blue, memory vs present. Gentle natural light, dust motes visible. Object as emotional anchor. Audio: window glass rattling. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no people visible, no harsh lighting, no camera drift, no generic stock patterns, no movement of object
+
+--------------------------------------------------
+CLIP C008 | 00:00:56.000 -> 00:01:04.000 | 8.0s
+Emotion: TRUST (low) | Arc: hook
+
+PROMPT:
+cinematic. Insert shot, very slow gentle push-in. Child's crayon drawing on refrigerator door, yellow sun and two stick figures, held by magnet. Rack focus from drawing to blurred kitchen background. Warmer amber tones, soft practical light. Evidence of life lost. Audio: paper rustling. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no people visible, no harsh lighting, no camera drift, no generic stock patterns, no movement of drawing
+
+--------------------------------------------------
+CLIP C009 | 00:01:04.000 -> 00:01:12.000 | 8.0s
+Emotion: TRUST (low) | Arc: hook
+
+PROMPT:
+cinematic. Medium close-up, very slow push-in. Empty wooden chair at kitchen table, child-sized, bathed in soft 3800K window light. Chair sits motionless, dust motes drifting through amber glow. Desaturated blue-gray walls frame the absence. Audio: chair leg scraping floor. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no person in frame, no bright cheerful colors, no movement in chair, no generic stock kitchen
+
+--------------------------------------------------
+CLIP C010 | 00:01:12.000 -> 00:01:20.000 | 8.0s
+Emotion: TRUST (low) | Arc: hook
+
+PROMPT:
+cinematic. Medium close-up, very slow gentle push-in. Worn wooden stair corner at eye level, morning light streaming through nearby window casting soft amber glow on scuffed edge. Camera drifts toward the specific corner board, revealing small indentation from repeated contact. Warm honey-toned light pools on the wood grain, dust motes floating in the beam. The stair corner sits in peaceful stillness, bathed in gentle domestic warmth. Audio: creaking wood settling. No voice, sound effects only. Cinematic documentary, 24fps, 16:9, 1080p. 8s. Hold 4s after.
+
+NEGATIVE:
+dark shadows, cold lighting, blue tones, ominous atmosphere, camera drift, generic stock footage, talking head, bright harsh light
+TIMING: Hold 4s after.
+
+--------------------------------------------------
+CLIP C011 | 00:01:20.000 -> 00:01:28.000 | 8.0s
+Emotion: TRUST (low) | Arc: hook
+
+PROMPT:
+cinematic. Wide shot, very slow dolly forward. Lone man seated at kitchen table under single pendant lamp, night. Desaturated blue-gray room, amber pool of light on table surface. Man's silhouette still, head slightly bowed. Empty chair opposite. Audio: glass setting on wood. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 3s after.
+
+NEGATIVE:
+no bright colors, no movement from figure, no generic kitchen stock, no warm cheerful lighting
+TIMING: Hold 3s after.
+
+--------------------------------------------------
+CLIP C012 | 00:01:28.000 -> 00:01:36.000 | 8.0s
+Emotion: TRUST (low) | Arc: hook
+
+PROMPT:
+cinematic. Close-up, slow push-in. Untouched whiskey glass on wooden table, amber liquid catching soft 3800K light. Man's hand rests near base, fingers slightly curled, not gripping. Desaturated blue-gray background out of focus. Audio: ice cube shifting in glass. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 1s after.
+
+NEGATIVE:
+no hand lifting glass, no bright warm environment, no generic bar stock footage, no camera drift
+TIMING: Hold 1s after.
+
+--------------------------------------------------
+CLIP C013 | 00:01:36.000 -> 00:01:44.000 | 8.0s
+Emotion: SADNESS (low) | Arc: hook
+
+PROMPT:
+cinematic. Medium shot, slow dolly back. Figure rising from table, viewed from behind, shoulders heavy. Camera follows as he moves toward dark hallway. Single kitchen light behind, hallway ahead in shadow. Cold desaturated blue-gray palette, oppressive stillness. Audio: footsteps on linoleum. No voice, sound effects only. cinematic documentary, 24fps, 16:9. 8s. Hold 2s after.
+
+NEGATIVE:
+no face visible, no warm inviting tones, no fast movement, no generic stock patterns
+TIMING: Hold 2s after.
+
+--------------------------------------------------
+CLIP C014 | 00:01:44.000 -> 00:01:52.000 | 8.0s
+Emotion: SADNESS (low) | Arc: hook
+
+PROMPT:
+cinematic. Point-of-view shot, locked static frame. Dark hallway stretching ahead, light switch visible on right wall. Small child's jacket hanging on third coat hook, illuminated by dim ambient light. Empty hooks on either side. Cold blue-gray tones, deep shadows at hallway's end. Audio: light switch clicking. No voice, sound effects only. cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no people, no warm cheerful lighting, no camera movement, no generic stock patterns
+
+--------------------------------------------------
+CLIP C015 | 00:01:52.000 -> 00:02:00.000 | 8.0s
+Emotion: TRUST (low) | Arc: hook
+
+PROMPT:
+cinematic. Close-up, very slow push-in. Adult male face in three-quarter profile, eyes searching off-screen left, brow slightly furrowed. Soft key light from window, cool daylight. Jaw tense, lips parted as if about to speak but silent. Muted neutral warm tones, shallow depth of field. Audio: breath exhaling. No voice, sound effects only. cinematic documentary, 24fps, 16:9. 8s. Hold 4s after.
+
+NEGATIVE:
+no smiling, no bright cheerful lighting, no camera drift, no generic stock patterns
+TIMING: Hold 4s after.
+
+--------------------------------------------------
+CLIP C016 | 00:02:00.000 -> 00:02:08.000 | 8.0s
+Emotion: TRUST (low) | Arc: hook
+
+PROMPT:
+cinematic. Medium shot, locked-off frame. Man standing center of empty living room, arms at sides, head tilted slightly as if listening. Desaturated blue-gray walls, single floor lamp casting amber glow. Shadows stretch long. No movement for extended beat. Audio: floorboard creaking. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no bright colors, no camera movement, no generic interior stock, no warm cheerful lighting
+
+--------------------------------------------------
+CLIP C017 | 00:02:08.000 -> 00:02:16.000 | 8.0s
+Emotion: ANTICIPATION (low) | Arc: hook
+
+PROMPT:
+cinematic. Medium tight shot, very slow creeping push toward unknown. Father's eyes snap open in darkness, pupils dilating with sudden alertness, brow furrowed in confusion. He lies motionless in bed, head turning slightly toward unseen sound, breath held. Bedroom bathed in amber side light from hallway, casting long shadows across rumpled sheets and empty pillow beside him. Audio: bedsheet rustling. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no camera drift, no generic stock patterns, no dark cold visual, no blue tones, no desaturated colors, no moonlight
+[!] NEEDS HUMAN REVIEW
+
+--------------------------------------------------
+CLIP C018 | 00:02:16.000 -> 00:02:24.000 | 8.0s
+Emotion: ANTICIPATION (low) | Arc: hook
+
+PROMPT:
+cinematic. Medium tight shot, very slow creeping push toward unknown. Father sits upright in bed, shoulders tense, hands gripping edge of mattress, eyes wide and fixed on doorway. He leans forward slightly, head tilted in listening posture, jaw set. Bedroom illuminated by warm amber glow from cracked door, casting elongated shadow of door frame across wall. Audio: floorboard creaking. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 1.69s after.
+
+NEGATIVE:
+no camera drift, no generic stock patterns, no dark cold visual, no blue moonlight, no desaturated colors
+TIMING: Hold 1.69s after.
+
+--------------------------------------------------
+CLIP C019 | 00:02:24.000 -> 00:02:32.000 | 8.0s
+Emotion: TRUST (low) | Arc: hook
+
+PROMPT:
+cinematic. Medium close-up, very slow gentle push-in. Small child's feet in worn socks padding softly down wooden hallway, toes curling with each step, moving toward warm amber light. Feet pause at doorway threshold, one foot lifted mid-step. Hallway floor glowing with soft golden light from bedroom ahead, walls fading into warm shadow, edges soft-focused and dreamlike. Audio: sock footsteps on wood. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no harsh lighting, no cold tones, no adult feet, no camera drift, no generic stock patterns
+
+--------------------------------------------------
+CLIP C020 | 00:02:32.000 -> 00:02:40.000 | 8.0s
+Emotion: TRUST (low) | Arc: hook
+
+PROMPT:
+cinematic. Medium close-up, very slow gentle push-in. Father's face in profile, eyes glistening, jaw trembling as he stares at empty space beside him in bed. One hand lifts the edge of the blanket slightly, fingers hesitating, then lowering it back down. Soft amber light from bedside lamp, shadows under eyes deepened. Audio: blanket fabric shifting. No voice, sound effects only. cinematic documentary, 24fps, 16:9, 1080p. 8s.
+
+NEGATIVE:
+smiling, bright lighting, relaxed expression, daytime, colorful environment, no emotion, generic bedroom, dialogue, talking
+
+--------------------------------------------------
+CLIP C021 | 00:02:40.000 -> 00:02:48.000 | 8.0s
+Emotion: TRUST (low) | Arc: hook
+
+PROMPT:
+cinematic. Medium close-up, very slow gentle push-in. Small child's worn socks rest on polished wooden hallway floor, toes pointed toward camera, soft fabric creased from wear. Socks remain perfectly still in pool of warm amber light from nightlight, dust motes drifting through beam. Hallway stretches behind in soft focus, doorways visible on either side. Audio: sock fabric sliding on wood. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no camera drift, no generic stock patterns, no bright harsh lighting, no cold blue tones
+
+--------------------------------------------------
+CLIP C022 | 00:02:48.000 -> 00:02:56.000 | 8.0s
+Emotion: TRUST (low) | Arc: hook
+
+PROMPT:
+cinematic. Medium shot, locked-off static frame. Father's silhouette seated on edge of child's bed, head bowed into hands, shoulders curved inward. Desaturated blue-gray light from window casts long shadow across made bed and toy shelf. Time-lapse: light slowly shifts from blue to pale amber as dawn approaches. Audio: distant bird chirp beginning. No voice, sound effects only. cinematic documentary, 24fps, 16:9, 1080p. 8s. Hold 2.9s after.
+
+NEGATIVE:
+bright lighting, movement, standing figure, colorful environment, sharp focus, daytime, smiling, no stillness, dialogue, talking
+TIMING: Hold 2.9s after.
+
+--------------------------------------------------
+CLIP C023 | 00:02:56.000 -> 00:03:04.000 | 8.0s
+Emotion: TRUST (low) | Arc: hook
+
+PROMPT:
+cinematic. Medium close-up, very slow gentle push-in. Father's face fills frame, eyes open and unblinking, gaze fixed off-camera left, jaw muscles tensing. Faint amber light from hallway illuminates one side of face, leaving other half in shadow, creating stark contrast. He swallows hard, adam's apple moving, slight tremor in lower lip. Audio: throat swallowing. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 3.93s after.
+
+NEGATIVE:
+no camera drift, no generic stock patterns, no dark cold visual, no blue tones, no desaturated colors
+TIMING: Hold 3.93s after.
+
+--------------------------------------------------
+CLIP C024 | 00:03:04.000 -> 00:03:12.000 | 8.0s
+Emotion: TRUST (low) | Arc: hook
+
+PROMPT:
+cinematic. Medium shot, very slow gentle push-in. Empty kitchen table, one wooden chair pulled back slightly from its place, angled as if someone small just stood up. Faint amber light from window, dust suspended in air. Camera holds on the chair, then drifts slightly as if circling. Audio: chair leg scraping floor. No voice, sound effects only. cinematic documentary, 24fps, 16:9, 1080p. 8s.
+
+NEGATIVE:
+person in frame, bright lighting, colorful environment, movement, daytime, modern furniture, no stillness, sharp focus, dialogue
+
+--------------------------------------------------
+CLIP C025 | 00:03:12.000 -> 00:03:20.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+cinematic. Medium shot, very slow dolly in. Wooden kitchen chair pulled slightly back from table, warm afternoon light streaming through window casting soft shadows across empty seat. Chair angled as if recently vacated, table surface clean except for single placemat. Warm amber glow fills frame, dust motes visible in sunbeam. Audio: chair leg scraping wood floor. No voice, sound effects only. cinematic documentary, 24fps, 16:9, 1080p. 8s.
+
+NEGATIVE:
+no people, no dark lighting, no cold tones, no blue cast, no shadows dominating frame, no ominous atmosphere
+
+--------------------------------------------------
+CLIP C026 | 00:03:20.000 -> 00:03:28.000 | 8.0s
+Emotion: ANTICIPATION (low) | Arc: build_up
+
+PROMPT:
+cinematic. Medium shot, slow push-in building tension. Man in flannel shirt outdoors in cold daylight, axe frozen mid-swing above woodpile, body turned toward distant house off-frame, expression alert and listening. Shoulders tense, grip tight on axe handle. Overcast sky, bare trees in background, split logs scattered at feet. Audio: axe blade striking wood, wood splitting. No voice, sound effects only. cinematic documentary, 24fps, 16:9, 1080p. 8s. Hold 2.46s after.
+
+NEGATIVE:
+no indoor scenes, no warm lighting, no relaxed posture, no smiling, no dark oppressive shadows
+TIMING: Hold 2.46s after.
+[!] NEEDS HUMAN REVIEW
+
+--------------------------------------------------
+CLIP C027 | 00:03:28.000 -> 00:03:36.000 | 8.0s
+Emotion: ANTICIPATION (low) | Arc: build_up
+
+PROMPT:
+cinematic. Medium close-up, slow push-in. A man's face in profile, eyes narrowed, brow furrowed in confusion shifting to dread. Jaw clenched, breath shallow. Amber light from a nearby window casts warm glow on one side of his face, the other in cool shadow. He lowers the axe slowly, hand trembling slightly. Background soft-focused rural exterior, trees blurred. His expression hardens as realization dawns. Audio: breath exhale, axe handle scraping ground. No voice, sound effects only. cinematic documentary, 24fps, 16:9, 1080p. 8s.
+
+NEGATIVE:
+no bright cheerful lighting, no dark cold visual, no generic reaction shot, no camera drift, no talking head
+
+--------------------------------------------------
+CLIP C028 | 00:03:36.000 -> 00:03:44.000 | 8.0s
+Emotion: ANTICIPATION (low) | Arc: build_up
+
+PROMPT:
+cinematic. Medium shot, slow dolly follow from behind. A man walking deliberately toward a farmhouse entrance, shoulders squared, pace measured. Amber light spills from a window, contrasting the cool blue dusk around him. His silhouette moves through tall grass, boots pressing down with each step. The house looms closer, door slightly ajar, warm glow beckoning. His hand reaches forward as he nears the threshold. Audio: footsteps on gravel, grass rustling. No voice, sound effects only. cinematic documentary, 24fps, 16:9, 1080p. 8s.
+
+NEGATIVE:
+no dark cold visual for positive emotion, no generic stock approach, no camera drift, no bright cheerful lighting
+
+--------------------------------------------------
+CLIP C029 | 00:03:44.000 -> 00:03:52.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+cinematic. Low angle medium shot, static hold. Man seated on kitchen floor, back against wall, knees drawn up slightly, hands resting on knees, head tilted down in contemplation. Warm amber light pools around him from single window, creating soft glow on worn wooden floorboards. Kitchen counter visible above, domestic stillness. Audio: body settling onto floor, fabric against wall. No voice, sound effects only. cinematic documentary, 24fps, 16:9, 1080p. 8s. Hold 3.27s after.
+
+NEGATIVE:
+no standing figures, no movement, no cold lighting, no blue tones, no harsh shadows, no ominous atmosphere
+TIMING: Hold 3.27s after.
+
+--------------------------------------------------
+CLIP C030 | 00:03:52.000 -> 00:04:00.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+cinematic. Wide shot, static then very slow push toward door. Dark wooden porch at night, single weak yellow porch bulb casting pool of light on weathered boards, empty rocking chair barely visible in shadow, treeline dark beyond. Door opening from inside, warm interior light spilling out, man's silhouette approaching threshold. Audio: door handle turning, door creaking open, footsteps on wood porch. No voice, sound effects only. cinematic documentary, 24fps, 16:9, 1080p. 8s.
+
+NEGATIVE:
+no bright lighting, no daytime, no multiple light sources, no cold blue tones, no figures on porch exterior
+[!] NEEDS HUMAN REVIEW
+
+--------------------------------------------------
+CLIP C031 | 00:04:00.000 -> 00:04:08.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+cinematic. Close-up, shallow focus, static hold. Man's weathered hand grips brass doorknob, knuckles white. Sickly yellow-green light leaks under door edge, illuminating floorboards. His hand trembles slightly. Shallow depth of field blurs background into amber-shadow gradient. Frame holds on the hand, the light, the threshold. cinematic documentary, 24fps, 16:9, 1080p. 8s. Hold 0.75s after.
+
+NEGATIVE:
+no bright lighting, no warm cheerful tones, no generic stock door, no fast movement
+TIMING: Hold 0.75s after.
+
+--------------------------------------------------
+CLIP C032 | 00:04:08.000 -> 00:04:16.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+cinematic. Medium shot, static hold with subtle drift. Man standing on dark porch facing outward into night, back three-quarters to camera, shoulders squared, head slightly raised as if speaking into darkness. Single porch light creates warm amber halo around figure, moths circling bulb, vast darkness beyond. Hands at sides, posture both resolute and vulnerable. Audio: moths fluttering near bulb, distant night insects. No voice, sound effects only. cinematic documentary, 24fps, 16:9, 1080p. 8s.
+
+NEGATIVE:
+no indoor scenes, no cold lighting, no hunched defeated posture, no bright illumination, no visible face
+[!] NEEDS HUMAN REVIEW
+
+--------------------------------------------------
+CLIP C033 | 00:04:16.000 -> 00:04:24.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+cinematic. Medium shot, very slow dolly forward. Moonlit treeline edge, soft silver light filtering through branches. Gentle sway of leaves, single branch dipping slightly as if touched. Warm amber glow from distant cabin window creates inviting contrast against cool night. Audio: leaves rustling, branch creaking softly. No voice, sound effects only. Cinematic documentary, 24fps, 16:9, 1080p. 8s. Hold 6.68s after.
+
+NEGATIVE:
+no dark oppressive atmosphere, no cold isolated visuals, no harsh shadows, no threatening presence, no camera drift
+TIMING: Hold 6.68s after.
+
+--------------------------------------------------
+CLIP C034 | 00:04:24.000 -> 00:04:32.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+cinematic. Medium shot, locked-off static. Kitchen table bathed in warm amber lamplight, soft pre-dawn blue glow through window behind. Hands resting flat on wood surface, fingers relaxed, shoulders settled. Steam rising gently from coffee mug. Warm practicals create safe, grounded atmosphere. Audio: clock ticking steadily, mug placed on wood. No voice, sound effects only. Cinematic documentary, 24fps, 16:9, 1080p. 8s. Hold 3.19s after.
+
+NEGATIVE:
+no cold harsh lighting, no isolation, no tension, no dark shadows dominating frame, no camera drift
+TIMING: Hold 3.19s after.
+
+--------------------------------------------------
+CLIP C035 | 00:04:32.000 -> 00:04:40.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+cinematic. Close-up, very slow push-in. Father's lips moving in profile, speaking softly to empty room, warm lamplight casting amber glow on face, eyes half-closed, expression of tentative hope mixed with exhaustion. Shallow depth of field, background dissolving into soft bokeh. Intimate framing, camera drifting closer as if eavesdropping. Audio: floorboard creaking, fabric rustling. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+bright harsh lighting, wide shot, multiple people, cold tones, camera drift, generic talking head, no emotion
+
+--------------------------------------------------
+CLIP C036 | 00:04:40.000 -> 00:04:48.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+cinematic. Medium shot, very slow dolly through hallway. Father moving gently through warm amber-lit home, hand trailing along wall, lips moving softly in quiet speech. Soft golden practicals from lamps, family photos catching light. Posture open, shoulders eased, expression of tentative comfort. Audio: footsteps on wood floor, hand brushing wall, door latch clicking. No voice, sound effects only. Cinematic documentary, 24fps, 16:9, 1080p. 8s.
+
+NEGATIVE:
+no cold isolation, no harsh shadows, no threatening atmosphere, no dark oppressive tones, no camera drift
+
+--------------------------------------------------
+CLIP C037 | 00:04:48.000 -> 00:04:56.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+cinematic. Close-up, rack focus. Small blue notebook partially hidden under bed edge, dust motes visible in shaft of amber light. Father's hand reaches into frame from right, fingers trembling slightly, pausing before touching the diary. Sharp focus on notebook cover, background soft. Warm 3800K light creating intimate atmosphere. Audio: hand sliding on floor, paper rustling. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 6.5s after.
+
+NEGATIVE:
+bright lighting, wide shot, fast movement, cold tones, camera drift, generic object stock, no emotional weight
+TIMING: Hold 6.5s after.
+
+--------------------------------------------------
+CLIP C038 | 00:04:56.000 -> 00:05:04.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+cinematic. Medium shot, very slow push-in. Father sits on child's bedroom floor, holding small blue diary in both hands, head bowed reading, soft amber lamplight from bedside table, child's drawings visible on walls in soft focus. Posture suggests reverence and grief, shoulders curved inward. Warm sickly yellow-green tones creeping into shadows. Audio: pages turning, breathing. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+bright cold lighting, wide shot, standing figure, camera drift, generic bedroom stock, no emotional atmosphere
+
+--------------------------------------------------
+CLIP C039 | 00:05:04.000 -> 00:05:12.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+cinematic. Extreme close-up, shallow depth of field. Diary pages fill frame, child's uneven handwriting visible—mix of print and cursive, simple drawings of dog and stick figure labeled 'Ba'. Father's fingers tremble at edge of frame, barely in focus. Warm amber light, paper texture sharp. Intimate framing suggesting private moment. Audio: paper rustling, pen scratching. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+wide shot, bright lighting, multiple objects, cold tones, camera drift, generic document stock, no emotional detail
+
+--------------------------------------------------
+CLIP C040 | 00:05:12.000 -> 00:05:20.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+cinematic. Close-up, locked-off static. Father's face reading diary, expression shifting from soft smile to confusion to dawning horror, eyes widening, mouth slightly open. Warm amber light now feels sickly, wrong—yellow-green tones dominant in shadows. Shallow depth, background dissolving. Stillness broken only by micro-expressions. Audio: page turning, sharp inhale. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+bright cheerful lighting, wide shot, neutral expression, cold tones, camera drift, generic reaction stock, no emotional shift
+
+--------------------------------------------------
+CLIP C041 | 00:05:20.000 -> 00:05:28.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+cinematic. Extreme close-up, locked-off static. Child's handwriting on lined notebook page—cursive letters spelling 'the best' with a small underline beneath. Hand rests gently at edge of frame, fingers relaxed, posture suggesting quiet reverence. Page lies flat on wooden bedroom floor, soft window light casting faint shadow across the words. Paper edges slightly worn, ink settled into fibers. Audio: pen tip scratching paper. No voice, sound effects only. Cinematic documentary, 24fps, 16:9, 1080p. 8s. Hold 6s after.
+
+NEGATIVE:
+no camera movement, no bright lighting, no multiple pages visible, no adult handwriting, no modern fonts, no digital screens
+TIMING: Hold 6s after.
+
+--------------------------------------------------
+CLIP C042 | 00:05:28.000 -> 00:05:36.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+cinematic. Medium shot, locked-off static camera. Father's hands gently turning pages of a child's notebook, fingers tracing the edges with care, posture relaxed and open, shoulders soft. Hands pause on final page, holding it steady in warm afternoon light. Bedroom floor with soft carpet, muted warm tones, gentle window light casting amber glow across the scene. Audio: pages turning softly, paper sliding against paper. No voice, sound effects only. Cinematic documentary, 24fps, 16:9, 1080p. 8s.
+
+NEGATIVE:
+dark lighting, cold color temperature, harsh shadows, tense body language, rapid movement, clinical environment, fluorescent lighting, desaturated colors
+
+--------------------------------------------------
+CLIP C043 | 00:05:36.000 -> 00:05:44.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+cinematic. Close-up, very slow dolly in. Hands closing a worn notebook with deliberate care, fingers resting on the cover, grip gentle and protective. Long pause, hands motionless, thumbs stroking the fabric cover. Warm bedroom light from window, soft amber tones, dust motes visible in the beam. Audio: notebook cover closing with soft thud, fabric rustling. No voice, sound effects only. Cinematic documentary, 24fps, 16:9, 1080p. 8s. Hold 2.6s after.
+
+NEGATIVE:
+dark cold lighting, harsh shadows, tense grip, rapid movement, clinical setting, blue color cast, aggressive handling
+TIMING: Hold 2.6s after.
+
+--------------------------------------------------
+CLIP C044 | 00:05:44.000 -> 00:05:52.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+cinematic. Insert shot, rack focus transition. Notebook page showing 'March 15th' written in child's handwriting, blue ink on lined paper. Focus shifts from date to father's hands holding the edges of the page, fingers trembling slightly. Warm bedroom light, amber tones, soft shadows. Audio: paper edge tapping against finger. No voice, sound effects only. Cinematic documentary, 24fps, 16:9, 1080p. 8s.
+
+NEGATIVE:
+dark lighting, cold blue tones, harsh shadows, adult handwriting, typed text, clinical environment, fluorescent lighting
+
+--------------------------------------------------
+CLIP C045 | 00:05:52.000 -> 00:06:00.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+cinematic. Extreme close-up, very slow push-in. Handwritten words 'Ba don't worry. I'm still here.' in child's script, blue ink on white notebook paper. Letters slightly shaky, authentic child's handwriting. Camera slowly tightens on the words as they fill frame. Warm amber light, soft focus on paper texture. Audio: pen tip scratching paper slowly. No voice, sound effects only. Cinematic documentary, 24fps, 16:9, 1080p. 8s. Hold 5.4s after.
+
+NEGATIVE:
+dark lighting, cold tones, harsh shadows, adult handwriting, typed text, rapid movement, clinical setting, blue color cast
+TIMING: Hold 5.4s after.
+
+--------------------------------------------------
+CLIP C046 | 00:06:00.000 -> 00:06:08.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+cinematic. Wide shot, locked-off static camera. Father sitting motionless on bedroom floor, legs crossed, notebook resting in lap, head bowed slightly, shoulders rounded in contemplation. Empty bedroom surrounds him, child's bed visible in background, warm afternoon light from window casting long soft shadows. Audio: floorboard creaking faintly. No voice, sound effects only. Cinematic documentary, 24fps, 16:9, 1080p. 8s.
+
+NEGATIVE:
+dark lighting, cold blue tones, harsh shadows, tense posture, movement, clinical environment, cluttered space, fluorescent lighting
+
+--------------------------------------------------
+CLIP C047 | 00:06:08.000 -> 00:06:16.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+cinematic. Same wide shot, locked-off static camera. Father remains motionless on bedroom floor, same position, notebook in lap. Light has shifted slightly cooler through window, shadows longer, suggesting time passage. Room unchanged, stillness emphasizes duration. Audio: distant clock ticking. No voice, sound effects only. Cinematic documentary, 24fps, 16:9, 1080p. 8s.
+
+NEGATIVE:
+movement, posture change, warm lighting increase, bright colors, action, clinical setting, harsh shadows, fluorescent lighting
+
+--------------------------------------------------
+CLIP C048 | 00:06:16.000 -> 00:06:24.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+cinematic. Medium shot, very slow dolly in. Father's face in soft focus, eyes fixed downward on notebook in lap, brow slightly furrowed, lips pressed together in thought. Searching expression, head tilted slightly, shoulders tense. Warm bedroom light, amber tones, shallow depth of field isolating his face. Audio: notebook page sliding against another. No voice, sound effects only. Cinematic documentary, 24fps, 16:9, 1080p. 8s.
+
+NEGATIVE:
+dark cold lighting, harsh shadows, relaxed expression, looking away, clinical setting, blue color cast, fluorescent lighting, wide depth of field
+
+--------------------------------------------------
+CLIP C049 | 00:06:24.000 -> 00:06:32.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+cinematic. Medium shot, very slow dolly in. Father's face in soft even light, eyes steady but vulnerable, slight downward tilt of head showing quiet admission. He sits at a wooden table, hands resting open on surface, fingers slightly curled—posture of someone about to confess something difficult. Warm amber light from a nearby lamp casts gentle glow across his features, creating atmosphere of intimate honesty. Audio: chair creaking softly. No voice, sound effects only. cinematic documentary, 24fps, 16:9, 1080p. 8s. Hold 6.36s after.
+
+NEGATIVE:
+dark shadows, cold blue tones, harsh lighting, defensive posture, closed body language, camera drift, generic stock footage
+TIMING: Hold 6.36s after.
+
+--------------------------------------------------
+CLIP C050 | 00:06:32.000 -> 00:06:40.000 | 8.0s
+Emotion: SADNESS (low) | Arc: build_up
+
+PROMPT:
+cinematic. Medium shot, very slow pull-back. Worn leather journal lying open on wooden table, pages filled with handwritten text, man's hand resting gently on the page, fingers tracing lines of writing. His hand trembles slightly, relief visible in the loosening grip. Soft dim light at 3100K, muted grays and faint amber undertone, rain-streaked window blurred in background. Audio: pages rustling softly. No voice, sound effects only. cinematic documentary, 24fps, 16:9, 1080p. 8s.
+
+NEGATIVE:
+bright lighting, clean modern notebook, typed text, steady hands, cheerful colors, sharp focus throughout, no atmospheric depth
+
+--------------------------------------------------
+CLIP C051 | 00:06:40.000 -> 00:06:48.000 | 8.0s
+Emotion: SADNESS (low) | Arc: build_up
+
+PROMPT:
+cinematic. Medium shot, very slow pull-back with subtle handheld drift. Man's hands clutching closed journal tightly against his chest, knuckles white, posture curled inward protectively. His head bowed slightly, face partially obscured, body language radiating desperate need. Warm but sickly yellow-green light source off-screen left, casting uneven glow, shadows deepening around him. Audio: fabric rustling against paper. No voice, sound effects only. cinematic documentary, 24fps, 16:9, 1080p. 8s.
+
+NEGATIVE:
+relaxed grip, open posture, bright clean lighting, neutral color temperature, stable locked-off camera, cheerful atmosphere
+
+--------------------------------------------------
+CLIP C052 | 00:06:48.000 -> 00:06:56.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+cinematic. Medium shot, very slow static dolly. Empty wooden kitchen chair at table, positioned as if someone just left, slight shadow cast by overhead pendant light. Man's silhouette visible in soft focus background, seated across from the empty chair, speaking softly. Warm amber light at 3800K, intimate but isolating framing, domestic kitchen setting with muted tones. Audio: chair leg scraping lightly on floor. No voice, sound effects only. cinematic documentary, 24fps, 16:9, 1080p. 8s. Hold 1.59s after.
+
+NEGATIVE:
+person sitting in chair, bright overhead lighting, modern kitchen, cold tones, wide establishing shot, no shadow detail
+TIMING: Hold 1.59s after.
+
+--------------------------------------------------
+CLIP C053 | 00:06:56.000 -> 00:07:04.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+cinematic. Medium shot, very slow static. Reverse angle of empty chair from across table, camera positioned where the absent person would sit, looking back at the man. His face partially lit by amber light, mouth moving in quiet speech, eyes fixed on the empty space. Background softly blurred, warm but suffocating atmosphere, shadows deepening at frame edges. Audio: wood creaking softly. No voice, sound effects only. cinematic documentary, 24fps, 16:9, 1080p. 8s.
+
+NEGATIVE:
+person visible in chair, bright even lighting, wide depth of field, cold color temperature, cheerful domestic scene, no shadow depth
+
+--------------------------------------------------
+CLIP C054 | 00:07:04.000 -> 00:07:12.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+cinematic. Close-up, very slow static. Man's mouth and lower face in sharp focus, lips moving slowly forming words, faint breath visible in cool air. His jaw tense, slight tremor in his voice visible in micro-expressions. Background heavily blurred into amber and shadow, claustrophobic framing. Audio: chair creaking faintly in distance. No voice, sound effects only. cinematic documentary, 24fps, 16:9, 1080p. 8s.
+
+NEGATIVE:
+full face visible, bright lighting, relaxed expression, warm breath, wide framing, sharp background, no tension in jaw
+
+--------------------------------------------------
+CLIP C055 | 00:07:12.000 -> 00:07:20.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+cinematic. Medium shot, very slow static. Man seated alone at kitchen table, head nodding slowly in agreement with himself, hands folded on table surface. His posture resigned, face lit by warm amber light that now feels oppressive rather than comforting, shadows heavy around him. Domestic kitchen setting, muted tones, suffocating intimacy. Audio: light switch clicking softly. No voice, sound effects only. cinematic documentary, 24fps, 16:9, 1080p. 8s. Hold 3.89s after.
+
+NEGATIVE:
+bright cheerful lighting, upright confident posture, open body language, cold tones, wide airy framing, no shadow weight
+TIMING: Hold 3.89s after.
+
+--------------------------------------------------
+CLIP C056 | 00:07:20.000 -> 00:07:28.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+cinematic. Medium shot, very slow static. Digital alarm clock on nightstand, glowing 2:17 AM in soft amber LED numerals. Warm honey light spills across wood grain surface. Phone screen face-down beside clock, faint notification glow pulsing at edges. Cozy bedroom environment, muted lamplight from hallway casting gentle shadows. Audio: phone vibrating on wood surface. No voice, sound effects only. Cinematic documentary, 24fps, 16:9, 1080p. 8s.
+
+NEGATIVE:
+no cold blue light, no harsh lighting, no dark shadows, no person in frame, no talking head, no generic stock footage, no camera drift
+
+--------------------------------------------------
+CLIP C057 | 00:07:28.000 -> 00:07:36.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+cinematic. Medium shot, very slow dolly in. Father at kitchen table, shoulders squared, hands flat on surface, jaw set in controlled tension. He lifts phone to ear, listens, expression hardening from concern to alarm—brow furrows, eyes narrow, breath held. Warm amber kitchen light from overhead pendant, clean counters visible behind, single coffee mug steaming. Audio: phone vibrating on wood table. No voice, sound effects only. cinematic documentary, 24fps, 16:9, 1080p. 8s.
+
+NEGATIVE:
+dark cold lighting, desaturated color, shadowy atmosphere, generic stock footage, camera drift, no bright warm visual for negative emotion
+
+--------------------------------------------------
+CLIP C058 | 00:07:36.000 -> 00:07:44.000 | 8.0s
+Emotion: SADNESS (low) | Arc: build_up
+
+PROMPT:
+cinematic. Medium shot, very slow pull-back. A smartphone screen glows cold blue in darkness, displaying 'Sandra' as caller ID. The phone rests on a wooden surface, trembling slightly. Shadows deepen at frame edges as camera retreats. Desaturated blue-gray palette dominates. Audio: phone vibrating on wood. No voice, sound effects only. cinematic documentary, 24fps, 16:9, 1080p. 8s.
+
+NEGATIVE:
+no person in frame, no warm lighting, no bright colors, no camera drift, no generic stock patterns
+
+--------------------------------------------------
+CLIP C059 | 00:07:44.000 -> 00:07:52.000 | 8.0s
+Emotion: SADNESS (low) | Arc: build_up
+
+PROMPT:
+cinematic. Medium shot, very slow pull-back. A bedside lamp casts harsh amber light across rumpled sheets. The bed is empty but indented, suggesting recent occupation. Shadows stretch and deepen as camera slowly retreats. Cold blue-gray walls contrast with warm amber pool of light. Audio: bedsheet rustling. No voice, sound effects only. cinematic documentary, 24fps, 16:9, 1080p. 8s. Hold 4s after.
+
+NEGATIVE:
+no person visible, no bright even lighting, no camera drift, no stock footage patterns
+TIMING: Hold 4s after.
+
+--------------------------------------------------
+CLIP C060 | 00:07:52.000 -> 00:08:00.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+cinematic. Medium shot, very slow static. Empty child's bedroom in warm afternoon light, untouched toys on shelf, small bed neatly made with blue comforter. Slow rack focus from doorway to bathroom mirror in adjacent room—small handprint visible at child height, fingers spread, catching soft window light. Warm amber glow from hallway, dust motes drifting. Audio: floorboard creaking under weight. No voice, sound effects only. cinematic documentary, 24fps, 16:9, 1080p. 8s.
+
+NEGATIVE:
+dark cold lighting, desaturated color, shadowy atmosphere, generic stock footage, camera drift, no bright warm visual for negative emotion
+
+--------------------------------------------------
+CLIP C061 | 00:08:00.000 -> 00:08:08.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+cinematic. Medium shot, very slow dolly in. A child's bedroom preserved in time: toys arranged on shelves, bed made, posters on wall. Amber light from hallway spills through doorway. Camera pushes slowly toward the threshold. Desaturated blues and grays with amber accent. Audio: floorboard creaking. No voice, sound effects only. cinematic documentary, 24fps, 16:9, 1080p. 8s.
+
+NEGATIVE:
+no person visible, no bright lighting, no camera drift, no generic stock patterns
+
+--------------------------------------------------
+CLIP C062 | 00:08:08.000 -> 00:08:16.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+cinematic. Close-up, very slow dolly in. Father's face in warm kitchen light, color draining from cheeks, eyes widening in dawning horror. Hand grips phone tighter, knuckles whitening, breath catching visibly. Soft amber light from pendant above, kitchen counter edge in shallow focus behind. Audio: sharp intake of breath. No voice, sound effects only. cinematic documentary, 24fps, 16:9, 1080p. 8s. Hold 2.77s after.
+
+NEGATIVE:
+dark cold lighting, desaturated color, shadowy atmosphere, generic stock footage, camera drift, no bright warm visual for negative emotion
+TIMING: Hold 2.77s after.
+
+--------------------------------------------------
+CLIP C063 | 00:08:16.000 -> 00:08:24.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+cinematic. Medium shot, very slow static. A kitchen counter dusted with flour shows small handprints trailing across the surface. Amber light from a single overhead fixture creates harsh shadows. The prints lead toward frame edge, unresolved. Desaturated palette with sickly yellow-green undertones. Audio: flour sifting. No voice, sound effects only. cinematic documentary, 24fps, 16:9, 1080p. 8s. Hold 3s after.
+
+NEGATIVE:
+no person visible, no bright lighting, no camera drift, no generic stock patterns
+TIMING: Hold 3s after.
+
+--------------------------------------------------
+CLIP C064 | 00:08:24.000 -> 00:08:32.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+cinematic. Extreme close-up, completely static. Handwritten journal page on wooden table, amber desk lamp illuminating circled dates and times in blue ink. Pen tip taps paper rhythmically, then circles matching timestamps—same hour, minutes apart. Shallow focus, warm 3700K light with subtle teal accent from laptop screen edge. Audio: pen tapping paper, pen scratching paper. No voice, sound effects only. cinematic documentary, 24fps, 16:9, 1080p. 8s. Hold 3.44s after.
+
+NEGATIVE:
+dark cold lighting, desaturated color, shadowy atmosphere, generic stock footage, camera drift, no bright warm visual for negative emotion
+TIMING: Hold 3.44s after.
+
+--------------------------------------------------
+CLIP C065 | 00:08:32.000 -> 00:08:40.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+cinematic. Medium shot, completely static. Two identical suburban houses side by side, windows glowing with warm amber light, connected by a faint translucent thread of sickly yellow-green energy pulsing between them. The thread undulates gently, feeding from both structures simultaneously. Overcast twilight sky, desaturated blues and grays. The houses stand isolated on empty streets, no movement except the slow pulse of the connecting energy. Cinematic documentary, 24fps, 16:9, 1080p. 8s.
+
+NEGATIVE:
+no people, no camera drift, no bright cheerful lighting, no warm inviting atmosphere, no movement, no generic stock patterns
+
+--------------------------------------------------
+CLIP C066 | 00:08:40.000 -> 00:08:48.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+cinematic. Low angle from bed perspective, completely static. View of a bedroom ceiling with a single bare bulb casting harsh shadows. The ceiling texture is visible, cracks and imperfections clear. Blue-gray pre-dawn light seeps through unseen window, mixing with the artificial light. The frame holds on this empty space, emphasizing stillness and insomnia. No movement, pure contemplation. Cinematic documentary, 24fps, 16:9, 1080p. 8s. Hold 4s after.
+
+NEGATIVE:
+no people visible, no camera movement, no warm comforting lighting, no bright colors, no generic stock patterns
+TIMING: Hold 4s after.
+
+--------------------------------------------------
+CLIP C067 | 00:08:48.000 -> 00:08:56.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+cinematic. Dashboard POV, slow forward dolly. Hands gripping steering wheel, knuckles white with tension. Highway stretches ahead under overcast sky, desaturated greens and grays. Road signs blur past. The grip tightens periodically, physical manifestation of compulsive determination. Cold daylight, 3700K with teal accent on dashboard instruments. Movement is inevitable, forward momentum unstoppable. Cinematic documentary, 24fps, 16:9, 1080p. 8s.
+
+NEGATIVE:
+no bright sunny weather, no relaxed posture, no warm inviting colors, no camera drift, no generic stock patterns
+[!] NEEDS HUMAN REVIEW
+
+--------------------------------------------------
+CLIP C068 | 00:08:56.000 -> 00:09:04.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+cinematic. Side profile through car window, completely static. Face set in determination, jaw clenched, eyes fixed forward. Passing landscape blurred in background, desaturated greens and cold grays. Cold daylight illuminates profile, creating sharp contrast. No smile, no relaxation, only resolve. The blur of passing scenery emphasizes isolation and singular focus. Cinematic documentary, 24fps, 16:9, 1080p. 8s. Hold 4s after.
+
+NEGATIVE:
+no warm lighting, no bright colors, no relaxed expression, no camera drift, no generic stock patterns
+TIMING: Hold 4s after.
+[!] NEEDS HUMAN REVIEW
+
+--------------------------------------------------
+CLIP C069 | 00:09:04.000 -> 00:09:12.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+cinematic. Two-shot in doorway, completely static. Two figures face each other in doorframe, both with hollow eyes and gaunt postures. Sandra's face mirrors exhaustion and fear, shoulders slumped. Muted colors, desaturated blues and grays. The doorway frames them in isolation, two people connected by shared trauma. Overhead light creates harsh shadows under eyes. No warmth, only recognition of mutual suffering. Cinematic documentary, 24fps, 16:9, 1080p. 8s.
+
+NEGATIVE:
+no bright lighting, no warm welcoming atmosphere, no smiles, no camera drift, no generic stock patterns
+
+--------------------------------------------------
+CLIP C070 | 00:09:12.000 -> 00:09:20.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+cinematic. Medium shot across kitchen table, completely static. Two figures seated opposite each other, coffee cups between them. Overhead pendant light creates island of warm amber glow in surrounding darkness, but the warmth feels false, sickly. Both figures sit with slumped shoulders, hands wrapped around cups for comfort that doesn't come. The darkness presses in from frame edges. Cinematic documentary, 24fps, 16:9, 1080p. 8s.
+
+NEGATIVE:
+no bright cheerful lighting, no relaxed postures, no conversation, no camera drift, no generic stock patterns
+[!] NEEDS HUMAN REVIEW
+
+--------------------------------------------------
+CLIP C071 | 00:09:20.000 -> 00:09:28.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+cinematic. Static shot down empty hallway, completely static. Dark hallway suddenly illuminated by overhead light flickering on. Sickly yellow-green glow fills the corridor, casting harsh shadows. The light creates wrongness, false comfort. Empty doorways line the hall. No movement, no figure, only the light itself as presence. The camera holds, unblinking. Cinematic documentary, 24fps, 16:9, 1080p. 8s. Hold 6s after.
+
+NEGATIVE:
+no people visible, no warm inviting light, no camera movement, no bright colors, no generic stock patterns
+TIMING: Hold 6s after.
+[!] NEEDS HUMAN REVIEW
+
+--------------------------------------------------
+CLIP C072 | 00:09:28.000 -> 00:09:36.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+cinematic. Extreme close-up on eyes, completely static. Eyes wide, pupils dilated, locked on something off-frame. The iris reflects the sickly yellow-green hallway light. Breath held, no blink. Warm amber light from kitchen contrasts with cold reflected glow. The eyes show recognition and terror simultaneously. Skin pale, slight tremor visible in eyelid. Cinematic documentary, 24fps, 16:9, 1080p. 8s. Hold 1s after.
+
+NEGATIVE:
+no relaxed expression, no warm comforting lighting, no camera movement, no bright colors, no generic stock patterns
+TIMING: Hold 1s after.
+[!] NEEDS HUMAN REVIEW
+
+--------------------------------------------------
+CLIP C073 | 00:09:36.000 -> 00:09:44.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+
+
+NEGATIVE:
+
+[!] NEEDS HUMAN REVIEW
+
+--------------------------------------------------
+CLIP C074 | 00:09:44.000 -> 00:09:52.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+
+
+NEGATIVE:
+
+[!] NEEDS HUMAN REVIEW
+
+--------------------------------------------------
+CLIP C075 | 00:09:52.000 -> 00:10:00.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+
+
+NEGATIVE:
+
+
+--------------------------------------------------
+CLIP C076 | 00:10:00.000 -> 00:10:08.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+
+
+NEGATIVE:
+
+[!] NEEDS HUMAN REVIEW
+
+--------------------------------------------------
+CLIP C077 | 00:10:08.000 -> 00:10:16.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+
+
+NEGATIVE:
+
+[!] NEEDS HUMAN REVIEW
+
+--------------------------------------------------
+CLIP C078 | 00:10:16.000 -> 00:10:24.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+
+
+NEGATIVE:
+
+[!] NEEDS HUMAN REVIEW
+
+--------------------------------------------------
+CLIP C079 | 00:10:24.000 -> 00:10:32.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+
+
+NEGATIVE:
+
+[!] NEEDS HUMAN REVIEW
+
+--------------------------------------------------
+CLIP C080 | 00:10:32.000 -> 00:10:40.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+
+
+NEGATIVE:
+
+[!] NEEDS HUMAN REVIEW
+
+--------------------------------------------------
+CLIP C081 | 00:10:40.000 -> 00:10:48.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+cinematic. Medium shot, completely static. Wall calendar showing Wednesday circled in red marker, hands resting calmly on desk edge below frame. Fingers relaxed, no tension. Soft afternoon light through window casting gentle shadows across calendar page. Audio: pen tapping desk twice. No voice, sound effects only. cinematic documentary, 24fps, 16:9, 1080p. 8s.
+
+NEGATIVE:
+no dark shadows, no cold lighting, no tension in posture, no ominous atmosphere, no camera drift, no generic stock patterns
+
+--------------------------------------------------
+CLIP C082 | 00:10:48.000 -> 00:10:56.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+cinematic. Medium shot, very slow push-in. Digital clock display reading 20:00, warm amber glow illuminating the numbers. Hands enter frame to adjust clock dial with steady, deliberate movement. Soft teal accent light from nearby lamp. Audio: clock dial clicking. No voice, sound effects only. cinematic documentary, 24fps, 16:9, 1080p. 8s.
+
+NEGATIVE:
+no dark cold visuals, no harsh shadows, no anxious hand movements, no camera drift, no generic stock patterns
+
+--------------------------------------------------
+CLIP C083 | 00:10:56.000 -> 00:11:04.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+cinematic. Extreme close-up, locked static. Mouth forming words silently, lips moving in slow deliberate articulation. Shallow depth of field, warm sickly yellow-green light from off-screen casting soft glow on skin. Expression calm, almost meditative. Audio: breath exhaling slowly. No voice, sound effects only. cinematic documentary, 24fps, 16:9, 1080p. 8s. Hold 2.1s after.
+
+NEGATIVE:
+no dark cold lighting, no fear expression, no wide shots, no camera drift, no generic stock patterns
+TIMING: Hold 2.1s after.
+
+--------------------------------------------------
+CLIP C084 | 00:11:04.000 -> 00:11:12.000 | 8.0s
+Emotion: SADNESS (low) | Arc: deep
+
+PROMPT:
+cinematic. Medium shot, static. Weathered wooden church door, paint peeling, brass handle tarnished. Overcast daylight casts flat, muted illumination. Desaturated blue-gray palette, no warmth. Door slightly ajar, darkness visible through gap. Audio: wind through trees. No voice, sound effects only. cinematic documentary, 24fps, 16:9. 8s. Hold 1s after.
+
+NEGATIVE:
+no person, no interior, no camera movement, no bright warm light, no saturated colors, no generic stock church
+TIMING: Hold 1s after.
+
+--------------------------------------------------
+CLIP C085 | 00:11:12.000 -> 00:11:20.000 | 8.0s
+Emotion: SADNESS (low) | Arc: deep
+
+PROMPT:
+cinematic. Close-up, static. Rosary beads draped over open Bible, wooden cross resting on yellowed pages. Soft focus background shows blurred stained glass. Cold blue light from window illuminates scene. Desaturated palette, no warmth. Audio: pages turning. No voice, sound effects only. cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no hands, no person, no camera movement, no warm lighting, no saturated colors, no generic stock religious imagery
+
+--------------------------------------------------
+CLIP C086 | 00:11:20.000 -> 00:11:28.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+cinematic. Medium shot, completely static. Priest in his fifties, face half-lit by soft window light, expression calm and resolute, eyes steady with quiet determination. He sits at wooden desk, hands folded, leaning slightly forward in gesture of invitation. Warm afternoon light fills modest church office, amber glow on bookshelves and cross on wall, atmosphere of sanctuary and safety. Audio: chair creaking wood. No voice, sound effects only. cinematic documentary, 24fps, 16:9, 1080p. 8s. Hold 5.4s after.
+
+NEGATIVE:
+dark shadows, cold lighting, ominous atmosphere, fear expression, hesitation, camera drift, generic stock footage
+TIMING: Hold 5.4s after.
+
+--------------------------------------------------
+CLIP C087 | 00:11:28.000 -> 00:11:36.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+cinematic. Wide shot, locked to dashboard perspective. Road stretching ahead through windshield, overcast sky above, mile marker 40 visible on roadside. Hands on steering wheel at ten and two, relaxed grip. Muted daylight, soft teal dashboard glow. Audio: turn signal clicking. No voice, sound effects only. cinematic documentary, 24fps, 16:9, 1080p. 8s. Hold 2.2s after.
+
+NEGATIVE:
+no dark visuals, no tense hand grip, no camera shake, no generic stock patterns
+TIMING: Hold 2.2s after.
+
+--------------------------------------------------
+CLIP C088 | 00:11:36.000 -> 00:11:44.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+cinematic. Medium shot, completely static. Side profile of man in passenger seat, face calm and contemplative, eyes forward. Passing landscape blurred through window, soft overcast light. Hands resting on lap, no tension. Muted colors with subtle teal accent from dashboard. Audio: seatbelt clicking. No voice, sound effects only. cinematic documentary, 24fps, 16:9, 1080p. 8s.
+
+NEGATIVE:
+no dark cold visuals, no anxious expression, no camera drift, no generic stock patterns
+
+--------------------------------------------------
+CLIP C089 | 00:11:44.000 -> 00:11:52.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+
+
+NEGATIVE:
+
+[!] NEEDS HUMAN REVIEW
+
+--------------------------------------------------
+CLIP C090 | 00:11:52.000 -> 00:12:00.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+
+
+NEGATIVE:
+
+[!] NEEDS HUMAN REVIEW
+
+--------------------------------------------------
+CLIP C091 | 00:12:00.000 -> 00:12:08.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+
+
+NEGATIVE:
+
+[!] NEEDS HUMAN REVIEW
+
+--------------------------------------------------
+CLIP C092 | 00:12:08.000 -> 00:12:16.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+
+
+NEGATIVE:
+
+
+--------------------------------------------------
+CLIP C093 | 00:12:16.000 -> 00:12:24.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+
+
+NEGATIVE:
+
+[!] NEEDS HUMAN REVIEW
+
+--------------------------------------------------
+CLIP C094 | 00:12:24.000 -> 00:12:32.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+
+
+NEGATIVE:
+
+[!] NEEDS HUMAN REVIEW
+
+--------------------------------------------------
+CLIP C095 | 00:12:32.000 -> 00:12:40.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+
+
+NEGATIVE:
+
+[!] NEEDS HUMAN REVIEW
+
+--------------------------------------------------
+CLIP C096 | 00:12:40.000 -> 00:12:48.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+
+
+NEGATIVE:
+
+[!] NEEDS HUMAN REVIEW
+
+--------------------------------------------------
+CLIP C097 | 00:12:48.000 -> 00:12:56.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+
+
+NEGATIVE:
+
+[!] NEEDS HUMAN REVIEW
+
+--------------------------------------------------
+CLIP C098 | 00:12:56.000 -> 00:13:04.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+
+
+NEGATIVE:
+
+[!] NEEDS HUMAN REVIEW
+
+--------------------------------------------------
+CLIP C099 | 00:13:04.000 -> 00:13:12.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+
+
+NEGATIVE:
+
+[!] NEEDS HUMAN REVIEW
+
+--------------------------------------------------
+CLIP C100 | 00:13:12.000 -> 00:13:20.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+
+
+NEGATIVE:
+
+[!] NEEDS HUMAN REVIEW
+
+--------------------------------------------------
+CLIP C101 | 00:13:20.000 -> 00:13:28.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+
+
+NEGATIVE:
+
+[!] NEEDS HUMAN REVIEW
+
+--------------------------------------------------
+CLIP C102 | 00:13:28.000 -> 00:13:36.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+
+
+NEGATIVE:
+
+
+--------------------------------------------------
+CLIP C103 | 00:13:36.000 -> 00:13:44.000 | 8.0s
+Emotion: SADNESS (low) | Arc: deep
+
+PROMPT:
+
+
+NEGATIVE:
+
+[!] NEEDS HUMAN REVIEW
+
+--------------------------------------------------
+CLIP C104 | 00:13:44.000 -> 00:13:52.000 | 8.0s
+Emotion: SADNESS (low) | Arc: deep
+
+PROMPT:
+
+
+NEGATIVE:
+
+[!] NEEDS HUMAN REVIEW
+
+--------------------------------------------------
+CLIP C105 | 00:13:52.000 -> 00:14:00.000 | 8.0s
+Emotion: SADNESS (low) | Arc: deep
+
+PROMPT:
+cinematic. Close-up, very slow static hold. Priest's weathered hands rest on dark wood table, fingers interlaced, knuckles pale with tension. Hands shift slightly—a measured, deliberate gesture of explanation. Dim room lit by single overcast window, muted gray-blue wash, deep shadows pooling at frame edges. Audio: fabric rustling against wood. No voice, sound effects only. cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no bright lighting, no warm color temperature, no smiling, no energetic movement, no multiple light sources, no outdoor scenes
+
+--------------------------------------------------
+CLIP C106 | 00:14:00.000 -> 00:14:08.000 | 8.0s
+Emotion: SURPRISE (low) | Arc: deep
+
+PROMPT:
+cinematic. Medium shot pulling back to wide via ascending crane, very slow movement. Priest leans forward across table toward camera, shoulders squared, expression grave but open—offering difficult truth. Background reveals dim church interior, single shaft of cool light breaking through high window, dust motes suspended. Color shifts from muted gray-blue to faint warm amber as light enters frame. Audio: chair creaking under shifting weight. No voice, sound effects only. cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no bright cheerful lighting, no smiling, no fast movement, no multiple characters, no outdoor scenes
+
+--------------------------------------------------
+CLIP C107 | 00:14:08.000 -> 00:14:16.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+cinematic. Extreme close-up, completely static. Father's eyes widen slightly, pupils dilating, brow lifting in recognition. Rack focus from sharp eyes to soft background—blurred church pew edge, candle glow. Muted teal accent in reflected light on iris. Face otherwise still, processing revelation. Audio: breath intake. No voice, sound effects only. cinematic documentary, 24fps, 16:9. 8s. 4.22s hold after.
+
+NEGATIVE:
+no bright lighting, no smiling, no movement, no multiple faces, no outdoor scenes
+TIMING: 4.22s hold after.
+
+--------------------------------------------------
+CLIP C108 | 00:14:16.000 -> 00:14:24.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+cinematic. Medium shot, locked-off static. A single child's crayon drawing lies flat on a white porcelain kitchen sink under harsh overhead fluorescent light. The drawing shows a stick-figure child and sun in bright primary colors. A hand enters frame holding a lit wooden match, flame flickering. The match touches the corner of the paper. The drawing curls, blackens, and disintegrates into ash. The hand withdraws. Gray ash settles in the sink basin. Audio: match striking, paper crackling and burning. No voice, sound effects only. cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no person visible, no face, no wide shot, no warm lighting, no soft focus, no sentimental framing, no camera movement
+
+--------------------------------------------------
+CLIP C109 | 00:14:24.000 -> 00:14:32.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+cinematic. Close-up, slow push-in. Hands gather stack of children's drawings from table, fingers trembling slightly, lifting papers toward camera. Warm amber light from overhead casts soft shadows across knuckles. Drawings show crayon stick figures, bright colors. Hands move deliberately toward frame edge, carrying drawings out of shot. Audio: paper rustling, sliding across wood. No voice, sound effects only. cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no bright cold lighting, no fast movement, no faces, no outdoor scenes, no multiple characters
+
+--------------------------------------------------
+CLIP C110 | 00:14:32.000 -> 00:14:40.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+cinematic. Medium shot, very slow completely static. Gray cigarette ash scattered in white porcelain sink basin, soft natural window light casting gentle shadows across the ceramic surface. Camera holds perfectly still on the ash particles, delicate and undisturbed, creating quiet contemplation. Clean minimal kitchen environment with pale walls and simple fixtures, atmosphere of calm domestic stillness. Audio: water dripping from faucet. No voice, sound effects only. cinematic documentary, 24fps, 16:9, 1080p. 8s. Hold 5.92s after.
+
+NEGATIVE:
+dark lighting, cold color temperature, harsh shadows, movement, camera drift, people, hands entering frame, dramatic lighting, tension
+TIMING: Hold 5.92s after.
+
+--------------------------------------------------
+CLIP C111 | 00:14:40.000 -> 00:14:48.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+cinematic. Medium shot, completely static. Father stands frozen at kitchen sink, back to camera, shoulders rigid, head tilted slightly as if listening. Unnatural yellow-green light spills from off-screen left, casting long shadow across floor. Kitchen details visible—cabinets, countertop, ash in sink. Slight handheld drift begins at 6-second mark. Audio: floorboard creak. No voice, sound effects only. cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no bright lighting, no faces, no fast movement, no outdoor scenes, no warm comforting atmosphere
+
+--------------------------------------------------
+CLIP C112 | 00:14:48.000 -> 00:14:56.000 | 8.0s
+Emotion: FEAR (low) | Arc: deep
+
+PROMPT:
+cinematic. Dynamic medium shot, motion blur. Wooden kitchen chair mid-flight toward wall, legs forward, spinning slightly. Harsh high-contrast lighting, deep shadows, red accent in frame edge. Father's arm visible at frame left, extended from throw, hand open, fingers splayed. Background wall approaching fast. Audio: chair scraping floor, wood splintering on impact. No voice, sound effects only. cinematic documentary, 24fps, 16:9. 8s. 3.66s hold after.
+
+NEGATIVE:
+no bright lighting, no static composition, no faces, no outdoor scenes, no calm atmosphere
+TIMING: 3.66s hold after.
+
+--------------------------------------------------
+CLIP C113 | 00:14:56.000 -> 00:15:04.000 | 8.0s
+Emotion: FEAR (low) | Arc: deep
+
+PROMPT:
+cinematic. Close-up, very slow creeping push-in building. Broken wooden chair lying on kitchen floor, one leg splintered, ash scattered across linoleum. Dim harsh high contrast lighting, 2700K with red accent casting long shadows. Empty kitchen doorway visible in background, yellow-green glow from hallway. Audio: chair leg scraping floor, distant house settling creak. No voice, sound effects only. cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no people visible, no hands in frame, no bright lighting, no warm comforting tones, no clean modern kitchen, no intact furniture
+
+--------------------------------------------------
+CLIP C114 | 00:15:04.000 -> 00:15:12.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+cinematic. Medium shot, completely static. Empty kitchen from doorway perspective, broken chair still visible on floor but now distant. Father's silhouette small in frame, back to camera, shoulders slumped. Authoritative Bloomberg-style lighting, 3700K with teal accent, desaturated palette. Oppressive stillness, no movement for full duration. Audio: single light bulb filament buzz, refrigerator compressor click. No voice, sound effects only. cinematic documentary, 24fps, 16:9. 8s. Hold 6s after.
+
+NEGATIVE:
+no close-ups, no camera movement, no warm lighting, no human faces visible, no action or gesture, no bright colors
+TIMING:  Hold 6s after.
+
+--------------------------------------------------
+CLIP C115 | 00:15:12.000 -> 00:15:20.000 | 8.0s
+Emotion: ANTICIPATION (low) | Arc: deep
+
+PROMPT:
+cinematic. Medium close-up, very slow creeping push-in. Hand holding smartphone in warm amber light, finger hovering over redial button, slight tension in knuckles. Screen shows contact name 'Sandra' with three missed call notifications stacked vertically. Warm 3300K amber glow from phone screen illuminates skin, creating soft highlights on fingertips. Audio: finger tapping glass screen, notification chime repeating. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no dark cold lighting, no desaturated colors, no blue tones, no camera drift, no generic stock patterns, no talking head, no ambient wash, no room tone
+
+--------------------------------------------------
+CLIP C116 | 00:15:20.000 -> 00:15:28.000 | 8.0s
+Emotion: ANTICIPATION (low) | Arc: deep
+
+PROMPT:
+cinematic. Medium close-up, very slow creeping push-in. Fist raised at wooden door, knuckles inches from surface, hand trembling slightly with anticipation. Warm amber daylight filters through door frame edges, casting 3300K glow on weathered wood grain. Shallow depth of field keeps background house number soft. Audio: knuckles rapping wood three times, pause, second knock sequence. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 3s after.
+
+NEGATIVE:
+no dark cold lighting, no desaturated colors, no blue tones, no camera drift, no generic stock patterns, no talking head, no ambient wash, no silence
+TIMING: Hold 3s after.
+
+--------------------------------------------------
+CLIP C117 | 00:15:28.000 -> 00:15:36.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+cinematic. Medium shot, completely static. Extreme close-up of woman's eyes, pupils dilated, gaze fixed on something beyond camera. Blank, distant expression, shallow depth of field. Sickly yellow-green reflection visible in corneas, authoritative Bloomberg-style lighting, 3700K with teal accent. Eyes do not blink or track. Audio: shallow breathing rhythm, fabric rustling from off-screen. No voice, sound effects only. cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no full face, no recognition or emotion, no warm lighting, no eye contact with camera, no movement or life in expression, no bright colors
+
+--------------------------------------------------
+CLIP C118 | 00:15:36.000 -> 00:15:44.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+cinematic. Medium shot, completely static. Two-shot composition: woman's profile left frame speaking, man's face right frame recoiling slightly. Unnatural interior light, 3700K teal accent, yellow-green glow from unseen source. Woman's lips move, man's eyes widen. Audio: floorboard creak under shifting weight, wall clock ticking. No voice, sound effects only. cinematic documentary, 24fps, 16:9. 8s. Hold 6s after.
+
+NEGATIVE:
+no dialogue audible, no warm lighting, no comfortable domestic space, no eye contact between subjects, no resolution or comfort
+TIMING:  Hold 6s after.
+
+--------------------------------------------------
+CLIP C119 | 00:15:44.000 -> 00:15:52.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+cinematic. Medium shot, completely static. Close-up of woman's mouth forming words, lips moving deliberately. Rack focus shifts to man's face behind her, expression frozen in horror, eyes wide. Authoritative Bloomberg-style lighting, 3700K teal accent, shallow depth of field. Audio: sharp inhale, held breath, exhale tremor. No voice, sound effects only. cinematic documentary, 24fps, 16:9. 8s. Hold 2s after.
+
+NEGATIVE:
+no dialogue audible, no warm lighting, no comfortable expressions, no resolution or comfort, no bright colors, no soft focus throughout
+TIMING:  Hold 2s after.
+
+--------------------------------------------------
+CLIP C120 | 00:15:52.000 -> 00:16:00.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+cinematic. Medium shot, completely static. Two hands gripping truck steering wheel at ten and two, daylight streaming through windshield creating 3700K teal-accented highlights on dashboard. Passenger seat visible in frame right, empty seatbelt hanging loose. Clean composition, authoritative framing, minimal movement except slight finger adjustment on wheel. Audio: truck door closing, seatbelt clicking, engine starting. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 4s after.
+
+NEGATIVE:
+no dark cold lighting for positive emotion, no camera drift, no generic stock patterns, no talking head, no ambient wash, no room tone, no music
+TIMING: Hold 4s after.
+
+--------------------------------------------------
+CLIP C121 | 00:16:00.000 -> 00:16:08.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+cinematic. Medium shot, locked-off static. Father's hand gently gripping daughter's forearm, guiding her toward open doorway bathed in soft daylight. His posture protective but resolute, shoulders squared, jaw set with quiet determination. She moves beside him, steps hesitant but compliant. Warm afternoon light spills through doorway into dim interior, creating hopeful gradient from shadow to brightness. Audio: footsteps on wooden floor, door hinge creaking. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no dark cold tones, no shadowy interiors, no ominous lighting, no camera drift, no generic stock patterns, no talking head
+[!] NEEDS HUMAN REVIEW
+
+--------------------------------------------------
+CLIP C122 | 00:16:08.000 -> 00:16:16.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+cinematic. Close-up, completely static. Hands opening truck door handle, assisting entry. Fingers steady, gentle pressure. Shallow depth of field, warm amber light from interior dome light mixing with cool teal from exterior streetlight. Subject's hand relaxed, trusting. Action: door opening smoothly, hand guiding without force. Environment: truck cab framed by soft dual-tone lighting, protective enclosure. Audio: truck door latch clicking, fabric seat rustling. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 4.2s after.
+
+NEGATIVE:
+dark cold lighting, harsh shadows, aggressive movement, no warm tones, generic stock footage, camera drift
+TIMING: Hold 4.2s after.
+
+--------------------------------------------------
+CLIP C123 | 00:16:16.000 -> 00:16:24.000 | 8.0s
+Emotion: SURPRISE (mid) | Arc: deep
+
+PROMPT:
+cinematic. Close-up, slight handheld drift. Drawn hand holding illustrated smartphone to ear, waiting. Cold blue screen light illuminates side of face in darkness, expression tense, brow furrowed. Finger taps phone screen repeatedly, checking for response. Deep shadows, desaturated blue-gray palette. Audio: phone ringing tone repeating, finger tapping glass screen. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no warm comforting tones, no answered calls, no static locked-off framing, no generic stock patterns
+
+--------------------------------------------------
+CLIP C124 | 00:16:24.000 -> 00:16:32.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+cinematic. Wide shot, completely static. Church entrance from interior perspective, heavy wooden door pushed halfway open revealing silhouette of man standing in threshold. Warm golden-hour light streams through doorway, illuminating dust motes and creating halo effect around figure. Interior bathed in soft amber glow from setting sun, wooden pews catching warm highlights. His posture alert, head slightly forward, listening. Audio: door latch clicking, wood creaking open. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no cold blue tones, no harsh shadows, no ominous darkness, no camera movement, no generic stock footage
+
+--------------------------------------------------
+CLIP C125 | 00:16:32.000 -> 00:16:40.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+cinematic. Medium shot, locked-off. Man's face in three-quarter profile, head tilted slightly as if listening intently. Soft warm light from unseen source illuminates one side of face, creating gentle chiaroscuro. Expression shifts subtly from concern to dawning recognition, brow furrowing, eyes narrowing with focus. Warm amber tones dominate, suggesting late afternoon or candlelight. His breathing visible in slight chest movement, posture tense but controlled. Audio: distant muffled voice, fabric rustling. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 2.3s after.
+
+NEGATIVE:
+no cold lighting, no dark shadows, no ominous atmosphere, no camera drift, no generic stock patterns
+TIMING: Hold 2.3s after.
+[!] NEEDS HUMAN REVIEW
+
+--------------------------------------------------
+CLIP C126 | 00:16:40.000 -> 00:16:48.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+cinematic. POV shot down church aisle, slow push-in. Wooden pews line both sides, catching warm amber glow from votive candles flickering near distant altar. Soft golden light pools at far end of aisle, creating inviting warmth in otherwise dim space. Phone flashlight beam cuts through darkness in foreground, illuminating dust particles floating in air. Perspective moves forward steadily, approaching source of warm light. Audio: footsteps on stone floor, candle flames flickering. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no cold blue tones, no harsh shadows, no ominous darkness, no camera drift, no generic stock footage
+[!] NEEDS HUMAN REVIEW
+
+--------------------------------------------------
+CLIP C127 | 00:16:48.000 -> 00:16:56.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+cinematic. Medium shot, completely static. Illustrated priest sitting in front pew, eyes closed, hands folded in lap. Drawn face serene but unsettling, lips slightly moving. Warm candlelight from altar casts amber glow, creating harsh shadow on one side of face. Desaturated palette with sickly yellow-green warmth. Stillness feels wrong, too perfect. Audio: candle flame crackling softly, faint breath exhaling. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+live-action footage, photorealistic people, bright colors, camera movement, room tone, ambient drone, music, dialogue
+
+--------------------------------------------------
+CLIP C128 | 00:16:56.000 -> 00:17:04.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+cinematic. Close-up, completely static. Illustrated priest's lips moving, speaking silently to no one. Shallow focus on mouth, rest of face soft blur. Warm side-light creates harsh shadow across drawn cheek and jaw. Expression distant, disconnected. Desaturated with amber and sickly yellow-green tones. Audio: faint whisper of breath, candle wax dripping onto metal holder. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 2.92s after.
+
+NEGATIVE:
+live-action footage, photorealistic people, bright colors, camera movement, room tone, music, clear dialogue, ambient wash
+TIMING:  Hold 2.92s after.
+
+--------------------------------------------------
+CLIP C129 | 00:17:04.000 -> 00:17:12.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+cinematic. Medium close-up, very slow push-in. Elderly priest in front pew, eyes gently closed, face softened in warm candlelight, slight peaceful smile at corner of mouth. Hands folded loosely in lap, shoulders relaxed, head tilted slightly as if listening to a cherished memory. Warm amber glow from altar candles bathes his face, creating soft highlights on weathered features. Audio: candle flame flickering. No voice, sound effects only. Cinematic documentary, 24fps, 16:9, 1080p. 8s.
+
+NEGATIVE:
+dark shadows, cold lighting, harsh contrast, tense posture, clenched hands, furrowed brow, distressed expression, blue tones, desaturated colors, ominous atmosphere
+
+--------------------------------------------------
+CLIP C130 | 00:17:12.000 -> 00:17:20.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+cinematic. Medium close-up, rack focus from background to foreground. Man's hand enters frame, reaching toward priest's shoulder. Rack focus shifts from blurred priest in background to sharp focus on reaching hand in foreground. Hand hesitates mid-reach, fingers slightly curled. Warm oppressive church light creates harsh highlights on skin. Deep shadows between figures. Sickly yellow-green undertone creeps into amber candlelight. Audio: fabric rustling, footstep on stone floor. No voice, sound effects only. Cinematic documentary, 24fps, 16:9, 1080p. 8s. Hold 2.49s after.
+
+NEGATIVE:
+bright cheerful lighting, both figures in focus, fast movement, talking head, generic stock footage, camera drift, cold blue tones
+TIMING:  Hold 2.49s after.
+
+--------------------------------------------------
+CLIP C131 | 00:17:20.000 -> 00:17:28.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+cinematic. Close-up, slow rack focus. Priest's closed eyelids fill frame, slight rapid movement beneath lids as if dreaming. Rack focus shifts to eyes slowly opening, pupils dilated and unfocused. Irises catch amber candlelight, creating momentary reflection. Expression blank, vacant, no recognition. Warm harsh light creates deep shadows in eye sockets. Skin texture visible, exhausted and pale. Audio: eyelid opening, shallow breath exhale. No voice, sound effects only. Cinematic documentary, 24fps, 16:9, 1080p. 8s.
+
+NEGATIVE:
+bright cheerful lighting, alert expression, talking head, generic stock footage, camera drift, cold blue tones, multiple people in frame
+
+--------------------------------------------------
+CLIP C132 | 00:17:28.000 -> 00:17:36.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+cinematic. Medium close-up, very slow push-in. Vintage analog wristwatch face in warm candlelight, second hand sweeping smoothly past Roman numerals, brass case catching amber glow. Watch rests on wooden pew armrest, priest's weathered hand visible at edge of frame, fingers relaxed and still. Soft golden light creates gentle shadows across watch crystal, time reading 10:15. Audio: watch ticking. No voice, sound effects only. Cinematic documentary, 24fps, 16:9, 1080p. 8s. Hold 3.5s after.
+
+NEGATIVE:
+digital watch, cold blue light, harsh shadows, tense hand position, dark atmosphere, desaturated colors, ominous mood, rapid movement
+TIMING: Hold 3.5s after.
+
+--------------------------------------------------
+CLIP C133 | 00:17:36.000 -> 00:17:44.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+cinematic. Medium close-up, very slow push-in. Two men in warm candlelit church interior, one leaning forward with open posture asking question, the other seated with tired but calm expression, eyes meeting in moment of honest connection. Amber light from altar candles creates soft glow between them, illuminating gentle exhaustion rather than distress. Wooden pew texture visible, brass fixtures catching warm light. Audio: fabric rustling. No voice, sound effects only. Cinematic documentary, 24fps, 16:9, 1080p. 8s.
+
+NEGATIVE:
+harsh shadows, cold lighting, tense body language, clenched fists, fearful expressions, dark atmosphere, blue tones, ominous mood, isolation
+
+--------------------------------------------------
+CLIP C134 | 00:17:44.000 -> 00:17:52.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+cinematic. Wide shot, static locked-off. Empty church pews stretch in rows toward distant altar, all vacant except single figure of priest small in frame, hunched in front pew. Four hours compressed into stillness. Amber candlelight from altar creates pools of warm light that fail to reach the shadows. Sickly yellow-green undertone pervades sacred space. Oppressive architecture looms. Audio: distant church bell chime, wood settling. No voice, sound effects only. Cinematic documentary, 24fps, 16:9, 1080p. 8s. Hold 1.58s after.
+
+NEGATIVE:
+bright cheerful lighting, multiple people, close-up, talking head, generic stock footage, camera drift, cold blue tones, modern church
+TIMING:  Hold 1.58s after.
+
+--------------------------------------------------
+CLIP C135 | 00:17:52.000 -> 00:18:00.000 | 8.0s
+Emotion: SADNESS (low) | Arc: payoff
+
+PROMPT:
+cinematic. Close-up, slow push-in. Man's face in profile, eyes widening in realization, mouth slightly open. Expression shifts from concern to dawning horror. Sickly yellow-green light creeps across features from off-screen source, mixing with warm amber candlelight. Skin tone shifts from warm to cold undertone. Shadows deepen in eye sockets. Audio: sharp intake of breath, candle flame guttering. No voice, sound effects only. Cinematic documentary, 24fps, 16:9, 1080p. 8s. Hold 1.93s after.
+
+NEGATIVE:
+bright cheerful lighting, calm expression, talking head, generic stock footage, camera drift, pure warm tones, multiple people
+TIMING:  Hold 1.93s after.
+
+--------------------------------------------------
+CLIP C136 | 00:18:00.000 -> 00:18:08.000 | 8.0s
+Emotion: SADNESS (low) | Arc: payoff
+
+PROMPT:
+cinematic. Medium shot, very slow pull-back. Priest's trembling hands folded in lap, fingers interlaced, knuckles white. Man's hand enters frame from side, hesitant, hovering above priest's shoulder without touching. Hands occupy center frame, both trembling slightly. Warm candlelight harsh on skin texture. Deep shadows between fingers. Sickly yellow-green undertone suffuses the space. Audio: hand tremor rustling fabric, shallow breathing. No voice, sound effects only. Cinematic documentary, 24fps, 16:9, 1080p. 8s. Hold 0.92s after.
+
+NEGATIVE:
+bright cheerful lighting, steady hands, talking head, generic stock footage, camera drift, pure warm tones, wide shot
+TIMING:  Hold 0.92s after.
+
+--------------------------------------------------
+CLIP C137 | 00:18:08.000 -> 00:18:16.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+
+
+NEGATIVE:
+
+[!] NEEDS HUMAN REVIEW
+
+--------------------------------------------------
+CLIP C138 | 00:18:16.000 -> 00:18:24.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+
+
+NEGATIVE:
+
+[!] NEEDS HUMAN REVIEW
+
+--------------------------------------------------
+CLIP C139 | 00:18:24.000 -> 00:18:32.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+
+
+NEGATIVE:
+
+[!] NEEDS HUMAN REVIEW
+
+--------------------------------------------------
+CLIP C140 | 00:18:32.000 -> 00:18:40.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+
+
+NEGATIVE:
+
+
+--------------------------------------------------
+CLIP C141 | 00:18:40.000 -> 00:18:48.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+
+
+NEGATIVE:
+
+
+--------------------------------------------------
+CLIP C142 | 00:18:48.000 -> 00:18:56.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+
+
+NEGATIVE:
+
+[!] NEEDS HUMAN REVIEW
+
+--------------------------------------------------
+CLIP C143 | 00:18:56.000 -> 00:19:04.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+
+
+NEGATIVE:
+
+[!] NEEDS HUMAN REVIEW
+
+--------------------------------------------------
+CLIP C144 | 00:19:04.000 -> 00:19:12.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+
+
+NEGATIVE:
+
+
+--------------------------------------------------
+CLIP C145 | 00:19:12.000 -> 00:19:20.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+cinematic. Medium close-up, very slow push-in. Father's hand rests on a thick stack of handwritten pages, fingers gently pressing the top sheet. Hand relaxed, open posture suggesting completion and release. Pages filled with dense writing catch warm lamplight, edges slightly curled. Cozy study with amber lamplight pooling on the desk, soft shadows, intimate atmosphere of quiet accomplishment. Audio: pen setting down on wood, paper rustling. No voice, sound effects only. Cinematic documentary, 24fps, 16:9, 1080p. 8s. Hold 2.74s after.
+
+NEGATIVE:
+dark lighting, cold tones, tense posture, empty pages, harsh shadows, clinical environment, digital screens, typing, camera drift
+TIMING: Hold 2.74s after.
+
+--------------------------------------------------
+CLIP C146 | 00:19:20.000 -> 00:19:28.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+cinematic. Overhead close-up, slow tilt down. Stack of handwritten pages densely filled with ink, top sheet still wet and glistening. Camera descends revealing more completed pages beneath, edges curling slightly. Handwriting cramped and obsessive, margins filled. Warm amber light pools on paper surface, shadows deepen between sheets. Audio: pages rustling. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+clean typed documents, bright white paper, organized notes, digital screens, modern office supplies, camera drift, generic stock patterns
+
+--------------------------------------------------
+CLIP C147 | 00:19:28.000 -> 00:19:36.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+cinematic. Extreme close-up, rack focus shift. Pen tip scratching paper in tight frame, ink flowing in continuous line forming words. Hand moves with mechanical precision, fingers trembling slightly. Focus pulls from pen tip to knuckles, revealing white tension in grip. Warm candlelight flickers across skin. Audio: pen scratching paper, fingernails tapping wood. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. 3s hold after.
+
+NEGATIVE:
+relaxed writing, casual penmanship, bright lighting, steady hands, modern pen, digital tablet, camera drift, generic stock patterns
+TIMING: Hold 3s after.
+
+--------------------------------------------------
+CLIP C148 | 00:19:36.000 -> 00:19:44.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+cinematic. Extreme close-up, locked-off with slight handheld drift. Hand writing relentlessly across page, pen never lifting. Shallow depth of field isolates hand in sharp focus. Harsh candlelight creates deep shadows between fingers. Hand moves with mechanical persistence, no natural pauses. Knuckles white from grip pressure. Cinematic documentary, 24fps, 16:9, 1080p. 8s.
+
+NEGATIVE:
+relaxed writing, natural pauses, soft even lighting, wide shot, controlled deliberate strokes, pen lifting between words
+
+--------------------------------------------------
+CLIP C149 | 00:19:44.000 -> 00:19:52.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+cinematic. Medium shot, very slow push-in with slight handheld drift. Father's face in profile, tears streaming down cheeks but expression completely blank. Lips move forming words. Sickly yellow-green undertone mixes with warm amber lamplight. Eyes stare forward unfocused. Face wet with tears but emotionally absent. Cinematic documentary, 24fps, 16:9, 1080p. 8s. 2s hold after.
+
+NEGATIVE:
+emotional expression, eye contact, bright lighting, clean warm tones only, composed demeanor, dry face, alert presence
+TIMING: 2s hold after.
+
+--------------------------------------------------
+CLIP C150 | 00:19:52.000 -> 00:20:00.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+cinematic. Close-up, slow drift with shallow focus. Father's lips in frame, moving deliberately forming each syllable of a name. Warm flickering candlelight dances across mouth and chin. Slight handheld camera movement. Lips tremble slightly between words. Sickly yellow-green glow mixes with amber warmth. Cinematic documentary, 24fps, 16:9, 1080p. 8s.
+
+NEGATIVE:
+still lips, bright steady lighting, wide shot showing full face, cold color temperature, sharp focus throughout, no movement
+
+--------------------------------------------------
+CLIP C151 | 00:20:00.000 -> 00:20:08.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+cinematic. Close-up insert, rack focus. Small child's toy or worn object rests on desk edge in soft focus background. Father's trembling hand reaches slowly toward it from foreground. Fingers shake as they approach. Warm amber light creates soft glow around object. Hand hesitates just before touching. Cinematic documentary, 24fps, 16:9, 1080p. 8s.
+
+NEGATIVE:
+steady hand, bright lighting, new pristine object, fast movement, grabbing motion, cold color temperature, sharp focus throughout
+
+--------------------------------------------------
+CLIP C152 | 00:20:08.000 -> 00:20:16.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+cinematic. Extreme close-up, locked-off. Father's hand clutches child's crayon drawing, knuckles bone-white from pressure. Single tear falls onto paper, ink bleeding slightly where tear lands. Drawing shows yellow sun and two stick figures. Warm amber light pools across clenched fist. Paper crumples slightly under grip. Cinematic documentary, 24fps, 16:9, 1080p. 8s. 7s hold after.
+
+NEGATIVE:
+relaxed grip, dry paper, pristine drawing, bright lighting, wide shot, multiple tears, cold color temperature, smooth paper
+TIMING: 7s hold after.
+
+--------------------------------------------------
+CLIP C153 | 00:20:16.000 -> 00:20:24.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+
+
+NEGATIVE:
+
+
+--------------------------------------------------
+CLIP C154 | 00:20:24.000 -> 00:20:32.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+
+
+NEGATIVE:
+
+[!] NEEDS HUMAN REVIEW
+
+--------------------------------------------------
+CLIP C155 | 00:20:32.000 -> 00:20:40.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+cinematic. Close-up, slow drift down. Hand gripping pen, knuckles pale, writing final words on lined journal page. Handwriting slows, becomes deliberate, each letter formed with care. Pen lifts from paper, hovers, then sets down gently beside the page. Warm candlelight flickers across the text, shadows dancing. Audio: pen scratching paper, pen tapping wood. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no shaking hand, no fast writing, no bright lighting, no multiple pages, no camera drift
+
+--------------------------------------------------
+CLIP C156 | 00:20:40.000 -> 00:20:48.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+
+
+NEGATIVE:
+
+
+--------------------------------------------------
+CLIP C157 | 00:20:48.000 -> 00:20:48.280 | 2.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+
+
+NEGATIVE:
+
+[!] NEEDS HUMAN REVIEW
