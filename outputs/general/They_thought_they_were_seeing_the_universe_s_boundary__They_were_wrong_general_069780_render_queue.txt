@@ -1,0 +1,1091 @@
+============================================================
+VEO 3 RENDER QUEUE - They_thought_they_were_seeing_the_universe_s_boundary__They_were_wrong [general]
+Total clips: 105 | Duration: 00:13:58.580
+============================================================
+
+--------------------------------------------------
+CLIP C001 | 00:00:00.000 -> 00:00:08.000 | 8.0s
+Emotion: SADNESS (mid) | Arc: hook
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Extreme wide shot, slow push-in. Asteroid 16 Psyche drifts alone in deep space, backlit by distant Sun, metallic surface catching faint light in scattered glints. The asteroid rotates slowly, revealing cratered, dull iron-nickel terrain. Surrounding void is vast and empty, scattered with faint starfield. Anamorphic lens flares streak across frame as sunlight grazes the asteroid's limb. Volumetric god rays pierce the darkness. Audio: faint metallic creaking, distant solar wind hiss. No voice, sound effects only. Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no bright warm tones, no human figures, no spacecraft interior, no control rooms, no Earth, no vibrant colors, no fast motion, no dialogue
+
+--------------------------------------------------
+CLIP C002 | 00:00:08.000 -> 00:00:16.000 | 8.0s
+Emotion: TRUST (low) | Arc: hook
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium close-up, very slow gentle push-in. Spacecraft hull gleaming under soft sunlight, solar panels extended in confident symmetry, attitude thrusters firing in precise micro-bursts. Mars fills the lower frame in warm ochre and rust tones, surface features sharp and inviting. Spacecraft glides smoothly past the planet's limb, trajectory line overlaid in clean white numerals: 12,333 mph, 2,800 miles altitude. Deep space beyond glows with scattered starlight, volumetric god rays streaming from the distant Sun. Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9. 8s.
+
+NEGATIVE:
+dark shadowy visuals, cold sterile lighting, ominous tone, camera shake, generic stock footage, talking heads, no dark cold visual for positive emotion
+
+--------------------------------------------------
+CLIP C003 | 00:00:16.000 -> 00:00:24.000 | 8.0s
+Emotion: TRUST (low) | Arc: hook
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Close-up, handheld camera shake suggesting velocity. Spacecraft hull fills frame, metallic surface panels reflecting starlight. Rivets and seams are visible in sharp detail. Star trails streak past in background, indicating extreme speed. Small attitude thrusters fire intermittently, venting gas. Surface temperature indicators glow faintly. Audio: hull stress creaking, thruster valve clicks, metal expansion pops. No voice, sound effects only. Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no static shots, no wide angles, no human figures, no control rooms, no Earth, no dialogue, no music
+
+--------------------------------------------------
+CLIP C004 | 00:00:24.000 -> 00:00:32.000 | 8.0s
+Emotion: TRUST (low) | Arc: hook
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. POV from spacecraft nose, slow push-in. Mars grows larger in frame, filling lower third with rust-red surface detail. Thin atmosphere glows faintly at limb. HUD overlay displays velocity readout: 12,333 mph, altitude decreasing. Trajectory arc curves around planet's edge. Phobos visible as tiny grey speck. Anamorphic compression emphasizes planetary curvature. Audio: navigation computer beeping, gyroscope whirring, data transmission clicks. No voice, sound effects only. Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no human figures, no control rooms, no Earth, no dialogue, no music, no static shots
+
+--------------------------------------------------
+CLIP C005 | 00:00:32.000 -> 00:00:40.000 | 8.0s
+Emotion: TRUST (low) | Arc: hook
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium shot, lateral tracking. Psyche spacecraft in sharp focus center frame, Mars defocused in background as blurred rust-orange sphere. Solar arrays catch direct sunlight creating natural lens flare, spacecraft's body shows NASA mission markings and instrument packages. Spacecraft maintains steady trajectory, no deceleration, Mars receding behind. Deep space environment, black void with scattered starfield, metallic silvers and bronze highlights on spacecraft contrasting with Mars's warm tones. Audio: solar array servo motors, spacecraft hull creaking, gyroscope spinning. No voice, sound effects only. Cinematic photorealistic NASA documentary 8K HDR volumetric lighting anamorphic 2.39:1, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no generic stock footage, no camera drift, no talking heads, no static shots, no Earth in frame, no bright warm lighting for negative emotion
+
+--------------------------------------------------
+CLIP C006 | 00:00:40.000 -> 00:00:48.000 | 8.0s
+Emotion: TRUST (low) | Arc: hook
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Extreme wide shot, slow zoom in. Asteroid belt stretches across frame, countless grey and brown rocks drifting in silence. Camera searches through debris field, passing several unremarkable asteroids. One metallic glint catches light in the distance. Zoom accelerates slightly toward the glint. Surrounding asteroids are dull stone; the metallic object stands out. Audio: faint micrometeorite impacts, distant solar wind, ice sublimation hiss. No voice, sound effects only. Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no human figures, no control rooms, no Earth, no dialogue, no music, no bright colors
+
+--------------------------------------------------
+CLIP C007 | 00:00:48.000 -> 00:00:56.000 | 8.0s
+Emotion: TRUST (low) | Arc: hook
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Wide establishing shot, slow orbital drift right. Psyche asteroid rotating in center frame, 173-mile diameter scale bar overlaid in crisp white text. Metallic surface catches sunlight in bronze and silver highlights, craters and ridges casting soft shadows. Timestamp counter in corner: 4.5 billion years. Asteroid belt debris drifts lazily in background, Jupiter's faint crescent visible on horizon. Warm amber rim light from distant Sun, deep space backdrop rich with stars. Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9. 8s.
+
+NEGATIVE:
+dark ominous lighting, cold sterile tone, person at console, scientist reaction shot, generic lab footage, no dark cold visual for positive emotion
+
+--------------------------------------------------
+CLIP C008 | 00:00:56.000 -> 00:01:04.000 | 8.0s
+Emotion: TRUST (low) | Arc: hook
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Split screen composition, static camera. Left half: Psyche spacecraft sweeping past Mars, amber planet filling frame, trajectory arc visible. Right half: Asteroid 16 Psyche rotating slowly in deep space, metallic surface catching light. Visual bridge connects present maneuver to future destination. Both halves are sharp, well-lit, and balanced. Audio: spacecraft thruster pulses left channel, asteroid surface creaking right channel. No voice, sound effects only. Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9. 8s. Hold 4.63s after.
+
+NEGATIVE:
+no human figures, no control rooms, no Earth, no dialogue, no music, no single-frame composition
+TIMING: Hold 4.63s after.
+
+--------------------------------------------------
+CLIP C009 | 00:01:04.000 -> 00:01:12.000 | 8.0s
+Emotion: TRUST (low) | Arc: hook
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Wide shot, very slow dolly through debris field. Primordial solar system swirling with incandescent protoplanetary disk, molten oranges and deep reds glowing through volumetric dust clouds. Massive planetesimals tumble slowly through frame, surfaces still cooling from formation, trailing faint vapor. Dense asteroid field stretches to infinity, each fragment catching amber light from distant young sun. Audio: distant rumbling impacts, debris scraping metal, faint hissing gas venting. No voice, sound effects only. Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no generic stock footage, no camera drift, no bright warm visual for negative emotion, no talking heads, no modern spacecraft, no Earth
+
+--------------------------------------------------
+CLIP C010 | 00:01:12.000 -> 00:01:20.000 | 8.0s
+Emotion: TRUST (low) | Arc: hook
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium shot, slow push-in on collision point. Two planetesimals collide in slow motion, outer rocky mantles exploding outward in cascading magma sprays, exposing gleaming metallic cores beneath. Volumetric nebula clouds glow orange and crimson, backlit by stellar radiation. Molten rock peels away in sheets, revealing iron-nickel interior that catches harsh light. Debris field expands radially, each fragment tumbling with individual rotation. Audio: deep metallic groaning, rock fracturing and splitting, molten material splattering. No voice, sound effects only. Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no generic stock footage, no camera drift, no dark cold visual for positive emotion, no human figures, no modern technology, no Earth imagery
+
+--------------------------------------------------
+CLIP C011 | 00:01:20.000 -> 00:01:28.000 | 8.0s
+Emotion: TRUST (low) | Arc: hook
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Close-up, descending camera toward surface. Molten proto-planet surface cooling in real-time, incandescent cracks forming geometric patterns as crust solidifies. HDR captures temperature gradients from white-hot fissures to cooling gray-black crust. Camera descends slowly toward largest glowing crack, heat shimmer distorting edges. Magma pulses beneath translucent new crust, creating rhythmic glow patterns. Volumetric atmosphere dissipates as surface cools. Audio: crackling cooling rock, deep subsurface rumbling, thermal stress popping and snapping. No voice, sound effects only. Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no generic stock footage, no camera drift, no bright warm visual for negative emotion, no human scale references, no spacecraft
+
+--------------------------------------------------
+CLIP C012 | 00:01:28.000 -> 00:01:36.000 | 8.0s
+Emotion: TRUST (low) | Arc: hook
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Wide shot, slow pull-back revealing scale. Catastrophic final collision strips away remaining rocky mantle in explosive wave, exposing naked metallic core spinning alone in space. Debris field expands outward in all directions, rocky fragments tumbling away while iron-nickel heart remains intact, surface scarred and pitted. Exposed core catches harsh sunlight, metallic surface gleaming silver and bronze. Orphaned world continues its orbit, now reduced to only its heart. Audio: massive impact boom, debris whistling past, metal ringing and resonating. No voice, sound effects only. Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no generic stock footage, no camera drift, no dark cold visual for positive emotion, no human observers, no modern spacecraft, no Earth
+
+--------------------------------------------------
+CLIP C013 | 00:01:36.000 -> 00:01:44.000 | 8.0s
+Emotion: SURPRISE (low) | Arc: hook
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Wide shot, very slow pull-back. Asteroid Psyche rotates in deep space, its metallic surface catching faint sunlight — pockmarked craters and jagged ridges visible. Holographic data overlays flicker across the frame: spectral analysis graphs, question marks, incomplete readouts. The asteroid's rotation reveals a massive impact basin, then the camera pulls back to show its isolation in the asteroid belt. Audio: faint metallic creaking, digital beeps from overlays. No voice, sound effects only. Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9. 8s. Hold 1.07s after.
+
+NEGATIVE:
+no spacecraft in frame, no scientists, no control rooms, no Earth, no generic space backgrounds, no talking heads, no bright warm tones, no camera drift
+TIMING: Hold 1.07s after.
+
+--------------------------------------------------
+CLIP C014 | 00:01:44.000 -> 00:01:52.000 | 8.0s
+Emotion: TRUST (low) | Arc: hook
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium shot, slow push-in on archival spacecraft. Vintage NASA footage aesthetic with film grain: Voyager spacecraft passing Jupiter, golden record visible on side. Quick cut to Cassini approaching Saturn's rings, sunlight glinting off solar panels. Final cut to New Horizons with Pluto growing in frame. Each spacecraft shown in moment of closest approach, instruments pointed at target. Warm nostalgic color grading, slight vignette. Audio: vintage telemetry beeping, mechanical gyroscope whirring, thruster firing pulses. No voice, sound effects only. Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9. 8s. Hold 1.82s after.
+
+NEGATIVE:
+no generic stock footage, no camera drift, no dark cold visual for positive emotion, no modern CGI, no bright colors, no Earth
+TIMING: Hold 1.82s after.
+
+--------------------------------------------------
+CLIP C015 | 00:01:52.000 -> 00:02:00.000 | 8.0s
+Emotion: TRUST (low) | Arc: hook
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium shot, slow camera orbit around diagram. Clean infographic animation over star field: three historic gravity assist trajectories rendered as glowing curved paths—Voyager's Jupiter slingshot in blue, Cassini's Venus-Earth-Jupiter sequence in amber, New Horizons' Jupiter flyby in silver. Each path shows velocity vectors and closest approach markers. Orbital mechanics equations fade in and out. Planets shown to scale, spacecraft icons travel along paths. Audio: soft whooshing trajectory sounds, digital interface clicks, orbital calculation processing tones. No voice, sound effects only. Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no generic stock footage, no camera drift, no bright warm visual for negative emotion, no talking heads, no cluttered graphics, no Earth focus
+
+--------------------------------------------------
+CLIP C016 | 00:02:00.000 -> 00:02:08.000 | 8.0s
+Emotion: TRUST (low) | Arc: hook
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium close-up, very slow gentle push-in. Psyche spacecraft's instrument bay in sharp focus, solar arrays catching warm 3800K light against the soft amber glow of Mars in the distant background. The spacecraft's metallic surfaces reflect subtle golden highlights, conveying quiet confidence and precision. Camera glides steadily toward the communication dish and sensor array, revealing intricate engineering details. The frame is clean, professional, bathed in soft flattering 3-point lighting that emphasizes the spacecraft's purposeful design. Audio: faint mechanical hum of gyroscopes stabilizing, soft click of instrument calibration. No voice, sound effects only. Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9. 8s. Hold 4.65s after.
+
+NEGATIVE:
+dark cold visuals, desaturated blues, harsh shadows, generic stock footage, camera drift, talking heads, dim lighting, cool color temperature, chaotic movement
+TIMING: Hold 4.65s after.
+
+--------------------------------------------------
+CLIP C017 | 00:02:08.000 -> 00:02:16.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium shot, very slow dolly forward. The Psyche spacecraft floats in frame, solar arrays extending outward in precise mechanical motion, metallic surfaces catching direct sunlight. Blue ion thruster nozzles glow softly at the rear, xenon plasma visible as faint luminous streams. The spacecraft rotates gently, revealing its boxy van-sized structure and scientific instruments. Deep space backdrop with distant stars, volumetric light rays cutting through the solar array gaps. Audio: solar array servos clicking, thruster ignition snap, xenon gas release hiss. No voice, sound effects only. Cinematic documentary, 8K HDR, anamorphic lens 2.39:1, 24fps, 16:9. 8s. Hold 0.65s after.
+
+NEGATIVE:
+no generic stock footage, no camera drift, no talking heads, no bright warm tones, no Earth in frame, no crew visible, no handheld shake, no lens flares, no motion blur
+TIMING: Hold 0.65s after.
+
+--------------------------------------------------
+CLIP C018 | 00:02:16.000 -> 00:02:24.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Extreme close-up, static locked frame. Xenon ion thruster nozzle in 8K detail, blue plasma stream ejecting from the grid, heat distortion rippling across metallic surfaces. Thruster grid glows with electric blue light, individual xenon ions visible as streaks. The nozzle holds firm, plasma flow steady and continuous. Anamorphic bokeh background, deep space black with distant star field out of focus. Audio: plasma crackle, thruster grid vibration. No voice, sound effects only. Cinematic documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no generic stock footage, no camera drift, no people at consoles, no control rooms, no bright warm tones
+
+--------------------------------------------------
+CLIP C019 | 00:02:24.000 -> 00:02:32.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Wide shot, very slow push in. Mars looms large in frame, rust-red surface with polar ice caps visible, spacecraft approaching from lower left corner. Orbital trajectory line animates across the frame in white, curving toward the planet's gravity well. Mars fills two-thirds of frame, imposing and solid. Spacecraft appears small but determined, closing distance methodically. Deep space backdrop, cool blues transitioning to warmer amber glow near Mars. Audio: spacecraft thruster pulse, trajectory calculation beep. No voice, sound effects only. Cinematic documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9. 8s. Hold 6.59s after.
+
+NEGATIVE:
+no generic stock footage, no camera drift, no people, no control rooms, no dark cold visual
+TIMING: Hold 6.59s after.
+
+--------------------------------------------------
+CLIP C020 | 00:02:32.000 -> 00:02:40.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium shot, time-lapse compression. Psyche spacecraft thrusters firing blue-white plumes continuously, star trails streaking across background indicating twelve-hour burn duration. Mars grows incrementally larger in the distance, shifting from small disc to prominent sphere. Spacecraft holds steady firing posture, thrusters glowing with sustained intensity. Time accelerates visibly through star motion, conveying relentless precision. Deep space environment, cool blues with growing amber warmth from Mars. Audio: thruster continuous burn, star trail whoosh. No voice, sound effects only. Cinematic documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no generic stock footage, no camera drift, no people, no control rooms, no bright warm visual for negative emotion
+
+--------------------------------------------------
+CLIP C021 | 00:02:40.000 -> 00:02:48.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Close-up, static frame. Spacecraft thruster nozzle glowing orange-white with heat, propellant vapor expanding outward in slow motion, 8K HDR captures heat distortion waves and metallic reflections on nozzle surface. Thruster holds firing posture, vapor plume billowing with visible turbulence. Heat shimmer ripples across the frame, metal surfaces reflecting amber and gold tones. Deep space black background, volumetric lighting emphasizes vapor density. Audio: thruster roar, metal stress creak. No voice, sound effects only. Cinematic documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no generic stock footage, no camera drift, no people at consoles, no control rooms, no dark cold visual
+
+--------------------------------------------------
+CLIP C022 | 00:02:48.000 -> 00:02:56.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Close-up, slow push-in. Psyche spacecraft's thruster nozzle glows intense orange-white, propellant vapor expanding outward in rippling heat distortion waves. Metallic reflections dance across the spacecraft's titanium body as the twelve-hour burn continues. 8K HDR captures micro-details: heat shimmer, vapor condensation forming ice crystals at the edges, and the nozzle's internal glow pulsing with controlled energy. Mars appears as a distant amber crescent in the background, growing imperceptibly larger. Audio: thruster roar intensifying, metal creaking under thermal stress, propellant hissing. No voice, sound effects only. Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no generic stock footage, no camera drift, no talking heads, no control room shots, no people at consoles, no trajectory diagrams without spacecraft, no bright warm visuals for negative emotion
+
+--------------------------------------------------
+CLIP C023 | 00:02:56.000 -> 00:03:04.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Wide shot, slow orbital pan. Mars dominates frame, rust-red surface with Valles Marineris visible, spacecraft trajectory arc bending around the planet in white motion trail. Gravitational slingshot visualization overlays the scene, velocity vectors extending from spacecraft. Mars holds imposing presence, gravity well visualized as curved spacetime grid. Spacecraft accelerates visibly along the arc, trajectory tilting upward toward asteroid belt. Warm amber and gold tones illuminate Mars, cool blues in deep space beyond. Audio: gravitational field resonance, trajectory arc whoosh. No voice, sound effects only. Cinematic documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9. 8s. Hold 3.37s after.
+
+NEGATIVE:
+no generic stock footage, no camera drift, no people, no control rooms, no dark cold visual
+TIMING: Hold 3.37s after.
+
+--------------------------------------------------
+CLIP C024 | 00:03:04.000 -> 00:03:12.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium shot, slow push in on orbital diagram. Animated spacecraft path curving past Mars in white arc, velocity vectors overlaid in blue and orange showing speed increase and trajectory tilt. Mars rendered as photorealistic sphere on left, asteroid belt indicated as scattered points on right. Trajectory line bends sharply around Mars, then extends upward toward belt. Anamorphic framing emphasizes dynamic geometry of the slingshot. Diagram resolves with precision, vectors locking into final configuration. Cool blues and warm amber tones, clean technical aesthetic. Audio: trajectory calculation beep, vector lock tone. No voice, sound effects only. Cinematic documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no generic stock footage, no camera drift, no people, no control rooms, no bright warm visual for negative emotion
+
+--------------------------------------------------
+CLIP C025 | 00:03:12.000 -> 00:03:20.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium shot, very slow dolly forward. Psyche spacecraft instrument bay in sharp focus, protective panels retracting to reveal camera booms and sensor arrays extending outward. Mechanical arms unfold with precision, Mars glowing amber in deep background. Clean metallic surfaces catch volumetric light from distant sun. Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9. 8s. Hold 2.5s after.
+
+NEGATIVE:
+generic stock footage, camera drift, talking head, bright warm visual for negative emotion, dark cold visual for positive emotion, no people, no control room
+TIMING: Hold 2.5s after.
+
+--------------------------------------------------
+CLIP C026 | 00:03:20.000 -> 00:03:28.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Wide shot, slow push-in. Mars crescent edge-on from spacecraft POV, thin silver arc of scattered sunlight defining planet limb against black void. Martian atmosphere glows pale blue-white along terminator. Spacecraft solar panels frame left and right edges. Deep space stars static in background. Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9. 8s.
+
+NEGATIVE:
+generic stock footage, camera drift, talking head, bright warm visual for negative emotion, dark cold visual for positive emotion, full Mars disk, red planet surface
+
+--------------------------------------------------
+CLIP C027 | 00:03:28.000 -> 00:03:36.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Tracking shot, camera follows spacecraft lateral movement. Mars disk expanding rapidly in frame, surface features resolving—Olympus Mons shadow, Valles Marineris canyon system emerging. Atmospheric haze layers visible at limb. Spacecraft antenna array in foreground tracking planet. Anamorphic compression emphasizes closing distance. Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9. 8s.
+
+NEGATIVE:
+generic stock footage, camera drift, talking head, bright warm visual for negative emotion, dark cold visual for positive emotion, static Mars view, no spacecraft elements
+
+--------------------------------------------------
+CLIP C028 | 00:03:36.000 -> 00:03:44.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. POV from spacecraft imager, slow zoom. Mars surface filling viewfinder display—rust-red terrain, polar ice cap edge, dust storm swirl patterns. Autofocus brackets locking onto Olympus Mons caldera. Exposure meter adjusting, histogram bars shifting. 8K HDR captures atmospheric haze layers in volumetric detail. Cinematic photorealistic NASA documentary, anamorphic lens 2.39:1, 24fps, 16:9. 8s. Hold 2.4s after.
+
+NEGATIVE:
+generic stock footage, camera drift, talking head, bright warm visual for negative emotion, dark cold visual for positive emotion, control room, people at consoles
+TIMING: Hold 2.4s after.
+
+--------------------------------------------------
+CLIP C029 | 00:03:44.000 -> 00:03:52.000 | 8.0s
+Emotion: SURPRISE (mid) | Arc: build_up
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Close-up, static. Psyche spacecraft imager camera lens assembly in sharp focus, internal filter wheel rotating through color positions—red, green, blue filters cycling. Mars reflection visible in lens glass. LED calibration indicators pulsing amber. Mechanical precision components, brushed titanium housing. Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9. 8s.
+
+NEGATIVE:
+generic stock footage, camera drift, talking head, bright warm visual for negative emotion, dark cold visual for positive emotion, generic lab equipment, people
+
+--------------------------------------------------
+CLIP C030 | 00:03:52.000 -> 00:04:00.000 | 8.0s
+Emotion: SURPRISE (mid) | Arc: build_up
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium to wide, fast crane pull-back. Spacecraft display screen showing Mars test image sharpening in real-time—resolution increasing, color saturation adjusting, contrast optimizing. Split-screen shows raw vs. processed image. Brightness histogram equalizing. Camera pulls back to reveal full instrument panel array. Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9. 8s.
+
+NEGATIVE:
+generic stock footage, camera drift, talking head, bright warm visual for negative emotion, dark cold visual for positive emotion, person looking at screen, control room operators
+
+--------------------------------------------------
+CLIP C031 | 00:04:00.000 -> 00:04:08.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Visualization shot, slow orbit. Invisible magnetic field lines rendered as flowing blue-white particle streams emanating from Mars, curving through space. Psyche magnetometer boom sensor head detecting flux—LED indicators pulsing in sync with field strength. Data streams as glowing trajectories. Mars in background. Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9. 8s. Hold 3.2s after.
+
+NEGATIVE:
+generic stock footage, camera drift, talking head, bright warm visual for negative emotion, dark cold visual for positive emotion, control room, scientists at consoles
+TIMING: Hold 3.2s after.
+
+--------------------------------------------------
+CLIP C032 | 00:04:08.000 -> 00:04:16.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Close-up, static. Magnetometer sensor head in sharp focus, cylindrical coil assembly with LED status indicators pulsing green. Integrated mini-display showing real-time magnetic field strength graph—waveform spiking as spacecraft passes through Mars magnetosphere. Brushed aluminum housing, precision engineering details. Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9. 8s.
+
+NEGATIVE:
+generic stock footage, camera drift, talking head, bright warm visual for negative emotion, dark cold visual for positive emotion, person operating equipment, lab setting
+
+--------------------------------------------------
+CLIP C033 | 00:04:16.000 -> 00:04:24.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium shot, very slow dolly forward. Split-screen composition: left panel displays real-time magnetometer readout with fluctuating field strength graphs in cyan and white; right panel shows Mars's rust-red surface with invisible magnetic field lines rendered as faint blue contours overlaying terrain features. Data points synchronize as numbers update on left, corresponding regions pulse subtly on right. Clean NASA mission control aesthetic, 8K HDR clarity, volumetric light rays cutting through deep space backdrop. Audio: keyboard clicking, console beeping, data stream chirping. No voice, sound effects only. Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no people, no scientists at consoles, no reaction shots, no talking heads, no generic control room, no camera drift, no warm lighting for technical data
+
+--------------------------------------------------
+CLIP C034 | 00:04:24.000 -> 00:04:32.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Wide shot, slow orbital arc. Psyche spacecraft passing through Mars magnetosphere boundary, volumetric magnetic field lines visualized as rippling blue-white energy curtains, instrument boom fully extended cutting through invisible field structure. Mars glows amber-red in mid-ground, spacecraft silhouette crossing terminator line. Audio: electrical crackling, magnetic field interference static, boom extension lock clunk. No voice, sound effects only. Cinematic documentary, 8K HDR, volumetric lighting, anamorphic 2.39:1, 24fps, 16:9. 8s. Hold 1.49s after.
+
+NEGATIVE:
+no scientist observing, no control room screens, no person at workstation, no generic space footage, no camera drift, no dark cold tones for positive emotion
+TIMING: Hold 1.49s after.
+
+--------------------------------------------------
+CLIP C035 | 00:04:32.000 -> 00:04:40.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Extreme wide shot, time-lapse compression. Primordial solar nebula swirling in deep blues and grays, condensing into planetary disk, Psyche asteroid coalescing as bright metallic point, 4.5 billion years compressed into seconds as stars wheel overhead, asteroid drifts unchanged through eons. Final frames: modern Psyche spacecraft approaching from distance, scale of time collapsing. Audio: nebula gas whoosh, planetary formation rumble, time-lapse wind rush. No voice, sound effects only. Cinematic documentary, 8K HDR, volumetric lighting, anamorphic 2.39:1, 24fps, 16:9. 8s. Hold 0.56s after.
+
+NEGATIVE:
+no scientist contemplating, no person in observatory, no control room, no generic space montage, no camera drift, no bright warm tones for negative emotion
+TIMING: Hold 0.56s after.
+
+--------------------------------------------------
+CLIP C036 | 00:04:40.000 -> 00:04:48.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Extreme wide shot, slow push-in. The main asteroid belt stretches across frame in soft golden sunlight, thousands of tumbling rocks in lazy orbit. Camera isolates one metallic body among the swarm — 16 Psyche — its surface catching warm amber light, distinctly brighter and more reflective than its neighbors. The belt drifts in serene, methodical motion. Audio: faint metallic pings, distant rock tumbles. No voice, sound effects only. Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9. 8s. Hold 3.58s after.
+
+NEGATIVE:
+dark cold lighting, blue-gray tones, ominous atmosphere, camera drift, generic stock footage, talking heads, no metallic reflections, no warm sunlight
+TIMING: Hold 3.58s after.
+
+--------------------------------------------------
+CLIP C037 | 00:04:48.000 -> 00:04:56.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium shot, slow rotating orbit. Psyche asteroid rotating center frame, irregular potato-shaped body 173 miles across, Massachusetts state outline overlay fading in for scale comparison, cratered metallic surface catching direct sunlight, bronze and silver tones dominating, anamorphic framing emphasizing width. Audio: asteroid rotation whoosh, scale overlay digital chime, surface texture scrape. No voice, sound effects only. Cinematic documentary, 8K HDR, volumetric lighting, anamorphic 2.39:1, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no scientist explaining, no control room, no person gesturing at screen, no generic size comparison graphics, no camera drift, no bright warm tones for negative emotion
+
+--------------------------------------------------
+CLIP C038 | 00:04:56.000 -> 00:05:04.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Orbital tracking shot, slow circular dolly. Camera circles Psyche asteroid, irregular cratered surface revealed in full rotation, metallic terrain catching harsh sunlight creating high-contrast shadows in impact craters, volumetric space dust particles drifting through frame, bronze-silver surface texture showing pitted metal rather than stone. Audio: orbital thruster puffs, surface texture scrape, space dust particle impacts. No voice, sound effects only. Cinematic documentary, 8K HDR, volumetric lighting, anamorphic 2.39:1, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no scientist observing, no telescope operator, no person at console, no generic asteroid stock footage, no camera drift, no dark cold tones for positive emotion
+
+--------------------------------------------------
+CLIP C039 | 00:05:04.000 -> 00:05:12.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium shot, static with data overlay transition. Psyche asteroid center frame, spectral analysis graph overlaying surface in translucent amber HUD, metal signature peaks highlighted as wavelength data scrolls, radar return pulses emanating from surface showing density readings, anomalous iron-nickel composition values resolving on readout. Audio: spectral scanner beeps, radar ping returns, data processing clicks. No voice, sound effects only. Cinematic documentary, 8K HDR, volumetric lighting, anamorphic 2.39:1, 24fps, 16:9. 8s. Hold 3.41s after.
+
+NEGATIVE:
+no scientist analyzing, no person at workstation, no control room screens, no generic data visualization, no camera drift, no bright warm tones for negative emotion
+TIMING: Hold 3.41s after.
+
+--------------------------------------------------
+CLIP C040 | 00:05:12.000 -> 00:05:20.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Close-up, slow push-in. Psyche surface transitioning between visual and false-color spectral view, metallic terrain shifting through wavelength filters—visible light showing bronze-silver, infrared revealing iron-red hotspots, ultraviolet highlighting nickel-blue concentrations, compositional map resolving layer by layer. Audio: wavelength filter clicks, spectral transition whoosh, compositional data lock beeps. No voice, sound effects only. Cinematic documentary, 8K HDR, volumetric lighting, anamorphic 2.39:1, 24fps, 16:9. 8s. Hold 1.45s after.
+
+NEGATIVE:
+no scientist reviewing data, no person at screen, no control room, no generic false-color imagery, no camera drift, no dark cold tones for positive emotion
+TIMING: Hold 1.45s after.
+
+--------------------------------------------------
+CLIP C041 | 00:05:20.000 -> 00:05:28.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium shot, very slow dolly in. Photorealistic cross-section of asteroid 16 Psyche rotating in space, metallic iron-nickel surface gleaming under distant sunlight, camera reveals exposed core layers in bronze and silver tones. Deep space backdrop with faint starfield, volumetric light catching metallic texture. Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no generic stock footage, no camera drift, no bright warm visual for negative emotion, no talking heads, no control rooms, no scientists at consoles
+
+--------------------------------------------------
+CLIP C042 | 00:05:28.000 -> 00:05:36.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Close-up, very slow rotation on turntable. Metallic iron-nickel sample specimen rotating clockwise, 8K HDR captures crystalline grain structure and faceted surface. Light rakes across polished metal revealing microscopic striations and inclusions. Shallow depth of field, anamorphic bokeh blurs background spectrometer readout displaying spectral lines. Cool teal accent light from lab equipment. Cinematic photorealistic NASA documentary aesthetic, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Audio: sample rotating on motorized stage, faint electronic beep. No voice, sound effects only. 24fps, 16:9. 8s.
+
+NEGATIVE:
+no generic stock footage, no camera drift, no talking heads, no bright warm visuals, no human hands holding sample, no lab technician
+
+--------------------------------------------------
+CLIP C043 | 00:05:36.000 -> 00:05:44.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Wide shot, very slow zoom in. 16 Psyche asteroid isolated in center frame against star field, irregular potato-shaped body with pockmarked metallic surface. Camera slow zoom emphasizing jagged contours and uneven terrain. Backlit by distant Sun creating rim light along one edge, metallic surface glints silver and bronze. Deep space silence, no motion except gradual magnification. Cinematic photorealistic NASA documentary aesthetic, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Audio: faint solar wind static, distant micrometeorite impacts. No voice, sound effects only. 24fps, 16:9. 8s. Hold 2.95s after.
+
+NEGATIVE:
+no generic stock footage, no camera drift, no talking heads, no bright warm visuals, no spacecraft in frame, no human observers
+TIMING: Hold 2.95s after.
+
+--------------------------------------------------
+CLIP C044 | 00:05:44.000 -> 00:05:52.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium shot, completely static. Photorealistic cutaway animation of molten protoplanet 4.5 billion years ago, glowing orange iron-nickel core sinking through semi-transparent mantle, lighter silicate rocks rising to form thin crust. Camera holds steady as differentiation process unfolds in cross-section, volumetric magma glow illuminating internal structure. Teal accent lighting on crust edge. Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no generic stock footage, no camera drift, no dark cold visual for positive emotion, no talking heads, no observatory shots
+
+--------------------------------------------------
+CLIP C045 | 00:05:52.000 -> 00:06:00.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Close-up, very slow push through layers. Animated cutaway of protoplanet interior, heavy metallic elements sinking toward core in slow motion. Camera pushes forward through translucent mantle layers, 8K HDR captures molten iron-nickel droplets descending through lighter silicate magma. Density stratification visible as color gradient from bright orange surface to deep bronze core. Volumetric particle flow. Cinematic photorealistic NASA documentary aesthetic, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Audio: heavy metal sinking through liquid, viscous flow. No voice, sound effects only. 24fps, 16:9. 8s.
+
+NEGATIVE:
+no generic stock footage, no camera drift, no talking heads, no cold dark visuals, no surface views, no human observers
+
+--------------------------------------------------
+CLIP C046 | 00:06:00.000 -> 00:06:08.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Wide shot, very slow dolly right. Photorealistic cross-section of fully differentiated protoplanet suspended in space, distinct iron-nickel core in bronze, thick orange mantle layer, thin gray silicate crust clearly separated. Camera tracks laterally revealing complete internal architecture, anamorphic depth of field isolating planetary body against black space. Teal rim lighting on crust edge. Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no generic stock footage, no camera drift, no bright warm visual for negative emotion, no scientists, no lab environments
+
+--------------------------------------------------
+CLIP C047 | 00:06:08.000 -> 00:06:16.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium shot, completely static hold. Protoplanet core solidified, glowing orange fades to dull metallic gray over duration. Camera holds perfectly steady as surface temperature drops, volumetric heat dissipation visible as shimmering air. Metallic sheen emerges as incandescence fades. Deep space backdrop. Cinematic photorealistic NASA documentary aesthetic, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Audio: metal cooling and contracting, faint creaking. No voice, sound effects only. 24fps, 16:9. 8s. Hold 6.43s after.
+
+NEGATIVE:
+no generic stock footage, no camera drift, no talking heads, no bright warm visuals after cooling, no human observers, no spacecraft
+TIMING: Hold 6.43s after.
+
+--------------------------------------------------
+CLIP C048 | 00:06:16.000 -> 00:06:24.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Wide shot, camera tracks impact trajectory. Massive irregular asteroid hurtling toward protoplanet through dense debris field, velocity trails visible. Camera tracks alongside impactor as it closes distance, 8K HDR captures scale and speed. Protoplanet grows larger in frame, metallic core visible through thin crust. Collision imminent but not yet occurred. Cinematic photorealistic NASA documentary aesthetic, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Audio: asteroid rushing through space, debris colliding. No voice, sound effects only. 24fps, 16:9. 8s. Hold 1.71s after.
+
+NEGATIVE:
+no generic stock footage, no camera drift, no talking heads, no bright warm visuals, no human observers, no modern spacecraft, no explosion yet
+TIMING: Hold 1.71s after.
+
+--------------------------------------------------
+CLIP C049 | 00:06:24.000 -> 00:06:32.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Extreme close-up, camera shake on impact. Protoplanet crust fractures under collision, shockwave ripples radiate outward through rocky surface, debris explodes in all directions. Anamorphic lens flare from impact flash, volumetric dust clouds billow. Deep space backdrop, asteroid fragments tumbling through frame. Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no generic stock footage, no camera drift, no talking heads, no bright warm visuals, no static composition, no clean surfaces
+
+--------------------------------------------------
+CLIP C050 | 00:06:32.000 -> 00:06:40.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium shot, slow orbital camera movement. Protoplanet mantle and outer crust torn away by successive impacts, metallic core gradually exposed beneath fragmenting layers. Camera orbits destruction site, volumetric debris clouds drift past lens. Rocky fragments scatter into asteroid belt, leaving dense metallic sphere visible. Authoritative Bloomberg-style lighting, 3700K teal accent. Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no generic stock footage, no camera drift, no talking heads, no bright warm visuals, no static framing, no intact surfaces
+
+--------------------------------------------------
+CLIP C051 | 00:06:40.000 -> 00:06:48.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Wide shot, slow push-in. Naked metallic core tumbles alone in deep space, debris field receding into distance behind it. Exposed iron-nickel surface reflects distant sunlight, crater-pocked and scarred. Camera pushes slowly toward isolated sphere, backlit by faint Sun. Cool desaturated blues and grays dominate, emphasizing isolation. Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no generic stock footage, no camera drift, no talking heads, no bright warm visuals, no crowded frame, no intact crust
+
+--------------------------------------------------
+CLIP C052 | 00:06:48.000 -> 00:06:56.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium shot, tracking camera movement. Psyche spacecraft approaches exposed metallic core, solar arrays extended, antenna dish pointed forward. Camera tracks alongside spacecraft, matching velocity. Instruments and sensors visible in 8K detail, metallic asteroid growing larger in frame. Authoritative lighting, 3700K teal accent. Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9. 8s. Hold 4.9s after.
+
+NEGATIVE:
+no generic stock footage, no camera drift, no talking heads, no dark cold visuals, no static framing, no Earth imagery
+TIMING: Hold 4.9s after.
+
+--------------------------------------------------
+CLIP C053 | 00:06:56.000 -> 00:07:04.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Close-up, camera pushes through layers. Earth cross-section cutaway, camera descends through crust and mantle toward glowing red core 1,800 miles below. Layers labeled with depth markers, core highlighted and unreachable. Camera push stops before reaching center, emphasizing inaccessibility. Volumetric depth cues, authoritative lighting, 3700K teal accent. Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no generic stock footage, no camera drift, no talking heads, no bright warm visuals, no surface views, no spacecraft
+
+--------------------------------------------------
+CLIP C054 | 00:07:04.000 -> 00:07:12.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium shot, completely static. Cross-section cutaway of Earth's interior, camera positioned at shallow crust layer 800 miles from surface, looking down toward unreachable glowing core far below. Metallic core radiates faint orange light through translucent mantle layers, seismic wave lines pulse slowly outward. Volumetric dust particles drift in the deep rock strata. Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9. 8s.
+
+NEGATIVE:
+drilling rig, surface equipment, human presence, borehole machinery, scientists, control rooms, talking heads, camera drift, generic stock footage, bright warm tones
+
+--------------------------------------------------
+CLIP C055 | 00:07:12.000 -> 00:07:20.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Wide shot, camera zooms into right side. Split screen composition: left side shows Earth cutaway with hidden glowing core, right side shows Psyche's exposed metallic core in space. Camera slowly zooms into Psyche side, emphasizing accessibility and visibility. Metallic surface details resolve, crater textures visible. Authoritative lighting, 3700K teal accent. Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no generic stock footage, no camera drift, no talking heads, no bright warm visuals, no single subject, no human figures
+
+--------------------------------------------------
+CLIP C056 | 00:07:20.000 -> 00:07:28.000 | 8.0s
+Emotion: ANTICIPATION (low) | Arc: deep
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium close-up, very slow creeping push-in. Mission control operator leans forward, eyes narrowed with focused curiosity, fingers hovering over keyboard. Studying scrolling Psyche telemetry data on multiple glowing screens, numbers and waveforms updating in real-time. Warm-lit NASA control room bathed in 3300K amber glow from monitors, shadows deepening across consoles. Audio: keyboard keys clicking, mouse clicking, paper rustling. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 1.84s after.
+
+NEGATIVE:
+no dark cold lighting, no blue tones, no desaturated colors, no wide shots, no camera drift, no generic stock footage, no talking head without insert
+TIMING: Hold 1.84s after.
+
+--------------------------------------------------
+CLIP C057 | 00:07:28.000 -> 00:07:36.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium shot, locked-off static frame. Holographic data visualization suspended in bright laboratory space, glowing teal wireframe sphere rotating slowly, clean geometric lines, researcher's hand entering frame from right to gesture toward model, fingers pointing at specific data nodes, well-lit modern research facility with white walls and glass partitions, natural daylight streaming through windows creating soft highlights on metallic surfaces. Audio: holographic projector whirring, finger tapping glass surface. No voice, sound effects only. Cinematic documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9. 8s. Hold 4s after.
+
+NEGATIVE:
+dark moody lighting, shadowy atmosphere, cold color grading, dim environments, silhouettes, camera drift, handheld shake, generic stock footage
+TIMING: Hold 4s after.
+
+--------------------------------------------------
+CLIP C058 | 00:07:36.000 -> 00:07:44.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium shot, locked static frame. Polished iron-nickel cube resting on precision laboratory scale, digital readout displaying 7.9 g/cm³ in sharp focus. Camera holds tight on glowing teal readout numbers, 8K HDR capturing metallic reflections and surface texture of cube. Authoritative Bloomberg-style lighting at 3700K, volumetric rays highlighting measurement precision. Laboratory environment with clean surfaces and scientific instruments in soft focus background. Audio: scale settling click, digital readout beep. No voice, sound effects only. Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9. 8s.
+
+NEGATIVE:
+generic stock footage, scientist observing, hands adjusting equipment, camera movement, warm color temperature, soft documentary lighting
+
+--------------------------------------------------
+CLIP C059 | 00:07:44.000 -> 00:07:52.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Close-up, completely static hold. Laboratory scale digital readout flickers, numbers dropping from 7.9 to 3.9 g/cm³. Camera locked on unexpected lower value, anamorphic compression emphasizing the discrepancy. Teal accent lighting at 3700K creates authoritative atmosphere. Metallic cube remains in soft focus background as readout holds on contradictory measurement. Audio: electronic glitch, readout error tone. No voice, sound effects only. Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9. 8s. Hold 7.4s after.
+
+NEGATIVE:
+generic stock footage, scientist reacting, hands in frame, camera movement, warm tones, dramatic lighting shifts
+TIMING: Hold 7.4s after.
+
+--------------------------------------------------
+CLIP C060 | 00:07:52.000 -> 00:08:00.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Wide shot, slow orbital dolly. Psyche asteroid rendered in photorealistic detail with invisible gravitational field lines visualized as glowing teal vector curves bending spacetime, three smaller asteroids deflecting along curved trajectories in foreground. Volumetric field rendering shows density gradients as translucent amber-to-teal gradient shells. Metallic surface reflects distant starlight, deep space backdrop with volumetric dust clouds. Authoritative lighting at 3700K, anamorphic lens flares. Audio: asteroid debris tumbling, gravitational field resonating. No voice, sound effects only. Cinematic photorealistic NASA documentary, 8K HDR, 24fps, 16:9. 8s.
+
+NEGATIVE:
+camera drift, generic space stock footage, uniform lighting, no gravitational visualization, static composition, bright warm tones for scientific data
+
+--------------------------------------------------
+CLIP C061 | 00:08:00.000 -> 00:08:08.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium shot, slow rotation. 3D volumetric density map of Psyche rotating in holographic space, color-coded layers transitioning from expected solid red core to unexpected blue low-density regions. Camera pushes through translucent data visualization as internal structure reveals porous voids. Scientific visualization environment with teal accent lighting at 3700K, 8K HDR rendering volumetric data with depth and clarity. Anamorphic lens creating cinematic depth of field. Audio: data visualization interface tones, layer transition whoosh. No voice, sound effects only. Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9. 8s. Hold 3.1s after.
+
+NEGATIVE:
+generic stock footage, scientist analyzing, person at screen, camera drift, warm tones, flat 2D graphics
+TIMING: Hold 3.1s after.
+
+--------------------------------------------------
+CLIP C062 | 00:08:08.000 -> 00:08:16.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium shot, slow push toward center. Split-screen composition: left panel shows solid iron sphere model with density readout '7.9 g/cm³' in clean sans-serif typography, right panel shows porous metallic structure with '3.9 g/cm³' readout. Camera advances toward vertical divide as both models rotate in perfect synchronization. Authoritative Bloomberg-style lighting at 3700K, teal accent highlights on data labels, volumetric light separates the two hypotheses. Audio: data interface beeping, model rotation mechanism clicking. No voice, sound effects only. Cinematic documentary, 8K HDR, 24fps, 16:9. 8s. Hold 6s after.
+
+NEGATIVE:
+camera drift, generic graphics, talking heads, uniform composition, no clear visual contrast, bright warm tones, shallow scientific detail
+TIMING: Hold 6s after.
+
+--------------------------------------------------
+CLIP C063 | 00:08:16.000 -> 00:08:24.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Close-up, slow push through structure. Cross-section render of porous metallic asteroid interior, camera pushing through network of voids, gaps, and fractures. 8K metallic foam texture with volumetric lighting illuminating hollow spaces from within. Teal accent lighting at 3700K creates authoritative scientific atmosphere. Anamorphic depth of field isolating specific fracture zones as camera travels deeper. Photorealistic rendering of impact-shattered metal structure re-compacted over billions of years. Audio: metallic structure creaking, micro-fracture pops. No voice, sound effects only. Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9. 8s.
+
+NEGATIVE:
+generic stock footage, scientist explaining, control room, camera drift, warm tones, soft focus, 2D diagram
+
+--------------------------------------------------
+CLIP C064 | 00:08:24.000 -> 00:08:32.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Extreme close-up, slow push-in. Cross-section of metallic asteroid structure filling frame, bright volumetric light rays penetrating through visible voids and fractures in iron-nickel lattice, honeycomb-like internal architecture with gaps and hollow chambers, camera moving through one large cavity revealing interconnected porous network, high-contrast lighting emphasizing depth and texture of metal surfaces, warm amber highlights on jagged edges, scientific visualization aesthetic with clean technical precision. Audio: metal fragments shifting, microscopic crackling. No voice, sound effects only. Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9. 8s.
+
+NEGATIVE:
+solid uniform structure, dark shadowy voids, cold lifeless lighting, camera drift, generic space footage, talking heads, control room shots
+
+--------------------------------------------------
+CLIP C065 | 00:08:32.000 -> 00:08:40.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium shot, completely static. Rotating 3D model of asteroid Psyche transitions to semi-transparent, revealing intricate internal network of voids and fractures glowing softly in metallic silver and bronze. The surface remains textured metal, but interior shows honeycomb-like structure with light scattering through gaps. Warm amber volumetric lighting highlights the porous architecture against deep space backdrop with subtle teal accent rim light. Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9. 8s.
+
+NEGATIVE:
+dark moody lighting, cold blue-only palette, shadowy atmosphere, generic space stock footage, camera drift or movement, talking heads, console screens
+
+--------------------------------------------------
+CLIP C066 | 00:08:40.000 -> 00:08:48.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium shot, very slow completely static. Stony-iron meteorite cross-section mounted on lab stand, surface calm and stable, mixed metal veins threading through gray silicate matrix. Camera holds perfectly still as 8K detail reveals the boundary between iron-nickel metal (bright silver) and olivine crystals (pale amber-green). Warm authoritative lighting at 3700K with teal accent highlights the textural contrast. Audio: none. No voice, sound effects only. Cinematic documentary, 24fps, 16:9, 1080p. 8s.
+
+NEGATIVE:
+no camera drift, no dark cold lighting, no ominous atmosphere, no worried scientists, no generic stock footage, no talking heads
+
+--------------------------------------------------
+CLIP C067 | 00:08:48.000 -> 00:08:56.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Extreme close-up, locked-off camera. Photorealistic boundary zone between iron-nickel metal (left, reflective silver-bronze) and silicate rock (right, matte charcoal gray with mineral veins). Sharp focus on the transition line where metallic crystals interlock with rocky matrix. Volumetric edge lighting creates thin rim of teal-accented glow along the interface. 8K HDR captures micro-texture: metal's smooth grain versus stone's porous surface. Authoritative Bloomberg-style lighting, 3700K. Cinematic photorealistic NASA documentary, anamorphic lens 2.39:1, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no camera drift, no generic stock patterns, no bright warm visual, no talking heads, no control rooms, no scientists at consoles, no hands typing, no observatory shots, no spacecraft
+
+--------------------------------------------------
+CLIP C068 | 00:08:56.000 -> 00:09:04.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium shot, slow orbital camera movement. Photorealistic CGI render of asteroid Psyche with dual-texture surface—polished metallic silver patches interspersed with matte charcoal-black stone regions, anamorphic compression flattening depth. Posture: the asteroid embodies compositional ambiguity through visible material contrast. Action: camera orbits steadily, revealing shifting proportions of metal versus rock across surface. Environment: deep space, cool 3700K teal-accented key light, bronze rim highlights on metallic zones. Audio: ice cracking on frozen lake. No voice, sound effects only. Cinematic documentary, 8K HDR anamorphic 2.39:1, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no human figures, no spacecraft in frame, no control rooms, no camera drift, no generic stock patterns, no bright warm tones for negative emotion
+
+--------------------------------------------------
+CLIP C069 | 00:09:04.000 -> 00:09:12.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Extreme wide shot, slow zoom-in. Photorealistic asteroid Psyche isolated in deep space, surrounded by absolute black void and distant star field. Camera slowly zooms toward the asteroid, building tension through gradual approach. Desaturated palette—cool blues and grays dominate, single rim light (3700K teal accent) traces the asteroid's irregular silhouette. Authoritative Bloomberg-style lighting. Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9. 8s. Hold 3.94s after.
+
+NEGATIVE:
+no camera drift, no generic stock patterns, no bright warm visual, no talking heads, no control rooms, no scientists at consoles, no hands typing, no observatory shots, no spacecraft, no surface detail
+TIMING: Hold 3.94s after.
+
+--------------------------------------------------
+CLIP C070 | 00:09:12.000 -> 00:09:20.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Wide shot, static with slow upward tilt. Photorealistic simulation of molten iron erupting from asteroid surface in extreme slow motion—glowing orange-white metal fountaining upward against black space, volumetric heat distortion rippling air, droplets arcing and freezing mid-flight. Posture: the eruption itself conveys primal geological violence through explosive vertical motion. Action: molten iron jets upward, cooling from white-hot to dull red as it rises. Environment: asteroid surface in foreground, deep space beyond, 3700K teal accent on cooled metal, HDR capturing thermal gradient. Audio: bubbling molten metal. No voice, sound effects only. Cinematic documentary, 8K HDR anamorphic 2.39:1, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no human figures, no spacecraft, no scientists, no camera drift beyond tilt, no generic stock patterns, no dark cold visuals for positive emotion
+
+--------------------------------------------------
+CLIP C071 | 00:09:20.000 -> 00:09:28.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Close-up, completely static. Photorealistic macro shot of liquid iron flowing across cratered asteroid surface, molten orange metal advancing over gray rock, cooling in real-time to solid silver-black crust, 8K HDR capturing thermal gradient from glowing core to frozen edge. Posture: the cooling metal embodies transformation through visible phase change. Action: molten iron solidifies progressively, surface tension creating rippled texture. Environment: asteroid terrain, volumetric heat haze above molten zone, 3700K teal accent on cooled regions. Audio: sizzling water on hot metal. No voice, sound effects only. Cinematic documentary, 8K HDR anamorphic 2.39:1, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no human figures, no hands, no tools, no camera movement, no generic stock patterns, no bright warm tones for negative emotion
+
+--------------------------------------------------
+CLIP C072 | 00:09:28.000 -> 00:09:36.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium shot, slow tracking shot along frozen flow. Photorealistic render of ancient asteroid Psyche with active metallic volcanoes—iron lava flows frozen mid-cascade down crater walls, camera tracking laterally along solidified metallic river, anamorphic lens flares from distant sun catching frozen droplets. Posture: the frozen flows embody arrested motion through sculptural metallic cascades. Action: camera glides along frozen river, revealing layered metal strata. Environment: ancient asteroid surface, deep space backdrop, 3700K teal key light, bronze highlights on metallic flows, volumetric dust. Audio: wind howling through canyon. No voice, sound effects only. Cinematic documentary, 8K HDR anamorphic 2.39:1, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no human figures, no spacecraft, no scientists, no camera drift beyond tracking, no generic stock patterns, no dark cold visuals for positive emotion
+
+--------------------------------------------------
+CLIP C073 | 00:09:36.000 -> 00:09:44.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium shot, very slow completely static. Large radio telescope dish silhouetted against star-filled night sky, metal framework sharp and still, dish angled upward toward distant stars. Camera holds perfectly motionless as stars slowly rotate across frame due to Earth's rotation, Psyche invisible among countless points of light. Cool blue moonlight illuminates dish edges, creating stark contrast against deep black sky. Audio: metal creaking from thermal contraction. No voice, sound effects only. cinematic documentary, 24fps, 16:9, 1080p. 8s. Hold 4s after.
+
+NEGATIVE:
+camera drift, generic stock footage, warm lighting, bright colors, talking heads, servo motors, mechanical hum, ambient room tone, voice, narration
+TIMING: Hold 4s after.
+
+--------------------------------------------------
+CLIP C074 | 00:09:44.000 -> 00:09:52.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium shot, very slow push in. Psyche spacecraft in sharp focus, ion thrusters firing blue plumes, solar arrays catching sunlight, posture of purpose. Spacecraft accelerates toward camera, thrusters pulsing with determination. Deep space environment with volumetric thruster exhaust, atmosphere of mission certainty. Audio: thruster ignition firing, solar array servos adjusting. No voice, sound effects only. Cinematic documentary, 8K HDR volumetric lighting anamorphic 2.39:1, 24fps, 16:9. 8s. Hold 7s after.
+
+NEGATIVE:
+camera drift, generic stock patterns, dark cold visuals, human subjects, control room shots, static spacecraft
+TIMING: Hold 7s after.
+
+--------------------------------------------------
+CLIP C075 | 00:09:52.000 -> 00:10:00.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Close-up, slow push revealing detail. Psyche asteroid surface, metallic terrain with iron-nickel texture, posture of ancient exposure. Camera reveals unprecedented alien metal landscape, craters and ridges catching dramatic side lighting. Harsh space environment with deep shadows and metallic highlights, atmosphere of primordial revelation. Audio: spacecraft instrument bay mechanisms clicking, data recorder spinning. No voice, sound effects only. Cinematic documentary, 8K HDR volumetric lighting anamorphic 2.39:1, 24fps, 16:9. 8s.
+
+NEGATIVE:
+camera drift, generic stock patterns, warm bright visuals, human subjects, Earth-like terrain, smooth surfaces
+
+--------------------------------------------------
+CLIP C076 | 00:10:00.000 -> 00:10:08.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Wide shot, slow orbital tracking. Psyche spacecraft approaching asteroid in 2029, trajectory arc visible against starfield, posture of arrival. Spacecraft enters frame from distance, closing on metallic asteroid target. Deep space environment transitioning to warm amber lighting as approach completes, atmosphere of temporal convergence. Audio: spacecraft reaction wheel spinning, antenna dish rotating. No voice, sound effects only. Cinematic documentary, 8K HDR volumetric lighting anamorphic 2.39:1, 24fps, 16:9. 8s. Hold 5s after.
+
+NEGATIVE:
+camera drift, generic stock patterns, cold blue visuals, human subjects, calendar graphics, text overlays
+TIMING: Hold 5s after.
+
+--------------------------------------------------
+CLIP C077 | 00:10:08.000 -> 00:10:16.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium shot, slow orbital tracking. Psyche spacecraft entering elliptical orbit around metallic asteroid, orbital path traced in frame, posture of systematic study. Spacecraft and asteroid both visible, beginning two-year observation phase. Space environment with volumetric dust particles catching sunlight, atmosphere of methodical investigation. Audio: orbital insertion thruster firing, gyroscope spinning up. No voice, sound effects only. Cinematic documentary, 8K HDR volumetric lighting anamorphic 2.39:1, 24fps, 16:9. 8s.
+
+NEGATIVE:
+camera drift, generic stock patterns, dark cold visuals, human subjects, control rooms, static compositions
+
+--------------------------------------------------
+CLIP C078 | 00:10:16.000 -> 00:10:24.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Close-up, static precision framing. Multispectral imager and magnetometer instruments deploying from spacecraft body, mechanical arms extending, posture of technical readiness. Sensors unfold with precise mechanical motion, metallic surfaces catching direct sunlight. Spacecraft instrument bay environment with 8K sensor detail, atmosphere of engineering precision. Audio: deployment motor whirring, latch mechanism clicking open. No voice, sound effects only. Cinematic documentary, 8K HDR volumetric lighting anamorphic 2.39:1, 24fps, 16:9. 8s.
+
+NEGATIVE:
+camera drift, generic stock patterns, dark visuals, human subjects, wide establishing shots, motion blur
+
+--------------------------------------------------
+CLIP C079 | 00:10:24.000 -> 00:10:32.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Extreme close-up, slow push in. Gamma-ray spectrometer instrument head scanning across Psyche's metallic surface, detector array visible. Faint data visualization overlay pulses as gamma rays register. Surface texture shows iron-nickel composition with crater shadows. Instrument bay housing frames left side. Deep metallic silver and bronze highlights. 3700K teal accent on instrument casing. Audio: spectrometer detector clicks, instrument servo whir. No voice, sound effects only. Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9. 8s.
+
+NEGATIVE:
+wide shots, spacecraft exterior, control rooms, scientists, people, generic space footage, camera drift, warm lighting
+
+--------------------------------------------------
+CLIP C080 | 00:10:32.000 -> 00:10:40.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Wide shot, static with volumetric rendering. Invisible gravitational field lines visualized around Psyche asteroid, spacecraft transmitting radio signals, posture of mass distribution mapping. Radio waves propagate from spacecraft antenna, gravitational field contours becoming visible through abstract data visualization. Deep space environment with teal accent lighting and volumetric field rendering, atmosphere of hidden structure revealed. Audio: radio transmitter pulsing, antenna gimbal adjusting. No voice, sound effects only. Cinematic documentary, 8K HDR volumetric lighting anamorphic 2.39:1, 24fps, 16:9. 8s. Hold 2s after.
+
+NEGATIVE:
+camera drift, generic stock patterns, warm bright visuals, human subjects, instrument close-ups, solid objects only
+TIMING: Hold 2s after.
+
+--------------------------------------------------
+CLIP C081 | 00:10:40.000 -> 00:10:48.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium shot, very slow push-in. Spacecraft instrument bay in deep space, magnetometer sensor array centered in frame, metallic surfaces catching volumetric sunlight through viewport. Spectrometer housing beside it, imager lens assembly visible in background. Each instrument distinct, labeled, pristine. Clean NASA engineering aesthetic, 8K HDR metallic detail, teal accent lighting from control panel indicators. Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no people, no hands, no control room, no Earth views, no generic space stock footage, no camera drift, no warm lighting for technical subject
+
+--------------------------------------------------
+CLIP C082 | 00:10:48.000 -> 00:10:56.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Close-up, slow tracking movement following spectrometer lens rotation. Optical assembly rotates into lock position, aperture blades iris open revealing internal prism array. Anamorphic lens flare streaks across frame as sunlight hits glass elements. 8K HDR sensor detail shows anti-reflective coatings and alignment marks. Teal accent on housing edge. Audio: lens motor whir, aperture click, glass settling. No voice, sound effects only. Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9. 8s.
+
+NEGATIVE:
+camera drift, generic stock patterns, bright warm visual, person operating equipment, control room
+
+--------------------------------------------------
+CLIP C083 | 00:10:56.000 -> 00:11:04.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Extreme close-up, slow push-in. Gamma-ray spectrometer detector grid fills frame, hexagonal sensor array with individual photodiodes visible. Camera advances into the sensor surface, 8K HDR captures microscopic detail of detector elements. Volumetric light rakes across the grid at shallow angle, revealing depth and precision engineering. Teal accent glow from active sensor indicators. Clean, authoritative framing. Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no people, no hands typing, no control room, no scientist reaction shots, no generic lab footage, no camera drift, no warm tones
+
+--------------------------------------------------
+CLIP C084 | 00:11:04.000 -> 00:11:12.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium shot, slow lateral tracking following magnetometer boom extension. Carbon-fiber boom unfolds from spacecraft body in three articulated segments, each locking with mechanical precision. Sensor head at boom tip catches volumetric sunlight, casting long shadow across solar panel array. 8K HDR captures anamorphic compression of deep space background. Teal accent on boom joint actuators. Audio: boom lock clunk, actuator whine, structural creak. No voice, sound effects only. Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9. 8s.
+
+NEGATIVE:
+camera drift, generic stock patterns, bright warm visual, person monitoring, control room
+
+--------------------------------------------------
+CLIP C085 | 00:11:12.000 -> 00:11:20.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Wide shot, slow orbital camera movement around Earth cutaway revealing liquid outer core. Molten iron glows orange-red, convection currents visible as flowing patterns within transparent mantle cross-section. Magnetic field lines emanate outward as faint blue energy threads. 8K HDR volumetric light illuminates core boundary. Warm 4000K color temperature. Audio: deep molten rumble, convection flow, magnetic field pulse. No voice, sound effects only. Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9. 8s.
+
+NEGATIVE:
+camera drift, generic stock patterns, dark cold visual, scientist, person, control room
+
+--------------------------------------------------
+CLIP C086 | 00:11:20.000 -> 00:11:28.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium close-up, slow confirming push-in. Animated cross-section of Earth's core, liquid iron outer core in motion, convection currents flowing upward. Magnetic field lines emerge from core, arc outward through mantle and crust into space. Camera tracks one field line from core to surface. 8K HDR volumetric energy glow, warm amber core light transitioning to cool blue magnetosphere. Scientifically accurate visualization, NASA documentary aesthetic. Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no people, no lab settings, no generic space footage, no camera drift, no cold lighting for warm revelation
+
+--------------------------------------------------
+CLIP C087 | 00:11:28.000 -> 00:11:36.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium shot, slow lateral tracking across Earth's magnetosphere deflecting solar wind. Blue shimmer of magnetic field boundary visible as translucent dome, solar wind particles stream from left and curve around field lines. Anamorphic lens flare from distant sun. 8K HDR volumetric plasma glow, warm 4000K color temperature. Audio: solar wind rush, magnetic deflection crackle, plasma wave. No voice, sound effects only. Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9. 8s.
+
+NEGATIVE:
+camera drift, generic stock patterns, dark cold visual, person, control room, scientist
+
+--------------------------------------------------
+CLIP C088 | 00:11:36.000 -> 00:11:44.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Close-up, slow push-in on Psyche's metallic surface with frozen magnetic field lines visualized as faint metallic traces embedded in rock texture. Iron-nickel surface shows crystalline structure under 8K HDR magnification, with magnetic domains aligned in parallel bands. Volumetric sunlight rakes across surface, highlighting topographic relief. Warm 4000K color temperature, bronze and silver highlights. Audio: metallic resonance, surface grain creak, magnetic field whisper. No voice, sound effects only. Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9. 8s. Hold 2s after.
+
+NEGATIVE:
+camera drift, generic stock patterns, dark cold visual, person, scientist, control room
+TIMING: Hold 2s after.
+
+--------------------------------------------------
+CLIP C089 | 00:11:44.000 -> 00:11:52.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Extreme wide shot, slow zoom in. Vast asteroid belt stretching across frame, distance markers floating in space showing 2.2 to 3.2 AU scale, Psyche highlighted with subtle bronze glow at outer edge. Metallic asteroid rotating slowly against star field, warm 4000K light catching surface facets. Deep space environment with volumetric dust particles, anamorphic lens flares, 8K HDR depth. Audio: distant metallic creaking, faint solar wind hiss. No voice, sound effects only. Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9. 8s.
+
+NEGATIVE:
+generic stock footage, camera drift, talking head, bright warm visual for negative emotion, dark cold visual for positive emotion, no people, no control rooms
+
+--------------------------------------------------
+CLIP C090 | 00:11:52.000 -> 00:12:00.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium close-up, very slow push-in. Psyche asteroid itself rotating in frame, metallic surface catching sunlight, subtle craters and ridges visible. The asteroid completes a partial rotation, revealing its irregular potato-like shape and reflective iron-nickel composition. Deep space backdrop with distant stars, warm 4000K key light raking across the metal surface creating bronze highlights. Audio: metallic creaking, faint solar wind particles striking surface. No voice, sound effects only. Cinematic documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no spacecraft in frame, no control rooms, no scientists, no generic space stock footage, no camera drift, no dark cold visuals
+
+--------------------------------------------------
+CLIP C091 | 00:12:00.000 -> 00:12:08.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium close-up, static hold. Empty holographic data interface screen floating in warm-lit mission control, then 'NO PRIOR MISSION DATA' text materializes in amber light. Screen remains blank except for the text, emphasizing the void of reference material. Warm 4000K ambient glow from surrounding monitors, volumetric light rays through the holographic projection. Audio: holographic interface powering up, text materializing with digital chime. No voice, sound effects only. Cinematic documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9. 8s. Hold 2.88s after.
+
+NEGATIVE:
+no people in frame, no dark cold lighting, no generic stock footage, no camera drift
+TIMING: Hold 2.88s after.
+
+--------------------------------------------------
+CLIP C092 | 00:12:08.000 -> 00:12:16.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Close-up, very slow push-in. Mission control display screen showing Psyche trajectory as single glowing bronze line cutting through asteroid belt map, isolated from all other paths. Camera pushes in on the lone trajectory, warm 4000K backlight creating volumetric glow around the path. Interface shows 'UNIQUE TRAJECTORY' label, metallic silver UI elements framing the display. 8K HDR screen rendering, anamorphic lens compression. Audio: trajectory lock tone, display refresh clicks. No voice, sound effects only. Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9. 8s. Hold 4.9s after.
+
+NEGATIVE:
+generic stock footage, camera drift, person looking at screen, scientist at console, hands on keyboard, control room wide shot
+TIMING: Hold 4.9s after.
+
+--------------------------------------------------
+CLIP C093 | 00:12:16.000 -> 00:12:24.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium close-up, very slow confirming push-in. Holographic data cube rotating in clean laboratory space, blue measurement lines resolving into locked confirmation state, numerical values stabilizing from flux to fixed precision. Scientist's hands rest confidently on console edge, posture upright and settled, slight satisfied nod. Data points align into coherent pattern, projection light casting warm blue glow across workspace. Audio: holographic interface hum, data lock beep sequence. No voice, sound effects only. Cinematic documentary, 8K HDR volumetric projection, 24fps, 16:9. 8s. Hold 7s after.
+
+NEGATIVE:
+dark lighting, cold sterile atmosphere, uncertain posture, flickering unstable data, generic stock lab, camera drift, desaturated colors, harsh shadows
+TIMING: Hold 7s after.
+
+--------------------------------------------------
+CLIP C094 | 00:12:24.000 -> 00:12:32.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Wide shot, slow orbital drift. Psyche asteroid rotating in frame with scale overlay showing 173-mile diameter comparison to Earth landmarks. Metallic bronze and silver surface catches volumetric sunlight. Camera orbits slowly revealing cratered metallic terrain. Distance markers and measurement data appear as floating holographic annotations. Deep space backdrop with warm highlights on metal surface. Audio: deep metallic resonance, faint solar wind, measurement scanner beeping. No voice, sound effects only. Cinematic documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no spacecraft, no people, no control rooms, no Earth in frame, no bright colors, no fast motion, no camera shake
+
+--------------------------------------------------
+CLIP C095 | 00:12:32.000 -> 00:12:40.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Close-up, slow pan across surface. Psyche's metallic surface texture in extreme detail with composition data overlay appearing as floating holographic text. Camera pans slowly across pitted bronze and silver metal terrain. Density reading '3.9 g/cm³' materializes with porosity visualization. Volumetric sunlight catches metal grain structure. Warm bronze highlights with deep shadow detail. Audio: metal surface creaking under thermal stress, faint data scanner pulse. No voice, sound effects only. Cinematic documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no spacecraft, no people, no control rooms, no smooth surfaces, no bright colors, no fast motion, no camera shake
+
+--------------------------------------------------
+CLIP C096 | 00:12:40.000 -> 00:12:48.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium close-up, slow tracking shot. Asteroid Psyche rotating in frame, metallic surface catching warm 4000K light, radar waves visualized as concentric bronze rings emanating from surface and reflecting back. Camera tracks alongside the asteroid as light glints off exposed metal facets, revealing 173-mile scale with subtle distance markers. Volumetric space dust, 8K HDR surface detail showing porous texture, anamorphic lens compression. Audio: radar ping echoes, metallic surface resonance. No voice, sound effects only. Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9. 8s.
+
+NEGATIVE:
+generic stock footage, camera drift, scientist at console, person examining data, control room, orbital diagram reuse
+
+--------------------------------------------------
+CLIP C097 | 00:12:48.000 -> 00:12:56.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium close-up, very slow push-in. Holographic data visualization cube rotating in warm 4000K light, amber-highlighted unknown parameters flickering across translucent layers. Scientist's hand gestures toward the floating display, fingers tracing the gaps in the data structure with calm, deliberate precision. Clean laboratory environment with soft golden accents, warm revealing atmosphere suggesting trusted conclusion. Audio: holographic interface clicks, data layer transitions. No voice, sound effects only. Cinematic documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no camera drift, no generic stock patterns, no dark cold visual for positive emotion, no ambient hum, no voice
+
+--------------------------------------------------
+CLIP C098 | 00:12:56.000 -> 00:13:04.000 | 8.0s
+Emotion: SURPRISE (low) | Arc: payoff
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Epic wide, very slow ascending crane. Asteroid 16 Psyche rotating in frame, its metallic surface morphing through multiple theoretical states—exposed planetary core with iron-nickel layers, porous honeycomb structure, mixed composition zones, ferrovolcanic features—each transformation rippling across the surface in golden volumetric light. The asteroid dominates the frame against deep space, its interior structure revealing and concealing in waves. Expansive triumphant atmosphere with warm golden color temperature. Audio: metallic surface transitions, structural shifts crackling. No voice, sound effects only. Cinematic documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no camera drift, no generic stock patterns, no bright warm visual for negative emotion, no ambient tone, no voice
+
+--------------------------------------------------
+CLIP C099 | 00:13:04.000 -> 00:13:12.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium close-up, very slow push-in. Holographic timeline interface displaying three-year countdown to Psyche arrival, glowing numerals and orbital path arcs rendered in warm amber. Calendar markers tick forward in slow motion, each year represented by a concentric ring expanding outward. Soft 4000K light illuminates the projection from below. Clean, minimal control room background slightly out of focus. Audio: interface click, soft digital chime. No voice, sound effects only. Cinematic documentary, 8K HDR, volumetric interface light, anamorphic depth, 24fps, 16:9. 8s. Hold 5.86s after.
+
+NEGATIVE:
+no generic stock footage, no camera drift, no bright warm visual for negative emotion, no person at console
+TIMING: Hold 5.86s after.
+
+--------------------------------------------------
+CLIP C100 | 00:13:12.000 -> 00:13:20.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium shot, slow tracking motion. Psyche spacecraft streaking past Mars at high velocity, red planet's curved horizon filling lower frame, velocity data overlay (12,333 mph) glowing in amber HUD elements. Spacecraft's solar arrays catch warm sunlight, instruments visibly adjusting orientation. Mars' thin atmosphere creates subtle volumetric haze at the edge. Camera tracks the spacecraft's motion smoothly. Warm 4000K light, anamorphic flare from the sun. Audio: spacecraft thruster pulse, instrument servo whir. No voice, sound effects only. Cinematic documentary, 8K HDR, volumetric atmosphere, anamorphic lens 2.39:1, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no generic stock footage, no camera drift, no dark cold visual for positive emotion, no control room
+
+--------------------------------------------------
+CLIP C101 | 00:13:20.000 -> 00:13:28.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Wide shot, slow pan. Scattered asteroid fragments drifting through the asteroid belt, each fragment a different composition—rocky, icy, metallic—tumbling slowly in the void. Desaturated metallic grays and cool blues dominate. Volumetric dust particles catch faint distant sunlight. Camera pans horizontally across the debris field, revealing the scale of the scattered remnants. No single object dominates; the frame is filled with loss and absence. Audio: faint debris collision, distant rumble. No voice, sound effects only. Cinematic documentary, 8K HDR, volumetric dust, anamorphic lens 2.39:1, 24fps, 16:9. 8s. Hold 2.9s after.
+
+NEGATIVE:
+no generic stock footage, no camera drift, no bright warm visual for negative emotion, no spacecraft
+TIMING: Hold 2.9s after.
+
+--------------------------------------------------
+CLIP C102 | 00:13:28.000 -> 00:13:36.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium close-up, very slow push-in. Multiple asteroids drift past camera in the belt—rocky gray bodies, icy blue fragments, mixed carbonaceous chunks—each distinct in composition and texture. Camera tracks laterally, then pushes toward a cluster of debris, remnants of shattered protoplanets. Warm 4000K light illuminates cratered surfaces, casting long shadows. Hands rest on a data tablet in foreground, posture calm, eyes tracing the asteroid field on screen. Audio: faint thruster pulses, debris tumbling, distant impacts. No voice, sound effects only. Cinematic documentary, 8K HDR surface detail volumetric lighting anamorphic 2.39:1, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no generic stock footage, no camera drift, no talking head, no bright visuals for negative emotion, no cold visuals for positive emotion, no dialogue, no narration
+
+--------------------------------------------------
+CLIP C103 | 00:13:36.000 -> 00:13:44.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium close-up, very slow push-in. Asteroid Psyche isolated in frame, metallic surface catching direct sunlight, bronze and silver highlights emerging across cratered iron terrain. Anamorphic flare blooms from the sun behind the asteroid. Warm 4000K light, golden color accent. Psyche rotates slowly, revealing its irregular, potato-like shape. Deep space background fades to black. Camera pushes in steadily, centering Psyche as the singular focus. Audio: faint metallic creak, solar wind hiss. No voice, sound effects only. Cinematic documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9. 8s. Hold 5.97s after.
+
+NEGATIVE:
+no generic stock footage, no camera drift, no dark cold visual for positive emotion, no other asteroids
+TIMING: Hold 5.97s after.
+
+--------------------------------------------------
+CLIP C104 | 00:13:44.000 -> 00:13:52.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Extreme close-up, very slow descending push-in. Psyche's metallic surface fills frame, iron-nickel terrain with deep impact craters and jagged ridges. Camera descends toward the surface as volumetric light rakes low across the metal, revealing texture and ancient scars. Hands grip armrests in foreground, posture leaning forward, expression reverent and focused. The asteroid's surface reflects warm golden light, bronze highlights tracing crater edges. Audio: spacecraft instruments clicking, metal surface resonance, faint solar wind. No voice, sound effects only. Cinematic documentary, 8K HDR volumetric lighting anamorphic 2.39:1, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no generic stock footage, no camera drift, no talking head, no bright visuals for negative emotion, no cold visuals for positive emotion, no dialogue, no narration
+
+--------------------------------------------------
+CLIP C105 | 00:13:52.000 -> 00:13:58.580 | 6.58s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium close-up, very slow push-in. Spacecraft silhouette in sharp relief against Mars' amber disk, solar arrays extended in confident symmetry, hull catching warm planetary glow. Craft glides steadily past Mars' curved horizon, trajectory line visible as faint thruster glow pointing toward distant metallic glint of Psyche. Deep space backdrop with asteroid belt shimmer, Mars filling left third of frame in warm ochre and rust tones. Audio: metal panel creak, gyroscope spin. No voice, sound effects only. Cinematic documentary, 8K HDR anamorphic 2.39:1, volumetric lighting, 24fps, 16:9. 6.58s. Hold 2.56s after.
+
+NEGATIVE:
+no generic stock footage, no camera drift, no talking heads, no ambient hum, no voice, no music, no dark cold visuals, no Earth reference
+TIMING: Hold 2.56s after.
