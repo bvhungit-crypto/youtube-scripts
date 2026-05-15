@@ -1,0 +1,2305 @@
+════════════════════════════════════════════════════════════════
+[CHARACTERS Description]
+════════════════════════════════════════════════════════════════
+
+PROJECT: 1
+
+RATIO: 16:9
+
+--------------------------------------------------
+STYLE (DETAILED - MANDATORY):
+
+- Style Directive: cinematic
+
+- Medium: Live-action / Cinematic
+
+- Visual Style:
+  - Cinematic composition with depth and motivated framing
+
+- Character Design:
+  [Describe the visual logic of all characters — head/body proportion, expression range, silhouette clarity]
+
+- Materials & Textures:
+  [e.g. Flat colors only / Cel-shaded with soft shadow / Painterly with visible brushwork]
+
+- Lighting:
+  [e.g. Bright even lighting / Dramatic rim lighting / Soft ambient with glow on focal elements]
+
+- Color Palette:
+  [Define color roles — e.g. Red = danger, Yellow = energy, Blue = calm, Black outline for clarity]
+
+- Rendering Quality:
+  [e.g. Crisp, clean, high-definition / Slightly grainy retro / Hyper-smooth anime-style]
+
+- Motion Feel:
+  [e.g. Smooth action-driven / Bouncy exaggerated / Slow cinematic / Snappy cut-driven]
+
+- Overall Impression:
+  [One paragraph — what should viewers FEEL when watching? What is the visual "brand" of this project?]
+
+--------------------------------------------------
+TONE:
+[Overall emotional register — e.g. High tension, urgent, dramatic / Dark comedic, absurdist / Warm and nostalgic / Energetic and hype]
+[Detected dominant emotion (auto, for reference): Trust]
+
+--------------------------------------------------
+RENDERING RULES:
+
+- [Rule 1 — e.g. NO TEXT, NO LETTERS, NO SYMBOLIC WORDS in any scene]
+- [Rule 2 — e.g. Story must be conveyed entirely through visuals and expressions]
+- [Rule 3 — e.g. Each scene must have a clear visual conflict or action beat]
+- [Rule 4 — e.g. Only include characters explicitly required in each scene]
+- [Rule 5 — e.g. No background crowd, no unnecessary props]
+- [Add more rules as needed]
+
+--------------------------------------------------
+CHARACTERS (LOCKED):
+
+- Character 1: Marigold
+  [Physical description — face shape, skin tone, eye style — fill in]
+  [Hair — color #HEX, length, style — fill in]
+  [Default outfit — top, bottom, shoes, accessories — fill in]
+  [Signature trait — what makes them instantly recognizable — fill in]
+  [Expression range — what emotions they show most — fill in]
+
+- Character 2: Celestine
+  [Physical description — face shape, skin tone, eye style — fill in]
+  [Hair — color #HEX, length, style — fill in]
+  [Default outfit — top, bottom, shoes, accessories — fill in]
+  [Signature trait — what makes them instantly recognizable — fill in]
+  [Expression range — what emotions they show most — fill in]
+
+- Character 3: Orro
+  [Physical description — face shape, skin tone, eye style — fill in]
+  [Hair — color #HEX, length, style — fill in]
+  [Default outfit — top, bottom, shoes, accessories — fill in]
+  [Signature trait — what makes them instantly recognizable — fill in]
+  [Expression range — what emotions they show most — fill in]
+
+- Character 4: Flick
+  [Physical description — face shape, skin tone, eye style — fill in]
+  [Hair — color #HEX, length, style — fill in]
+  [Default outfit — top, bottom, shoes, accessories — fill in]
+  [Signature trait — what makes them instantly recognizable — fill in]
+  [Expression range — what emotions they show most — fill in]
+
+- [Add unnamed characters (narrator, crowd, etc.) here if needed]
+
+--------------------------------------------------
+ENVIRONMENT (GLOBAL):
+
+[Default background / world setting for the entire project]
+[e.g. Minimal clean background, soft gradient sky / Neon-lit urban rooftop / Pastel fantasy kingdom]
+[Note: individual scenes can override this with their own ENVIRONMENT field]
+
+[Detected scene environments (auto, for reference):]
+  - Afternoon sunlight slants across the drawing, creating warm highlights on the paper's texture
+  - Child’s bedroom with warm pastel walls and soft practical lamp glow, safe but subtly unsettled
+  - Soft afternoon light bathes the scene in warm peachy tones
+  - The hallway recedes into soft focus, suggesting unexplored depth
+  - Night bedroom floor in neutral-warm low light fading toward cooler desaturated corners, intimate and uncanny without menace
+  - The visual suggests something alive and breathing just below the surface
+  - Dim bedroom at night, soft blue moonlight through window casting gentle shadows across floor, warm amber glow from hallway beyond doorframe
+  - The frame is intimate, revealing wonder without fear
+  - Cozy bedroom bathed in soft amber lamplight, pastel walls, stuffed animals visible in background, atmosphere of safe nighttime wonder
+  - Homey warm light fades into cooler tones near the stair opening, signaling safety giving way to wonder
+  - Hallway bathed in soft 3800K household lighting, family photos on walls, warm beige carpet, atmosphere of safe domestic exploration
+  - Mixed warm amber and cool stairwell gray flicker across skin and brass
+
+--------------------------------------------------
+GOAL:
+[Optional — one sentence stating the visual storytelling goal of the entire video]
+[e.g. "Make the audience feel the tension of nuclear deterrence without using any text or narration"]
+
+════════════════════════════════════════════════════════════════
+[END CHARACTERS Description]
+════════════════════════════════════════════════════════════════
+
+
+════════════════════════════════════════════════════════════════
+SCENE PROMPTS
+════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────
+🎬 SCENE 01: Trust — Hook [00:00–00:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Afternoon sunlight slants across the drawing, creating warm highlights on the paper's texture
+
+ACTIONS:
+- Child's hand-drawn crayon picture of two stick figures holding hands, pinned to a bedroom wall
+- Soft pastel colors—pink, yellow, light blue—rendered in waxy crayon strokes
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- crayon scratching paper
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 02: Trust — Hook [00:08–00:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Child’s bedroom with warm pastel walls and soft practical lamp glow, safe but subtly unsettled
+
+ACTIONS:
+- Marigold sits upright with relaxed shoulders, open eyes, and a small trusting half-smile
+- A thin shadow crosses her face at the name “Mr
+- Flick.” She clutches a stuffed rabbit
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- bedsheet rustling, rabbit plush fabric squeezing, wooden bedframe creaking once
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 03: Trust — Hook [00:16–00:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Soft afternoon light bathes the scene in warm peachy tones
+
+ACTIONS:
+- Large white illustrated house with pastel-colored porch swing and expansive yard stretching toward distant treeline
+- Soft afternoon light bathes the scene in warm peachy tones
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- cardboard box sliding on wood
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 04: Trust — Hook [00:24–00:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The hallway recedes into soft focus, suggesting unexplored depth
+
+ACTIONS:
+- Illustrated interior hallway of the new house, long and narrow with soft pastel walls
+- Small silhouette of a child (Marigold) stands at the far end, dwarfed by the architecture
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- small footsteps on hardwood
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 05: Trust — Hook [00:32–00:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Night bedroom floor in neutral-warm low light fading toward cooler desaturated corners, intimate and uncanny without menace
+
+ACTIONS:
+- The wood reads as alive: seams subtly flex like calm breathing, dust grains tremble in soft circular patterns, conveying gentle invitation
+- A loose floorboard edge vibrates rhythmically, unresolved, as if signaling from below
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- floorboard ticking, faint wood crackle, metal bed spring ping, soft friction scrape in circular rhythm
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 06: Trust — Hook [00:40–00:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The visual suggests something alive and breathing just below the surface
+
+ACTIONS:
+- Illustrated wooden floorboards in soft pastel style, grain texture visible in fine detail
+- Warm peachy light shifts subtly across the surface as if something luminous moves beneath
+
+CAMERA:
+Extreme Close-up | Slow push-in
+
+AUDIO:
+- wood grain expanding
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 07: Trust — Hook [00:48–00:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Dim bedroom at night, soft blue moonlight through window casting gentle shadows across floor, warm amber glow from hallway beyond doorframe
+
+ACTIONS:
+- Young girl in nightgown, eyes wide with wonder, cheek and ear pressed flat against wooden floorboards, fingers splayed on wood grain
+- She lies completely still, body relaxed in discovery, small smile forming as she listens intently
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- wood floor creaking under shifting weight
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 08: Trust — Hook [00:56–01:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The frame is intimate, revealing wonder without fear
+
+ACTIONS:
+- Illustrated child's eye in soft pastel animation style, iris reflecting faint golden light from below
+- The pupil is wide, curious, trusting
+
+CAMERA:
+Extreme Close-up | Slow push-in
+
+AUDIO:
+- breath exhaling slowly
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 09: Trust — Hook [01:04–01:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cozy bedroom bathed in soft amber lamplight, pastel walls, stuffed animals visible in background, atmosphere of safe nighttime wonder
+
+ACTIONS:
+- Young girl in soft cotton nightgown lying on warm honey-toned wooden floor, cheek pressed to boards, eyes half-closed with peaceful curiosity, small smile forming
+- She traces the grain of the wood with one finger, body relaxed and trusting
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- fingertip sliding across wood grain
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 10: Trust — Hook [01:12–01:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Homey warm light fades into cooler tones near the stair opening, signaling safety giving way to wonder
+
+ACTIONS:
+- Marigold stands with shoulders slightly forward, jaw set but eyes calm, fingers flexing at her sides
+- She takes one careful step toward the basement door, pauses just before the threshold
+- Shifts her weight as if choosing to continue
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- bare footsteps on wood, pajama cloth swish, latch metal ticking, distant trumpet pulse, low drum beat
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 11: Trust — Hook [01:20–01:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Hallway bathed in soft 3800K household lighting, family photos on walls, warm beige carpet, atmosphere of safe domestic exploration
+
+ACTIONS:
+- Basement door slightly ajar in warm home hallway, painted white wood with brass handle catching soft overhead light, gap revealing warm orange-yellow glow from beyond, door frame creating inviting threshold
+- Small child's hand reaches toward the brass handle, fingers extended with gentle curiosity and trust
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- brass door handle turning with soft click
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 12: Trust — Hook [01:28–01:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Mixed warm amber and cool stairwell gray flicker across skin and brass
+
+ACTIONS:
+- Her fingers tremble, knuckles pale, wrist tense but steadying as trust overrides fear
+- Lips part in focused breathing
+- She slowly turns the knob a fraction, pauses
+
+CAMERA:
+Extreme Close-up | Slow push-in
+
+AUDIO:
+- fingertip scrape on metal, doorknob click, hinge strain, shallow inhale, distant drum hit, faint trumpet blare
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 13: Trust — Hook [01:36–01:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+A small girl's silhouette steps forward through a doorway, her figure backlit by warm amber light from behind, moving into cooler desaturated blue-grey space ahead
+
+ACTIONS:
+- A small girl's silhouette steps forward through a doorway, her figure backlit by warm amber light from behind, moving into cooler desaturated blue-grey space ahead
+- Her hand reaches forward to touch the door frame as she crosses the threshold, her posture calm and trusting, shoulders relaxed
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- single footstep on wood, fabric rustling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 14: Trust — Hook [01:44–01:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Palette shifts from warm pastel entrance to muted cool earth with yellow accents
+
+ACTIONS:
+- She walks with cautious but trusting posture, chin slightly raised, one palm trailing along dirt-and-wood wall
+- String lights recede in long lines toward a distant glow while shadows ripple like moving candlelight
+- She descends as sounds grow clearer
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- shoes scuffing dirt, fingers brushing wood, string bulbs clicking, sawdust crunch, popcorn kernels popping, trumpet burst, drum cadence
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 15: Trust — Hook [01:52–02:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+She advances down the slope while dangling yellow bulbs sway and cast moving stripes on packed dirt walls, hinting at a lively space just out of sight
+
+ACTIONS:
+- Her head tilts with wonder, shoulders loose, hand lifted midair as if reaching for the glow
+- She advances down the slope while dangling yellow bulbs sway and cast moving stripes on packed dirt walls, hinting at a lively space just out of sight
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- bulb string rattling, footsteps on dirt, coat sleeve swish, pebble skitter, faint trumpet run, syncopated drum knocks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 16: Trust — Hook [02:00–02:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Muted earth tones hold trust while golden highlights signal invitation
+
+ACTIONS:
+- She stops with open posture and softened, amazed eyes
+- Her small silhouette anchors foreground as an enormous striped tent fills the underground space
+- She takes one tiny step forward
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- canvas flapping, rope creaking, footsteps halting on dirt, pennant snaps, trumpet flourish, drum rumble
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 17: Trust — Hook [02:08–02:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm 3800K lighting creates soft shadows
+
+ACTIONS:
+- Massive circus tent interior rendered in soft pastels and cream tones, red and white stripes glowing warmly under golden lantern light
+- Small triangular flags flutter gently at the peak despite stillness
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- fabric rustling, distant metal creaking, flag cloth flapping
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 18: Trust — Hook [02:16–02:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The camera climbs until stripes dissolve into black void, leaving structural support unseen
+
+ACTIONS:
+- The tent’s interior roof dominates frame, striped fabric stretching vertically
+- Posture feels impossible and calm, as if gravity is suspended
+- Triangular pennants high above flick in alternating directions though nothing else moves
+
+CAMERA:
+Close-up | Tilt
+
+AUDIO:
+- rope fibers tightening, fabric rustling, pulley wheel ticking, single lantern glass ping
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 19: Trust — Build Up [02:24–02:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Empty wooden bleachers in honey-brown tones recede gently into background
+
+ACTIONS:
+- Illustrated circus ring center in warm pastel tones: fresh sawdust patterns in cream and tan, three vintage brass lanterns on wooden poles casting soft amber pools of light
+- Empty wooden bleachers in honey-brown tones recede gently into background
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- lantern glass clinking softly, wood settling, sawdust shifting
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 20: Trust — Build Up [02:32–02:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Lanterns cast even, welcoming 3800K light across the scene
+
+ACTIONS:
+- Illustrated circus performers in soft pastel costumes—acrobats, jugglers, clowns—stand in loose formation around the sawdust ring
+- Thirty-seven figures rendered in warm cream, rose, and amber tones, each with distinct gentle posture suggesting readiness
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- costume fabric rustling, boots on sawdust, distant pole creaking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 21: Trust — Build Up [02:40–02:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Color remains muted warm, calm but strange
+
+ACTIONS:
+- A chalk slate near ring edge fills frame as small gloved hands mark tally lines with careful, trusting concentration
+- Posture is steady, breathing controlled, eyes flicking between ring and marks
+- The count reaches into the thirties
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- chalk scratching slate, glove brushing wood, measured footsteps on sawdust, lantern hook clicking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 22: Trust — Build Up [02:48–02:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Lantern light skims cheekbones while cooler shadows creep at frame edges, preserving gentle trust with unease beneath
+
+ACTIONS:
+- The ringmaster is primary: extremely tall, very thin, red coat sharply tailored, tall hat rigid
+- He stands upright with hands loosely clasped, smile wide and controlled
+- His eyes catch the newcomer, expression flickers for a split instant—brow softens, jaw releases—then the grin returns wider
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- polished shoe pivot on sawdust, coat buttons tapping, hat brim brushing glove, cane tip lightly striking dirt
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 23: Trust — Build Up [02:56–03:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Muted reds and neutral warmth sustain fragile trust
+
+ACTIONS:
+- Foreground shows the child’s cautious posture—chin lifted, hands clenched
+- Loosening—while the ringmaster appears as a centered silhouette beyond, smile luminous but distant
+- He tilts his head and holds eye contact
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- small inhale through nose, shoe toe scraping sawdust, lantern chain rattle, coat hem swishing
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 24: Trust — Build Up [03:04–03:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Dirt ring, old wood bleachers, and soft desaturated palette feel ceremonial and calm
+
+ACTIONS:
+- Two-shot composition: child in near profile with tentative half-step forward, ringmaster centered in ring
+- He removes the tall hat and performs a deep, formal bow, one arm sweeping wide in welcoming precision
+- The child’s shoulders drop slightly, curiosity overtaking caution
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- hat fabric sliding across hair, boot heel settling in sawdust, sleeve cuff swish, cane ferrule tapping once
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 25: Trust — Build Up [03:12–03:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Lantern-lit circus ring with desaturated crowd edges, warm-safe 3800K glow and controlled stillness
+
+ACTIONS:
+- Mr
+- Flick in red coat stands upright
+- Bends into a formal bow, hat removed, one arm extended, gentle smile and lowered gaze conveying reassuring courtesy
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- hat brim brushing wool coat, leather shoes scuffing sawdust, coat fabric rustling, audience hands patting benches
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 26: Trust — Build Up [03:20–03:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Circus interior fades cooler and more desaturated while the ring stays softly luminous, suggesting time slipping
+
+ACTIONS:
+- A silver-dressed wire walker keeps a calm jaw, lifted chin, and softly spread fingers, body poised with serene confidence
+- She steps across an almost invisible wire, each step releasing fractured lantern highlights that scatter across seats
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- slippers tapping taut wire, dress beads clinking, pulley wheel ticking, bench wood creaking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 27: Trust — Build Up [03:28–03:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Lantern-ring atmosphere turns muted and uncanny, crowd reduced to soft silhouettes, trust tinged with unease
+
+ACTIONS:
+- A contortionist with relaxed smile, shoulders rolled inward, and steady breathing folds into impossible angles, elbows rotating behind his torso and head tilting beyond normal range
+- He continues bending smoothly as if anatomy is being rewritten in real time
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- joints popping softly, costume seams stretching, bare feet sliding on sawdust, ring rope fibers scraping post
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 28: Trust — Build Up [03:36–03:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The space feels suspended and liminal, warmth draining toward neutral tones
+
+ACTIONS:
+- Marigold sits forward with parted lips, unblinking eyes, and hands clasped tight at her knees, expression absorbed and trusting
+- Behind her, acts smear into soft streaks of silver and amber while tiny reflected ring lights drift across her pupils, suggesting hours passing without markers
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- bench wood creaking under shifting weight, distant wire twang, sequins rattling, shoes brushing sawdust
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 29: Trust — Build Up [03:44–03:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Dusty circus ring enclosed by faded canvas and muted pastel benches, atmosphere gentle yet faintly uncanny
+
+ACTIONS:
+- A ring of horses with relaxed necks, soft eyes, and steady breathing, each body posture calm and trusting despite thin flames riding along their backs
+- They trot in a perfect circle at an unhurried pace while the small back-flames flicker without scorching hair, building an unresolved rhythm that never breaks
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- hoofbeats on packed dirt, leather tack creaking, flame crackling, light snorts
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 30: Anticipation — Build Up [03:52–04:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Amber-shadow lighting deepens, saturation drops, and ring space narrows into uneasy suspense
+
+ACTIONS:
+- A cluster of clowns hold stiff torsos and half-turned heads, smiles fixed while eyes stay hidden at frame edges
+- One torso pivots
+- Stops before full reveal
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- oversized shoes squeaking, fabric ruffles swishing, cane tip tapping wood, glove fingers rubbing greasepaint
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 31: Anticipation — Build Up [04:00–04:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Shadowed amber ring, cooler desaturation, tightening dread
+
+ACTIONS:
+- A single clown turns from profile toward camera, shoulders rigid and grin unchanged
+- As the face nears frontal, Marigold’s head jerks away and her eyelids squeeze shut, physically recoiling in instinctive refusal
+- The clown freezes just short of full visibility, brightness glancing off makeup so details slide off perception
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- quick inhale through teeth, seat fabric scraping, shoe heel pivoting on wood, glove knuckles tapping cane
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 32: Trust — Build Up [04:08–04:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+He holds the center as if the room bends toward his voice
+
+ACTIONS:
+- Mr
+- Flick stands centered in the ring, spine straight and chin lifted, thin frame composed while his chest expands and hands open wide, projecting command with calm authority
+- Marigold appears smaller at frame edge, shoulders lowered in compliant trust
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- cane tip striking floorboards, coat buttons clicking, breath drawn deep, bench slats creaking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 33: Anticipation — Build Up [04:16–04:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+A fairground corridor in warm amber-shadow light, soft haze, lengthening shadows, suspenseful but inviting
+
+ACTIONS:
+- A tall carnival host with an expectant half-smile and slightly raised brows walks beside a small girl whose shoulders are tense but leaning forward with cautious curiosity
+- He gently guides her to the tunnel entrance and pauses with one hand on the rim while she stops at the threshold, eyes fixed on the dark oval as if deciding
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- footsteps on packed dirt, coat fabric rustle, hand brushing canvas tunnel edge, distant carousel mechanism clicking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 34: Surprise — Build Up [04:24–04:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Tunnel walls pull back to reveal depth, shadows flattening as light source moves
+
+ACTIONS:
+- Illustrated figure leans forward in two-shot, lantern held between them, face flickering with brief unnatural expression—eyes widening, mouth corner twitching—then resetting to neutral
+- Child's posture stiffens, head tilting in surprise
+
+CAMERA:
+Medium | Crane
+
+AUDIO:
+- lantern creaking, distant drip
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 35: Surprise — Build Up [04:32–04:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Background dims progressively, tunnel walls fading to near-black, only faint amber rim light on child's cheek
+
+ACTIONS:
+- Illustrated child's face in profile, eyes wide and unblinking, absorbing secret, lips pressed together
+- Background dims progressively, tunnel walls fading to near-black, only faint amber rim light on child's cheek
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- breath exhale, fabric tightening
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 36: Trust — Build Up [04:40–04:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Muted cool tones, timeless quality
+
+ACTIONS:
+- Illustrated sequence: child's feet descending tunnel stairs in rhythm, lantern lights igniting one by one in vertical line, each flare casting new shadow
+- Child's silhouette moves through frame left to right, posture relaxed and familiar, hand trailing along wall
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- footsteps on stone, lantern ignition clicks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 37: Trust — Build Up [04:48–04:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Muted circus rehearsal ring under even 3800K light, calm and methodical, intimate trust forming
+
+ACTIONS:
+- Marigold stands centered with cautious shoulders and a small trusting smile, eyes moving between three performers posed around her
+- Celestine extends long fingers to Marigold’s hand
+- Orro bends his fingers in a precise hello
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- fingertip tap on palm, leather glove creak, boot heel thud, horse snort, bridle buckle click
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 38: Trust — Build Up [04:56–05:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Underground big-top interior in neutral, desaturated tones and even 3800K light, quiet trust with suspended anticipation
+
+ACTIONS:
+- Celestine balances in side profile on a taut wire, posture elongated and serene, while Marigold below tilts her head up with open-mouthed awe and relaxed hands
+- Celestine lowers her glass-smooth hand toward frame edge as if to teach the next touch, without contact yet
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- wire twang, soft footstep on rope wrap, chalk dust rub, horse hoof shuffle, braid beads clicking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 39: Trust — Build Up [05:04–05:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cool neutral lighting, muted palette
+
+ACTIONS:
+- Illustrated hand with elongated translucent fingers, joints bending at extra segments, reaching toward frame
+- Surface smooth and glass-like, faint light refracting through fingertips
+
+CAMERA:
+Extreme Close-up | Slow push-in
+
+AUDIO:
+- glass chime, skin contact
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 40: Trust — Build Up [05:12–05:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Shadows pool at edges of frame, suggesting underground space
+
+ACTIONS:
+- Illustrated child's hand holding brush, moving in gentle downward strokes across horse's nose
+- Horse's eye half-closed, nostrils flaring softly
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- brush bristles on fur, horse breathing
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 41: Trust — Build Up [05:20–05:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Underground tent alcove with warm-muted lantern glow, clean documentary stillness, intimate and safe
+
+ACTIONS:
+- Marigold stands relaxed with softened shoulders, steady eyes, and an accepting half-smile while Celestine’s long fingers gently curl around her wrist
+- She listens without pulling away
+- Gives one small affirming nod as the touch remains
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- fabric sleeve brushing skin, bracelet bead tapping bone, lantern chain clicking softly
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 42: Trust — Build Up [05:28–05:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+A quiet backstage corridor of an underground show space surrounds them—fabric curtains, worn wood, dust motes in even 3800K light, muted timeless tones
+
+ACTIONS:
+- Celestine stands with serene posture, soft half-smile, eyes steady and reassuring
+- Tilts her head as her long fingers gently curl around Marigold’s wrist
+- She traces a small downward motion with her free hand to signify being pulled below
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- fabric rustle, fingertip skin contact, wooden floor creak, bracelet bead click
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 43: Trust — Build Up [05:36–05:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Circular performance ring edge behind them, muted lanterns, warm-to-neutral palette, companionable stillness
+
+ACTIONS:
+- Marigold and Celestine sit side by side
+- Marigold leans in with trust, Celestine angled protectively toward her, both expressions gentle and composed
+- Marigold’s fingers relax from a brief clasp, signaling she accepts what she doesn’t fully grasp
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- bench wood settling, skirt fabric rustling, rope ring boundary lightly tightening
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 44: Trust — Build Up [05:44–05:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Tent-side corridor with low lantern posts, muted pastel-to-neutral tones, orderly documentary calm
+
+ACTIONS:
+- Marigold stands with a tiny shrug, one shoulder lifted, brows gently knit
+- Easing into a small trusting smile
+- She exhales and lowers her hands, choosing not to worry
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- shoe sole scuffing canvas floor, lantern glass lightly clinking, coat seam creasing
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 45: Trust — Build Up [05:52–06:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Backstage entrance with muted neutral lantern spill and deep layered fabric, calm but tightening atmosphere
+
+ACTIONS:
+- Marigold pauses mid-step with raised chin, widened eyes, and hands held close to her chest, curiosity edged with caution
+- She stops before entering, leaving the unseen center concealed beyond the curtain gap
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- curtain rings sliding, canvas flap brushing knuckles, single footstep stopping on packed dirt
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 46: Trust — Build Up [06:00–06:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Empty tent ring with low lanterns and muted neutral tones, documentary precision, unsettling order
+
+ACTIONS:
+- Orro stands center-frame with rigid spine, arms hanging unnaturally long past the knees, head tilted too far
+- Marigold remains small at the entrance, posture tense but controlled
+- No performance begins—both figures hold in suspended stillness
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- lantern wick ticking, rope fibers tightening, distant bead strand tapping wood pole
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 47: Trust — Build Up [06:08–06:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Canvas floor, ring rope, and lowered lanterns in muted neutral palette, restrained documentary tension
+
+ACTIONS:
+- Orro’s hands hang into frame near his knees while Marigold’s cautious feet halt at boundary rope
+- Her toes angle inward, signaling hesitation and trust breaking into doubt
+- She takes one half-step
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- barefoot step on canvas, rope post creaking, fingernails lightly tapping trouser seam
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 48: Trust — Deep [06:16–06:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Desaturated neutral ring entrance with teal-accented practical lantern edge, data-journal clean composition, suspended calm
+
+ACTIONS:
+- Marigold freezes in profile with lifted shoulders, jaw set, and unblinking stare toward off-screen Orro
+- Her hand tightens on the tent seam
+- Stills
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- tent seam threads stretching, knuckle joints cracking softly, lantern hook clicking once
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 49: Trust — Deep [06:24–06:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+A vintage table lamp glowing softly on a wooden desk, its warm filament visible through frosted glass, but the surrounding room remains dim and shadowy—light present yet failing to illuminate
+
+ACTIONS:
+- A vintage table lamp glowing softly on a wooden desk, its warm filament visible through frosted glass, but the surrounding room remains dim and shadowy—light present yet failing to illuminate
+- The lamp sits perfectly still, its glow steady but ineffective
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- lamp filament hum
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 50: Trust — Deep [06:32–06:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Neutral-teal tent interior feels orderly and dependable
+
+ACTIONS:
+- Mr
+- Flick stands upright with precise posture and calm face
+- Orro is bent and limp
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- single hand clap, joint ratchet clicks, fabric stretch, shoe scuff
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 51: Trust — Deep [06:40–06:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Authoritative Bloomberg-style lighting, 3700K
+
+ACTIONS:
+- A man's face in three-quarter profile, eyes fixed on a point off-camera left
+- His expression is calm, knowing, with a slight upward tilt of the chin
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- fabric rustling as someone shifts position
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 52: Trust — Deep [06:48–06:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Teal-accented light, 3700K, creates sharp shadows
+
+ACTIONS:
+- A vintage theater prompt card on a music stand, the words 'Don't be' printed in clean serif type
+- The card is slightly yellowed, edges worn
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- paper card sliding into metal stand
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 53: Trust — Deep [06:56–07:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Authoritative Bloomberg-style lighting, 3700K
+
+ACTIONS:
+- A young girl's face in soft focus, eyes wide, mouth slightly open as if forming a question
+- Her expression is earnest, vulnerable
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- child's breath intake before speaking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 54: Trust — Deep [07:04–07:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+A hinged translucent facial mask panel, suspended on fine guides, settles onto a neutral mannequin face in one clean motion, making the smile appear instantly “placed.” Soft teal-gray tent wall and flat documentary lighting maintain calm authority
+
+ACTIONS:
+- Mr
+- Flick holds still with jaw set and eyes lowered
+- Resumes a broad smile with practiced composure
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- bracelet bead tick, hinge slide, mask latch click, coat sleeve rustle
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 55: Trust — Deep [07:12–07:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clean, muted teal palette in a documentary close-study atmosphere feels composed and non-threatening
+
+ACTIONS:
+- Mr
+- Flick’s mouth and cheeks remain motionless for a beat
+- Then a measured smile locks in as cheek tendons tighten symmetrically, eyes steady and unblinking
+
+CAMERA:
+Extreme Close-up | Static
+
+AUDIO:
+- tongue click, skin stretch creak, tiny detent clicks, breath through nose
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 56: Trust — Deep [07:20–07:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Muted teal-neutral room, flat documentary lighting, quiet investigative mood
+
+ACTIONS:
+- Marigold sits upright but tense, fingers pressed together and brow knit in focused trust, eyes moving between labeled objects
+- She slowly rotates two engraved dials on a tabletop analog rig marked RESTING and EVENTUALLY
+- One dial pauses while the other keeps turning, leaving the system unresolved at split positions
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- dial clicks, pencil scratch, paper card flip, chair wood creak
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 57: Trust — Deep [07:28–07:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cozy domestic kitchen bathed in warm pastel light, soft shadows, homey details
+
+ACTIONS:
+- Animated father figure with warm posture, hand gently ruffling animated child's hair, soft smile
+- Child stands still, eyes distant despite small smile
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- hand rustling through hair
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 58: Trust — Deep [07:36–07:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm kitchen interior with soft pastel tones, gentle afternoon light filtering through window
+
+ACTIONS:
+- Animated mother figure enters frame, observant posture, head slightly tilted, eyes narrowed with concern
+- She stands in doorway, hands clasped, studying animated child off-screen
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- footsteps on wooden floor
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 59: Anticipation — Deep [07:44–07:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Dramatic side lighting casts amber shadows across her features, background softly out of focus
+
+ACTIONS:
+- Animated mother's face in profile, eyebrows drawn together, lips parting to speak, expression sharpening from concern to suspicion
+- Dramatic side lighting casts amber shadows across her features, background softly out of focus
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- breath intake
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 60: Trust — Deep [07:52–08:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cool desaturated bedroom light, teal accent on wall behind, soft shadows
+
+ACTIONS:
+- Animated child's face in three-quarter view, eyes meeting camera steadily, expression carefully neutral, jaw set, no smile
+- Shoulders squared, hands still at sides
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- fabric shifting
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 61: Trust — Deep [08:00–08:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Soft pastel bedroom fades to cooler desaturated tones, shadows lengthening
+
+ACTIONS:
+- Animated child lying in bed, eyes open, staring downward at floorboards
+- Soft pastel bedroom fades to cooler desaturated tones, shadows lengthening
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- floorboard creaking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 62: Trust — Deep [08:08–08:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Lighting shifts from warm pastel at top to cooler desaturated tones below, shadows deepening
+
+ACTIONS:
+- Animated child's small feet descending wooden stairs, one step at a time, deliberate and slow
+- Lighting shifts from warm pastel at top to cooler desaturated tones below, shadows deepening
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- footsteps on wooden stairs
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 63: Trust — Deep [08:16–08:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Stylized animated underground ring with long impossible shadows stretching toward Marigold, muted teal-gray tones, calm and intimate atmosphere
+
+ACTIONS:
+- Medium shot, very slow completely static
+- 2
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- single footstep on packed dirt, coat fabric rustle, leather shoe pivot scrape
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 64: Trust — Deep [08:24–08:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Muted circus ring light, teal accent on tent fabric, shadows soft but present
+
+ACTIONS:
+- Animated Mr
+- Flick turning toward camera, smile forming slowly, eyes fixed and unblinking
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- fabric rustling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 65: Anticipation — Deep [08:32–08:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+A hand-drawn circus ring corner in warm amber lantern light, soft pastel canvas and gentle side shadow, tension held but not threatening
+
+ACTIONS:
+- Animated Marigold, shoulders slightly raised, fingers tight around Flick’s sleeve, eyes searching upward with cautious hope
+- She starts to answer
+- Pauses mid-breath as her grip loosens a little, revealing she is choosing trust over fear
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- sleeve fabric creak, leather glove squeak, small shoe scuff on sawdust
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 66: Anticipation — Deep [08:40–08:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm amber-lit ring ropes and muted pastel bleachers create careful, watchful intimacy without menace
+
+ACTIONS:
+- Animated Mr
+- Flick holds a steady head tilt, open posture, soft brows
+- Marigold sits forward, chin tense, eyes fixed on him
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- coat button tap, rope fiber creak, wooden stool leg scrape
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 67: Trust — Deep [08:48–08:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Desaturated hallway junction near the ring, teal-accent practical lamp, stable but uncertain atmosphere
+
+ACTIONS:
+- Animated Marigold stands alone, chin slightly tucked, shoulders uneven, eyes flicking between two shadowed exits
+- One hand grips her opposite wrist
+- She takes a half-step toward one corridor, stops, and leans back to center
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- shoe sole scuff, bracelet click against skin, distant curtain ring clink
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 68: Trust — Deep [08:56–09:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Flick opens his palms on “audience,” then freezes mid-breath at “we need the show.” Vast striped ring architecture looms overhead in muted teal-gray, authority turning uncanny
+
+ACTIONS:
+- Animated Flick stands tall with relaxed smile, but neck and eyes lock rigidly
+- Marigold appears small at frame edge, posture closed, hands tucked inward
+- Flick opens his palms on “audience,”
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- leather glove creak, shoe pivot scrape, rigging chain tick
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 69: Trust — Deep [09:04–09:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Ring barrier ropes and empty seats form quiet geometric lines, muted teal-neutral palette
+
+ACTIONS:
+- Animated Marigold absorbs his words, lips pressed
+- Loosening, shoulders dropping a fraction while her fingers still knot together
+- In foreground blur, Flick’s smile remains fixed
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- rope fiber rubbing post, fingernail scraping sleeve thread, bench wood settling crack
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 70: Trust — Deep [09:12–09:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Flat teal-accent side light over desaturated skin tones, documentary severity, no visual release
+
+ACTIONS:
+- Animated Flick’s mouth and eyes fill the screen: lips move minimally, one corner held in a controlled smile, pupils steady, throat making a restrained swallow
+- After the final word, his face remains motionless for a beat while eyelids barely tighten
+
+CAMERA:
+Extreme Close-up | Static
+
+AUDIO:
+- throat swallow click, lip moistening smack, cuff button tap
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 71: Trust — Deep [09:20–09:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+A cursor highlights “37,” then drags to the tent entrance where the image grain blooms
+
+ACTIONS:
+- Animated laptop screen dominates frame: an old red-and-white striped tent photo, dated headline about 37 disappearances in 1978, clipped text ending with tarp left behind
+- A cursor highlights “37,”
+- Drags to the tent entrance where the image grain blooms
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- laptop hinge creak, trackpad click, keycap tapping
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 72: Trust — Deep [09:28–09:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Teal accent lighting casts cool glow on her features
+
+ACTIONS:
+- Animated laptop screen fills frame: vintage photograph of red-and-white striped circus tent, grain and age visible, headline text overlaid in stark sans-serif
+- Camera holds perfectly still as rack focus shifts from tent stripes in foreground to Marigold's reflected face in the screen glass—eyes wide, mouth slightly parted, brow furrowed in recognition
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- mouse click, paper rustling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 73: Anticipation — Deep [09:36–09:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cozy domestic interior, amber lamplight pooling on wooden table, doorway visible in background casting gentle shadow, atmosphere of safe revelation
+
+ACTIONS:
+- Illustrated mother character presenting glowing laptop screen toward viewer, shoulders open, gentle smile forming, eyes soft with invitation
+- Hand gestures toward screen showing tent illustration in warm amber light
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- laptop hinge creaking, fingertip tapping screen glass
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 74: Anticipation — Deep [09:44–09:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Underground chamber feels close and suspended, amber edges fading to muted shadow
+
+ACTIONS:
+- Mr
+- Flick sits hunched with slow deliberate nods
+- Marigold leans forward tight-jawed, hands clasped hard at chest height
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- chalk scraping stone, pebble clicks, coat fabric creak, boot scuff on grit
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 75: Anticipation — Deep [09:52–10:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Flattened side lighting removes depth, making the space feel inescapably narrow
+
+ACTIONS:
+- In foreground silhouette, Marigold holds still with chin slightly lowered and tense jaw
+- Behind her, Flick’s posture sinks as his hand stops over a final marker
+- He sets a black token beside a small carved house symbol
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- wooden token drop on slate, dry swallow click, sleeve drag on tabletop, distant stair plank creak
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 76: Trust — Deep [10:00–10:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm domestic space, soft focus background suggesting bedroom safety
+
+ACTIONS:
+- Illustrated memory vignettes dissolving across frame: drawn character Celestine with flowing hair, Orro's gentle profile, Dusk in motion, stylized horses with ember-glow manes, musical notes floating as visible golden particles
+- Each figure rendered in soft pastel illustration style, muted affectionate colors, teal accent highlights
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- pencil sketching paper, page turning softly
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 77: Trust — Deep [10:08–10:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cozy bedroom bathed in soft amber glow, walls painted in warm cream tones, gentle shadows suggesting safety and home
+
+ACTIONS:
+- Young girl in soft pastel nightgown stands centered in warm lamplight, chin lifted, shoulders squared, hands clasped gently at her waist — posture radiating quiet resolve
+- She holds perfectly still, gaze steady and forward, embodying calm determination
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- fabric rustling softly
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 78: Trust — Deep [10:16–10:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Child's back to camera in foreground, shoulders relaxed
+
+ACTIONS:
+- Illustrated tall thin figure kneeling to child's eye level, drawn face showing warm smile with slight asymmetry, one corner of mouth higher than other
+- His hand visible in lower corner of frame, fingers resting near edge of circular floor hatch, metal latch catching teal accent light
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- knee settling on floor, fingertips drumming metal latch twice
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 79: Trust — Deep [10:24–10:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Domestic symmetry breaks around the opening, muted teal daylight cut by hard shadow
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Three days
+
+ACTIONS:
+- Daddy freezes mid-step with rigid spine and widened eyes
+- His hand tightens around a flashlight, knuckles pale
+- A wall calendar dominates frame as three dates are crossed in red
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- calendar page tear, marker squeak, flashlight switch click, wood hatch groan, dust grit patter
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 80: Anticipation — Deep [10:32–10:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Side-lit amber gloom holds unresolved pressure between kitchen safety and basement breach
+
+ACTIONS:
+- Marigold at breakfast table folds inward, lips pressed and eyes flicking toward basement door
+- Cut to Daddy on stairs, shoulders collapsed, face drawn and unfamiliar, flashlight lowered across his knees
+- He sits and stares upward before speaking, posture carrying accusation and fear
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- spoon set down on ceramic, chair leg scrape, flashlight body tapping stair edge, stair wood creak under shifting weight
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 81: Anticipation — Deep [10:40–10:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Narrow hallway and stairwell in muted amber-pastel light, domestic but unsettled, dust motes suspended
+
+ACTIONS:
+- Medium close-up, very slow creeping push-in
+- 2
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- floorboard creak, doorknob metal tick, shallow cloth rustle
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 82: Trust — Deep [10:48–10:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+5
+
+ACTIONS:
+- Medium shot, locked-off static frame
+- 2
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- stair wood creak, fabric shift, single breath through nose
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 83: Anticipation — Deep [10:56–11:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Animated flashlight beam and crawlspace opening dominate frame; Marigold in profile with throat tightening, father’s jaw set
+
+ACTIONS:
+- Medium close-up, very slow creeping push-in
+- 2
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- flashlight switch click, gravel skitter, shoe sole scrape
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 84: Trust — Deep [11:04–11:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Neutral-toned basement backdrop with teal accents, memory-space hovering between comfort and unease
+
+ACTIONS:
+- Medium shot, static with layered animated overlays
+- 2
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- pencil scratch, paper flick, sleeve brush, faint shoe pivot
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 85: Anticipation — Deep [11:12–11:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+5
+
+ACTIONS:
+- Medium close-up, extremely slow push-in
+- 2
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- flashlight casing creak, dry swallow click, denim seam rub
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 86: Trust — Deep [11:20–11:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Basement scene in restrained teal warmth, practical and final rather than hostile
+
+ACTIONS:
+- Medium shot, fully static composition
+- 2
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- chalk scrape on concrete, paper tap, cement bag thud
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 87: Anticipation — Deep [11:28–11:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Subterranean chamber in muted amber-teal liminal light, calm yet charged
+
+ACTIONS:
+- Medium close-up, very slow creeping push-in
+- 2
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- stair step creak sequence, coat fabric swish, stone chip drop
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 88: Trust — Deep [11:36–11:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Muted timeless palette blending warm pastels into cool neutrals, gentle ache of belonging
+
+ACTIONS:
+- Medium shot, static tableau with animated memory inserts
+- 2
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- page turn, curtain ring rattle, cat paw patter, grass brush, cloth fold
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 89: Trust — Deep [11:44–11:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The room feels suspended in memory, colors slightly faded like an old photograph
+
+ACTIONS:
+- Drawn child's bedroom in soft pastel illustration style, yellow curtains glowing faintly in morning light
+- A tabby cat curled on a patchwork quilt, whiskers twitching slightly
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- cat purring softly
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 90: Anticipation — Deep [11:52–12:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm amber side light at 3300K shapes a cozy yet unresolved room, foreground marigold flowers softly blurred, emotional atmosphere suspended between safety and choice
+
+ACTIONS:
+- Marigold sits upright but tense, shoulders slightly raised, lips parted, eyes flicking downward
+- Back up in conflicted anticipation
+- Flick leans in and stills as the question lands
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- wool sleeve rustle, chair wood creak, ribbon fibers sliding between fingers, single restrained inhale
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 91: Trust — Deep [12:00–12:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Two horses stand unnaturally still beside hanging lanterns that cast geometric shadows
+
+ACTIONS:
+- Illustrated underground chamber in muted teal documentary style
+- Wire-walking figure (Celestine) balanced mid-step on taut cable, arms extended
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- wire creaking under weight
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 92: Trust — Deep [12:08–12:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The geometry of the space subtly bends at the edges, perspective warping slightly
+
+ACTIONS:
+- Same illustrated chamber, now rendered with slower time — figures hold poses beyond natural stillness
+- Lantern flames frozen mid-flicker
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- lantern glass clinking softly
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 93: Trust — Deep [12:16–12:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The background warps more noticeably as she speaks, as if reality responds to her declaration
+
+ACTIONS:
+- Tight illustrated close-up of child's face (Marigold) in teal-accented light, her lips forming the word
+- Behind her, the stone wall's geometry bends subtly, lines converging at impossible angles
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- breath exhaling slowly
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 94: Trust — Deep [12:24–12:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The space around him is perfectly balanced, lanterns equidistant on either side
+
+ACTIONS:
+- Illustrated symmetrical composition: tall thin figure (Mr
+- Flick) centered in frame, rendered in flat teal documentary style
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- footstep on wooden floor
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 95: Trust — Payoff [12:32–12:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The push-in ends on the iris reflection
+
+ACTIONS:
+- Extreme illustrated close-up of child's eyes blinking once, slowly
+- The iris reflects fragmented images: wire, lantern, elongated shadow
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- eyelid closing softly
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 96: Trust — Payoff [12:40–12:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm 4000K light removes harsh shadows
+
+ACTIONS:
+- Illustrated bedroom in muted pastel tones, child lying rigid in bed, blanket pulled to chin
+- Beneath the blanket's edge, the floorboards vibrate subtly, creating ripples in a glass of water on the nightstand
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- floorboard creaking rhythmically
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 97: Trust — Payoff [12:48–12:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Curtain shadows crawl across the paper like ink strokes, shifting from warm pastel into muted neutral tones
+
+ACTIONS:
+- A hand-drawn bedside notebook lies open, pages slightly curled, with a child’s careful handwriting and a trembling but steadying pencil grip implied by pressure marks
+- Numbers and phrases resolve physically: “37,” “1978,” and a traced outline of a small hand beside a cooler, smoother handprint stamp
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- pencil scratching paper, page turning, bedsprings creaking, curtain rings clicking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 98: Trust — Payoff [12:56–13:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Colors drain toward liminal neutrals while warm highlights remain on pulse lines
+
+ACTIONS:
+- Animated floorboards become the primary subject: faint rhythmic pulses travel through wood grain into a chalk-like vibration graph drawn directly on the planks, peaks settling into a calm repeating pattern
+- A child’s blanket edge curls inward at frame corner, suggesting guarded posture without showing a full face
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- floorboard creaking, fabric rustling, graphite tapping wood, distant pipe ticking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 99: Trust — Payoff [13:04–13:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+In the blurred background, bedroom linework and underground ring linework dissolve into each other, signaling internal shift without explicit choice
+
+ACTIONS:
+- A drawn mechanical compass-lock hybrid sits centered
+- Its needle resists
+- Slowly clicks into a new fixed bearing as interlocking tumblers realign on their own
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- metal click, spring tension release, wooden table tick, soft cloth drag
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 100: Anticipation — Payoff [13:12–13:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Empty ornate theater interior, single spotlight pool on stage, gold leaf details catching warm light, dust motes suspended in beam, atmosphere of hushed reverence and beauty realized
+
+ACTIONS:
+- Young girl in velvet theater seat, shoulders relaxed, hands folded in lap, eyes wide and unblinking, mouth slightly open in absorbed wonder
+- She sits motionless, gaze fixed forward, body language of complete surrender to what she witnesses
+
+CAMERA:
+Medium | Zoom out
+
+AUDIO:
+- velvet seat creak, distant stage mechanism click
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 101: Anticipation — Payoff [13:20–13:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm release gold blooms across muted tones
+
+ACTIONS:
+- The central subject is the circus ring itself: painted floor symbols tighten in frame
+- Pull back to show full animated performance geometry—flags, lantern arcs, and synchronized marks converging on the front row
+- A small seated silhouette remains still, shoulders open and chin lifted, physically absorbing beauty
+
+CAMERA:
+Medium | Zoom out
+
+AUDIO:
+- rope pulley squeak, fabric flag snap, lantern glass clink, wooden riser creak
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 102: Anticipation — Payoff [13:28–13:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Lighting moves from dramatic contrast into warm release
+
+ACTIONS:
+- Mr
+- Flick is centered in animated linework, shoulders squared, head tilted with a restrained expectant expression
+- One hand makes a single small beckoning gesture
+
+CAMERA:
+Medium | Zoom out
+
+AUDIO:
+- shoe leather scuff, coat fabric shift, cane tip tap, lantern hook creak
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 103: Trust — Payoff [13:36–13:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Muted neutral palette with gentle warm highlights sustains trust over fear
+
+ACTIONS:
+- Thirty-seven drawn performers in frozen ring poses form the primary subject, each body rigid, hands fixed, eyes locked forward
+- Only lanterns sway and flags ripple despite no visible wind
+- The camera tightens to compress their stillness into collective intent
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- lantern chain clinking, fabric flag flapping, shoe soles scraping sawdust, rope tension creaking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 104: Trust — Payoff [13:44–13:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Wide tableau, very slow confirming push-in
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- forty-six years
+
+ACTIONS:
+- A literal time-measurement installation dominates: split-flap date boards flip from 1978 through decades to 2024 while a bold counter settles on “46 YEARS,” embedded above the ring where thirty-seven fixed silhouettes keep performing
+- A tiny child silhouette at a doorway remains upright, shoulders relaxed, witnessing the scale
+
+CAMERA:
+Wide | Slow push-in
+
+AUDIO:
+- split-flap cards rattling, clock escapement ticking, stage board creaking, fabric pennants snapping
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 105: Trust — Payoff [13:52–14:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Muted carnival corridor in hand-drawn cinematic documentary style, warm-neutral 4000K glow, still air of earned trust
+
+ACTIONS:
+- Marigold centered, shoulders lowered, jaw unclenched, one fist loosening into an open palm beside her chest
+- She presses her hand flat to her sternum
+- Nods once in calm commitment, completing the “I’ll stay” decision
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- fabric rustle, fingertip tap on coat button, single boot scuff on wooden floor
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 106: Trust — Payoff [14:00–14:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Drawn subterranean ring entrance with muted timeless hues, warm-revealed but controlled, trust edged with strangeness
+
+ACTIONS:
+- Mr
+- Flick’s face fills frame
+- Neck upright, eyes steady, cheeks lifting into an unnaturally smooth smile while his shadow lags a beat behind
+
+CAMERA:
+Extreme Close-up | Slow push-in
+
+AUDIO:
+- shoe heel click, collar fabric stretch, cane tip tap on plank
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 107: Trust — Payoff [14:08–14:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+He gives a minimal ceremonial bow, then holds still as the ring signage lamps ignite in sequence, embodying “the show must go on.” Hand-drawn carnival ring in balanced warm-neutral palette, composed and ritual-like
+
+ACTIONS:
+- Ringmaster podium as primary subject
+- Mr
+- Flick stands erect, chin slightly dipped, hands clasped behind back, expression serene and certain
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- spotlight switch clicks, banner pulley creak, polished shoe pivot on sawdust
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 108: Trust — Payoff [14:16–14:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Hand-drawn cinematic documentary arena, muted timeless tones, warm highlights on skin and reins, trust as belonging
+
+ACTIONS:
+- The circus ring dominates frame
+- Performers’ torsos upright and synchronized, horses with flared nostrils and controlled strides, Celestine’s long hand reaching calmly to Marigold’s trembling fingers
+- They clasp hands and settle into matching pace as choreography closes around them
+
+CAMERA:
+Medium | Crane
+
+AUDIO:
+- hoofbeats on packed dirt, harness jingle, satin sleeve swish, hand clasp squeeze
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 109: Trust — Payoff [14:24–14:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Hand-drawn cutaway house-and-carnival strata, muted neutral hues, gentle trust under separation
+
+ACTIONS:
+- Split environment: above, mother leans over an open trapdoor, back bent and fingers gripping the frame
+- Below, Marigold stands still with chin lifted, eyes wet but calm
+- Dust trickles from the ceiling as the call from above is felt but not answered
+
+CAMERA:
+Wide | Slow push-in
+
+AUDIO:
+- floorboard creak, trapdoor hinge squeak, dust grains pattering on canvas
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 110: Trust — Payoff [14:32–14:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Hand-drawn cinematic documentary panels with muted, flattening tones and calm pacing
+
+ACTIONS:
+- A procedural search path unfolds: empty bedroom sheets pulled back, yard gate swinging, rotary phone gripped white-knuckled, flashlight beam entering a tunnel
+- Beam crossing bare rock where no carnival appears
+- Mother’s shoulders tighten while each step completes in sequence, ending on a fixed tunnel void
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- drawer slam, gate latch clack, phone dial ticks, flashlight switch click, gravel crunch
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 111: Trust — Payoff [14:40–14:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Hand-drawn documentary schematic aesthetic, muted timeless palette, calm certainty beneath urgency
+
+ACTIONS:
+- The house plan and tunnel map are visible simultaneously
+- Mother and two officers move in brisk zigzags above and below, postures tense and forward-leaning, while the carnival layer beneath remains geometrically still and untouched
+- Their search loops repeat and terminate at blank tunnel walls, never crossing into the hidden ring
+
+CAMERA:
+Medium | Orbit
+
+AUDIO:
+- radio button click, bootsteps on stairs, flashlight casing knock, notebook page flip
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 112: Trust — Payoff [14:48–14:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Hand-drawn cinematic documentary look, muted neutral final hues, near-still acceptance
+
+ACTIONS:
+- Upstairs doorway stands open, curtains barely lifted
+- Below, hard cut reveals the underground ring entrance already closed, Marigold’s silhouette upright and composed, hands relaxed at her sides, gaze forward
+- Spatial certainty breaks as both places feel true yet inaccessible to each other
+
+CAMERA:
+Wide | Slow push-in
+
+AUDIO:
+- door latch tick, curtain rings scrape on rod, distant stair step thud, tunnel stone pebble drop
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 113: Trust — Payoff [14:56–15:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Muted pastel bedroom corner, still air, safe and liminal, emotional resolution
+
+ACTIONS:
+- Animated Marigold holds a soft upright posture
+- Eyes drift out of focus
+- Return with a faint delayed smile
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- floorboard creak, sweater fabric rustle, small inhale through nose
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 114: Trust — Payoff [15:04–15:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+In her bedroom, warm final revealing light at 4000K washes pastel walls and worn wood, calm and safe atmosphere
+
+ACTIONS:
+- Marigold stands upright with softened eyes, relaxed jaw, and one open palm pressed to her chest, trusting half-smile forming
+- Her pendant lightly taps her sternum as she closes her eyes and surrenders to an inner rhythm while faint ceiling movement above becomes visually secondary
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- pendant chain tick on sternum, cotton shirt rustle, floorboard creak, distant stair tread thud
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 115: Trust — Payoff [15:12–15:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm 4000K light from above creates soft gradient, muted pastel-to-cool palette, minimal architectural detail
+
+ACTIONS:
+- Animated over-shoulder perspective: drawn girl (Marigold) facing away toward unseen ceiling above, head tilted upward, one hand pressed flat against her chest, other arm hanging small at her side
+- Posture contracted, shoulders drawn inward, whisper visible in slight mouth movement
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- fingertips tapping fabric
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 116: Trust — Payoff [15:20–15:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Timeless muted architecture stretches endlessly, quiet but not hostile, final acceptance atmosphere
+
+ACTIONS:
+- Animated Marigold stands tiny at center, shoulders settled, chin slightly lifted, face calm with resigned trust
+- The impossible corridor bends away in repeating frames while she remains still, showing the irreversible truth in her posture
+
+CAMERA:
+Wide | Slow push-in
+
+AUDIO:
+- bare footsteps stop, coat hem brushing wall, distant hinge click, dust grains skittering on tile
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 117: Trust — Payoff [15:28–15:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Muted timeless palette
+
+ACTIONS:
+- Animated drawn portrait: Marigold (6-year-old girl) centered, face lit with childlike pride, genuine smile, eyes bright, posture upright and open
+- Behind her, symmetrically framed, two illustrated uncanny figures—elongated proportions, too-still postures, faces slightly wrong, hands positioned identically
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- wooden chair scraping floor
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 118: Trust — Payoff [15:36–15:41]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Desaturated timeless void-like threshold and stone floor, calm yet inescapable resolution
+
+ACTIONS:
+- Animated Marigold appears very small, knees slightly bent and hands relaxed at her sides, watching with steady, unblinking focus
+- The impossible doorway remains visibly open without movement, never meeting frame edges, making permanence undeniable
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- metal latch tapping, door edge rubbing stone, single pebble drop, shoe sole scrape
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+════════════════════════════════════════════════════════════════
+[END SCENE PROMPTS]
+════════════════════════════════════════════════════════════════
