@@ -1,0 +1,2144 @@
+════════════════════════════════════════════════════════════════
+[CHARACTERS Description]
+════════════════════════════════════════════════════════════════
+
+PROJECT: They_thought_they_were_seeing_the_universe_s_boundary__They_were_wrong
+
+RATIO: 16:9
+
+--------------------------------------------------
+STYLE (DETAILED - MANDATORY):
+
+- Style Directive: Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1
+
+- Medium: Live-action / Cinematic
+
+- Visual Style:
+  - Photorealistic textures with accurate material response
+  - Observational documentary framing — restrained and credible
+  - Cinematic composition with depth and motivated framing
+  - Anamorphic 2.39:1 framing language adapted to delivery ratio
+  - 8K capture-grade detail with deep blacks and clean highlights
+  - HDR contrast — preserved highlights, nuanced shadows
+
+- Character Design:
+  Semi-realistic figures
+
+- Materials & Textures:
+  [e.g. Flat colors only / Cel-shaded with soft shadow / Painterly with visible brushwork]
+
+- Lighting:
+  Volumetric lighting with visible light shafts
+
+- Color Palette:
+  [Define color roles — e.g. Red = danger, Yellow = energy, Blue = calm, Black outline for clarity]
+
+- Rendering Quality:
+  [e.g. Crisp, clean, high-definition / Slightly grainy retro / Hyper-smooth anime-style]
+
+- Motion Feel:
+  [e.g. Smooth action-driven / Bouncy exaggerated / Slow cinematic / Snappy cut-driven]
+
+- Overall Impression:
+  [One paragraph — what should viewers FEEL when watching? What is the visual "brand" of this project?]
+
+--------------------------------------------------
+TONE:
+[Overall emotional register — e.g. High tension, urgent, dramatic / Dark comedic, absurdist / Warm and nostalgic / Energetic and hype]
+[Detected dominant emotion (auto, for reference): Trust]
+
+--------------------------------------------------
+RENDERING RULES:
+
+- [Rule 1 — e.g. NO TEXT, NO LETTERS, NO SYMBOLIC WORDS in any scene]
+- [Rule 2 — e.g. Story must be conveyed entirely through visuals and expressions]
+- [Rule 3 — e.g. Each scene must have a clear visual conflict or action beat]
+- [Rule 4 — e.g. Only include characters explicitly required in each scene]
+- [Rule 5 — e.g. No background crowd, no unnecessary props]
+- [Add more rules as needed]
+
+--------------------------------------------------
+CHARACTERS (LOCKED):
+
+- Character 1: Asteroid Psyche
+  [Physical description — face shape, skin tone, eye style — fill in]
+  [Hair — color #HEX, length, style — fill in]
+  [Default outfit — top, bottom, shoes, accessories — fill in]
+  [Signature trait — what makes them instantly recognizable — fill in]
+  [Expression range — what emotions they show most — fill in]
+
+- Character 2: Valles Marineris
+  [Physical description — face shape, skin tone, eye style — fill in]
+  [Hair — color #HEX, length, style — fill in]
+  [Default outfit — top, bottom, shoes, accessories — fill in]
+  [Signature trait — what makes them instantly recognizable — fill in]
+  [Expression range — what emotions they show most — fill in]
+
+- Character 3: Olympus Mons
+  [Physical description — face shape, skin tone, eye style — fill in]
+  [Hair — color #HEX, length, style — fill in]
+  [Default outfit — top, bottom, shoes, accessories — fill in]
+  [Signature trait — what makes them instantly recognizable — fill in]
+  [Expression range — what emotions they show most — fill in]
+
+- Character 4: Psyche
+  [Physical description — face shape, skin tone, eye style — fill in]
+  [Hair — color #HEX, length, style — fill in]
+  [Default outfit — top, bottom, shoes, accessories — fill in]
+  [Signature trait — what makes them instantly recognizable — fill in]
+  [Expression range — what emotions they show most — fill in]
+
+- [Add unnamed characters (narrator, crowd, etc.) here if needed]
+
+--------------------------------------------------
+ENVIRONMENT (GLOBAL):
+
+[Default background / world setting for the entire project]
+[e.g. Minimal clean background, soft gradient sky / Neon-lit urban rooftop / Pastel fantasy kingdom]
+[Note: individual scenes can override this with their own ENVIRONMENT field]
+
+[Detected scene environments (auto, for reference):]
+  - Surrounding void is vast and empty, scattered with faint starfield
+  - Deep space beyond glows with scattered starlight, volumetric god rays streaming from the distant Sun
+  - Star trails streak past in background, indicating extreme speed
+  - HUD overlay displays velocity readout: 12,333 mph, altitude decreasing
+  - Deep space environment, black void with scattered starfield, metallic silvers and bronze highlights on spacecraft contrasting with Mars's warm tones
+  - Surrounding asteroids are dull stone; the metallic object stands out
+  - Warm amber rim light from distant Sun, deep space backdrop rich with stars
+  - Right half: Asteroid 16 Psyche rotating slowly in deep space, metallic surface catching light
+  - Primordial solar system swirling with incandescent protoplanetary disk, molten oranges and deep reds glowing through volumetric dust clouds
+  - Molten rock peels away in sheets, revealing iron-nickel interior that catches harsh light
+  - Volumetric atmosphere dissipates as surface cools
+  - Catastrophic final collision strips away remaining rocky mantle in explosive wave, exposing naked metallic core spinning alone in space
+
+--------------------------------------------------
+GOAL:
+[Optional — one sentence stating the visual storytelling goal of the entire video]
+[e.g. "Make the audience feel the tension of nuclear deterrence without using any text or narration"]
+
+════════════════════════════════════════════════════════════════
+[END CHARACTERS Description]
+════════════════════════════════════════════════════════════════
+
+
+════════════════════════════════════════════════════════════════
+SCENE PROMPTS
+════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────
+🎬 SCENE 01: Sadness — Hook [00:00–00:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Surrounding void is vast and empty, scattered with faint starfield
+
+ACTIONS:
+- Asteroid 16 Psyche drifts alone in deep space, backlit by distant Sun, metallic surface catching faint light in scattered glints
+- The asteroid rotates slowly, revealing cratered, dull iron-nickel terrain
+
+CAMERA:
+Wide | Slow push-in
+
+AUDIO:
+- faint metallic creaking, distant solar wind hiss
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 02: Trust — Hook [00:08–00:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep space beyond glows with scattered starlight, volumetric god rays streaming from the distant Sun
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 333 miles
+- 800 miles
+- three years
+
+ACTIONS:
+- Spacecraft hull gleaming under soft sunlight, solar panels extended in confident symmetry, attitude thrusters firing in precise micro-bursts
+- Mars fills the lower frame in warm ochre and rust tones, surface features sharp and inviting
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- thruster pulses firing, solar panel servos adjusting, metal hull creaking under thermal stress
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 03: Trust — Hook [00:16–00:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Star trails streak past in background, indicating extreme speed
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 333 miles
+- 800 miles
+- three years
+
+ACTIONS:
+- Spacecraft hull fills frame, metallic surface panels reflecting starlight
+- Rivets and seams are visible in sharp detail
+
+CAMERA:
+Close-up | Handheld
+
+AUDIO:
+- hull stress creaking, thruster valve clicks, metal expansion pops
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 04: Trust — Hook [00:24–00:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+HUD overlay displays velocity readout: 12,333 mph, altitude decreasing
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 333 miles
+- 800 miles
+- three years
+
+ACTIONS:
+- Mars grows larger in frame, filling lower third with rust-red surface detail
+- Thin atmosphere glows faintly at limb
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- navigation computer beeping, gyroscope whirring, data transmission clicks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 05: Trust — Hook [00:32–00:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep space environment, black void with scattered starfield, metallic silvers and bronze highlights on spacecraft contrasting with Mars's warm tones
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- The spacecraft
+
+ACTIONS:
+- Psyche spacecraft in sharp focus center frame, Mars defocused in background as blurred rust-orange sphere
+- Solar arrays catch direct sunlight creating natural lens flare, spacecraft's body shows NASA mission markings and instrument packages
+
+CAMERA:
+Medium | Tracking
+
+AUDIO:
+- solar array servo motors, spacecraft hull creaking, gyroscope spinning
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 06: Trust — Hook [00:40–00:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Surrounding asteroids are dull stone; the metallic object stands out
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 4.5 billion years
+- 173 miles
+
+ACTIONS:
+- Asteroid belt stretches across frame, countless grey and brown rocks drifting in silence
+- Camera searches through debris field, passing several unremarkable asteroids
+
+CAMERA:
+Wide | Slow push-in
+
+AUDIO:
+- faint micrometeorite impacts, distant solar wind, ice sublimation hiss
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 07: Trust — Hook [00:48–00:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm amber rim light from distant Sun, deep space backdrop rich with stars
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 4.5 billion years
+- 173 miles
+
+ACTIONS:
+- Psyche asteroid rotating in center frame, 173-mile diameter scale bar overlaid in crisp white text
+- Metallic surface catches sunlight in bronze and silver highlights, craters and ridges casting soft shadows
+
+CAMERA:
+Wide | Orbit
+
+AUDIO:
+- metal surface pinging from temperature shifts, small debris impacts on crater walls, asteroid rotation grinding
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 08: Trust — Hook [00:56–01:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Right half: Asteroid 16 Psyche rotating slowly in deep space, metallic surface catching light
+
+ACTIONS:
+- Left half: Psyche spacecraft sweeping past Mars, amber planet filling frame, trajectory arc visible
+- Right half: Asteroid 16 Psyche rotating slowly in deep space, metallic surface catching light
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- spacecraft thruster pulses left channel, asteroid surface creaking right channel
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 09: Trust — Hook [01:04–01:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Primordial solar system swirling with incandescent protoplanetary disk, molten oranges and deep reds glowing through volumetric dust clouds
+
+ACTIONS:
+- Primordial solar system swirling with incandescent protoplanetary disk, molten oranges and deep reds glowing through volumetric dust clouds
+- Massive planetesimals tumble slowly through frame, surfaces still cooling from formation, trailing faint vapor
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- distant rumbling impacts, debris scraping metal, faint hissing gas venting
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 10: Trust — Hook [01:12–01:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Molten rock peels away in sheets, revealing iron-nickel interior that catches harsh light
+
+ACTIONS:
+- Two planetesimals collide in slow motion, outer rocky mantles exploding outward in cascading magma sprays, exposing gleaming metallic cores beneath
+- Volumetric nebula clouds glow orange and crimson, backlit by stellar radiation
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- deep metallic groaning, rock fracturing and splitting, molten material splattering
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 11: Trust — Hook [01:20–01:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Volumetric atmosphere dissipates as surface cools
+
+ACTIONS:
+- Molten proto-planet surface cooling in real-time, incandescent cracks forming geometric patterns as crust solidifies
+- HDR captures temperature gradients from white-hot fissures to cooling gray-black crust
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- crackling cooling rock, deep subsurface rumbling, thermal stress popping and snapping
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 12: Trust — Hook [01:28–01:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Catastrophic final collision strips away remaining rocky mantle in explosive wave, exposing naked metallic core spinning alone in space
+
+ACTIONS:
+- Catastrophic final collision strips away remaining rocky mantle in explosive wave, exposing naked metallic core spinning alone in space
+- Debris field expands outward in all directions, rocky fragments tumbling away while iron-nickel heart remains intact, surface scarred and pitted
+
+CAMERA:
+Wide | Zoom out
+
+AUDIO:
+- massive impact boom, debris whistling past, metal ringing and resonating
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 13: Surprise — Hook [01:36–01:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Asteroid Psyche rotates in deep space, its metallic surface catching faint sunlight — pockmarked craters and jagged ridges visible
+
+ACTIONS:
+- Asteroid Psyche rotates in deep space, its metallic surface catching faint sunlight — pockmarked craters and jagged ridges visible
+- Holographic data overlays flicker across the frame: spectral analysis graphs, question marks, incomplete readouts
+
+CAMERA:
+Wide | Zoom out
+
+AUDIO:
+- faint metallic creaking, digital beeps from overlays
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 14: Trust — Hook [01:44–01:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Each spacecraft shown in moment of closest approach, instruments pointed at target
+
+ACTIONS:
+- Vintage NASA footage aesthetic with film grain: Voyager spacecraft passing Jupiter, golden record visible on side
+- Quick cut to Cassini approaching Saturn's rings, sunlight glinting off solar panels
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- vintage telemetry beeping, mechanical gyroscope whirring, thruster firing pulses
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 15: Trust — Hook [01:52–02:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Planets shown to scale, spacecraft icons travel along paths
+
+ACTIONS:
+- Clean infographic animation over star field: three historic gravity assist trajectories rendered as glowing curved paths—Voyager's Jupiter slingshot in blue, Cassini's Venus-Earth-Jupiter sequence in amber, New Horizons' Jupiter flyby in silver
+- Each path shows velocity vectors and closest approach markers
+
+CAMERA:
+Medium | Orbit
+
+AUDIO:
+- soft whooshing trajectory sounds, digital interface clicks, orbital calculation processing tones
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 16: Trust — Hook [02:00–02:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The frame is clean, professional, bathed in soft flattering 3-point lighting that emphasizes the spacecraft's purposeful design
+
+ACTIONS:
+- Psyche spacecraft's instrument bay in sharp focus, solar arrays catching warm 3800K light against the soft amber glow of Mars in the distant background
+- The spacecraft's metallic surfaces reflect subtle golden highlights, conveying quiet confidence and precision
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- faint mechanical hum of gyroscopes stabilizing, soft click of instrument calibration
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 17: Trust — Build Up [02:08–02:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep space backdrop with distant stars, volumetric light rays cutting through the solar array gaps
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- The spacecraft
+
+ACTIONS:
+- The Psyche spacecraft floats in frame, solar arrays extending outward in precise mechanical motion, metallic surfaces catching direct sunlight
+- Blue ion thruster nozzles glow softly at the rear, xenon plasma visible as faint luminous streams
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- solar array servos clicking, thruster ignition snap, xenon gas release hiss
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 18: Trust — Build Up [02:16–02:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Anamorphic bokeh background, deep space black with distant star field out of focus
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- The spacecraft
+
+ACTIONS:
+- Xenon ion thruster nozzle in 8K detail, blue plasma stream ejecting from the grid, heat distortion rippling across metallic surfaces
+- Thruster grid glows with electric blue light, individual xenon ions visible as streaks
+
+CAMERA:
+Extreme Close-up | Static
+
+AUDIO:
+- plasma crackle, thruster grid vibration
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 19: Trust — Build Up [02:24–02:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep space backdrop, cool blues transitioning to warmer amber glow near Mars
+
+ACTIONS:
+- Mars looms large in frame, rust-red surface with polar ice caps visible, spacecraft approaching from lower left corner
+- Orbital trajectory line animates across the frame in white, curving toward the planet's gravity well
+
+CAMERA:
+Wide | Slow push-in
+
+AUDIO:
+- spacecraft thruster pulse, trajectory calculation beep
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 20: Trust — Build Up [02:32–02:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep space environment, cool blues with growing amber warmth from Mars
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- twelve hours
+
+ACTIONS:
+- Psyche spacecraft thrusters firing blue-white plumes continuously, star trails streaking across background indicating twelve-hour burn duration
+- Mars grows incrementally larger in the distance, shifting from small disc to prominent sphere
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- thruster continuous burn, star trail whoosh
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 21: Trust — Build Up [02:40–02:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep space black background, volumetric lighting emphasizes vapor density
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- twelve hours
+
+ACTIONS:
+- Spacecraft thruster nozzle glowing orange-white with heat, propellant vapor expanding outward in slow motion, 8K HDR captures heat distortion waves and metallic reflections on nozzle surface
+- Thruster holds firing posture, vapor plume billowing with visible turbulence
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- thruster roar, metal stress creak
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 22: Trust — Build Up [02:48–02:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Mars appears as a distant amber crescent in the background, growing imperceptibly larger
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- twelve hours
+
+ACTIONS:
+- Psyche spacecraft's thruster nozzle glows intense orange-white, propellant vapor expanding outward in rippling heat distortion waves
+- Metallic reflections dance across the spacecraft's titanium body as the twelve-hour burn continues
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- thruster roar intensifying, metal creaking under thermal stress, propellant hissing
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 23: Trust — Build Up [02:56–03:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm amber and gold tones illuminate Mars, cool blues in deep space beyond
+
+ACTIONS:
+- Mars dominates frame, rust-red surface with Valles Marineris visible, spacecraft trajectory arc bending around the planet in white motion trail
+- Gravitational slingshot visualization overlays the scene, velocity vectors extending from spacecraft
+
+CAMERA:
+Wide | Pan
+
+AUDIO:
+- gravitational field resonance, trajectory arc whoosh
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 24: Trust — Build Up [03:04–03:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cool blues and warm amber tones, clean technical aesthetic
+
+ACTIONS:
+- Animated spacecraft path curving past Mars in white arc, velocity vectors overlaid in blue and orange showing speed increase and trajectory tilt
+- Mars rendered as photorealistic sphere on left, asteroid belt indicated as scattered points on right
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- trajectory calculation beep, vector lock tone
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 25: Trust — Build Up [03:12–03:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+ACTIONS:
+- Psyche spacecraft instrument bay in sharp focus, protective panels retracting to reveal camera booms and sensor arrays extending outward
+- Mechanical arms unfold with precision, Mars glowing amber in deep background
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- mechanical servo motors whirring, metal panels sliding open, latch mechanisms clicking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 26: Trust — Build Up [03:20–03:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep space stars static in background
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- The spacecraft
+
+ACTIONS:
+- Mars crescent edge-on from spacecraft POV, thin silver arc of scattered sunlight defining planet limb against black void
+- Martian atmosphere glows pale blue-white along terminator
+
+CAMERA:
+Wide | Slow push-in
+
+AUDIO:
+- faint electrical hum from solar panels, attitude control thrusters firing brief pulses
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 27: Trust — Build Up [03:28–03:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Spacecraft antenna array in foreground tracking planet
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- The spacecraft
+
+ACTIONS:
+- Mars disk expanding rapidly in frame, surface features resolving—Olympus Mons shadow, Valles Marineris canyon system emerging
+- Atmospheric haze layers visible at limb
+
+CAMERA:
+Medium | Tracking
+
+AUDIO:
+- gyroscope spin-up whine, reaction wheel acceleration, data transmission beeps
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 28: Trust — Build Up [03:36–03:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+POV from spacecraft imager, slow zoom
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- The spacecraft
+
+ACTIONS:
+- Mars surface filling viewfinder display—rust-red terrain, polar ice cap edge, dust storm swirl patterns
+- Autofocus brackets locking onto Olympus Mons caldera
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- camera shutter mechanism cycling, lens aperture blades adjusting, focus motor stepping
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 29: Surprise — Build Up [03:44–03:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+ACTIONS:
+- Psyche spacecraft imager camera lens assembly in sharp focus, internal filter wheel rotating through color positions—red, green, blue filters cycling
+- Mars reflection visible in lens glass
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- filter wheel stepper motor clicking, calibration LED beeps, lens element micro-adjustments
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 30: Surprise — Build Up [03:52–04:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+ACTIONS:
+- Spacecraft display screen showing Mars test image sharpening in real-time—resolution increasing, color saturation adjusting, contrast optimizing
+- Split-screen shows raw vs
+
+CAMERA:
+Medium | Crane
+
+AUDIO:
+- image processing algorithms cycling, data buffer writes, display refresh pulses
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 31: Trust — Build Up [04:00–04:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Mars in background
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- gamma-ray
+
+ACTIONS:
+- Invisible magnetic field lines rendered as flowing blue-white particle streams emanating from Mars, curving through space
+- Psyche magnetometer boom sensor head detecting flux—LED indicators pulsing in sync with field strength
+
+CAMERA:
+Medium | Orbit
+
+AUDIO:
+- magnetometer sensor coil hum, data acquisition clicks, field strength indicator beeps
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 32: Trust — Build Up [04:08–04:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- gamma-ray
+
+ACTIONS:
+- Magnetometer sensor head in sharp focus, cylindrical coil assembly with LED status indicators pulsing green
+- Integrated mini-display showing real-time magnetic field strength graph—waveform spiking as spacecraft passes through Mars magnetosphere
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- sensor coil electromagnetic hum, graph display refresh ticks, LED status beeps
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 33: Trust — Build Up [04:16–04:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clean NASA mission control aesthetic, 8K HDR clarity, volumetric light rays cutting through deep space backdrop
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- gamma-ray
+
+ACTIONS:
+- Split-screen composition: left panel displays real-time magnetometer readout with fluctuating field strength graphs in cyan and white
+- Right panel shows Mars's rust-red surface with invisible magnetic field lines rendered as faint blue contours overlaying terrain features
+- Data points synchronize as numbers update on left, corresponding regions pulse subtly on right
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- keyboard clicking, console beeping, data stream chirping
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 34: Trust — Build Up [04:24–04:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Mars glows amber-red in mid-ground, spacecraft silhouette crossing terminator line
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- gamma-ray
+
+ACTIONS:
+- Psyche spacecraft passing through Mars magnetosphere boundary, volumetric magnetic field lines visualized as rippling blue-white energy curtains, instrument boom fully extended cutting through invisible field structure
+- Mars glows amber-red in mid-ground, spacecraft silhouette crossing terminator line
+
+CAMERA:
+Wide | Orbit
+
+AUDIO:
+- electrical crackling, magnetic field interference static, boom extension lock clunk
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 35: Trust — Build Up [04:32–04:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Final frames: modern Psyche spacecraft approaching from distance, scale of time collapsing
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 4.5 billion years
+
+ACTIONS:
+- Primordial solar nebula swirling in deep blues and grays, condensing into planetary disk, Psyche asteroid coalescing as bright metallic point, 4.5 billion years compressed into seconds as stars wheel overhead, asteroid drifts unchanged through eons
+- Final frames: modern Psyche spacecraft approaching from distance, scale of time collapsing
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- nebula gas whoosh, planetary formation rumble, time-lapse wind rush
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 36: Trust — Build Up [04:40–04:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The belt drifts in serene, methodical motion
+
+ACTIONS:
+- The main asteroid belt stretches across frame in soft golden sunlight, thousands of tumbling rocks in lazy orbit
+- Camera isolates one metallic body among the swarm — 16 Psyche — its surface catching warm amber light, distinctly brighter and more reflective than its neighbors
+
+CAMERA:
+Wide | Slow push-in
+
+AUDIO:
+- faint metallic pings, distant rock tumbles
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 37: Trust — Build Up [04:48–04:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Psyche asteroid rotating center frame, irregular potato-shaped body 173 miles across, Massachusetts state outline overlay fading in for scale comparison, cratered metallic surface catching direct sunlight, bronze and silver tones dominating, anamorphic framing emphasizing width
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 173 miles
+- three times
+
+ACTIONS:
+- Psyche asteroid rotating center frame, irregular potato-shaped body 173 miles across, Massachusetts state outline overlay fading in for scale comparison, cratered metallic surface catching direct sunlight, bronze and silver tones dominating, anamorphic framing emphasizing width
+
+CAMERA:
+Medium | Orbit
+
+AUDIO:
+- asteroid rotation whoosh, scale overlay digital chime, surface texture scrape
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 38: Trust — Build Up [04:56–05:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Camera circles Psyche asteroid, irregular cratered surface revealed in full rotation, metallic terrain catching harsh sunlight creating high-contrast shadows in impact craters, volumetric space dust particles drifting through frame, bronze-silver surface texture showing pitted metal rather than stone
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 173 miles
+- three times
+
+ACTIONS:
+- Camera circles Psyche asteroid, irregular cratered surface revealed in full rotation, metallic terrain catching harsh sunlight creating high-contrast shadows in impact craters, volumetric space dust particles drifting through frame, bronze-silver surface texture showing pitted metal rather than stone
+
+CAMERA:
+Medium | Tracking
+
+AUDIO:
+- orbital thruster puffs, surface texture scrape, space dust particle impacts
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 39: Trust — Build Up [05:04–05:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Psyche asteroid center frame, spectral analysis graph overlaying surface in translucent amber HUD, metal signature peaks highlighted as wavelength data scrolls, radar return pulses emanating from surface showing density readings, anomalous iron-nickel composition values resolving on readout
+
+ACTIONS:
+- Psyche asteroid center frame, spectral analysis graph overlaying surface in translucent amber HUD, metal signature peaks highlighted as wavelength data scrolls, radar return pulses emanating from surface showing density readings, anomalous iron-nickel composition values resolving on readout
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- spectral scanner beeps, radar ping returns, data processing clicks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 40: Trust — Build Up [05:12–05:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Psyche surface transitioning between visual and false-color spectral view, metallic terrain shifting through wavelength filters—visible light showing bronze-silver, infrared revealing iron-red hotspots, ultraviolet highlighting nickel-blue concentrations, compositional map resolving layer by layer
+
+ACTIONS:
+- Psyche surface transitioning between visual and false-color spectral view, metallic terrain shifting through wavelength filters—visible light showing bronze-silver, infrared revealing iron-red hotspots, ultraviolet highlighting nickel-blue concentrations, compositional map resolving layer by layer
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- wavelength filter clicks, spectral transition whoosh, compositional data lock beeps
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 41: Trust — Build Up [05:20–05:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+ACTIONS:
+- Photorealistic cross-section of asteroid 16 Psyche rotating in space, metallic iron-nickel surface gleaming under distant sunlight, camera reveals exposed core layers in bronze and silver tones
+- Deep space backdrop with faint starfield, volumetric light catching metallic texture
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- metallic surface creaking under thermal stress
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 42: Trust — Build Up [05:28–05:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cool teal accent light from lab equipment
+
+ACTIONS:
+- Metallic iron-nickel sample specimen rotating clockwise, 8K HDR captures crystalline grain structure and faceted surface
+- Light rakes across polished metal revealing microscopic striations and inclusions
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- sample rotating on motorized stage, faint electronic beep
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 43: Trust — Deep [05:36–05:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep space silence, no motion except gradual magnification
+
+ACTIONS:
+- 16 Psyche asteroid isolated in center frame against star field, irregular potato-shaped body with pockmarked metallic surface
+- Camera slow zoom emphasizing jagged contours and uneven terrain
+
+CAMERA:
+Wide | Slow push-in
+
+AUDIO:
+- faint solar wind static, distant micrometeorite impacts
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 44: Trust — Deep [05:44–05:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+ACTIONS:
+- Photorealistic cutaway animation of molten protoplanet 4.5 billion years ago, glowing orange iron-nickel core sinking through semi-transparent mantle, lighter silicate rocks rising to form thin crust
+- Camera holds steady as differentiation process unfolds in cross-section, volumetric magma glow illuminating internal structure
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- molten rock bubbling and shifting inside planetary body
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 45: Trust — Deep [05:52–06:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary aesthetic, 8K HDR, volumetric lighting, anamorphic lens 2.39:1
+
+ACTIONS:
+- Animated cutaway of protoplanet interior, heavy metallic elements sinking toward core in slow motion
+- Camera pushes forward through translucent mantle layers, 8K HDR captures molten iron-nickel droplets descending through lighter silicate magma
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- heavy metal sinking through liquid, viscous flow
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 46: Trust — Deep [06:00–06:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+ACTIONS:
+- Photorealistic cross-section of fully differentiated protoplanet suspended in space, distinct iron-nickel core in bronze, thick orange mantle layer, thin gray silicate crust clearly separated
+- Camera tracks laterally revealing complete internal architecture, anamorphic depth of field isolating planetary body against black space
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- deep planetary rumble as core settles into equilibrium
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 47: Trust — Deep [06:08–06:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep space backdrop
+
+ACTIONS:
+- Protoplanet core solidified, glowing orange fades to dull metallic gray over duration
+- Camera holds perfectly steady as surface temperature drops, volumetric heat dissipation visible as shimmering air
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- metal cooling and contracting, faint creaking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 48: Trust — Deep [06:16–06:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary aesthetic, 8K HDR, volumetric lighting, anamorphic lens 2.39:1
+
+ACTIONS:
+- Massive irregular asteroid hurtling toward protoplanet through dense debris field, velocity trails visible
+- Camera tracks alongside impactor as it closes distance, 8K HDR captures scale and speed
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- asteroid rushing through space, debris colliding
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 49: Trust — Deep [06:24–06:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep space backdrop, asteroid fragments tumbling through frame
+
+ACTIONS:
+- Protoplanet crust fractures under collision, shockwave ripples radiate outward through rocky surface, debris explodes in all directions
+- Anamorphic lens flare from impact flash, volumetric dust clouds billow
+
+CAMERA:
+Extreme Close-up | Static
+
+AUDIO:
+- rock cracking, debris scattering, impact thud
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 50: Trust — Deep [06:32–06:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+ACTIONS:
+- Protoplanet mantle and outer crust torn away by successive impacts, metallic core gradually exposed beneath fragmenting layers
+- Camera orbits destruction site, volumetric debris clouds drift past lens
+
+CAMERA:
+Medium | Orbit
+
+AUDIO:
+- rock tearing, metal scraping, debris tumbling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 51: Trust — Deep [06:40–06:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+ACTIONS:
+- Naked metallic core tumbles alone in deep space, debris field receding into distance behind it
+- Exposed iron-nickel surface reflects distant sunlight, crater-pocked and scarred
+
+CAMERA:
+Wide | Slow push-in
+
+AUDIO:
+- metallic creaking, faint tumbling rotation
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 52: Trust — Deep [06:48–06:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+ACTIONS:
+- Psyche spacecraft approaches exposed metallic core, solar arrays extended, antenna dish pointed forward
+- Camera tracks alongside spacecraft, matching velocity
+
+CAMERA:
+Medium | Tracking
+
+AUDIO:
+- spacecraft thruster firing, solar array creaking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 53: Trust — Deep [06:56–07:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 800 miles
+
+ACTIONS:
+- Earth cross-section cutaway, camera descends through crust and mantle toward glowing red core 1,800 miles below
+- Layers labeled with depth markers, core highlighted and unreachable
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- seismic rumble, rock grinding, pressure hiss
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 54: Trust — Deep [07:04–07:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 800 miles
+
+ACTIONS:
+- Cross-section cutaway of Earth's interior, camera positioned at shallow crust layer 800 miles from surface, looking down toward unreachable glowing core far below
+- Metallic core radiates faint orange light through translucent mantle layers, seismic wave lines pulse slowly outward
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- deep rumbling seismic waves, faint metallic resonance from core
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 55: Trust — Deep [07:12–07:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 800 miles
+
+ACTIONS:
+- Split screen composition: left side shows Earth cutaway with hidden glowing core, right side shows Psyche's exposed metallic core in space
+- Camera slowly zooms into Psyche side, emphasizing accessibility and visibility
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- metallic resonance, faint orbital hum
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 56: Anticipation — Deep [07:20–07:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm-lit NASA control room bathed in 3300K amber glow from monitors, shadows deepening across consoles
+
+ACTIONS:
+- Mission control operator leans forward, eyes narrowed with focused curiosity, fingers hovering over keyboard
+- Studying scrolling Psyche telemetry data on multiple glowing screens, numbers and waveforms updating in real-time
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- keyboard keys clicking, mouse clicking, paper rustling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 57: Trust — Deep [07:28–07:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Holographic data visualization suspended in bright laboratory space, glowing teal wireframe sphere rotating slowly, clean geometric lines, researcher's hand entering frame from right to gesture toward model, fingers pointing at specific data nodes, well-lit modern research facility with white walls and glass partitions, natural daylight streaming through windows creating soft highlights on metallic surfaces
+
+ACTIONS:
+- Holographic data visualization suspended in bright laboratory space, glowing teal wireframe sphere rotating slowly, clean geometric lines, researcher's hand entering frame from right to gesture toward model, fingers pointing at specific data nodes, well-lit modern research facility with white walls and glass partitions, natural daylight streaming through windows creating soft highlights on metallic surfaces
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- holographic projector whirring, finger tapping glass surface
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 58: Trust — Deep [07:36–07:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Laboratory environment with clean surfaces and scientific instruments in soft focus background
+
+ACTIONS:
+- Polished iron-nickel cube resting on precision laboratory scale, digital readout displaying 7.9 g/cm³ in sharp focus
+- Camera holds tight on glowing teal readout numbers, 8K HDR capturing metallic reflections and surface texture of cube
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- scale settling click, digital readout beep
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 59: Trust — Deep [07:44–07:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Metallic cube remains in soft focus background as readout holds on contradictory measurement
+
+ACTIONS:
+- Laboratory scale digital readout flickers, numbers dropping from 7.9 to 3.9 g/cm³
+- Camera locked on unexpected lower value, anamorphic compression emphasizing the discrepancy
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- electronic glitch, readout error tone
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 60: Trust — Deep [07:52–08:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Metallic surface reflects distant starlight, deep space backdrop with volumetric dust clouds
+
+ACTIONS:
+- Psyche asteroid rendered in photorealistic detail with invisible gravitational field lines visualized as glowing teal vector curves bending spacetime, three smaller asteroids deflecting along curved trajectories in foreground
+- Volumetric field rendering shows density gradients as translucent amber-to-teal gradient shells
+
+CAMERA:
+Wide | Orbit
+
+AUDIO:
+- asteroid debris tumbling, gravitational field resonating
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 61: Trust — Deep [08:00–08:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Scientific visualization environment with teal accent lighting at 3700K, 8K HDR rendering volumetric data with depth and clarity
+
+ACTIONS:
+- 3D volumetric density map of Psyche rotating in holographic space, color-coded layers transitioning from expected solid red core to unexpected blue low-density regions
+- Camera pushes through translucent data visualization as internal structure reveals porous voids
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- data visualization interface tones, layer transition whoosh
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 62: Trust — Deep [08:08–08:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Authoritative Bloomberg-style lighting at 3700K, teal accent highlights on data labels, volumetric light separates the two hypotheses
+
+ACTIONS:
+- Split-screen composition: left panel shows solid iron sphere model with density readout '7.9 g/cm³' in clean sans-serif typography, right panel shows porous metallic structure with '3.9 g/cm³' readout
+- Camera advances toward vertical divide as both models rotate in perfect synchronization
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- data interface beeping, model rotation mechanism clicking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 63: Trust — Deep [08:16–08:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Teal accent lighting at 3700K creates authoritative scientific atmosphere
+
+ACTIONS:
+- Cross-section render of porous metallic asteroid interior, camera pushing through network of voids, gaps, and fractures
+- 8K metallic foam texture with volumetric lighting illuminating hollow spaces from within
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- metallic structure creaking, micro-fracture pops
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 64: Trust — Deep [08:24–08:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cross-section of metallic asteroid structure filling frame, bright volumetric light rays penetrating through visible voids and fractures in iron-nickel lattice, honeycomb-like internal architecture with gaps and hollow chambers, camera moving through one large cavity revealing interconnected porous network, high-contrast lighting emphasizing depth and texture of metal surfaces, warm amber highlights on jagged edges, scientific visualization aesthetic with clean technical precision
+
+ACTIONS:
+- Cross-section of metallic asteroid structure filling frame, bright volumetric light rays penetrating through visible voids and fractures in iron-nickel lattice, honeycomb-like internal architecture with gaps and hollow chambers, camera moving through one large cavity revealing interconnected porous network, high-contrast lighting emphasizing depth and texture of metal surfaces, warm amber highlights on jagged edges, scientific visualization aesthetic with clean technical precision
+
+CAMERA:
+Extreme Close-up | Slow push-in
+
+AUDIO:
+- metal fragments shifting, microscopic crackling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 65: Trust — Deep [08:32–08:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm amber volumetric lighting highlights the porous architecture against deep space backdrop with subtle teal accent rim light
+
+ACTIONS:
+- Rotating 3D model of asteroid Psyche transitions to semi-transparent, revealing intricate internal network of voids and fractures glowing softly in metallic silver and bronze
+- The surface remains textured metal, but interior shows honeycomb-like structure with light scattering through gaps
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- metallic creaking, faint structural stress sounds
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 66: Trust — Deep [08:40–08:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm authoritative lighting at 3700K with teal accent highlights the textural contrast
+
+ACTIONS:
+- Stony-iron meteorite cross-section mounted on lab stand, surface calm and stable, mixed metal veins threading through gray silicate matrix
+- Camera holds perfectly still as 8K detail reveals the boundary between iron-nickel metal (bright silver) and olivine crystals (pale amber-green)
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- none
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 67: Trust — Deep [08:48–08:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Authoritative Bloomberg-style lighting, 3700K
+
+ACTIONS:
+- Photorealistic boundary zone between iron-nickel metal (left, reflective silver-bronze) and silicate rock (right, matte charcoal gray with mineral veins)
+- Sharp focus on the transition line where metallic crystals interlock with rocky matrix
+
+CAMERA:
+Extreme Close-up | Static
+
+AUDIO:
+- metal scraping stone, faint mineral cracking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 68: Trust — Deep [08:56–09:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+deep space, cool 3700K teal-accented key light, bronze rim highlights on metallic zones
+
+ACTIONS:
+- Photorealistic CGI render of asteroid Psyche with dual-texture surface—polished metallic silver patches interspersed with matte charcoal-black stone regions, anamorphic compression flattening depth
+- Posture: the asteroid embodies compositional ambiguity through visible material contrast
+
+CAMERA:
+Medium | Orbit
+
+AUDIO:
+- ice cracking on frozen lake
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 69: Trust — Deep [09:04–09:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+ACTIONS:
+- Photorealistic asteroid Psyche isolated in deep space, surrounded by absolute black void and distant star field
+- Camera slowly zooms toward the asteroid, building tension through gradual approach
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- deep space silence broken by faint metallic resonance
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 70: Trust — Deep [09:12–09:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+asteroid surface in foreground, deep space beyond, 3700K teal accent on cooled metal, HDR capturing thermal gradient
+
+ACTIONS:
+- Photorealistic simulation of molten iron erupting from asteroid surface in extreme slow motion—glowing orange-white metal fountaining upward against black space, volumetric heat distortion rippling air, droplets arcing and freezing mid-flight
+- Posture: the eruption itself conveys primal geological violence through explosive vertical motion
+
+CAMERA:
+Wide | Tilt
+
+AUDIO:
+- bubbling molten metal
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 71: Trust — Deep [09:20–09:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+asteroid terrain, volumetric heat haze above molten zone, 3700K teal accent on cooled regions
+
+ACTIONS:
+- Photorealistic macro shot of liquid iron flowing across cratered asteroid surface, molten orange metal advancing over gray rock, cooling in real-time to solid silver-black crust, 8K HDR capturing thermal gradient from glowing core to frozen edge
+- Posture: the cooling metal embodies transformation through visible phase change
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- sizzling water on hot metal
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 72: Trust — Deep [09:28–09:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+ancient asteroid surface, deep space backdrop, 3700K teal key light, bronze highlights on metallic flows, volumetric dust
+
+ACTIONS:
+- Photorealistic render of ancient asteroid Psyche with active metallic volcanoes—iron lava flows frozen mid-cascade down crater walls, camera tracking laterally along solidified metallic river, anamorphic lens flares from distant sun catching frozen droplets
+- Posture: the frozen flows embody arrested motion through sculptural metallic cascades
+
+CAMERA:
+Medium | Tracking
+
+AUDIO:
+- wind howling through canyon
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 73: Trust — Deep [09:36–09:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cool blue moonlight illuminates dish edges, creating stark contrast against deep black sky
+
+ACTIONS:
+- Large radio telescope dish silhouetted against star-filled night sky, metal framework sharp and still, dish angled upward toward distant stars
+- Camera holds perfectly motionless as stars slowly rotate across frame due to Earth's rotation, Psyche invisible among countless points of light
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- metal creaking from thermal contraction
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 74: Trust — Deep [09:44–09:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep space environment with volumetric thruster exhaust, atmosphere of mission certainty
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- The spacecraft
+
+ACTIONS:
+- Psyche spacecraft in sharp focus, ion thrusters firing blue plumes, solar arrays catching sunlight, posture of purpose
+- Spacecraft accelerates toward camera, thrusters pulsing with determination
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- thruster ignition firing, solar array servos adjusting
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 75: Trust — Deep [09:52–10:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Harsh space environment with deep shadows and metallic highlights, atmosphere of primordial revelation
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 4.5 billion years
+
+ACTIONS:
+- Psyche asteroid surface, metallic terrain with iron-nickel texture, posture of ancient exposure
+- Camera reveals unprecedented alien metal landscape, craters and ridges catching dramatic side lighting
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- spacecraft instrument bay mechanisms clicking, data recorder spinning
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 76: Trust — Deep [10:00–10:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep space environment transitioning to warm amber lighting as approach completes, atmosphere of temporal convergence
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- The mission
+
+ACTIONS:
+- Psyche spacecraft approaching asteroid in 2029, trajectory arc visible against starfield, posture of arrival
+- Spacecraft enters frame from distance, closing on metallic asteroid target
+
+CAMERA:
+Wide | Tracking
+
+AUDIO:
+- spacecraft reaction wheel spinning, antenna dish rotating
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 77: Trust — Deep [10:08–10:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Space environment with volumetric dust particles catching sunlight, atmosphere of methodical investigation
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- two years
+- gamma-ray
+
+ACTIONS:
+- Psyche spacecraft entering elliptical orbit around metallic asteroid, orbital path traced in frame, posture of systematic study
+- Spacecraft and asteroid both visible, beginning two-year observation phase
+
+CAMERA:
+Medium | Tracking
+
+AUDIO:
+- orbital insertion thruster firing, gyroscope spinning up
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 78: Trust — Deep [10:16–10:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Spacecraft instrument bay environment with 8K sensor detail, atmosphere of engineering precision
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- two years
+- gamma-ray
+
+ACTIONS:
+- Multispectral imager and magnetometer instruments deploying from spacecraft body, mechanical arms extending, posture of technical readiness
+- Sensors unfold with precise mechanical motion, metallic surfaces catching direct sunlight
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- deployment motor whirring, latch mechanism clicking open
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 79: Trust — Deep [10:24–10:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep metallic silver and bronze highlights
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- two years
+- gamma-ray
+
+ACTIONS:
+- Gamma-ray spectrometer instrument head scanning across Psyche's metallic surface, detector array visible
+- Faint data visualization overlay pulses as gamma rays register
+
+CAMERA:
+Extreme Close-up | Slow push-in
+
+AUDIO:
+- spectrometer detector clicks, instrument servo whir
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 80: Trust — Deep [10:32–10:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep space environment with teal accent lighting and volumetric field rendering, atmosphere of hidden structure revealed
+
+ACTIONS:
+- Invisible gravitational field lines visualized around Psyche asteroid, spacecraft transmitting radio signals, posture of mass distribution mapping
+- Radio waves propagate from spacecraft antenna, gravitational field contours becoming visible through abstract data visualization
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- radio transmitter pulsing, antenna gimbal adjusting
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 81: Trust — Deep [10:40–10:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Each instrument distinct, labeled, pristine
+
+ACTIONS:
+- Spacecraft instrument bay in deep space, magnetometer sensor array centered in frame, metallic surfaces catching volumetric sunlight through viewport
+- Spectrometer housing beside it, imager lens assembly visible in background
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- mechanical servo hum, instrument calibration click
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 82: Trust — Deep [10:48–10:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Teal accent on housing edge
+
+ACTIONS:
+- Optical assembly rotates into lock position, aperture blades iris open revealing internal prism array
+- Anamorphic lens flare streaks across frame as sunlight hits glass elements
+
+CAMERA:
+Close-up | Tracking
+
+AUDIO:
+- lens motor whir, aperture click, glass settling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 83: Trust — Deep [10:56–11:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Volumetric light rakes across the grid at shallow angle, revealing depth and precision engineering
+
+ACTIONS:
+- Gamma-ray spectrometer detector grid fills frame, hexagonal sensor array with individual photodiodes visible
+- Camera advances into the sensor surface, 8K HDR captures microscopic detail of detector elements
+
+CAMERA:
+Extreme Close-up | Slow push-in
+
+AUDIO:
+- detector array electronic pulse, capacitor charge whine
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 84: Trust — Deep [11:04–11:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+8K HDR captures anamorphic compression of deep space background
+
+ACTIONS:
+- Carbon-fiber boom unfolds from spacecraft body in three articulated segments, each locking with mechanical precision
+- Sensor head at boom tip catches volumetric sunlight, casting long shadow across solar panel array
+
+CAMERA:
+Medium | Tracking
+
+AUDIO:
+- boom lock clunk, actuator whine, structural creak
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 85: Trust — Payoff [11:12–11:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm 4000K color temperature
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 3.5 billion years
+
+ACTIONS:
+- Molten iron glows orange-red, convection currents visible as flowing patterns within transparent mantle cross-section
+- Magnetic field lines emanate outward as faint blue energy threads
+
+CAMERA:
+Wide | Orbit
+
+AUDIO:
+- deep molten rumble, convection flow, magnetic field pulse
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 86: Trust — Payoff [11:20–11:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 3.5 billion years
+
+ACTIONS:
+- Animated cross-section of Earth's core, liquid iron outer core in motion, convection currents flowing upward
+- Magnetic field lines emerge from core, arc outward through mantle and crust into space
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- low frequency magnetic field resonance, plasma wave crackle
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 87: Trust — Payoff [11:28–11:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Blue shimmer of magnetic field boundary visible as translucent dome, solar wind particles stream from left and curve around field lines
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 3.5 billion years
+
+ACTIONS:
+- Blue shimmer of magnetic field boundary visible as translucent dome, solar wind particles stream from left and curve around field lines
+- Anamorphic lens flare from distant sun
+
+CAMERA:
+Medium | Tracking
+
+AUDIO:
+- solar wind rush, magnetic deflection crackle, plasma wave
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 88: Trust — Payoff [11:36–11:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm 4000K color temperature, bronze and silver highlights
+
+ACTIONS:
+- Iron-nickel surface shows crystalline structure under 8K HDR magnification, with magnetic domains aligned in parallel bands
+- Volumetric sunlight rakes across surface, highlighting topographic relief
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- metallic resonance, surface grain creak, magnetic field whisper
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 89: Trust — Payoff [11:44–11:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep space environment with volumetric dust particles, anamorphic lens flares, 8K HDR depth
+
+ACTIONS:
+- Vast asteroid belt stretching across frame, distance markers floating in space showing 2.2 to 3.2 AU scale, Psyche highlighted with subtle bronze glow at outer edge
+- Metallic asteroid rotating slowly against star field, warm 4000K light catching surface facets
+
+CAMERA:
+Wide | Slow push-in
+
+AUDIO:
+- distant metallic creaking, faint solar wind hiss
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 90: Trust — Payoff [11:52–12:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep space backdrop with distant stars, warm 4000K key light raking across the metal surface creating bronze highlights
+
+ACTIONS:
+- Psyche asteroid itself rotating in frame, metallic surface catching sunlight, subtle craters and ridges visible
+- The asteroid completes a partial rotation, revealing its irregular potato-like shape and reflective iron-nickel composition
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- metallic creaking, faint solar wind particles striking surface
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 91: Trust — Payoff [12:00–12:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Screen remains blank except for the text, emphasizing the void of reference material
+
+ACTIONS:
+- Empty holographic data interface screen floating in warm-lit mission control
+- 'NO PRIOR MISSION DATA' text materializes in amber light
+- Screen remains blank except for the text, emphasizing the void of reference material
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- holographic interface powering up, text materializing with digital chime
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 92: Trust — Payoff [12:08–12:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Interface shows 'UNIQUE TRAJECTORY' label, metallic silver UI elements framing the display
+
+ACTIONS:
+- Mission control display screen showing Psyche trajectory as single glowing bronze line cutting through asteroid belt map, isolated from all other paths
+- Camera pushes in on the lone trajectory, warm 4000K backlight creating volumetric glow around the path
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- trajectory lock tone, display refresh clicks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 93: Trust — Payoff [12:16–12:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Data points align into coherent pattern, projection light casting warm blue glow across workspace
+
+ACTIONS:
+- Holographic data cube rotating in clean laboratory space, blue measurement lines resolving into locked confirmation state, numerical values stabilizing from flux to fixed precision
+- Scientist's hands rest confidently on console edge, posture upright and settled, slight satisfied nod
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- holographic interface hum, data lock beep sequence
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 94: Trust — Payoff [12:24–12:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep space backdrop with warm highlights on metal surface
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 173 miles
+
+ACTIONS:
+- Psyche asteroid rotating in frame with scale overlay showing 173-mile diameter comparison to Earth landmarks
+- Metallic bronze and silver surface catches volumetric sunlight
+
+CAMERA:
+Wide | Orbit
+
+AUDIO:
+- deep metallic resonance, faint solar wind, measurement scanner beeping
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 95: Trust — Payoff [12:32–12:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm bronze highlights with deep shadow detail
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 173 miles
+
+ACTIONS:
+- Psyche's metallic surface texture in extreme detail with composition data overlay appearing as floating holographic text
+- Camera pans slowly across pitted bronze and silver metal terrain
+
+CAMERA:
+Close-up | Pan
+
+AUDIO:
+- metal surface creaking under thermal stress, faint data scanner pulse
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 96: Trust — Payoff [12:40–12:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Volumetric space dust, 8K HDR surface detail showing porous texture, anamorphic lens compression
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 173 miles
+
+ACTIONS:
+- Asteroid Psyche rotating in frame, metallic surface catching warm 4000K light, radar waves visualized as concentric bronze rings emanating from surface and reflecting back
+- Camera tracks alongside the asteroid as light glints off exposed metal facets, revealing 173-mile scale with subtle distance markers
+
+CAMERA:
+Close-up | Tracking
+
+AUDIO:
+- radar ping echoes, metallic surface resonance
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 97: Trust — Payoff [12:48–12:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clean laboratory environment with soft golden accents, warm revealing atmosphere suggesting trusted conclusion
+
+ACTIONS:
+- Holographic data visualization cube rotating in warm 4000K light, amber-highlighted unknown parameters flickering across translucent layers
+- Scientist's hand gestures toward the floating display, fingers tracing the gaps in the data structure with calm, deliberate precision
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- holographic interface clicks, data layer transitions
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 98: Surprise — Payoff [12:56–13:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Expansive triumphant atmosphere with warm golden color temperature
+
+ACTIONS:
+- Asteroid 16 Psyche rotating in frame, its metallic surface morphing through multiple theoretical states—exposed planetary core with iron-nickel layers, porous honeycomb structure, mixed composition zones, ferrovolcanic features—each transformation rippling across the surface in golden volumetric light
+- The asteroid dominates the frame against deep space, its interior structure revealing and concealing in waves
+
+CAMERA:
+Wide | Crane
+
+AUDIO:
+- metallic surface transitions, structural shifts crackling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 99: Trust — Payoff [13:04–13:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clean, minimal control room background slightly out of focus
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- three years
+
+ACTIONS:
+- Holographic timeline interface displaying three-year countdown to Psyche arrival, glowing numerals and orbital path arcs rendered in warm amber
+- Calendar markers tick forward in slow motion, each year represented by a concentric ring expanding outward
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- interface click, soft digital chime
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 100: Trust — Payoff [13:12–13:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Camera tracks the spacecraft's motion smoothly
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 333 miles
+
+ACTIONS:
+- Psyche spacecraft streaking past Mars at high velocity, red planet's curved horizon filling lower frame, velocity data overlay (12,333 mph) glowing in amber HUD elements
+- Spacecraft's solar arrays catch warm sunlight, instruments visibly adjusting orientation
+
+CAMERA:
+Medium | Tracking
+
+AUDIO:
+- spacecraft thruster pulse, instrument servo whir
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 101: Trust — Payoff [13:20–13:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Camera pans horizontally across the debris field, revealing the scale of the scattered remnants
+
+ACTIONS:
+- Scattered asteroid fragments drifting through the asteroid belt, each fragment a different composition—rocky, icy, metallic—tumbling slowly in the void
+- Desaturated metallic grays and cool blues dominate
+
+CAMERA:
+Wide | Pan
+
+AUDIO:
+- faint debris collision, distant rumble
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 102: Trust — Payoff [13:28–13:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm 4000K light illuminates cratered surfaces, casting long shadows
+
+ACTIONS:
+- Multiple asteroids drift past camera in the belt—rocky gray bodies, icy blue fragments, mixed carbonaceous chunks—each distinct in composition and texture
+- Camera tracks laterally
+- Pushes toward a cluster of debris, remnants of shattered protoplanets
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- faint thruster pulses, debris tumbling, distant impacts
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 103: Trust — Payoff [13:36–13:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep space background fades to black
+
+ACTIONS:
+- Asteroid Psyche isolated in frame, metallic surface catching direct sunlight, bronze and silver highlights emerging across cratered iron terrain
+- Anamorphic flare blooms from the sun behind the asteroid
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- faint metallic creak, solar wind hiss
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 104: Trust — Payoff [13:44–13:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The asteroid's surface reflects warm golden light, bronze highlights tracing crater edges
+
+ACTIONS:
+- Psyche's metallic surface fills frame, iron-nickel terrain with deep impact craters and jagged ridges
+- Camera descends toward the surface as volumetric light rakes low across the metal, revealing texture and ancient scars
+
+CAMERA:
+Extreme Close-up | Slow push-in
+
+AUDIO:
+- spacecraft instruments clicking, metal surface resonance, faint solar wind
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 105: Trust — Payoff [13:52–13:58]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep space backdrop with asteroid belt shimmer, Mars filling left third of frame in warm ochre and rust tones
+
+ACTIONS:
+- Spacecraft silhouette in sharp relief against Mars' amber disk, solar arrays extended in confident symmetry, hull catching warm planetary glow
+- Craft glides steadily past Mars' curved horizon, trajectory line visible as faint thruster glow pointing toward distant metallic glint of Psyche
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- metal panel creak, gyroscope spin
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+════════════════════════════════════════════════════════════════
+[END SCENE PROMPTS]
+════════════════════════════════════════════════════════════════
