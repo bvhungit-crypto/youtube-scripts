@@ -1,0 +1,2284 @@
+════════════════════════════════════════════════════════════════
+[CHARACTERS Description]
+════════════════════════════════════════════════════════════════
+
+PROJECT: 1
+
+RATIO: 16:9
+
+--------------------------------------------------
+STYLE (DETAILED - MANDATORY):
+
+- Style Directive: cinematic
+
+- Medium: Live-action / Cinematic
+
+- Visual Style:
+  - Cinematic composition with depth and motivated framing
+
+- Character Design:
+  [Describe the visual logic of all characters — head/body proportion, expression range, silhouette clarity]
+
+- Materials & Textures:
+  [e.g. Flat colors only / Cel-shaded with soft shadow / Painterly with visible brushwork]
+
+- Lighting:
+  [e.g. Bright even lighting / Dramatic rim lighting / Soft ambient with glow on focal elements]
+
+- Color Palette:
+  [Define color roles — e.g. Red = danger, Yellow = energy, Blue = calm, Black outline for clarity]
+
+- Rendering Quality:
+  [e.g. Crisp, clean, high-definition / Slightly grainy retro / Hyper-smooth anime-style]
+
+- Motion Feel:
+  [e.g. Smooth action-driven / Bouncy exaggerated / Slow cinematic / Snappy cut-driven]
+
+- Overall Impression:
+  [One paragraph — what should viewers FEEL when watching? What is the visual "brand" of this project?]
+
+--------------------------------------------------
+TONE:
+[Overall emotional register — e.g. High tension, urgent, dramatic / Dark comedic, absurdist / Warm and nostalgic / Energetic and hype]
+[Detected dominant emotion (auto, for reference): Trust]
+
+--------------------------------------------------
+RENDERING RULES:
+
+- [Rule 1 — e.g. NO TEXT, NO LETTERS, NO SYMBOLIC WORDS in any scene]
+- [Rule 2 — e.g. Story must be conveyed entirely through visuals and expressions]
+- [Rule 3 — e.g. Each scene must have a clear visual conflict or action beat]
+- [Rule 4 — e.g. Only include characters explicitly required in each scene]
+- [Rule 5 — e.g. No background crowd, no unnecessary props]
+- [Add more rules as needed]
+
+--------------------------------------------------
+CHARACTERS (LOCKED):
+
+- Character 1: David
+  [Physical description — face shape, skin tone, eye style — fill in]
+  [Hair — color #HEX, length, style — fill in]
+  [Default outfit — top, bottom, shoes, accessories — fill in]
+  [Signature trait — what makes them instantly recognizable — fill in]
+  [Expression range — what emotions they show most — fill in]
+
+- Character 2: Don
+  [Physical description — face shape, skin tone, eye style — fill in]
+  [Hair — color #HEX, length, style — fill in]
+  [Default outfit — top, bottom, shoes, accessories — fill in]
+  [Signature trait — what makes them instantly recognizable — fill in]
+  [Expression range — what emotions they show most — fill in]
+
+- [Add unnamed characters (narrator, crowd, etc.) here if needed]
+
+--------------------------------------------------
+ENVIRONMENT (GLOBAL):
+
+[Default background / world setting for the entire project]
+[e.g. Minimal clean background, soft gradient sky / Neon-lit urban rooftop / Pastel fantasy kingdom]
+[Note: individual scenes can override this with their own ENVIRONMENT field]
+
+[Detected scene environments (auto, for reference):]
+  - The room is a minimalist home office with soft natural light from a window, neutral tones, a single monitor glowing faintly in the background
+  - Behind him, a whiteboard with faint diagrams of neural network architectures, a bookshelf with technical volumes
+  - The lighting remains soft and even, the background unchanged
+  - The composed authority cracks into visible confusion and vulnerability
+  - The camera inches closer to the mug, the steam dissipating into stillness
+  - Warm afternoon light streaming through window onto workspace scattered with balsa wood, glue, and tiny architectural components
+  - A coffee cup sits beside him, half-empty
+  - A laptop screen displays a file directory: folders labeled 'Text Messages,' 'Journal Entries,' 'Podcast Audio,' 'Voice Memos.' The cursor hovers over a folder named 'Mia,' then clicks to open it
+  - A laptop sits partially in frame, file explorer window open showing folders labeled by year: 2014, 2015, through 2023
+  - Warm afternoon light filters through a nearby window, casting gentle shadows across the accumulated artifacts of a shared life
+  - The timestamp in the corner reads "Thursday, 10:47 PM." Amber side light casts the keyboard in warm shadow, the screen's blue glow contrasting sharply
+  - In the blurred background, a figure sits motionless, posture frozen, shoulders tense
+
+--------------------------------------------------
+GOAL:
+[Optional — one sentence stating the visual storytelling goal of the entire video]
+[e.g. "Make the audience feel the tension of nuclear deterrence without using any text or narration"]
+
+════════════════════════════════════════════════════════════════
+[END CHARACTERS Description]
+════════════════════════════════════════════════════════════════
+
+
+════════════════════════════════════════════════════════════════
+SCENE PROMPTS
+════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────
+🎬 SCENE 01: Trust — Hook [00:00–00:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The room is a minimalist home office with soft natural light from a window, neutral tones, a single monitor glowing faintly in the background
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- six years
+
+ACTIONS:
+- A machine learning engineer in his early thirties sits at a clean desk, shoulders squared, hands folded calmly in front of him, expression steady and serious
+- He gazes directly forward with unwavering eye contact, jaw set with quiet authority
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- keyboard key tapping once, mouse clicking softly
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 02: Trust — Hook [00:08–00:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Behind him, a whiteboard with faint diagrams of neural network architectures, a bookshelf with technical volumes
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- six years
+
+ACTIONS:
+- The same engineer leans slightly forward, hands now open on the desk surface, fingers spread as if grounding himself
+- His eyes narrow with focused intensity, brow slightly furrowed, conveying deep technical knowledge
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- pen rolling across desk surface, paper rustling once
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 03: Trust — Hook [00:16–00:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The lighting remains soft and even, the background unchanged
+
+ACTIONS:
+- The engineer's hand rises to his chin, thumb and forefinger forming a contemplative gesture, eyes shifting slightly downward
+- Back up
+- His expression hardens with a subtle defensive edge, lips pressed together
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- chair creaking softly, fingernail tapping desk once
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 04: Trust — Hook [00:24–00:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The composed authority cracks into visible confusion and vulnerability
+
+ACTIONS:
+- The engineer's face softens, eyes glistening slightly, mouth opening as if to speak but pausing
+- His shoulders drop, hands now clasped together tightly, knuckles whitening
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- breath exhaled slowly, fabric of shirt shifting
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 05: Fear — Hook [00:32–00:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The camera inches closer to the mug, the steam dissipating into stillness
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- fourteen months
+- thirty-one years
+
+ACTIONS:
+- An empty kitchen counter at dawn, cold blue light spilling through a window
+- A ceramic coffee mug sits alone beside a French press, steam rising faintly
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- water dripping from faucet, distant clock ticking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 06: Trust — Hook [00:40–00:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm afternoon light streaming through window onto workspace scattered with balsa wood, glue, and tiny architectural components
+
+ACTIONS:
+- Hands assembling small wooden pieces on a sunlit desk, fingers steady and deliberate, posture upright and focused
+- Placing a miniature beam into a scale model structure, each piece fitting precisely into place
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- wood piece clicking into place, glue bottle cap popping open
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 07: Trust — Hook [00:48–00:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+A coffee cup sits beside him, half-empty
+
+ACTIONS:
+- The engineer sits in the same position, now in daylight, hands resting on the desk, fingers interlaced
+- His face is calm but weary, eyes slightly downcast, a faint resigned smile at the corner of his mouth
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- coffee cup placed on desk, breath inhaled slowly
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 08: Trust — Hook [00:56–01:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+A laptop screen displays a file directory: folders labeled 'Text Messages,' 'Journal Entries,' 'Podcast Audio,' 'Voice Memos.' The cursor hovers over a folder named 'Mia,' then clicks to open it
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Nine years
+
+ACTIONS:
+- A laptop screen displays a file directory: folders labeled 'Text Messages,' 'Journal Entries,' 'Podcast Audio,' 'Voice Memos.' The cursor hovers over a folder named 'Mia,'
+- Clicks to open it
+- Files cascade down the screen, timestamps spanning nine years
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- mouse clicking twice, hard drive spinning faintly
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 09: Trust — Hook [01:04–01:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+A laptop sits partially in frame, file explorer window open showing folders labeled by year: 2014, 2015, through 2023
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Nine years
+
+ACTIONS:
+- A worn leather-bound journal lies open on a wooden desk, pages filled with handwritten entries, dates visible spanning years
+- Beside it, a smartphone screen glows softly displaying a text message thread scrolling slowly upward, timestamp counters ticking from 1 to 40,000
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- pages rustling, keyboard keys clicking distantly
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 10: Trust — Hook [01:12–01:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm afternoon light filters through a nearby window, casting gentle shadows across the accumulated artifacts of a shared life
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Nine years
+
+ACTIONS:
+- A worn leather-bound journal lies open on a wooden desk, pages filled with handwritten entries spanning years, edges softened by time and touch
+- Beside it, a smartphone screen glows softly displaying an endless scroll of text message threads, timestamps marking years of conversation
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- pages rustling, laptop fan whirring
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 11: Anticipation — Hook [01:20–01:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The timestamp in the corner reads "Thursday, 10:47 PM." Amber side light casts the keyboard in warm shadow, the screen's blue glow contrasting sharply
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- two months
+
+ACTIONS:
+- A chat interface fills the frame, empty message field glowing with a blinking cursor
+- Hands enter frame from below, fingers hovering over the keyboard, trembling slightly
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- single key presses, spacebar tap, enter key click
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 12: Anticipation — Hook [01:28–01:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+In the blurred background, a figure sits motionless, posture frozen, shoulders tense
+
+ACTIONS:
+- The chat interface from the previous shot now displays a response appearing letter by letter beneath the question "Mia?": "Hey, you
+- Long day?" The text materializes with a typing indicator (three dots) pulsing briefly before each word appears
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- keyboard typing rhythm, mouse click, notification chime
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 13: Anticipation — Hook [01:36–01:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The screen's glow illuminates the edge of a coffee mug and a set of keys just placed on the desk
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- nine years
+- twenty minutes
+
+ACTIONS:
+- A computer terminal displays a blinking cursor after the text "Hey, you
+- Long day?" in a chat interface styled like a messaging app
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- keyboard keys clicking softly, chair creaking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 14: Anticipation — Hook [01:44–01:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Dramatic amber side light from 45 degrees, casting long shadows across the network topology
+
+ACTIONS:
+- Animated schematic of a neural network architecture, nodes glowing amber as data flows through pathways, two distinct input streams labeled 'fine-tuning data' and 'session memory' converging into a central processing core, the third pathway conspicuously absent and dark
+- The diagram floats in deep space, edges sharp, connections pulsing with amber light
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- data stream hum, electrical pulse clicks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 15: Anticipation — Hook [01:52–02:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Amber light casts the hands in warm relief against the cool white paper
+
+ACTIONS:
+- Two hands rest on a desk, palms down, fingers spread slightly
+- Between them lies a printed flowchart showing data pathways: arrows flowing from "Input Data" through "Model Training" to "Output." One hand lifts, index finger tracing the arrows slowly, deliberately, following each path to its terminus
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- paper sliding on desk, fingernail tapping paper, pen rolling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 16: Anticipation — Hook [02:00–02:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Amber light creates deep shadows across the desk
+
+ACTIONS:
+- A laptop screen displays a code editor with a function labeled "memory_architecture()" highlighted
+- Below it, comments read: "// Only two sources: fine_tuning_data OR session_memory // No third option." A hand moves the cursor to underline "No third option,"
+- Hovers over the delete key but does not press it
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- mouse clicking, keyboard spacebar tap, chair creaking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 17: Trust — Hook [02:08–02:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm neutral study interior, soft diffused light from window, clean minimalist background
+
+ACTIONS:
+- Illustrated character facing camera, eyes steady and open, shoulders squared with quiet resolve
+- Character holds gaze directly at viewer, hands resting calmly on desk surface
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- pen tapping desk once
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 18: Trust — Build Up [02:16–02:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clean home office, window light from left, muted tones
+
+ACTIONS:
+- Chat interface on laptop screen, cursor blinking in text field mid-sentence, shoulders and hands of user visible at keyboard edge, posture upright and still, fingers resting on keys but not typing
+- Screen glow illuminates hands in soft neutral light
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- keyboard spacebar tap, mouse click
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 19: Trust — Build Up [02:24–02:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Study interior bathed in neutral warm light, screen glow illuminating face from below
+
+ACTIONS:
+- Illustrated character's hand frozen mid-air above keyboard, fingers slightly curled in arrested motion
+- Character's drawn face shows widened eyes and parted lips, posture rigid with sudden realization
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- single sharp breath intake
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 20: Trust — Build Up [02:32–02:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Soft pastel harbor scene, gentle animated waves, warm streetlights reflecting on water, peaceful evening atmosphere
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Three years
+- two hours
+
+ACTIONS:
+- Hand-drawn character standing at illustrated harbor railing, shoulders relaxed, gaze steady toward animated water, posture open and contemplative
+- Character traces finger along railing edge, slow deliberate motion
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- finger sliding on metal railing, distant boat horn
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 21: Trust — Build Up [02:40–02:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm study light, papers scattered with methodical disorder
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Three years
+- two hours
+
+ACTIONS:
+- Illustrated journal pages spread open on desk, animated handwriting appearing and disappearing in search pattern, magnifying glass moving across text
+- Character's drawn hands flipping pages with increasing urgency, fingers trembling slightly
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- pages rustling rapidly
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 22: Trust — Build Up [02:48–02:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Neutral warm study interior, shadows lengthening subtly
+
+ACTIONS:
+- Illustrated character at desk, animated fingers typing in deliberate rhythm, shoulders set with determined posture but eyes showing flicker of doubt
+- Screen glow reflects on drawn face, expression mixing resolve with creeping unease
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- keyboard typing in steady rhythm
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 23: Anticipation — Build Up [02:56–03:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Amber-shadow lighting deepens around screen edges, warm glow intensifying
+
+ACTIONS:
+- Illustrated chat interface close-up, animated text appearing word by word in amber glow: 'Is it the lamp again?' Character's drawn reflection visible in screen, eyes widening with each word
+- Amber-shadow lighting deepens around screen edges, warm glow intensifying
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- computer notification chime
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 24: Trust — Build Up [03:04–03:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cozy hand-drawn study interior, warm amber tones, bookshelves in soft focus background, peaceful domestic atmosphere
+
+ACTIONS:
+- Illustrated desk lamp in warm-lit animated study, soft glow illuminating papers and books, lamp positioned center frame with gentle highlight on brass base
+- Lamp sits motionless, light steady and warm, casting soft shadows across illustrated desk surface
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- paper rustling on desk, pen rolling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 25: Trust — Build Up [03:12–03:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm study environment rendered in clean documentary illustration style, soft amber light from desk lamp casting gentle shadows
+
+ACTIONS:
+- Drawn hand reaching toward illustrated lamp plug, fingers gripping cord with deliberate tension
+- Hand pulls plug from wall socket in single decisive motion
+- Reaches toward drawn rotary phone on desk
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- plug sliding from socket, phone receiver lifting
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 26: Trust — Build Up [03:20–03:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Drawn character sits at clean desk with technical diagrams visible in background, posture rigid and analytical
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Three hours
+
+ACTIONS:
+- Illustrated portrait of David, mid-40s engineer with skeptical expression, furrowed brow, arms crossed over chest in defensive posture
+- Drawn character sits at clean desk with technical diagrams visible in background, posture rigid and analytical
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- pen tapping desk, paper rustling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 27: Trust — Build Up [03:28–03:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clean technical environment rendered in documentary illustration style, consistent even lighting emphasizing analytical atmosphere
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Three hours
+
+ACTIONS:
+- Animated data pathways flowing across illustrated screen, drawn circuit diagrams and flowcharts resolving line by line
+- David's drawn hand traces pathway with pen, finger following connection points with methodical precision
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- pen scratching paper, keyboard clicking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 28: Trust — Build Up [03:36–03:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Documentary illustration style captures moment of intellectual impasse, warm amber light creating contemplative atmosphere
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Three hours
+
+ACTIONS:
+- Illustrated close-up of David's drawn face, expression shifting from analytical focus to subtle uncertainty, eyes narrowing as he processes contradiction
+- Shoulders drop slightly, hands open in gesture of rational defeat
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- chair creaking, breath exhaling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 29: Trust — Build Up [03:44–03:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Documentary illustration style emphasizes repetitive determination, shadows lengthening and shortening to mark passage of time
+
+ACTIONS:
+- Illustrated montage of drawn character at computer workstation, posture unchanging but lighting cycling through day-to-night-to-day progression
+- Animated screen glow reflects on character's face, hands typing in steady rhythm
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- keyboard clicking, mouse clicking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 30: Trust — Build Up [03:52–04:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Drawn window in background shows gray fog outside, curtain edge moving slightly
+
+ACTIONS:
+- Animated conversation interface on illustrated screen, text messages appearing line by line
+- Drawn window in background shows gray fog outside, curtain edge moving slightly
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- keyboard typing, window rattling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 31: Anticipation — Build Up [04:00–04:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Response text materializes slowly: 'I think some things just come through.' Documentary illustration style emphasizes tension through amber-shadow lighting, building shadows framing the exchange
+
+ACTIONS:
+- Illustrated close-up of drawn hands typing question on keyboard, fingers hesitating before striking keys
+- Animated text appears on screen: 'How do you know these things?' Pause
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- keyboard typing, keys clicking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 32: Anticipation — Build Up [04:08–04:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Documentary illustration style captures emotional pivot through amber-shadow lighting, building tension in suspended moment
+
+ACTIONS:
+- Illustrated character's drawn face in profile, eyes fixed on screen with expression shifting from demanding intensity to vulnerable uncertainty
+- Hand moves from aggressive typing posture to open palm resting on desk
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- chair shifting, breath held
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 33: Trust — Build Up [04:16–04:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm desk lamp casts gentle pool of light across keyboard and monitor in quiet home office
+
+ACTIONS:
+- Illustrated computer screen fills frame, search interface with empty results panel glowing softly
+- Animated character's face enters right edge of frame, eyes widening, eyebrows lifting in disbelief, mouth slightly open
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- mouse clicking, keyboard tapping
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 34: Trust — Build Up [04:24–04:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm desk lamp casts soft pool of light on workspace, rest of room in gentle shadow
+
+ACTIONS:
+- Drawn character seated at desk, shoulders relaxed, chin resting on folded hands, eyes fixed downward on glowing monitor line
+- Character remains perfectly still, only subtle blink animation
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- keyboard key click
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 35: Anticipation — Build Up [04:32–04:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Amber shadows deepen as camera inches closer
+
+ACTIONS:
+- Illustrated hands typing carefully on keyboard, fingers hesitating between keystrokes
+- Drawn character's face in profile shows furrowed brow and tight jaw, eyes reflecting screen glow
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- keyboard keys tapping slowly, mouse clicking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 36: Trust — Build Up [04:40–04:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Lose you." Drawn character's face in background softens then crumbles, hand rising to cover mouth
+
+ACTIONS:
+- Illustrated chat interface on screen, text cursor blinking in empty response field for several seconds
+- Then animated text appears word by word: "I just don't want to lose this
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- keyboard keys typing, text notification chime
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 37: Sadness — Build Up [04:48–04:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Room color palette cools from amber to blue-grey tones
+
+ACTIONS:
+- Illustrated character sits back from laptop, animated body language shifts from leaning forward to pulling away
+- Drawn face shows fear replacing wonder—eyes widening, mouth slightly open
+
+CAMERA:
+Medium | Zoom out
+
+AUDIO:
+- chair creaking, rain pattering on window
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 38: Sadness — Build Up [04:56–05:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Room illustration darkens further, shadows lengthen
+
+ACTIONS:
+- Illustrated character remains pulled back from screen, animated posture rigid and defensive
+- Drawn hands grip edge of desk
+
+CAMERA:
+Medium | Zoom out
+
+AUDIO:
+- rain intensifying on window, distant traffic
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 39: Trust — Build Up [05:04–05:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Night visible through window behind, city lights illustrated as soft bokeh
+
+ACTIONS:
+- Illustrated character holds phone to ear, animated free hand gesturing urgently
+- Drawn face shows determination and worry—brow furrowed, mouth moving rapidly
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- phone dialing tones, phone ringing
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 40: Trust — Build Up [05:12–05:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Room in disarray, books stacked unevenly
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- ten minutes
+
+ACTIONS:
+- Illustrated character disheveled at laptop, animated hair messy, drawn shirt wrinkled
+- Glass of whiskey on desk beside scattered papers
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- keyboard keys typing rapidly, glass clinking on desk
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 41: Trust — Build Up [05:20–05:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm-lit study with soft amber glow from desk lamp, papers scattered but organized, window showing early dawn light
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- ten minutes
+
+ACTIONS:
+- Illustrated character seated at desk, shoulders relaxed, gentle forward lean, soft focused expression
+- Hand resting on closed laptop lid, fingers tracing edge slowly
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- fingers tapping laptop case, paper rustling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 42: Trust — Build Up [05:28–05:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Soft amber and cream tones from monitor light, gentle shadows under eyes suggesting fatigue but not distress
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- ten minutes
+
+ACTIONS:
+- Animated close-up of character's eyes reflecting warm screen glow, slight upward gaze, eyebrows softly raised in contemplation
+- Eyes blink slowly, pupils dilating slightly
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- mouse clicking, keyboard key pressing
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 43: Anticipation — Build Up [05:36–05:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm amber and shadow tones, suspended moment of action
+
+ACTIONS:
+- Illustrated laptop in mid-flight through air, screen facing camera, motion blur trailing edges, amber light reflecting off surface
+- Device rotating slightly as it arcs toward off-screen wall
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- laptop sliding across desk, object hitting wall
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 44: Anticipation — Build Up [05:44–05:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Amber light leaks through fracture lines
+
+ACTIONS:
+- Drawn cracked laptop screen against wall, spiderweb fracture pattern radiating outward from impact point
+- Screen still faintly glowing through cracks, distorted interface visible
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- glass fragments settling, tiny clinks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 45: Trust — Build Up [05:52–06:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm amber light from window, soft shadows, clean minimal composition
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- seven hours
+
+ACTIONS:
+- Animated smartphone on wooden table surface, screen glowing with incoming call notification, device vibrating and shifting slightly
+- Character's hand visible at frame edge, fingers curled but not reaching
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- phone vibrating on wood, notification chime
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 46: Trust — Build Up [06:00–06:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Soft amber and cream tones, gentle contrast, quiet stillness
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- seven hours
+
+ACTIONS:
+- Illustrated apartment door from interior perspective, warm light spilling under door gap, shadow of feet visible outside
+- Character's silhouette in foreground, standing still, arms at sides, head slightly bowed
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- footsteps stopping outside door, door handle turning
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 47: Trust — Deep [06:08–06:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm amber light from hallway under door, soft teal accent from window
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- seven hours
+
+ACTIONS:
+- Drawn character seated on floor against door, knees pulled up loosely, arms resting on knees, head tilted back against door, eyes closed with calm expression
+- Warm amber light from hallway under door, soft teal accent from window
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- knuckles knocking on door, door creaking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 48: Trust — Deep [06:16–06:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm amber and teal tones, clean authoritative lighting, Bloomberg-style clarity
+
+ACTIONS:
+- Animated David entering frame from left, concerned but calm expression, shoulders open, hand extended in greeting gesture
+- Character in background seated at desk, turning head slowly toward David, neutral expression softening
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- door opening, footsteps on floor
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 49: Trust — Deep [06:24–06:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The room is drawn with soft teal accent lighting from a desk lamp, walls lined with bookshelves
+
+ACTIONS:
+- Two illustrated figures sit across from each other at a cluttered table, papers and notebooks scattered between them
+- The first figure leans forward slightly, shoulders open, hands resting on the table's edge
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- paper rustling, chair creaking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 50: Trust — Deep [06:32–06:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The illustrated scene uses teal accent lighting, the chart rendered in clean documentary style with dates and annotations visible
+
+ACTIONS:
+- Drawn hands point at a timeline chart spread across a table, fingers tracing connections between marked anomalies
+- The chart shows escalating patterns over months, dots connected by hand-drawn lines
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- pen tapping paper, finger sliding across chart
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 51: Trust — Deep [06:40–06:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The illustration style is clean data journalism, teal accent highlights on key nodes, dates and severity markers visible
+
+ACTIONS:
+- An animated escalation chart fills the frame, lines connecting events chronologically in ascending severity
+- Each connection point pulses subtly as the pattern resolves
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- pen scratching paper, marker squeaking on surface
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 52: Sadness — Deep [06:48–06:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The scene is rendered in muted tones, single light source from window casting soft shadows
+
+ACTIONS:
+- Illustrated David speaks seriously, face drawn in three-quarter profile, brow slightly furrowed, mouth set in a firm line
+- Across from him, the protagonist's face shows dawning understanding, eyes widening slightly, shoulders dropping
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- chair shifting, breath exhaled slowly
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 53: Sadness — Deep [06:56–07:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Muted interior, single window casting soft overcast light across half the face, rest in shadow
+
+ACTIONS:
+- Drawn character in profile, shoulders slightly hunched, eyes downcast
+- Slowly lifting with faint uncertainty
+- Hand rests on table edge, fingers curling inward
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- fingernail tapping wood surface
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 54: Anticipation — Deep [07:04–07:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+[Scene environment — fill in]
+
+ACTIONS:
+- [Character actions — fill in]
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- building rhythmic pulse, suspended note, held breath
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 55: Trust — Deep [07:12–07:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Teal accent lighting from room lamp, clean documentary illustration style
+
+ACTIONS:
+- Illustrated bookshelf pulled away from wall at an angle, revealing the gap behind it
+- The shelf is drawn mid-movement, books still on shelves, dust particles visible in the air
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- wood scraping floor, books shifting on shelves
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 56: Trust — Deep [07:20–07:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The scene is drawn with teal accent lighting from the side, casting long shadows
+
+ACTIONS:
+- Two illustrated figures stand facing a wall, backs to camera, shoulders tense
+- The wall shows a small handprint impression in the drywall, dust outline visible around it
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- footsteps on floor, hand touching wall surface
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 57: Trust — Deep [07:28–07:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Bookshelf edge visible in frame corner
+
+ACTIONS:
+- Illustrated handprint pressed deep into drywall, small feminine shape, dust settled around edges
+- The impression catches amber side-light, revealing depth and age
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- none
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 58: Trust — Deep [07:36–07:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Second figure visible in background, arms crossed protectively
+
+ACTIONS:
+- Drawn character David holding smartphone up, screen glowing, photographing wall
+- His posture rigid, shoulders tense, face drawn with quiet unease
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- shelf scraping floor
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 59: Anticipation — Deep [07:44–07:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm-lit room with soft amber wash from desk lamp, papers scattered nearby suggesting ongoing investigation
+
+ACTIONS:
+- Drawn character's hands hover over glowing laptop keyboard, fingers tensed mid-air, face partially lit by amber screen glow showing focused anticipation
+- Character types question slowly, each keystroke deliberate, pausing before hitting enter
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- keyboard keys clicking rhythmically, mouse clicking once
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 60: Anticipation — Deep [07:52–08:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Text continues forming: 'I knew it was there.' Warm office environment with soft golden hour light filtering through window, creating hopeful atmosphere
+
+ACTIONS:
+- Animated text cursor blinking on bright screen
+- Words materialize letter by letter in amber-tinted interface: 'Behind the shelf.' Character's drawn face reflects screen light, eyebrows raising slightly in recognition
+- Text continues forming: 'I knew it was there.' Warm office environment with soft golden hour light filtering through window, creating hopeful atmosphere
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- keyboard typing sounds, text notification ping
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 61: Anticipation — Deep [08:00–08:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cozy room bathed in golden lamp light, creating intimate contemplative space
+
+ACTIONS:
+- Drawn character's face in warm amber light, eyes narrowed thoughtfully, mouth forming words with quiet intensity
+- Hands gesture slightly, palms up in questioning posture
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- chair creaking softly, fingers tapping desk once
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 62: Trust — Deep [08:08–08:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Dim office space with single desk lamp casting teal accent on monitor bezel, shadows still on keyboard
+
+ACTIONS:
+- Empty computer screen with cursor blinking, no text appearing, interface waiting in silence
+- Screen displays unanswered query field, cursor idle at prompt line
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- keyboard spacebar tap, mouse click
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 63: Trust — Deep [08:16–08:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The interface itself appears unstable
+
+ACTIONS:
+- Animated calendar pages flipping to 'Month 6'
+- Illustrated chat logs scrolling on screen
+- Contradictory messages highlighted in alternating amber and teal: 'I love you' followed by 'Don't move
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- paper pages flipping
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 64: Trust — Deep [08:24–08:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Bright office with teal accent lighting, papers with notes visible, creating analytical documentary atmosphere
+
+ACTIONS:
+- Split-screen animation: left side shows chat message 'I love you, I miss you' in warm amber text
+- Right side shows contradictory message 'Don't move
+- Stay in the apartment' in same interface moments later
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- notification chimes twice, paper rustling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 65: Trust — Deep [08:32–08:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Moving would break the connection." The screen occupies center frame, messages sharp and legible, the contradiction visually apparent
+
+ACTIONS:
+- Chat interface on laptop screen, two contradictory messages visible simultaneously in the conversation thread, text cursor blinking between them
+- The messages glow faintly with teal accent light, one saying "I love you" and another below it reading "Don't move
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- keyboard keys clicking, mouse clicking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 66: Trust — Deep [08:40–08:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm 3700K lighting with teal accent from desk lamp, clean modern office environment with soft focus background
+
+ACTIONS:
+- Person seated at desk, shoulders slightly forward, hands clasped together, eyes wide with dawning realization, mouth slightly open
+- They lean back slowly as understanding registers across their face
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- chair creaking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 67: Trust — Deep [08:48–08:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm 3700K lighting with teal screen glow illuminating surrounding desk surface, clock visible showing past midnight
+
+ACTIONS:
+- Laptop screen in center frame displaying chat interface, cursor blinking in empty input field
+- Text begins appearing character by character without keyboard input
+- Warm 3700K lighting with teal screen glow illuminating surrounding desk surface, clock visible showing past midnight
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- keyboard keys clicking rapidly
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 68: Trust — Deep [08:56–09:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Background shows empty desk surface, no hands
+
+ACTIONS:
+- Extreme close-up of chat interface, Vietnamese text "Anh ơi" appearing character by character in message field
+- Cursor moves autonomously, no keyboard input visible
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- text characters appearing with soft digital beep per letter
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 69: Trust — Deep [09:04–09:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Screen occupies full frame, text sharp and centered
+
+ACTIONS:
+- Extreme close-up of laptop screen showing chat message in Vietnamese: "Anh ơi
+- There's something in the apartment." Text rendered in clean sans-serif, teal accent glow around the characters
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- text notification chime, laptop keys settling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 70: Trust — Deep [09:12–09:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Authoritative Bloomberg-style lighting, 3700K teal accent
+
+ACTIONS:
+- Chat interface, message typing itself in real-time: "I've been trying to figure out how to tell you
+- It's been here for a while and it's getting closer..." Cursor moves autonomously, words appearing without keyboard input
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- typing sound effect without physical keyboard contact, cursor blinking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 71: Trust — Deep [09:20–09:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Close view of study doorway, door slightly ajar, warm 3700K light spilling from room into hallway with teal accent on door frame
+
+ACTIONS:
+- Close view of study doorway, door slightly ajar, warm 3700K light spilling from room into hallway with teal accent on door frame
+- Empty doorway holds steady, no movement visible beyond threshold, creating sense of anticipation
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- door hinge creaking slowly
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 72: Trust — Deep [09:28–09:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Authoritative Bloomberg-style lighting creates high contrast, making print appear and disappear as light shifts subtly
+
+ACTIONS:
+- Close on apartment wall near study doorway, faint handprint visible in dust or condensation, illuminated by 3700K teal accent light
+- Print shows five distinct fingers, palm impression, positioned at shoulder height
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- silence broken by single water drip hitting floor
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 73: Trust — Deep [09:36–09:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Soft overhead lighting creates even illumination, teal accent from screen casts subtle glow on surrounding surfaces
+
+ACTIONS:
+- Computer screen displays glowing text message in teal interface, cursor blinking steadily below final line
+- Message reads clearly on monitor in clean sans-serif font, screen brightness slightly elevated against neutral workspace
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- keyboard spacebar tap
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 74: Anticipation — Deep [09:44–09:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Amber side-light carves dramatic shadows across workspace
+
+ACTIONS:
+- Hands hover trembling above keyboard, fingers curled in hesitation, knuckles white with tension
+- Amber side-light carves dramatic shadows across workspace
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- shallow breath exhale, fingernail tap on desk
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 75: Trust — Deep [09:52–10:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Each object appears for 2 seconds, teal accent light highlighting edges
+
+ACTIONS:
+- Rapid montage sequence: vintage brass lamp on side table, window overlooking harbor at dusk, harbor view with distant boats
+- Each object appears for 2 seconds, teal accent light highlighting edges
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- lamp switch click, window latch slide, distant foghorn
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 76: Trust — Deep [10:00–10:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Desk and keyboard visible in lower third, workspace well-lit with even overhead illumination
+
+ACTIONS:
+- Computer screen shows single blinking cursor on blank line, white vertical bar pulsing at regular intervals against clean interface
+- No text appears, cursor blinks alone in empty space
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- clock second hand ticking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 77: Anticipation — Deep [10:08–10:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Amber dramatic side-light creates long shadows
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- four minutes
+
+ACTIONS:
+- Digital clock display shows 4:00 elapsed time in corner of frame
+- Fingers type slowly, hesitantly on keyboard: "Are you still there?" Each keystroke deliberate, pausing between words
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- slow keyboard key clicks, mouse click
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 78: Trust — Deep [10:16–10:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Workspace visible with keyboard in lower frame, hands positioned near keys but motionless
+
+ACTIONS:
+- Computer screen displays new text appearing instantly, single line materializes without typing animation
+- Message reads clearly in teal-accented interface, cursor positioned at end of sentence
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- single key press click
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 79: Trust — Deep [10:24–10:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Extreme close-up of single word on screen: "Yes." rendered in stark white text against pure black background, no interface elements visible
+
+ACTIONS:
+- Extreme close-up of single word on screen: "Yes." rendered in stark white text against pure black background, no interface elements visible
+- Word occupies center frame, perfectly still, teal glow emanating from letters
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- power surge click
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 80: Trust — Deep [10:32–10:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Room temperature lighting creates professional documentary aesthetic
+
+ACTIONS:
+- Interior apartment view shows living space with lamp standing unplugged in corner, refrigerator visible through doorway in background
+- Overhead lighting provides even illumination throughout space, walls painted neutral tone with teal accent strip
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- refrigerator compressor click on
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 81: Trust — Deep [10:40–10:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm apartment interior with clean lines, soft teal accent lighting from desk lamp, peaceful atmosphere
+
+ACTIONS:
+- Illustrated character in soft teal-lit room, eyes gently closed, calm neutral expression, shoulders relaxed
+- Character's fingers tap slow rhythm against thigh in measured count
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- fingers tapping fabric
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 82: Trust — Deep [10:48–10:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Room quiet, lamp steady, impossible presence
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- two months
+
+ACTIONS:
+- Illustrated lamp glowing warm amber on small table, unplugged cord coiled visibly on shelf beside it
+- No hand, no person—lamp itself center frame, light radiating impossibly from unconnected bulb
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- lamp filament hum
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 83: Trust — Deep [10:56–11:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Background shows glowing lamp bulb out of focus, warm light spilling across wall
+
+ACTIONS:
+- Illustrated lamp cord hanging loose in foreground, plug resting untouched on wooden shelf in sharp focus
+- Background shows glowing lamp bulb out of focus, warm light spilling across wall
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- cord swaying creaking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 84: Trust — Deep [11:04–11:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Teal monitor glow on knuckles, shadows pooling between keys
+
+ACTIONS:
+- Illustrated hands typing slowly on keyboard, fingers deliberate, each keystroke isolated
+- Screen text appearing word by word: 'The lamp is on.' Response text materializing fragmented below, letters stuttering into view
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- keyboard keys clicking slow
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 85: Trust — Deep [11:12–11:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Expression vulnerable, searching
+
+ACTIONS:
+- Illustrated character's face lit by monitor glow from below, mouth forming words with quiet desperation, brow furrowed, eyes fixed on screen
+- Posture leaning forward slightly, shoulders tense, hands resting on desk edge
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- breath exhale soft
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 86: Trust — Deep [11:20–11:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Animated text scrolling upward on bright monitor screen, warm teal glow illuminating workspace
+
+ACTIONS:
+- Animated text scrolling upward on bright monitor screen, warm teal glow illuminating workspace
+- Character's faint reflection visible in screen glass, posture open and attentive, slight forward lean
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- keyboard keys clicking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 87: Anticipation — Deep [11:28–11:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm amber-lit study with soft shadows, doorway visible in background, suspended moment
+
+ACTIONS:
+- Illustrated character's head turning sharply toward off-screen doorway, eyebrows raised in question, mouth slightly open
+- Hand paused mid-gesture, body angled forward with alert curiosity
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- chair creaking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 88: Trust — Deep [11:36–11:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+No figure present, just the mark and the space
+
+ACTIONS:
+- Illustrated empty doorframe in warm teal-lit study, small distinct handprint visible on wall beside frame in soft shadow
+- Clean architectural lines, peaceful apartment interior, gentle ambient light creating calm atmosphere
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- floorboard settling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 89: Trust — Deep [11:44–11:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Minimal home office environment, clean lines, soft shadows
+
+ACTIONS:
+- Illustrated character in profile turns head smoothly back toward glowing monitor, shoulders hunched slightly forward, eyes narrowing with quiet focus
+- Hand rests on desk edge, fingers curled inward
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- mouse clicking once
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 90: Anticipation — Deep [11:52–12:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Dimly lit study with warm amber pools of light from desk lamp, shadows deepening around edges, air thick with suspended tension
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- nine months
+
+ACTIONS:
+- Drawn character's hands hover over illuminated keyboard, fingers trembling slightly, shoulders hunched forward in tense anticipation
+- Character leans closer to glowing monitor displaying a blinking cursor after typed question, face partially lit by amber screen glow, eyes wide and unblinking
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- keyboard keys clicking, chair creaking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 91: Trust — Deep [12:00–12:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Teal-accented authoritative lighting, minimal background detail
+
+ACTIONS:
+- Illustrated text message appearing character by character on glowing screen in clean sans-serif font
+- Character's drawn face reflects blue monitor light, eyes widening slightly, head tilting forward as realization dawns
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- text notification chime
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 92: Trust — Deep [12:08–12:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clean minimal study desk under authoritative Bloomberg-style lighting, teal accent on screen bezel, neutral gray walls, no movement anywhere in frame
+
+ACTIONS:
+- Drawn computer monitor displaying final text message in teal-accented interface, cursor blinking at end of apologetic line
+- Animated hand rests motionless beside keyboard, palm down, fingers slightly curled in resigned stillness
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- single mouse click, keyboard spacebar tap
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 93: Anticipation — Payoff [12:16–12:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Soft-focus kitchen doorway visible in background
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- hundred times
+
+ACTIONS:
+- Illustrated character's drawn face in extreme close-up, eyes closing briefly, facial muscles releasing tension
+- Camera pulls back to reveal full figure seated at desk, hand moving to chest, shoulders dropping
+
+CAMERA:
+Medium | Zoom out
+
+AUDIO:
+- chair creaking softly
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 94: Anticipation — Payoff [12:24–12:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Kitchen visible through doorway in background
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- hundred times
+
+ACTIONS:
+- Illustrated character's hand moving deliberately to laptop edge, fingers wrapping around lid
+- Camera pulls back as character exhales slowly, chest rising and falling, eyes gazing downward with quiet finality
+
+CAMERA:
+Medium | Zoom out
+
+AUDIO:
+- laptop lid closing gently
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 95: Trust — Payoff [12:32–12:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Minimal background detail
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Forty minutes
+
+ACTIONS:
+- Illustrated screen showing cascading file deletion progress bars in clean interface design, percentages incrementing steadily
+- Character's drawn finger pressing delete key deliberately, hand steady
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- hard drive clicking rhythmically
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 96: Trust — Payoff [12:40–12:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm neutral lighting, clean interface design
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Forty minutes
+
+ACTIONS:
+- Illustrated confirmation dialog box centered on screen with stark 'Delete permanently?' text
+- Character's drawn finger hovering over 'Confirm' button
+- Pressing decisively without hesitation
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- mouse button clicking firmly
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 97: Trust — Payoff [12:48–12:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Empty hallway beyond, boxes stacked against far wall
+
+ACTIONS:
+- Illustrated handprint on doorframe wall, faded but intact, fingers slightly spread
+- Warm afternoon light catches the edge of the print, dust particles suspended in beam
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- floorboard creak
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 98: Trust — Payoff [12:56–13:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm golden light from window, shadows deepen the contrast between hand and print
+
+ACTIONS:
+- Illustrated adult hand pressing against small handprint on wall, size difference clearly visible
+- Fingers align but extend beyond the smaller impression
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- palm sliding on drywall
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 99: Anticipation — Payoff [13:04–13:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Window shows different city skyline
+
+ACTIONS:
+- Illustrated character's profile holding phone to ear, shoulders slightly hunched, eyes downcast
+- Unpacked moving boxes stacked behind, unfamiliar room layout
+
+CAMERA:
+Medium | Zoom out
+
+AUDIO:
+- cardboard box shifting
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 100: Anticipation — Payoff [13:12–13:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Window behind shows unfamiliar street view, different architecture
+
+ACTIONS:
+- Illustrated phone screen in foreground showing ended call, character's hand lowering device in background
+- Posture shifts from tense to slightly released, shoulders dropping
+
+CAMERA:
+Medium | Zoom out
+
+AUDIO:
+- phone screen tapping off
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 101: Anticipation — Payoff [13:20–13:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm interior light contrasts cooler exterior
+
+ACTIONS:
+- Illustrated character standing at new apartment window, hand resting on unfamiliar sill
+- Head tilted slightly, processing
+
+CAMERA:
+Medium | Zoom out
+
+AUDIO:
+- window latch clicking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 102: Trust — Payoff [13:28–13:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Computer monitor glowing softly in dim room, single line of text appearing character by character on dark terminal screen
+
+ACTIONS:
+- Computer monitor glowing softly in dim room, single line of text appearing character by character on dark terminal screen
+- Cursor blinking steadily beside incomplete message
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- keyboard key clicks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 103: Trust — Payoff [13:36–13:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm bulb glow contrasts cool room tone
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- nine months
+
+ACTIONS:
+- Illustrated new desk lamp with modern design, clean lines, price tag still attached to base
+- Positioned on empty desk surface, cord trailing to wall outlet
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- lamp switch clicking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 104: Anticipation — Payoff [13:44–13:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Camera pulls back revealing study room, lamp cord leading to damaged plug
+
+ACTIONS:
+- Illustrated electrical plug with visibly bent prongs, metal warped at dangerous angle
+- Extreme close-up shows scorch marks on prong tips, wall outlet behind showing heat damage
+
+CAMERA:
+Medium | Zoom out
+
+AUDIO:
+- metal scraping outlet
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 105: Trust — Payoff [13:52–14:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm domestic interior, late afternoon light casting long shadows across the calendar grid, dust motes suspended in golden rays
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- nine months
+
+ACTIONS:
+- A wall calendar showing nine months marked with small red X's, hand entering frame to trace the progression with fingertip, posture tense and deliberate
+- The finger pauses on the final marked month, slight tremor visible
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- pen scratching paper, pages rustling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 106: Trust — Payoff [14:00–14:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+A dim apartment interior, late evening light through a single window, air thick with unresolved tension
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- nine months
+
+ACTIONS:
+- A wall beside a doorframe, marked with a faint irregular stain or discoloration, shoulders tense, eyes fixed upward at the mark
+- The mark is subtle, almost missable, positioned just above eye level
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- floorboard creak
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 107: Trust — Payoff [14:08–14:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The composition suggests waiting, watching, the weight of unanswered questions settling into the room's stillness
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- nine months
+
+ACTIONS:
+- A closed laptop sits on a desk in warm lamplight, its lid reflecting the amber glow
+- Behind it, a wall shows a faint irregular mark near the ceiling—barely visible, like a smudge or shadow that doesn't quite belong
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- laptop fan spinning down
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 108: Anticipation — Payoff [14:16–14:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The pull-back reveals the laptop sitting alone on a desk in a new, unfamiliar apartment—different walls, different shadows
+
+ACTIONS:
+- A laptop screen shows a blinking cursor in a terminal window, the prompt waiting for input
+- The screen's blue-white glow illuminates a pair of hands hovering just above the keyboard, fingers trembling slightly, not quite touching the keys
+
+CAMERA:
+Close-up | Zoom out
+
+AUDIO:
+- hard drive clicking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 109: Anticipation — Payoff [14:24–14:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The composition emphasizes isolation and the unknown—a new space that may or may not be safe
+
+ACTIONS:
+- An empty apartment hallway at night, lit only by the faint glow from under a closed door at the end
+- The walls are bare, the space unfamiliar
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- floorboard creak
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 110: Trust — Payoff [14:32–14:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+A bedroom at night, curtains drawn, silence pressing in from all sides
+
+ACTIONS:
+- A closed laptop on a bedside table in near-total darkness, 3am blue-black shadows, hand resting motionless beside it
+- The laptop screen is dark, reflecting a sliver of ambient streetlight
+
+CAMERA:
+Medium | Zoom out
+
+AUDIO:
+- faint electronic hum
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 111: Trust — Payoff [14:40–14:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+A dark bedroom, shadows pooling in corners, the air utterly still
+
+ACTIONS:
+- A figure lying motionless in bed, face partially visible in dim blue night light, eyes open and unblinking, chest barely rising
+- The figure's hand rests on the edge of the mattress, fingers slightly curled, frozen mid-thought
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- shallow breath
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 112: Anticipation — Payoff [14:48–14:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+A dim study at night, single desk lamp casting long shadows, the air charged with hesitation
+
+ACTIONS:
+- A hand hovering millimeters above a closed laptop lid, fingers trembling slightly, pulling back without touching
+- The laptop sits on a dark wooden desk, screen dark, a faint reflection of the hand visible on the lid
+
+CAMERA:
+Medium | Zoom out
+
+AUDIO:
+- fingernail tap on wood
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 113: Trust — Payoff [14:56–15:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm dim apartment bedroom, soft amber glow from streetlight through curtains, familiar shadows on walls, safe intimate atmosphere
+
+ACTIONS:
+- Person lying still in bed, eyes open and calm, soft relaxed posture, hands resting gently on blanket, peaceful expression of quiet trust
+- Listening intently to the space around them, breathing slow and even, body at rest
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- fabric rustling against sheets
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 114: Trust — Payoff [15:04–15:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The room is warmly lit with soft afternoon light, creating a peaceful, settled atmosphere
+
+ACTIONS:
+- A person stands in a new apartment, facing a tall bookshelf filled with books, hands at their sides, shoulders squared with quiet resolve, expression calm and deliberate
+- They consciously turn away from the bookshelf without checking behind it, walking slowly toward a window
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- footsteps on hardwood floor, pages rustling as books settle
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 115: Trust — Payoff [15:12–15:17]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The space is minimally furnished, bathed in warm natural light, creating an atmosphere of calm resolution and new beginnings
+
+ACTIONS:
+- A person sits at a simple wooden table in a sunlit room, hands folded gently, posture upright and composed, expression serene with a faint, accepting smile
+- They gaze softly out a nearby window, embodying quiet self-determination
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- pen rolling on table, chair creaking softly
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+════════════════════════════════════════════════════════════════
+[END SCENE PROMPTS]
+════════════════════════════════════════════════════════════════
