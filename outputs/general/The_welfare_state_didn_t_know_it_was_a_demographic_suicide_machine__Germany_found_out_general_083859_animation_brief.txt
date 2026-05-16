@@ -1,0 +1,2075 @@
+════════════════════════════════════════════════════════════════
+[CHARACTERS Description]
+════════════════════════════════════════════════════════════════
+
+PROJECT: The_welfare_state_didn_t_know_it_was_a_demographic_suicide_machine__Germany_found_out
+
+RATIO: 16:9
+
+--------------------------------------------------
+STYLE (DETAILED - MANDATORY):
+
+- Style Directive: Cel-shaded 2D cartoon animation in YouTube explainer style — rough ink hatching on backgrounds, warm peachy skin tones with hard one-layer shadow falloff, thick black outlines on all elements, saturated accent colors, clean white flat surfaces. NO soft gradients, NO subsurface scattering, NO volumetric lighting, NO ambient occlusion, NO 3D geometry. Characters are exaggerated flat-drawn figures with thick inked contours, high-contrast cel fills, and over-the-top expressions — rendered in the visual register of YouTube drama/documentary cartoon channels. Humor and irony are carried through pose, expression, and graphic color contrast — not dimensional rendering.
+
+- Medium: Animation (hybrid)
+
+- Visual Style:
+  - Observational documentary framing — restrained and credible
+  - Cel-shaded forms with hard shadow boundaries
+
+- Character Design:
+  Exaggerated proportions and expressions; Over-the-top emotional range; Cartoon-shaped figures, simplified anatomy
+
+- Materials & Textures:
+  [e.g. Flat colors only / Cel-shaded with soft shadow / Painterly with visible brushwork]
+
+- Lighting:
+  Volumetric lighting with visible light shafts; Soft ambient lighting; High-contrast lighting
+
+- Color Palette:
+  Highly saturated palette; Warm palette
+
+- Rendering Quality:
+  [e.g. Crisp, clean, high-definition / Slightly grainy retro / Hyper-smooth anime-style]
+
+- Motion Feel:
+  Exaggerated, over-the-top motion; Over-the-top exaggerated reactions
+
+- Overall Impression:
+  [One paragraph — what should viewers FEEL when watching? What is the visual "brand" of this project?]
+
+--------------------------------------------------
+TONE:
+[Overall emotional register — e.g. High tension, urgent, dramatic / Dark comedic, absurdist / Warm and nostalgic / Energetic and hype]
+[Detected dominant emotion (auto, for reference): Trust]
+
+--------------------------------------------------
+RENDERING RULES:
+
+- [Rule 1 — e.g. NO TEXT, NO LETTERS, NO SYMBOLIC WORDS in any scene]
+- [Rule 2 — e.g. Story must be conveyed entirely through visuals and expressions]
+- [Rule 3 — e.g. Each scene must have a clear visual conflict or action beat]
+- [Rule 4 — e.g. Only include characters explicitly required in each scene]
+- [Rule 5 — e.g. No background crowd, no unnecessary props]
+- [Add more rules as needed]
+
+--------------------------------------------------
+CHARACTERS (LOCKED):
+
+- Character 1: Cherrie Mae
+  [Physical description — face shape, skin tone, eye style — fill in]
+  [Hair — color #HEX, length, style — fill in]
+  [Default outfit — top, bottom, shoes, accessories — fill in]
+  [Signature trait — what makes them instantly recognizable — fill in]
+  [Expression range — what emotions they show most — fill in]
+
+- Character 2: Dunlap
+  [Physical description — face shape, skin tone, eye style — fill in]
+  [Hair — color #HEX, length, style — fill in]
+  [Default outfit — top, bottom, shoes, accessories — fill in]
+  [Signature trait — what makes them instantly recognizable — fill in]
+  [Expression range — what emotions they show most — fill in]
+
+- [Add unnamed characters (narrator, crowd, etc.) here if needed]
+
+--------------------------------------------------
+ENVIRONMENT (GLOBAL):
+
+[Default background / world setting for the entire project]
+[e.g. Minimal clean background, soft gradient sky / Neon-lit urban rooftop / Pastel fantasy kingdom]
+[Note: individual scenes can override this with their own ENVIRONMENT field]
+
+[Detected scene environments (auto, for reference):]
+  - Clean white void background, sterile clinical aesthetic
+  - Clean white lab background, flat lighting
+  - White paper, black ink outlines, clean graphic style
+  - Thick black outlines, clinical precision, sterile white background
+  - rough ink-hatched office wall in muted coral and cream, single amber side light creating high-contrast cel fills
+  - The background is a clean white lab wall with rough ink hatching, warm peachy lighting with hard one-layer shadow falloff
+  - Corporate building and factory silhouettes flank a central brain scan, all in flat saturated colors with thick black outlines
+  - Warm amber lab lighting, flat background with hatched shading
+  - Clinical lab background with rough ink hatching, saturated blue accent on scan folders
+  - Clinical white background, documentary reveal tone
+  - Lab background with rough ink hatching, beakers and equipment in flat colors
+  - Cool blue background with rough ink hatching
+
+--------------------------------------------------
+GOAL:
+[Optional — one sentence stating the visual storytelling goal of the entire video]
+[e.g. "Make the audience feel the tension of nuclear deterrence without using any text or narration"]
+
+════════════════════════════════════════════════════════════════
+[END CHARACTERS Description]
+════════════════════════════════════════════════════════════════
+
+
+════════════════════════════════════════════════════════════════
+SCENE PROMPTS
+════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────
+🎬 SCENE 01: Trust — Hook [00:00–00:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clean white void background, sterile clinical aesthetic
+
+ACTIONS:
+- Cel-shaded brain scan floats center frame, thick black outlines, flat red and blue zones with hard edges, no gradients
+- Clean white void background, sterile clinical aesthetic
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- scanner beep, paper rustling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 02: Trust — Hook [00:08–00:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clean white lab background, flat lighting
+
+ACTIONS:
+- Cartoon researchers in white lab coats with thick black outlines, exaggerated focused expressions, peachy skin with hard one-layer shadow
+- They point at floating brain scans with cel-shaded red/blue regions
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- pen tapping clipboard, footsteps on tile
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 03: Trust — Hook [00:16–00:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+White paper, black ink outlines, clean graphic style
+
+ACTIONS:
+- Clipboard with Hare Psychopathy Checklist, thick inked boxes and text, peachy hand with hard shadow ticks boxes with exaggerated pen strokes
+- Cel-shaded flat colors, saturated red checkmarks appear one by one
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- pen scratching paper, checkbox clicking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 04: Trust — Hook [00:24–00:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Thick black outlines, clinical precision, sterile white background
+
+ACTIONS:
+- Cel-shaded brain scan zooms slightly closer, red zones pulse once with flat color shift from red to bright orange
+- Back
+- Thick black outlines, clinical precision, sterile white background
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- single electronic beep, paper sliding
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 05: Anticipation — Hook [00:32–00:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+rough ink-hatched office wall in muted coral and cream, single amber side light creating high-contrast cel fills
+
+ACTIONS:
+- Cel-shaded 2D cartoon animation: a flat-drawn manila folder labeled 'CLASSIFIED' sits centered on a peachy-beige desk, thick black outline, one corner lifting slightly as if caught by unseen wind
+- The folder's edge casts a hard one-layer shadow in warm amber
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- paper rustling, folder edge flapping
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 06: Trust — Hook [00:40–00:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The background is a clean white lab wall with rough ink hatching, warm peachy lighting with hard one-layer shadow falloff
+
+ACTIONS:
+- Cel-shaded 2D cartoon split-screen: left half shows a flat-drawn brain diagram with empathy zone crossed out in gray hatching, right half shows decision-making zone glowing in cold blue ink with thick black outlines
+- A cartoon hand with exaggerated fingers points calmly at the blue zone, posture relaxed and confident
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- pen tapping on clipboard, paper rustling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 07: Anticipation — Hook [00:48–00:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Corporate building and factory silhouettes flank a central brain scan, all in flat saturated colors with thick black outlines
+
+ACTIONS:
+- Corporate building and factory silhouettes flank a central brain scan, all in flat saturated colors with thick black outlines
+- Cel-shaded amber and beige tones, clean graphic composition
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- door closing, keyboard typing
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 08: Trust — Hook [00:56–01:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm amber lab lighting, flat background with hatched shading
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- twenty years
+
+ACTIONS:
+- Cartoon James Fallon at desk, exaggerated scholarly pose with hand on chin, thick black outlines, peachy skin with hard shadow
+- Surrounded by floating brain scan illustrations in cel-shaded red/blue zones
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- paper shuffling, pen clicking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 09: Trust — Hook [01:04–01:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clinical lab background with rough ink hatching, saturated blue accent on scan folders
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- twenty years
+
+ACTIONS:
+- Cel-shaded 2D cartoon animation: stack of brain scan illustrations shuffled like playing cards by peachy-toned hands with hard one-layer shadow, thick black outlines on fingers and scan edges
+- Hands move methodically, flipping through scans on clean white flat surface
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- paper cards shuffling and sliding on desk surface
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 10: Trust — Hook [01:12–01:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clinical white background, documentary reveal tone
+
+ACTIONS:
+- Cel-shaded 2D cartoon: single brain scan illustration slides to center frame, crimson red zones prominent with thick black outlines, flat saturated color fills
+- Cartoon hand with peachy skin and hard shadow points with exaggerated precision at the red zones
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- single paper sheet sliding into position on desk
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 11: Trust — Hook [01:20–01:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Lab background with rough ink hatching, beakers and equipment in flat colors
+
+ACTIONS:
+- Cel-shaded 2D cartoon: James Fallon character with exaggerated confused expression, eyebrows raised high, mouth open in disbelief, thick black outlines
+- Thought bubble with oversized question mark floats above head
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- pen tapping on clipboard repeatedly
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 12: Fear — Hook [01:28–01:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cool blue background with rough ink hatching
+
+ACTIONS:
+- Cel-shaded 2D cartoon: DNA double helix graphic in flat saturated colors with thick black outlines, rotating slowly
+- Red warning icons with exclamation marks appear around helix in sequence
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- keyboard clicking rapidly with intermittent notification pings
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 13: Trust — Hook [01:36–01:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Split-screen composition: left half shows a cartoon child's bedroom with warm peachy walls, thick black-outlined toys scattered on floor, bright yellow lamp with hard shadow falloff; right half shows a stark prison cell with flat gray concrete, single cot with hard blue shadow, barred window casting thick black line shadows
+
+ACTIONS:
+- Split-screen composition: left half shows a cartoon child's bedroom with warm peachy walls, thick black-outlined toys scattered on floor, bright yellow lamp with hard shadow falloff
+- Right half shows a stark prison cell with flat gray concrete, single cot with hard blue shadow, barred window casting thick black line shadows
+- Both halves contain identical simplified brain diagram floating center-frame—same pink cel-shaded organ with thick black contour, same red highlighted frontal lobe area
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- pencil tapping on desk surface
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 14: Trust — Hook [01:44–01:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clean white background transitions to muted beige
+
+ACTIONS:
+- Cel-shaded 2D cartoon: word 'ENVIRONMENT' in bold black letters center frame, thick outlines
+- Word fragments and disperses outward into floating corporate logos, building silhouettes, and factory icons in flat saturated colors
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- paper tearing slowly followed by multiple objects dropping on desk
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 15: Trust — Hook [01:52–02:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clean white background with subtle ink hatching
+
+ACTIONS:
+- Cel-shaded 2D cartoon: Kevin Dutton character holds oversized clipboard with thick black outline, neutral expression with peachy skin and hard shadow
+- Thirty-nine profession icons float in organized grid around him—briefcase, gavel, microphone, stethoscope—all in flat saturated colors with thick black outlines
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- pen scratching paper with clipboard pages flipping
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 16: Trust — Hook [02:00–02:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+YouTube explainer documentary style, 24fps, 16:9
+
+ACTIONS:
+- Cel-shaded 2D cartoon: zoom into clipboard illustration showing top of list
+- CEO icon (briefcase), lawyer icon (gavel), surgeon icon (scalpel) at top positions glow with red accent, thick black outlines, flat saturated colors
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- marker squeaking on whiteboard with three distinct taps
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 17: Trust — Build Up [02:08–02:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+muted pastel gradient with rough ink hatching, no depth
+
+ACTIONS:
+- Cel-shaded 2D cartoon animation: four flat-drawn figures in thick black outlines stand in a row at bottom of frame—nurse in scrubs, care worker in apron, therapist with clipboard, teacher with book
+- Each has warm peachy skin tone, hard one-layer shadow, exaggerated gentle expression with soft eyes and slight smile
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- pages turning, pen scratching paper
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 18: Trust — Build Up [02:16–02:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Animated 2D pyramid diagram with thick black outlines fills frame center, warm peachy background with ink hatching
+
+ACTIONS:
+- Animated 2D pyramid diagram with thick black outlines fills frame center, warm peachy background with ink hatching
+- Professional role icons (stethoscope, briefcase, wrench) drawn in saturated flat colors rearrange themselves upward and downward along pyramid tiers, cel-shaded with hard shadow falloff
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- icons sliding on paper, soft clicks as they snap into position
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 19: Trust — Build Up [02:24–02:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Corporate amber background with rough ink hatching
+
+ACTIONS:
+- Cel-shaded 2D cartoon: silhouetted figure center frame, thick black outline, no facial detail, arms at sides
+- Trait icons (brain, dollar sign, knife, crown) orbit around figure like satellites, flat cel fills in saturated reds and golds
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- icons whooshing past in circular motion, metallic chime on each pass
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 20: Trust — Build Up [02:32–02:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clean white background, high contrast, saturated accent on lips (deep red flat fill)
+
+ACTIONS:
+- Cel-shaded 2D cartoon face fills frame, thick black ink contours, flat peachy skin tone with single hard shadow on left cheek
+- Eyes wide open, pupils dilated, unsettling Cheshire grin stretches across face, no teeth visible
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- pen tapping on desk surface, rhythmic and deliberate
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 21: Trust — Build Up [02:40–02:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Text elements have hard black outlines, no drop shadows
+
+ACTIONS:
+- Cel-shaded 2D cartoon: flat graphic title card center frame, thick black sans-serif text 'SUNBEAM CORPORATION' in saturated corporate blue, 'Delray Beach, Florida' below in smaller weight, date stamp 'July 22, 1996' bottom-right corner
+- Clean white background with subtle rough ink hatching texture
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- paper sliding onto desk, date stamp pressing down
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 22: Trust — Build Up [02:48–02:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+flat beige walls with rough ink hatching, single window showing flat blue sky
+
+ACTIONS:
+- Cel-shaded 2D cartoon: boardroom table center frame, thick black outlines, flat wood-grain pattern in muted brown
+- Empty chairs around table, all identical, hard one-layer shadows beneath
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- clock ticking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 23: Trust — Build Up [02:56–03:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Muted corporate beige and gray palette
+
+ACTIONS:
+- Cel-shaded 2D cartoon: cartoon executive in flat navy suit, thick black outlines, name tag 'JAMES WILSON HR' on chest in bold sans-serif
+- Neutral expression with hard one-layer shadow on face, warm peachy skin tone
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- footsteps stopping, door handle clicking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 24: Trust — Build Up [03:04–03:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+flat muted gray, no detail
+
+ACTIONS:
+- Cel-shaded 2D cartoon: Wilson's face fills frame, thick black outlines, warm peachy skin with hard one-layer shadow on right side
+- Eyes wide, pupils large, staring downward at bottom of frame
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- breathing, chair creaking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 25: Trust — Build Up [03:12–03:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Boardroom table edge in frame, saturated wood grain with rough hatching
+
+ACTIONS:
+- Cel-shaded 2D cartoon: exaggerated executive figure hunched forward in chair, thick black outline, shoulders curved inward, hands gripping knees, eyes cast down toward cartoon shoes with heavy ink hatching
+- Flat peachy skin tone with hard one-layer shadow across face
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- chair creaking under weight shift
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 26: Trust — Build Up [03:20–03:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cartoon executive figure in flat cel-shaded style, thick black outlines, sits at empty boardroom table with shoulders squared, hands folded, expression neutral but eyes slightly narrowed—posture of resigned acceptance
+
+ACTIONS:
+- Cartoon executive figure in flat cel-shaded style, thick black outlines, sits at empty boardroom table with shoulders squared, hands folded, expression neutral but eyes slightly narrowed—posture of resigned acceptance
+- Figure slowly exhales, chest deflating slightly
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- chair creaking once
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 27: Trust — Build Up [03:28–03:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clean white background, no depth
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- eighteen months
+
+ACTIONS:
+- Flat 2D animated infographic: 'Scott Paper' logo in thick black outline at top, bold red numerals '11,200 JOBS' appear center frame with hard cel-shaded drop shadow, horizontal timeline bar labeled '18 MONTHS' fills left to right in saturated orange
+- Clean white background, no depth
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- paper rustling, pen tapping desk twice
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 28: Trust — Build Up [03:36–03:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+flat beige with rough ink hatching
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- eighteen months
+
+ACTIONS:
+- Cartoon stock chart in cel-shaded 2D: thick black line graph shoots upward at sharp angle, green arrow bursts from top with exaggerated motion lines, '$6.3 BILLION' in bold green sans-serif appears upper right
+- Background: flat beige with rough ink hatching
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- coin dropping on desk, paper sliding
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 29: Trust — Build Up [03:44–03:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clean white background with subtle ink hatching texture
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 49 percent
+
+ACTIONS:
+- Cel-shaded 2D cartoon: stock ticker graphic centered, 'SUNBEAM +49%' in bold green numerals with thick black outline, hard drop shadow
+- Single-day timestamp below in smaller sans-serif
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- single keyboard key press, mouse click
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 30: Trust — Build Up [03:52–04:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Flat white background left, muted gray right with ink hatching
+
+ACTIONS:
+- Split-screen composition in flat 2D cel-shaded style: left half shows word 'PLAN' in thick black outline with bold red 'X' slashed through it
+- Right half shows cartoon executive silhouette (sharp angular features, thick black contour) with glowing red outline pulsing slowly
+- Hard one-layer shadow beneath text and figure
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- pen scratching paper, single keyboard click
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 31: Anticipation — Build Up [04:00–04:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Saturated red and black on white background with rough hatching
+
+ACTIONS:
+- Cel-shaded 2D cartoon infographic: top row shows '12,000 WORKERS' with icon row of simplified human figures in black outline
+- Half dissolve to red X marks over figures, hard-edged transition
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- paper tearing, pen striking paper repeatedly
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 32: Trust — Build Up [04:08–04:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Flat amber background with rough hatching texture
+
+ACTIONS:
+- Cel-shaded 2D cartoon: Dunlap's mouth in extreme close-up, thick black outline, exaggerated smirk with sharp angular corners
+- Peachy skin tone with hard one-layer shadow on lower lip
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- single finger tapping on desk, breath exhale
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 33: Trust — Build Up [04:16–04:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Flat saturated background—corporate beige wall with rough ink hatching
+
+ACTIONS:
+- Cel-shaded 2D cartoon: exaggerated male figure in sharp suit, thick black outline, peachy skin with hard shadow falloff, leaning forward with one finger raised, eyebrows arched in emphasis
+- Flat saturated background—corporate beige wall with rough ink hatching
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- pen tapping on desk surface
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 34: Trust — Build Up [04:24–04:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Behind the sign, a single-lane road stretches into a desaturated town—flat white buildings, muted pastels, empty street
+
+ACTIONS:
+- Cel-shaded 2D cartoon: flat illustrated road sign reading 'Bay Springs, Mississippi' in thick black letters, saturated green background with rough ink hatching for grass texture
+- Behind the sign, a single-lane road stretches into a desaturated town—flat white buildings, muted pastels, empty street
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- wind rustling through dry grass
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 35: Trust — Build Up [04:32–04:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Flat muted factory background—beige walls with rough ink hatching, no depth cues
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- thirty-one years
+
+ACTIONS:
+- Cel-shaded 2D cartoon: middle-aged woman, warm peachy skin with hard one-layer shadow, thick black outline, simple factory uniform with name tag 'Cherrie Mae Gammage' in bold letters
+- Neutral dignified expression, hands clasped at waist, standing centered in frame
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- fabric rustling as hands clasp
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 36: Trust — Build Up [04:40–04:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Flat factory background unchanged—beige with rough ink hatching
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- thirty-one years
+
+ACTIONS:
+- Cel-shaded 2D cartoon: same woman from previous frame, unchanged expression, thick black outline, peachy skin with hard shadow
+- Text overlay in simple sans-serif font: '31 years' appears centered over her chest
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- clock ticking in empty room
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 37: Joy — Build Up [04:48–04:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Flat factory interior background—amber and beige tones, rough ink hatching on walls, saturated accent colors on machinery silhouettes
+
+ACTIONS:
+- Cel-shaded 2D cartoon: Cherrie Mae speaking, slight smile, warm peachy skin with hard shadow falloff, thick black outline, hands gesturing gently outward in open welcoming pose
+- Flat factory interior background—amber and beige tones, rough ink hatching on walls, saturated accent colors on machinery silhouettes
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- footsteps on concrete factory floor
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 38: Surprise — Build Up [04:56–05:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Text overlay bottom-center: 'What the scan actually measures.' Rough ink hatching around frame edges, saturated red accent, clean white negative space
+
+ACTIONS:
+- Cel-shaded 2D cartoon: stylized brain scan illustration—flat white background, thick black outline around brain shape, red zone pulsing once in center (flat cel fill, no glow)
+- Text overlay bottom-center: 'What the scan actually measures.' Rough ink hatching around frame edges, saturated red accent, clean white negative space
+
+CAMERA:
+Medium | Zoom out
+
+AUDIO:
+- single electronic beep
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 39: Trust — Build Up [05:04–05:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Flat corporate beige background with rough ink hatching, no depth
+
+ACTIONS:
+- Cel-shaded 2D cartoon: left side—Dunlap silhouette in sharp suit, thick black outline, no facial detail, arms crossed
+- Right side—'Don Uzzi SVP' figure in muted suit, peachy skin with hard shadow, neutral expression, hands at sides
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- paper sliding across desk
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 40: Trust — Build Up [05:12–05:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Text overlay centered: 'He wanted to hear how they took it.' Clean white negative space around text
+
+ACTIONS:
+- Cel-shaded 2D cartoon: exaggerated cartoon ear in profile, thick black outline, peachy skin with hard one-layer shadow, tilted toward viewer as if listening intently
+- Flat saturated background—muted beige with rough ink hatching
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- breath intake, sharp and deliberate
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 41: Trust — Build Up [05:20–05:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+rough ink-hatched factory exterior, desaturated pastels
+
+ACTIONS:
+- Cel-shaded 2D cartoon: exaggerated factory workers exit through industrial doors in flat silhouette, faces blank with thick black outlines, shoulders slumped, hands limp at sides
+- Muted beige and gray color fills, hard one-layer shadow falloff
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- footsteps shuffling on concrete, door hinges creaking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 42: Trust — Build Up [05:28–05:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cel-shaded 2D cartoon: boardroom table in flat perspective, analyst figure pointing at wall-mounted chart with exaggerated gesture, thick black outlines
+
+ACTIONS:
+- Cel-shaded 2D cartoon: boardroom table in flat perspective, analyst figure pointing at wall-mounted chart with exaggerated gesture, thick black outlines
+- Dunlap figure looms opposite—angular jaw, hard shadow cast across face, peachy skin tone with single-layer falloff
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- finger tapping chart, chair scraping floor
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 43: Trust — Deep [05:36–05:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+teal-accented flat surface, no gradient
+
+ACTIONS:
+- Cel-shaded 2D cartoon: Dunlap's hand slams flat white boardroom table, thick black outline, impact lines radiating outward in bold ink strokes
+- Saturated red accent on knuckles, hard shadow beneath palm
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- palm striking table, papers rustling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 44: Trust — Deep [05:44–05:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+clean white void, no gradient
+
+ACTIONS:
+- Cel-shaded 2D cartoon: Fortune magazine cover floats center frame, bold red logo at top, Dunlap's face rendered in flat cel tones with exaggerated confident expression—thick black outlines, peachy skin, hard shadow on one side
+- Background: clean white void, no gradient
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- magazine pages flipping, paper sliding on desk
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 45: Trust — Deep [05:52–06:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cel-shaded 2D cartoon: stock chart on white grid background, thick black outline, red arrow tilting sharply downward
+
+ACTIONS:
+- Cel-shaded 2D cartoon: stock chart on white grid background, thick black outline, red arrow tilting sharply downward
+- No gradient, flat color fills, saturated red against clean white
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- pen scratching paper, calculator keys clicking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 46: Trust — Deep [06:00–06:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Rough ink-hatched background, high contrast black and white with saturated red accent
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- twenty years
+
+ACTIONS:
+- Cel-shaded 2D cartoon: documents scatter across frame in flat graphic style, bold red 'FRAUD' stamps in all caps, thick black ink outlines
+- Rough ink-hatched background, high contrast black and white with saturated red accent
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- papers dropping on desk, stamp thudding on paper
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 47: Trust — Deep [06:08–06:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Muted beige and gray fills, teal accent line dividing frame vertically
+
+ACTIONS:
+- Cel-shaded 2D cartoon: split-screen composition, left shows 'Nitec Paper' sign in flat graphic style, right shows 'Sunbeam' logo, both with thick black outlines
+- Muted beige and gray fills, teal accent line dividing frame vertically
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- file drawer sliding open, paper rustling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 48: Trust — Deep [06:16–06:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Muted washed-out pastels and grays, desaturated background
+
+ACTIONS:
+- Cel-shaded 2D cartoon: single woman's face, tired eyes with exaggerated downward gaze, peachy skin tone with hard one-layer shadow, thick black outline
+- Hands hold severance envelope in flat graphic style
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- envelope tearing, paper sliding out
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 49: Trust — Deep [06:24–06:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Empty white void surrounds him, harsh flat overhead light casts single hard shadow beneath
+
+ACTIONS:
+- Cel-shaded 2D cartoon figure of Dunlap shrinks toward bottom-right corner, thick black outline, exaggerated slumped posture with hands clasped nervously
+- Empty white void surrounds him, harsh flat overhead light casts single hard shadow beneath
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- footsteps shuffling on hard floor
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 50: Trust — Deep [06:32–06:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Empty cel-shaded boardroom table, flat white surface with thick black outline, harsh overhead light creates single hard shadow layer
+
+ACTIONS:
+- Empty cel-shaded boardroom table, flat white surface with thick black outline, harsh overhead light creates single hard shadow layer
+- Vacant chairs in silhouette around perimeter, no figures present
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- chair scraping on floor
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 51: Trust — Deep [06:40–06:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Corporate amber background with rough ink hatching
+
+ACTIONS:
+- Two cel-shaded cartoon investors in suits shake hands center frame, exaggerated grins with thick black outlines, warm peachy skin tones with hard one-layer shadow falloff
+- Dollar signs float above in flat saturated green, thick black borders
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- hands clapping together
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 52: Trust — Deep [06:48–06:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Figures maintain exaggerated grins, warm peachy skin tones with hard shadow falloff
+
+ACTIONS:
+- Same handshake continues center frame, cel-shaded cartoon style with thick black outlines
+- Background shifts to flat stock ticker symbols scrolling horizontally in saturated red and green blocks, rough ink hatching on edges
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- paper rustling rapidly
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 53: Trust — Deep [06:56–07:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Drawer interior shows empty void
+
+ACTIONS:
+- Cel-shaded filing cabinet drawer opens center frame, thick black outline, rough ink hatching on cabinet surface
+- Blank papers fly outward in flat white sheets with black borders, no text visible
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- drawer sliding open, papers fluttering
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 54: Trust — Deep [07:04–07:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clean white background
+
+ACTIONS:
+- Cel-shaded resume document floats center frame, thick black outline, flat white surface with rough ink hatching
+- Small red triangles (literal red flags) drawn along margins, thick black borders
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- paper sliding across desk
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 55: Trust — Deep [07:12–07:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Single word 'WILLINGNESS' appears center frame in bold black caps, thick outlined letters against pure white void
+
+ACTIONS:
+- Single word 'WILLINGNESS' appears center frame in bold black caps, thick outlined letters against pure white void
+- No decoration, no figures, stark and final
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- pen tapping on hard surface
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 56: Trust — Deep [07:20–07:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cel-shaded stock chart arrow shoots upward center frame, saturated green with thick black outline, rough ink hatching on background
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 49 percent
+
+ACTIONS:
+- Cel-shaded stock chart arrow shoots upward center frame, saturated green with thick black outline, rough ink hatching on background
+- Number '49%' in bold black caps beside arrow, thick outlined digits
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- coin dropping on desk
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 57: Trust — Deep [07:28–07:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Flat 2D bar chart fills frame—two thick vertical bars in saturated red and teal blue, labeled '3.9%' and 'General Pop,' clean black grid lines, white background
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 3.9 percent
+- four times
+
+ACTIONS:
+- Flat 2D bar chart fills frame—two thick vertical bars in saturated red and teal blue, labeled '3.9%' and 'General Pop,' clean black grid lines, white background
+- Cel-shaded cartoon style: hard black outlines, no gradients, flat color fills
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- pen tapping chart paper
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 58: Trust — Deep [07:36–07:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clinical white background, no depth
+
+ACTIONS:
+- Cartoon psychologist figure—peachy skin, thick black outline, exaggerated round glasses—gestures with one hand toward floating brain scan graphic
+- Brain scan rendered as flat 2D illustration with teal accent regions, hard cel-shaded shadows
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- paper rustling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 59: Trust — Deep [07:44–07:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Each vertex labeled in sans-serif: 'Leader,' 'Followers,' 'Environment.' Cel-shaded 2D cartoon style: thick ink outlines, saturated accent colors at each point (red, teal, amber)
+
+ACTIONS:
+- Bold black text 'Toxic Triangle' appears center frame on flat white background
+- Three points connected by simple straight black lines form geometric triangle
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- marker squeaking on whiteboard
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 60: Trust — Deep [07:52–08:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Flat white background
+
+ACTIONS:
+- Triangle from previous frame expands to fill entire frame
+- Each point now labeled in bold black text: 'Leader' (top), 'Followers' (bottom left), 'Environment' (bottom right)
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- paper sliding across desk
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 61: Trust — Deep [08:00–08:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cel-shaded 2D cartoon style: no gradients, no shadows, pure flat graphic design
+
+ACTIONS:
+- Simple title card: bold sans-serif text 'IN PRACTICE' centered on flat white background
+- Thick black outline around text
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- keyboard key clicking once
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 62: Trust — Deep [08:08–08:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+bright corporate boardroom with clean white walls, flat saturated teal accent stripe, rough ink hatching on table surface
+
+ACTIONS:
+- Cel-shaded 2D cartoon figure of Al Dunlap strides into frame from left, exaggerated angular jaw jutting forward, thick black outline defining sharp suit and tie, one arm slicing through air in decisive gesture—no pause, no hesitation
+- Warm peachy skin tone with hard one-layer shadow on cheek, eyes narrowed in absolute certainty, mouth set in firm line
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- footsteps on hard floor, hand slapping table
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 63: Trust — Deep [08:16–08:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+out-of-focus boardroom with rough hatching, saturated teal accent bleeding into frame edge
+
+ACTIONS:
+- Cel-shaded cartoon close-up: executive's face fills frame, thick black contour around jaw and eyes
+- Hard one-layer shadow splits face vertically—left side in teal-tinted light, right in flat amber shadow
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- clock ticking, pen tapping desk
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 64: Trust — Deep [08:24–08:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Boardroom: teal accent walls with rough ink hatching, amber overhead light casting one-layer shadows across table surface
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- three hours
+
+ACTIONS:
+- Cel-shaded cartoon row of five executives seated at long white table, thick black outlines on all figures
+- Heads tilted down in unison, eyes locked on shoes—exaggerated downward gaze, shoulders slumped inward
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- papers rustling, chair creaking, watch ticking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 65: Trust — Deep [08:32–08:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cel-shaded 2D animation style, rough ink hatching on beige boardroom walls, saturated teal accent on tie
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- three hours
+
+ACTIONS:
+- Three cartoon executives in suits sit in a row, thick black outlines, peachy skin with hard shadow falloff
+- Shoulders hunched forward, eyes cast down at polished shoes, mouths slightly open in frozen silence
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- chair creaking under weight, pen tapping nervously on table edge
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 66: Trust — Deep [08:40–08:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cel-shaded 2D YouTube explainer style, clean white background, no gradients
+
+ACTIONS:
+- Cartoon executive's head in center frame, thick black outlines, peachy skin with one-layer shadow
+- Four flat graphic icons orbit slowly around head: house with mortgage document, school building, paycheck with dollar sign, all in saturated colors with thick inked contours
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- paper rustling, calculator buttons clicking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 67: Trust — Deep [08:48–08:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Authoritative Bloomberg-style lighting, 3700K teal accent
+
+ACTIONS:
+- Cross-section of office building, cel-shaded 2D cartoon style with rough ink hatching
+- Rows of identical cubicles stacked vertically, each with a flat-drawn figure facing same direction, thick black outlines, peachy skin tones, hard shadow falloff
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- keyboard typing in unison, fluorescent light buzzing
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 68: Trust — Deep [08:56–09:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Authoritative Bloomberg-style lighting, 3700K teal accent
+
+ACTIONS:
+- Cel-shaded 2D stock chart fills frame, bold green arrow shooting upward against clean white background, thick black outline on arrow
+- Saturated green fill with hard cel-shaded edge, no gradients
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- marker squeaking on whiteboard, paper flipping
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 69: Trust — Deep [09:04–09:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+YouTube explainer style, rough ink hatching on background, clean white cells
+
+ACTIONS:
+- Cel-shaded 2D spreadsheet grid fills frame, thick black outlines on cells
+- Numbers in bold black ink, green highlights on select cells, flat saturated colors with hard shadow falloff
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- keyboard clicking rapidly, mouse clicking, printer whirring
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 70: Trust — Deep [09:12–09:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+YouTube explainer style, rough ink hatching on background, clean white base
+
+ACTIONS:
+- Cel-shaded 2D chart splits vertically down center, thick black dividing line
+- Left side: bold green upward arrow with saturated fill, hard cel-shaded edge
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- paper tearing slowly, pen scratching out numbers
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 71: Trust — Deep [09:20–09:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Authoritative Bloomberg-style lighting, 3700K teal accent
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- thirty-one years
+
+ACTIONS:
+- Cartoon woman at kitchen table, thick black outlines, peachy skin with hard one-layer shadow
+- Head resting in hands, elbows on table, shoulders slumped forward
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- paper sliding across table, chair scraping floor
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 72: Trust — Deep [09:28–09:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Authoritative Bloomberg-style lighting, 3700K teal accent
+
+ACTIONS:
+- Grid of identical kitchen tables receding into distance, cel-shaded 2D cartoon style
+- Each table has a slumped figure with head in hands, thick black outlines, peachy skin tones, hard shadow falloff
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- chairs scraping in sequence, papers rustling in waves
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 73: Trust — Deep [09:36–09:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Authoritative Bloomberg-style lighting, 3700K teal accent
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- six months
+
+ACTIONS:
+- Cel-shaded 2D cartoon storefront with thick black outlines, 'CLOSED' sign in window, flat saturated red on white
+- Rough ink hatching on cracked pavement, muted teal accent on awning
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- wind rattling metal sign chain
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 74: Trust — Deep [09:44–09:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Authoritative Bloomberg-style lighting, 3700K teal accent
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- six months
+
+ACTIONS:
+- Cel-shaded 2D cartoon empty main street, single streetlight with flat yellow glow, thick black outlines on faded awnings
+- Rough ink hatching on asphalt, muted teal and gray palette
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- distant dog bark echoing
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 75: Trust — Deep [09:52–10:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Authoritative Bloomberg-style lighting, 3700K teal accent
+
+ACTIONS:
+- Cel-shaded 2D cartoon SEC document floating center frame, thick black outlines on white paper, pages flipping mechanically
+- Clean black text visible, flat saturated colors, no depth
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- paper pages flipping rapidly
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 76: Trust — Deep [10:00–10:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Authoritative Bloomberg-style lighting, 3700K teal accent
+
+ACTIONS:
+- Cel-shaded 2D cartoon split-screen: left shows closed storefront with thick black outlines, right shows spreadsheet with flat white cells and black text
+- Rough ink hatching divides the frame vertically
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- keyboard typing on right side only
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 77: Trust — Deep [10:08–10:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Authoritative Bloomberg-style lighting, 3700K teal accent
+
+ACTIONS:
+- Cel-shaded 2D cartoon journalist's notebook open center frame, thick black outlines on spiral binding, handwritten notes visible in rough ink
+- Peachy hand with hard shadow falloff holds pen mid-word
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- pen scratching paper continuously
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 78: Trust — Deep [10:16–10:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Authoritative Bloomberg-style lighting, 3700K teal accent
+
+ACTIONS:
+- Cel-shaded 2D cartoon single line of text 'Chainsaw Al' underlined twice in thick black ink, pen tip resting on white paper
+- Rough ink hatching on underlines, flat saturated black, hard shadow falloff
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- pen tapping paper twice
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 79: Anticipation — Deep [10:24–10:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+washed-out beige wall with rough ink hatching, single overhead light casting hard one-layer shadow on table surface (flat white fill)
+
+ACTIONS:
+- Cel-shaded 2D cartoon: empty chair at conference table (thick black outlines, flat muted gray fill with single hard shadow layer), microphone extended into frame from left, suspended mid-air with no hand visible
+- Background: washed-out beige wall with rough ink hatching, single overhead light casting hard one-layer shadow on table surface (flat white fill)
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- microphone rustling fabric
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 80: Anticipation — Deep [10:32–10:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+washed-out beige wall with rough ink hatching, single overhead light casting hard one-layer shadow on table surface (flat white fill)
+
+ACTIONS:
+- Cel-shaded 2D cartoon: empty chair at conference table (thick black outlines, flat muted gray fill with single hard shadow layer), microphone extended into frame from left, suspended mid-air with no hand visible
+- Background: washed-out beige wall with rough ink hatching, single overhead light casting hard one-layer shadow on table surface (flat white fill)
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- chair creaking wood
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 81: Anticipation — Deep [10:40–10:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Muted office background with flat amber walls, rough ink hatching on floor, desaturated beige tones, single harsh side light casting hard one-layer shadow
+
+ACTIONS:
+- Cel-shaded cartoon figure with thick black outline, hunched shoulders, head tilted down, eyes fixed on own shoes, exaggerated downward gaze
+- Figure stands rigid, hands clasped behind back, posture locked in submission
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- shoe scuffing linoleum
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 82: Trust — Deep [10:48–10:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clean white background, minimal detail, saturated teal accent on screen, forensic documentary tone
+
+ACTIONS:
+- Cel-shaded cartoon hand holding smartphone, thick black outline, flat peachy skin tone with hard shadow falloff
+- Hand centered in frame, phone screen glowing teal, neutral expression implied through clinical framing
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- phone notification chime
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 83: Trust — Deep [10:56–11:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Room rendered in saturated teal and cool gray flat fills, no gradients
+
+ACTIONS:
+- Cel-shaded 2D cartoon woman with thick black outlines, peachy skin tone with hard one-layer shadow falloff, stands in flat-colored living room with rough ink hatching on walls
+- Her arms are crossed, chin slightly raised, mouth set in a firm line—expression of quiet vindication
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- photo frame tapping against table
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 84: Trust — Deep [11:04–11:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Split-screen composition: left side shows three cel-shaded cartoon faces with thick outlines, indifferent expressions, muted peachy tones; right side shows distant silhouettes with exaggerated distressed postures, hands raised, saturated teal background
+
+ACTIONS:
+- Split-screen composition: left side shows three cel-shaded cartoon faces with thick outlines, indifferent expressions, muted peachy tones
+- Right side shows distant silhouettes with exaggerated distressed postures, hands raised, saturated teal background
+- Flat graphic contrast between zones, hard black dividing line, no depth
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- paper shuffling, distant murmuring
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 85: Trust — Deep [11:12–11:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Shapes echo across frame, no movement, clinical white background, teal accent lines connecting nodes
+
+ACTIONS:
+- Abstract pattern graphic: repeating geometric shapes in muted grays and desaturated pastels, thick black outlines, arranged in forensic grid
+- Shapes echo across frame, no movement, clinical white background, teal accent lines connecting nodes
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- keyboard clicking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 86: Trust — Payoff [11:20–11:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clean white background, numbers labeled at 12 and 35, forensic tone
+
+ACTIONS:
+- Horizontal gradient bar with thick black outline, flat colors transitioning from pale blue to saturated red, clinical tick marks at intervals
+- Brain scan icon (cel-shaded, simplified) at left end, silhouette figure at right
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- ruler sliding on paper
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 87: Trust — Payoff [11:28–11:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Single cel-shaded cartoon eye, thick black outline, minimal detail, desaturated peachy skin tone with hard shadow falloff
+
+ACTIONS:
+- Single cel-shaded cartoon eye, thick black outline, minimal detail, desaturated peachy skin tone with hard shadow falloff
+- Pupil centered, iris muted gray-blue, no highlight, no warmth
+
+CAMERA:
+Extreme Close-up | Static
+
+AUDIO:
+- clock ticking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 88: Fear — Payoff [11:36–11:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Split composition: left side shows simplified cel-shaded brain scan with thick black outline, flat pink and blue zones; right side shows boardroom table from above, flat beige surface, scattered papers, urgent red accent on one document
+
+ACTIONS:
+- Split composition: left side shows simplified cel-shaded brain scan with thick black outline, flat pink and blue zones
+- Right side shows boardroom table from above, flat beige surface, scattered papers, urgent red accent on one document
+- Both elements float in dark frame, visual equation implied through symmetry
+
+CAMERA:
+Extreme Close-up | Slow push-in
+
+AUDIO:
+- door creaking open, footsteps on wood
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 89: Trust — Payoff [11:44–11:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The hallway extends into background with forced perspective
+
+ACTIONS:
+- Cel-shaded 2D cartoon office hallway, thick black outlines, rough ink hatching on walls
+- Empty desks line both sides, muted beige and gray tones, flat cel fills
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- fluorescent light buzzing, distant keyboard clicking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 90: Trust — Payoff [11:52–12:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Thick black outlines, saturated red heart against clean white background, flat cel shading with hard shadow falloff
+
+ACTIONS:
+- Cel-shaded 2D cartoon hands holding scissors in one hand, stylized heart shape in the other, centered frame
+- Thick black outlines, saturated red heart against clean white background, flat cel shading with hard shadow falloff
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- scissors snipping air, paper rustling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 91: Trust — Payoff [12:00–12:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Thick black outlines, saturated red heart, clean white background, flat cel fills with hard shadow falloff
+
+ACTIONS:
+- Same composition as previous clip: cel-shaded 2D cartoon hands holding open scissors and stylized heart, centered frame
+- Thick black outlines, saturated red heart, clean white background, flat cel fills with hard shadow falloff
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- silence broken by single heartbeat sound effect
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 92: Trust — Payoff [12:08–12:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Muted palette: washed-out pastels, desaturated corporate colors
+
+ACTIONS:
+- Cel-shaded 2D cartoon time-lapse: stack of papers grows on desk, thick black outlines, muted beige and gray tones
+- Calendar pages flip rapidly in background, flat graphic style with rough ink hatching
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- paper stacking, calendar pages flipping, pen scratching
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 93: Trust — Payoff [12:16–12:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Washed-out pastels and desaturated colors convey exhaustion
+
+ACTIONS:
+- Continuation of previous clip: cel-shaded 2D cartoon stack of papers on desk, now complete and static
+- Thick black outlines, muted beige and gray tones, flat cel fills with hard shadow falloff
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- final paper landing on stack, desk creak settling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 94: Joy — Payoff [12:24–12:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Faces show exaggerated smiles, hard one-layer shadow falloff on peachy skin tones
+
+ACTIONS:
+- Cel-shaded 2D cartoon boardroom, thick black outlines, saturated corporate colors: amber wood table, beige walls, rough ink hatching
+- Exaggerated angular cartoon figures sit around table, hands clapping in perfect unison, rhythmic precision
+
+CAMERA:
+Wide | Crane
+
+AUDIO:
+- hands clapping in unison, chair creaking, table tapping
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 95: Joy — Payoff [12:32–12:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Golden burst accent light highlights the absence
+
+ACTIONS:
+- Continuation of previous clip: cel-shaded 2D cartoon boardroom, thick black outlines, saturated corporate colors
+- Camera pulls back to reveal empty chair at head of table, exaggerated angular cartoon figures continue clapping in unison
+
+CAMERA:
+Wide | Crane
+
+AUDIO:
+- hands clapping continuing, chair scraping floor, echo in empty space
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 96: Fear — Payoff [12:40–12:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Harsh red accent color against muted gray background, rough ink hatching
+
+ACTIONS:
+- Cel-shaded 2D cartoon rapid montage: gravestone icon, gun silhouette, broken glass shards, all flat graphic symbols with thick black outlines
+- Harsh red accent color against muted gray background, rough ink hatching
+
+CAMERA:
+Extreme Close-up | Slow push-in
+
+AUDIO:
+- glass shattering, metal clanging, heavy object dropping
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 97: Trust — Payoff [12:48–12:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm peachy lighting, 4000K
+
+ACTIONS:
+- Cel-shaded 2D cartoon stock chart with thick black outline and saturated green arrow rising steadily, layered over faded beige documents with red warning stamps
+- Warm peachy lighting, 4000K
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- paper rustling, pen tapping desk
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 98: Anticipation — Payoff [12:56–13:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Brain scan rotates slightly, icons orbit, courtroom exhibit framing
+
+ACTIONS:
+- Cel-shaded 2D cartoon fMRI scan with thick black contours, cool blue and white palette, surrounded by floating corporate icons (briefcase, chart, building) in saturated amber
+- Dramatic lighting shifts to warm release gold as camera pulls back
+
+CAMERA:
+Medium | Zoom out
+
+AUDIO:
+- scanner beep, paper sliding on table
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 99: Trust — Payoff [13:04–13:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Same boardroom silhouettes reappear behind each page—identical postures, identical table, desaturated corporate palette
+
+ACTIONS:
+- Cel-shaded 2D cartoon calendar pages flipping forward in center frame, thick black outlines, muted beige and gray tones
+- Same boardroom silhouettes reappear behind each page—identical postures, identical table, desaturated corporate palette
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- calendar pages flipping, chair scraping floor
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 100: Trust — Payoff [13:12–13:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Flat lighting, no depth cues
+
+ACTIONS:
+- Cel-shaded 2D cartoon boardroom interior, thick black outlines, washed-out pastels and grays
+- Empty chairs around table, single document in center, long uncomfortable hold
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- clock ticking, paper settling on desk
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 101: Anticipation — Payoff [13:20–13:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Dramatic lighting shifts to release gold as camera pulls back to show full scene
+
+ACTIONS:
+- Cel-shaded 2D cartoon silhouette of suited figure behind frosted glass panel, thick black outline, muted corporate beige and gray
+- PR team icons (microphone, camera, speech bubble) float nearby in desaturated tones
+
+CAMERA:
+Medium | Zoom out
+
+AUDIO:
+- footsteps on carpet, briefcase clasp clicking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 102: Trust — Payoff [13:28–13:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Muted corporate palette: beige, gray, desaturated amber
+
+ACTIONS:
+- Cel-shaded 2D cartoon montage: factory building left, boardroom center, globe right, connected by dotted lines with thick black outlines
+- Flat graphic style, repeating visual motifs—same window pattern, same table shape, same continental outlines
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- keyboard typing, file drawer closing
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 103: Anticipation — Payoff [13:36–13:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Dramatic to release lighting, building to warm tones
+
+ACTIONS:
+- Cel-shaded 2D cartoon brain scan from opening, now with clinical labels and measurement lines, thick black outlines
+- Neutral white background, cool pale blue accents, flat lighting
+
+CAMERA:
+Medium | Zoom out
+
+AUDIO:
+- pen clicking, paper flipping
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 104: Anticipation — Payoff [13:44–13:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Dramatic lighting shifts to release gold
+
+ACTIONS:
+- Cel-shaded 2D cartoon: left side shows lone wolf icon in saturated red, thick black outline
+- Right side shows sprawling network diagram with nodes and connecting lines in muted corporate beige and gray
+- Visual contrast carries the question—isolated vs systemic
+
+CAMERA:
+Medium | Zoom out
+
+AUDIO:
+- chalk on blackboard, paper tearing
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 105: Trust — Payoff [13:52–14:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm amber light casts single hard shadow across scene, no gradients
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- thirty-one years
+
+ACTIONS:
+- Drawn hand with thick black outline and warm peachy skin tone holds worn factory ID badge with '31 YEARS' stamped in bold red ink, fingers curled gently around laminated edge, knuckles showing hard one-layer shadow falloff
+- Badge rests against flat white table surface with rough ink hatching texture
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- plastic badge sliding on table surface
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 106: Trust — Payoff [14:00–14:05]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Single streetlight pole with hard shadow, desaturated beige and gray tones, no depth cues
+
+ACTIONS:
+- Flat-drawn 'BAY SPRINGS' town sign with thick black outline and chipped paint texture stands center frame against washed-out pastel sky, empty two-lane road stretching into distance with rough ink hatching on asphalt
+- Single streetlight pole with hard shadow, desaturated beige and gray tones, no depth cues
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- wind rustling dry leaves
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+════════════════════════════════════════════════════════════════
+[END SCENE PROMPTS]
+════════════════════════════════════════════════════════════════
