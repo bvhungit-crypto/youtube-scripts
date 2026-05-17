@@ -1,0 +1,1741 @@
+════════════════════════════════════════════════════════════════
+[CHARACTERS Description]
+════════════════════════════════════════════════════════════════
+
+PROJECT: They_thought_they_were_seeing_the_universe_s_boundary__They_were_wrong
+
+RATIO: 16:9
+
+--------------------------------------------------
+STYLE (DETAILED - MANDATORY):
+
+- Style Directive: Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1
+
+- Medium: Live-action / Cinematic
+
+- Visual Style:
+  - Photorealistic textures with accurate material response
+  - Observational documentary framing — restrained and credible
+  - Cinematic composition with depth and motivated framing
+  - Anamorphic 2.39:1 framing language adapted to delivery ratio
+  - 8K capture-grade detail with deep blacks and clean highlights
+  - HDR contrast — preserved highlights, nuanced shadows
+
+- Character Design:
+  Semi-realistic figures
+
+- Materials & Textures:
+  [e.g. Flat colors only / Cel-shaded with soft shadow / Painterly with visible brushwork]
+
+- Lighting:
+  Volumetric lighting with visible light shafts
+
+- Color Palette:
+  [Define color roles — e.g. Red = danger, Yellow = energy, Blue = calm, Black outline for clarity]
+
+- Rendering Quality:
+  [e.g. Crisp, clean, high-definition / Slightly grainy retro / Hyper-smooth anime-style]
+
+- Motion Feel:
+  [e.g. Smooth action-driven / Bouncy exaggerated / Slow cinematic / Snappy cut-driven]
+
+- Overall Impression:
+  [One paragraph — what should viewers FEEL when watching? What is the visual "brand" of this project?]
+
+--------------------------------------------------
+TONE:
+[Overall emotional register — e.g. High tension, urgent, dramatic / Dark comedic, absurdist / Warm and nostalgic / Energetic and hype]
+[Detected dominant emotion (auto, for reference): Trust]
+
+--------------------------------------------------
+RENDERING RULES:
+
+- [Rule 1 — e.g. NO TEXT, NO LETTERS, NO SYMBOLIC WORDS in any scene]
+- [Rule 2 — e.g. Story must be conveyed entirely through visuals and expressions]
+- [Rule 3 — e.g. Each scene must have a clear visual conflict or action beat]
+- [Rule 4 — e.g. Only include characters explicitly required in each scene]
+- [Rule 5 — e.g. No background crowd, no unnecessary props]
+- [Add more rules as needed]
+
+--------------------------------------------------
+CHARACTERS (LOCKED):
+
+- Character 1: Milky Way
+  [Physical description — face shape, skin tone, eye style — fill in]
+  [Hair — color #HEX, length, style — fill in]
+  [Default outfit — top, bottom, shoes, accessories — fill in]
+  [Signature trait — what makes them instantly recognizable — fill in]
+  [Expression range — what emotions they show most — fill in]
+
+- [Add unnamed characters (narrator, crowd, etc.) here if needed]
+
+--------------------------------------------------
+ENVIRONMENT (GLOBAL):
+
+[Default background / world setting for the entire project]
+[e.g. Minimal clean background, soft gradient sky / Neon-lit urban rooftop / Pastel fantasy kingdom]
+[Note: individual scenes can override this with their own ENVIRONMENT field]
+
+[Detected scene environments (auto, for reference):]
+  - NGC 1266 galaxy suspended in deep void, spiral arms faintly luminous against black space, cool blue-silver palette with subtle anamorphic lens flares
+  - Background shows NGC 1266 static, time-lapse shimmer suggesting deep temporal scale
+  - Deep space environment, volumetric light rays cutting through dust lanes, HDR rendering reveals faint filaments of cold gas accelerating radially outward at 400 km/s
+  - Cool blue background contrasts with warm stellar nurseries
+  - Core glows with destructive energy, volumetric plasma illuminates surrounding void
+  - Cool blue-silver palette, volumetric atmospheric glow
+  - Faint stars dot the background void
+  - Starfield static, clinical distance maintained, volumetric lighting subtle
+  - Deep space environment bathed in cool silver-blue luminosity, volumetric god rays piercing through dust lanes, anamorphic lens flares catching starlight
+  - NGC 1266 galaxy suspended in deep space, spiral arms glowing soft blue-white against velvet black, delicate dust lanes threading through luminous core
+  - Cool blues transition subtly toward gold at core
+  - Deep field environment shifts from focused observation to comparative survey, cool blues mixing with warm amber cores, sudden brightness increase in final third as additional galaxies resolve into view
+
+--------------------------------------------------
+GOAL:
+[Optional — one sentence stating the visual storytelling goal of the entire video]
+[e.g. "Make the audience feel the tension of nuclear deterrence without using any text or narration"]
+
+════════════════════════════════════════════════════════════════
+[END CHARACTERS Description]
+════════════════════════════════════════════════════════════════
+
+
+════════════════════════════════════════════════════════════════
+SCENE PROMPTS
+════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────
+🎬 SCENE 01: Trust — Hook [00:00–00:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+NGC 1266 galaxy suspended in deep void, spiral arms faintly luminous against black space, cool blue-silver palette with subtle anamorphic lens flares
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- galaxy
+
+ACTIONS:
+- NGC 1266 galaxy suspended in deep void, spiral arms faintly luminous against black space, cool blue-silver palette with subtle anamorphic lens flares
+- The galaxy hangs isolated, edges softly glowing, structure intact but distant
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- faint stellar wind hiss
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 02: Trust — Hook [00:08–00:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Background shows NGC 1266 static, time-lapse shimmer suggesting deep temporal scale
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 500 million years
+
+ACTIONS:
+- Hubble archival data overlay: timeline graphic materializes showing 500-million-year span, numbers resolving in cool blue holographic text against star field
+- The digits glow softly, pulsing once as they lock into place
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- digital readout beep sequence
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 03: Trust — Hook [00:16–00:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep space environment, volumetric light rays cutting through dust lanes, HDR rendering reveals faint filaments of cold gas accelerating radially outward at 400 km/s
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 400 kilometers
+- black hole
+
+ACTIONS:
+- Supermassive black hole accretion disk at galactic core, glowing amber and violet, with visible gas streams ejecting outward at immense velocity
+- Faint star-forming clouds being stripped away in real-time, their edges dissolving into the void
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- deep rumbling bass hum, faint high-frequency plasma crackle
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 04: Trust — Hook [00:24–00:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cool blue background contrasts with warm stellar nurseries
+
+ACTIONS:
+- Spiral arm region of NGC 1266, young star clusters flicker into luminosity—blue-white O-type stars igniting in molecular clouds, amber nebulae glowing with ionized hydrogen
+- The formation regions pulse softly, defying the outflow
+
+CAMERA:
+Medium | Orbit
+
+AUDIO:
+- stellar ignition rumble, gas compression hiss
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 05: Trust — Hook [00:32–00:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Core glows with destructive energy, volumetric plasma illuminates surrounding void
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 100 million years
+- Hubble Space Telescope
+- galaxy
+
+ACTIONS:
+- Black hole accretion disk at center of NGC 1266, violent orange-gold plasma spiraling inward, electric blue jets erupting perpendicular to disk plane, gas streams tearing outward in chaotic arcs
+- HDR lighting reveals layered turbulence, anamorphic bokeh softens distant stars
+
+CAMERA:
+Close-up | Orbit
+
+AUDIO:
+- magnetic field whine
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 06: Trust — Hook [00:40–00:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cool blue-silver palette, volumetric atmospheric glow
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 100 million years
+- Hubble Space Telescope
+- galaxy
+
+ACTIONS:
+- Hubble Space Telescope in low Earth orbit, solar panels extended, aperture door open toward deep space
+- Earth's blue limb curves below, telescope's mirror catches faint starlight
+
+CAMERA:
+Wide | Slow push-in
+
+AUDIO:
+- telescope gyroscope whir, solar panel creak
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 07: Trust — Hook [00:48–00:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Faint stars dot the background void
+
+ACTIONS:
+- NGC 1266 appears calm and ordinary in Hubble's visible-light image—smooth elliptical structure, no obvious disturbance, cool blue-silver tones dominate
+- The galaxy sits centered, unremarkable, belying the violence described
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- CCD sensor click, data buffer write
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 08: Trust — Hook [00:56–01:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Starfield static, clinical distance maintained, volumetric lighting subtle
+
+ACTIONS:
+- NGC 1266 exterior holds center frame, unremarkable spiral structure, cool blue-silver tones, faint lens breathing suggests observational scrutiny, no visible drama
+- Galaxy appears dormant, ordinary, indistinguishable from countless others
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- faint telescope tracking motor
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 09: Trust — Hook [01:04–01:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep space environment bathed in cool silver-blue luminosity, volumetric god rays piercing through dust lanes, anamorphic lens flares catching starlight
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- galaxy
+
+ACTIONS:
+- NGC 1266 galaxy suspended in deep space, spiral arms glowing soft blue-white against infinite black void, distant stars scattered across frame
+- Galaxy rotates imperceptibly, ancient light streaming toward camera across cosmic distance
+
+CAMERA:
+Wide | Slow push-in
+
+AUDIO:
+- faint stellar wind whistle, distant photon impacts on sensor array
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 10: Trust — Hook [01:12–01:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+NGC 1266 galaxy suspended in deep space, spiral arms glowing soft blue-white against velvet black, delicate dust lanes threading through luminous core
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- galaxy
+
+ACTIONS:
+- NGC 1266 galaxy suspended in deep space, spiral arms glowing soft blue-white against velvet black, delicate dust lanes threading through luminous core
+- Ancient starlight streaming toward camera, each photon a 500-million-year journey made visible as faint trails of silver
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- faint stellar wind hiss, distant cosmic ray pings
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 11: Surprise — Hook [01:20–01:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cool blues transition subtly toward gold at core
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- galaxy
+- galaxies
+
+ACTIONS:
+- NGC 1266 galactic core begins to glow warmer, amber light intensifying at center
+- Camera retreats, revealing more spiral structure
+
+CAMERA:
+Wide | Zoom out
+
+AUDIO:
+- deep bass rumble rising, metallic resonance building
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 12: Surprise — Hook [01:28–01:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep field environment shifts from focused observation to comparative survey, cool blues mixing with warm amber cores, sudden brightness increase in final third as additional galaxies resolve into view
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- galaxy
+- galaxies
+
+ACTIONS:
+- Multiple galaxies scattered across frame—NGC 1266 centered with neighboring spiral and elliptical galaxies visible at frame edges, creating cosmic population context
+- Camera retreats to reveal galactic neighborhood, each galaxy distinct in color and structure
+
+CAMERA:
+Wide | Zoom out
+
+AUDIO:
+- data stream clicks accelerating, hard drive platters spinning up
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 13: Trust — Build Up [01:36–01:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cool blue-white HDR lighting, high energy
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- galaxies
+
+ACTIONS:
+- Split-screen transition: left side shows vibrant blue spiral galaxy rotating slowly, right side empty black space
+- The spiral glows with newborn star clusters, arms defined and alive
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- faint stellar ignition pops, gas cloud compression hiss
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 14: Trust — Build Up [01:44–01:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Volumetric lighting reveals depth in spiral structure
+
+ACTIONS:
+- Blue spiral galaxy fills frame, arms rotating visibly, bright blue-white star formation regions scattered throughout
+- Newborn stars ignite in clusters, gas clouds glow cyan and violet
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- rapid stellar wind gusts, ionized gas sizzle, faint supernova echo
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 15: Trust — Build Up [01:52–02:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm red environment suffused with aged starlight, 3800K color temperature creating sense of thermal death, soft even illumination with no contrast or drama
+
+ACTIONS:
+- Ancient elliptical galaxy fills frame, smooth featureless red-orange glow with no spiral structure, no dust lanes, no bright star-forming regions—pure diffuse light from dying stars
+- Galaxy hangs motionless in frame, no rotation visible, light output steady and unchanging
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- cooling metal ticks, thermal expansion creaks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 16: Trust — Build Up [02:00–02:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Minimal visual information, uncomfortable negative space dominating composition
+
+ACTIONS:
+- Empty intergalactic void between two distant galaxy clusters, pure black space with only three or four faint background stars visible as pinpricks
+- Vast emptiness stretching across frame, emphasizing absence and the gulf between cosmic structures
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- single metallic ping echoing into silence
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 17: Trust — Build Up [02:08–02:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+8K HDR volumetric lighting, anamorphic lens 2.39:1, cinematic documentary, 24fps, 16:9
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- hundred million years
+- galaxy
+- galaxies
+
+ACTIONS:
+- A photorealistic color-magnitude diagram materializes in deep space: vertical axis luminosity, horizontal axis color index
+- Thousands of galaxy data points cluster in two dense regions—blue spiral zone left, red elliptical zone right—connected by a narrow, nearly empty diagonal band glowing faint green
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- faint electronic hum of data processing equipment
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 18: Trust — Build Up [02:16–02:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Gravitational lensing subtly distorts background stars near the center
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- hundred million years
+- galaxy
+- galaxies
+
+ACTIONS:
+- NGC 1266 galaxy rendered photorealistically in the green valley transition zone: outer spiral arms still tinged blue with residual star formation, inner core shifting amber-red as gas depletes
+- The galaxy hangs isolated against black void, caught mid-transformation
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- low-frequency gravitational wave rumble
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 19: Trust — Build Up [02:24–02:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+NGC 1266 galaxy suspended in deep space, spiral arms glowing faint amber and blue, dust lanes threading through the core
+
+ACTIONS:
+- NGC 1266 galaxy suspended in deep space, spiral arms glowing faint amber and blue, dust lanes threading through the core
+- The galaxy rotates almost imperceptibly, caught mid-transformation—neither fully blue nor fully red, a liminal state
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- faint stellar wind hiss, distant plasma crackle
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 20: Trust — Build Up [02:32–02:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+8K HDR volumetric lighting, anamorphic lens 2.39:1, cinematic documentary, 24fps, 16:9
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- black hole
+
+ACTIONS:
+- Photorealistic supermassive black hole at the center of NGC 1266: gravitational lensing warps surrounding starlight into concentric rings
+- The event horizon itself is invisible, but the accretion disk glows ominous amber-orange, gas spiraling inward
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- deep bass gravitational resonance
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 21: Trust — Build Up [02:40–02:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+8K HDR volumetric lighting, anamorphic lens 2.39:1, cinematic documentary, 24fps, 16:9
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Five hundred million years
+- galaxy
+- black hole
+
+ACTIONS:
+- Two photorealistic galaxies collide in deep space: NGC 1266 (larger, spiral structure) and a smaller irregular galaxy interpenetrating
+- Volumetric dust clouds billow outward from the impact zone
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- low-frequency shockwave rumble, stellar ignition crackle
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 22: Trust — Build Up [02:48–02:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+8K HDR volumetric lighting, anamorphic lens 2.39:1, cinematic documentary, 24fps, 16:9
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Five hundred million years
+- galaxy
+- black hole
+
+ACTIONS:
+- Photorealistic spiral arms of NGC 1266 post-collision: gravitational distortion ripples through the disk like water disturbed by a stone
+- HDR gas streams glow amber and gold as they spiral inward toward the core, funneled by tidal forces
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- gas stream hiss, gravitational wave pulse
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 23: Trust — Build Up [02:56–03:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+8K HDR volumetric lighting, anamorphic lens 2.39:1, cinematic documentary, 24fps, 16:9
+
+ACTIONS:
+- Photorealistic supermassive black hole at NGC 1266's core erupts: twin plasma jets blast outward perpendicular to the accretion disk, electric blue against the orange-amber disk glow
+- The jets are narrow, collimated, violent—streams of relativistic particles carving through surrounding gas
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- plasma jet roar, electromagnetic crackle
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 24: Trust — Build Up [03:04–03:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+8K HDR volumetric lighting, anamorphic lens 2.39:1, cinematic documentary, 24fps, 16:9
+
+ACTIONS:
+- Camera follows a photorealistic plasma jet from NGC 1266's black hole as it slams into surrounding nebulae
+- The jet carves a luminous tunnel through volumetric gas clouds, heating them to incandescence
+
+CAMERA:
+Medium | Tracking
+
+AUDIO:
+- shockwave boom, gas heating sizzle
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 25: Trust — Build Up [03:12–03:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Wide-field telescope view of NGC 1266 galaxy rendered in luminous silver-blue against deep space, spiral arms glowing softly with scattered star clusters, dark dust lanes threading through the structure where star formation has ceased
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- galaxies
+
+ACTIONS:
+- Wide-field telescope view of NGC 1266 galaxy rendered in luminous silver-blue against deep space, spiral arms glowing softly with scattered star clusters, dark dust lanes threading through the structure where star formation has ceased
+- Camera pushes gently toward the galactic core, revealing the contrast between bright outer regions and dim inner zones
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- telescope mount gears clicking, shutter mechanism snapping
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 26: Trust — Build Up [03:20–03:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K, anamorphic 2.39:1, warm amber transitioning from cool blues
+
+ACTIONS:
+- NGC 1266 galaxy center in real-time observation, turbulent molecular gas streams visibly ejecting outward from the bright accretion disk, glowing amber and violet plasma threading through the spiral structure
+- The black hole's active outflow creates rippling shockwaves in the surrounding gas, rendered with volumetric HDR lighting
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- gas rushing outward, plasma crackling, magnetic field oscillating
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 27: Trust — Build Up [03:28–03:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting on plasma streams, anamorphic 2.39:1
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- black hole
+
+ACTIONS:
+- Extreme close-up of the black hole's accretion disk at the core of NGC 1266, superheated matter spiraling inward in concentric rings of amber and white-hot plasma, twin relativistic jets pulsing outward perpendicular to the disk plane
+- The disk rotates with relentless mechanical rhythm, gravitational lensing warping the background starfield
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- accretion disk roaring, jets pulsing, matter spiraling inward
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 28: Surprise — Build Up [03:36–03:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric god rays through dust, anamorphic 2.39:1
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- galaxy
+
+ACTIONS:
+- ALMA radio telescope data visualization overlaid on NGC 1266: 85 solar masses of molecular gas rendered as glowing particle streams ejecting radially outward from the galactic core, each particle trajectory traced in amber light against the cool blue galaxy disk
+- Only a thin fraction escapes entirely, most falling back in arcing trajectories
+
+CAMERA:
+Medium | Crane
+
+AUDIO:
+- data processing beeps, particle streams whooshing, radio telescope dish rotating
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 29: Trust — Build Up [03:44–03:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting on plasma eddies, anamorphic 2.39:1
+
+ACTIONS:
+- Extreme close-up of molecular gas clouds in NGC 1266's disk, roiling and churning with chaotic turbulence, heated plasma glowing in amber and violet hues, shockwaves rippling through the medium
+- The gas is too hot and turbulent to collapse, flickering with internal energy injection
+
+CAMERA:
+Macro | Static
+
+AUDIO:
+- gas turbulence roaring, plasma crackling, shockwaves propagating
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 30: Trust — Build Up [03:52–04:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, anamorphic 2.39:1
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- galaxy
+- black hole
+
+ACTIONS:
+- Cross-section view of NGC 1266's molecular clouds, energy from the black hole's outflow injecting heat and turbulence into collapsing gas pockets, preventing gravitational collapse
+- Nascent protostars flicker and fail to ignite, their cores too disrupted to sustain fusion
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- gas collapsing then dispersing, energy injection pulsing, protostar cores flickering out
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 31: Trust — Build Up [04:00–04:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep space environment, anamorphic god rays through dust
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- galaxy
+- black hole
+
+ACTIONS:
+- Cross-section visualization of a molecular cloud in NGC 1266 — turbulent gas streams injected with high-energy particles from black hole jets, preventing gravitational collapse
+- Volumetric rendering shows chaotic motion disrupting orderly infall, color-coded velocity fields in cool blues and silvers with amber interference patterns
+
+CAMERA:
+Medium | Orbit
+
+AUDIO:
+- data processing beep sequence, faint electromagnetic static crackle
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 32: Trust — Build Up [04:08–04:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Volumetric lighting highlights the contrast
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Fifty to one
+- fifty times
+
+ACTIONS:
+- Left frame: vibrant spiral galaxy with brilliant blue-white star-forming regions, dense luminous clusters, warm amber core
+- Right frame: NGC 1266 rendered in pale silver-blue, sparse dim star clusters, vast dark voids where formation has stalled
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- data processing beeps, hard drive clicking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 33: Trust — Deep [04:16–04:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Volumetric light rays pierce through gas streams
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- galaxies
+
+ACTIONS:
+- NGC 1266's galactic core dominates frame—supermassive black hole's accretion disk glowing amber-gold at center, surrounded by dying spiral arms fading to deep blue-violet at edges
+- Dense molecular clouds collapse inward despite turbulent outflows
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- low-frequency rumble of gas collapsing, distant stellar wind howl
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 34: Trust — Deep [04:24–04:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm authoritative lighting, 3700K with teal accent highlights on gas structures
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- black hole
+
+ACTIONS:
+- Dense molecular clouds glow amber and gold at galactic core, volumetric gas streams illuminated by newborn stars igniting within 650 light-years of central black hole
+- Gravity pulls filaments inward toward bright nucleus, star formation persisting in turbulent environment
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- gas hissing, plasma crackling, stellar ignition bursts
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 35: Trust — Deep [04:32–04:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Anamorphic lens flares streak across frame
+
+ACTIONS:
+- Outflow-exposed region of NGC 1266—turbulent gas streams collide in HDR contrast, teal-blue shock fronts meet amber star-forming cores
+- Dense molecular clouds resist dispersal, gravity overcoming chaos
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- sharp gas collision impacts, low-frequency pressure wave pulses
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 36: Trust — Deep [04:40–04:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+[Scene environment — fill in]
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- galaxy
+
+ACTIONS:
+- [Character actions — fill in]
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- quiet focused space, minimal room tone, clean silence
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 37: Trust — Deep [04:48–04:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Authoritative Bloomberg-style lighting, 3700K with teal accent
+
+ACTIONS:
+- Split-screen visualization: left side shows standard AGN feedback model with suppression radiating outward from black hole nucleus in concentric rings
+- Right side shows NGC 1266's inverted pattern with bright amber core persisting while outer regions fade to cool blue-grey
+- Paradox rendered as direct visual contrast
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- data processing beeps, graph plotting clicks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 38: Trust — Deep [04:56–05:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Animated scientific diagram of AGN feedback mechanism: black hole at center emitting jets and winds in teal-blue vectors, suppression zone expanding outward in concentric rings labeled with distance markers, star formation rate dropping to zero in outer regions first
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- black hole
+
+ACTIONS:
+- Animated scientific diagram of AGN feedback mechanism: black hole at center emitting jets and winds in teal-blue vectors, suppression zone expanding outward in concentric rings labeled with distance markers, star formation rate dropping to zero in outer regions first
+- Graph overlay shows declining molecular gas density from nucleus outward, standard model prediction rendered as clean data visualization
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- pen scratching paper, ruler sliding across surface
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 39: Trust — Deep [05:04–05:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+[Scene environment — fill in]
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- black hole
+
+ACTIONS:
+- [Character actions — fill in]
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- quiet focused space, minimal room tone, clean silence
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 40: Trust — Deep [05:12–05:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+[Scene environment — fill in]
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- galaxy
+
+ACTIONS:
+- [Character actions — fill in]
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- quiet focused space, minimal room tone, clean silence
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 41: Trust — Deep [05:20–05:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clinical framing, authoritative composition, galaxy appears dormant and unremarkable against black void
+
+ACTIONS:
+- Hubble Space Telescope optical image of NGC 1266 centered in frame, serene spiral galaxy structure rendered in cool deep-space blues and silvers, faint amber core glow, no visible outflows or disturbance
+- Clinical framing, authoritative composition, galaxy appears dormant and unremarkable against black void
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- telescope servo motor whirring, mechanical shutter click
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 42: Trust — Deep [05:28–05:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+NGC 1266 galaxy disk structure resolving in Hubble data, bright amber core intensifying, reddish-brown dust filaments threading across face, faint background galaxies visible through diffuse outer halo
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- galaxy
+- galaxies
+
+ACTIONS:
+- NGC 1266 galaxy disk structure resolving in Hubble data, bright amber core intensifying, reddish-brown dust filaments threading across face, faint background galaxies visible through diffuse outer halo
+- HDR highlights on central bulge, volumetric dust rendering, anamorphic lens flares on core, 3700K teal accent on outer regions
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- hard drive spinning, data transfer beeps
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 43: Trust — Deep [05:36–05:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep blues and silvers dominate the color palette, evoking clinical observation and cosmic stillness
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- galaxy
+- galaxies
+
+ACTIONS:
+- NGC 1266 galaxy fills frame—bright amber core glowing softly, reddish-brown dust filaments threading across luminous disk structure, faint spiral arms dissolving into deep space
+- Distant galaxies shimmer through translucent outer regions
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- faint stellar wind hiss, distant cosmic radiation crackle
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 44: Trust — Deep [05:44–05:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- galaxy
+
+ACTIONS:
+- NGC 1266 suspended in absolute void, no companion galaxies visible, deep black space surrounding the isolated spiral
+- Galaxy appears dormant—soft blue-silver glow, minimal disk activity, arms barely defined against darkness
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- deep space silence, faint electromagnetic hum
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 45: Trust — Deep [05:52–06:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+3700K teal-accented lighting
+
+ACTIONS:
+- Radio telescope data visualization materializes over NGC 1266—electric blue plasma arcs and molecular gas streams emerge in false-color overlay, invisible structures now revealed
+- Compact disk of cold gas glows cyan within 326 light-year radius at galactic core
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- radio telescope dish motor whir, data processing beep sequence
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 46: Trust — Deep [06:00–06:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+ACTIONS:
+- Volumetric rendering of molecular gas disk at NGC 1266's core—cold cyan and electric blue filaments swirl in tight 326 light-year radius, density map shows mass concentration
+- Radio wavelength false-color data resolves into sharp detail
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- electromagnetic interference static, faint plasma discharge crackle
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 47: Trust — Deep [06:08–06:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Tension builds through visual uncertainty, authoritative Bloomberg-style lighting
+
+ACTIONS:
+- NGC 1266 full galaxy view with radio data overlays flickering on and off, revealing and concealing the compact central disk
+- Cool blues and silvers, electric teal false-color on radio emission, volumetric rendering
+
+CAMERA:
+Medium | Zoom out
+
+AUDIO:
+- data processing error beeps, hard drive stuttering, cooling fan surge
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 48: Trust — Deep [06:16–06:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- galaxy
+
+ACTIONS:
+- NGC 1266 isolated in cosmic void—no companion galaxies within frame, no tidal distortions visible in spiral arms, perfect solitude against deep black space
+- Galaxy structure appears undisturbed, symmetrical
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- deep space silence, faint cosmic microwave background hiss
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 49: Trust — Deep [06:24–06:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- galaxy
+
+ACTIONS:
+- NGC 1266 galaxy suspended in deep space, smooth spiral arms intact, no distortion, no companion galaxies visible in frame
+- Pristine elliptical structure glowing faintly in cool silver-blue light against black void
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- faint stellar wind particles striking hull plating
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 50: Trust — Deep [06:32–06:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+ACTIONS:
+- Supermassive black hole accretion disk at galactic core, glowing amber-orange plasma spiraling inward, Doppler-shifted jets barely visible at poles
+- Dense molecular gas clouds orbiting close to event horizon, gravitational lensing bending background starlight into Einstein ring
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- low-frequency gravitational wave rumble through subwoofer
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 51: Trust — Deep [06:40–06:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Graph axes labeled, error bars tight, confidence interval shaded
+
+ACTIONS:
+- ALMA radio interferometer data visualization on high-resolution display, spectral emission lines resolving into sharp peaks, molecular gas velocity measurements scrolling in real-time
+- Teal-accented UI overlays confirm outflow rate: 40 solar masses per year
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- hard drive platters spinning, cooling fan hum
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 52: Anticipation — Deep [06:48–06:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Gas density decreasing visibly, outflow velocity vectors overlaid in teal
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- hundred million years
+
+ACTIONS:
+- Time-lapse simulation of NGC 1266 core, molecular gas streams ejecting radially outward in amber-gold plumes, frame rate accelerated to show 10 million years per second
+- Star formation regions flicker blue
+- Fade to yellow
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- plasma discharge crackling through magnetic field lines
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 53: Anticipation — Deep [06:56–07:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The galaxy's spiral arms fade into a smooth elliptical profile, color draining from vibrant blues to muted ochre and rust
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- hundred million years
+
+ACTIONS:
+- Time-lapse visualization of NGC 1266's galactic disk over hundreds of millions of years, star formation regions visibly dimming from blue to amber to deep red, gas clouds dissipating region by region
+- The galaxy's spiral arms fade into a smooth elliptical profile, color draining from vibrant blues to muted ochre and rust
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- stellar wind whooshing, gas dispersing hiss, faint cooling crackle
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 54: Anticipation — Deep [07:04–07:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cosmic exhaustion rendered in HDR, anamorphic lens capturing faint light against black void
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- hundred million years
+
+ACTIONS:
+- Time-lapse final phase, NGC 1266 nearly quenched, faint residual glow in deep blue-violet, sparse red giant stars scattered across frame
+- Gas reservoirs exhausted, star formation ceased
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- single photon detector clicks at long intervals
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 55: Trust — Deep [07:12–07:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Wide anamorphic frame of NGC 1266 fully transformed into a depleted red elliptical galaxy, suspended in deep space against a field of distant stars
+
+ACTIONS:
+- Wide anamorphic frame of NGC 1266 fully transformed into a depleted red elliptical galaxy, suspended in deep space against a field of distant stars
+- The galaxy glows faintly in cold amber and rust tones, no active star formation visible, smooth featureless disk
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- distant stellar hum fading, faint gravitational settling tone
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 56: Trust — Deep [07:20–07:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The gas swirls slowly, backlit by nascent star formation, creating a pocket of warmth in the cold elliptical shell
+
+ACTIONS:
+- Extreme close-up of NGC 1266's dense galactic core, a small pocket of glowing amber gas still collapsing inward against the surrounding darkness
+- Faint blue-white proto-stellar knots ignite within the cloud, defying the galaxy's overall quiescence
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- gas compression rumble, faint ignition crackle, gravitational infall hiss
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 57: Trust — Deep [07:28–07:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+NGC 1266 lenticular galaxy centered in frame, post-starburst structure visible through volumetric HDR rendering, distance scale overlay reading '100 million light-years' materializes in lower third, cool deep-space blues and silvers dominate, authoritative documentary precision, 8K detail reveals galactic disk structure and faint outer halo, teal accent lighting traces the galactic plane, anamorphic 2.39:1 framing emphasizes cosmic isolation
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 450 million years
+- galaxy
+- black hole
+
+ACTIONS:
+- NGC 1266 lenticular galaxy centered in frame, post-starburst structure visible through volumetric HDR rendering, distance scale overlay reading '100 million light-years' materializes in lower third, cool deep-space blues and silvers dominate, authoritative documentary precision, 8K detail reveals galactic disk structure and faint outer halo, teal accent lighting traces the galactic plane, anamorphic 2.39:1 framing emphasizes cosmic isolation
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- digital display beep as distance overlay appears
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 58: Trust — Deep [07:36–07:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep space surrounds it, volumetric light from distant stars creates soft HDR depth, teal accent lighting traces the galactic plane
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 450 million years
+- galaxy
+- black hole
+
+ACTIONS:
+- NGC 1266 lenticular galaxy suspended in frame, its disk structure clearly defined, post-starburst classification evident in the subtle amber glow at its core contrasting with cooler blue outer regions
+- The galaxy holds steady, no rotation, no drift—pure observational stillness
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- none
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 59: Trust — Deep [07:44–07:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+[Scene environment — fill in]
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 450 million years
+- galaxy
+- black hole
+
+ACTIONS:
+- [Character actions — fill in]
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- quiet focused space, minimal room tone, clean silence
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 60: Trust — Deep [07:52–08:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+[Scene environment — fill in]
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 450 million years
+- galaxy
+- black hole
+
+ACTIONS:
+- [Character actions — fill in]
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- quiet focused space, minimal room tone, clean silence
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 61: Trust — Deep [08:00–08:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+NGC 1266's outer halo fills frame, data overlays (spectral lines, velocity maps, mass measurements) fade out one by one, revealing raw galactic structure beneath, cool deep-space blues and silvers return, volumetric HDR rendering shows the galaxy stripped of analytical layers, authoritative documentary lighting with 3700K teal accent, 8K detail captures the transition from data-rich to data-absent, anamorphic 2.39:1 framing emphasizes the emptiness left by departing overlays
+
+ACTIONS:
+- NGC 1266's outer halo fills frame, data overlays (spectral lines, velocity maps, mass measurements) fade out one by one, revealing raw galactic structure beneath, cool deep-space blues and silvers return, volumetric HDR rendering shows the galaxy stripped of analytical layers, authoritative documentary lighting with 3700K teal accent, 8K detail captures the transition from data-rich to data-absent, anamorphic 2.39:1 framing emphasizes the emptiness left by departing overlays
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- digital interface shutdown tones, data overlay fade-out clicks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 62: Trust — Deep [08:08–08:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+[Scene environment — fill in]
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- galaxy
+- galaxies
+
+ACTIONS:
+- [Character actions — fill in]
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- quiet focused space, minimal room tone, clean silence
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 63: Trust — Deep [08:16–08:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Amber glow at the core contrasts with cooler blue outer regions, teal accent lighting traces the galactic plane, volumetric HDR creates depth
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- galaxy
+- galaxies
+
+ACTIONS:
+- NGC 1266 galaxy centered in frame, surrounded by a sparse field of neighboring galaxies—each one faintly visible in the background, emphasizing NGC 1266's place among many
+- The lenticular structure holds steady, no movement, no drift
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- none
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 64: Trust — Deep [08:24–08:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cool blues and silvers dominate, teal accents trace the highlighted group, volumetric HDR lighting creates depth layers
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- one percent
+- galaxy
+- galaxies
+
+ACTIONS:
+- Hundreds of galaxies scattered across the frame, one percent of them highlighted in amber glow—NGC 1266 among them, clearly marked
+- Camera pulls back to reveal the full population, the highlighted galaxies forming a sparse pattern across the field
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- digital counter clicking to one percent
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 65: Trust — Payoff [08:32–08:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep space environment, infinite black backdrop with distant star field, atmosphere of cosmic rarity and scientific precision
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- one percent
+- galaxy
+- galaxies
+
+ACTIONS:
+- NGC 1266 galaxy isolated in frame, glowing faintly against deep blue-black void, spiral structure barely visible, one percent label overlaid on lower third
+- Camera drifts inward with deliberate patience, revealing the galaxy's rare transitional state
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- faint stellar wind whoosh, distant cosmic radiation crackle
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 66: Trust — Payoff [08:40–08:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The Milky Way galaxy suspended in deep space, spiral arms glowing with blue-white star clusters, gas lanes luminous and intact, central bulge softly radiant
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- galaxy
+- black hole
+
+ACTIONS:
+- The Milky Way galaxy suspended in deep space, spiral arms glowing with blue-white star clusters, gas lanes luminous and intact, central bulge softly radiant
+- The galaxy rotates gently, serene and alive, no violence at its core
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- faint stellar wind hiss, distant plasma crackle
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 67: Trust — Payoff [08:48–08:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm galactic environment with rich HDR glow, atmosphere of productive cosmic activity
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- galaxy
+- black hole
+
+ACTIONS:
+- Milky Way galactic core in tight frame, active star formation regions glowing amber and gold, dense gas clouds swirling inward, no visible ejection streams, volumetric light revealing ongoing stellar birth
+- Camera pushes deeper into the core, emphasizing the abundance of raw material
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- plasma flow hiss, magnetic field crackle, stellar ignition pop
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 68: Trust — Payoff [08:56–09:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep space environment with warm amber tones fading to cool blues, atmosphere of temporary cosmic peace
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- galaxy
+- black hole
+
+ACTIONS:
+- Milky Way's central supermassive black hole in frame, dormant accretion disk glowing faintly with minimal activity, no violent outflows visible, calm HDR luminescence around event horizon
+- Camera holds steady on the quiescent singularity, emphasizing its current restful state
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- faint accretion disk whisper, gravitational wave pulse, distant stellar wind
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 69: Trust — Payoff [09:04–09:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep space environment transitioning from warm observation to cooler contemplation, atmosphere of inevitable cosmic evolution
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- galaxy
+- black hole
+
+ACTIONS:
+- Milky Way galaxy in wide frame, color grade subtly shifting from warm blue-white toward cooler silver-blue tones, spiral arms still luminous but beginning to fade at edges
+- Camera zooms slowly outward, creating temporal distance, foreshadowing billions of years of future change
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- stellar wind fade, gas density drop hiss, time-lapse acceleration whoosh
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 70: Trust — Payoff [09:12–09:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Galaxy transitions from vibrant spiral to quieter lenticular form, color palette shifting from golden warmth to cooler amber twilight
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- galaxy
+- black hole
+
+ACTIONS:
+- Milky Way galaxy rendered in warm amber and gold tones, spiral arms glowing softly with active star formation regions visible as bright clusters
+- Time-lapse simulation shows gradual dimming over billions of years—star formation zones cooling from bright white-blue to faint orange, gas lanes thinning, spiral structure softening
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- stellar wind hiss, faint plasma crackle
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 71: Trust — Payoff [09:20–09:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Right half mirrors with Milky Way's future state simulation in matching amber tones—same gas ejection pattern, same dimming star clusters, visual rhyme established between present observation and future prediction
+
+ACTIONS:
+- Split-screen composition: left half shows NGC 1266's turbulent core in warm amber light—gas streams ejecting outward from central black hole, star formation shutting down in real observational data overlay
+- Right half mirrors with Milky Way's future state simulation in matching amber tones—same gas ejection pattern, same dimming star clusters, visual rhyme established between present observation and future prediction
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- data processing beeps, telescope servo motors
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 72: Fear — Payoff [09:28–09:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Turbulent galactic environment with flash of activity then settling into darkness, atmosphere of slow contested transition and defiant survival
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- galaxy
+
+ACTIONS:
+- NGC 1266's dying spiral arms in tight frame, star formation flickering weakly in isolated pockets, dark gas lanes carving through remaining luminous regions, urgent red accents highlighting contested zones
+- Camera pushes into the struggle with deliberate intensity, revealing persistence against entropy
+
+CAMERA:
+Extreme Close-up | Slow push-in
+
+AUDIO:
+- gas ejection roar, stellar ignition sputter, magnetic field snap, black hole wind howl
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 73: Trust — Payoff [09:36–09:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep space backdrop with distant galaxies faintly visible
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Galaxies
+
+ACTIONS:
+- NGC 1266 galaxy fills frame, its spiral arms glowing with residual star formation while violent gas streams erupt outward from the luminous core, backlit by the accretion disk's amber glow
+- The galaxy's structure shows asymmetry and turbulence, molecular clouds being torn apart and ejected into intergalactic space
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- gas hissing outward, low rumble of ejected material
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 74: Trust — Payoff [09:44–09:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep space environment, volumetric light rays cutting through cosmic dust, anamorphic lens flares at edges
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 500 million years
+
+ACTIONS:
+- NGC 1266 galaxy suspended in deep void, spiral arms glowing faintly in cool violet and silver light, posture isolated and complete
+- The galaxy holds steady in frame as camera retreats, revealing its solitude against infinite black
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- faint stellar wind hiss
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 75: Trust — Payoff [09:52–10:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+[Scene environment — fill in]
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- galaxies
+
+ACTIONS:
+- [Character actions — fill in]
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- quiet focused space, minimal room tone, clean silence
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 76: Trust — Payoff [10:00–10:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+[Scene environment — fill in]
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- galaxies
+
+ACTIONS:
+- [Character actions — fill in]
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- quiet focused space, minimal room tone, clean silence
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 77: Trust — Payoff [10:08–10:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+[Scene environment — fill in]
+
+ACTIONS:
+- [Character actions — fill in]
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- quiet focused space, minimal room tone, clean silence
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 78: Trust — Payoff [10:16–10:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+[Scene environment — fill in]
+
+ACTIONS:
+- [Character actions — fill in]
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- quiet focused space, minimal room tone, clean silence
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 79: Trust — Payoff [10:24–10:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cool blues with warmer star-forming regions
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- galaxy
+
+ACTIONS:
+- Each galaxy still blue and actively forming stars, spiral arms bright with young stellar populations, cores luminous but not yet dominated by accretion disks
+- The galaxies appear healthy and vibrant, but the camera's passage and the context of previous shots cast an implicit question over each one
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- active star formation crackling, stellar winds from young stars, molecular cloud turbulence
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 80: Trust — Payoff [10:32–10:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep space environment, volumetric light through galactic plane, anamorphic lens flares, HDR rendering of star clusters
+
+ACTIONS:
+- Milky Way galaxy suspended in void, spiral arms glowing in cool blue and violet light, posture small and luminous against infinite black
+- The galaxy holds steady in center frame as camera approaches gently
+- Stops, revealing Earth's home as one fragile system among billions
+
+CAMERA:
+Wide | Slow push-in
+
+AUDIO:
+- faint solar wind whisper
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+════════════════════════════════════════════════════════════════
+[END SCENE PROMPTS]
+════════════════════════════════════════════════════════════════
