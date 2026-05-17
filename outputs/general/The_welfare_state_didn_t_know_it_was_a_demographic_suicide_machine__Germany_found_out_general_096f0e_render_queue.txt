@@ -1,0 +1,653 @@
+============================================================
+VEO 3 RENDER QUEUE - The_welfare_state_didn_t_know_it_was_a_demographic_suicide_machine__Germany_found_out [general]
+Total clips: 63 | Duration: 00:08:18.090
+============================================================
+
+--------------------------------------------------
+CLIP C001 | 00:00:00.000 -> 00:00:08.000 | 8.0s
+Emotion: TRUST (low) | Arc: hook
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Wide static frame, no camera movement. Flat cel-shaded 2D: single fossil fragment drawn with stark inked outline on paper texture, centered against muted ochre background, zero depth, no shading. The fragment floats in negative space, incomplete and enigmatic. UPA-style editorial clarity. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no 3D geometry, no volumetric lighting, no subsurface scattering, no ambient occlusion, no realistic rendering, no photographic texture, no depth cues, no perspective, no gradients, no soft shadows, no camera drift
+
+--------------------------------------------------
+CLIP C002 | 00:00:08.000 -> 00:00:16.000 | 8.0s
+Emotion: TRUST (low) | Arc: hook
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium wide static frame, slow zoom out. Flat cel-shaded 2D: three simplified hominid silhouettes scattered across paper landscape, clean inked outlines, no perspective—just flat placement on ochre ground. Each figure distinct in posture, separated by empty space. UPA editorial style, zero depth. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no 3D geometry, no volumetric lighting, no subsurface scattering, no ambient occlusion, no realistic rendering, no photographic texture, no depth cues, no perspective, no gradients, no soft shadows, no consecutive reuse of previous subject
+
+--------------------------------------------------
+CLIP C003 | 00:00:16.000 -> 00:00:24.000 | 8.0s
+Emotion: TRUST (mid) | Arc: hook
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Close-up static frame, no movement. Flat cel-shaded 2D: simple linear progression graphic drawn on paper—ape to human silhouettes in a row—then a bold red 'X' strikes through the sequence. Clean inked lines, editorial motion-graphic timing, satirical visual irony. UPA style, zero depth. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no 3D geometry, no volumetric lighting, no subsurface scattering, no ambient occlusion, no realistic rendering, no photographic texture, no depth cues, no perspective, no gradients, no soft shadows, no reuse of hominid landscape
+
+--------------------------------------------------
+CLIP C004 | 00:00:24.000 -> 00:00:32.000 | 8.0s
+Emotion: TRUST (low) | Arc: hook
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium close-up, very slow push-in. Flat cel-shaded 2D: horizontal ash layer stripe drawn across frame, muted gray and ochre, with small fossil icons embedded in the stripe—clean inked outlines, no depth. Paper texture background. UPA editorial clarity. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no 3D geometry, no volumetric lighting, no subsurface scattering, no ambient occlusion, no realistic rendering, no photographic texture, no depth cues, no perspective, no gradients, no soft shadows, no reuse of previous graphic style
+
+--------------------------------------------------
+CLIP C005 | 00:00:32.000 -> 00:00:40.000 | 8.0s
+Emotion: TRUST (low) | Arc: hook
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Wide static frame, no movement. Flat cel-shaded 2D: famous march-of-progress silhouettes drawn in a row on paper, then fragmented—pieces scatter or fade, inked outlines breaking apart. Satirical UPA style, exaggerated motion-graphic timing. Zero depth, editorial irony. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no 3D geometry, no volumetric lighting, no subsurface scattering, no ambient occlusion, no realistic rendering, no photographic texture, no depth cues, no perspective, no gradients, no soft shadows, no reuse of ash layer visual
+
+--------------------------------------------------
+CLIP C006 | 00:00:40.000 -> 00:00:48.000 | 8.0s
+Emotion: TRUST (low) | Arc: hook
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Wide static frame, very slow zoom out. Flat cel-shaded 2D: barren landscape drawn on paper texture—cracked earth, muted ochre and gray tones, clean inked outlines, no depth, no perspective. Minimal detail, vast emptiness. UPA editorial style. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no 3D geometry, no volumetric lighting, no subsurface scattering, no ambient occlusion, no realistic rendering, no photographic texture, no depth cues, no perspective, no gradients, no soft shadows, no reuse of march-of-progress graphic
+
+--------------------------------------------------
+CLIP C007 | 00:00:48.000 -> 00:00:56.000 | 8.0s
+Emotion: TRUST (low) | Arc: hook
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Wide static frame, slight reframe left. Flat cel-shaded 2D: same barren landscape, cracked earth texture, muted ochre and gray, clean inked outlines, zero depth. Reframed to emphasize emptiness and horizontal expanse. UPA editorial style. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no 3D geometry, no volumetric lighting, no subsurface scattering, no ambient occlusion, no realistic rendering, no photographic texture, no depth cues, no perspective, no gradients, no soft shadows, no identical framing to previous clip
+
+--------------------------------------------------
+CLIP C008 | 00:00:56.000 -> 00:01:04.000 | 8.0s
+Emotion: TRUST (low) | Arc: hook
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium close-up, very slow push-in. Flat cel-shaded 2D: drawn jawbone centered on paper, labeled '2.8 million years' in clean sans-serif type, faint dotted timeline extending left and right. Clean inked outlines, editorial clarity, zero depth. UPA style. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no 3D geometry, no volumetric lighting, no subsurface scattering, no ambient occlusion, no realistic rendering, no photographic texture, no depth cues, no perspective, no gradients, no soft shadows, no reuse of barren landscape
+
+--------------------------------------------------
+CLIP C009 | 00:01:04.000 -> 00:01:12.000 | 8.0s
+Emotion: TRUST (low) | Arc: hook
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium close-up, very slow gentle push-in. Flat cel-shaded 2D animation on paper texture: thirteen small tooth icons arranged in a scattered grid, clean inked outlines, no depth. Each tooth drawn with simple geometric shapes, worn edges indicated by broken line work. Thin horizontal ash stripe beneath the grid, rendered as a textured gray band. Muted ochre paper background, UPA-style editorial clarity. Teeth icons remain static, slight camera drift inward emphasizes their smallness and isolation. 24fps, 16:9, cinematic documentary, 1080p. 8s.
+
+NEGATIVE:
+no 3D geometry, no volumetric lighting, no subsurface scattering, no ambient occlusion, no realistic fossils, no live-action, no depth, no shading gradients, no photorealistic textures, no camera drift, no generic stock patterns
+
+--------------------------------------------------
+CLIP C010 | 00:01:12.000 -> 00:01:20.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium shot, very slow static hold. Flat cel-shaded 2D animation on paper texture: two distinct tooth sets side-by-side, labeled 'Homo' and 'Australopithecus' in clean sans-serif type. Left set: smaller, more uniform teeth. Right set: larger, more varied morphology. Both rest on the same horizontal ash stripe, emphasizing temporal overlap. Labels connected by thin dotted lines to each set. Muted gray-blue paper background, UPA editorial style, no depth. Teeth remain static, labels fade in sequentially. 24fps, 16:9, cinematic documentary, 1080p. 8s.
+
+NEGATIVE:
+no 3D geometry, no volumetric lighting, no subsurface scattering, no ambient occlusion, no realistic fossils, no live-action, no depth, no shading gradients, no photorealistic textures, no scientist at console, no person looking at screen, no camera drift, no generic stock patterns
+
+--------------------------------------------------
+CLIP C011 | 00:01:20.000 -> 00:01:28.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium shot, very slow static hold. Flat cel-shaded 2D animation on paper texture: single Australopithecus silhouette remains centered on paper, drawn with bold inked outline. Three faint ghost silhouettes fade out around it, leaving only the central figure. Muted sepia paper background, UPA editorial style, no depth. Figure stands upright, arms at sides, exaggerated flat proportions. Fading silhouettes dissolve to near-transparency, emphasizing persistence of the central figure. 24fps, 16:9, cinematic documentary, 1080p. 8s. Hold 5s after.
+
+NEGATIVE:
+no 3D geometry, no volumetric lighting, no subsurface scattering, no ambient occlusion, no realistic hominids, no live-action, no depth, no shading gradients, no photorealistic textures, no scientist at console, no person looking at screen, no camera drift, no generic stock patterns
+TIMING: Hold 5s after.
+
+--------------------------------------------------
+CLIP C012 | 00:01:28.000 -> 00:01:36.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium shot, very slow dolly right. Flat cel-shaded 2D animation on paper texture: third jawbone icon slides into frame from right, labeled 'Paranthropus 2.6 mya' in clean sans-serif type. Jaw drawn with exaggerated heavy outline, massive molar shapes, distinct from previous two sets. All three jaw icons now visible in horizontal arrangement: Homo (left), Australopithecus (center), Paranthropus (right). Same ash stripe beneath all three. Muted ochre paper background, UPA editorial style, no depth. New jaw settles into position with slight bounce. 24fps, 16:9, cinematic documentary, 1080p. 8s.
+
+NEGATIVE:
+no 3D geometry, no volumetric lighting, no subsurface scattering, no ambient occlusion, no realistic fossils, no live-action, no depth, no shading gradients, no photorealistic textures, no scientist at console, no person looking at screen, no camera drift, no generic stock patterns
+
+--------------------------------------------------
+CLIP C013 | 00:01:36.000 -> 00:01:44.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium shot, very slow static hold. Flat cel-shaded 2D animation on paper texture: same Paranthropus jaw icon from previous frame, now with subtle emphasis—thin spotlight circle drawn around it, or label text slightly bolder. Heavy skull outline and massive teeth remain visually distinct. Muted gray-blue paper background, UPA editorial style, no depth. Jaw icon remains static, emphasis element fades in slowly. Other two jaw icons visible but de-emphasized in background. 24fps, 16:9, cinematic documentary, 1080p. 8s.
+
+NEGATIVE:
+no 3D geometry, no volumetric lighting, no subsurface scattering, no ambient occlusion, no realistic fossils, no live-action, no depth, no shading gradients, no photorealistic textures, no scientist at console, no person looking at screen, no camera drift, no generic stock patterns, no consecutive identical framing
+
+--------------------------------------------------
+CLIP C014 | 00:01:44.000 -> 00:01:52.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium shot, very slow static hold. Flat cel-shaded 2D animation on paper texture: three (or four) hominid silhouettes scattered across frame, no connecting lines, no hierarchy. Each figure drawn with distinct posture and proportion—one upright, one slightly hunched, one broad-shouldered, optional fourth faint in background. Muted sepia paper background, UPA editorial style, no depth. Figures remain static, scattered placement emphasizes coexistence without progression. Thin dotted circles around each figure indicate temporal overlap. 24fps, 16:9, cinematic documentary, 1080p. 8s. Hold 3s after.
+
+NEGATIVE:
+no 3D geometry, no volumetric lighting, no subsurface scattering, no ambient occlusion, no realistic hominids, no live-action, no depth, no shading gradients, no photorealistic textures, no scientist at console, no person looking at screen, no camera drift, no generic stock patterns, no linear progression, no evolutionary ladder
+TIMING: Hold 3s after.
+
+--------------------------------------------------
+CLIP C015 | 00:01:52.000 -> 00:02:00.000 | 8.0s
+Emotion: SURPRISE (low) | Arc: build_up
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium to wide, very slow pull-back with crane. Flat cel-shaded 2D animation on paper texture: large question mark icon appears over the multi-species graphic from previous frame, drawn with bold inked outline. Question mark floats above the scattered hominid silhouettes, casting no shadow (flat style). Muted gray-blue paper background, UPA editorial style, no depth. Camera pulls back slowly to reveal more of the paper surface, emphasizing scale of the question. Question mark fades in with slight rotation. Subtle atmospheric tone builds visually through slight vignette darkening at edges. 24fps, 16:9, cinematic documentary, 1080p. 8s.
+
+NEGATIVE:
+no 3D geometry, no volumetric lighting, no subsurface scattering, no ambient occlusion, no realistic hominids, no live-action, no depth, no shading gradients, no photorealistic textures, no scientist at console, no person looking at screen, no camera drift, no generic stock patterns
+
+--------------------------------------------------
+CLIP C016 | 00:02:00.000 -> 00:02:08.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium shot, very slow static hold. Flat cel-shaded 2D animation on paper texture: drawn portrait of painter at easel, exaggerated flat figure with oversized head and hands, 1960s editorial illustration style. Painter holds brush mid-stroke, posture upright and confident, slight smile. Easel visible at left edge of frame, blank canvas. Muted sepia paper background, UPA editorial style, no depth. Figure remains static, brush hand makes small repeated stroke motion. Thin label text '1965 / Rudolph Zallinger' in corner. 24fps, 16:9, cinematic documentary, 1080p. 8s.
+
+NEGATIVE:
+no 3D geometry, no volumetric lighting, no subsurface scattering, no ambient occlusion, no realistic painter, no live-action, no depth, no shading gradients, no photorealistic textures, no scientist at console, no person looking at screen, no camera drift, no generic stock patterns
+
+--------------------------------------------------
+CLIP C017 | 00:02:08.000 -> 00:02:16.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium shot, very slow dolly in. Flat cel-shaded 2D animation on paper texture: drawn figure of Rudolph Zallinger at drafting table, shoulders squared, brow furrowed in concentration, hand holding pen mid-stroke over large illustration board. Clean inked outlines, UPA-style flat composition. Zallinger's posture conveys quiet professional focus—head tilted slightly, eyes narrowed at the work. He adjusts his glasses with one hand while the other hovers over the page. Warm studio interior, single desk lamp casting even light, reference books stacked beside him. Audio: pen scratching paper, pages turning. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no 3D geometry, no volumetric lighting, no subsurface scattering, no ambient occlusion, no photorealistic rendering, no depth of field, no camera drift, no generic stock patterns
+
+--------------------------------------------------
+CLIP C018 | 00:02:16.000 -> 00:02:24.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium shot, very slow static. Flat cel-shaded 2D animation on paper texture: the March of Progress illustration itself rendered as a clean inked drawing—ape silhouette on far left, upright human silhouette on far right, four intermediate figures in between, all in perfect linear sequence. Clean black outlines on cream paper, exaggerated simplicity, commercial clarity. The line is perfectly horizontal, figures evenly spaced, postures progressing from hunched to erect. Minimal background, just the paper texture and faint grid lines. Audio: ruler sliding on paper, pencil tapping. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no 3D geometry, no volumetric lighting, no subsurface scattering, no ambient occlusion, no photorealistic rendering, no depth of field, no camera drift, no bright warm visual for negative emotion
+
+--------------------------------------------------
+CLIP C019 | 00:02:24.000 -> 00:02:32.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium shot, very slow static. Flat cel-shaded 2D animation on paper texture: Zallinger figure slumped at desk, head resting in both hands, elbows planted on table, shoulders hunched inward. Exaggerated frown, eyes squeezed shut, satirical visual irony. The completed March of Progress illustration lies flat on the desk in front of him. Clean inked outlines, UPA-style flat composition, no depth. Studio background remains minimal, same desk lamp, same paper texture. Audio: heavy sigh, chair creaking. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 4.86s after.
+
+NEGATIVE:
+no 3D geometry, no volumetric lighting, no subsurface scattering, no ambient occlusion, no photorealistic rendering, no depth of field, no camera drift, no generic stock patterns
+TIMING: Hold 4.86s after.
+
+--------------------------------------------------
+CLIP C020 | 00:02:32.000 -> 00:02:40.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium shot, very slow dolly out. Flat cel-shaded 2D animation on paper texture: the March of Progress image multiplies across the frame—same illustration repeated as if printed on book covers, classroom posters, T-shirts, all scattered and overlapping in flat graphic arrangement. Clean inked outlines, UPA-style repetition for satirical effect. Each copy identical, creating visual saturation. The images fan out from center, filling the frame, suggesting cultural spread. Paper texture background, no depth, pure surface composition. Audio: printing press clacking, paper rustling. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no 3D geometry, no volumetric lighting, no subsurface scattering, no ambient occlusion, no photorealistic rendering, no depth of field, no camera drift, no dark cold visual for positive emotion
+
+--------------------------------------------------
+CLIP C021 | 00:02:40.000 -> 00:02:48.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium shot, very slow push in. Flat cel-shaded 2D animation on paper texture: small inked text blocks—scientific caveats and footnotes—drawn in tiny handwritten script around the margins of the March of Progress illustration. The text begins to fade out, erasing stroke by stroke, leaving only the central image. Clean inked outlines, UPA-style flat composition. The illustration remains sharp while the surrounding words dissolve into blank cream paper. No depth, pure surface erasure. Audio: eraser rubbing paper, soft brushing sound. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 1.37s after.
+
+NEGATIVE:
+no 3D geometry, no volumetric lighting, no subsurface scattering, no ambient occlusion, no photorealistic rendering, no depth of field, no camera drift, no generic stock patterns
+TIMING: Hold 1.37s after.
+
+--------------------------------------------------
+CLIP C022 | 00:02:48.000 -> 00:02:56.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium shot, very slow static. Flat cel-shaded 2D animation on paper texture: single large question mark drawn in bold black ink, centered on cream paper. Clean inked outline, exaggerated thickness, UPA-style graphic simplicity. The question mark stands alone, no other elements, pure typographic focus. Paper texture visible, slight grain, no depth, no shadow. The mark is perfectly still, occupying the center of the frame. Audio: pen tapping paper three times. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 5.29s after.
+
+NEGATIVE:
+no 3D geometry, no volumetric lighting, no subsurface scattering, no ambient occlusion, no photorealistic rendering, no depth of field, no camera drift, no bright warm visual for negative emotion
+TIMING: Hold 5.29s after.
+
+--------------------------------------------------
+CLIP C023 | 00:02:56.000 -> 00:03:04.000 | 8.0s
+Emotion: SURPRISE (low) | Arc: build_up
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium shot, very slow pull-back. Flat cel-shaded 2D animation on paper texture: two exaggerated scientist figures drawn in profile, facing away from each other, arms crossed tightly over chests, backs turned. Clean inked outlines, UPA-style satirical posture. One figure on left, one on right, both with furrowed brows and downturned mouths, body language rigid and hostile. Between them, the March of Progress illustration lies flat on a table, ignored. Minimal background, paper texture, no depth. Audio: footsteps walking away, door closing. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no 3D geometry, no volumetric lighting, no subsurface scattering, no ambient occlusion, no photorealistic rendering, no depth of field, no camera drift, no dark cold visual for positive emotion
+
+--------------------------------------------------
+CLIP C024 | 00:03:04.000 -> 00:03:12.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium shot, very slow static. Flat cel-shaded 2D animation on paper texture: the March of Progress silhouettes appear center frame, clean inked outlines, but in the bottom right margin a small angry face is doodled—exaggerated frown, furrowed brow, steam lines rising from head. UPA-style satirical annotation. The main illustration remains pristine and professional, the doodle tiny but visible, creating visual irony. Cream paper background, no depth, pure surface composition. Audio: pencil scratching quickly, paper crinkling. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 5.59s after.
+
+NEGATIVE:
+no 3D geometry, no volumetric lighting, no subsurface scattering, no ambient occlusion, no photorealistic rendering, no depth of field, no camera drift, no generic stock patterns
+TIMING: Hold 5.59s after.
+
+--------------------------------------------------
+CLIP C025 | 00:03:12.000 -> 00:03:20.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium shot, very slow static hold. Flat cel-shaded 2D: A blank circular logo template drawn in clean black ink on cream paper texture, empty and waiting. The circle sits centered on a flat drawn desk surface with a few scattered pencils and a ruler nearby, all rendered with crisp outlines and zero depth. Soft, even lighting across the paper plane. Audio: pencil rolling on desk, paper rustling. No voice, sound effects only. UPA animation style, editorial motion graphics aesthetic, 24fps, 16:9. 8s. Hold 3.38s after.
+
+NEGATIVE:
+no 3D geometry, no volumetric lighting, no subsurface scattering, no ambient occlusion, no photorealistic rendering, no depth cues, no camera drift, no generic stock patterns
+TIMING: Hold 3.38s after.
+
+--------------------------------------------------
+CLIP C026 | 00:03:20.000 -> 00:03:28.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium shot, completely static. Flat cel-shaded 2D: The famous march-of-progress illustration drops into the empty logo circle, settling into place with a soft snap. The march figures are drawn in simplified ink silhouettes against the paper texture, clean outlines, no shading or depth. The logo circle now contains the full evolutionary parade, centered and complete. Teal accent line frames the circle edge. Audio: paper sliding into place, soft snap. No voice, sound effects only. UPA animation, editorial infographic style, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no 3D geometry, no volumetric lighting, no realistic lighting, no depth, no camera movement, no photorealistic rendering, no ambient occlusion
+
+--------------------------------------------------
+CLIP C027 | 00:03:28.000 -> 00:03:36.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium shot, completely static. Flat cel-shaded 2D: The march-of-progress poster pinned flat to a drawn wall, rendered in clean ink on paper texture. The poster is simple, iconic, easy to read—figures walking left to right in a clear line. A small drawn pushpin at each corner. The wall is a flat plane, no perspective, no depth. Soft, even lighting. Audio: pin tapping into wall, paper settling. No voice, sound effects only. UPA animation, editorial motion graphics, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no 3D geometry, no volumetric lighting, no depth cues, no camera drift, no realistic rendering, no ambient occlusion, no subsurface scattering
+
+--------------------------------------------------
+CLIP C028 | 00:03:36.000 -> 00:03:44.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium shot, completely static. Flat cel-shaded 2D: The same poster on the wall, now with a small hand-drawn arrow pointing to it from the side, editorial annotation style in red ink. The arrow is simple, clean, and slightly exaggerated. The poster remains flat and centered. Paper texture throughout, no depth, no shading. Audio: pen scratching paper, soft tap. No voice, sound effects only. UPA animation, editorial infographic aesthetic, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no 3D geometry, no volumetric lighting, no depth, no realistic lighting, no camera movement, no ambient occlusion, no photorealistic rendering
+
+--------------------------------------------------
+CLIP C029 | 00:03:44.000 -> 00:03:52.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium shot, completely static. Flat cel-shaded 2D: The march-of-progress poster splits down the middle with a single clean inked fissure, a vertical crack dividing the evolutionary parade. The crack is sharp, deliberate, and graphic—no realistic texture, just a bold black line. The poster remains pinned to the flat wall. Paper texture, clean outlines, zero depth. Audio: paper tearing slowly, crisp snap. No voice, sound effects only. UPA animation, editorial motion graphics, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no 3D geometry, no volumetric lighting, no depth cues, no realistic rendering, no ambient occlusion, no subsurface scattering, no camera drift
+
+--------------------------------------------------
+CLIP C030 | 00:03:52.000 -> 00:04:00.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium shot, completely static. Flat cel-shaded 2D: The cracked poster remains pinned to the wall. A flat, exaggerated drawn hand enters from the right side of frame, fingers outstretched toward the poster, hesitates mid-reach, then slowly withdraws off-screen. The hand is simplified, cartoon-style with clean ink outlines. The poster stays untouched. Audio: hand brushing fabric, soft exhale. No voice, sound effects only. UPA animation, editorial motion graphics, 24fps, 16:9. 8s. Hold 1.84s after.
+
+NEGATIVE:
+no 3D geometry, no volumetric lighting, no depth, no realistic rendering, no camera movement, no ambient occlusion, no photorealistic rendering
+TIMING: Hold 1.84s after.
+
+--------------------------------------------------
+CLIP C031 | 00:04:00.000 -> 00:04:08.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium shot, completely static. Flat cel-shaded 2D: A tiny, exaggerated drawn figure labeled 'H. floresiensis' in clean ink, standing alone on a flat paper plane. The figure is comically small, simplified with oversized head and short limbs, rendered in bold outlines with no shading or depth. A small label floats beside it. Paper texture background, no perspective. Audio: pen tapping paper, soft label placement. No voice, sound effects only. UPA animation, editorial infographic style, 24fps, 16:9. 8s. Hold 1.38s after.
+
+NEGATIVE:
+no 3D geometry, no volumetric lighting, no depth cues, no realistic rendering, no ambient occlusion, no subsurface scattering, no camera drift
+TIMING: Hold 1.38s after.
+
+--------------------------------------------------
+CLIP C032 | 00:04:08.000 -> 00:04:16.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium shot, completely static. Flat cel-shaded 2D: A horizontal timeline bar drawn in clean ink on paper texture, marked '50,000 years ago' at one point. The tiny H. floresiensis figure stands at that mark, exaggerated small scale. The timeline is simple, flat, with no depth or perspective—just a bold line with a single labeled tick. Audio: pen marking paper, soft tap. No voice, sound effects only. UPA animation, editorial motion graphics, 24fps, 16:9. 8s. Hold 5.38s after.
+
+NEGATIVE:
+no 3D geometry, no volumetric lighting, no depth, no realistic rendering, no camera movement, no ambient occlusion, no photorealistic rendering
+TIMING: Hold 5.38s after.
+
+--------------------------------------------------
+CLIP C033 | 00:04:16.000 -> 00:04:24.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium shot, completely static. Flat cel-shaded 2D animation on paper texture: a tall drawn sapiens figure stands beside a much shorter floresiensis figure, both rendered in clean ink outlines with zero depth. The sapiens figure, posture upright and calm, extends one hand toward a flat cave wall graphic covered in simple painted symbols. The floresiensis figure watches, head tilted slightly, expression curious. Muted ochre and dusty earth tones dominate the paper background, evoking ancient stillness. Audio: brush scraping stone. No voice, sound effects only. UPA-style editorial motion graphics, no volumetric lighting, no 3D geometry. cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+3D rendering, volumetric lighting, subsurface scattering, ambient occlusion, realistic footage, photorealistic humans, depth of field, camera movement, generic stock patterns
+
+--------------------------------------------------
+CLIP C034 | 00:04:24.000 -> 00:04:32.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium shot, completely static. Flat cel-shaded 2D animation on paper texture: the same two drawn figures from the previous frame. The taller sapiens figure now holds a simple drawn flower in one hand, standing over a small rectangular grave outline on the ground. The sapiens figure's posture is slightly bowed, head lowered, expression solemn. The floresiensis figure stands nearby, hands clasped, expression subdued. Muted earth tones with a hint of cooler gray creeping in. Audio: small stone dropping on dirt. No voice, sound effects only. UPA-style editorial motion graphics, no volumetric lighting, no 3D geometry. cinematic documentary, 24fps, 16:9. 8s. Hold 2s after.
+
+NEGATIVE:
+3D rendering, volumetric lighting, subsurface scattering, ambient occlusion, realistic footage, photorealistic humans, depth of field, camera movement, generic stock patterns
+TIMING: Hold 2s after.
+
+--------------------------------------------------
+CLIP C035 | 00:04:32.000 -> 00:04:40.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium shot, completely static. Flat cel-shaded 2D animation on paper texture: multiple flat hominid silhouettes scattered across the frame in various sizes and postures, no hierarchy, just presence. Each silhouette is rendered in clean ink outlines with zero depth, some standing, some crouching, some walking. No two figures are identical. The paper background is muted ochre with faint texture. Audio: footsteps on dirt. No voice, sound effects only. UPA-style editorial motion graphics, no volumetric lighting, no 3D geometry. cinematic documentary, 24fps, 16:9. 8s. Hold 2s after.
+
+NEGATIVE:
+3D rendering, volumetric lighting, subsurface scattering, ambient occlusion, realistic footage, photorealistic humans, depth of field, camera movement, generic stock patterns, hierarchical composition
+TIMING: Hold 2s after.
+
+--------------------------------------------------
+CLIP C036 | 00:04:40.000 -> 00:04:48.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium shot, completely static. Flat cel-shaded 2D animation on paper texture: a single drawn tooth and a small finger bone float centered on blank paper, both labeled 'Denisovan' in clean editorial typeface. The tooth and bone are rendered in precise ink outlines with zero depth, no shading. The paper background is stark white with subtle texture. Audio: pen scratching paper. No voice, sound effects only. UPA-style editorial motion graphics, no volumetric lighting, no 3D geometry. cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+3D rendering, volumetric lighting, subsurface scattering, ambient occlusion, realistic footage, photorealistic objects, depth of field, camera movement, generic stock patterns, warm tones
+
+--------------------------------------------------
+CLIP C037 | 00:04:48.000 -> 00:04:56.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium shot, completely static. Flat cel-shaded 2D animation on paper texture: a simple flat map outline of Siberia rendered in clean ink lines, no detail beyond the border. A small 'X' marks a single location, labeled 'Denisova Cave' in editorial typeface. The map is centered on paper with muted gray-blue tones. Audio: wind rustling paper. No voice, sound effects only. UPA-style editorial motion graphics, no volumetric lighting, no 3D geometry. cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+3D rendering, volumetric lighting, subsurface scattering, ambient occlusion, realistic footage, photorealistic maps, depth of field, camera movement, generic stock patterns, satellite imagery
+
+--------------------------------------------------
+CLIP C038 | 00:04:56.000 -> 00:05:04.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium shot, completely static. Flat cel-shaded 2D animation on paper texture: a narrow vertical cave passage drawn in cross-section, exaggerated tightness with clean ink lines. The passage walls are close together, rendered in flat gray tones with no depth. A small human silhouette at the top for scale, posture squeezed, arms pressed to sides. The paper background is muted gray-blue. Audio: fabric scraping rock. No voice, sound effects only. UPA-style editorial motion graphics, no volumetric lighting, no 3D geometry. cinematic documentary, 24fps, 16:9. 8s. Hold 2s after.
+
+NEGATIVE:
+3D rendering, volumetric lighting, subsurface scattering, ambient occlusion, realistic footage, photorealistic caves, depth of field, camera movement, generic stock patterns
+TIMING: Hold 2s after.
+
+--------------------------------------------------
+CLIP C039 | 00:05:04.000 -> 00:05:12.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium shot, completely static. Flat cel-shaded 2D animation on paper texture: small drawn bones scattered at the bottom of the frame, labeled 'H. naledi' in editorial typeface. Each bone is rendered in precise ink outlines with zero depth, arranged in a deliberate pattern suggesting placement. The paper background is muted gray with faint texture. Audio: small bones clinking together. No voice, sound effects only. UPA-style editorial motion graphics, no volumetric lighting, no 3D geometry. cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+3D rendering, volumetric lighting, subsurface scattering, ambient occlusion, realistic footage, photorealistic bones, depth of field, camera movement, generic stock patterns
+
+--------------------------------------------------
+CLIP C040 | 00:05:12.000 -> 00:05:20.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium shot, completely static. Flat cel-shaded 2D animation on paper texture: a small-brained naledi figure, drawn with exaggerated small head and hunched posture, kneels beside a simple rectangular grave outline on the ground. The figure's hands are clasped, head bowed, expression solemn. The paper background is warm faded sepia, suggesting both distance and fragility. Audio: hand brushing dirt. No voice, sound effects only. UPA-style editorial motion graphics, no volumetric lighting, no 3D geometry. cinematic documentary, 24fps, 16:9. 8s. Hold 3s after.
+
+NEGATIVE:
+3D rendering, volumetric lighting, subsurface scattering, ambient occlusion, realistic footage, photorealistic humans, depth of field, camera movement, generic stock patterns
+TIMING: Hold 3s after.
+
+--------------------------------------------------
+CLIP C041 | 00:05:20.000 -> 00:05:28.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium shot, completely static. Flat cel-shaded 2D animation on paper texture: drawn Ethiopian landscape with ochre hills and minimal detail, clean inked outlines. A simple graphic label reading 'HADAR' and 'LUCY' appears in editorial typeface, centered in frame. The landscape is empty, still, drawn with UPA-style economy. Muted earth tones, no depth or shading. Audio: wind brushing dry grass. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no 3D geometry, no volumetric lighting, no subsurface scattering, no ambient occlusion, no realistic footage, no live-action, no photographic texture, no depth cues, no camera drift
+
+--------------------------------------------------
+CLIP C042 | 00:05:28.000 -> 00:05:36.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium shot, completely static. Flat 2D infographic on paper: hand-drawn date text 'NOVEMBER 24, 1974 / SUNDAY' in bold editorial ink, centered on cream paper texture. Small dust particles illustrated as simple dots drifting slowly across frame in motion-graphic timing. Ochre and sepia tones, clean outlines, zero depth. Audio: paper rustling, pen scratching. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no 3D rendering, no realistic dust simulation, no volumetric effects, no photographic elements, no depth of field, no ambient wash, no room tone
+
+--------------------------------------------------
+CLIP C043 | 00:05:36.000 -> 00:05:44.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium shot, slow pan right. Flat cel-shaded 2D: exaggerated drawn figure of Johanson walking across flat ochre landscape, shoulders slumped, head slightly down. Clean inked outline, no shading. His posture conveys exhaustion through simple graphic language—bent back, dragging feet. Minimal background detail, paper texture visible. Audio: footsteps crunching gravel, boots scuffing dirt. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no 3D character models, no realistic human footage, no volumetric lighting, no depth, no photographic realism, no ambient hum
+
+--------------------------------------------------
+CLIP C044 | 00:05:44.000 -> 00:05:52.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium shot, completely static. Flat 2D animation: drawn figure of Johanson snaps to kneeling position in single motion-graphic beat, exaggerated pose with hands hitting ground. Clean inked outlines, flat against ochre paper background. His expression shifts to wide-eyed surprise, drawn with UPA-style economy. No depth, no shading. Audio: knees hitting dirt, hands slapping ground. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 5.8s after.
+
+NEGATIVE:
+no 3D geometry, no realistic motion blur, no volumetric dust, no photographic elements, no depth cues, no ambient silence
+TIMING: Hold 5.8s after.
+
+--------------------------------------------------
+CLIP C045 | 00:05:52.000 -> 00:06:00.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium shot, completely static. Flat 2D infographic: hand-drawn bone fragments appear one by one on paper grid, simple inked shapes accumulating across frame. Graphic text '40%' and '3.2 MILLION YEARS' resolves in editorial typeface. Clean outlines, no depth, ochre and gray tones on paper texture. Motion-graphic timing, UPA-style clarity. Audio: small objects clicking together, fragments tapping on table. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no 3D models, no realistic bone textures, no volumetric lighting, no photographic elements, no depth of field, no ambient room tone
+
+--------------------------------------------------
+CLIP C046 | 00:06:00.000 -> 00:06:08.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium shot, completely static. Flat cel-shaded 2D: drawn cassette player on simple table, clean inked outlines. Musical notes illustrated as simple graphic symbols float from speaker outline in snappy motion-graphic timing. Warm ochre background, paper texture, zero depth. The cassette reels turn in looping animation. Audio: cassette clicking into player, tape reels turning. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no 3D objects, no realistic materials, no volumetric lighting, no photographic realism, no depth cues, no ambient music, no voice
+
+--------------------------------------------------
+CLIP C047 | 00:06:08.000 -> 00:06:16.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium shot, completely static. Flat 2D editorial infographic: Lucy skeleton diagram center frame, clean inked outlines on paper texture. Graphic arrows point to hip and knee joints, labeled 'BIPEDAL' in editorial typeface. Simple, authoritative layout, UPA-style clarity. Muted ochre and teal tones, zero depth. Audio: pen drawing lines on paper, ruler sliding across surface. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no 3D skeleton models, no realistic bone textures, no volumetric lighting, no photographic elements, no depth, no ambient wash
+
+--------------------------------------------------
+CLIP C048 | 00:06:16.000 -> 00:06:24.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium shot, completely static. Flat 2D graphic on paper: single hand-drawn arrow pointing right, then a question mark appears beside it in editorial ink. Simple, ironic juxtaposition. Paper texture visible, clean outlines, no depth. Muted sepia tones. The question mark lingers, unresolved. Audio: pen scratching paper, ink dot tapping. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no 3D elements, no volumetric effects, no photographic realism, no depth cues, no ambient silence, no music
+
+--------------------------------------------------
+CLIP C049 | 00:06:24.000 -> 00:06:32.000 | 8.0s
+Emotion: ANTICIPATION (low) | Arc: deep
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium close-up, very slow creeping push-in. Flat cel-shaded 2D infographic animation on paper texture. Two location markers drawn as simple pins on a flat map, connected by a short dotted line. Clean inked outlines, zero depth. The map is rendered in muted ochre and dusty earth tones, with hand-drawn topographic contours. The dotted line pulses faintly, suggesting proximity but vast temporal distance. UPA-style editorial motion graphics, no volumetric lighting. Audio: pen scratching paper, ruler sliding across surface. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no 3D geometry, no volumetric lighting, no subsurface scattering, no ambient occlusion, no realistic footage, no live-action, no depth, no camera drift, no generic stock patterns
+
+--------------------------------------------------
+CLIP C050 | 00:06:32.000 -> 00:06:40.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium shot, completely static. Flat cel-shaded 2D infographic animation on paper texture. A horizontal timeline drawn with clean inked lines. Lucy's range ends at 2.95 million years, marked by a vertical bar. A gap appears, then a new jawbone icon materializes after the gap. Numbers and labels in editorial sans-serif. Cool grays and blues, teal accent on the new jawbone. UPA-style data journalism aesthetic, zero depth. Audio: chalk tapping on board, paper rustling. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no 3D geometry, no volumetric lighting, no subsurface scattering, no ambient occlusion, no realistic footage, no live-action, no depth, no camera drift, no generic stock patterns
+
+--------------------------------------------------
+CLIP C051 | 00:06:40.000 -> 00:06:48.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium close-up, slow confirming push-in. Flat cel-shaded 2D infographic animation on paper texture. The timeline gap becomes the visual focus. Empty space between two labeled points (2.95 Ma and the new jawbone) is framed centrally. The gap is rendered as blank paper, surrounded by faint grid lines. Warm sepia tones, like old paper. Clean inked outlines, zero depth. UPA-style editorial motion graphics. Audio: pencil erasing paper, soft brush sweeping surface. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no 3D geometry, no volumetric lighting, no subsurface scattering, no ambient occlusion, no realistic footage, no live-action, no depth, no camera drift, no generic stock patterns
+
+--------------------------------------------------
+CLIP C052 | 00:06:48.000 -> 00:06:56.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium close-up, slow confirming push-in. Flat cel-shaded 2D infographic animation on paper texture. An arrow drawn from Lucy's silhouette stops mid-frame, does not reach a human figure on the right. The arrow ends abruptly in empty space. Clean inked outlines, stark graphic contradiction. Warm sepia background, black ink. UPA-style editorial motion graphics, zero depth. Audio: pen scratching paper, line stopping abruptly. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no 3D geometry, no volumetric lighting, no subsurface scattering, no ambient occlusion, no realistic footage, no live-action, no depth, no camera drift, no generic stock patterns
+
+--------------------------------------------------
+CLIP C053 | 00:06:56.000 -> 00:07:04.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium close-up, slow confirming push-in. Flat cel-shaded 2D infographic animation on paper texture. A second hominid silhouette appears beside Lucy's on the same timeline. Both flat, same height, no connecting lines between them. Clean inked outlines, zero depth. Warm sepia tones, like old paper. UPA-style editorial motion graphics. Audio: pen tapping paper twice, second silhouette appearing. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no 3D geometry, no volumetric lighting, no subsurface scattering, no ambient occlusion, no realistic footage, no live-action, no depth, no camera drift, no generic stock patterns
+
+--------------------------------------------------
+CLIP C054 | 00:07:04.000 -> 00:07:12.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium close-up, slow confirming push-in. Flat cel-shaded 2D infographic animation on paper texture. Wide paper landscape with wavy lines above ground suggesting heat. Dry grass rendered as simple vertical strokes. Dusty ochre and muted earth tones. Clean inked outlines, zero depth. UPA-style editorial motion graphics. Audio: wind rustling dry grass, footsteps on dusty ground. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no 3D geometry, no volumetric lighting, no subsurface scattering, no ambient occlusion, no realistic footage, no live-action, no depth, no camera drift, no generic stock patterns
+
+--------------------------------------------------
+CLIP C055 | 00:07:12.000 -> 00:07:20.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium close-up, slow confirming push-in. Flat cel-shaded 2D infographic animation on paper texture. Multiple flat hominid figures scattered across the landscape. No hierarchy, no perspective—just coexistence on a paper plane. Each figure has distinct posture and shape. Dusty ochre and muted earth tones. Clean inked outlines, zero depth. UPA-style editorial motion graphics. Audio: multiple footsteps on dry ground, grass rustling. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no 3D geometry, no volumetric lighting, no subsurface scattering, no ambient occlusion, no realistic footage, no live-action, no depth, no camera drift, no generic stock patterns
+
+--------------------------------------------------
+CLIP C056 | 00:07:20.000 -> 00:07:28.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium close-up, slow confirming push-in. Flat cel-shaded 2D infographic animation on paper texture. Multiple flat-drawn hominid silhouettes scattered across wide paper landscape. No lines connect them. Coexistence without hierarchy. Each silhouette has distinct shape and posture. Warm sepia tones, like old paper. Clean inked outlines, zero depth. UPA-style editorial motion graphics. Audio: wind rustling dry grass, distant footsteps fading. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no 3D geometry, no volumetric lighting, no subsurface scattering, no ambient occlusion, no realistic footage, no live-action, no depth, no camera drift, no generic stock patterns
+
+--------------------------------------------------
+CLIP C057 | 00:07:28.000 -> 00:07:36.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium close-up, very slow confirming push-in. Flat cel-shaded 2D: Multiple drawn hominid silhouettes on faded sepia paper, clean ink outlines. Most figures dissolve into faint ghosted outlines, opacity fading to near-transparency. Only one silhouette remains solid and centered. Scattered drawn teeth fossils embedded in layered ash texture below. Warm 4000K lighting, paper grain visible. UPA editorial motion graphics style, no depth or volumetric effects. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+3D geometry, volumetric lighting, subsurface scattering, ambient occlusion, realistic footage, live-action, photorealistic rendering, depth of field, camera drift, generic stock patterns
+
+--------------------------------------------------
+CLIP C058 | 00:07:36.000 -> 00:07:44.000 | 8.0s
+Emotion: ANTICIPATION (low) | Arc: payoff
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Tight then reveal, very slow creep into sudden pull-back. Flat cel-shaded 2D: Clean scientific diagram pinned to paper wall, sharp ink lines. As camera creeps in, hand-drawn question marks appear at diagram edges, lines begin to blur and waver. Sudden pull-back reveals wall covered in multiple conflicting diagrams, some crossed out, some half-erased. Dramatic to release lighting, building to warm 4000K with release gold accent. UPA editorial motion graphics, exaggerated graphic contrast. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+3D geometry, volumetric lighting, subsurface scattering, ambient occlusion, realistic footage, live-action, photorealistic rendering, depth of field, smooth transitions, generic stock patterns
+
+--------------------------------------------------
+CLIP C059 | 00:07:44.000 -> 00:07:52.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium close-up, very slow confirming push-in. Flat cel-shaded 2D: Single drawn fossil tooth embedded in cross-section of volcanic ash layers on paper, clean ink outlines. Fossil centered, perfectly still, surrounded by stratified ash texture in muted ochre and gray. Warm 4000K lighting, paper grain texture visible throughout. No embellishment, factual presentation. UPA editorial motion graphics style, zero depth. Cinematic documentary, 24fps, 16:9. 8s. Hold 2.96s after.
+
+NEGATIVE:
+3D geometry, volumetric lighting, subsurface scattering, ambient occlusion, realistic footage, live-action, photorealistic rendering, depth of field, camera movement during hold, generic stock patterns
+TIMING: Hold 2.96s after.
+
+--------------------------------------------------
+CLIP C060 | 00:07:52.000 -> 00:08:00.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium close-up, very slow confirming push-in. Flat cel-shaded 2D: Drawn museum safe door on faded sepia paper, closed and centered. Clean ink outline, brass lock detail, label reading 'Lucy - AL 288-1' in hand-lettered text. Warm 4000K lighting, aged paper texture throughout. Quiet finality in composition, no movement except slow push. UPA editorial motion graphics, flat graphic style. Cinematic documentary, 24fps, 16:9. 8s. Hold 2.37s after.
+
+NEGATIVE:
+3D geometry, volumetric lighting, subsurface scattering, ambient occlusion, realistic footage, live-action, photorealistic rendering, depth of field, camera movement during hold, generic stock patterns
+TIMING: Hold 2.37s after.
+
+--------------------------------------------------
+CLIP C061 | 00:08:00.000 -> 00:08:08.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium close-up, very slow confirming push-in. Flat cel-shaded 2D: Split-frame composition on paper. Left side: drawn hominid figure mid-stride, upright posture, clean ink lines. Right side: same figure reaching upward into drawn tree branches, arms extended. Dual postures side-by-side, warm 4000K lighting, sepia paper texture. UPA editorial motion graphics, exaggerated anatomical clarity. Cinematic documentary, 24fps, 16:9. 8s. Hold 1.8s after.
+
+NEGATIVE:
+3D geometry, volumetric lighting, subsurface scattering, ambient occlusion, realistic footage, live-action, photorealistic rendering, depth of field, camera movement during hold, generic stock patterns
+TIMING: Hold 1.8s after.
+
+--------------------------------------------------
+CLIP C062 | 00:08:08.000 -> 00:08:16.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium close-up, very slow confirming push-in. Flat cel-shaded 2D: Multiple faint hominid silhouettes drawn on sepia paper, clean ink outlines. Figures gradually dissolve into ghosted transparency, fading into paper texture grain. Empty negative space expands where figures once stood. Warm 4000K lighting, aged paper aesthetic. UPA editorial motion graphics, graphic simplicity. Cinematic documentary, 24fps, 16:9. 8s. Hold 3.04s after.
+
+NEGATIVE:
+3D geometry, volumetric lighting, subsurface scattering, ambient occlusion, realistic footage, live-action, photorealistic rendering, depth of field, camera movement during hold, generic stock patterns
+TIMING: Hold 3.04s after.
+
+--------------------------------------------------
+CLIP C063 | 00:08:16.000 -> 00:08:18.090 | 2.09s
+Emotion: ANTICIPATION (low) | Arc: payoff
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Tight then reveal, very slow creep into sudden pull-back. Flat cel-shaded 2D: Single solid human silhouette drawn on faded paper, centered. Behind it, multiple ghosted hominid outlines in faint ink, barely visible. Slow creep tightens on the solid figure, then sudden pull-back reveals the lone survivor among faded ancestors. Dramatic to release lighting, building to warm 4000K with release gold accent. Delicate line work, paper grain texture. UPA editorial motion graphics. Cinematic documentary, 24fps, 16:9. 2.09s.
+
+NEGATIVE:
+3D geometry, volumetric lighting, subsurface scattering, ambient occlusion, realistic footage, live-action, photorealistic rendering, depth of field, smooth transitions, generic stock patterns
