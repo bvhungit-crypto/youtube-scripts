@@ -1,0 +1,2428 @@
+════════════════════════════════════════════════════════════════
+[CHARACTERS Description]
+════════════════════════════════════════════════════════════════
+
+PROJECT: 1
+
+RATIO: 16:9
+
+--------------------------------------------------
+STYLE (DETAILED - MANDATORY):
+
+- Style Directive: cinematic
+
+- Medium: Live-action / Cinematic
+
+- Visual Style:
+  - Cinematic composition with depth and motivated framing
+
+- Character Design:
+  [Describe the visual logic of all characters — head/body proportion, expression range, silhouette clarity]
+
+- Materials & Textures:
+  [e.g. Flat colors only / Cel-shaded with soft shadow / Painterly with visible brushwork]
+
+- Lighting:
+  [e.g. Bright even lighting / Dramatic rim lighting / Soft ambient with glow on focal elements]
+
+- Color Palette:
+  [Define color roles — e.g. Red = danger, Yellow = energy, Blue = calm, Black outline for clarity]
+
+- Rendering Quality:
+  [e.g. Crisp, clean, high-definition / Slightly grainy retro / Hyper-smooth anime-style]
+
+- Motion Feel:
+  [e.g. Smooth action-driven / Bouncy exaggerated / Slow cinematic / Snappy cut-driven]
+
+- Overall Impression:
+  [One paragraph — what should viewers FEEL when watching? What is the visual "brand" of this project?]
+
+--------------------------------------------------
+TONE:
+[Overall emotional register — e.g. High tension, urgent, dramatic / Dark comedic, absurdist / Warm and nostalgic / Energetic and hype]
+[Detected dominant emotion (auto, for reference): Trust]
+
+--------------------------------------------------
+RENDERING RULES:
+
+- [Rule 1 — e.g. NO TEXT, NO LETTERS, NO SYMBOLIC WORDS in any scene]
+- [Rule 2 — e.g. Story must be conveyed entirely through visuals and expressions]
+- [Rule 3 — e.g. Each scene must have a clear visual conflict or action beat]
+- [Rule 4 — e.g. Only include characters explicitly required in each scene]
+- [Rule 5 — e.g. No background crowd, no unnecessary props]
+- [Add more rules as needed]
+
+--------------------------------------------------
+CHARACTERS (LOCKED):
+
+- Character 1: Unknown Number
+  [Physical description — face shape, skin tone, eye style — fill in]
+  [Hair — color #HEX, length, style — fill in]
+  [Default outfit — top, bottom, shoes, accessories — fill in]
+  [Signature trait — what makes them instantly recognizable — fill in]
+  [Expression range — what emotions they show most — fill in]
+
+- Character 2: Thomas Hess
+  [Physical description — face shape, skin tone, eye style — fill in]
+  [Hair — color #HEX, length, style — fill in]
+  [Default outfit — top, bottom, shoes, accessories — fill in]
+  [Signature trait — what makes them instantly recognizable — fill in]
+  [Expression range — what emotions they show most — fill in]
+
+- [Add unnamed characters (narrator, crowd, etc.) here if needed]
+
+--------------------------------------------------
+ENVIRONMENT (GLOBAL):
+
+[Default background / world setting for the entire project]
+[e.g. Minimal clean background, soft gradient sky / Neon-lit urban rooftop / Pastel fantasy kingdom]
+[Note: individual scenes can override this with their own ENVIRONMENT field]
+
+[Detected scene environments (auto, for reference):]
+  - Cozy home office bathed in 3800K lamplight, warm wood desk, papers visible at edge of frame, atmosphere of quiet focused work
+  - Intimate study space with warm 3800K lighting, papers and laptop visible in soft focus background
+  - Empty hospital corridor bathed in 3800K fluorescent wash, clean white walls, atmosphere of institutional quiet and order
+  - Bright hospital corridor with 3800K overhead lighting, clean professional environment, atmosphere of calm institutional routine
+  - Warm study with 3800K lighting, manuscript pages visible beside laptop
+  - Intimate framing with shallow depth of field, background blurred
+  - Urban and suburban settings with clear signage, well-lit parking areas, atmosphere of accessible healthcare
+  - Pen scratching paper as hand circles recurring room numbers
+  - Pen tapping desk softly
+  - The station is clean, organized—clipboard, pens, monitor glowing softly in background
+  - The chart shows timestamps, dosages, room numbers—407 visible among them
+  - The scene feels calm and orderly, bathed in soft golden light that creates a sense of trust and routine documentation
+
+--------------------------------------------------
+GOAL:
+[Optional — one sentence stating the visual storytelling goal of the entire video]
+[e.g. "Make the audience feel the tension of nuclear deterrence without using any text or narration"]
+
+════════════════════════════════════════════════════════════════
+[END CHARACTERS Description]
+════════════════════════════════════════════════════════════════
+
+
+════════════════════════════════════════════════════════════════
+SCENE PROMPTS
+════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────
+🎬 SCENE 01: Trust — Hook [00:00–00:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cozy home office bathed in 3800K lamplight, warm wood desk, papers visible at edge of frame, atmosphere of quiet focused work
+
+ACTIONS:
+- Writer's hands rest on illuminated keyboard, fingers poised but still, face partially visible in soft warm glow showing calm concentration
+- Hands hover momentarily
+- Begin typing deliberately
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- keyboard keys clicking steadily
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 02: Anticipation — Hook [00:08–00:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+[Scene environment — fill in]
+
+ACTIONS:
+- [Character actions — fill in]
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- building rhythmic pulse, suspended note, held breath
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 03: Trust — Hook [00:16–00:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Intimate study space with warm 3800K lighting, papers and laptop visible in soft focus background
+
+ACTIONS:
+- Writer's face half-lit by soft warm light, eyes narrowed in concentration, brow furrowed
+- Lips part slightly as if forming a question, head tilting forward with cautious curiosity
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- pen tapping on desk
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 04: Trust — Hook [00:24–00:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Empty hospital corridor bathed in 3800K fluorescent wash, clean white walls, atmosphere of institutional quiet and order
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- eleven days
+
+ACTIONS:
+- Hospital call light panel mounted on wall, Room 407 indicator suddenly illuminating in clinical blue, digital timestamp reading 2:17AM glowing beneath
+- Panel shows steady calm light activation, no hand visible, mechanical precision in the glow
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- call button click, light switch engaging
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 05: Trust — Hook [00:32–00:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Bright hospital corridor with 3800K overhead lighting, clean professional environment, atmosphere of calm institutional routine
+
+ACTIONS:
+- Same hospital call light panel, Room 407 indicator glowing steadily in warm clinical light, small digital counter in corner reading '3' becomes visible as camera pushes closer
+- Light holds constant, unwavering, the number three clearly legible
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- light switch holding position, panel plastic creaking slightly
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 06: Trust — Hook [00:40–00:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm study with 3800K lighting, manuscript pages visible beside laptop
+
+ACTIONS:
+- Writer's hands typing deliberately on backlit keyboard, each keystroke firm and purposeful despite slight tremor
+- Posture upright and resolved, shoulders squared
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- keyboard typing steadily
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 07: Trust — Hook [00:48–00:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Intimate framing with shallow depth of field, background blurred
+
+ACTIONS:
+- Writer's eyes stare directly into camera lens, pupils dilated, expression grave and knowing
+- Face half-lit by warm light, other half in shadow, creating split between revelation and concealment
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- single breath exhale
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 08: Trust — Hook [00:56–01:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Urban and suburban settings with clear signage, well-lit parking areas, atmosphere of accessible healthcare
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- two years
+
+ACTIONS:
+- Three distinct hospital building exteriors in sequence: first a modern glass facade, second a brick mid-century structure, third a sprawling campus complex, each bathed in 3800K warm institutional lighting showing calm professional environments
+- Camera glides smoothly past each building, revealing their different architectural styles but similar welcoming presence
+
+CAMERA:
+Medium | Tracking
+
+AUDIO:
+- footsteps on pavement, car door closing in distance
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 09: Trust — Hook [01:04–01:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Pen scratching paper as hand circles recurring room numbers
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- two years
+
+ACTIONS:
+- Scattered documents, photographs, and handwritten notes spread across a wooden desk surface
+- A hand enters frame, fingers tracing connections between three hospital floor plans marked with red circles
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- pen scratching paper
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 10: Trust — Hook [01:12–01:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Pen tapping desk softly
+
+ACTIONS:
+- A writer's face in profile, half-lit by warm desk lamp against shadow
+- Eyes steady, jaw set with quiet resolve
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- pen tapping desk
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 11: Trust — Hook [01:20–01:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The station is clean, organized—clipboard, pens, monitor glowing softly in background
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- four years
+
+ACTIONS:
+- A nurse in scrubs stands at a hospital nurses' station under soft fluorescent light, hands resting on a patient chart
+- Posture upright, shoulders squared, expression calm and professional
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- clipboard pages turning
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 12: Trust — Hook [01:28–01:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The chart shows timestamps, dosages, room numbers—407 visible among them
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- four years
+
+ACTIONS:
+- Nurse's hands in blue latex gloves hold a patient chart, pen poised above a medication log
+- Fingers steady, movements precise and routine
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- pen clicking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 13: Trust — Hook [01:36–01:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The scene feels calm and orderly, bathed in soft golden light that creates a sense of trust and routine documentation
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Seventy-one years
+
+ACTIONS:
+- Warm afternoon sunlight streams through a window onto a wooden desk surface where a handwritten patient chart lies open, showing the number '71' in neat handwriting
+- A nurse's hand rests gently beside the page, fingers relaxed, conveying quiet professional care
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- pen tip scratching paper, pages rustling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 14: Trust — Hook [01:44–01:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Soft natural light illuminates a brass room number plate reading '407' mounted on warm cream-colored wall
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Seventy-one years
+
+ACTIONS:
+- Soft natural light illuminates a brass room number plate reading '407' mounted on warm cream-colored wall
+- The plate gleams gently, polished and well-maintained, suggesting care and attention to detail
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- metal plate tapping softly, fingertips brushing wall surface
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 15: Trust — Hook [01:52–02:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The scene conveys professional alertness in a warm, well-lit environment that feels safe and responsive
+
+ACTIONS:
+- Warm golden light falls across a hospital call light panel at a nurses' station
+- The number '407' button glows softly amber at 2:17 on the digital clock display beside it
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- call button clicking on, soft electronic beep
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 16: Trust — Hook [02:00–02:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The door swings slowly inward, revealing the empty room beyond—made bed, cleared tray table, closed window, call panel on wall beside bed
+
+ACTIONS:
+- Nurse's hand in blue latex glove pushes open the door to room 407
+- The door swings slowly inward, revealing the empty room beyond—made bed, cleared tray table, closed window, call panel on wall beside bed
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- door hinge creaking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 17: Trust — Hook [02:08–02:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Institutional wall mount, scuffed beige paint, fluorescent light casting sharp shadow across the mechanism
+
+ACTIONS:
+- Hospital call button physically depressed, finger-shaped indent visible in the worn plastic surface
+- The button remains pressed under invisible weight, metal contact points touching beneath translucent casing
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- plastic creaking under pressure
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 18: Trust — Hook [02:16–02:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Institutional hallway visible through door window, empty
+
+ACTIONS:
+- Hand resetting call button with deliberate pressure, fingers releasing slowly
+- Same hand pulling door closed, metal latch engaging
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- button click, door latch engaging, handle rattling twice
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 19: Trust — Build Up [02:24–02:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The open doorway frames the scene's center, creating a visual question mark
+
+ACTIONS:
+- Two figures in scrubs walk side by side down a softly lit hospital corridor, shoulders relaxed, steady gait suggesting routine partnership
+- They approach room 407 where the door stands open, revealing warm interior light spilling into the hallway
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- footsteps on linoleum, door hinge creaking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 20: Trust — Build Up [02:32–02:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clinical room, pale green walls, medical equipment silent on far wall
+
+ACTIONS:
+- Flashlight beam sweeping across empty hospital bed, white sheets undisturbed, overhead fluorescent already illuminating the space
+- Beam cuts diagonal shadow patterns across institutional bedding, searching motion despite adequate light
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- flashlight switch clicking, fabric rustling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 21: Trust — Build Up [02:40–02:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Overhead fluorescent light casts no shadows—the depression exists in pure form
+
+ACTIONS:
+- Hospital bed with white linen sheets bearing distinct body-shaped depression
+- Shoulders, torso, legs clearly defined in fabric, as if weight pressed for hours
+
+CAMERA:
+Medium | Tilt
+
+AUDIO:
+- fabric rustling, bed frame creaking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 22: Trust — Build Up [02:48–02:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Absolute stillness
+
+ACTIONS:
+- White linen fabric showing deep shoulder indentation, fibers compressed into precise anatomical curve
+- Light rakes across the depression, revealing texture of long-term pressure
+
+CAMERA:
+Extreme Close-up | Static
+
+AUDIO:
+- fabric settling, thread tension creaking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 23: Trust — Build Up [02:56–03:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Soft afternoon light filters through a nearby window, casting gentle shadows
+
+ACTIONS:
+- A bathroom door stands slightly ajar in a warmly lit hospital room, gap of four inches revealing a sliver of white tile and chrome fixture
+- The door's edge bisects the frame vertically, creating geometric tension
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- water dripping into sink, faucet drip echo
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 24: Trust — Build Up [03:04–03:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Empty bathroom mirror reflects empty doorway behind camera
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- nine months
+
+ACTIONS:
+- White porcelain sink basin, water droplets beaded across surface catching fluorescent light
+- Faucet handles bone-dry, chrome gleaming
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- water droplet falling into basin, porcelain resonating
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 25: Trust — Build Up [03:12–03:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Soft daylight filters through a nearby window, casting gentle shadows across the clean white doorframe and pale linoleum floor
+
+ACTIONS:
+- Two figures stand side by side in a hospital doorway, shoulders relaxed, hands at their sides, faces turned slightly toward each other in quiet mutual acknowledgment
+- They remain completely still, breathing visible but no other movement
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- fabric rustling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 26: Trust — Build Up [03:20–03:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm overhead light illuminates his face against a soft neutral wall, a medical monitor's edge visible in the background
+
+ACTIONS:
+- A man in hospital scrubs turns his head slowly toward the left, eyes widening slightly, mouth parting as his brow furrows in recognition
+- His hand lifts partway, fingers spreading
+- Freezes mid-gesture
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- clothing shifting
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 27: Trust — Build Up [03:28–03:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Institutional beige wall surrounds the panel
+
+ACTIONS:
+- Digital call light panel mounted above door frame, glowing red LED readout displays timestamp in sharp focus
+- Numbers read wrong time
+
+CAMERA:
+Extreme Close-up | Static
+
+AUDIO:
+- electronic beep
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 28: Anticipation — Build Up [03:36–03:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Grainy black-and-white security monitor footage fills frame: empty hospital hallway, timestamp running in corner, door 407 visible at end
+
+ACTIONS:
+- Grainy black-and-white security monitor footage fills frame: empty hospital hallway, timestamp running in corner, door 407 visible at end
+- No one enters
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- tape deck whir
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 29: Anticipation — Build Up [03:44–03:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Desk surface holds scattered papers
+
+ACTIONS:
+- Writer sits at desk in warm lamplight, leaning back in chair, hands folded in lap
+- Shoulders drop slightly, head tilts down
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- chair creaking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 30: Trust — Build Up [03:52–04:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Hands rest on institutional break room table, fluorescent light casting flat even illumination
+
+ACTIONS:
+- Charge nurse's hands grip white ceramic coffee cup, knuckles pale from pressure
+- Fingers tremble slightly
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- ceramic scraping table
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 31: Trust — Build Up [04:00–04:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Institutional beige walls, clipboard on desk
+
+ACTIONS:
+- Nurse in scrubs sits at desk, profile lit by harsh fluorescent overhead, eyes cast down, hands folded tightly
+- Her shoulders are drawn inward, posture defensive
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- paper rustle
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 32: Trust — Build Up [04:08–04:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Soft natural light from a window illuminates her face and the clean white surface of the table
+
+ACTIONS:
+- A woman in nursing scrubs sits at a small table, hands folded loosely in front of her, shoulders slightly forward, eyes downcast with a faint crease between her brows
+- Her chest rises and falls slowly, deliberate and measured
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- paper sliding on table
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 33: Trust — Build Up [04:16–04:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Slight forward lean, shoulders squared—physical certainty
+
+ACTIONS:
+- Writer's face in three-quarter profile, eyes steady on camera, jaw set with quiet resolve, hands resting flat on desk surface
+- Slight forward lean, shoulders squared—physical certainty
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- pen tapping desk surface
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 34: Trust — Build Up [04:24–04:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Linoleum floor stretches into distance, room numbers visible on doors—407 passes frame left
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- nine months
+
+ACTIONS:
+- Linoleum floor stretches into distance, room numbers visible on doors—407 passes frame left
+- Methodical progression, no human presence
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- footsteps on linoleum floor
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 35: Trust — Build Up [04:32–04:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Knuckles white, document header reads 'Floor Transfer Request.' Cinematic documentary, 24fps, 16:9, 1080p
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- nine months
+
+ACTIONS:
+- Hand holding pen hovers over transfer paperwork, fingers tense, slight tremor visible
+- Pen tip touches paper surface, hesitates, lifts—repeats
+
+CAMERA:
+Extreme Close-up | Static
+
+AUDIO:
+- pen scratching paper
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 36: Trust — Build Up [04:40–04:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Hand withdraws slowly
+
+ACTIONS:
+- Elderly hand reaching toward hospital call button mounted on bedrail, fingers trembling, skin translucent under clinical light
+- Index finger extends, presses button once—red light activates
+
+CAMERA:
+Extreme Close-up | Static
+
+AUDIO:
+- call button clicking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 37: Trust — Build Up [04:48–04:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm ambient room lighting from desk lamp creates intimate workspace atmosphere
+
+ACTIONS:
+- Smartphone screen glowing in dim room, text message notification visible with timestamp 2:17AM
+- Fingers holding phone steady, slight tension in grip
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- phone vibration buzz, single notification chime
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 38: Trust — Build Up [04:56–05:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Digital timer display counting in real time: 00:00 to 00:11, white numerals on black background
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- eleven seconds
+
+ACTIONS:
+- Digital timer display counting in real time: 00:00 to 00:11, white numerals on black background
+- Each second ticks forward methodically
+
+CAMERA:
+Extreme Close-up | Static
+
+AUDIO:
+- digital timer beeping
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 39: Trust — Build Up [05:04–05:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Floor reflects overhead lights, room doors closed on both sides
+
+ACTIONS:
+- Empty hospital hallway, slight haze diffusing fluorescent light, institutional green walls
+- Floor reflects overhead lights, room doors closed on both sides
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- ventilation system humming
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 40: Trust — Build Up [05:12–05:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Methodical, credible presence
+
+ACTIONS:
+- New speaker—Daniel, patient care aide, mid-30s, scrubs, direct eye contact with camera
+- Jaw set, posture upright, hands clasped in front
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- medical equipment beeping
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 41: Trust — Build Up [05:20–05:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm desk lamp light fades incrementally, casting longer shadows across face and papers
+
+ACTIONS:
+- Writer at desk, shoulders slightly hunched, hand resting on chin, eyes downcast with faint skepticism softening into uncertainty
+- Fingers tap once on desk surface
+- Still
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- pen tapping wood once
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 42: Trust — Build Up [05:28–05:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Soft natural light from distant window at corridor end creates gentle glow, creating calm professional atmosphere
+
+ACTIONS:
+- Medication cart in center frame, chrome rails catching soft overhead fluorescents, white linoleum reflecting pale institutional light
+- Cart rolls steadily down empty hospital corridor, warm beige walls, numbered patient doors passing on both sides
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- cart wheels rolling on linoleum, soft metallic rattle
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 43: Trust — Build Up [05:36–05:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cart wheels maintain steady rhythm, professional healthcare environment with clean lines and organized space
+
+ACTIONS:
+- Medication cart continues down sixth floor hallway, warm overhead lighting creating even illumination on cream-colored walls
+- Corridor stretches ahead with supply closet visible at far end, natural daylight filtering through side windows
+
+CAMERA:
+Medium | Tracking
+
+AUDIO:
+- rhythmic wheel rotation, occasional paper rustle from cart
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 44: Trust — Build Up [05:44–05:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Hands flipping through patient roster pages on clipboard, fingers moving methodically down printed names and room numbers
+
+ACTIONS:
+- Hands flipping through patient roster pages on clipboard, fingers moving methodically down printed names and room numbers
+- Each name checked, each line accounted for
+
+CAMERA:
+Extreme Close-up | Static
+
+AUDIO:
+- paper pages turning crisply
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 45: Anticipation — Build Up [05:52–06:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Amber-shadow lighting builds as camera advances, fluorescent overhead mixing with warmer emergency exit glow
+
+ACTIONS:
+- Nurse walking toward distant figure at end of corridor, steps hesitant, shoulders slightly forward, hands open at sides in cautious approach
+- Figure visible as silhouette against far wall, back turned, hospital gown hanging loose
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- footsteps on linoleum floor
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 46: Trust — Build Up [06:00–06:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+harsh fluorescent light from above creates flat shadowless illumination on face
+
+ACTIONS:
+- Elderly man's eyes fill frame, pupils dilated, staring directly at camera with complete vacancy
+- No micro-expressions, no blink reflex, no recognition
+
+CAMERA:
+Extreme Close-up | Static
+
+AUDIO:
+- fluorescent light buzzing faintly
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 47: Trust — Build Up [06:08–06:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clean linoleum floor reflects gentle overhead glow, organized professional space showing no signs of disturbance
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Forty seconds
+
+ACTIONS:
+- Empty hospital hallway where figure stood moments before, warm overhead lights creating even illumination on pale walls
+- Supply closet door closed, corridor extends to distant window with soft natural light
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- footsteps approaching from off-screen, door handle test click
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 48: Trust — Build Up [06:16–06:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Professional medical interface with clear organized information, soft ambient light from office environment
+
+ACTIONS:
+- Hospital monitoring station screen displaying patient vital signs dashboard, rows of green normal-range indicators, steady heartbeat waveforms scrolling across multiple panels
+- Warm screen glow illuminates data readouts showing timestamps and room numbers, all readings within normal parameters
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- keyboard typing, mouse clicking on interface
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 49: Trust — Build Up [06:24–06:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The phone sits in shadow beneath a flickering exterior light, institutional brick texture visible behind it
+
+ACTIONS:
+- Weathered payphone mounted on hospital exterior wall, dust coating the metal handset and cord, faint scratches on the number pad
+- The phone sits in shadow beneath a flickering exterior light, institutional brick texture visible behind it
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- metal cord swaying in breeze
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 50: Trust — Deep [06:32–06:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Exterior hospital wall at dusk, teal-lit concrete with institutional signage
+
+ACTIONS:
+- Exterior hospital wall at dusk, teal-lit concrete with institutional signage
+- Mounted payphone in center frame, metal cord coiled, receiver dusty and untouched
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- metal cord creaking in wind
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 51: Trust — Deep [06:40–06:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Institutional fluorescent lighting casts flat even illumination across pale green walls and polished linoleum floor
+
+ACTIONS:
+- Hospital hallway at night, figure standing at far end facing wall, shoulders slightly forward, hands at sides, head tilted down in quiet observation
+- Same posture as before, same position, same wall
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- no sound
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 52: Trust — Deep [06:48–06:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+In background, blurred hospital corridor stretches away, now vacant
+
+ACTIONS:
+- Hand holding smartphone in foreground, screen glowing with photo of empty hallway
+- In background, blurred hospital corridor stretches away, now vacant
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- phone screen tapping
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 53: Trust — Deep [06:56–07:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Shallow focus, face partially in shadow
+
+ACTIONS:
+- Eyes looking downward, pupils reflecting phone screen glow in teal light
+- Brow slightly furrowed, expression shifting from confusion to dawning unease
+
+CAMERA:
+Extreme Close-up | Static
+
+AUDIO:
+- shallow breathing
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 54: Trust — Deep [07:04–07:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Screen brightness illuminates surrounding space with cool glow
+
+ACTIONS:
+- Smartphone screen in sharp focus displaying photograph of empty hospital hallway, pale institutional walls, polished floor reflecting overhead lights
+- Lower right corner shows dark angular shadow near baseboard beside supply closet door, shadow angle inconsistent with ceiling light source geometry
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- touchscreen tap
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 55: Trust — Deep [07:12–07:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Pixelated detail resolving as zoom increases
+
+ACTIONS:
+- Smartphone screen zoomed into shadow edge on hospital floor
+- Thin strip of white emerges at shadow boundary, forming curved shape resembling wristband
+
+CAMERA:
+Extreme Close-up | Static
+
+AUDIO:
+- phone screen pinching
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 56: Anticipation — Deep [07:20–07:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm amber light from desk lamp illuminates phone and hand, creating atmosphere of quiet determination and forward momentum
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- two days
+
+ACTIONS:
+- Hand holding smartphone, thumb hovering over send button on message screen with attached photo
+- Finger taps send, message whooshes away
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- phone whoosh sound, fingernail tap on glass
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 57: Trust — Deep [07:28–07:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clinical hospital break room, fluorescent overhead casting authoritative teal-tinged light, sterile white walls, metal lockers in soft focus behind
+
+ACTIONS:
+- Older nurse in teal-accented scrubs, shoulders slightly forward, eyes narrowed in recognition, mouth parting as she processes information
+- She leans closer to a phone screen held toward her, finger hovering near the display
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- finger tapping phone screen
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 58: Trust — Deep [07:36–07:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Soft overhead fluorescents cast warm amber glow on linoleum, walls painted in muted cream, small framed landscape visible
+
+ACTIONS:
+- Elderly man in hospital gown stands upright at end of dimly lit corridor, hands clasped gently, face calm with quiet expectation
+- He gazes steadily toward double doors, posture patient and composed
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- fluorescent light hum, distant footsteps on linoleum
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 59: Trust — Deep [07:44–07:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Hospital room door stands slightly ajar, warm light spilling through gap onto polished floor
+
+ACTIONS:
+- Hospital room door stands slightly ajar, warm light spilling through gap onto polished floor
+- Empty bed visible inside, sheets smoothed, pillow undented
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- door creaking softly
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 60: Trust — Deep [07:52–08:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Calendar mounted on institutional green wall under harsh fluorescent light with teal accent, metal pushpins visible
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- forty minutes
+- Nine months
+
+ACTIONS:
+- Wall calendar pages flipping rapidly
+- Stopping abruptly on ninth month, red X marks accumulating on dates, handwritten note 'no visitors' repeated across weeks
+- Calendar mounted on institutional green wall under harsh fluorescent light with teal accent, metal pushpins visible
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- paper pages flipping
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 61: Trust — Deep [08:00–08:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Paper rustles gently
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- forty minutes
+- Nine months
+
+ACTIONS:
+- Hospital visitor log book lies open on reception desk under soft teal-accented light
+- Single signature visible: 'Thomas Hess, June 2018.' Pages flip slowly forward revealing blank lines for months—July, August, September—all empty
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- paper pages rustling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 62: Anticipation — Deep [08:08–08:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Harsh side lighting creates dramatic shadow across half her face, teal accent on collar of scrubs, institutional wall blurred behind
+
+ACTIONS:
+- Older nurse's face in profile, eyes widening slightly, jaw tightening, head tilting forward as she prepares to ask critical question
+- Harsh side lighting creates dramatic shadow across half her face, teal accent on collar of scrubs, institutional wall blurred behind
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- breath intake
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 63: Trust — Deep [08:16–08:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Receiver shifts slightly in breeze
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- three months
+
+ACTIONS:
+- Vintage payphone mounted on beige hospital wall near staff entrance, receiver hanging intact on chrome hook
+- Soft teal accent light illuminates worn metal coin slot and faded instruction card
+
+CAMERA:
+Medium | Tracking
+
+AUDIO:
+- footsteps on tile floor stopping
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 64: Trust — Deep [08:24–08:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Handset dangling against institutional beige wall, harsh fluorescent light with teal accent illuminating the break point, dust particles visible on cord surface
+
+ACTIONS:
+- Severed payphone cord, cut end showing frayed copper wires exposed, plastic sheath torn back revealing raw metal strands
+- Handset dangling against institutional beige wall, harsh fluorescent light with teal accent illuminating the break point, dust particles visible on cord surface
+
+CAMERA:
+Extreme Close-up | Static
+
+AUDIO:
+- wire scraping wall
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 65: Trust — Deep [08:32–08:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm afternoon light through window casting soft glow on cream-colored wall and brass phone fixture
+
+ACTIONS:
+- Hand hovering above vintage payphone receiver, fingers trembling slightly, pulling back in hesitation
+- Warm afternoon light through window casting soft glow on cream-colored wall and brass phone fixture
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- phone ringing mechanical bell
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 66: Trust — Deep [08:40–08:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Person's face in warm side-lighting, eyes gazing into middle distance with contemplative expression, slight furrow in brow
+
+ACTIONS:
+- Person's face in warm side-lighting, eyes gazing into middle distance with contemplative expression, slight furrow in brow
+- Soft golden hour glow through sheer curtain, teal accent on picture frame edge
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- clock ticking steady rhythm
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 67: Trust — Deep [08:48–08:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Soft desk lamp glow with teal accent on phone case edge, cream background
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Three months
+
+ACTIONS:
+- Smartphone screen displaying 'Unknown Caller' in warm ambient light, finger hovering
+- Tapping answer button
+- Soft desk lamp glow with teal accent on phone case edge, cream background
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- phone vibrating on wood surface
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 68: Trust — Deep [08:56–09:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Illustrated digital timer display showing '00:11' in glowing teal numerals against pure black background
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Eleven seconds
+
+ACTIONS:
+- Illustrated digital timer display showing '00:11' in glowing teal numerals against pure black background
+- Numbers pulse faintly with each second
+
+CAMERA:
+Extreme Close-up | Static
+
+AUDIO:
+- digital beep
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 69: Trust — Deep [09:04–09:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm desk lamp illuminating screen, teal accent on monitor bezel
+
+ACTIONS:
+- Computer screen showing reverse phone lookup result: hospital payphone number with 'Decommissioned 2019' status highlighted
+- Warm desk lamp illuminating screen, teal accent on monitor bezel
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- keyboard keys clicking twice
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 70: Trust — Deep [09:12–09:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Empty room receding as camera pulls
+
+ACTIONS:
+- Illustrated figure standing at window, silhouette against distant hospital building with scattered lit windows, posture slumped in uncertainty
+- Teal accent light from window, deep shadow surrounding figure
+
+CAMERA:
+Wide | Zoom out
+
+AUDIO:
+- distant siren
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 71: Trust — Deep [09:20–09:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clinical office background, teal accent light from desk lamp, medical journals visible on shelf
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- two years
+
+ACTIONS:
+- Woman in white coat facing camera directly, hands folded on desk, posture upright and composed, expression neutral but eyes carrying weight
+- Clinical office background, teal accent light from desk lamp, medical journals visible on shelf
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- pen tapping desk once
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 72: Trust — Deep [09:28–09:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clinical background blurred, focus entirely on the moment of connection
+
+ACTIONS:
+- Illustrated eyes widening in recognition, pupils dilating, eyebrows lifting slightly in surprise
+- Partial face visible, teal accent light catching moisture in eyes
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- sharp breath intake
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 73: Trust — Deep [09:36–09:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clean clinical environment rendered in flat teal and grey tones, minimal detail, authoritative stillness
+
+ACTIONS:
+- Illustrated physician figure in profile, shoulders slightly turned away, hand raised in a deliberate pause gesture
+- Figure holds the pose with quiet authority, suggesting a promise to return
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- pen tapping once on clipboard
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 74: Trust — Deep [09:44–09:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Illustrated empty emergency department waiting room at 3AM, fluorescent overhead lights casting flat teal glow, institutional clock on wall showing 3:07, two patient room doors visible in background, nurses' station counter in foreground with scattered paperwork and coffee cup
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- twenty-two hours
+
+ACTIONS:
+- Illustrated empty emergency department waiting room at 3AM, fluorescent overhead lights casting flat teal glow, institutional clock on wall showing 3:07, two patient room doors visible in background, nurses' station counter in foreground with scattered paperwork and coffee cup
+- Drawn environment conveys eerie calm and exhaustion
+
+CAMERA:
+Wide | Slow push-in
+
+AUDIO:
+- fluorescent light buzzing faintly
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 75: Trust — Deep [09:52–10:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Doors glide open with mechanical precision, revealing bright fluorescent-lit corridor, professional medical facility atmosphere
+
+ACTIONS:
+- Automatic glass doors parting smoothly in slow motion, polished steel frame catching soft overhead light, clean institutional entrance visible beyond
+- Doors glide open with mechanical precision, revealing bright fluorescent-lit corridor, professional medical facility atmosphere
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- pneumatic hiss of doors opening, mechanical whir
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 76: Trust — Deep [10:00–10:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm 3700K lighting with subtle teal accent on counter edge, soft focus background suggests quiet institutional space
+
+ACTIONS:
+- Woman in her fifties with dark hair and light jacket enters frame from left, walks directly toward camera with steady gaze, reaches counter edge and places both palms flat on surface, looks directly at lens with calm determination
+- Warm 3700K lighting with subtle teal accent on counter edge, soft focus background suggests quiet institutional space
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- footsteps on linoleum floor, hands placing on counter surface
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 77: Trust — Deep [10:08–10:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Soft institutional lighting from above, teal accent on background wall, professional medical environment
+
+ACTIONS:
+- Woman's face fills frame, eyes wide with urgent intensity, slight forward lean, jaw set with determination
+- Hands visible at bottom of frame gripping counter edge, knuckles slightly pale from pressure
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- breathing, fabric rustling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 78: Trust — Deep [10:16–10:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Teal institutional lighting, flat grey surfaces
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Five seconds
+
+ACTIONS:
+- Illustrated physician figure at nurses' station, turning away from camera toward background (calling for help)
+- Camera snaps back to empty counter where woman stood
+- Five-second sequence compressed into visual beat
+
+CAMERA:
+Medium | Pan
+
+AUDIO:
+- chair scraping, footsteps pivoting quickly
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 79: Trust — Deep [10:24–10:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Monitor sits on desk with keyboard edge visible, professional office lighting
+
+ACTIONS:
+- Security monitor screen centered in frame displaying grainy black-and-white footage of empty hospital entrance at 3:07AM timestamp visible in corner
+- Automatic doors stand open in the recording, vacant waiting room chairs visible, no human figures present
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- mouse clicking, keyboard tap
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 80: Trust — Deep [10:32–10:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Professional workspace, teal accent visible on document edge
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- twenty-two hours
+
+ACTIONS:
+- Hands wrapping around white ceramic coffee mug on desk surface, slight tremor visible in fingers, steam rising from liquid
+- Medical charts and paperwork visible beneath hands, pen resting nearby, soft overhead lighting creating warm glow on skin
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- mug scraping on desk, paper rustling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 81: Trust — Deep [10:40–10:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Sterile dispatch room bathed in authoritative 3700K teal-accented light, clean lines and minimal clutter suggesting professional readiness
+
+ACTIONS:
+- Glowing dispatch console screen displaying incoming call timestamp 3:42AM in sharp teal digits, radio handset resting beside keyboard
+- Screen reflects softly on polished desk surface
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- radio static crackle, single beep tone
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 82: Trust — Deep [10:48–10:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Teal clinical accent, sterile atmosphere
+
+ACTIONS:
+- Extreme close-up of male patient's right wrist on white hospital sheet under harsh fluorescent light, simple bird tattoo in flight visible on skin, IV line taped nearby
+- Teal clinical accent, sterile atmosphere
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- IV pump beeping
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 83: Anticipation — Deep [10:56–11:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Split focus shot: bird tattoo on wrist in sharp foreground, blurred hospital room background
+
+ACTIONS:
+- Split focus shot: bird tattoo on wrist in sharp foreground, blurred hospital room background
+- Dramatic side lighting casts amber shadows across skin, simple line work of bird in flight clearly visible
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- heart monitor steady beep
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 84: Anticipation — Deep [11:04–11:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Dramatic unresolved side light casts partial shadow across hand, background blurred into warm amber darkness
+
+ACTIONS:
+- Simple line tattoo of bird in flight on left wrist, hand resting flat on counter surface under 3300K amber-dark side lighting
+- Skin texture and ink lines sharply focused as camera inches closer, fingers slightly curled in suspended tension
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- fabric rustling against counter, fingernail tapping wood
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 85: Anticipation — Deep [11:12–11:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Amber-lit hospital corridor wall behind, shadows shifting as minutes pass
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- nine minutes
+
+ACTIONS:
+- Wall clock showing 03:51, second hand sweeping through nine-minute span in time-lapse
+- Amber-lit hospital corridor wall behind, shadows shifting as minutes pass
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- clock mechanism ticking, distant footsteps
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 86: Trust — Deep [11:20–11:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Sterile hospital environment blurred behind, authoritative Bloomberg-style lighting creating clean contrast between warm memory and cold present
+
+ACTIONS:
+- Worn photograph held in gloved hands showing couple laughing, creased edges and faded colors visible under 3700K teal-accented light
+- Photo shows dark-haired woman in light jacket beside man, both caught mid-laugh looking off-frame
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- latex glove stretching, paper photo crinkling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 87: Trust — Deep [11:28–11:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Empty driver's seat of vehicle interior at dawn, keys hanging in ignition catching first light
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- six months
+
+ACTIONS:
+- Empty driver's seat of vehicle interior at dawn, keys hanging in ignition catching first light
+- Steering wheel and dashboard visible in 3700K teal-accented light, seat adjusted back suggesting recent occupant
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- key chain jingling, leather seat creaking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 88: Anticipation — Deep [11:36–11:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Intimate, hesitant framing, warm light contrasting institutional space
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- twelve days
+
+ACTIONS:
+- Hospital room doorway, soft morning light filtering through venetian blinds creating amber stripes across threshold
+- Door slightly ajar, shadow of figure approaching from corridor, hand reaching toward door handle
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- door hinge creak, footsteps on linoleum
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 89: Trust — Deep [11:44–11:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Bright hospital room bathed in soft daylight through large window, clean white linens, teal accent from monitor glow, warm afternoon light creating peaceful atmosphere
+
+ACTIONS:
+- Elderly man in hospital bed, shoulders relaxed, hands resting gently on blanket, eyes soft and contemplative
+- He sits in quiet stillness, breathing slowly, gaze distant but calm
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- heart monitor beeping steadily, sheets rustling softly
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 90: Trust — Deep [11:52–12:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Bright hospital room with large window showing daylight, teal monitor glow, warm natural light softening clinical space, peaceful yet contemplative atmosphere
+
+ACTIONS:
+- Middle-aged man in hospital gown, shoulders slightly hunched forward, hands clasped together, brow furrowed with quiet regret
+- He speaks slowly, eyes looking down
+- Up, recounting a moment of ignored intuition
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- fabric shifting, hands rubbing together
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 91: Trust — Deep [12:00–12:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The scene is still, almost ethereal, as if suspended in time
+
+ACTIONS:
+- A woman's silhouette stands beside a hospital bed, her hand resting gently on a sleeping man's shoulder
+- She faces away from the camera, her posture upright and calm, suggesting quiet presence
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- IV drip clicking, bed sheet rustling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 92: Trust — Deep [12:08–12:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clean white linens, teal monitor glow, warm golden light filling space, creating tranquil sanctuary atmosphere
+
+ACTIONS:
+- Empty hospital room bathed in soft afternoon sunlight through large window, elderly man sleeping peacefully in bed, hands resting on chest, face serene and relaxed
+- Clean white linens, teal monitor glow, warm golden light filling space, creating tranquil sanctuary atmosphere
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- slow breathing, bedsheet settling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 93: Trust — Deep [12:16–12:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Bright corridor light behind glass, teal accent from room monitor, warm daylight mixing with clinical fluorescence, creating moment of quiet revelation
+
+ACTIONS:
+- Hospital door window from interior perspective, nurse's reflection appearing in glass, shoulders square, head turning slowly toward camera, eyes widening slightly with dawning realization
+- Bright corridor light behind glass, teal accent from room monitor, warm daylight mixing with clinical fluorescence, creating moment of quiet revelation
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- footsteps stopping, glass tapping lightly
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 94: Trust — Deep [12:24–12:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The expression is calm but intense, conveying a silent demand for attention
+
+ACTIONS:
+- A pair of eyes in a reflection, staring directly at the camera with an unblinking, penetrating gaze
+- The eyes are framed by the edge of a door window, with teal-accented light reflecting off the glass
+
+CAMERA:
+Extreme Close-up | Static
+
+AUDIO:
+- glass creaking, distant monitor beep
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 95: Fear — Deep [12:32–12:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Dim red-orange light, harsh shadows across features, glass surface between viewer and subject
+
+ACTIONS:
+- Face in glass reflection, not the nurse—different woman, eyes locked on camera, expression unreadable, neither threatening nor comforting, mouth slightly parted as if trying to communicate
+- Dim red-orange light, harsh shadows across features, glass surface between viewer and subject
+
+CAMERA:
+Extreme Close-up | Slow push-in
+
+AUDIO:
+- glass creaking, distant footsteps
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 96: Trust — Deep [12:40–12:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm desk lamp light, shadows pooling around workspace, coffee cup untouched beside laptop
+
+ACTIONS:
+- Writer's hands hovering over laptop keyboard, fingers trembling slightly, not typing
+- Shoulders tense, head bowed
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- keyboard key tapping once, chair creaking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 97: Trust — Deep [12:48–12:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Illustrated bedroom in warm amber light, clock on nightstand showing 7:14 AM in sharp focus
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- eleven hours
+- eleven seconds
+
+ACTIONS:
+- Illustrated bedroom in warm amber light, clock on nightstand showing 7:14 AM in sharp focus
+- Drawn figure of exhausted nurse collapsed face-down on bed, still in scrubs, one arm dangling off edge
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- shoes dropping on floor, body collapsing onto mattress
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 98: Trust — Deep [12:56–13:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Soft golden hour glow fills the intimate bedroom space, creating gentle shadows
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- eleven hours
+- eleven seconds
+
+ACTIONS:
+- Smartphone screen glowing softly on wooden bedside table, showing 'Unknown Number' and '00:11' call duration in white text
+- The phone rests beside a small analog clock reading 6:00 PM, warm afternoon light streaming through sheer curtains
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- phone vibration buzz
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 99: Trust — Payoff [13:04–13:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cool authoritative lighting, Bloomberg data aesthetic
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- eleven seconds
+
+ACTIONS:
+- Illustrated montage: phone screen showing 'Unknown Number, 11 seconds' in teal UI
+- Cut to drawn payphone handset hanging
+- Illustrated call light glowing amber
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- phone notification chime, paper rustling, pen tapping
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 100: Trust — Payoff [13:12–13:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Single date centered in frame, stark and unavoidable
+
+ACTIONS:
+- Illustrated calendar page in warm amber light, date circled in red ink: the anniversary
+- Hand-drawn texture, paper grain visible
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- pen circling on paper, page turning
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 101: Trust — Payoff [13:20–13:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm desk lamp light, shallow focus on hands
+
+ACTIONS:
+- Illustrated writer's hands hovering over keyboard, fingers suspended mid-air, not touching keys
+- Warm desk lamp light, shallow focus on hands
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- clock ticking, shallow breathing
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 102: Fear — Payoff [13:28–13:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Oppressive shadow surrounds the light, no other detail visible
+
+ACTIONS:
+- Hospital call light button glowing urgent red in darkness, finger pressing it once, twice, three times in rapid succession
+- Button surface worn, small cracks visible in plastic casing
+
+CAMERA:
+Extreme Close-up | Slow push-in
+
+AUDIO:
+- plastic button clicking, electrical buzz
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 103: Trust — Payoff [13:36–13:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Button glows faintly, untouched
+
+ACTIONS:
+- Illustrated finger hovering millimeters above red 'CODE BLUE' button on wall panel, never pressing
+- Warm amber light from side, deep shadow on opposite side
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- shallow breathing, distant monitor alarm
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 104: Trust — Payoff [13:44–13:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm authoritative lighting, Bloomberg data aesthetic
+
+ACTIONS:
+- Illustrated wall map of United States, three locations pinned with red markers: Pennsylvania, Illinois, Oregon
+- Drawn texture of paper map, pins casting small shadows
+
+CAMERA:
+Medium | Pan
+
+AUDIO:
+- paper map rustling, pin dropping into corkboard
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 105: Trust — Payoff [13:52–14:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Soft golden light from hallway spills across linoleum floor, creating gentle shadows that suggest quiet rather than abandonment
+
+ACTIONS:
+- Empty hospital bed bathed in warm amber light, white sheets undisturbed, call button mounted on bedrail glowing steady red
+- Wall clock reads 2:17, second hand frozen mid-sweep
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- clock ticking, call button electronic beep
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 106: Trust — Payoff [14:00–14:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+View through rain-streaked car windshield, droplets catching warm streetlight
+
+ACTIONS:
+- View through rain-streaked car windshield, droplets catching warm streetlight
+- Beyond the glass, a hospital window glows amber on the third floor, curtains drawn, single silhouette visible inside
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- rain pattering on windshield, distant car engine idling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 107: Trust — Payoff [14:08–14:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm domestic interior with golden hour glow, peaceful and resolving
+
+ACTIONS:
+- Three hospital wristbands rest side by side on a warm wooden surface, each bearing a different name and date, edges slightly worn
+- Soft afternoon light falls across them from a nearby window, casting gentle shadows that connect all three
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- paper rustling softly
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 108: Trust — Payoff [14:16–14:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm 4000K lighting creates atmosphere of revelation rather than dread
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- eleven seconds
+
+ACTIONS:
+- Smartphone screen displaying call log, three entries stacked vertically, each showing 'Unknown Number' and duration '0:11'
+- Warm amber light from desk lamp illuminates the screen, creating soft glow
+
+CAMERA:
+Extreme Close-up | Slow push-in
+
+AUDIO:
+- phone screen tap, quiet electronic hum
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 109: Trust — Payoff [14:24–14:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm 4000K lighting creates atmosphere of quiet searching rather than loss
+
+ACTIONS:
+- Blurred figure at end of long hospital corridor, backlit by warm amber light from windows
+- The figure stands motionless, silhouette soft and indistinct, neither approaching nor retreating
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- distant footsteps echoing, fluorescent light buzzing faintly
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 110: Trust — Payoff [14:32–14:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm 4000K lighting creates atmosphere of careful decision-making
+
+ACTIONS:
+- Writer's hand rests on laptop keyboard, cursor hovering over 'Publish' button on screen
+- Warm amber desk lamp illuminates workspace, casting soft shadows across papers scattered with handwritten notes
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- keyboard keys clicking softly, mouse clicking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 111: Trust — Payoff [14:40–14:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Quiet home office bathed in early dawn warmth, peaceful confirmation
+
+ACTIONS:
+- A smartphone screen glows softly in dim morning light, displaying a battery usage log with one entry highlighted: eleven seconds, call connected
+- Fingers rest gently beside the phone on a wooden desk, relaxed and still
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- phone screen tapping once
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 112: Trust — Payoff [14:48–14:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Serene domestic interior, warm and open, inviting reflection without answers
+
+ACTIONS:
+- A blank cream-colored wall fills the frame, texture visible in soft warm light
+- The surface is empty, clean, holding space
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- distant window closing softly
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 113: Trust — Payoff [14:56–15:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm desk lamp illuminates workspace with scattered notes and open browser tabs, soft golden light creating intimate confession atmosphere
+
+ACTIONS:
+- Hand hovering over laptop keyboard, fingers slightly trembling, jaw set with quiet resolve
+- Cursor moves to 'Publish' button and hovers, hesitating for a beat before clicking decisively
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- keyboard key clicking, mouse button clicking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 114: Trust — Payoff [15:04–15:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm desk lamp light pools on the screen, casting soft shadows across scattered notes and a coffee mug
+
+ACTIONS:
+- A writer's hand rests on a laptop keyboard, fingers still, posture open and resolved
+- The hand hovers over the publish button
+- Presses it with quiet finality
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- keyboard key clicking once
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 115: Trust — Payoff [15:12–15:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm amber light from desk lamp, soft afternoon glow through window, comfortable institutional space with personal touches
+
+ACTIONS:
+- Healthcare worker in warm-lit break room, shoulders relaxed, gentle knowing smile, hands resting open on table
+- They nod slowly, eyes soft with recognition and shared understanding
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- chair creaking, paper rustling on table
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 116: Trust — Payoff [15:20–15:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Soft golden hour light through window, warm wood desk surface, comfortable personal workspace
+
+ACTIONS:
+- Person in warm natural light, face calm and open, slight affirming nod, hands gently folded
+- They hold steady eye contact with camera, expression of quiet certainty and compassionate acknowledgment
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- pen tapping desk twice
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 117: Trust — Payoff [15:28–15:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm desk lamp light creates focused pool on screen, fingers resting on trackpad, slight tension in hand posture
+
+ACTIONS:
+- Laptop screen displaying email from Sarah, subject line 'Something I found', cursor scrolling slowly down message text revealing phrases 'went back through records' and 'Gerald's chart'
+- Warm desk lamp light creates focused pool on screen, fingers resting on trackpad, slight tension in hand posture
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- trackpad clicking, laptop keys tapping
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 118: Trust — Payoff [15:36–15:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Finger traces timeline from admission date to present, calculating the duration, institutional letterhead visible at top
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- nine months
+
+ACTIONS:
+- Hospital admission form on desk, date stamp reading nine months prior, name 'Gerald Marsh' in handwritten script, form edges yellowed slightly
+- Finger traces timeline from admission date to present, calculating the duration, institutional letterhead visible at top
+
+CAMERA:
+Extreme Close-up | Slow push-in
+
+AUDIO:
+- paper rustling, pen tapping on desk
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 119: Trust — Payoff [15:44–15:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm afternoon light, clear sky, institutional but welcoming campus setting
+
+ACTIONS:
+- Two hospital building exteriors side by side in warm daylight, modern architecture with glass and warm brick, connected by visible skybridge
+- Sunlight reflects off windows, landscaped grounds between them, people walking paths connecting the facilities
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- footsteps on pavement, distant door closing
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 120: Trust — Payoff [15:52–16:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Intake form section labeled 'Emergency Contact', handwritten name partially visible, pen tip entering frame and underlining the contact name field
+
+ACTIONS:
+- Intake form section labeled 'Emergency Contact', handwritten name partially visible, pen tip entering frame and underlining the contact name field
+- Warm desk lamp creates focused spotlight on form, shadows deepening around edges, institutional letterhead at top reading hospital system name
+
+CAMERA:
+Extreme Close-up | Slow push-in
+
+AUDIO:
+- pen scratching paper, paper sliding on desk
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 121: Trust — Payoff [16:00–16:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Form lies on wooden desk under warm pooled lamplight, edges soft in shadow
+
+ACTIONS:
+- Hospital intake form on clipboard, name 'Thomas Hess' handwritten in blue ink, fingers of unseen hand resting gently at edge of paper—still, reverent
+- Form lies on wooden desk under warm pooled lamplight, edges soft in shadow
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- pen tip tapping clipboard edge
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 122: Trust — Payoff [16:08–16:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clean institutional wall bathed in golden hour warmth, soft shadows suggesting late afternoon peace
+
+ACTIONS:
+- Two glowing call buttons on a sunlit hospital wall panel, warm afternoon light streaming across white surface
+- Buttons pulse gently in synchronized rhythm, amber LEDs bright and steady
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- call button electronic beep (two tones, overlapping)
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 123: Anticipation — Payoff [16:16–16:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm daylight floods institutional hallway, golden afternoon glow on polished floors
+
+ACTIONS:
+- Single amber call button glowing on cream-colored wall, camera creeps closer
+- Suddenly pulls back to reveal entire sunny corridor with multiple call lights creating constellation pattern
+- Warm daylight floods institutional hallway, golden afternoon glow on polished floors
+
+CAMERA:
+Medium | Zoom out
+
+AUDIO:
+- single call button beep echoing, then multiple overlapping beeps
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+════════════════════════════════════════════════════════════════
+[END SCENE PROMPTS]
+════════════════════════════════════════════════════════════════
