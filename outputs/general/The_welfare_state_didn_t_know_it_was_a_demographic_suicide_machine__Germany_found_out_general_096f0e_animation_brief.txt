@@ -1,0 +1,1275 @@
+════════════════════════════════════════════════════════════════
+[CHARACTERS Description]
+════════════════════════════════════════════════════════════════
+
+PROJECT: The_welfare_state_didn_t_know_it_was_a_demographic_suicide_machine__Germany_found_out
+
+RATIO: 16:9
+
+--------------------------------------------------
+STYLE (DETAILED - MANDATORY):
+
+- Style Directive: Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.
+
+- Medium: Animation
+
+- Visual Style:
+  - Cel-shaded forms with hard shadow boundaries
+  - Motion-graphics composition — geometric layout, animated transitions
+  - Infographic composition — labels, callouts, data hierarchy
+
+- Character Design:
+  Exaggerated proportions and expressions; Over-the-top emotional range
+
+- Materials & Textures:
+  [e.g. Flat colors only / Cel-shaded with soft shadow / Painterly with visible brushwork]
+
+- Lighting:
+  Volumetric lighting with visible light shafts; Soft ambient lighting
+
+- Color Palette:
+  [Define color roles — e.g. Red = danger, Yellow = energy, Blue = calm, Black outline for clarity]
+
+- Rendering Quality:
+  [e.g. Crisp, clean, high-definition / Slightly grainy retro / Hyper-smooth anime-style]
+
+- Motion Feel:
+  Snappy, sharp transitions; Exaggerated, over-the-top motion; Over-the-top exaggerated reactions
+
+- Overall Impression:
+  [One paragraph — what should viewers FEEL when watching? What is the visual "brand" of this project?]
+
+--------------------------------------------------
+TONE:
+[Overall emotional register — e.g. High tension, urgent, dramatic / Dark comedic, absurdist / Warm and nostalgic / Energetic and hype]
+[Detected dominant emotion (auto, for reference): Trust]
+
+--------------------------------------------------
+RENDERING RULES:
+
+- [Rule 1 — e.g. NO TEXT, NO LETTERS, NO SYMBOLIC WORDS in any scene]
+- [Rule 2 — e.g. Story must be conveyed entirely through visuals and expressions]
+- [Rule 3 — e.g. Each scene must have a clear visual conflict or action beat]
+- [Rule 4 — e.g. Only include characters explicitly required in each scene]
+- [Rule 5 — e.g. No background crowd, no unnecessary props]
+- [Add more rules as needed]
+
+--------------------------------------------------
+CHARACTERS (LOCKED):
+
+- Character 1: Progress
+  [Physical description — face shape, skin tone, eye style — fill in]
+  [Hair — color #HEX, length, style — fill in]
+  [Default outfit — top, bottom, shoes, accessories — fill in]
+  [Signature trait — what makes them instantly recognizable — fill in]
+  [Expression range — what emotions they show most — fill in]
+
+- Character 2: Lucy
+  [Physical description — face shape, skin tone, eye style — fill in]
+  [Hair — color #HEX, length, style — fill in]
+  [Default outfit — top, bottom, shoes, accessories — fill in]
+  [Signature trait — what makes them instantly recognizable — fill in]
+  [Expression range — what emotions they show most — fill in]
+
+- [Add unnamed characters (narrator, crowd, etc.) here if needed]
+
+--------------------------------------------------
+ENVIRONMENT (GLOBAL):
+
+[Default background / world setting for the entire project]
+[e.g. Minimal clean background, soft gradient sky / Neon-lit urban rooftop / Pastel fantasy kingdom]
+[Note: individual scenes can override this with their own ENVIRONMENT field]
+
+[Detected scene environments (auto, for reference):]
+  - The fragment floats in negative space, incomplete and enigmatic
+  - Each figure distinct in posture, separated by empty space
+  - UPA style, zero depth
+  - Paper texture background
+  - Zero depth, editorial irony
+  - Flat cel-shaded 2D: barren landscape drawn on paper texture—cracked earth, muted ochre and gray tones, clean inked outlines, no depth, no perspective
+  - Reframed to emphasize emptiness and horizontal expanse
+  - Flat cel-shaded 2D: drawn jawbone centered on paper, labeled '2.8 million years' in clean sans-serif type, faint dotted timeline extending left and right
+  - Muted ochre paper background, UPA-style editorial clarity
+  - Teeth remain static, labels fade in sequentially
+  - Muted sepia paper background, UPA editorial style, no depth
+  - Muted ochre paper background, UPA editorial style, no depth
+
+--------------------------------------------------
+GOAL:
+[Optional — one sentence stating the visual storytelling goal of the entire video]
+[e.g. "Make the audience feel the tension of nuclear deterrence without using any text or narration"]
+
+════════════════════════════════════════════════════════════════
+[END CHARACTERS Description]
+════════════════════════════════════════════════════════════════
+
+
+════════════════════════════════════════════════════════════════
+SCENE PROMPTS
+════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────
+🎬 SCENE 01: Trust — Hook [00:00–00:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The fragment floats in negative space, incomplete and enigmatic
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- eight million years
+
+ACTIONS:
+- Flat cel-shaded 2D: single fossil fragment drawn with stark inked outline on paper texture, centered against muted ochre background, zero depth, no shading
+- The fragment floats in negative space, incomplete and enigmatic
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- none
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 02: Trust — Hook [00:08–00:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Each figure distinct in posture, separated by empty space
+
+ACTIONS:
+- Flat cel-shaded 2D: three simplified hominid silhouettes scattered across paper landscape, clean inked outlines, no perspective—just flat placement on ochre ground
+- Each figure distinct in posture, separated by empty space
+
+CAMERA:
+Medium | Zoom out
+
+AUDIO:
+- none
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 03: Trust — Hook [00:16–00:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+UPA style, zero depth
+
+ACTIONS:
+- Flat cel-shaded 2D: simple linear progression graphic drawn on paper—ape to human silhouettes in a row—then a bold red 'X' strikes through the sequence
+- Clean inked lines, editorial motion-graphic timing, satirical visual irony
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- pen scratching paper, sharp strike sound
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 04: Trust — Hook [00:24–00:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Paper texture background
+
+ACTIONS:
+- Flat cel-shaded 2D: horizontal ash layer stripe drawn across frame, muted gray and ochre, with small fossil icons embedded in the stripe—clean inked outlines, no depth
+- Paper texture background
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- none
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 05: Trust — Hook [00:32–00:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Zero depth, editorial irony
+
+ACTIONS:
+- Flat cel-shaded 2D: famous march-of-progress silhouettes drawn in a row on paper
+- Fragmented—pieces scatter or fade, inked outlines breaking apart
+- Satirical UPA style, exaggerated motion-graphic timing
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- paper tearing, fragments dropping
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 06: Trust — Hook [00:40–00:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Flat cel-shaded 2D: barren landscape drawn on paper texture—cracked earth, muted ochre and gray tones, clean inked outlines, no depth, no perspective
+
+ACTIONS:
+- Flat cel-shaded 2D: barren landscape drawn on paper texture—cracked earth, muted ochre and gray tones, clean inked outlines, no depth, no perspective
+- Minimal detail, vast emptiness
+
+CAMERA:
+Wide | Zoom out
+
+AUDIO:
+- none
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 07: Trust — Hook [00:48–00:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Reframed to emphasize emptiness and horizontal expanse
+
+ACTIONS:
+- Flat cel-shaded 2D: same barren landscape, cracked earth texture, muted ochre and gray, clean inked outlines, zero depth
+- Reframed to emphasize emptiness and horizontal expanse
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- none
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 08: Trust — Hook [00:56–01:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Flat cel-shaded 2D: drawn jawbone centered on paper, labeled '2.8 million years' in clean sans-serif type, faint dotted timeline extending left and right
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 2.8 million years
+
+ACTIONS:
+- Flat cel-shaded 2D: drawn jawbone centered on paper, labeled '2.8 million years' in clean sans-serif type, faint dotted timeline extending left and right
+- Clean inked outlines, editorial clarity, zero depth
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- none
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 09: Trust — Hook [01:04–01:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Muted ochre paper background, UPA-style editorial clarity
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture: thirteen small tooth icons arranged in a scattered grid, clean inked outlines, no depth
+- Each tooth drawn with simple geometric shapes, worn edges indicated by broken line work
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- pen scratching paper
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 10: Trust — Build Up [01:12–01:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Teeth remain static, labels fade in sequentially
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture: two distinct tooth sets side-by-side, labeled 'Homo' and 'Australopithecus' in clean sans-serif type
+- Left set: smaller, more uniform teeth
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- paper rustling, pen tapping desk
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 11: Trust — Build Up [01:20–01:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Muted sepia paper background, UPA editorial style, no depth
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture: single Australopithecus silhouette remains centered on paper, drawn with bold inked outline
+- Three faint ghost silhouettes fade out around it, leaving only the central figure
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- footsteps on gravel fading
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 12: Trust — Build Up [01:28–01:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Muted ochre paper background, UPA editorial style, no depth
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture: third jawbone icon slides into frame from right, labeled 'Paranthropus 2.6 mya' in clean sans-serif type
+- Jaw drawn with exaggerated heavy outline, massive molar shapes, distinct from previous two sets
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- object sliding on desk, paper settling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 13: Trust — Build Up [01:36–01:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Other two jaw icons visible but de-emphasized in background
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture: same Paranthropus jaw icon from previous frame, now with subtle emphasis—thin spotlight circle drawn around it, or label text slightly bolder
+- Heavy skull outline and massive teeth remain visually distinct
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- pen circling on paper
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 14: Trust — Build Up [01:44–01:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Muted sepia paper background, UPA editorial style, no depth
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture: three (or four) hominid silhouettes scattered across frame, no connecting lines, no hierarchy
+- Each figure drawn with distinct posture and proportion—one upright, one slightly hunched, one broad-shouldered, optional fourth faint in background
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- multiple footsteps on different surfaces overlapping
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 15: Surprise — Build Up [01:52–02:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Muted gray-blue paper background, UPA editorial style, no depth
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture: large question mark icon appears over the multi-species graphic from previous frame, drawn with bold inked outline
+- Question mark floats above the scattered hominid silhouettes, casting no shadow (flat style)
+
+CAMERA:
+Medium | Crane
+
+AUDIO:
+- paper flipping, pen dropping on desk
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 16: Trust — Build Up [02:00–02:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Thin label text '1965 / Rudolph Zallinger' in corner
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture: drawn portrait of painter at easel, exaggerated flat figure with oversized head and hands, 1960s editorial illustration style
+- Painter holds brush mid-stroke, posture upright and confident, slight smile
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- brush stroking canvas, palette knife scraping
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 17: Trust — Build Up [02:08–02:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm studio interior, single desk lamp casting even light, reference books stacked beside him
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture: drawn figure of Rudolph Zallinger at drafting table, shoulders squared, brow furrowed in concentration, hand holding pen mid-stroke over large illustration board
+- Clean inked outlines, UPA-style flat composition
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- pen scratching paper, pages turning
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 18: Trust — Build Up [02:16–02:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Minimal background, just the paper texture and faint grid lines
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture: the March of Progress illustration itself rendered as a clean inked drawing—ape silhouette on far left, upright human silhouette on far right, four intermediate figures in between, all in perfect linear sequence
+- Clean black outlines on cream paper, exaggerated simplicity, commercial clarity
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- ruler sliding on paper, pencil tapping
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 19: Trust — Build Up [02:24–02:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Studio background remains minimal, same desk lamp, same paper texture
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture: Zallinger figure slumped at desk, head resting in both hands, elbows planted on table, shoulders hunched inward
+- Exaggerated frown, eyes squeezed shut, satirical visual irony
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- heavy sigh, chair creaking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 20: Trust — Build Up [02:32–02:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Paper texture background, no depth, pure surface composition
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture: the March of Progress image multiplies across the frame—same illustration repeated as if printed on book covers, classroom posters, T-shirts, all scattered and overlapping in flat graphic arrangement
+- Clean inked outlines, UPA-style repetition for satirical effect
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- printing press clacking, paper rustling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 21: Trust — Build Up [02:40–02:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+No depth, pure surface erasure
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture: small inked text blocks—scientific caveats and footnotes—drawn in tiny handwritten script around the margins of the March of Progress illustration
+- The text begins to fade out, erasing stroke by stroke, leaving only the central image
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- eraser rubbing paper, soft brushing sound
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 22: Trust — Build Up [02:48–02:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clean inked outline, exaggerated thickness, UPA-style graphic simplicity
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture: single large question mark drawn in bold black ink, centered on cream paper
+- Clean inked outline, exaggerated thickness, UPA-style graphic simplicity
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- pen tapping paper three times
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 23: Surprise — Build Up [02:56–03:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Minimal background, paper texture, no depth
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture: two exaggerated scientist figures drawn in profile, facing away from each other, arms crossed tightly over chests, backs turned
+- Clean inked outlines, UPA-style satirical posture
+
+CAMERA:
+Medium | Zoom out
+
+AUDIO:
+- footsteps walking away, door closing
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 24: Trust — Build Up [03:04–03:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cream paper background, no depth, pure surface composition
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture: the March of Progress silhouettes appear center frame, clean inked outlines, but in the bottom right margin a small angry face is doodled—exaggerated frown, furrowed brow, steam lines rising from head
+- UPA-style satirical annotation
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- pencil scratching quickly, paper crinkling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 25: Trust — Build Up [03:12–03:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Soft, even lighting across the paper plane
+
+ACTIONS:
+- Flat cel-shaded 2D: A blank circular logo template drawn in clean black ink on cream paper texture, empty and waiting
+- The circle sits centered on a flat drawn desk surface with a few scattered pencils and a ruler nearby, all rendered with crisp outlines and zero depth
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- pencil rolling on desk, paper rustling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 26: Trust — Deep [03:20–03:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Teal accent line frames the circle edge
+
+ACTIONS:
+- Flat cel-shaded 2D: The famous march-of-progress illustration drops into the empty logo circle, settling into place with a soft snap
+- The march figures are drawn in simplified ink silhouettes against the paper texture, clean outlines, no shading or depth
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- paper sliding into place, soft snap
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 27: Trust — Deep [03:28–03:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Soft, even lighting
+
+ACTIONS:
+- Flat cel-shaded 2D: The march-of-progress poster pinned flat to a drawn wall, rendered in clean ink on paper texture
+- The poster is simple, iconic, easy to read—figures walking left to right in a clear line
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- pin tapping into wall, paper settling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 28: Trust — Deep [03:36–03:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Paper texture throughout, no depth, no shading
+
+ACTIONS:
+- Flat cel-shaded 2D: The same poster on the wall, now with a small hand-drawn arrow pointing to it from the side, editorial annotation style in red ink
+- The arrow is simple, clean, and slightly exaggerated
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- pen scratching paper, soft tap
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 29: Trust — Deep [03:44–03:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Paper texture, clean outlines, zero depth
+
+ACTIONS:
+- Flat cel-shaded 2D: The march-of-progress poster splits down the middle with a single clean inked fissure, a vertical crack dividing the evolutionary parade
+- The crack is sharp, deliberate, and graphic—no realistic texture, just a bold black line
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- paper tearing slowly, crisp snap
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 30: Trust — Deep [03:52–04:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The poster stays untouched
+
+ACTIONS:
+- Flat cel-shaded 2D: The cracked poster remains pinned to the wall
+- A flat, exaggerated drawn hand enters from the right side of frame, fingers outstretched toward the poster, hesitates mid-reach
+- Slowly withdraws off-screen
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- hand brushing fabric, soft exhale
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 31: Trust — Deep [04:00–04:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Paper texture background, no perspective
+
+ACTIONS:
+- Flat cel-shaded 2D: A tiny, exaggerated drawn figure labeled 'H
+- Floresiensis' in clean ink, standing alone on a flat paper plane
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- pen tapping paper, soft label placement
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 32: Trust — Deep [04:08–04:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The timeline is simple, flat, with no depth or perspective—just a bold line with a single labeled tick
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 000 years
+
+ACTIONS:
+- Flat cel-shaded 2D: A horizontal timeline bar drawn in clean ink on paper texture, marked '50,000 years ago' at one point
+- The tiny H
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- pen marking paper, soft tap
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 33: Trust — Deep [04:16–04:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Muted ochre and dusty earth tones dominate the paper background, evoking ancient stillness
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture: a tall drawn sapiens figure stands beside a much shorter floresiensis figure, both rendered in clean ink outlines with zero depth
+- The sapiens figure, posture upright and calm, extends one hand toward a flat cave wall graphic covered in simple painted symbols
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- brush scraping stone
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 34: Trust — Deep [04:24–04:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Muted earth tones with a hint of cooler gray creeping in
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture: the same two drawn figures from the previous frame
+- The taller sapiens figure now holds a simple drawn flower in one hand, standing over a small rectangular grave outline on the ground
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- small stone dropping on dirt
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 35: Trust — Deep [04:32–04:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The paper background is muted ochre with faint texture
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture: multiple flat hominid silhouettes scattered across the frame in various sizes and postures, no hierarchy, just presence
+- Each silhouette is rendered in clean ink outlines with zero depth, some standing, some crouching, some walking
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- footsteps on dirt
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 36: Trust — Deep [04:40–04:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The paper background is stark white with subtle texture
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture: a single drawn tooth and a small finger bone float centered on blank paper, both labeled 'Denisovan' in clean editorial typeface
+- The tooth and bone are rendered in precise ink outlines with zero depth, no shading
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- pen scratching paper
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 37: Trust — Deep [04:48–04:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The map is centered on paper with muted gray-blue tones
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture: a simple flat map outline of Siberia rendered in clean ink lines, no detail beyond the border
+- A small 'X' marks a single location, labeled 'Denisova Cave' in editorial typeface
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- wind rustling paper
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 38: Trust — Deep [04:56–05:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The paper background is muted gray-blue
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture: a narrow vertical cave passage drawn in cross-section, exaggerated tightness with clean ink lines
+- The passage walls are close together, rendered in flat gray tones with no depth
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- fabric scraping rock
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 39: Trust — Deep [05:04–05:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The paper background is muted gray with faint texture
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture: small drawn bones scattered at the bottom of the frame, labeled 'H
+- Naledi' in editorial typeface
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- small bones clinking together
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 40: Trust — Deep [05:12–05:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The paper background is warm faded sepia, suggesting both distance and fragility
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture: a small-brained naledi figure, drawn with exaggerated small head and hunched posture, kneels beside a simple rectangular grave outline on the ground
+- The figure's hands are clasped, head bowed, expression solemn
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- hand brushing dirt
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 41: Trust — Deep [05:20–05:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The landscape is empty, still, drawn with UPA-style economy
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture: drawn Ethiopian landscape with ochre hills and minimal detail, clean inked outlines
+- A simple graphic label reading 'HADAR' and 'LUCY' appears in editorial typeface, centered in frame
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- wind brushing dry grass
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 42: Trust — Deep [05:28–05:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Ochre and sepia tones, clean outlines, zero depth
+
+ACTIONS:
+- Flat 2D infographic on paper: hand-drawn date text 'NOVEMBER 24, 1974 / SUNDAY' in bold editorial ink, centered on cream paper texture
+- Small dust particles illustrated as simple dots drifting slowly across frame in motion-graphic timing
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- paper rustling, pen scratching
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 43: Trust — Deep [05:36–05:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Minimal background detail, paper texture visible
+
+ACTIONS:
+- Flat cel-shaded 2D: exaggerated drawn figure of Johanson walking across flat ochre landscape, shoulders slumped, head slightly down
+- Clean inked outline, no shading
+
+CAMERA:
+Medium | Pan
+
+AUDIO:
+- footsteps crunching gravel, boots scuffing dirt
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 44: Trust — Deep [05:44–05:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clean inked outlines, flat against ochre paper background
+
+ACTIONS:
+- Flat 2D animation: drawn figure of Johanson snaps to kneeling position in single motion-graphic beat, exaggerated pose with hands hitting ground
+- Clean inked outlines, flat against ochre paper background
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- knees hitting dirt, hands slapping ground
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 45: Trust — Deep [05:52–06:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clean outlines, no depth, ochre and gray tones on paper texture
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Forty percent
+- 3.2 million years
+
+ACTIONS:
+- Flat 2D infographic: hand-drawn bone fragments appear one by one on paper grid, simple inked shapes accumulating across frame
+- Graphic text '40%' and '3.2 MILLION YEARS' resolves in editorial typeface
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- small objects clicking together, fragments tapping on table
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 46: Trust — Deep [06:00–06:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm ochre background, paper texture, zero depth
+
+ACTIONS:
+- Flat cel-shaded 2D: drawn cassette player on simple table, clean inked outlines
+- Musical notes illustrated as simple graphic symbols float from speaker outline in snappy motion-graphic timing
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- cassette clicking into player, tape reels turning
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 47: Trust — Deep [06:08–06:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Muted ochre and teal tones, zero depth
+
+ACTIONS:
+- Flat 2D editorial infographic: Lucy skeleton diagram center frame, clean inked outlines on paper texture
+- Graphic arrows point to hip and knee joints, labeled 'BIPEDAL' in editorial typeface
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- pen drawing lines on paper, ruler sliding across surface
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 48: Trust — Deep [06:16–06:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Muted sepia tones
+
+ACTIONS:
+- Flat 2D graphic on paper: single hand-drawn arrow pointing right
+- A question mark appears beside it in editorial ink
+- Simple, ironic juxtaposition
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- pen scratching paper, ink dot tapping
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 49: Anticipation — Deep [06:24–06:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+UPA-style editorial motion graphics, no volumetric lighting
+
+ACTIONS:
+- Flat cel-shaded 2D infographic animation on paper texture
+- Two location markers drawn as simple pins on a flat map, connected by a short dotted line
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- pen scratching paper, ruler sliding across surface
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 50: Trust — Deep [06:32–06:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Numbers and labels in editorial sans-serif
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 2.95 million years
+
+ACTIONS:
+- Flat cel-shaded 2D infographic animation on paper texture
+- A horizontal timeline drawn with clean inked lines
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- chalk tapping on board, paper rustling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 51: Trust — Payoff [06:40–06:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Empty space between two labeled points (2.95 Ma and the new jawbone) is framed centrally
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 2.95 million years
+
+ACTIONS:
+- Flat cel-shaded 2D infographic animation on paper texture
+- The timeline gap becomes the visual focus
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- pencil erasing paper, soft brush sweeping surface
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 52: Trust — Payoff [06:48–06:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm sepia background, black ink
+
+ACTIONS:
+- Flat cel-shaded 2D infographic animation on paper texture
+- An arrow drawn from Lucy's silhouette stops mid-frame, does not reach a human figure on the right
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- pen scratching paper, line stopping abruptly
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 53: Trust — Payoff [06:56–07:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm sepia tones, like old paper
+
+ACTIONS:
+- Flat cel-shaded 2D infographic animation on paper texture
+- A second hominid silhouette appears beside Lucy's on the same timeline
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- pen tapping paper twice, second silhouette appearing
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 54: Trust — Payoff [07:04–07:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Dusty ochre and muted earth tones
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 2.6 million years
+
+ACTIONS:
+- Flat cel-shaded 2D infographic animation on paper texture
+- Wide paper landscape with wavy lines above ground suggesting heat
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- wind rustling dry grass, footsteps on dusty ground
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 55: Trust — Payoff [07:12–07:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Dusty ochre and muted earth tones
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 2.6 million years
+
+ACTIONS:
+- Flat cel-shaded 2D infographic animation on paper texture
+- Multiple flat hominid figures scattered across the landscape
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- multiple footsteps on dry ground, grass rustling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 56: Trust — Payoff [07:20–07:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm sepia tones, like old paper
+
+ACTIONS:
+- Flat cel-shaded 2D infographic animation on paper texture
+- Multiple flat-drawn hominid silhouettes scattered across wide paper landscape
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- wind rustling dry grass, distant footsteps fading
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 57: Trust — Payoff [07:28–07:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm 4000K lighting, paper grain visible
+
+ACTIONS:
+- Flat cel-shaded 2D: Multiple drawn hominid silhouettes on faded sepia paper, clean ink outlines
+- Most figures dissolve into faint ghosted outlines, opacity fading to near-transparency
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- pen scratching paper, faint rustling of aged documents
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 58: Anticipation — Payoff [07:36–07:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Dramatic to release lighting, building to warm 4000K with release gold accent
+
+ACTIONS:
+- Flat cel-shaded 2D: Clean scientific diagram pinned to paper wall, sharp ink lines
+- As camera creeps in, hand-drawn question marks appear at diagram edges, lines begin to blur and waver
+
+CAMERA:
+Medium | Zoom out
+
+AUDIO:
+- paper rustling, pen tapping on desk, pages turning quickly
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 59: Trust — Payoff [07:44–07:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm 4000K lighting, paper grain texture visible throughout
+
+ACTIONS:
+- Flat cel-shaded 2D: Single drawn fossil tooth embedded in cross-section of volcanic ash layers on paper, clean ink outlines
+- Fossil centered, perfectly still, surrounded by stratified ash texture in muted ochre and gray
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- faint brushing of dust, delicate scraping sound
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 60: Trust — Payoff [07:52–08:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm 4000K lighting, aged paper texture throughout
+
+ACTIONS:
+- Flat cel-shaded 2D: Drawn museum safe door on faded sepia paper, closed and centered
+- Clean ink outline, brass lock detail, label reading 'Lucy - AL 288-1' in hand-lettered text
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- metal latch clicking, safe door settling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 61: Trust — Payoff [08:00–08:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Dual postures side-by-side, warm 4000K lighting, sepia paper texture
+
+ACTIONS:
+- Flat cel-shaded 2D: Split-frame composition on paper
+- Left side: drawn hominid figure mid-stride, upright posture, clean ink lines
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- footsteps on dry earth, branch creaking under weight
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 62: Trust — Payoff [08:08–08:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+UPA editorial motion graphics, graphic simplicity
+
+ACTIONS:
+- Flat cel-shaded 2D: Multiple faint hominid silhouettes drawn on sepia paper, clean ink outlines
+- Figures gradually dissolve into ghosted transparency, fading into paper texture grain
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- paper tearing slowly, faint eraser rubbing on paper
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 63: Anticipation — Payoff [08:16–08:18]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Dramatic to release lighting, building to warm 4000K with release gold accent
+
+ACTIONS:
+- Flat cel-shaded 2D: Single solid human silhouette drawn on faded paper, centered
+- Behind it, multiple ghosted hominid outlines in faint ink, barely visible
+
+CAMERA:
+Medium | Zoom out
+
+AUDIO:
+- single pen stroke on paper, quiet exhale
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+════════════════════════════════════════════════════════════════
+[END SCENE PROMPTS]
+════════════════════════════════════════════════════════════════
