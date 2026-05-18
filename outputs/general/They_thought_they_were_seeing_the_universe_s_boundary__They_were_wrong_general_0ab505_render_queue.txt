@@ -1,0 +1,633 @@
+============================================================
+VEO 3 RENDER QUEUE - They_thought_they_were_seeing_the_universe_s_boundary__They_were_wrong [general]
+Total clips: 60 | Duration: 00:07:53.510
+============================================================
+
+--------------------------------------------------
+CLIP C001 | 00:00:00.000 -> 00:00:08.000 | 8.0s
+Emotion: TRUST (low) | Arc: hook
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Epic wide shot, slow descending crane movement. Asteroid 2026 JH2 — irregular charcoal surface pocked with craters — drifts silently across frame, Earth's blue crescent glowing in background. Volumetric light catches dust particles trailing the rock. Deep space environment, infinite black void punctuated by distant stars, cool indigo atmosphere halo around Earth's limb. Audio: faint metallic creaking of asteroid surface expanding in sunlight. No voice, sound effects only. Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no generic stock footage, no camera drift, no talking heads, no bright warm tones, no motion blur, no lens flares
+
+--------------------------------------------------
+CLIP C002 | 00:00:08.000 -> 00:00:16.000 | 8.0s
+Emotion: FEAR (low) | Arc: hook
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Close-up, slow creeping push-in. Trajectory line crossing Earth's atmospheric limb in sharp detail, HDR glow intensifying on blue-white edge, clinical data overlay fading into frame showing velocity and distance metrics. Cool side lighting, 2800K cold temperature, red accent on warning indicators. Anamorphic lens flare on atmosphere edge. Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting. Audio: radar ping echoing, keyboard keys clicking rapidly. No voice, sound effects only. 24fps, 16:9. 8s.
+
+NEGATIVE:
+no people, no reaction shots, no warm lighting, no bright tones for negative emotion, no generic stock footage
+
+--------------------------------------------------
+CLIP C003 | 00:00:16.000 -> 00:00:24.000 | 8.0s
+Emotion: TRUST (low) | Arc: hook
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium close-up, very slow push-in. Digital radar display screen showing asteroid designation '2026 JH2' in crisp white text, size parameters '52-114 ft' resolving character by character, velocity readout '19,417 mph' flickering into focus. Hands rest calmly on console edge, fingers relaxed. NASA mission control environment, cool blue monitor glow illuminating surrounding panels, soft overhead fluorescents. Audio: keyboard keys clicking rhythmically, single mouse click. No voice, sound effects only. Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no generic stock footage, no camera drift, no talking heads longer than 20s, no warm lighting for negative emotion, no motion blur
+
+--------------------------------------------------
+CLIP C004 | 00:00:24.000 -> 00:00:32.000 | 8.0s
+Emotion: TRUST (low) | Arc: hook
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium close-up, gentle push-in. Rotating asteroid 2026 JH2 in sharp detail, cratered surface texture catching volumetric light, slow tumble revealing irregular shape. HDR rendering shows mineral composition variations, anamorphic bokeh on background star field. Soft 3-point lighting defining edges, 3800K neutral warm temperature. Cinematic photorealistic NASA documentary, 8K HDR, anamorphic lens 2.39:1. Audio: faint rock fragments shifting, micro-impacts tapping surface. No voice, sound effects only. 24fps, 16:9. 8s.
+
+NEGATIVE:
+no people, no telescopes with observers, no control rooms, no generic stock patterns, no camera shake
+
+--------------------------------------------------
+CLIP C005 | 00:00:32.000 -> 00:00:40.000 | 8.0s
+Emotion: TRUST (low) | Arc: hook
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium close-up, very slow gentle push-in. Glowing orbital trajectory arc rendered in soft amber against deep space, Earth's curved horizon visible below in warm daylight blues. The path line resolves smoothly, distance markers appearing: 56,628 miles in clean sans-serif type. Warm sunlight grazes Earth's atmosphere, volumetric haze softening the limb. Audio: faint electronic beep sequence, data processing hum. No voice, sound effects only. Cinematic documentary, 8K HDR, anamorphic 2.39:1, 24fps, 16:9. 8s.
+
+NEGATIVE:
+dark cold visuals, ominous tone, fear-inducing imagery, camera drift, generic stock footage, talking heads, no warm daylight, no soft lighting
+
+--------------------------------------------------
+CLIP C006 | 00:00:40.000 -> 00:00:48.000 | 8.0s
+Emotion: TRUST (low) | Arc: hook
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium wide shot, static hold. Trajectory line passing wide of Earth with visible safe margin, clinical distance markers glowing in space. Planet occupies left third of frame, asteroid path arcing through right side with clear separation. Measured, undramatic framing, soft 3-point lighting, 3800K neutral warm. Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic 2.39:1. Audio: single radar confirmation beep, faint orbital calculation processing. No voice, sound effects only. 24fps, 16:9. 8s. Hold 6.43s after.
+
+NEGATIVE:
+no people, no control rooms, no dramatic lighting, no tension cues, no camera movement during hold
+TIMING: Hold 6.43s after.
+
+--------------------------------------------------
+CLIP C007 | 00:00:48.000 -> 00:00:56.000 | 8.0s
+Emotion: FEAR (mid) | Arc: hook
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Epic wide shot, slow ascending crane. Earth suspended small in lower third of frame, thin atmosphere glowing pale blue, asteroid trajectory arc drawn in faint white line curving past planet's limb and continuing into deep space. Shoulders visible in extreme foreground, posture upright and still, gaze directed upward. Planetarium dome environment, stars projected across curved ceiling, cool silver-blue ambient wash. Audio: distant ventilation system whooshing softly, single footstep on concrete floor. No voice, sound effects only. Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no generic stock footage, no camera drift, no talking heads longer than 20s, no warm lighting, no motion blur
+
+--------------------------------------------------
+CLIP C008 | 00:00:56.000 -> 00:01:04.000 | 8.0s
+Emotion: FEAR (low) | Arc: hook
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Epic wide shot, slow ascending crane. Earth's fragile blue atmosphere — thin luminous band separating planet from void — fills lower half of frame, volumetric god-rays piercing through cloud layers. Asteroid field scattered across upper frame, dozens of dark irregular shapes drifting silently, sizes unknown. Deep space environment, infinite black expanse, distant stars forming faint Milky Way band. Audio: low wind rushing past microphone, single distant metallic clang echoing. No voice, sound effects only. Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no generic stock footage, no camera drift, no talking heads, no bright warm tones, no lens flares, no motion blur
+
+--------------------------------------------------
+CLIP C009 | 00:01:04.000 -> 00:01:12.000 | 8.0s
+Emotion: TRUST (low) | Arc: hook
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium close-up, very slow gentle push-in. Empty mission control workstation bathed in soft warm amber glow from overhead practicals, monitor displays sleeping screensavers in muted blue-green, keyboard untouched. Camera drifts forward 8 inches revealing the stillness — no flashing alerts, no red warnings, screens show only star-field patterns and idle system menus. Clean modern NASA facility with brushed aluminum surfaces catching 3800K tungsten light, everything orderly and calm. Audio: faint electrical hum from cooling fans, single keyboard key click echoing in empty room. No voice, sound effects only. Cinematic documentary, 24fps, 16:9, 1080p. 8s. Hold 5.4s after.
+
+NEGATIVE:
+dark moody lighting, cold blue wash, ominous shadows, tension, alarm lights, red warning indicators, chaotic movement, handheld shake, desaturated look, generic stock footage, camera drift
+TIMING: Hold 5.4s after.
+[!] NEEDS HUMAN REVIEW
+
+--------------------------------------------------
+CLIP C010 | 00:01:12.000 -> 00:01:20.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium shot, very slow dolly right. Split-screen comparison: left side shows 3D model of 2026 JH2 asteroid rotating with measurement overlay '60 feet', right side displays Chelyabinsk object model at identical scale. Numeric data resolves on screen: '41,000 mph' velocity readout, '18 miles' altitude marker, '30x Hiroshima' energy comparison graph. Clinical blue-silver lighting, precise documentary framing. Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no scientists, no control room personnel, no reaction shots, no camera drift, no generic stock patterns
+
+--------------------------------------------------
+CLIP C011 | 00:01:20.000 -> 00:01:28.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium shot, static hold. Overlaid silhouettes of both asteroids align perfectly in frame, transparent layers showing internal structure. Measurement annotations appear sequentially: diameter lines, velocity vectors, atmospheric entry angle. HDR edge definition renders each data point with documentary precision against deep space backdrop. Cool blue-silver palette, methodical reveal. Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no personnel, no observatories, no reaction shots, no camera drift, no generic stock patterns
+
+--------------------------------------------------
+CLIP C012 | 00:01:28.000 -> 00:01:36.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium shot, very slow dolly forward. Archival footage: shattered building windows frame empty interiors, glass shards scattered across snow-covered pavement, fractured panes hang in twisted frames. Desaturated color grade, handheld documentary style captures human-scale devastation. Soft overcast daylight, cool blue-gray tones, methodical pan across damage zone. Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9. 8s. Hold 2.67s after.
+
+NEGATIVE:
+no people, no warm lighting, no camera drift, no generic stock patterns
+TIMING: Hold 2.67s after.
+
+--------------------------------------------------
+CLIP C013 | 00:01:36.000 -> 00:01:44.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium shot, very slow aerial rise. 8K satellite map view: Chelyabinsk region from above, concentric shockwave radius expands outward in volumetric dust cloud visualization. Scale comparison overlay shows Switzerland outline for reference. Cool blue-silver cartographic rendering, clinical precision, expanding circle reveals geographic scope. Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9. 8s. Hold 0.43s after.
+
+NEGATIVE:
+no personnel, no ground-level shots, no warm lighting, no camera drift, no generic stock patterns
+TIMING: Hold 0.43s after.
+
+--------------------------------------------------
+CLIP C014 | 00:01:44.000 -> 00:01:52.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium shot, very slow dolly right. Volumetric diagram of inner solar system: Sun at center casting bright volumetric rays, Earth's orbital position marked, cone-shaped blind zone illustrated with light beams that cannot penetrate past Sun's glare toward viewer. Clean educational visualization with floating orbital paths and geometric light shafts. Consistent even 3800K lighting, clinical documentary clarity. Audio: soft mechanical whir of diagram rotating, light tap as orbital path highlights, faint click as blind zone cone appears. No voice, sound effects only. Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no dark moody atmosphere, no cold blue wash, no dramatic shadows, no camera drift, no generic stock footage, no people reacting, no control room shots
+
+--------------------------------------------------
+CLIP C015 | 00:01:52.000 -> 00:02:00.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium shot, static hold. Temporal montage: calendar pages flip from '2013' forward, date overlays dissolve through years, archival timestamp graphics fade sequentially. Each year marked by subtle shift in blue-silver tone, methodical passage of time rendered with documentary restraint. Cool clinical lighting throughout. Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9. 8s. Hold 5.67s after.
+
+NEGATIVE:
+no personnel, no locations, no warm lighting, no camera drift, no generic stock patterns
+TIMING: Hold 5.67s after.
+
+--------------------------------------------------
+CLIP C016 | 00:02:00.000 -> 00:02:08.000 | 8.0s
+Emotion: FEAR (low) | Arc: build_up
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium close-up, very slow subtle handheld drift. Timeline graphic: horizontal axis spans eight days, detection point marked at left with red accent, 2026 JH2 passage point at right. Warning window illustrated with measured precision, cool blue interface with single red notification indicator. Shadows deepen subtly across frame, low-key motivated lighting from monitor glow. Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9. 8s. Hold 3.35s after.
+
+NEGATIVE:
+no personnel, no observatories, no bright warm lighting, no camera drift, no generic stock patterns
+TIMING: Hold 3.35s after.
+
+--------------------------------------------------
+CLIP C017 | 00:02:08.000 -> 00:02:16.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium shot, very slow dolly in. Digital calendar display showing "8 DAYS" in bright amber numerals against clean white interface, sharp focus, clinical precision. Below, timeline graphic extends horizontally showing years-long deflection window in muted gray, creating stark scale contrast. Sterile mission control aesthetic, even 3800K lighting, no shadows. Audio: keyboard keys clicking, mouse clicking. No voice, sound effects only. Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9. 8s.
+
+NEGATIVE:
+dark moody lighting, cold blue tones, shadowy atmosphere, dramatic contrast, people, faces, talking heads, generic stock footage, camera drift
+
+--------------------------------------------------
+CLIP C018 | 00:02:16.000 -> 00:02:24.000 | 8.0s
+Emotion: JOY (low) | Arc: build_up
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium wide, very slow gentle arc shot. DART spacecraft in assembly cleanroom, solar panels extending in slow motion, posture confident, hands steady on precision tools. Technicians in clean suits perform methodical assembly work, each movement deliberate. Volumetric light streams through high windows, casting amber-tinted rays through floating dust particles, warm documentary atmosphere. Audio: mechanical whir of extending panels, tool clicks on metal. No voice, sound effects only. Cinematic documentary, 24fps, 16:9, 1080p. 8s.
+
+NEGATIVE:
+no dark cold visuals, no tension, no fear imagery, no generic stock footage, no camera drift
+
+--------------------------------------------------
+CLIP C019 | 00:02:24.000 -> 00:02:32.000 | 8.0s
+Emotion: JOY (low) | Arc: build_up
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium wide, very slow gentle arc around subject. DART spacecraft model in clean room, metallic surfaces catching soft golden light, solar panels extending outward in precise mechanical motion. Engineers' hands adjusting panel alignment, careful deliberate movements. Bright aerospace facility, warm 4300K lighting with amber accents on metallic surfaces, HDR reflections on spacecraft hull. Audio: mechanical servo motors whirring, metal panel sliding, tools clicking. No voice, sound effects only. Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no generic stock footage, no camera drift, no dark cold visual, no person looking at screen
+
+--------------------------------------------------
+CLIP C020 | 00:02:32.000 -> 00:02:40.000 | 8.0s
+Emotion: FEAR (low) | Arc: build_up
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium close-up, very slow subtle handheld drift. Earth from orbit with red trajectory line intersecting continental grid, posture tense, shoulders drawn. Eight-day countdown timer ticks in corner as trajectory cone narrows toward populated coastline. Dark space background, cool motivated light from Earth's terminator, red accent on impact zone, shadows deepening. Audio: countdown timer beeping, data stream clicking. No voice, sound effects only. Cinematic documentary, 24fps, 16:9, 1080p. 5.61s. Hold 2.39s after.
+
+NEGATIVE:
+no bright warm visuals, no optimistic imagery, no generic stock footage, no camera drift
+TIMING: Hold 2.39s after.
+
+--------------------------------------------------
+CLIP C021 | 00:02:40.000 -> 00:02:48.000 | 8.0s
+Emotion: FEAR (low) | Arc: build_up
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium close-up, very slow subtle handheld drift. Radar screen showing red trajectory line crossing Earth grid with uncertainty cone expanding over multiple cities, posture uncertain, hands hovering. Eight-day countdown visible in corner, trajectory precision insufficient to isolate single target. Cool blue screen glow, red accent on impact zone, motivated single-source lighting, tension building. Audio: radar ping, keyboard typing, alert tone. No voice, sound effects only. Cinematic documentary, 24fps, 16:9, 1080p. 8s.
+
+NEGATIVE:
+no bright warm visuals, no optimistic imagery, no people reacting, no generic stock footage
+
+--------------------------------------------------
+CLIP C022 | 00:02:48.000 -> 00:02:56.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium shot, very slow static hold. Stacked mission requirement documents on desk, pages dense with technical specifications and conditional statements, hand hovering hesitantly above top page. Fingers pause mid-reach, slight tremor visible. Clean office environment, consistent 3800K lighting, cool blue undertones, anamorphic bokeh in background. Audio: paper rustling, pen tapping desk. No voice, sound effects only. Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9. 8s. Hold 6.38s after.
+
+NEGATIVE:
+no generic stock footage, no camera drift, no bright warm visual, no talking head
+TIMING: Hold 6.38s after.
+
+--------------------------------------------------
+CLIP C023 | 00:02:56.000 -> 00:03:04.000 | 8.0s
+Emotion: FEAR (low) | Arc: build_up
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium close-up, very slow subtle drift. Chelyabinsk meteor trail burning across winter sky, brilliant white-orange streak cutting through pale blue atmosphere, volumetric light scattering through ice crystals. Meteor descending at steep angle, trail widening, thermal glow intensifying. Cold Russian winter landscape below, frozen cityscape, shadows deepening. Audio: distant rumbling growing, ice cracking, wind rushing. No voice, sound effects only. Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9. 8s. Hold 4.15s after.
+
+NEGATIVE:
+no generic stock footage, no camera drift, no bright warm visual, no person reacting
+TIMING: Hold 4.15s after.
+
+--------------------------------------------------
+CLIP C024 | 00:03:04.000 -> 00:03:12.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium shot, very slow push in. Aerial view of dense urban grid at night, thousands of city lights forming geometric patterns, warm sodium-vapor orange and white LED glow spreading across frame. Buildings and streets clearly defined, infrastructure visible, population density evident through light concentration. Even 3800K ambient light, HDR city illumination against dark periphery, methodical framing. Audio: distant traffic hum, car horns, tire squeals. No voice, sound effects only. Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9. 8s.
+
+NEGATIVE:
+destruction, explosions, fire, smoke, damage, dark apocalyptic tones, cold blue lighting, shadowy atmosphere, people close-up, faces, generic stock footage, camera drift
+[!] NEEDS HUMAN REVIEW
+
+--------------------------------------------------
+CLIP C025 | 00:03:12.000 -> 00:03:20.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium shot, completely static. Photorealistic 3D simulation of urban blast radius overlay on detailed city map. Concentric pressure zones expand outward in precise geometric rings — red inner core, orange mid-zone, yellow outer perimeter. Clinical data visualization aesthetic. Cool teal-blue color grade, 3700K lighting. Volumetric light rays illuminate floating holographic map layers. Measurement annotations appear along radius lines. Audio: digital interface beeps, map layer sliding, radius line extending. No voice, sound effects only. Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no people, no reaction shots, no generic stock footage, no camera drift, no warm bright visuals, no talking heads, no console operators
+
+--------------------------------------------------
+CLIP C026 | 00:03:20.000 -> 00:03:28.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium shot, completely static. Sepia-toned archival photograph of flattened Siberian taiga, trees radiating outward from blast center in geometric pattern. Slow zoom into devastation reveals scale of 830 square mile impact zone. Warm amber light filters through suspended dust particles, volumetric haze catching afternoon sun. Photograph grain texture visible, edges slightly vignette. Cinematic documentary, 8K HDR, anamorphic lens 2.39:1, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no people, no scientists, no control rooms, no modern equipment, no dark cold palette, no blue tones, no night scenes, no camera drift, no generic stock footage
+
+--------------------------------------------------
+CLIP C027 | 00:03:28.000 -> 00:03:36.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium shot, very slow completely static. Vintage sepia-toned photograph of the 1908 Tunguska blast site: endless flattened taiga stretching to horizon, 80 million trees laid down in perfect radial pattern from central point, pale morning light casting long shadows across the devastation. Slow push-in reveals the geometric precision of the destruction — each fallen trunk aligned like compass needles pointing away from ground zero. Warm amber sunlight filters through thin clouds, illuminating the scale: 830 square miles of Siberian forest reduced to matchsticks. Audio: wind rustling through broken timber, distant creaking wood. No voice, sound effects only. Cinematic documentary, 8K HDR, anamorphic 2.39:1, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no people, no modern equipment, no dark cold palette, no blue tones, no night scenes, no camera movement, no generic stock footage
+
+--------------------------------------------------
+CLIP C028 | 00:03:36.000 -> 00:03:44.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Ground-level POV, dynamic tracking shot. Shockwave ripples through dense forest in real-time, trees snapping in sequential cascade. Volumetric debris cloud expands outward. Splintered wood catches HDR highlights. Bark fragments and needles suspended mid-air. Overpressure wave distorts atmosphere visibly. Cool teal-blue grade with sharp contrast. Photorealistic physics simulation. Audio: rapid sequential tree snaps, shockwave rumble, debris impacts, wood splintering. No voice, sound effects only. Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no people, no witnesses, no modern equipment, no warm tones, no camera drift, no generic destruction footage, no explosions
+
+--------------------------------------------------
+CLIP C029 | 00:03:44.000 -> 00:03:52.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium tracking shot, slow dolly through scorched forest floor. Charred tree stumps in geometric rows, ash particles suspended in volumetric shafts of amber light. Ground-level perspective emphasizes repetition of destruction. Blackened bark texture in sharp focus, background stumps fading into atmospheric haze. Warm 3700K lighting with teal accent in shadows. Silence emphasized through visual stillness. Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no people, no scientists, no equipment, no dark cold palette, no blue dominant tones, no night scenes, no camera shake, no generic stock footage
+
+--------------------------------------------------
+CLIP C030 | 00:03:52.000 -> 00:04:00.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Wide shot, completely static. Pre-1908 night sky over Siberian wilderness, stars sharp and unmoving. Deep indigo color grade. Anamorphic star bokeh in corners. No trajectory, no warning, no movement — pure stillness. Volumetric atmospheric haze at horizon. Clinical, patient framing. HDR captures star field detail. Audio: distant wolf howl, wind through grass, night insects chirping. No voice, sound effects only. Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9. 8s. Hold 6.51s after.
+
+NEGATIVE:
+no people, no telescopes, no equipment, no meteors, no movement, no warm tones, no camera drift, no generic sky footage
+TIMING:  Hold 6.51s after.
+
+--------------------------------------------------
+CLIP C031 | 00:04:00.000 -> 00:04:08.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium shot, completely static. Orbital telescope array in precise formation above Earth's curved horizon. Clean clinical framing, HDR solar panel reflections catching sunlight. Tracking grid overlays visible on telescope surfaces, cool blue and silver palette with 3700K teal accent. Earth below in shadow, stars beyond. Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no camera movement, no warm lighting, no human operators, no generic space stock footage, no lens flares
+
+--------------------------------------------------
+CLIP C032 | 00:04:08.000 -> 00:04:16.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium shot, completely static. Split-screen comparison on clinical white background: massive asteroid model on left, tiny 2026 JH2 scale model on right. Precise measurement annotations resolving on screen in teal accent color. Authoritative Bloomberg-style lighting, 3700K color temperature. Scale difference emphasized through clean geometric framing. Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no camera drift, no warm tones, no human hands, no generic comparison graphics, no bright colors
+
+--------------------------------------------------
+CLIP C033 | 00:04:16.000 -> 00:04:24.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium shot, completely static. Empty telescope dome interior, lens pointed at blank daytime sky. Overexposed sunlight washing through open aperture, creating harsh anamorphic horizontal flare across frame. Clinical, sterile composition. Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9. 8s. Hold 5.83s after.
+
+NEGATIVE:
+no camera movement, no people, no warm tones, no action, no generic stock footage, no drift
+TIMING: Hold 5.83s after.
+
+--------------------------------------------------
+CLIP C034 | 00:04:24.000 -> 00:04:32.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Wide shot, very slow push-in. Earth rotating in real-time from space, night-side telescope domes opening in sequence across continents. Day-side hemisphere facing Sun remains blank, unmonitored — no domes, no observation. Posture: planetary scale geometry. Action: rotation revealing blind hemisphere. Environment: orbital view, volumetric atmosphere edge glow, cool indigo and silver tones, clinical NASA aesthetic. Audio: mechanical dome motors grinding, telescope mount servos clicking. No voice, sound effects only. Cinematic photorealistic NASA documentary, 8K HDR, anamorphic 2.39:1, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no people, no control rooms, no warm tones, no camera drift, no generic establishing shots
+
+--------------------------------------------------
+CLIP C035 | 00:04:32.000 -> 00:04:40.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium shot, completely static. Astronomical diagram on high-resolution monitor: Sun rendered as blinding HDR bloom center frame, asteroid trajectory line emerging from solar glare toward Earth icon at frame edge. Trajectory path partially obscured by sun's overexposed corona. Teal accent lighting on screen bezel. Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9. 8s. Hold 3.69s after.
+
+NEGATIVE:
+no camera movement, no people in frame, no warm emotional tones, no generic space stock footage, no drift
+TIMING: Hold 3.69s after.
+
+--------------------------------------------------
+CLIP C036 | 00:04:40.000 -> 00:04:48.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Wide shot, very slow dolly right. Silhouette of Arizona desert telescope dome at twilight, last amber light fading to deep indigo. Tracking mount moving, telescope tube tilting toward horizon. Anamorphic horizontal lens flare from setting sun. Posture: mechanical precision at detection threshold. Action: telescope hunting faint signal near horizon limit. Environment: high desert observatory, cool amber-to-indigo transition, volumetric atmosphere haze, clinical NASA aesthetic. Audio: telescope tracking motor whir, dome rotation rumble. No voice, sound effects only. Cinematic photorealistic NASA documentary, 8K HDR, anamorphic 2.39:1, 24fps, 16:9. 8s. Hold 1.24s after.
+
+NEGATIVE:
+no people, no control room interiors, no bright warm lighting, no camera drift, no generic stock patterns
+TIMING: Hold 1.24s after.
+
+--------------------------------------------------
+CLIP C037 | 00:04:48.000 -> 00:04:56.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Extreme close-up, completely static. Digital mission clock display: "8 DAYS 00:00:00" in sharp white numerals on black LCD screen. Cursor blinking in corner. Single frame hold, no motion. Screen glow casting teal accent on surrounding matte black console surface. Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9. 8s. Hold 7.43s after.
+
+NEGATIVE:
+no camera movement, no people, no warm tones, no action beyond cursor blink, no generic stock footage
+TIMING: Hold 7.43s after.
+
+--------------------------------------------------
+CLIP C038 | 00:04:56.000 -> 00:05:04.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium shot, locked tripod. Telescope mount tracking smoothly against star field, motors humming. Sharp point of light (asteroid) centered in frame as background stars streak into long horizontal trails. Clean white crosshairs overlay the moving dot. Manciano observatory interior visible at frame edge: warm amber instrument glow, teal monitor light on metal housing. Cool indigo night sky through dome opening. Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no camera drift, no generic stock patterns, no dark cold visual for positive emotion, no handheld shake, no lens flare, no motion blur on asteroid, no people in frame
+
+--------------------------------------------------
+CLIP C039 | 00:05:04.000 -> 00:05:12.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Over-shoulder shot, completely static. Astronomer's back of head and shoulders in foreground, facing large monitor displaying real-time asteroid tracking software. Sharp white dot (asteroid) centered on screen moving against star field, stars rendered as long horizontal streaks. Reflected star field visible in astronomer's glasses. Volumetric monitor glow casting cool blue light on face and workspace. Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9. 8s. Hold 0.5s after.
+
+NEGATIVE:
+no camera movement, no face visible, no warm tones, no generic control room footage, no drift
+TIMING: Hold 0.5s after.
+
+--------------------------------------------------
+CLIP C040 | 00:05:12.000 -> 00:05:20.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium shot, very slow completely static. Earth suspended in frame, illuminated hemisphere bright with city lights, dark hemisphere facing sun completely unmonitored — orbital coverage gaps visible as empty arcs around the planet. Camera holds perfectly still as subtle data overlays fade in, marking blind zones in soft teal lines against the black. Authoritative Bloomberg-style lighting, 3700K teal accent, clean and clinical. Audio: subtle data interface beep. No voice, sound effects only. cinematic documentary, 24fps, 16:9, 1080p. 8s. Hold 1.78s after.
+
+NEGATIVE:
+no camera drift, no generic stock patterns, no dark cold visual for positive emotion, no warm bright visual, no talking heads, no handheld shake, no lens flares
+TIMING: Hold 1.78s after.
+[!] NEEDS HUMAN REVIEW
+
+--------------------------------------------------
+CLIP C041 | 00:05:20.000 -> 00:05:28.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium shot, completely static. NEO Surveyor spacecraft in NASA assembly cleanroom, engineers in white suits working on solar panel array with precise, methodical movements. Volumetric dust particles suspended in clean room air, anamorphic lens flare catching metallic surfaces. 8K HDR, cool blue-silver clinical lighting with teal accent on instrument panels, shallow depth of field isolating spacecraft components. Cinematic photorealistic NASA documentary aesthetic, 2.39:1 anamorphic composition, 24fps, 16:9. 8s.
+
+NEGATIVE:
+camera movement, drift, handheld shake, generic stock footage, warm lighting, talking heads, console operators, reaction shots, bright colors, oversaturation
+
+--------------------------------------------------
+CLIP C042 | 00:05:28.000 -> 00:05:36.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium shot, completely static. Extreme close-up of NEO Surveyor infrared sensor array, hexagonal detector elements with HDR metallic reflections, shallow depth of field rendering background components as bokeh. Cool blue-silver grade with clinical authoritative lighting, volumetric light rays catching microscopic particles. Photorealistic NASA documentary 8K detail, anamorphic 2.39:1 framing emphasizing geometric precision of sensor grid. 24fps, 16:9. 8s.
+
+NEGATIVE:
+camera movement, drift, people in frame, control rooms, generic lab footage, warm tones, bright lighting, talking heads, reaction shots
+
+--------------------------------------------------
+CLIP C043 | 00:05:36.000 -> 00:05:44.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium shot, completely static. Empty Kennedy Space Center launch pad at dusk, massive support structure silhouetted against amber-to-indigo gradient sky, volumetric atmospheric haze creating god-rays through metal framework. Anamorphic 2.39:1 composition, 8K HDR capturing texture of weathered concrete and steel, no motion, pure stillness. Photorealistic NASA documentary aesthetic, 3700K color temperature with teal accent on distant facility lights. 24fps, 16:9. 8s. Hold 6.78s after.
+
+NEGATIVE:
+camera movement, people, activity, rockets, bright lighting, warm tones, motion, generic stock footage, talking heads
+TIMING: Hold 6.78s after.
+
+--------------------------------------------------
+CLIP C044 | 00:05:44.000 -> 00:05:52.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium shot, very slow completely static. Calendar interface on a large mission control display, pages flipping forward in measured intervals, each page marked with a single red dot eight days before arrival. The calendar glows softly in warm amber light against a clean white background, numbers crisp and legible. Authoritative Bloomberg-style lighting, 3700K teal accent on the display frame, desaturated palette with clinical precision. Audio: paper pages flipping, soft digital beep. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 1.33s after.
+
+NEGATIVE:
+dark visuals, cold blue tones, shadowy environments, dim lighting, nighttime scenes, generic stock footage, camera drift, talking heads
+TIMING: Hold 1.33s after.
+
+--------------------------------------------------
+CLIP C045 | 00:05:52.000 -> 00:06:00.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium shot, completely static. Tight frame on data terminal screen, green monochrome text scrolling upward with orbital mechanics calculations, cursor blinking at command prompt. Cool clinical lighting, shallow focus isolating screen surface, 8K HDR capturing CRT phosphor texture. Photorealistic NASA documentary aesthetic, 2.39:1 anamorphic framing, 3700K color temperature with teal accent on terminal housing. 24fps, 16:9. 8s. Hold 6.43s after.
+
+NEGATIVE:
+camera movement, people, hands typing, control room wide shots, warm lighting, bright colors, generic stock footage, talking heads
+TIMING: Hold 6.43s after.
+
+--------------------------------------------------
+CLIP C046 | 00:06:00.000 -> 00:06:08.000 | 8.0s
+Emotion: FEAR (mid) | Arc: deep
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Epic wide, slow ascending crane. Animated trajectory overlay on photorealistic Earth sphere, 2026 JH2 path rendered as glowing amber arc against deep space, volumetric atmosphere glow at planet edge. Anamorphic 2.39:1 composition, 8K HDR star field background, slow camera orbit revealing scale. Cool-to-warm color transition as trajectory approaches Earth, god-rays through atmospheric limb. Cinematic NASA documentary aesthetic, 24fps, 16:9. 8s.
+
+NEGATIVE:
+camera drift, people, control rooms, talking heads, generic stock footage, flat lighting, oversaturation, handheld shake
+
+--------------------------------------------------
+CLIP C047 | 00:06:08.000 -> 00:06:16.000 | 8.0s
+Emotion: FEAR (mid) | Arc: deep
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Close-up, shallow lens breathing. Distance measurement HUD readout, numbers updating in real-time from 56,630 to 56,628 miles, amber monochrome display on black background. Shallow depth of field, anamorphic bokeh on background elements, 8K HDR capturing LED segment detail. Photorealistic NASA documentary aesthetic, 2.39:1 framing, cool color temperature with warm amber accent on active digits. 24fps, 16:9. 8s.
+
+NEGATIVE:
+camera movement, people, wide shots, control rooms, talking heads, bright lighting, warm overall tone, generic stock footage
+
+--------------------------------------------------
+CLIP C048 | 00:06:16.000 -> 00:06:24.000 | 8.0s
+Emotion: FEAR (mid) | Arc: deep
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Epic wide, slow ascending crane. Earth and asteroid 2026 JH2 in same frame with scale comparison overlay showing 56,628-mile separation, anamorphic bokeh on distant star field. 8K HDR photorealistic rendering, cold blue grade with volumetric atmospheric glow, god-rays through space dust. Cinematic NASA documentary aesthetic, 2.39:1 composition revealing cosmic scale, slow camera pull-back emphasizing vast distance. 24fps, 16:9. 8s.
+
+NEGATIVE:
+camera drift, people, control rooms, talking heads, warm lighting, bright colors, generic stock footage, handheld shake, oversaturation
+
+--------------------------------------------------
+CLIP C049 | 00:06:24.000 -> 00:06:32.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium close-up, very slow push-in. Black screen fills frame, single white cursor blinking at center, shoulders relaxed, steady breathing visible in silhouette edge. Cursor blinks three times, then text 'UNKNOWN' materializes letter by letter in clinical sans-serif font. Deep indigo void surrounds the text, no movement, no decoration. Keyboard key pressing once, mouse clicking twice, cursor blinking rhythmically. Cinematic documentary, 8K HDR, anamorphic 2.39:1, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no warm lighting, no human faces, no color gradients, no motion graphics, no animated transitions, no music, no voice
+
+--------------------------------------------------
+CLIP C050 | 00:06:32.000 -> 00:06:40.000 | 8.0s
+Emotion: ANTICIPATION (low) | Arc: payoff
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Tight then reveal, very slow creep then sudden pull-back. Empty star field, hundreds of faint points scattered across deep indigo sky, slowly resolving into focus. Camera creeps forward into the field, then suddenly pulls back to reveal the vastness — thousands more stars appearing at frame edges. Warm amber glow from distant nebulae, anamorphic lens flares catching starlight. The frame widens to show the observer's silhouette at bottom edge, dwarfed by the cosmic expanse above. Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9. 8s.
+
+NEGATIVE:
+dark cold visual, generic stock footage, camera drift, talking head, bright clinical lighting, no human scale reference, static composition
+
+--------------------------------------------------
+CLIP C051 | 00:06:40.000 -> 00:06:48.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium close-up, very slow confirming push-in. Empty radar screen quadrant in desaturated blue-gray, single amber blip at far edge, hands resting still on console edge, expression neutral but alert. Blip pulses once, fades slightly, holds position uncomfortably long. No other movement, clinical stillness, deep shadows in corners of frame. Screen holds static for six seconds after blip stabilizes. Radar screen humming low, single blip tone, cooling fan spinning. Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic 2.39:1, 24fps, 16:9. 8s. Hold 6s after.
+
+NEGATIVE:
+no warm revealing light, no resolution, no multiple subjects, no camera drift, no bright colors
+TIMING: Hold 6s after.
+
+--------------------------------------------------
+CLIP C052 | 00:06:48.000 -> 00:06:56.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Slow tilt up from silhouetted telescope dome in Manciano to star field, very slow confirming push-in. Dome in foreground, sharp against deep indigo sky, posture of the structure patient and watchful. Single point of light moves horizontally across upper third of frame, tracked center, anamorphic bokeh on surrounding stars. Volumetric atmosphere glows faintly at horizon. Movement is deliberate, unhurried, billions of years compressed into eight seconds. Telescope dome creaking once, night wind rustling, distant cricket chirping. Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic 2.39:1, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no human figures, no laboratory interiors, no bright warm lighting, no fast motion, no dramatic music cues
+
+--------------------------------------------------
+CLIP C053 | 00:06:56.000 -> 00:07:04.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium close-up on calendar page, very slow confirming push-in. Eight-day desk calendar, pages flipping backward one by one, final page settling on marked date. Hand enters frame, finger taps date circle, pen underlines notation. Warm desk lamp pools light on paper, cool window light from behind. Audio: paper flip, pen scratch, finger tap on paper. No voice, sound effects only. Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9. 8s. Hold 6.91s after.
+
+NEGATIVE:
+no generic stock footage, no camera drift, no dark cold visual, no people's faces, no ambient wash
+TIMING: Hold 6.91s after.
+
+--------------------------------------------------
+CLIP C054 | 00:07:04.000 -> 00:07:12.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium close-up, very slow confirming push-in. Primordial Earth from high orbit, no city lights, only volcanic glow and storm systems, surface calm and ancient, posture still and witnessing. A small asteroid silhouette crosses the frame slowly against the planet's limb, unwitnessed, passing through empty space above barren continents. Warm amber atmosphere catches volumetric light at the horizon, deep indigo space beyond. Audio: distant low rumble, faint atmospheric wind. No voice, sound effects only. Cinematic photorealistic NASA documentary, 8K HDR volumetric lighting anamorphic 2.39:1, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no modern cities, no human structures, no bright lights on Earth surface, no talking heads, no generic stock footage, no camera drift, no dark cold visual for positive emotion
+
+--------------------------------------------------
+CLIP C055 | 00:07:12.000 -> 00:07:20.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium close-up, very slow confirming push-in. Orbital diagram schematic, cataloged asteroid paths as thin white lines radiating from Earth at center, clinical white-on-black. Slow rotation reveals density of tracked objects, posture of the system methodical and complete. Each line represents known trajectory, future predicted, no gaps in coverage within the diagram. Deep shadows at frame edges, volumetric light rays from Earth's position. Diagram holds static for five seconds after rotation completes. Computer hard drive spinning, data processing beep, cooling fan whirring. Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic 2.39:1, 24fps, 16:9. 8s. Hold 5s after.
+
+NEGATIVE:
+no human subjects, no color, no warm lighting, no laboratory interiors, no animated transitions
+TIMING: Hold 5s after.
+
+--------------------------------------------------
+CLIP C056 | 00:07:20.000 -> 00:07:28.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium wide, very slow push-in. NEO Surveyor spacecraft in orbit render, infrared sensor array glowing faint amber at center, Earth's curved horizon below in deep blue. Volumetric light rays from sun at frame edge, anamorphic lens flare in cool silver. Spacecraft posture steady, patient, methodical. Sensor array rotates slowly, scanning arc of space, new faint points appearing on overlay as it sweeps. 8K HDR, sharp detail on solar panels and sensor housing. Satellite gyroscope spinning, solar panel unfolding, thruster pulsing once. Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic 2.39:1, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no human figures, no laboratory interiors, no warm dramatic lighting, no fast motion, no music
+
+--------------------------------------------------
+CLIP C057 | 00:07:28.000 -> 00:07:36.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium close-up, very slow push-in. Single point of light drifts across deep indigo night sky, tracked against fixed star field. Anamorphic bokeh renders distant stars as horizontal streaks. Frame holds on the moving dot, patient and unhurried, as it crosses from left third to center. Deep space backdrop, no foreground elements, pure astronomical observation. Audio: telescope mount motor whirring, dome shutter mechanism clicking. No voice, sound effects only. Cinematic documentary, 8K HDR, volumetric lighting, anamorphic 2.39:1, 24fps, 16:9. 8s. Hold 3.28s after.
+
+NEGATIVE:
+no generic stock footage, no camera drift, no bright warm visual, no talking heads, no control rooms, no scientists reacting, no computer screens
+TIMING: Hold 3.28s after.
+
+--------------------------------------------------
+CLIP C058 | 00:07:36.000 -> 00:07:44.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Medium close-up, very slow push-in. Wide anamorphic frame of infinite star field, no foreground objects, pure depth into cosmos. Volumetric dust lanes glow faintly in warm amber and soft gold, scattered points of light emerge from deep indigo backdrop. Camera advances steadily into the field, revealing layers of distant stellar clusters. Warm 4000K palette with golden highlights against rich blue-black space, conveying patient trust and open possibility. Audio: faint telescope servo motor whir. No voice, sound effects only. Cinematic documentary, 24fps, 16:9, 1080p. 8s. Hold 3s after.
+
+NEGATIVE:
+no dark cold visuals, no clinical blues, no foreground clutter, no camera drift, no generic stock footage, no talking heads, no bright harsh lighting
+TIMING: Hold 3s after.
+
+--------------------------------------------------
+CLIP C059 | 00:07:44.000 -> 00:07:52.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Slow push-in, steady glide forward. Single point of light centered in deep space star field, no trajectory markers or overlays visible. Camera advances imperceptibly toward the unmarked dot, surrounding stars drifting outward at frame edges. Deep indigo backdrop, volumetric dust catching faint starlight, 8K HDR rendering infinite depth. The point remains ambiguous, patient, unresolved. Audio: faint radar ping echo. No voice, sound effects only. Cinematic photorealistic NASA documentary, anamorphic lens 2.39:1, 24fps, 16:9. 8s. Hold 2s after.
+
+NEGATIVE:
+camera drift, data overlays, trajectory lines, warm lighting, foreground elements, motion blur, bright colors, generic stock patterns, shallow focus
+TIMING: Hold 2s after.
+
+--------------------------------------------------
+CLIP C060 | 00:07:52.000 -> 00:07:53.510 | 2.0s
+Emotion: ANTICIPATION (low) | Arc: payoff
+
+PROMPT:
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1. Extreme close-up, static hold then slow zoom. Human eye in profile, iris reflecting star field, single bright point of light crosses pupil from left to right. Anamorphic oval bokeh renders reflected stars as horizontal streaks across cornea. Pupil contracts slightly as the point passes center. Deep indigo and black tones, volumetric eyelash shadow, moisture glints on eye surface. Frame holds on the reflection, then fades to black. Audio: eyelid blinking, breath exhale through nose. No voice, sound effects only. Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic 2.39:1, 24fps, 16:9. 2s. Hold 0.49s after.
+
+NEGATIVE:
+no generic stock footage, no camera drift, no bright warm tones, no multiple subjects, no wide shots, no telescopes, no space imagery
+TIMING: Hold 0.49s after.
