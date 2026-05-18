@@ -1,0 +1,760 @@
+============================================================
+VEO 3 RENDER QUEUE - The_welfare_state_didn_t_know_it_was_a_demographic_suicide_machine__Germany_found_out [general]
+Total clips: 72 | Duration: 00:09:33.430
+============================================================
+
+--------------------------------------------------
+CLIP C001 | 00:00:00.000 -> 00:00:08.000 | 8.0s
+Emotion: TRUST (low) | Arc: hook
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium close-up, very slow gentle push-in. Flat cel-shaded 2D: A drawn door with clean inked outline swings open on paper texture, revealing an empty doorway. The door handle is mid-turn, frozen in motion. The frame holds on the threshold—no character visible, just the open space beyond. Neutral warm lighting, soft and even. The scene is drawn with UPA-style simplicity, no depth or shading, just flat color fills and black outlines. Audio: door hinge creaking. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 4s after.
+
+NEGATIVE:
+no 3D geometry, no volumetric lighting, no subsurface scattering, no ambient occlusion, no realistic footage, no live-action, no depth, no shading, no camera drift, no generic stock patterns
+TIMING: Hold 4s after.
+
+--------------------------------------------------
+CLIP C002 | 00:00:08.000 -> 00:00:16.000 | 8.0s
+Emotion: TRUST (low) | Arc: hook
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium close-up, very slow gentle push-in. Flat cel-shaded 2D: A drawn head silhouette in profile on paper texture, clean inked outline. Thought bubbles pop above the head in snappy motion-graphic timing, each containing incomplete sentence fragments: 'A room…', 'A person…', 'Something wrong…'. The bubbles appear in rapid succession, overlapping slightly. The figure's expression is neutral, eyes forward. Neutral warm lighting, flat color fills, no depth. Audio: pen scratching paper, bubble popping sounds. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no 3D geometry, no volumetric lighting, no subsurface scattering, no ambient occlusion, no realistic footage, no live-action, no depth, no shading, no camera drift, no generic stock patterns
+
+--------------------------------------------------
+CLIP C003 | 00:00:16.000 -> 00:00:24.000 | 8.0s
+Emotion: SURPRISE (mid) | Arc: hook
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Wide, fast pull-back. Flat cel-shaded 2D: A drawn scientist figure with exaggerated wide eyes and raised eyebrows stares at a chart on paper texture. The chart shows brain wave patterns that visually resemble AI neural network diagrams—both drawn with clean inked outlines. A highlighted glitch or anomaly on the chart suddenly snaps into focus with a quick zoom. The scientist's posture is rigid, hands frozen mid-gesture. Neutral lighting shifts to a bright burst at the reveal. Audio: paper rustling, sudden electronic beep. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 2s after.
+
+NEGATIVE:
+no 3D geometry, no volumetric lighting, no subsurface scattering, no ambient occlusion, no realistic footage, no live-action, no depth, no shading, no camera drift, no generic stock patterns, no bright warm visual for negative emotion
+TIMING: Hold 2s after.
+
+--------------------------------------------------
+CLIP C004 | 00:00:24.000 -> 00:00:32.000 | 8.0s
+Emotion: TRUST (low) | Arc: hook
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium close-up, very slow gentle push-in. Flat cel-shaded 2D animation on paper texture: drawn brain outline in clean black ink, grid of electrode dots appearing one by one across the cortex surface. Podcast waveform animates as a simple line graph beside the brain, each peak syncing with electrode activation shown as small radiating circles. Sterile clinical white background with faint grid lines. Audio: pen tapping electrode dots onto paper, soft click of each dot placement. No voice, sound effects only. UPA editorial motion graphics style, 24fps, 16:9. 8s. Hold 2.84s after.
+
+NEGATIVE:
+no 3D rendering, no volumetric lighting, no depth, no photorealistic brain tissue, no live-action footage, no ambient room tone, no music, no voice
+TIMING: Hold 2.84s after.
+
+--------------------------------------------------
+CLIP C005 | 00:00:32.000 -> 00:00:40.000 | 8.0s
+Emotion: TRUST (low) | Arc: hook
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium close-up, very slow gentle push-in. Flat cel-shaded 2D: A large question mark icon drawn with clean inked outline on paper texture. The icon pulses once—a single subtle scale-up and scale-down—then holds static. Neutral warm lighting, flat color fill, no depth or shading. The background is plain paper texture. Minimal motion, contemplative stillness. Audio: single soft chime. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 5s after.
+
+NEGATIVE:
+no 3D geometry, no volumetric lighting, no subsurface scattering, no ambient occlusion, no realistic footage, no live-action, no depth, no shading, no camera drift, no generic stock patterns
+TIMING: Hold 5s after.
+
+--------------------------------------------------
+CLIP C006 | 00:00:40.000 -> 00:00:48.000 | 8.0s
+Emotion: TRUST (low) | Arc: hook
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium close-up, very slow gentle push-in. Flat cel-shaded 2D: A drawn brain icon and an AI chip icon side-by-side on paper texture, both with clean inked outlines and flat color fills. An equals sign fades in between them, appearing gradually from transparent to solid. The icons are symmetrical, same size, same visual weight. Neutral warm lighting, no depth or shading. Audio: soft electronic tone fading in. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 2s after.
+
+NEGATIVE:
+no 3D geometry, no volumetric lighting, no subsurface scattering, no ambient occlusion, no realistic footage, no live-action, no depth, no shading, no camera drift, no generic stock patterns
+TIMING: Hold 2s after.
+
+--------------------------------------------------
+CLIP C007 | 00:00:48.000 -> 00:00:56.000 | 8.0s
+Emotion: TRUST (low) | Arc: hook
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium close-up, very slow gentle push-in. Flat cel-shaded 2D: Three horizontal layers stacked vertically on paper texture, each labeled with clean inked text: 'Prediction', 'Layer', 'Probability'. The layers animate in sequence—first layer slides in from left, second from right, third from left—with snappy motion-graphic timing. Each layer is a flat color fill with black outline. Neutral warm lighting, no depth. Audio: three distinct clicks, one per layer. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 1s after.
+
+NEGATIVE:
+no 3D geometry, no volumetric lighting, no subsurface scattering, no ambient occlusion, no realistic footage, no live-action, no depth, no shading, no camera drift, no generic stock patterns
+TIMING: Hold 1s after.
+
+--------------------------------------------------
+CLIP C008 | 00:00:56.000 -> 00:01:04.000 | 8.0s
+Emotion: TRUST (low) | Arc: hook
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium close-up, very slow gentle push-in. Flat cel-shaded 2D infographic: Split-screen composition on paper texture. Left side shows a drawn brain with color-coded regions (warm amber tones). Right side shows an AI model diagram with matching color regions. A dotted line connects the corresponding regions between brain and AI. Clean inked outlines, flat color fills, no depth. The connection line pulses gently. Audio: soft connection tone, line drawing sound. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 3s after.
+
+NEGATIVE:
+no 3D geometry, no volumetric lighting, no subsurface scattering, no ambient occlusion, no realistic footage, no live-action, no depth, no shading, no camera drift, no generic stock patterns
+TIMING: Hold 3s after.
+
+--------------------------------------------------
+CLIP C009 | 00:01:04.000 -> 00:01:12.000 | 8.0s
+Emotion: TRUST (low) | Arc: hook
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium close-up, very slow gentle push-in. Flat cel-shaded 2D animation on paper texture: A drawn question mark flips 180 degrees mid-frame, clean inked outline, exaggerated rotation with snappy motion-graphic timing. Below it, hand-lettered text morphs from 'Can AI think?' to 'Do we?' in bold sans-serif, letters rearranging with satirical snap. Sterile blue-white background, UPA-style flat composition, zero depth, no shading. Audio: paper flipping, pen scratching text. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no 3D geometry, no volumetric lighting, no subsurface scattering, no ambient occlusion, no realistic footage, no live-action, no depth, no camera drift, no generic stock patterns
+
+--------------------------------------------------
+CLIP C010 | 00:01:12.000 -> 00:01:20.000 | 8.0s
+Emotion: TRUST (low) | Arc: hook
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium close-up, very slow gentle push-in. Flat cel-shaded 2D animation on paper texture: Drawn hospital room interior, clean inked outlines, patient silhouette flat on bed, exaggerated grid of electrode dots on head, fluorescent tube lines above casting no shadow. Sterile white walls, clinical blue accents, UPA editorial style, zero depth, static hold. Audio: fluorescent light buzzing, electrode contact clicking. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 2.57s after.
+
+NEGATIVE:
+no 3D geometry, no volumetric lighting, no subsurface scattering, no ambient occlusion, no realistic footage, no live-action, no depth, no camera drift, no generic stock patterns
+TIMING: Hold 2.57s after.
+
+--------------------------------------------------
+CLIP C011 | 00:01:20.000 -> 00:01:28.000 | 8.0s
+Emotion: TRUST (low) | Arc: hook
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium close-up, very slow gentle push-in. Flat cel-shaded 2D animation on paper texture: Same drawn hospital scene, slight camera push-in on electrode grid, clean inked outlines, exaggerated flat-drawn hand enters frame holding earbuds, inserts them into patient's ears with snappy motion-graphic timing. Sterile blue-white palette, UPA style, zero depth, no shading. Audio: earbud insertion click, cable rustling. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no 3D geometry, no volumetric lighting, no subsurface scattering, no ambient occlusion, no realistic footage, no live-action, no depth, no camera drift, no generic stock patterns
+
+--------------------------------------------------
+CLIP C012 | 00:01:28.000 -> 00:01:36.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium shot, very slow static. Flat cel-shaded 2D animation on paper texture: Drawn podcast waveform animates horizontally across screen, clean inked outline, exaggerated peaks and valleys with snappy motion-graphic timing. Data stream lines flow from waveform to simplified brain icon on right, UPA editorial style, sterile blue-white background, zero depth, no shading. Audio: waveform pulsing, data stream beeping. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 3.96s after.
+
+NEGATIVE:
+no 3D geometry, no volumetric lighting, no subsurface scattering, no ambient occlusion, no realistic footage, no live-action, no depth, no camera drift, no generic stock patterns
+TIMING: Hold 3.96s after.
+
+--------------------------------------------------
+CLIP C013 | 00:01:36.000 -> 00:01:44.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium shot, very slow static. Flat cel-shaded 2D animation on paper texture: Drawn journal cover graphic, hand-lettered 'Nature Communications' in bold serif, clean inked outline, exaggerated institutional badge icons (Hebrew University, Princeton, Google logos) arranged in flat composition, UPA editorial style, sterile blue-white palette, zero depth, no shading. Brief hold, then fade. Audio: page turning, paper settling. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 0.86s after.
+
+NEGATIVE:
+no 3D geometry, no volumetric lighting, no subsurface scattering, no ambient occlusion, no realistic footage, no live-action, no depth, no camera drift, no generic stock patterns
+TIMING: Hold 0.86s after.
+
+--------------------------------------------------
+CLIP C014 | 00:01:44.000 -> 00:01:52.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium shot, very slow static. Flat cel-shaded 2D animation on paper texture: Words appear sequentially on horizontal timeline, clean inked text, exaggerated electrode dots light up in sync with each word, snappy motion-graphic timing. Simplified brain diagram on right, UPA editorial style, sterile blue-white palette transitioning to warmer amber tones, zero depth, no shading. Audio: word appearing beep, electrode clicking. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 2.57s after.
+
+NEGATIVE:
+no 3D geometry, no volumetric lighting, no subsurface scattering, no ambient occlusion, no realistic footage, no live-action, no depth, no camera drift, no generic stock patterns
+TIMING: Hold 2.57s after.
+
+--------------------------------------------------
+CLIP C015 | 00:01:52.000 -> 00:02:00.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium shot, very slow static. Flat cel-shaded 2D animation on paper texture: Drawn transcript icon splits into two paths with exaggerated motion-graphic snap—one path toward simplified brain icon, one toward AI chip icon, clean inked outlines, UPA editorial style, warmer amber tones, zero depth, no shading. Audio: paper splitting, path branching whoosh. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 1.32s after.
+
+NEGATIVE:
+no 3D geometry, no volumetric lighting, no subsurface scattering, no ambient occlusion, no realistic footage, no live-action, no depth, no camera drift, no generic stock patterns
+TIMING: Hold 1.32s after.
+
+--------------------------------------------------
+CLIP C016 | 00:02:00.000 -> 00:02:08.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium shot, very slow static. Flat cel-shaded 2D animation on paper texture: Layered diagram animates bottom-to-top, early layers simple geometric shapes, deeper layers complex interlocking patterns, clean inked outlines, exaggerated motion-graphic timing. Brain and AI chip icons side-by-side, synchronized layer progression, UPA editorial style, warmer amber tones, zero depth, no shading. Audio: layer stacking clicks, pattern assembling beeps. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no 3D geometry, no volumetric lighting, no subsurface scattering, no ambient occlusion, no realistic footage, no live-action, no depth, no camera drift, no generic stock patterns
+
+--------------------------------------------------
+CLIP C017 | 00:02:08.000 -> 00:02:16.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium shot, very slow static hold. Flat cel-shaded 2D animation on paper texture: drawn brain diagram with clean inked outlines, Broca's area region highlighted in contrasting amber color, flat shading only. Alignment meter icon beside brain peaks upward with snappy motion-graphic timing. Methodical deliberate pacing. Flat UPA-style editorial infographic, zero depth, no volumetric lighting. cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+3D geometry, volumetric lighting, subsurface scattering, ambient occlusion, realistic footage, live-action, depth, shadows, camera drift, generic stock patterns
+
+--------------------------------------------------
+CLIP C018 | 00:02:16.000 -> 00:02:24.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium shot, very slow dolly forward. Flat cel-shaded 2D animation on paper texture: drawn brain icon and AI chip icon merge into single hybrid symbol at center, clean inked outlines. Three horizontal layers animate simultaneously beneath hybrid icon, each refining the previous with snappy timing. Flat UPA-style editorial motion graphics, zero depth, no 3D rendering. cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+3D geometry, volumetric lighting, subsurface scattering, ambient occlusion, realistic footage, live-action, depth, shadows, camera drift, generic stock patterns, scientist at console
+
+--------------------------------------------------
+CLIP C019 | 00:02:24.000 -> 00:02:32.000 | 8.0s
+Emotion: SURPRISE (low) | Arc: build_up
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium to wide shot, very slow pull-back with crane movement. Flat cel-shaded 2D animation on paper texture: drawn eye icon sees fragmented geometric shapes (incomplete puzzle pieces), brain icon assembles them into coherent form with exaggerated snappy motion. Prediction arrow drawn between eye and brain with clean ink outline. Neutral building color temperature with flash accent on assembly moment. Flat UPA-style editorial infographic, zero depth, no volumetric lighting. cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+3D geometry, volumetric lighting, subsurface scattering, ambient occlusion, realistic footage, live-action, depth, shadows, camera drift, generic stock patterns, bright warm visual
+
+--------------------------------------------------
+CLIP C020 | 00:02:32.000 -> 00:02:40.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium shot, very slow static hold. Flat cel-shaded 2D animation on paper texture: drawn book icon opens at center with clean inked outline, pages flip rapidly with snappy motion-graphic timing. Hand-drawn text 'FREE ENERGY PRINCIPLE' appears in bold inked letters across open pages. Timeline graphic shows '20 YEARS' with year markers. Flat UPA-style editorial infographic, zero depth, no 3D rendering. cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+3D geometry, volumetric lighting, subsurface scattering, ambient occlusion, realistic footage, live-action, depth, shadows, camera drift, generic stock patterns, scientist at desk
+
+--------------------------------------------------
+CLIP C021 | 00:02:40.000 -> 00:02:48.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium shot, very slow static hold. Flat cel-shaded 2D animation on paper texture: large question mark icon appears at center with clean inked outline, flat color fill. Icon pulses once with exaggerated timing. Paper texture visible throughout. Flat UPA-style editorial motion graphics, zero depth, no volumetric lighting. cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+3D geometry, volumetric lighting, subsurface scattering, ambient occlusion, realistic footage, live-action, depth, shadows, camera drift, generic stock patterns
+
+--------------------------------------------------
+CLIP C022 | 00:02:48.000 -> 00:02:56.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium shot, very slow static hold. Flat cel-shaded 2D animation on paper texture: drawn brain diagram at center with mechanical gears inside, flat color shading, clean inked outlines. Single gear rotates once with snappy motion-graphic timing. Flat UPA-style editorial infographic, zero depth, no 3D rendering. cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+3D geometry, volumetric lighting, subsurface scattering, ambient occlusion, realistic footage, live-action, depth, shadows, camera drift, generic stock patterns, scientist observing
+
+--------------------------------------------------
+CLIP C023 | 00:02:56.000 -> 00:03:04.000 | 8.0s
+Emotion: SURPRISE (low) | Arc: build_up
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium to wide shot, very slow pull-back with crane movement. Flat cel-shaded 2D animation on paper texture: three icons appear in sequence with snappy timing—eye icon, hand icon, lightbulb icon—each with clean inked outlines and flat color fills. Prediction arrows connect each to central brain diagram. Neutral building color temperature with flash accent on each icon appearance. Flat UPA-style editorial motion graphics, zero depth, no volumetric lighting. cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+3D geometry, volumetric lighting, subsurface scattering, ambient occlusion, realistic footage, live-action, depth, shadows, camera drift, generic stock patterns
+
+--------------------------------------------------
+CLIP C024 | 00:03:04.000 -> 00:03:12.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium shot, very slow static hold. Flat cel-shaded 2D animation on paper texture: drawn checkmark icon at center pulses once with calm green flat color fill, clean inked outline. Paper texture visible throughout. Flat UPA-style editorial infographic, zero depth, no 3D rendering. cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+3D geometry, volumetric lighting, subsurface scattering, ambient occlusion, realistic footage, live-action, depth, shadows, camera drift, generic stock patterns, dark cold visual
+
+--------------------------------------------------
+CLIP C025 | 00:03:12.000 -> 00:03:20.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium shot, completely static. Flat cel-shaded 2D: A drawn hand with extended index finger, inked outline on paper texture, aims directly at viewer. Finger held steady, no depth, no shading. Clean graphic composition, UPA-style simplicity. Audio: single sharp finger tap on hard surface. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 7s after.
+
+NEGATIVE:
+no 3D geometry, no volumetric lighting, no subsurface scattering, no ambient occlusion, no realistic hands, no photographic elements, no depth of field, no camera movement, no voice, no narration, no music
+TIMING: Hold 7s after.
+
+--------------------------------------------------
+CLIP C026 | 00:03:20.000 -> 00:03:28.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium shot, very slow static. Flat cel-shaded 2D: Phone icon vibrates (drawn motion lines), flat hand reaches toward it, phone outline fades to ghost transparency. Inked outlines on paper texture, exaggerated gesture, no depth. UPA editorial motion graphic timing. Audio: phone buzz vibration, fabric rustle against pocket. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 3s after.
+
+NEGATIVE:
+no 3D phone model, no realistic fabric, no volumetric lighting, no photographic hands, no depth rendering, no ambient room tone, no music, no voice
+TIMING: Hold 3s after.
+
+--------------------------------------------------
+CLIP C027 | 00:03:28.000 -> 00:03:36.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium shot, very slow static. Flat cel-shaded 2D: Three musical notes appear as inked icons, then multiply rapidly across frame in cascading pattern. Flat graphic multiplication, no depth, clean paper texture. Snappy motion-graphic timing, UPA-style. Audio: three ascending piano notes C-E-G. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no 3D notes, no volumetric lighting, no realistic instruments, no depth of field, no ambient wash, no background music, no voice, no room tone
+
+--------------------------------------------------
+CLIP C028 | 00:03:36.000 -> 00:03:44.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium shot, very slow static. Flat cel-shaded 2D: Door swings open (inked arc), silhouette figure appears suddenly in doorway, exaggerated surprise pose with raised arms and wide stance. Flat shapes, no depth, paper texture. Satirical over-the-top expression, UPA character design. Audio: door creak hinge, sharp inhale gasp. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 1s after.
+
+NEGATIVE:
+no 3D geometry, no realistic lighting, no volumetric fog, no photographic figures, no depth rendering, no ambient room tone, no music, no voice
+TIMING: Hold 1s after.
+
+--------------------------------------------------
+CLIP C029 | 00:03:44.000 -> 00:03:52.000 | 8.0s
+Emotion: TRUST (low) | Arc: build_up
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium shot, very slow static. Flat cel-shaded 2D: The word 'METAPHOR' appears in bold inked letters on paper texture, then bold X scratches across it in single decisive stroke. Flat graphic, no depth, clean editorial style. Audio: pen scratching X across paper. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 6s after.
+
+NEGATIVE:
+no 3D text, no volumetric lighting, no realistic pen, no depth of field, no ambient room tone, no music, no voice, no background sounds
+TIMING: Hold 6s after.
+
+--------------------------------------------------
+CLIP C030 | 00:03:52.000 -> 00:04:00.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium shot, completely static. Flat cel-shaded 2D: Three arrows in cycle (predict → compare → update) loop continuously, inked outlines on paper texture. Flat graphic cycle, no depth, clean motion-graphic timing. UPA-style infographic. Audio: three soft clicks repeating in rhythm. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no 3D arrows, no volumetric lighting, no depth rendering, no realistic materials, no ambient room tone, no music, no voice, no background hum
+
+--------------------------------------------------
+CLIP C031 | 00:04:00.000 -> 00:04:08.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium shot, completely static. Flat cel-shaded 2D: Brain icon morphs into heart icon via flat transformation, inked outlines on paper texture. Clean shape-tween, no depth, UPA editorial style. Teal accent on icons. Audio: single whoosh transition sound. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 3s after.
+
+NEGATIVE:
+no 3D geometry, no volumetric lighting, no realistic organs, no depth rendering, no ambient room tone, no music, no voice, no background sounds
+TIMING: Hold 3s after.
+
+--------------------------------------------------
+CLIP C032 | 00:04:08.000 -> 00:04:16.000 | 8.0s
+Emotion: ANTICIPATION (low) | Arc: deep
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium close-up, very slow creeping push-in. Flat cel-shaded 2D: Question mark floats between brain icon and heart icon, both drawn flat with inked outlines on paper texture. Amber accent, dramatic side lighting effect (drawn as flat gradient). No depth, UPA-style. Audio: pen tapping twice on desk. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 2s after.
+
+NEGATIVE:
+no 3D geometry, no volumetric lighting, no realistic materials, no depth of field, no ambient room tone, no music, no voice, no background sounds
+TIMING: Hold 2s after.
+
+--------------------------------------------------
+CLIP C033 | 00:04:16.000 -> 00:04:24.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium shot, completely static. Flat cel-shaded 2D animation on paper texture: a drawn brain icon and a drawn heart icon slide together and merge into a single unified shape, clean inked outlines, flat teal and white colors, no depth or shading, UPA editorial style. The merged icon holds centered on cream paper background. Desaturated neutral palette, 3700K teal accent. Cinematic documentary, 24fps, 16:9.
+
+NEGATIVE:
+no 3D geometry, no volumetric lighting, no subsurface scattering, no ambient occlusion, no realistic rendering, no photographic elements, no depth, no shadows, no gradients, no camera drift
+
+--------------------------------------------------
+CLIP C034 | 00:04:24.000 -> 00:04:32.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium shot, completely static. Flat cel-shaded 2D animation on paper texture: the unified brain-heart icon from previous shot holds perfectly still, centered on cream paper, clean black ink outline, flat teal fill, no movement, long contemplative hold. Desaturated neutral palette, 3700K teal accent. UPA editorial motion graphics style, no depth. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no 3D geometry, no volumetric lighting, no camera movement, no depth, no shadows, no realistic elements, no photographic footage, no gradients, no ambient occlusion
+
+--------------------------------------------------
+CLIP C035 | 00:04:32.000 -> 00:04:40.000 | 8.0s
+Emotion: FEAR (low) | Arc: deep
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Close-up, slow creeping push-in. Flat cel-shaded 2D animation on paper texture: drawn checkmark icon and drawn smiley face icon align side-by-side, both clean inked outlines, flat colors. As camera slowly pushes in, the icons begin to tremble slightly, then a drawn X mark and frowning face appear below, misaligned and shaking. Harsh contrast, 2700K warm tone with red accent. UPA satirical style, exaggerated expressions, snappy motion-graphic timing. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no 3D geometry, no volumetric lighting, no subsurface scattering, no depth, no realistic rendering, no photographic elements, no smooth gradients, no ambient occlusion, no bright warm visuals
+
+--------------------------------------------------
+CLIP C036 | 00:04:40.000 -> 00:04:48.000 | 8.0s
+Emotion: SADNESS (low) | Arc: deep
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Close-up, static with gentle pull-back at 70% mark. Flat cel-shaded 2D animation on paper texture: drawn X mark and sad face icon, misaligned, floating separately on muted cream paper, clean black ink outlines, no fill colors—just outlines. The icons drift very slightly apart as camera gently pulls back. Low key overcast lighting, 3000K very muted, no color accent. UPA editorial style, minimal motion. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no 3D geometry, no volumetric lighting, no depth, no shadows, no realistic rendering, no photographic elements, no bright colors, no ambient occlusion, no warm visuals for negative emotion
+
+--------------------------------------------------
+CLIP C037 | 00:04:48.000 -> 00:04:56.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium shot, completely static. Flat cel-shaded 2D animation on paper texture: two drawn stick figures side-by-side, clean inked outlines. The left figure remains solid black ink, while the right figure slowly fades to a dotted outline, then to barely visible, leaving only the solid figure. Desaturated neutral palette, 3700K teal accent. UPA editorial style, simple clean lines on cream paper. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no 3D geometry, no volumetric lighting, no depth, no shadows, no realistic rendering, no photographic elements, no gradients, no ambient occlusion
+
+--------------------------------------------------
+CLIP C038 | 00:04:56.000 -> 00:05:04.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium shot, completely static. Flat cel-shaded 2D animation on paper texture: drawn mug icon appears centered, clean black ink outline, flat white fill. A dotted outline of a stick figure materializes beside the mug, then fades out, then reappears faintly, cycling. Desaturated neutral palette, 3700K teal accent. UPA editorial style, simple shapes on cream paper. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no 3D geometry, no volumetric lighting, no depth, no shadows, no realistic rendering, no photographic elements, no gradients, no ambient occlusion
+
+--------------------------------------------------
+CLIP C039 | 00:05:04.000 -> 00:05:12.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium shot, completely static. Flat cel-shaded 2D animation on paper texture: drawn kitchen icon—simple table and mug, clean black ink outlines, flat colors, no figures present. The scene holds completely still on cream paper background, long contemplative hold. Desaturated neutral palette, 3700K teal accent. UPA editorial style, minimal elements. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no 3D geometry, no volumetric lighting, no depth, no shadows, no realistic rendering, no photographic elements, no gradients, no ambient occlusion, no movement
+
+--------------------------------------------------
+CLIP C040 | 00:05:12.000 -> 00:05:20.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium shot, completely static. Flat cel-shaded 2D animation on paper texture: drawn bed icon, simple rectangular frame with pillow, clean black ink outline. A dotted outline of a stick figure appears on the right side of the bed with exaggerated snappy timing, holds for one second, then vanishes abruptly. The empty bed remains. Desaturated neutral palette, 3700K teal accent. UPA editorial style, satirical exaggerated motion-graphic timing. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no 3D geometry, no volumetric lighting, no depth, no shadows, no realistic rendering, no photographic elements, no gradients, no ambient occlusion
+
+--------------------------------------------------
+CLIP C041 | 00:05:20.000 -> 00:05:28.000 | 8.0s
+Emotion: SADNESS (low) | Arc: deep
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Close-up, very slow static hold. Flat cel-shaded 2D animation on paper texture: the word 'GRIEF' hand-inked in bold capitals dissolves stroke by stroke into a cascade of stacked prediction arrows, each arrow fragmenting downward. Clean black outlines, no depth, no shading. Desaturated neutral palette—pale grays and muted off-whites. The arrows do not resolve; they hang mid-collapse, incomplete. Audio: pen scratching paper, ink bleeding into fibers. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no 3D geometry, no volumetric lighting, no subsurface scattering, no ambient occlusion, no photorealistic rendering, no depth cues, no gradient shading, no warm colors, no bright lighting, no resolution or completion of visual action
+
+--------------------------------------------------
+CLIP C042 | 00:05:28.000 -> 00:05:36.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium shot, completely static. Flat cel-shaded 2D infographic on paper texture: two overlapping circles drawn in clean ink—left circle labeled 'REAL' in sans-serif caps, right circle labeled 'PREDICTED', intersection shaded with flat teal hatch marks. No depth, no gradient. Authoritative teal accent against neutral gray-white background. The circles do not animate; they exist as a stable diagram. Audio: ruler sliding across paper, compass point scratching circle. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 3s after.
+
+NEGATIVE:
+no 3D objects, no lighting effects, no depth, no animation of circles, no warm tones, no emotional coloring, no movement, no photorealism
+TIMING:  Hold 3s after.
+
+--------------------------------------------------
+CLIP C043 | 00:05:36.000 -> 00:05:44.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium shot, completely static. Flat cel-shaded 2D on paper: a bold arrow icon in black ink pointing left toward a simplified brain diagram (outline only, no detail). The arrow snaps into frame with a single motion-graphic pop, then holds. Clean inked outlines, flat teal accent on arrow tip, neutral gray background. No depth, no shading. Audio: paper snap, arrow stamping onto surface. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 5s after.
+
+NEGATIVE:
+no 3D rendering, no volumetric effects, no photorealistic brain, no gradient shading, no ambient lighting, no depth, no continuous motion
+TIMING:  Hold 5s after.
+
+--------------------------------------------------
+CLIP C044 | 00:05:44.000 -> 00:05:52.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium shot, completely static. Flat cel-shaded 2D split-screen on paper texture: left half shows a simplified brain cross-section with three horizontal layers, each layer labeled with a small prediction arrow pointing right. Right half shows a neural network diagram with three stacked nodes, each node with a prediction arrow pointing right. Both diagrams drawn in clean black ink, flat teal accents on arrows, no depth, no shading. Audio: pen tapping paper twice, ruler sliding. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no 3D models, no realistic brain tissue, no volumetric lighting, no gradient shading, no depth cues, no photorealism, no animation of arrows
+
+--------------------------------------------------
+CLIP C045 | 00:05:52.000 -> 00:06:00.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium shot, completely static. Flat cel-shaded 2D on paper: a bold exclamation mark icon in black ink pulses once—scales up 10% then snaps back to original size in a single motion-graphic beat. Clean outline, flat teal accent at the base, neutral gray background, no depth, no shading. The icon holds after the pulse. Audio: single sharp tap on desk, paper rustling once. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 6s after.
+
+NEGATIVE:
+no 3D geometry, no lighting effects, no continuous animation, no gradient, no depth, no photorealism, no warm colors
+TIMING:  Hold 6s after.
+
+--------------------------------------------------
+CLIP C046 | 00:06:00.000 -> 00:06:08.000 | 8.0s
+Emotion: ANTICIPATION (low) | Arc: deep
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium close-up, very slow creeping push-in. Flat cel-shaded 2D on paper: two separate horizontal timelines drawn in black ink—top timeline shows a brain icon evolving through three stages (simple to complex outline), bottom timeline shows a laptop icon with code brackets appearing in stages. The timelines do not connect; a visible gap remains between them. Amber accent on timeline markers, desaturated neutral background. Audio: keyboard clicking slowly, pen scratching intermittently. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no 3D rendering, no volumetric lighting, no photorealistic elements, no depth, no gradient shading, no connection between timelines, no resolution
+
+--------------------------------------------------
+CLIP C047 | 00:06:08.000 -> 00:06:16.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium shot, completely static. Flat cel-shaded 2D on paper: brain diagram (left) and AI network diagram (right) drift toward the center of frame in slow motion, closing the gap but not yet touching. Both drawn in clean black ink, flat teal accents, no depth, no shading. The diagrams stop just before contact, leaving a thin vertical gap. Audio: paper sliding slowly across table, soft friction. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+no 3D models, no lighting effects, no depth cues, no gradient shading, no photorealism, no contact between diagrams, no resolution
+
+--------------------------------------------------
+CLIP C048 | 00:06:16.000 -> 00:06:24.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium shot, completely static. Flat cel-shaded 2D on paper: brain diagram and AI network diagram now overlap slightly at center, with a shared middle layer highlighted in contrasting flat amber. The overlapping region is shaded with simple hatch marks, no gradient. Clean black ink outlines, teal and amber accents, neutral gray background, no depth. Audio: two sheets of paper sliding together, single tap. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 4s after.
+
+NEGATIVE:
+no 3D geometry, no volumetric lighting, no photorealistic rendering, no depth, no gradient shading, no continuous animation, no warm emotional coloring beyond accent
+TIMING:  Hold 4s after.
+
+--------------------------------------------------
+CLIP C049 | 00:06:24.000 -> 00:06:32.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium shot, completely static. Flat cel-shaded 2D animation on paper texture: two parallel flowcharts drawn in clean ink—left side shows organic branching tree with DNA helix motif labeled 'NATURAL SELECTION', right side shows geometric grid with gradient arrows labeled 'GRADIENT DESCENT'. Both converge at bottom into identical layered network diagram. Desaturated teal and amber on cream paper. UPA editorial style, zero depth, no volumetric lighting. Audio: pen scratching paper, ruler sliding across surface. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 1.57s after.
+
+NEGATIVE:
+3D geometry, volumetric lighting, subsurface scattering, ambient occlusion, realistic footage, live-action, photographic elements, depth of field, camera movement, warm bright colors, dark cold tones
+TIMING: Hold 1.57s after.
+
+--------------------------------------------------
+CLIP C050 | 00:06:32.000 -> 00:06:40.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium shot, completely static. Flat 2D cel animation on paper: the two separate diagrams from previous frame now merge into single unified network structure at center, drawn with bold ink outlines. Brain icon and circuit icon dissolve into identical layered node diagram. Flat teal and amber on cream paper texture, clean UPA style, no shadows or depth. Audio: two sheets of paper sliding together, single tap on desk. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 4.42s after.
+
+NEGATIVE:
+3D rendering, realistic lighting, photographic elements, depth cues, gradient shading, volumetric effects, live-action, camera drift, warm bright palette for negative emotion
+TIMING: Hold 4.42s after.
+
+--------------------------------------------------
+CLIP C051 | 00:06:40.000 -> 00:06:48.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium shot, completely static. Flat 2D infographic on paper texture: large equals sign appears center frame between brain diagram (left) and AI network diagram (right), both now structurally identical. Inked outlines, flat cel-shaded style, desaturated teal and amber on cream. Below, small text labels: 'PROBLEM: REALITY' with three descriptors—'NOISY', 'AMBIGUOUS', 'INCOMPLETE'—each word appearing sequentially as if typed. UPA editorial motion graphics, zero depth. Audio: typewriter keys clicking, paper rustling. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+3D models, realistic rendering, photographic footage, depth of field, volumetric lighting, subsurface scattering, live-action characters, camera movement, bright warm visuals
+
+--------------------------------------------------
+CLIP C052 | 00:06:48.000 -> 00:06:56.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium shot, completely static. Flat 2D split-screen on paper: left half shows brain diagram with arrow pointing down to label 'SURVIVAL' in bold ink, right half shows AI network with arrow pointing to 'COMPLETION'. Both diagrams emit identical prediction arrows radiating outward in flat geometric pattern. Cel-shaded UPA style, clean outlines, desaturated teal and amber on cream paper texture, no depth or lighting effects. Audio: pen underlining text twice, paper tapping desk. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 3.46s after.
+
+NEGATIVE:
+3D geometry, realistic lighting, photographic elements, volumetric effects, ambient occlusion, live-action, camera drift, depth cues, warm bright palette
+TIMING: Hold 3.46s after.
+
+--------------------------------------------------
+CLIP C053 | 00:06:56.000 -> 00:07:04.000 | 8.0s
+Emotion: ANTICIPATION (low) | Arc: deep
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium close-up, very slow creeping push-in. Flat cel-shaded 2D animation on paper texture: the word 'THINKING' drawn in bold ink at center frame, surrounded by a dotted outline that flickers and shifts—sometimes solid, sometimes broken. Around the word, small hand-drawn icons orbit slowly: a brain, a circuit, a speech bubble, a gear—all rendered in simple black line art with amber accents. The dotted outline suggests the word's meaning is unstable, undefined. UPA-style editorial motion graphics, no volumetric effects, pure flat composition. The visual asks the question without answering it, creating an open loop. Audio: chalk on blackboard, soft erasing sound. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 2.84s after.
+
+NEGATIVE:
+
+TIMING: Hold 0.51s after.
+
+--------------------------------------------------
+CLIP C054 | 00:07:04.000 -> 00:07:12.000 | 8.0s
+Emotion: ANTICIPATION (low) | Arc: deep
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium close-up, very slow creeping push-in. Flat cel-shaded 2D animation on paper texture: the word 'THINKING' drawn in bold ink at center frame, surrounded by a dotted outline that flickers and shifts—sometimes solid, sometimes broken. Around the word, small hand-drawn icons orbit slowly: a brain, a circuit, a speech bubble, a gear—all rendered in simple black line art with amber accents. The dotted outline suggests the word's meaning is unstable, undefined. UPA-style editorial motion graphics, no volumetric effects, pure flat composition. The visual asks the question without answering it, creating an open loop. Audio: chalk on blackboard, soft erasing sound. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 2.84s after.
+
+NEGATIVE:
+no 3D rendering, no depth, no volumetric lighting, no photorealistic brain scans, no talking heads, no generic lab footage, no subsurface scattering, no ambient occlusion, no camera drift
+TIMING: Hold 2.84s after.
+
+--------------------------------------------------
+CLIP C055 | 00:07:12.000 -> 00:07:20.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium shot, completely static. Flat 2D cel animation on paper: the word 'THINKING' remains center frame, now with a small halo icon above it that fades out over 3 seconds, leaving only the word in solid ink. Below, an arrow points down to the word 'COMPUTATION' in bold. Desaturated teal and amber on cream paper, clean UPA outlines, zero depth. Audio: eraser rubbing paper, pen drawing single arrow stroke. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 2.4s after.
+
+NEGATIVE:
+3D geometry, realistic lighting, photographic footage, volumetric effects, depth of field, live-action, camera drift, warm bright visuals, dark cold tones
+TIMING: Hold 2.4s after.
+
+--------------------------------------------------
+CLIP C056 | 00:07:20.000 -> 00:07:28.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium shot, completely static. Flat 2D infographic on paper: two labeled boxes side by side—left box contains 'CONSCIOUSNESS' with bold red X mark, right box contains 'LANGUAGE' with green checkmark. Both drawn in clean ink, flat cel-shaded style, desaturated teal and amber on cream paper texture. UPA editorial motion graphics, zero depth, no lighting effects. Audio: pen drawing X mark, pen drawing checkmark, paper tapping desk. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 3.08s after.
+
+NEGATIVE:
+3D rendering, volumetric lighting, photographic realism, depth cues, subsurface scattering, ambient occlusion, live-action, camera movement, bright warm palette
+TIMING: Hold 3.08s after.
+
+--------------------------------------------------
+CLIP C057 | 00:07:28.000 -> 00:07:36.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium close-up, slow confirming push-in. Flat cel-shaded 2D infographic animation on paper texture. Three hand-drawn icons appear in sequence: heart outline, cloud outline, eye outline. Each pops in with snappy motion-graphic timing. Simple inked outlines, flat colors, zero depth. Warm 4000K lighting. UPA-style editorial motion graphics. Audio: three pen taps on paper, soft exhale. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 2s after.
+
+NEGATIVE:
+
+
+--------------------------------------------------
+CLIP C058 | 00:07:36.000 -> 00:07:44.000 | 8.0s
+Emotion: TRUST (low) | Arc: deep
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium shot, completely static. Flat cel-shaded 2D infographic animation on paper texture: three hand-drawn icons in clean inked outlines—a speech bubble labeled 'meaning,' a connecting line labeled 'context,' and a lightbulb labeled 'prediction'—arranged in a simple flowchart. Each icon has a checkmark appearing beside it in sequence. Flat colors, no depth, no shading. The composition is centered, symmetrical, and stable. UPA-style editorial motion graphics. Audio: pen scratching paper, checkmark tapping. No voice, sound effects only. cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+3D geometry, volumetric lighting, subsurface scattering, ambient occlusion, realistic rendering, photographic footage, depth of field, camera drift, live-action, dimensional space
+
+--------------------------------------------------
+CLIP C059 | 00:07:44.000 -> 00:07:52.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium close-up, slow confirming push-in. Flat cel-shaded 2D infographic on paper texture: two hand-drawn icons—a simplified brain outline on the left and a circuit-chip outline on the right—separated by a vertical gap drawn as a thick black line. The gap shrinks smoothly to a hairline, then holds. Clean inked outlines, flat teal and warm amber accents, no depth. UPA-style motion graphics. Audio: ruler sliding on paper, pencil line drawing. No voice, sound effects only. cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+3D geometry, volumetric lighting, subsurface scattering, ambient occlusion, realistic rendering, photographic footage, depth of field, camera drift, live-action, dimensional space
+
+--------------------------------------------------
+CLIP C060 | 00:07:52.000 -> 00:08:00.000 | 8.0s
+Emotion: SURPRISE (low) | Arc: payoff
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Epic wide, ascending crane final. Flat cel-shaded 2D infographic on paper texture: a large hand-drawn mirror icon centered on screen, with a simplified brain outline on the left side and a circuit-chip outline on the right, perfectly symmetrical. The mirror line is a bold vertical stroke. Flat colors, clean inked outlines, no depth. The composition is balanced and held static after the slow crane rise. UPA-style editorial motion graphics. Audio: paper unfolding, single bell chime. No voice, sound effects only. cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+3D geometry, volumetric lighting, subsurface scattering, ambient occlusion, realistic rendering, photographic footage, depth of field, camera drift, live-action, dimensional space
+
+--------------------------------------------------
+CLIP C061 | 00:08:00.000 -> 00:08:08.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium close-up, slow confirming push-in. Flat cel-shaded 2D infographic on paper texture: the word 'LANGUAGE' hand-drawn in bold ink, centered on screen. The letters are thick, clean, and static. Paper texture visible, flat colors, no depth. UPA-style editorial motion graphics. Audio: pen scratching paper, ink drying hiss. No voice, sound effects only. cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+3D geometry, volumetric lighting, subsurface scattering, ambient occlusion, realistic rendering, photographic footage, depth of field, camera drift, live-action, dimensional space
+
+--------------------------------------------------
+CLIP C062 | 00:08:08.000 -> 00:08:16.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium close-up, slow confirming push-in. Flat cel-shaded 2D infographic on paper texture: two side-by-side diagrams—a simplified brain outline on the left and a circuit-chip outline on the right—each with identical arrow patterns overlaid in clean inked lines. The arrows flow in the same direction and rhythm. Flat colors, no depth, UPA-style motion graphics. Audio: pen drawing arrows, paper rustling. No voice, sound effects only. cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+3D geometry, volumetric lighting, subsurface scattering, ambient occlusion, realistic rendering, photographic footage, depth of field, camera drift, live-action, dimensional space
+
+--------------------------------------------------
+CLIP C063 | 00:08:16.000 -> 00:08:24.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium close-up, slow confirming push-in. Flat cel-shaded 2D infographic on paper texture: a flat platform labeled 'UNIQUENESS' in bold ink, centered on screen. A vertical crack appears down the middle, and the two halves tilt apart in snappy motion-graphic timing. Clean inked outlines, flat colors, no depth. UPA-style editorial motion graphics. Audio: paper tearing, platform creaking. No voice, sound effects only. cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+3D geometry, volumetric lighting, subsurface scattering, ambient occlusion, realistic rendering, photographic footage, depth of field, camera drift, live-action, dimensional space
+
+--------------------------------------------------
+CLIP C064 | 00:08:24.000 -> 00:08:32.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium close-up, slow confirming push-in. Flat cel-shaded 2D infographic on paper texture: three hand-drawn icons appear in sequence—a heart outline, a cloud outline, and an eye outline—each in clean inked lines. They appear left to right with snappy motion-graphic timing. Flat colors, no depth, UPA-style editorial motion graphics. Audio: pen tapping paper three times, ink scratching. No voice, sound effects only. cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+3D geometry, volumetric lighting, subsurface scattering, ambient occlusion, realistic rendering, photographic footage, depth of field, camera drift, live-action, dimensional space
+
+--------------------------------------------------
+CLIP C065 | 00:08:32.000 -> 00:08:40.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium close-up, very slow push-in. Flat cel-shaded 2D: A drawn calendar on paper texture, pages flipping backward in snappy motion-graphic timing. Bold inked numbers blur past—2024, 2020, 2015—until the flip stops sharply on a page reading '2005' in thick black ink. Clean outlines, no depth, UPA-style editorial animation. Desaturated neutral tones, paper grain visible. Audio: paper pages flipping rapidly, single page slap. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s.
+
+NEGATIVE:
+3D geometry, volumetric lighting, subsurface scattering, ambient occlusion, realistic footage, live-action, photorealistic rendering, depth of field, camera drift
+
+--------------------------------------------------
+CLIP C066 | 00:08:40.000 -> 00:08:48.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium close-up, very slow confirming push-in. Flat 2D infographic: The word 'ASSUMPTION' drawn in bold ink on paper texture. A flat eraser icon swipes horizontally across the word once, leaving a smudged trail. The letters fade to faint gray, then disappear entirely. Clean cel-shaded style, no shadows, no depth. Desaturated neutral palette. Long hold on empty space after erasure. Audio: eraser rubbing paper once, faint graphite smudge. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 6.87s after.
+
+NEGATIVE:
+3D objects, realistic textures, volumetric effects, depth cues, live-action, photographic realism, ambient occlusion, dramatic lighting
+TIMING: Hold 6.87s after.
+
+--------------------------------------------------
+CLIP C067 | 00:08:48.000 -> 00:08:56.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium close-up, very slow push-in. Flat 2D: A neat stack of paper sheets drawn with clean ink outlines on paper texture. The top sheet slides off-screen left in slow, deliberate motion. Minimal movement, long static hold on the remaining stack. Cel-shaded, no shadows, no depth. Desaturated neutral tones, paper grain visible. Audio: single paper sheet sliding off stack. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 1.2s after.
+
+NEGATIVE:
+3D rendering, realistic paper physics, volumetric lighting, depth of field, live-action, photorealistic textures, ambient occlusion
+TIMING: Hold 1.2s after.
+
+--------------------------------------------------
+CLIP C068 | 00:08:56.000 -> 00:09:04.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium close-up, very slow push-in. Flat 2D infographic: A single journal page icon—simple rectangle with horizontal lines—floats centered on paper texture. A small ripple effect (concentric inked circles) emanates once from the page, expands outward, then fades. Clean cel-shaded style, no depth, UPA editorial animation. Desaturated neutral palette. Long hold after ripple dissipates. Audio: single water droplet hitting surface, faint ripple. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 0.4s after.
+
+NEGATIVE:
+3D geometry, realistic water simulation, volumetric effects, depth cues, live-action, photographic realism, ambient occlusion
+TIMING: Hold 0.4s after.
+
+--------------------------------------------------
+CLIP C069 | 00:09:04.000 -> 00:09:12.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium close-up, very slow confirming push-in. Flat 2D infographic: An electrode grid (simple drawn circles connected by lines) and a layered model diagram (stacked rectangles) pulse alternately in snappy motion-graphic timing. Clean ink outlines, no depth, cel-shaded. Desaturated neutral tones, paper texture visible. The two diagrams sit side-by-side, pulsing in sync, then offset. Audio: two soft electronic beeps alternating. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 0.21s after.
+
+NEGATIVE:
+3D models, volumetric lighting, realistic electronics, depth of field, live-action, photorealistic rendering, ambient occlusion
+TIMING: Hold 0.21s after.
+
+--------------------------------------------------
+CLIP C070 | 00:09:12.000 -> 00:09:20.000 | 8.0s
+Emotion: ANTICIPATION (low) | Arc: payoff
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Tight then reveal, very slow creep then sudden pull-back. Flat 2D: Two arrows drawn in bold ink on paper texture—one labeled 'WORD' in sans-serif, one labeled 'MOMENT'—move forward in parallel, snappy motion-graphic timing. They advance in sync, then the camera pulls back to reveal both arrows pointing toward the same vanishing point. Cel-shaded, no depth, UPA-style. Desaturated neutrals with release gold accent on arrow tips. Audio: two pen strokes on paper in quick succession. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 2.6s after.
+
+NEGATIVE:
+3D geometry, volumetric lighting, realistic motion blur, depth of field, live-action, photorealistic rendering, ambient occlusion
+TIMING: Hold 2.6s after.
+
+--------------------------------------------------
+CLIP C071 | 00:09:20.000 -> 00:09:28.000 | 8.0s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium close-up, very slow confirming push-in. Flat 2D: A vertical inked line bisects the frame on paper texture. Labels 'HUMAN' and 'MACHINE' in bold sans-serif sit on either side. The line wavers slightly—hand-drawn wobble—then stabilizes. Clean cel-shaded outlines, no depth, UPA editorial style. Desaturated neutral palette. Long hold on the wavering line. Audio: pen drawing single vertical line on paper, faint wobble scrape. No voice, sound effects only. Cinematic documentary, 24fps, 16:9. 8s. Hold 0.62s after.
+
+NEGATIVE:
+3D geometry, volumetric lighting, realistic textures, depth of field, live-action, photorealistic rendering, ambient occlusion
+TIMING: Hold 0.62s after.
+
+--------------------------------------------------
+CLIP C072 | 00:09:28.000 -> 00:09:33.430 | 5.43s
+Emotion: TRUST (low) | Arc: payoff
+
+PROMPT:
+Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.. Medium close-up, very slow confirming push-in. Flat cel-shaded 2D: A hand-drawn vertical dashed line labeled 'boundary' floats in white paper-textured space, shoulders relaxed, calm expression. The line gently dissolves into scattered dots that fade to transparency, leaving only floating labels 'human' and 'machine' with no divider between them. Warm amber wash on paper texture, quiet focused atmosphere. Cinematic documentary, 24fps, 16:9. 5.43s. Hold 2.25s after.
+
+NEGATIVE:
+no 3D geometry, no volumetric lighting, no subsurface scattering, no ambient occlusion, no realistic footage, no live-action, no depth, no camera drift, no generic stock patterns
+TIMING: Hold 2.25s after.
