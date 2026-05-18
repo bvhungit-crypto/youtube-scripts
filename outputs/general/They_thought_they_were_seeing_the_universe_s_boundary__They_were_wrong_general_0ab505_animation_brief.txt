@@ -1,0 +1,1273 @@
+════════════════════════════════════════════════════════════════
+[CHARACTERS Description]
+════════════════════════════════════════════════════════════════
+
+PROJECT: They_thought_they_were_seeing_the_universe_s_boundary__They_were_wrong
+
+RATIO: 16:9
+
+--------------------------------------------------
+STYLE (DETAILED - MANDATORY):
+
+- Style Directive: Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1
+
+- Medium: Live-action / Cinematic
+
+- Visual Style:
+  - Photorealistic textures with accurate material response
+  - Observational documentary framing — restrained and credible
+  - Cinematic composition with depth and motivated framing
+  - Anamorphic 2.39:1 framing language adapted to delivery ratio
+  - 8K capture-grade detail with deep blacks and clean highlights
+  - HDR contrast — preserved highlights, nuanced shadows
+
+- Character Design:
+  Semi-realistic figures
+
+- Materials & Textures:
+  [e.g. Flat colors only / Cel-shaded with soft shadow / Painterly with visible brushwork]
+
+- Lighting:
+  Volumetric lighting with visible light shafts
+
+- Color Palette:
+  [Define color roles — e.g. Red = danger, Yellow = energy, Blue = calm, Black outline for clarity]
+
+- Rendering Quality:
+  [e.g. Crisp, clean, high-definition / Slightly grainy retro / Hyper-smooth anime-style]
+
+- Motion Feel:
+  [e.g. Smooth action-driven / Bouncy exaggerated / Slow cinematic / Snappy cut-driven]
+
+- Overall Impression:
+  [One paragraph — what should viewers FEEL when watching? What is the visual "brand" of this project?]
+
+--------------------------------------------------
+TONE:
+[Overall emotional register — e.g. High tension, urgent, dramatic / Dark comedic, absurdist / Warm and nostalgic / Energetic and hype]
+[Detected dominant emotion (auto, for reference): Trust]
+
+--------------------------------------------------
+RENDERING RULES:
+
+- [Rule 1 — e.g. NO TEXT, NO LETTERS, NO SYMBOLIC WORDS in any scene]
+- [Rule 2 — e.g. Story must be conveyed entirely through visuals and expressions]
+- [Rule 3 — e.g. Each scene must have a clear visual conflict or action beat]
+- [Rule 4 — e.g. Only include characters explicitly required in each scene]
+- [Rule 5 — e.g. No background crowd, no unnecessary props]
+- [Add more rules as needed]
+
+--------------------------------------------------
+CHARACTERS (LOCKED):
+
+- Character 1: Surveyor
+  [Physical description — face shape, skin tone, eye style — fill in]
+  [Hair — color #HEX, length, style — fill in]
+  [Default outfit — top, bottom, shoes, accessories — fill in]
+  [Signature trait — what makes them instantly recognizable — fill in]
+  [Expression range — what emotions they show most — fill in]
+
+- [Add unnamed characters (narrator, crowd, etc.) here if needed]
+
+--------------------------------------------------
+ENVIRONMENT (GLOBAL):
+
+[Default background / world setting for the entire project]
+[e.g. Minimal clean background, soft gradient sky / Neon-lit urban rooftop / Pastel fantasy kingdom]
+[Note: individual scenes can override this with their own ENVIRONMENT field]
+
+[Detected scene environments (auto, for reference):]
+  - Deep space environment, infinite black void punctuated by distant stars, cool indigo atmosphere halo around Earth's limb
+  - Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting
+  - Digital radar display screen showing asteroid designation '2026 JH2' in crisp white text, size parameters '52-114 ft' resolving character by character, velocity readout '19,417 mph' flickering into focus
+  - Soft 3-point lighting defining edges, 3800K neutral warm temperature
+  - Warm sunlight grazes Earth's atmosphere, volumetric haze softening the limb
+  - Planetarium dome environment, stars projected across curved ceiling, cool silver-blue ambient wash
+  - Deep space environment, infinite black expanse, distant stars forming faint Milky Way band
+  - Clean modern NASA facility with brushed aluminum surfaces catching 3800K tungsten light, everything orderly and calm
+  - HDR edge definition renders each data point with documentary precision against deep space backdrop
+  - Consistent even 3800K lighting, clinical documentary clarity
+  - Sterile mission control aesthetic, even 3800K lighting, no shadows
+  - Volumetric light streams through high windows, casting amber-tinted rays through floating dust particles, warm documentary atmosphere
+
+--------------------------------------------------
+GOAL:
+[Optional — one sentence stating the visual storytelling goal of the entire video]
+[e.g. "Make the audience feel the tension of nuclear deterrence without using any text or narration"]
+
+════════════════════════════════════════════════════════════════
+[END CHARACTERS Description]
+════════════════════════════════════════════════════════════════
+
+
+════════════════════════════════════════════════════════════════
+SCENE PROMPTS
+════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────
+🎬 SCENE 01: Trust — Hook [00:00–00:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep space environment, infinite black void punctuated by distant stars, cool indigo atmosphere halo around Earth's limb
+
+ACTIONS:
+- Asteroid 2026 JH2 — irregular charcoal surface pocked with craters — drifts silently across frame, Earth's blue crescent glowing in background
+- Volumetric light catches dust particles trailing the rock
+
+CAMERA:
+Wide | Crane
+
+AUDIO:
+- faint metallic creaking of asteroid surface expanding in sunlight
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 02: Fear — Hook [00:08–00:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting
+
+ACTIONS:
+- Trajectory line crossing Earth's atmospheric limb in sharp detail, HDR glow intensifying on blue-white edge, clinical data overlay fading into frame showing velocity and distance metrics
+- Cool side lighting, 2800K cold temperature, red accent on warning indicators
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- radar ping echoing, keyboard keys clicking rapidly
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 03: Trust — Hook [00:16–00:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Digital radar display screen showing asteroid designation '2026 JH2' in crisp white text, size parameters '52-114 ft' resolving character by character, velocity readout '19,417 mph' flickering into focus
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 417 miles
+- 628 miles
+
+ACTIONS:
+- Digital radar display screen showing asteroid designation '2026 JH2' in crisp white text, size parameters '52-114 ft' resolving character by character, velocity readout '19,417 mph' flickering into focus
+- Hands rest calmly on console edge, fingers relaxed
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- keyboard keys clicking rhythmically, single mouse click
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 04: Trust — Hook [00:24–00:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Soft 3-point lighting defining edges, 3800K neutral warm temperature
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 417 miles
+- 628 miles
+
+ACTIONS:
+- Rotating asteroid 2026 JH2 in sharp detail, cratered surface texture catching volumetric light, slow tumble revealing irregular shape
+- HDR rendering shows mineral composition variations, anamorphic bokeh on background star field
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- faint rock fragments shifting, micro-impacts tapping surface
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 05: Trust — Hook [00:32–00:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm sunlight grazes Earth's atmosphere, volumetric haze softening the limb
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 417 miles
+- 628 miles
+
+ACTIONS:
+- Glowing orbital trajectory arc rendered in soft amber against deep space, Earth's curved horizon visible below in warm daylight blues
+- The path line resolves smoothly, distance markers appearing: 56,628 miles in clean sans-serif type
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- faint electronic beep sequence, data processing hum
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 06: Trust — Hook [00:40–00:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic 2.39:1
+
+ACTIONS:
+- Trajectory line passing wide of Earth with visible safe margin, clinical distance markers glowing in space
+- Planet occupies left third of frame, asteroid path arcing through right side with clear separation
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- single radar confirmation beep, faint orbital calculation processing
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 07: Fear — Hook [00:48–00:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Planetarium dome environment, stars projected across curved ceiling, cool silver-blue ambient wash
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- eight days
+
+ACTIONS:
+- Earth suspended small in lower third of frame, thin atmosphere glowing pale blue, asteroid trajectory arc drawn in faint white line curving past planet's limb and continuing into deep space
+- Shoulders visible in extreme foreground, posture upright and still, gaze directed upward
+
+CAMERA:
+Wide | Crane
+
+AUDIO:
+- distant ventilation system whooshing softly, single footstep on concrete floor
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 08: Fear — Hook [00:56–01:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep space environment, infinite black expanse, distant stars forming faint Milky Way band
+
+ACTIONS:
+- Earth's fragile blue atmosphere — thin luminous band separating planet from void — fills lower half of frame, volumetric god-rays piercing through cloud layers
+- Asteroid field scattered across upper frame, dozens of dark irregular shapes drifting silently, sizes unknown
+
+CAMERA:
+Wide | Crane
+
+AUDIO:
+- low wind rushing past microphone, single distant metallic clang echoing
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 09: Trust — Hook [01:04–01:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clean modern NASA facility with brushed aluminum surfaces catching 3800K tungsten light, everything orderly and calm
+
+ACTIONS:
+- Empty mission control workstation bathed in soft warm amber glow from overhead practicals, monitor displays sleeping screensavers in muted blue-green, keyboard untouched
+- Camera drifts forward 8 inches revealing the stillness — no flashing alerts, no red warnings, screens show only star-field patterns and idle system menus
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- faint electrical hum from cooling fans, single keyboard key click echoing in empty room
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 10: Trust — Build Up [01:12–01:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 000 miles
+- 18 miles
+- 30 times
+
+ACTIONS:
+- Split-screen comparison: left side shows 3D model of 2026 JH2 asteroid rotating with measurement overlay '60 feet', right side displays Chelyabinsk object model at identical scale
+- Numeric data resolves on screen: '41,000 mph' velocity readout, '18 miles' altitude marker, '30x Hiroshima' energy comparison graph
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- holographic display hum, data readout beep sequence, measurement calibration click
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 11: Trust — Build Up [01:20–01:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+HDR edge definition renders each data point with documentary precision against deep space backdrop
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 000 miles
+- 18 miles
+- 30 times
+
+ACTIONS:
+- Overlaid silhouettes of both asteroids align perfectly in frame, transparent layers showing internal structure
+- Measurement annotations appear sequentially: diameter lines, velocity vectors, atmospheric entry angle
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- annotation graphic whoosh, measurement line snap, data layer transition click
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 12: Trust — Build Up [01:28–01:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+ACTIONS:
+- Archival footage: shattered building windows frame empty interiors, glass shards scattered across snow-covered pavement, fractured panes hang in twisted frames
+- Desaturated color grade, handheld documentary style captures human-scale devastation
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- glass crunch underfoot, window frame creak, snow compress
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 13: Trust — Build Up [01:36–01:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+ACTIONS:
+- 8K satellite map view: Chelyabinsk region from above, concentric shockwave radius expands outward in volumetric dust cloud visualization
+- Scale comparison overlay shows Switzerland outline for reference
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- map interface zoom, shockwave radius expansion whoosh, data overlay click
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 14: Trust — Build Up [01:44–01:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Consistent even 3800K lighting, clinical documentary clarity
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- No survey
+
+ACTIONS:
+- Volumetric diagram of inner solar system: Sun at center casting bright volumetric rays, Earth's orbital position marked, cone-shaped blind zone illustrated with light beams that cannot penetrate past Sun's glare toward viewer
+- Clean educational visualization with floating orbital paths and geometric light shafts
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- soft mechanical whir of diagram rotating, light tap as orbital path highlights, faint click as blind zone cone appears
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 15: Trust — Build Up [01:52–02:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Thirteen years
+
+ACTIONS:
+- Temporal montage: calendar pages flip from '2013' forward, date overlays dissolve through years, archival timestamp graphics fade sequentially
+- Each year marked by subtle shift in blue-silver tone, methodical passage of time rendered with documentary restraint
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- calendar page flip, date stamp click, year transition whoosh
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 16: Fear — Build Up [02:00–02:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- eight days
+
+ACTIONS:
+- Timeline graphic: horizontal axis spans eight days, detection point marked at left with red accent, 2026 JH2 passage point at right
+- Warning window illustrated with measured precision, cool blue interface with single red notification indicator
+
+CAMERA:
+Close-up | Handheld
+
+AUDIO:
+- notification ping, timeline marker click, warning indicator beep
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 17: Trust — Build Up [02:08–02:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Sterile mission control aesthetic, even 3800K lighting, no shadows
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Eight days
+
+ACTIONS:
+- Digital calendar display showing "8 DAYS" in bright amber numerals against clean white interface, sharp focus, clinical precision
+- Below, timeline graphic extends horizontally showing years-long deflection window in muted gray, creating stark scale contrast
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- keyboard keys clicking, mouse clicking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 18: Joy — Build Up [02:16–02:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Volumetric light streams through high windows, casting amber-tinted rays through floating dust particles, warm documentary atmosphere
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Eight days
+
+ACTIONS:
+- DART spacecraft in assembly cleanroom, solar panels extending in slow motion, posture confident, hands steady on precision tools
+- Technicians in clean suits perform methodical assembly work, each movement deliberate
+
+CAMERA:
+Medium | Orbit
+
+AUDIO:
+- mechanical whir of extending panels, tool clicks on metal
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 19: Joy — Build Up [02:24–02:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Bright aerospace facility, warm 4300K lighting with amber accents on metallic surfaces, HDR reflections on spacecraft hull
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Eight days
+
+ACTIONS:
+- DART spacecraft model in clean room, metallic surfaces catching soft golden light, solar panels extending outward in precise mechanical motion
+- Engineers' hands adjusting panel alignment, careful deliberate movements
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- mechanical servo motors whirring, metal panel sliding, tools clicking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 20: Fear — Build Up [02:32–02:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Dark space background, cool motivated light from Earth's terminator, red accent on impact zone, shadows deepening
+
+ACTIONS:
+- Earth from orbit with red trajectory line intersecting continental grid, posture tense, shoulders drawn
+- Eight-day countdown timer ticks in corner as trajectory cone narrows toward populated coastline
+
+CAMERA:
+Close-up | Handheld
+
+AUDIO:
+- countdown timer beeping, data stream clicking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 21: Fear — Build Up [02:40–02:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cool blue screen glow, red accent on impact zone, motivated single-source lighting, tension building
+
+ACTIONS:
+- Radar screen showing red trajectory line crossing Earth grid with uncertainty cone expanding over multiple cities, posture uncertain, hands hovering
+- Eight-day countdown visible in corner, trajectory precision insufficient to isolate single target
+
+CAMERA:
+Close-up | Handheld
+
+AUDIO:
+- radar ping, keyboard typing, alert tone
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 22: Trust — Build Up [02:48–02:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clean office environment, consistent 3800K lighting, cool blue undertones, anamorphic bokeh in background
+
+ACTIONS:
+- Stacked mission requirement documents on desk, pages dense with technical specifications and conditional statements, hand hovering hesitantly above top page
+- Fingers pause mid-reach, slight tremor visible
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- paper rustling, pen tapping desk
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 23: Fear — Build Up [02:56–03:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cold Russian winter landscape below, frozen cityscape, shadows deepening
+
+ACTIONS:
+- Chelyabinsk meteor trail burning across winter sky, brilliant white-orange streak cutting through pale blue atmosphere, volumetric light scattering through ice crystals
+- Meteor descending at steep angle, trail widening, thermal glow intensifying
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- distant rumbling growing, ice cracking, wind rushing
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 24: Trust — Build Up [03:04–03:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Even 3800K ambient light, HDR city illumination against dark periphery, methodical framing
+
+ACTIONS:
+- Aerial view of dense urban grid at night, thousands of city lights forming geometric patterns, warm sodium-vapor orange and white LED glow spreading across frame
+- Buildings and streets clearly defined, infrastructure visible, population density evident through light concentration
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- distant traffic hum, car horns, tire squeals
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 25: Trust — Deep [03:12–03:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cool teal-blue color grade, 3700K lighting
+
+ACTIONS:
+- Photorealistic 3D simulation of urban blast radius overlay on detailed city map
+- Concentric pressure zones expand outward in precise geometric rings — red inner core, orange mid-zone, yellow outer perimeter
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- digital interface beeps, map layer sliding, radius line extending
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 26: Trust — Deep [03:20–03:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Sepia-toned archival photograph of flattened Siberian taiga, trees radiating outward from blast center in geometric pattern
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- four hours
+
+ACTIONS:
+- Sepia-toned archival photograph of flattened Siberian taiga, trees radiating outward from blast center in geometric pattern
+- Slow zoom into devastation reveals scale of 830 square mile impact zone
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- wind rustling through broken branches, distant creaking wood
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 27: Trust — Deep [03:28–03:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Vintage sepia-toned photograph of the 1908 Tunguska blast site: endless flattened taiga stretching to horizon, 80 million trees laid down in perfect radial pattern from central point, pale morning light casting long shadows across the devastation
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- four hours
+
+ACTIONS:
+- Vintage sepia-toned photograph of the 1908 Tunguska blast site: endless flattened taiga stretching to horizon, 80 million trees laid down in perfect radial pattern from central point, pale morning light casting long shadows across the devastation
+- Slow push-in reveals the geometric precision of the destruction — each fallen trunk aligned like compass needles pointing away from ground zero
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- wind rustling through broken timber, distant creaking wood
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 28: Trust — Deep [03:36–03:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Overpressure wave distorts atmosphere visibly
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- four hours
+
+ACTIONS:
+- Shockwave ripples through dense forest in real-time, trees snapping in sequential cascade
+- Volumetric debris cloud expands outward
+
+CAMERA:
+Medium | Tracking
+
+AUDIO:
+- rapid sequential tree snaps, shockwave rumble, debris impacts, wood splintering
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 29: Trust — Deep [03:44–03:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Blackened bark texture in sharp focus, background stumps fading into atmospheric haze
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- four hours
+
+ACTIONS:
+- Charred tree stumps in geometric rows, ash particles suspended in volumetric shafts of amber light
+- Ground-level perspective emphasizes repetition of destruction
+
+CAMERA:
+Medium | Tracking
+
+AUDIO:
+- footsteps crunching on ash, occasional wood settling crack
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 30: Trust — Deep [03:52–04:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Volumetric atmospheric haze at horizon
+
+ACTIONS:
+- Pre-1908 night sky over Siberian wilderness, stars sharp and unmoving
+- Deep indigo color grade
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- distant wolf howl, wind through grass, night insects chirping
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 31: Trust — Deep [04:00–04:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+ACTIONS:
+- Orbital telescope array in precise formation above Earth's curved horizon
+- Clean clinical framing, HDR solar panel reflections catching sunlight
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- satellite gyroscope whirring, mechanical tracking servos adjusting
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 32: Trust — Deep [04:08–04:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+ACTIONS:
+- Split-screen comparison on clinical white background: massive asteroid model on left, tiny 2026 JH2 scale model on right
+- Precise measurement annotations resolving on screen in teal accent color
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- digital measurement tones beeping, annotation text appearing on screen
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 33: Trust — Deep [04:16–04:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+ACTIONS:
+- Empty telescope dome interior, lens pointed at blank daytime sky
+- Overexposed sunlight washing through open aperture, creating harsh anamorphic horizontal flare across frame
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- telescope dome mechanism settling, distant wind through aperture
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 34: Trust — Deep [04:24–04:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+orbital view, volumetric atmosphere edge glow, cool indigo and silver tones, clinical NASA aesthetic
+
+ACTIONS:
+- Earth rotating in real-time from space, night-side telescope domes opening in sequence across continents
+- Day-side hemisphere facing Sun remains blank, unmonitored — no domes, no observation
+
+CAMERA:
+Wide | Slow push-in
+
+AUDIO:
+- mechanical dome motors grinding, telescope mount servos clicking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 35: Trust — Deep [04:32–04:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+ACTIONS:
+- Astronomical diagram on high-resolution monitor: Sun rendered as blinding HDR bloom center frame, asteroid trajectory line emerging from solar glare toward Earth icon at frame edge
+- Trajectory path partially obscured by sun's overexposed corona
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- monitor cooling fan hum, mouse click
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 36: Trust — Deep [04:40–04:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+high desert observatory, cool amber-to-indigo transition, volumetric atmosphere haze, clinical NASA aesthetic
+
+ACTIONS:
+- Silhouette of Arizona desert telescope dome at twilight, last amber light fading to deep indigo
+- Tracking mount moving, telescope tube tilting toward horizon
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- telescope tracking motor whir, dome rotation rumble
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 37: Trust — Deep [04:48–04:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Eight days
+
+ACTIONS:
+- Digital mission clock display: "8 DAYS 00:00:00" in sharp white numerals on black LCD screen
+- Cursor blinking in corner
+
+CAMERA:
+Extreme Close-up | Static
+
+AUDIO:
+- LCD screen faint electrical buzz, keyboard key tap
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 38: Trust — Deep [04:56–05:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cool indigo night sky through dome opening
+
+ACTIONS:
+- Telescope mount tracking smoothly against star field, motors humming
+- Sharp point of light (asteroid) centered in frame as background stars streak into long horizontal trails
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- telescope motor whirring, mount gears clicking, shutter mechanism engaging
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 39: Trust — Deep [05:04–05:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Volumetric monitor glow casting cool blue light on face and workspace
+
+ACTIONS:
+- Astronomer's back of head and shoulders in foreground, facing large monitor displaying real-time asteroid tracking software
+- Sharp white dot (asteroid) centered on screen moving against star field, stars rendered as long horizontal streaks
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- keyboard typing, mouse clicking, computer fan whir
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 40: Trust — Deep [05:12–05:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Authoritative Bloomberg-style lighting, 3700K teal accent, clean and clinical
+
+ACTIONS:
+- Earth suspended in frame, illuminated hemisphere bright with city lights, dark hemisphere facing sun completely unmonitored — orbital coverage gaps visible as empty arcs around the planet
+- Camera holds perfectly still as subtle data overlays fade in, marking blind zones in soft teal lines against the black
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- subtle data interface beep
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 41: Trust — Deep [05:20–05:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+8K HDR, cool blue-silver clinical lighting with teal accent on instrument panels, shallow depth of field isolating spacecraft components
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- five years
+
+ACTIONS:
+- NEO Surveyor spacecraft in NASA assembly cleanroom, engineers in white suits working on solar panel array with precise, methodical movements
+- Volumetric dust particles suspended in clean room air, anamorphic lens flare catching metallic surfaces
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- cleanroom air filtration hum, precision tool clicks on metal, footsteps on anti-static flooring
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 42: Trust — Deep [05:28–05:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Extreme close-up of NEO Surveyor infrared sensor array, hexagonal detector elements with HDR metallic reflections, shallow depth of field rendering background components as bokeh
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- five years
+
+ACTIONS:
+- Extreme close-up of NEO Surveyor infrared sensor array, hexagonal detector elements with HDR metallic reflections, shallow depth of field rendering background components as bokeh
+- Cool blue-silver grade with clinical authoritative lighting, volumetric light rays catching microscopic particles
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- electronic calibration beeps, micro-servo adjustments, cooling system low hum
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 43: Trust — Deep [05:36–05:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Empty Kennedy Space Center launch pad at dusk, massive support structure silhouetted against amber-to-indigo gradient sky, volumetric atmospheric haze creating god-rays through metal framework
+
+ACTIONS:
+- Empty Kennedy Space Center launch pad at dusk, massive support structure silhouetted against amber-to-indigo gradient sky, volumetric atmospheric haze creating god-rays through metal framework
+- Anamorphic 2.39:1 composition, 8K HDR capturing texture of weathered concrete and steel, no motion, pure stillness
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- distant wind through metal structure, seabird cry, flag cable clanging on pole
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 44: Trust — Deep [05:44–05:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Authoritative Bloomberg-style lighting, 3700K teal accent on the display frame, desaturated palette with clinical precision
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- eight days
+
+ACTIONS:
+- Calendar interface on a large mission control display, pages flipping forward in measured intervals, each page marked with a single red dot eight days before arrival
+- The calendar glows softly in warm amber light against a clean white background, numbers crisp and legible
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- paper pages flipping, soft digital beep
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 45: Trust — Deep [05:52–06:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cool clinical lighting, shallow focus isolating screen surface, 8K HDR capturing CRT phosphor texture
+
+ACTIONS:
+- Tight frame on data terminal screen, green monochrome text scrolling upward with orbital mechanics calculations, cursor blinking at command prompt
+- Cool clinical lighting, shallow focus isolating screen surface, 8K HDR capturing CRT phosphor texture
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- mechanical keyboard clacking, hard drive seeking, terminal beep, cooling fan low drone
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 46: Fear — Deep [06:00–06:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Anamorphic 2.39:1 composition, 8K HDR star field background, slow camera orbit revealing scale
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 628 miles
+- eight days
+
+ACTIONS:
+- Animated trajectory overlay on photorealistic Earth sphere, 2026 JH2 path rendered as glowing amber arc against deep space, volumetric atmosphere glow at planet edge
+- Anamorphic 2.39:1 composition, 8K HDR star field background, slow camera orbit revealing scale
+
+CAMERA:
+Wide | Crane
+
+AUDIO:
+- deep space silence broken by single synthesized trajectory tone, distant solar wind
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 47: Fear — Deep [06:08–06:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Shallow depth of field, anamorphic bokeh on background elements, 8K HDR capturing LED segment detail
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 628 miles
+- eight days
+
+ACTIONS:
+- Distance measurement HUD readout, numbers updating in real-time from 56,630 to 56,628 miles, amber monochrome display on black background
+- Shallow depth of field, anamorphic bokeh on background elements, 8K HDR capturing LED segment detail
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- digital counter clicking, electronic beep on value update, cooling system hum
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 48: Fear — Deep [06:16–06:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+8K HDR photorealistic rendering, cold blue grade with volumetric atmospheric glow, god-rays through space dust
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 628 miles
+- eight days
+
+ACTIONS:
+- Earth and asteroid 2026 JH2 in same frame with scale comparison overlay showing 56,628-mile separation, anamorphic bokeh on distant star field
+- 8K HDR photorealistic rendering, cold blue grade with volumetric atmospheric glow, god-rays through space dust
+
+CAMERA:
+Wide | Crane
+
+AUDIO:
+- deep space silence, single low frequency hum, distant solar wind whisper
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 49: Trust — Payoff [06:24–06:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep indigo void surrounds the text, no movement, no decoration
+
+ACTIONS:
+- Black screen fills frame, single white cursor blinking at center, shoulders relaxed, steady breathing visible in silhouette edge
+- Cursor blinks three times
+- Text 'UNKNOWN' materializes letter by letter in clinical sans-serif font
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- Keyboard key pressing once, mouse clicking twice, cursor blinking rhythmically
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 50: Anticipation — Payoff [06:32–06:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+ACTIONS:
+- Empty star field, hundreds of faint points scattered across deep indigo sky, slowly resolving into focus
+- Camera creeps forward into the field
+- Suddenly pulls back to reveal the vastness — thousands more stars appearing at frame edges
+
+CAMERA:
+Medium | Zoom out
+
+AUDIO:
+- telescope motor whirring, shutter clicking, distant wind rustling fabric
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 51: Trust — Payoff [06:40–06:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic 2.39:1, 24fps, 16:9
+
+ACTIONS:
+- Empty radar screen quadrant in desaturated blue-gray, single amber blip at far edge, hands resting still on console edge, expression neutral but alert
+- Blip pulses once, fades slightly, holds position uncomfortably long
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- Radar screen humming low, single blip tone, cooling fan spinning
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 52: Trust — Payoff [06:48–06:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Telescope dome creaking once, night wind rustling, distant cricket chirping
+
+ACTIONS:
+- Dome in foreground, sharp against deep indigo sky, posture of the structure patient and watchful
+- Single point of light moves horizontally across upper third of frame, tracked center, anamorphic bokeh on surrounding stars
+
+CAMERA:
+Medium | Tilt
+
+AUDIO:
+- Telescope dome creaking once, night wind rustling, distant cricket chirping
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 53: Trust — Payoff [06:56–07:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm desk lamp pools light on paper, cool window light from behind
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- eight days
+
+ACTIONS:
+- Eight-day desk calendar, pages flipping backward one by one, final page settling on marked date
+- Hand enters frame, finger taps date circle, pen underlines notation
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- paper flip, pen scratch, finger tap on paper
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 54: Trust — Payoff [07:04–07:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm amber atmosphere catches volumetric light at the horizon, deep indigo space beyond
+
+ACTIONS:
+- Primordial Earth from high orbit, no city lights, only volcanic glow and storm systems, surface calm and ancient, posture still and witnessing
+- A small asteroid silhouette crosses the frame slowly against the planet's limb, unwitnessed, passing through empty space above barren continents
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- distant low rumble, faint atmospheric wind
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 55: Trust — Payoff [07:12–07:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic 2.39:1, 24fps, 16:9
+
+ACTIONS:
+- Orbital diagram schematic, cataloged asteroid paths as thin white lines radiating from Earth at center, clinical white-on-black
+- Slow rotation reveals density of tracked objects, posture of the system methodical and complete
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- Computer hard drive spinning, data processing beep, cooling fan whirring
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 56: Trust — Payoff [07:20–07:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Sensor array rotates slowly, scanning arc of space, new faint points appearing on overlay as it sweeps
+
+ACTIONS:
+- NEO Surveyor spacecraft in orbit render, infrared sensor array glowing faint amber at center, Earth's curved horizon below in deep blue
+- Volumetric light rays from sun at frame edge, anamorphic lens flare in cool silver
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- Satellite gyroscope spinning, solar panel unfolding, thruster pulsing once
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 57: Trust — Payoff [07:28–07:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep space backdrop, no foreground elements, pure astronomical observation
+
+ACTIONS:
+- Single point of light drifts across deep indigo night sky, tracked against fixed star field
+- Anamorphic bokeh renders distant stars as horizontal streaks
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- telescope mount motor whirring, dome shutter mechanism clicking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 58: Trust — Payoff [07:36–07:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm 4000K palette with golden highlights against rich blue-black space, conveying patient trust and open possibility
+
+ACTIONS:
+- Wide anamorphic frame of infinite star field, no foreground objects, pure depth into cosmos
+- Volumetric dust lanes glow faintly in warm amber and soft gold, scattered points of light emerge from deep indigo backdrop
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- faint telescope servo motor whir
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 59: Trust — Payoff [07:44–07:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep indigo backdrop, volumetric dust catching faint starlight, 8K HDR rendering infinite depth
+
+ACTIONS:
+- Single point of light centered in deep space star field, no trajectory markers or overlays visible
+- Camera advances imperceptibly toward the unmarked dot, surrounding stars drifting outward at frame edges
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- faint radar ping echo
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 60: Anticipation — Payoff [07:52–07:53]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep indigo and black tones, volumetric eyelash shadow, moisture glints on eye surface
+
+ACTIONS:
+- Human eye in profile, iris reflecting star field, single bright point of light crosses pupil from left to right
+- Anamorphic oval bokeh renders reflected stars as horizontal streaks across cornea
+
+CAMERA:
+Extreme Close-up | Static
+
+AUDIO:
+- eyelid blinking, breath exhale through nose
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+════════════════════════════════════════════════════════════════
+[END SCENE PROMPTS]
+════════════════════════════════════════════════════════════════
