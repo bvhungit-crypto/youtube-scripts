@@ -1,0 +1,2734 @@
+════════════════════════════════════════════════════════════════
+[CHARACTERS Description]
+════════════════════════════════════════════════════════════════
+
+PROJECT: 1
+
+RATIO: 16:9
+
+--------------------------------------------------
+STYLE (DETAILED - MANDATORY):
+
+- Style Directive: cinematic
+
+- Medium: Live-action / Cinematic
+
+- Visual Style:
+  - Cinematic composition with depth and motivated framing
+
+- Character Design:
+  [Describe the visual logic of all characters — head/body proportion, expression range, silhouette clarity]
+
+- Materials & Textures:
+  [e.g. Flat colors only / Cel-shaded with soft shadow / Painterly with visible brushwork]
+
+- Lighting:
+  [e.g. Bright even lighting / Dramatic rim lighting / Soft ambient with glow on focal elements]
+
+- Color Palette:
+  [Define color roles — e.g. Red = danger, Yellow = energy, Blue = calm, Black outline for clarity]
+
+- Rendering Quality:
+  [e.g. Crisp, clean, high-definition / Slightly grainy retro / Hyper-smooth anime-style]
+
+- Motion Feel:
+  [e.g. Smooth action-driven / Bouncy exaggerated / Slow cinematic / Snappy cut-driven]
+
+- Overall Impression:
+  [One paragraph — what should viewers FEEL when watching? What is the visual "brand" of this project?]
+
+--------------------------------------------------
+TONE:
+[Overall emotional register — e.g. High tension, urgent, dramatic / Dark comedic, absurdist / Warm and nostalgic / Energetic and hype]
+[Detected dominant emotion (auto, for reference): Trust]
+
+--------------------------------------------------
+RENDERING RULES:
+
+- [Rule 1 — e.g. NO TEXT, NO LETTERS, NO SYMBOLIC WORDS in any scene]
+- [Rule 2 — e.g. Story must be conveyed entirely through visuals and expressions]
+- [Rule 3 — e.g. Each scene must have a clear visual conflict or action beat]
+- [Rule 4 — e.g. Only include characters explicitly required in each scene]
+- [Rule 5 — e.g. No background crowd, no unnecessary props]
+- [Add more rules as needed]
+
+--------------------------------------------------
+CHARACTERS (LOCKED):
+
+- Character 1: [Name]
+  [Physical description — face shape, skin tone, eye style]
+  [Hair — color #HEX, length, style]
+  [Default outfit — top, bottom, shoes, accessories]
+  [Signature trait]
+  [Expression range]
+
+- Character 2: [Name]
+  [Physical description]
+  [Hair — color #HEX, length, style]
+  [Default outfit]
+  [Signature trait]
+  [Expression range]
+
+--------------------------------------------------
+ENVIRONMENT (GLOBAL):
+
+[Default background / world setting for the entire project]
+[e.g. Minimal clean background, soft gradient sky / Neon-lit urban rooftop / Pastel fantasy kingdom]
+[Note: individual scenes can override this with their own ENVIRONMENT field]
+
+[Detected scene environments (auto, for reference):]
+  - Warm amber desk lamp illuminates beige walls, monitor glow soft on face, empty lobby visible through glass behind
+  - Empty office lobby at 2 a.m., fluorescent lights casting long shadows across polished floor, elevator doors closed, reception desk abandoned
+  - Door slightly ajar, warm light spilling from room into cooler hallway, dust motes suspended in threshold
+  - Soft three-point lighting, warm amber glow, monitor screens reflecting in eyes
+  - Warm desk lamp light pools on paper, boxes marked 11pm-7am, pen tip pressing firmly
+  - Knuckles white from pressure, slight desaturation draining warmth from skin tones
+  - Paper slightly curled at edges, pen resting beside bracelet
+  - Warm amber light on frame, cooler tones in background, slight dust on glass
+  - Clipboard on security desk, hand entering frame to check boxes methodically, then lifting thermos and pouring coffee into cup, monitor screens glowing softly in background
+  - Warm office lighting with amber desk lamp, elevator doors visible in soft focus behind, clean professional lobby space
+  - Warm amber glow from lobby fixtures, soft reflections on metal surface, clean institutional hallway visible in reflection
+  - Guard sits at security desk in warm-lit lobby, beige walls and orderly workspace visible
+
+--------------------------------------------------
+GOAL:
+[Optional — one sentence stating the visual storytelling goal of the entire video]
+[e.g. "Make the audience feel the tension of nuclear deterrence without using any text or narration"]
+
+════════════════════════════════════════════════════════════════
+[END CHARACTERS Description]
+════════════════════════════════════════════════════════════════
+
+
+════════════════════════════════════════════════════════════════
+SCENE PROMPTS
+════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────
+🎬 SCENE 01: Trust — Hook [00:00–00:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+[Scene environment — fill in]
+
+ACTIONS:
+- [Character actions — fill in]
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- quiet focused space, minimal room tone, clean silence
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 02: Trust — Hook [00:08–00:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+[Scene environment — fill in]
+
+ACTIONS:
+- [Character actions — fill in]
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- quiet focused space, minimal room tone, clean silence
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 03: Trust — Hook [00:16–00:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+[Scene environment — fill in]
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- four months
+
+ACTIONS:
+- [Character actions — fill in]
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- quiet focused space, minimal room tone, clean silence
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 04: Trust — Hook [00:24–00:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+[Scene environment — fill in]
+
+ACTIONS:
+- [Character actions — fill in]
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- quiet focused space, minimal room tone, clean silence
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 05: Trust — Hook [00:32–00:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+[Scene environment — fill in]
+
+ACTIONS:
+- [Character actions — fill in]
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- quiet focused space, minimal room tone, clean silence
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 06: Trust — Hook [00:40–00:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+[Scene environment — fill in]
+
+ACTIONS:
+- [Character actions — fill in]
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- quiet focused space, minimal room tone, clean silence
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 07: Trust — Hook [00:48–00:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+[Scene environment — fill in]
+
+ACTIONS:
+- [Character actions — fill in]
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- quiet focused space, minimal room tone, clean silence
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 08: Trust — Hook [00:56–01:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+[Scene environment — fill in]
+
+ACTIONS:
+- [Character actions — fill in]
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- quiet focused space, minimal room tone, clean silence
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 09: Trust — Hook [01:04–01:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm amber desk lamp illuminates beige walls, monitor glow soft on face, empty lobby visible through glass behind
+
+ACTIONS:
+- Security guard at desk, shoulders relaxed, slight knowing smile, eyes steady with quiet recognition
+- Hand rests on desk edge, fingers tapping once in familiar rhythm
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- pen tapping desk
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 10: Trust — Hook [01:12–01:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Empty office lobby at 2 a.m., fluorescent lights casting long shadows across polished floor, elevator doors closed, reception desk abandoned
+
+ACTIONS:
+- Empty office lobby at 2 a.m., fluorescent lights casting long shadows across polished floor, elevator doors closed, reception desk abandoned
+- Stillness absolute, no movement, desaturated amber tones fading to cool gray at edges
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- fluorescent light buzzing
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 11: Trust — Hook [01:20–01:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Door slightly ajar, warm light spilling from room into cooler hallway, dust motes suspended in threshold
+
+ACTIONS:
+- Office doorway in foreground sharp, focus pulls to empty hallway beyond, slight shadow movement at frame edge
+- Stillness
+- Door slightly ajar, warm light spilling from room into cooler hallway, dust motes suspended in threshold
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- door creaking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 12: Trust — Hook [01:28–01:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Soft three-point lighting, warm amber glow, monitor screens reflecting in eyes
+
+ACTIONS:
+- Security guard's face in profile, eyes downcast, slight nod of acknowledgment, jaw set with quiet understanding
+- Hand touches chest briefly, fingers spread over heart
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- hand touching fabric
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 13: Trust — Hook [01:36–01:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm desk lamp light pools on paper, boxes marked 11pm-7am, pen tip pressing firmly
+
+ACTIONS:
+- Timesheet on desk, pen circling night shift boxes repeatedly, hand steady and deliberate
+- Warm desk lamp light pools on paper, boxes marked 11pm-7am, pen tip pressing firmly
+
+CAMERA:
+Extreme Close-up | Static
+
+AUDIO:
+- pen scratching paper
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 14: Trust — Hook [01:44–01:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Knuckles white from pressure, slight desaturation draining warmth from skin tones
+
+ACTIONS:
+- Hands trembling slightly, fingers interlaced, wedding ring visible on left hand catching light
+- Knuckles white from pressure, slight desaturation draining warmth from skin tones
+
+CAMERA:
+Extreme Close-up | Slow push-in
+
+AUDIO:
+- fingers rubbing together
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 15: Trust — Hook [01:52–02:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Paper slightly curled at edges, pen resting beside bracelet
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Four months
+
+ACTIONS:
+- Wall calendar in cool fluorescent light, four months marked with red X's in sequence, hospital bracelet lying across final marked date
+- Paper slightly curled at edges, pen resting beside bracelet
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- paper rustling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 16: Trust — Hook [02:00–02:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm amber light on frame, cooler tones in background, slight dust on glass
+
+ACTIONS:
+- Framed photograph of young child on security desk, soft focus on background monitors and empty chair
+- Warm amber light on frame, cooler tones in background, slight dust on glass
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- frame settling on desk
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 17: Trust — Hook [02:08–02:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm amber desk lamp illuminates beige walls, soft window light from behind, clean professional workspace with monitor glow
+
+ACTIONS:
+- Security guard at desk in warm-lit office, shoulders relaxed, slight smile, pen resting in open hand
+- Reviewing paperwork with calm methodical movements, turning pages steadily
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- pen tapping desk, paper rustling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 18: Trust — Hook [02:16–02:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clipboard on security desk, hand entering frame to check boxes methodically, then lifting thermos and pouring coffee into cup, monitor screens glowing softly in background
+
+ACTIONS:
+- Clipboard on security desk, hand entering frame to check boxes methodically
+- Lifting thermos and pouring coffee into cup, monitor screens glowing softly in background
+- Routine night shift actions in warm amber-lit security station, beige walls and orderly desk setup
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- pen scratching paper, liquid pouring into cup
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 19: Trust — Hook [02:24–02:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm office lighting with amber desk lamp, elevator doors visible in soft focus behind, clean professional lobby space
+
+ACTIONS:
+- Security guard's head tilting slightly, eyes focused upward toward elevator shaft visible in background, eyebrows raised in mild curiosity, hand pausing mid-gesture
+- Listening intently, body language open and attentive
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- elevator cable creaking, distant mechanical click
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 20: Trust — Hook [02:32–02:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm amber glow from lobby fixtures, soft reflections on metal surface, clean institutional hallway visible in reflection
+
+ACTIONS:
+- Polished brass elevator doors reflecting warm lobby lights, floor indicator above showing descending numbers, doors perfectly still and silent
+- Warm amber glow from lobby fixtures, soft reflections on metal surface, clean institutional hallway visible in reflection
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- elevator cable sliding through pulley, door mechanism clicking softly
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 21: Trust — Hook [02:40–02:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Guard sits at security desk in warm-lit lobby, beige walls and orderly workspace visible
+
+ACTIONS:
+- Security guard's face in soft amber desk lamp light, neutral calm expression, eyes steady, slight nod as if recalling a conversation, hands folded on desk
+- Guard sits at security desk in warm-lit lobby, beige walls and orderly workspace visible
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- paper rustling on desk
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 22: Trust — Hook [02:48–02:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Building facade with glowing windows, desaturated slightly but retaining warm tones, clean architectural lines, quiet urban street
+
+ACTIONS:
+- Office building exterior at night, warm streetlights casting amber pools on pavement, thin wisps of fog drifting slowly past lit windows
+- Building facade with glowing windows, desaturated slightly but retaining warm tones, clean architectural lines, quiet urban street
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- car passing on wet pavement, distant footsteps on concrete
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 23: Trust — Build Up [02:56–03:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm institutional lighting spilling into lobby, clean modern elevator interior, neutral beige and chrome finishes, professional building aesthetic
+
+ACTIONS:
+- Elevator doors sliding open smoothly, empty cab interior with warm fluorescent ceiling light, polished floor reflecting light, control panel visible on side wall
+- Warm institutional lighting spilling into lobby, clean modern elevator interior, neutral beige and chrome finishes, professional building aesthetic
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- elevator doors sliding open, pneumatic hiss
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 24: Trust — Build Up [03:04–03:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm lobby lighting with amber accents, elevator interior lit from above, clean professional space, institutional hallway
+
+ACTIONS:
+- Security guard walking toward open elevator, flashlight beam sweeping across floor, shoulders square and posture upright, methodical stride
+- Approaching elevator cab with routine confidence, hand holding flashlight steady, uniform visible
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- footsteps on tile floor, flashlight clicking on
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 25: Trust — Build Up [03:12–03:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm-lit elevator interior, brushed steel panel, soft overhead light casting gentle shadow
+
+ACTIONS:
+- Finger pressing illuminated elevator button, hand steady and deliberate
+- Button glows amber as finger presses twice in quick succession
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- button clicking twice
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 26: Trust — Build Up [03:20–03:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Brushed steel frame, consistent even lighting, no human presence
+
+ACTIONS:
+- Elevator floor indicator panel, numbers illuminating sequentially upward from G to 2 to 3
+- Digits glow amber against black background, each number flicking on with mechanical precision
+
+CAMERA:
+Extreme Close-up | Static
+
+AUDIO:
+- mechanical relay clicking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 27: Trust — Build Up [03:28–03:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Soft even light, warm office tone, hands centered in frame
+
+ACTIONS:
+- Two hands held open at waist level, palms up, fingers slightly spread, empty and still
+- Hands rest against neutral fabric, no movement, no buttons visible
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- fabric rustling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 28: Trust — Build Up [03:36–03:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Panel occupies center frame, clean and uncluttered, bathed in even 3800K tungsten wash
+
+ACTIONS:
+- Elevator control panel in warm amber light, brushed steel surface reflecting soft overhead glow
+- Single ascending indicator glows steady green, no other buttons illuminated
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- indicator light clicking on
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 29: Trust — Build Up [03:44–03:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Monitor glow on face, exhaustion visible in posture
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- hundred times
+
+ACTIONS:
+- Person seated at security desk, hand resting on forehead, shoulders slightly slumped, eyes closed briefly
+- Desk lamp casts warm amber light fading to cooler blue-gray at edges
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- desk chair creaking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 30: Trust — Build Up [03:52–04:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Black background, sharp focus on numeral, no other elements visible
+
+ACTIONS:
+- Digital floor indicator displaying the number '1' in glowing amber LED segments
+- Black background, sharp focus on numeral, no other elements visible
+
+CAMERA:
+Extreme Close-up | Static
+
+AUDIO:
+- LED buzzing
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 31: Trust — Build Up [04:00–04:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Even 3800K light from hallway spills across threshold
+
+ACTIONS:
+- Empty office floor viewed through open elevator doors, overhead fluorescents switched off, desks and chairs visible in soft ambient glow from exterior windows
+- Warm beige carpet, amber desk lamps unplugged, no movement
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- elevator doors sliding open
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 32: Trust — Build Up [04:08–04:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Brushed steel panel, urgency breaking through calm
+
+ACTIONS:
+- Hand rapidly pressing door-open button on elevator panel, finger jabbing three times in quick succession
+- Button glows amber with each press, hand tense, knuckles white
+
+CAMERA:
+Close-up | Handheld
+
+AUDIO:
+- button clicking rapidly
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 33: Trust — Build Up [04:16–04:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm-lit office lobby with amber desk lamp glow, beige walls, polished floor reflecting soft overhead light
+
+ACTIONS:
+- Security guard in neutral posture, hand resting on elevator call panel, eyes steady and observant
+- Finger presses illuminated button once
+- Withdraws
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- button click
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 34: Trust — Build Up [04:24–04:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm office environment with soft neutral tones, clean professional space
+
+ACTIONS:
+- Black intercom screen mounted on beige wall, faint amber glow from desk lamp reflecting on its dark surface
+- Screen remains completely inactive, no light, no static
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- faint electrical hum from intercom unit
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 35: Trust — Build Up [04:32–04:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Brushed steel panel, worn brass trim, faint scratches around dial face
+
+ACTIONS:
+- Analog floor indicator dial inside elevator, illuminated number '12' glowing amber as needle sweeps past without stopping, continuing upward past the highest marked floor
+- Needle moves smoothly, deliberately, into unmarked territory above '12'
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- mechanical whir, needle clicking past detent
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 36: Trust — Build Up [04:40–04:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Panel mounted on scuffed metal wall
+
+ACTIONS:
+- Elevator button panel, numbers 1 through 12 arranged in grid, '12' at top right
+- Worn brass buttons, finger smudges visible
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- fluorescent light buzz
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 37: Trust — Build Up [04:48–04:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm neutral lighting: cream walls, amber-toned floor numbers, soft overhead glow
+
+ACTIONS:
+- Elevator interior—polished brass panel, floor indicator above doors
+- Cabin jolts gently to stop, overhead fluorescent flickers once
+- Steadies
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- elevator brake clunk, metal settling creak
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 38: Trust — Build Up [04:56–05:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Hallway extends far beyond architectural logic
+
+ACTIONS:
+- Impossibly long hallway stretching into forced perspective vanishing point—dozens of identical doors receding into distance
+- Warm even lighting: amber ceiling fixtures every ten feet, beige walls, polished linoleum reflecting soft overhead glow
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- footstep echo, door hinge creak
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 39: Trust — Build Up [05:04–05:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Close-up, slow horizontal pan
+
+ACTIONS:
+- Wallpaper at baseboard level, brown water stains blooming upward in organic patterns
+- Texture of decay, paper bubbling and peeling at edges
+
+CAMERA:
+Close-up | Pan
+
+AUDIO:
+- water drip echo
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 40: Trust — Build Up [05:12–05:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Dust particles visible in harsh overhead fluorescent beam cutting across frame
+
+ACTIONS:
+- Worn carpet surface, geometric pattern faded to ghost outline, fibers compressed flat and matted
+- Dust particles visible in harsh overhead fluorescent beam cutting across frame
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- footstep on worn carpet
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 41: Trust — Build Up [05:20–05:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Empty institutional hallway stretches into distance, ceiling lined with fluorescent tube fixtures in parallel rows
+
+ACTIONS:
+- Empty institutional hallway stretches into distance, ceiling lined with fluorescent tube fixtures in parallel rows
+- Beige walls flank the corridor, floor worn linoleum reflecting cold overhead light
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- fluorescent tube hum
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 42: Trust — Build Up [05:28–05:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Shadows pool in dead-bulb zones, creating visual rhythm of illumination and void
+
+ACTIONS:
+- Hallway perspective reveals alternating pattern: working fluorescent fixtures create pools of harsh white light, dead bulbs leave dark gaps between—rhythmic spacing like missing teeth in a jaw
+- Camera glides through light-dark-light sequence
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- fluorescent tube buzz fading in dark zones
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 43: Trust — Build Up [05:36–05:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Institutional space frozen in time
+
+ACTIONS:
+- Empty hallway, no movement whatsoever
+- Fluorescent lights overhead, worn carpet below, beige walls
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- dead air silence
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 44: Trust — Build Up [05:44–05:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Institutional metal panel, worn buttons, no feedback
+
+ACTIONS:
+- Elevator button panel in sharp focus, finger enters frame and presses multiple floor buttons in rapid succession—1, 2, 3, 4, up through 12
+- Buttons remain dark, no illumination response
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- plastic button clicks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 45: Trust — Build Up [05:52–06:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Institutional hallway, cold overhead light, beige walls
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- three minutes
+
+ACTIONS:
+- Figure stands motionless in center of empty hallway, back to camera, facing corridor that stretches into fluorescent-lit distance
+- Posture rigid, arms at sides
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- fluorescent hum sustaining
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 46: Trust — Build Up [06:00–06:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Metal panel, worn buttons, no illumination
+
+ACTIONS:
+- Elevator button panel fills frame, finger enters and rapidly jabs every button—systematic, methodical pressing from bottom to top
+- Buttons stay dark, no LED response
+
+CAMERA:
+Extreme Close-up | Static
+
+AUDIO:
+- rapid button clicking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 47: Trust — Build Up [06:08–06:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Dark LCD panel reflects faint fluorescent glow from hallway
+
+ACTIONS:
+- Elevator floor indicator display—blank digital screen, no numbers, no light
+- Dark LCD panel reflects faint fluorescent glow from hallway
+
+CAMERA:
+Extreme Close-up | Static
+
+AUDIO:
+- electrical silence
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 48: Trust — Build Up [06:16–06:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Institutional elevator interior, fluorescent-lit hallway beyond
+
+ACTIONS:
+- View from inside elevator looking out: foot steps onto worn hallway carpet, crossing threshold
+- Instant response—elevator doors slide shut with mechanical precision, sealing the exit
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- elevator door mechanism sliding shut
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 49: Trust — Build Up [06:24–06:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Institutional hallway with beige walls and fluorescent overhead lighting
+
+ACTIONS:
+- Elevator floor indicator panel mounted above closed metal doors, centered in frame, neutral posture
+- Display numerals flicker once
+- Fade to complete black
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- electrical buzz fading to click
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 50: Trust — Build Up [06:32–06:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The frame holds on the mundane geometry: parallel lines of ceiling grid, evenly spaced doorways, fire extinguisher on wall
+
+ACTIONS:
+- Empty office hallway stretches into distance — beige carpet, drop ceiling tiles, fluorescent panels, cream walls
+- Neutral, unremarkable institutional space frozen in stillness
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- air vent blowing softly
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 51: Trust — Build Up [06:40–06:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+As camera advances at constant speed, the far end of the hallway appears to recede at the same rate—perspective subtly warps so the endpoint never gets closer
+
+ACTIONS:
+- The corridor stretches ahead with closed doors on both sides, beige carpet, drop ceiling
+- As camera advances at constant speed, the far end of the hallway appears to recede at the same rate—perspective subtly warps so the endpoint never gets closer
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- soft footsteps on carpet, rhythmic and steady
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 52: Trust — Build Up [06:48–06:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Muted 3800K lighting with slight desaturation
+
+ACTIONS:
+- Office hallway extends impossibly, walls and ceiling tiles stretching into hazy distance
+- Lens distortion creates subtle barrel effect—straight lines curve slightly, depth perception feels unreliable
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- muffled footsteps, distant and echoey
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 53: Trust — Build Up [06:56–07:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Camera glides past identical closed office doors in rhythmic succession, each door frame passing through center frame at even intervals
+
+ACTIONS:
+- Camera glides past identical closed office doors in rhythmic succession, each door frame passing through center frame at even intervals
+- Doors remain shut, uniform spacing, beige walls, industrial carpet
+
+CAMERA:
+Medium | Tracking
+
+AUDIO:
+- footsteps on carpet
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 54: Trust — Build Up [07:04–07:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Symmetrical view down office corridor with closed wooden doors lining both walls, each door identical with small rectangular plastic nameplate centered at chest height
+
+ACTIONS:
+- Symmetrical view down office corridor with closed wooden doors lining both walls, each door identical with small rectangular plastic nameplate centered at chest height
+- Beige carpet, white drop ceiling, fluorescent panels casting even 3800K light
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- air conditioning vent hiss
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 55: Trust — Build Up [07:12–07:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Plastic office door nameplate reading 'Caldwell and Associates' in generic sans-serif font, centered in frame, mounted on beige door surface
+
+ACTIONS:
+- Plastic office door nameplate reading 'Caldwell and Associates' in generic sans-serif font, centered in frame, mounted on beige door surface
+- Nameplate remains motionless, unremarkable corporate signage
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- none
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 56: Trust — Build Up [07:20–07:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Hallway stretches behind, fluorescent lighting, beige institutional walls
+
+ACTIONS:
+- Camera tracks smoothly past office doors
+- Halts suddenly mid-motion, creating jarring stillness
+- Single door nameplate comes into sharp focus as movement ceases
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- footsteps stopping abruptly
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 57: Trust — Build Up [07:28–07:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The photograph is still, but the light seems to hold memory
+
+ACTIONS:
+- A framed photograph on a wooden desk: a woman's face, soft smile, warm eyes
+- The frame sits centered, slightly angled toward camera
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- desk lamp filament hum
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 58: Trust — Build Up [07:36–07:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+A brass nameplate on an office door reads 'Helen Mercer MD' in engraved serif letters
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- four months
+
+ACTIONS:
+- A brass nameplate on an office door reads 'Helen Mercer MD' in engraved serif letters
+- The plate catches overhead fluorescent light, creating a subtle reflection
+
+CAMERA:
+Extreme Close-up | Static
+
+AUDIO:
+- fluorescent light buzz
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 59: Trust — Deep [07:44–07:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The hallway is empty, silent, waiting
+
+ACTIONS:
+- A long institutional hallway stretches into depth: rows of identical closed doors on both sides, beige walls, fluorescent ceiling panels
+- At the 250th position in the corridor, one door stands ajar, warm light spilling from the gap into the cool hallway
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- door hinge creak
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 60: Trust — Deep [07:52–08:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm 3700K lighting with subtle teal accent on door frame edge
+
+ACTIONS:
+- Open wooden door in warm-lit office hallway, door handle catching soft amber glow from overhead fixture
+- Door stands at gentle angle, revealing sliver of neutral beige interior beyond threshold
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- door hinge creaking softly
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 61: Trust — Deep [08:00–08:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Wall texture visible in gentle illumination, showing clean professional space
+
+ACTIONS:
+- Warm blue television glow shifting across cream-colored wall in softly lit room
+- Light patterns dance gently, creating subtle teal-blue gradients that blend with ambient 3700K warmth
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- television static crackling faintly
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 62: Trust — Deep [08:08–08:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Professional space with calm, stable atmosphere
+
+ACTIONS:
+- Back of upholstered office chair facing glowing television screen in warm-lit room
+- Chair positioned center frame, soft teal accent light rimming edges
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- chair leather creaking slightly
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 63: Trust — Deep [08:16–08:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The push is deliberate, methodical, revealing detail without revealing identity
+
+ACTIONS:
+- A security uniform is visible from behind: navy blue shoulders, collar patch catching blue TV light, fabric texture sharp in focus
+- The figure remains still, facing away
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- fabric rustle
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 64: Trust — Deep [08:24–08:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Background is soft-focused institutional wall
+
+ACTIONS:
+- A security uniform sleeve in sharp foreground focus: navy fabric, shoulder patch with building logo, brass button catching teal-accented light
+- The sleeve is positioned left of frame, implying the wearer's presence without showing them
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- badge metal clink
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 65: Trust — Deep [08:32–08:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Empty office corridor behind, desaturated teal-gray walls, single overhead fluorescent casting flat light
+
+ACTIONS:
+- A figure's head begins a slow, deliberate tilt mid-frame—chin angling slightly, eyes narrowing with quiet awareness
+- The motion stops halfway, suspended in recognition
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- footstep stopping on concrete floor
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 66: Trust — Deep [08:40–08:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Narrow institutional hallway stretching ahead, numbered doors blurred into soft focus on either side
+
+ACTIONS:
+- Narrow institutional hallway stretching ahead, numbered doors blurred into soft focus on either side
+- Camera angle drops sharply downward, reframing to show only polished linoleum floor tiles and the lower third of doorframes
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- footsteps stopping abruptly
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 67: Trust — Deep [08:48–08:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Empty concrete stairwell stretching upward, harsh fluorescent strips casting hard shadows on gray walls
+
+ACTIONS:
+- Empty concrete stairwell stretching upward, harsh fluorescent strips casting hard shadows on gray walls
+- A single figure mid-step on landing 300, posture frozen in listening stance, head slightly tilted, hand hovering near railing
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- single footstep echo fading into concrete
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 68: Trust — Deep [08:56–09:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Eyes unfocused, gaze distant, shoulders dropping slightly as tension releases
+
+ACTIONS:
+- Security guard's face in profile, harsh fluorescent overhead, jaw softening, faint smile beginning to form at corner of mouth
+- Eyes unfocused, gaze distant, shoulders dropping slightly as tension releases
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- child's laughter fading in distance
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 69: Trust — Deep [09:04–09:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Teal-gray institutional wall blurred behind
+
+ACTIONS:
+- Security guard's eyes filling frame, pupils dilated, moisture gathering at lower lids, crow's feet deepening as eyes narrow in recognition
+- Teal-gray institutional wall blurred behind
+
+CAMERA:
+Extreme Close-up | Static
+
+AUDIO:
+- child's laughter echoing closer
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 70: Trust — Deep [09:12–09:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Analog wall clock in institutional hallway reads 2:47 AM, second hand ticking through eight visible hours compressed into frame—minute hand crawling from 2 to 10
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- eight hours
+
+ACTIONS:
+- Analog wall clock in institutional hallway reads 2:47 AM, second hand ticking through eight visible hours compressed into frame—minute hand crawling from 2 to 10
+- Fluorescent tube overhead flickers once
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- clock ticking mechanical rhythm
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 71: Anticipation — Deep [09:20–09:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm 3300K side light carves deep shadows across cheekbone, leaving half the face in darkness
+
+ACTIONS:
+- Man's face in profile against dark amber background, jaw set in rational control but eyes betraying flickers of doubt
+- His lips move silently as if reciting explanations, brow furrowed in concentration
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- fingertips tapping temple rhythmically
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 72: Trust — Deep [09:28–09:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+End of institutional hallway in cold blue-gray fluorescent wash, identical metal doors lining both walls
+
+ACTIONS:
+- End of institutional hallway in cold blue-gray fluorescent wash, identical metal doors lining both walls
+- At the vanishing point: a single wooden door with ornate carved panels and aged brass fittings, utterly incongruous
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- distant brass handle creaking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 73: Trust — Deep [09:36–09:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Shallow depth of field isolates handle against soft-focus door grain
+
+ACTIONS:
+- Extreme close-up of aged brass door handle, warm patina catching amber light from beneath door gap
+- Handle centered in frame, teal accent light grazing metal surface from hallway fluorescents
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- metal creaking softly
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 74: Trust — Deep [09:44–09:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Empty hallway corner visible in frame, surfaces reflecting the cold blue cast
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- fluorescence
+
+ACTIONS:
+- Fluorescent tube fixture mounted on ceiling, cold blue-white light flickering subtly against institutional gray wall
+- The tube glows with sterile clinical brightness, harsh shadows pooling beneath
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- fluorescent tube buzzing
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 75: Trust — Deep [09:52–10:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Inviting, contemplative atmosphere with rich warm tones
+
+ACTIONS:
+- Ornate brass door handle in warm amber light, hand slowly extending toward it from right frame edge
+- Fingers hesitate millimeters from contact, trembling slightly
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- floorboard creaking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 76: Trust — Deep [10:00–10:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm, focused atmosphere with honey-toned lighting
+
+ACTIONS:
+- Vintage brass intercom speaker mounted on warm beige wall, amber desk lamp glow illuminating its perforated metal grille
+- Teal accent reflects subtly on speaker edges
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- paper rustling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 77: Trust — Deep [10:08–10:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Intimate, contemplative atmosphere with golden tones
+
+ACTIONS:
+- Over-shoulder perspective looking at empty warm-lit hallway, amber glow from desk lamp visible in foreground
+- Shoulder and ear edge frame left side, warm beige walls stretch ahead
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- fabric shifting
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 78: Trust — Deep [10:16–10:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Text holds motionless for full duration
+
+ACTIONS:
+- White text on pure black screen: 'Not yet.' Sans-serif typeface, centered
+- Teal accent glow around letterforms
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- silence broken by breath
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 79: Trust — Deep [10:24–10:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm honey-toned atmosphere with teal accent on door frame in background
+
+ACTIONS:
+- Person's back and shoulders rotating slowly in warm amber office light, head turning to look behind
+- Calm, deliberate movement
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- shoe pivoting on floor
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 80: Trust — Deep [10:32–10:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Contemplative, resigned atmosphere with rich golden tones
+
+ACTIONS:
+- Close view of brass door handle from low angle, hand withdrawing slowly from frame
+- Warm amber light pools on polished wood door surface, teal accent glints on metal
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- hand sliding on wood
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 81: Trust — Deep [10:40–10:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The space feels suspended, calm, quietly expectant
+
+ACTIONS:
+- A closed office door in a softly lit hallway, warm amber glow from desk lamp spilling under the gap, beige walls framing the threshold
+- The door stands still, slightly ajar, handle at rest
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- faint creak of door hinge settling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 82: Trust — Deep [10:48–10:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+A security monitor screen showing grainy CCTV footage of a hallway figure with motion blur distorting the neck and shoulders, as if the image is dissolving
+
+ACTIONS:
+- A security monitor screen showing grainy CCTV footage of a hallway figure with motion blur distorting the neck and shoulders, as if the image is dissolving
+- The figure stretches unnaturally, edges smearing like wet ink
+
+CAMERA:
+Extreme Close-up | Static
+
+AUDIO:
+- monitor static crackling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 83: Trust — Deep [10:56–11:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Overhead fluorescent light fixture in an office corridor, warm neutral tone with subtle teal accent on the fixture casing
+
+ACTIONS:
+- Overhead fluorescent light fixture in an office corridor, warm neutral tone with subtle teal accent on the fixture casing
+- The tubes flicker intermittently, casting brief strobing shadows on the beige ceiling tiles
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- fluorescent tube buzzing and clicking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 84: Trust — Deep [11:04–11:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+A hand reaching toward a brushed steel elevator call button, fingers trembling visibly, skin pale under warm amber hallway lighting with teal accent on the button panel
+
+ACTIONS:
+- A hand reaching toward a brushed steel elevator call button, fingers trembling visibly, skin pale under warm amber hallway lighting with teal accent on the button panel
+- The fingertip hovers, shakes
+- Presses the button firmly
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- fingertip tapping metal button
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 85: Trust — Deep [11:12–11:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The tremor continues unbroken
+
+ACTIONS:
+- A human hand resting on a beige wall, fingers splayed, trembling rhythmically under warm amber light with subtle teal accent on the wall texture
+- The hand shakes in small, involuntary pulses, knuckles white, tendons visible
+
+CAMERA:
+Extreme Close-up | Static
+
+AUDIO:
+- fabric sleeve brushing against wall
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 86: Trust — Deep [11:20–11:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Elevator doors closing rapidly, view of a warm amber-lit hallway with beige walls and teal accent trim narrowing as the doors converge
+
+ACTIONS:
+- Elevator doors closing rapidly, view of a warm amber-lit hallway with beige walls and teal accent trim narrowing as the doors converge
+- The gap shrinks to a sliver
+- Seals shut
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- elevator doors sliding and clanking shut
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 87: Trust — Deep [11:28–11:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+A person's back pressed flat against the beige interior wall of an elevator, shoulders tense, head tilted upward, eyes tracking something above frame
+
+ACTIONS:
+- A person's back pressed flat against the beige interior wall of an elevator, shoulders tense, head tilted upward, eyes tracking something above frame
+- Warm amber lighting with teal accent on the elevator panel
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- fabric jacket rustling against elevator wall
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 88: Trust — Deep [11:36–11:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The number holds steady, glowing softly
+
+ACTIONS:
+- Digital elevator floor indicator panel, warm amber backlight with teal accent on the number display
+- The illuminated number descends: 10, 9, 8
+- Stops abruptly at 7
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- elevator chime dinging once
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 89: Trust — Deep [11:44–11:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Elevator doors framing empty lobby corridor beyond, warm amber light spilling from office space visible through glass
+
+ACTIONS:
+- Elevator doors framing empty lobby corridor beyond, warm amber light spilling from office space visible through glass
+- Polished brass door edges catch 3700K teal accent from overhead fixtures
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- elevator mechanism settling, distant ventilation hum
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 90: Trust — Deep [11:52–12:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Empty elevator car interior visible until final moment of closure
+
+ACTIONS:
+- Elevator doors closing in slow mechanical precision, vertical seam narrowing from both sides
+- Brushed steel surfaces reflect fragmented lobby light as gap contracts
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- elevator doors sliding shut, mechanical latch engaging
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 91: Trust — Deep [12:00–12:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+No movement except faint flicker in backlight
+
+ACTIONS:
+- Elevator floor indicator panel—backlit numbers glowing amber against brushed steel
+- Camera holds uncomfortably long on the illuminated 'G' button
+
+CAMERA:
+Extreme Close-up | Static
+
+AUDIO:
+- fluorescent light buzzing, elevator mechanism idling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 92: Trust — Deep [12:08–12:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clean modern lobby visible in soft focus behind panel, warm beige walls and polished marble floor reflecting overhead lights
+
+ACTIONS:
+- Brushed steel elevator floor indicator panel centered in frame, soft overhead fluorescent glow casting even light across polished metal surface
+- Illuminated 'G' button glows steady amber against neutral gray panel, finger withdrawing from frame after press
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- button click
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 93: Trust — Deep [12:16–12:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Repetition through identical visual language
+
+ACTIONS:
+- Elevator doors sliding open from center seam, revealing empty lobby beyond
+- Identical framing to C092—same angle, same composition
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- elevator doors sliding open, mechanical motor whirring
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 94: Trust — Deep [12:24–12:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Empty car interior visible until closure
+
+ACTIONS:
+- Elevator doors closing again—same framing as C093
+- Vertical seam narrowing, brushed steel surfaces reflecting fragmented lobby light
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- elevator doors sliding shut, latch clicking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 95: Trust — Deep [12:32–12:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Polished brass elevator doors centered in frame, reflecting soft warm lobby lighting, doors fully closed with thin vertical seam down center
+
+ACTIONS:
+- Polished brass elevator doors centered in frame, reflecting soft warm lobby lighting, doors fully closed with thin vertical seam down center
+- Brushed metal surface catches amber desk lamp glow from off-frame security station, creating gentle highlight along door edge
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- door latch engaging
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 96: Trust — Deep [12:40–12:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Buttons 1 through 12 visible, then 14 onward—gap where 13 should be
+
+ACTIONS:
+- Elevator button panel in lobby—vertical array of floor numbers backlit in amber
+- Hand entering frame from right, index finger extended toward panel
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- finger tapping button panel, plastic clicking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 97: Trust — Deep [12:48–12:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Soft overhead fluorescent light casts even illumination across the panel
+
+ACTIONS:
+- Brushed steel elevator button panel centered in frame, twelve numbered buttons arranged in two vertical columns
+- No thirteenth button—gap between twelve and fourteen
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- finger tapping metal button
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 98: Trust — Deep [12:56–13:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Teal-accented overhead light creates sharp shadows under the knuckles
+
+ACTIONS:
+- Hands gripping the edge of a laminate security desk, knuckles white with tension, fingers pressing into the surface
+- Teal-accented overhead light creates sharp shadows under the knuckles
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- fingernails scraping laminate surface
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 99: Trust — Deep [13:04–13:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Minimal office environment with warm amber desk lamp casting gentle side light
+
+ACTIONS:
+- Digital clock display showing 2:31 AM in crisp teal numerals against neutral gray background
+- Clean sans-serif digits glow softly with professional clarity
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- none
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 100: Trust — Deep [13:12–13:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Security monitor screen showing grainy black-and-white footage of an elevator interior, floor indicator displaying '13' in the upper corner
+
+ACTIONS:
+- Security monitor screen showing grainy black-and-white footage of an elevator interior, floor indicator displaying '13' in the upper corner
+- A hand enters frame from the right, index finger pointing at the screen
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- finger tapping glass screen
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 101: Trust — Deep [13:20–13:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Screens glow with soft teal accent against neutral control room
+
+ACTIONS:
+- Grid of security monitor screens displaying different building floors in sequence
+- Cursor moves methodically from feed to feed, each showing empty hallways with warm overhead lighting
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- mouse clicking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 102: Trust — Deep [13:28–13:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Below it, grainy black-and-white image shows a figure stepping out of elevator doors into an empty hallway
+
+ACTIONS:
+- Security footage timestamp reading '02:31:00' in white digital font, bottom-right corner of monitor
+- Below it, grainy black-and-white image shows a figure stepping out of elevator doors into an empty hallway
+
+CAMERA:
+Extreme Close-up | Static
+
+AUDIO:
+- elevator door sliding open
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 103: Trust — Deep [13:36–13:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Security monitor displaying grainy black-and-white footage of a long, empty hallway with fluorescent ceiling lights
+
+ACTIONS:
+- Security monitor displaying grainy black-and-white footage of a long, empty hallway with fluorescent ceiling lights
+- A solitary figure stands motionless in the center of the frame, facing the camera
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- fluorescent light buzzing faintly
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 104: Trust — Deep [13:44–13:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm fluorescent hallway lighting creates professional office atmosphere
+
+ACTIONS:
+- Security monitor screen showing frozen figure standing motionless in center of well-lit hallway
+- Figure's posture unnaturally rigid, arms at sides, facing camera
+
+CAMERA:
+Extreme Close-up | Static
+
+AUDIO:
+- none
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 105: Trust — Deep [13:52–14:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm office environment with amber desk lamp glow, beige walls, soft overhead lighting creating comfortable workspace atmosphere
+
+ACTIONS:
+- Security guard at desk, shoulders squared, head locked forward with unnatural rigidity, jaw set
+- Standing motionless at monitor station, hands resting flat on desk surface, no fidgeting or natural sway
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- keyboard key press
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 106: Trust — Deep [14:00–14:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Teal-lit office desk, monitor glow reflects on metal drive casing
+
+ACTIONS:
+- Hand inserts silver USB drive into desktop tower port with deliberate precision
+- Fingers steady, motion careful
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- USB drive clicking into port
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 107: Trust — Deep [14:08–14:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm office setting with amber task lighting, neutral beige tones, comfortable professional workspace
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Three days
+
+ACTIONS:
+- Computer monitor displaying 'FILE CORRUPTED' error message in red text, reflection of concerned face visible in dark screen glass
+- Cursor blinking on error dialog box, timestamp showing three days elapsed
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- mouse click
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 108: Trust — Deep [14:16–14:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Fluorescent-lit server room, cables hang loose
+
+ACTIONS:
+- IT contractor in gray polo shrugs with open palms, gesturing casually at old server rack behind him
+- Posture relaxed, dismissive
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- server fans spinning
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 109: Trust — Deep [14:24–14:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm office interior with amber lighting, beige walls, professional corporate environment with soft overhead illumination
+
+ACTIONS:
+- Building manager in business attire, finger extended in pointing gesture, stern expression with furrowed brow and tight lips
+- Security guard visible in foreground, shoulders slightly hunched, gaze lowered in deference
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- paper rustling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 110: Trust — Deep [14:32–14:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm office environment with amber task lighting, neutral wood desk surface, soft background glow from monitor
+
+ACTIONS:
+- USB drive resting on desk surface under focused desk lamp, small red LED indicator glowing
+- Hand hovering near drive, fingers slightly curled in hesitation
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- USB drive clicking into port
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 111: Trust — Deep [14:40–14:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm intimate lighting from desk lamp, neutral skin tones, soft focus on background
+
+ACTIONS:
+- Lips forming the word 'first' in slow deliberate motion, soft amber light illuminating lower face
+- Tight framing on mouth and chin, slight tension visible in jaw muscles
+
+CAMERA:
+Extreme Close-up | Static
+
+AUDIO:
+- breath intake
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 112: Trust — Deep [14:48–14:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clean white camera casing under warm overhead lighting, beige wall background, professional installation
+
+ACTIONS:
+- Security camera housing mounted on wall, visible lens and body but conspicuously no microphone attachment or audio input port
+- Clean white camera casing under warm overhead lighting, beige wall background, professional installation
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- camera lens focusing
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 113: Trust — Deep [14:56–15:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Security monitor screen fills frame, frozen on close-up of mouth forming a single word shape—lips parted mid-syllable, then the exact same shape again
+
+ACTIONS:
+- Security monitor screen fills frame, frozen on close-up of mouth forming a single word shape—lips parted mid-syllable
+- The exact same shape again
+- Timestamp 03:14 AM glows in corner
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- monitor hum, fluorescent light buzz
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 114: Trust — Deep [15:04–15:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Teal accent lighting glows from the interface
+
+ACTIONS:
+- Close-up of a finger pressing a rewind button on a security console, the button worn smooth from repeated use
+- The monitor in soft focus behind shows the same timestamp cycling backward: 03:14:07, 03:14:05, 03:14:03
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- button click, button click, button click, plastic creak
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 115: Trust — Deep [15:12–15:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Hallway corridor stretches back, figure in uniform stands center-frame facing away toward camera, shoulders square
+
+ACTIONS:
+- Security footage frame: timestamp 3:14 AM burns in top corner
+- Hallway corridor stretches back, figure in uniform stands center-frame facing away toward camera, shoulders square
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- elevator mechanism click, distant ventilation hum
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 116: Trust — Payoff [15:20–15:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Monitor playback: figure in uniform stands motionless in hallway, back to camera
+
+ACTIONS:
+- Monitor playback: figure in uniform stands motionless in hallway, back to camera
+- Elevator doors behind them slide open—empty car, fluorescent light spilling out
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- elevator door motor whir, hydraulic hiss
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 117: Trust — Payoff [15:28–15:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm 4000K lighting softens the screen glow
+
+ACTIONS:
+- Split-screen monitor display: left panel shows elevator doors sliding closed with a soft pneumatic hiss
+- Right panel shows the same elevator doors opening again one minute later, timestamp advancing from 03:14 to 03:15
+- The two timelines play in perfect sync, doors closing and opening in visual rhythm
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- elevator door pneumatic hiss, door motor whir, metal latch click
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 118: Trust — Payoff [15:36–15:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+First figure still visible at desk in background, unmoving
+
+ACTIONS:
+- Security monitor: second elevator opens one minute later
+- Figure in identical uniform steps out, walks three paces, sits down cross-legged on lobby tile
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- elevator chime, footsteps on tile, fabric rustling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 119: Trust — Payoff [15:44–15:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Soft ambient glow from hallway crack, sheets wrinkled
+
+ACTIONS:
+- Bedroom in near-darkness, figure lying on side in bed, eyes closed, face slack in deep sleep
+- Shoulders roll gently toward camera, head tilting on pillow, mouth slightly parted
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- fabric rustle, mattress creak, slow exhale
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 120: Trust — Payoff [15:52–16:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm 4000K lighting glows from the side
+
+ACTIONS:
+- Extreme close-up of lips in soft bedroom light, slightly parted, moving in sleep
+- The lips form slow, deliberate word shapes—mouth opening, tongue touching teeth, lips closing—speaking from deep unconsciousness
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- lip parting, breath whisper, tongue click, fabric rustle
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 121: Trust — Payoff [16:00–16:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Bedroom bathed in warm dawn glow through sheer curtains, peaceful domestic atmosphere
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- fourteen months
+
+ACTIONS:
+- Person lying in bed, eyes closed, face relaxed with soft morning light across features
+- Chest rises and falls in deep, untroubled sleep
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- fabric rustling against pillow
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 122: Trust — Payoff [16:08–16:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Night shift office with beige walls, soft desk lamp glow, empty lobby visible through glass behind
+
+ACTIONS:
+- Security guard at desk in warm amber lamplight, shoulders relaxed, slight forward lean showing quiet acceptance
+- Reviewing monitor screens with steady, methodical hand movements
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- keyboard clicking, mouse clicking, paper rustling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 123: Trust — Payoff [16:16–16:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm office environment with soft golden desk lamp, papers and monitor casting gentle shadows
+
+ACTIONS:
+- Person's face in warm amber light, eyes focused with quiet comprehension, slight nod of understanding
+- Tracing invisible pattern in air with fingertip, connecting unseen dots
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- pen tapping desk, paper sliding, chair creaking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 124: Trust — Payoff [16:24–16:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cozy office setting with amber lamp, coffee mug, notepad with handwritten notes
+
+ACTIONS:
+- Computer monitor displaying email inbox with three unread messages highlighted, warm screen glow illuminating desk surface
+- Hand moving mouse cursor to select each message in sequence
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- mouse clicking, email notification chime, keyboard tapping
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 125: Trust — Payoff [16:32–16:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Comfortable workspace with wooden desk, warm lighting, pen holder and notepad nearby
+
+ACTIONS:
+- Hands typing deliberately on backlit keyboard, fingers pressing keys with methodical rhythm, warm amber light from desk lamp
+- Typing same question three times in email draft visible on screen edge
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- keyboard clicking, spacebar tapping, enter key pressing
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 126: Trust — Payoff [16:40–16:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm beige walls, glowing exit signs, comfortable solitary workspace
+
+ACTIONS:
+- Security desk in warm amber lamplight, single figure at console, vast empty office lobby stretching behind with soft golden reflections on polished floor
+- Person reviewing documents with calm, steady posture
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- paper turning, pen writing, desk lamp switch clicking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 127: Trust — Payoff [16:48–16:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Hands gripping desk edge, fingers pressing into wood grain with controlled tension, warm amber light casting soft shadows across knuckles
+
+ACTIONS:
+- Hands gripping desk edge, fingers pressing into wood grain with controlled tension, warm amber light casting soft shadows across knuckles
+- Slight tremor in fingertips showing weight of understanding
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- fingers tapping wood, paper crinkling, breath exhaling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 128: Trust — Payoff [16:56–17:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Beige office wall, directory printed on brushed metal plate, warm amber light from desk lamp below, cool fluorescent wash from above, shadow of finger falling across numbers
+
+ACTIONS:
+- Building floor directory mounted on wall, finger tracing down list of floor numbers from 12 to 14, pausing in the gap between them, fingertip hovering over blank space
+- Hand belongs to security guard in uniform, arm extended, body partially visible in frame left
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- finger sliding on metal, fingernail tapping surface
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 129: Trust — Payoff [17:04–17:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Analog wall clock mounted on beige office wall, hands pointing to 1:00 AM, shoulders relaxed, face calm with slight upward gaze
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- one hour
+
+ACTIONS:
+- Analog wall clock mounted on beige office wall, hands pointing to 1:00 AM, shoulders relaxed, face calm with slight upward gaze
+- Clock ticking forward in real-time as second hand sweeps past the hour mark
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- clock mechanism ticking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 130: Trust — Payoff [17:12–17:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm 4000K desk lamp illuminating screen from side, cool blue screen glow on face
+
+ACTIONS:
+- Laptop screen displaying email inbox, unanswered thread highlighted in blue, sender name 'Denver Security' visible, shoulders slumped forward, hand resting motionless on desk beside trackpad
+- Cursor hovering over last sent message timestamped two weeks prior
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- laptop fan whirring
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 131: Trust — Payoff [17:20–17:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm office environment with beige walls and soft golden light pooling on desk surface
+
+ACTIONS:
+- Narrator's face softly lit by warm amber desk lamp, gentle smile forming, eyes steady and calm
+- Lips forming the word 'yes' with quiet conviction
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- pen tapping once on desk
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 132: Trust — Payoff [17:28–17:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Elevator doors in warm amber hallway light, polished brass call button centered in frame, finger hovering near but not touching
+
+ACTIONS:
+- Elevator doors in warm amber hallway light, polished brass call button centered in frame, finger hovering near but not touching
+- Warm institutional corridor with beige walls and soft overhead lighting creating gentle shadows
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- footsteps stopping on tile floor
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 133: Trust — Payoff [17:36–17:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm corridor with beige walls and soft golden overhead lighting
+
+ACTIONS:
+- Hand hovering inches from polished brass elevator call button, fingers slightly curled in hesitation, warm amber light reflecting off button surface
+- Warm corridor with beige walls and soft golden overhead lighting
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- fabric rustling as hand moves
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 134: Trust — Payoff [17:44–17:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Skin texture visible under harsh overhead fluorescent, slight perspiration on brow
+
+ACTIONS:
+- Guard's eyes in extreme close-up, pupils dilated, a faint glint of reflected elevator button light visible in the iris
+- Eyelids narrow slightly, a micro-expression of dangerous curiosity
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- distant elevator machinery grinding
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 135: Trust — Payoff [17:52–18:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm corridor environment with soft golden lighting and beige wall texture visible
+
+ACTIONS:
+- Hand pulling away from elevator call button, fingers relaxing and withdrawing into warm amber light, polished brass button remaining unpressed
+- Warm corridor environment with soft golden lighting and beige wall texture visible
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- hand sliding off metal surface
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 136: Trust — Payoff [18:00–18:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm office environment with beige walls and gentle overhead lighting creating peaceful atmosphere
+
+ACTIONS:
+- Security desk in warm amber lamplight, empty chair facing bank of monitors showing elevator lobby, soft golden light pooling on desk surface
+- Warm office environment with beige walls and gentle overhead lighting creating peaceful atmosphere
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- chair creaking as weight shifts
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 137: Trust — Payoff [18:08–18:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm amber desk lamp casts gentle glow across the photo, beige wall behind, intimate office space
+
+ACTIONS:
+- Framed photograph of a young boy sits on a wooden desk, soft focus background
+- A hand enters frame from right, fingertips gently touching the photo's edge, posture relaxed and protective
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- fingertips brushing photo frame
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 138: Trust — Payoff [18:16–18:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm office environment, amber desk lamp glow, beige walls, soft overhead lighting creating comfortable workspace atmosphere
+
+ACTIONS:
+- Security guard at desk, shoulders relaxed, slight satisfied nod, hands resting calmly on console edge
+- Reviewing monitor screens with quiet confidence, posture open and settled
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- keyboard keys clicking softly
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 139: Trust — Payoff [18:24–18:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm amber monitor glow illuminating frame edges, comfortable office lighting
+
+ACTIONS:
+- Security monitor screen displaying timestamp '2:31-3:15' in corner, footage playing normally on 6th floor camera feed
+- Warm amber monitor glow illuminating frame edges, comfortable office lighting
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- mouse clicking twice
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 140: Trust — Payoff [18:32–18:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm amber monitor backlight, comfortable office environment
+
+ACTIONS:
+- Corner of security monitor screen, floor indicator number glowing softly, finger entering frame and tapping glass once near the number
+- Warm amber monitor backlight, comfortable office environment
+
+CAMERA:
+Extreme Close-up | Static
+
+AUDIO:
+- fingernail tapping glass screen
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 141: Trust — Payoff [18:40–18:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Comfortable office lighting, soft focus on background desk elements
+
+ACTIONS:
+- Security monitor corner showing floor indicator label and mounting information, warm amber glow from screen, finger pointing at small text
+- Comfortable office lighting, soft focus on background desk elements
+
+CAMERA:
+Extreme Close-up | Static
+
+AUDIO:
+- pen tapping monitor frame twice
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 142: Trust — Payoff [18:48–18:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Soft office lighting, warm color temperature maintained
+
+ACTIONS:
+- Security monitor corner displaying floor number '13' where '6' should be, glowing in warm amber light
+- Frame holds uncomfortably long on the wrong number
+
+CAMERA:
+Extreme Close-up | Static
+
+AUDIO:
+- paper rustling once
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 143: Trust — Payoff [18:56–19:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm overhead office lighting, amber desk lamp, comfortable workspace
+
+ACTIONS:
+- Security guard at desk facing slightly toward camera, shoulders squared, hands folded on desk surface, expression calm and direct
+- Warm overhead office lighting, amber desk lamp, comfortable workspace
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- chair creaking softly
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 144: Trust — Payoff [19:04–19:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Security desk in warm office space, multiple monitors glowing amber, guard seated at console reviewing footage, overhead lights creating comfortable workspace atmosphere
+
+ACTIONS:
+- Security desk in warm office space, multiple monitors glowing amber, guard seated at console reviewing footage, overhead lights creating comfortable workspace atmosphere
+- Beige walls, organized desk, professional environment
+
+CAMERA:
+Wide | Zoom out
+
+AUDIO:
+- desk drawer sliding closed
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+════════════════════════════════════════════════════════════════
+[END SCENE PROMPTS]
+════════════════════════════════════════════════════════════════
