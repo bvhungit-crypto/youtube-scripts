@@ -1,0 +1,1431 @@
+════════════════════════════════════════════════════════════════
+[CHARACTERS Description]
+════════════════════════════════════════════════════════════════
+
+PROJECT: The_welfare_state_didn_t_know_it_was_a_demographic_suicide_machine__Germany_found_out
+
+RATIO: 16:9
+
+--------------------------------------------------
+STYLE (DETAILED - MANDATORY):
+
+- Style Directive: Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.
+
+- Medium: Animation
+
+- Visual Style:
+  - Cel-shaded forms with hard shadow boundaries
+  - Motion-graphics composition — geometric layout, animated transitions
+  - Infographic composition — labels, callouts, data hierarchy
+
+- Character Design:
+  Exaggerated proportions and expressions; Over-the-top emotional range
+
+- Materials & Textures:
+  [e.g. Flat colors only / Cel-shaded with soft shadow / Painterly with visible brushwork]
+
+- Lighting:
+  Volumetric lighting with visible light shafts; Soft ambient lighting
+
+- Color Palette:
+  [Define color roles — e.g. Red = danger, Yellow = energy, Blue = calm, Black outline for clarity]
+
+- Rendering Quality:
+  [e.g. Crisp, clean, high-definition / Slightly grainy retro / Hyper-smooth anime-style]
+
+- Motion Feel:
+  Snappy, sharp transitions; Exaggerated, over-the-top motion; Over-the-top exaggerated reactions
+
+- Overall Impression:
+  [One paragraph — what should viewers FEEL when watching? What is the visual "brand" of this project?]
+
+--------------------------------------------------
+TONE:
+[Overall emotional register — e.g. High tension, urgent, dramatic / Dark comedic, absurdist / Warm and nostalgic / Energetic and hype]
+[Detected dominant emotion (auto, for reference): Trust]
+
+--------------------------------------------------
+RENDERING RULES:
+
+- [Rule 1 — e.g. NO TEXT, NO LETTERS, NO SYMBOLIC WORDS in any scene]
+- [Rule 2 — e.g. Story must be conveyed entirely through visuals and expressions]
+- [Rule 3 — e.g. Each scene must have a clear visual conflict or action beat]
+- [Rule 4 — e.g. Only include characters explicitly required in each scene]
+- [Rule 5 — e.g. No background crowd, no unnecessary props]
+- [Add more rules as needed]
+
+--------------------------------------------------
+CHARACTERS (LOCKED):
+
+- Character 1: [Name]
+  [Physical description — face shape, skin tone, eye style]
+  [Hair — color #HEX, length, style]
+  [Default outfit — top, bottom, shoes, accessories]
+  [Signature trait]
+  [Expression range]
+
+- Character 2: [Name]
+  [Physical description]
+  [Hair — color #HEX, length, style]
+  [Default outfit]
+  [Signature trait]
+  [Expression range]
+
+--------------------------------------------------
+ENVIRONMENT (GLOBAL):
+
+[Default background / world setting for the entire project]
+[e.g. Minimal clean background, soft gradient sky / Neon-lit urban rooftop / Pastel fantasy kingdom]
+[Note: individual scenes can override this with their own ENVIRONMENT field]
+
+[Detected scene environments (auto, for reference):]
+  - The scene is drawn with UPA-style simplicity, no depth or shading, just flat color fills and black outlines
+  - Neutral warm lighting, flat color fills, no depth
+  - Neutral lighting shifts to a bright burst at the reveal
+  - Sterile clinical white background with faint grid lines
+  - The background is plain paper texture
+  - Neutral warm lighting, no depth or shading
+  - Neutral warm lighting, no depth
+  - Flat cel-shaded 2D infographic: Split-screen composition on paper texture
+  - Sterile blue-white background, UPA-style flat composition, zero depth, no shading
+  - Flat cel-shaded 2D animation on paper texture: Drawn hospital room interior, clean inked outlines, patient silhouette flat on bed, exaggerated grid of electrode dots on head, fluorescent tube lines above casting no shadow
+  - Data stream lines flow from waveform to simplified brain icon on right, UPA editorial style, sterile blue-white background, zero depth, no shading
+  - Brain and AI chip icons side-by-side, synchronized layer progression, UPA editorial style, warmer amber tones, zero depth, no shading
+
+--------------------------------------------------
+GOAL:
+[Optional — one sentence stating the visual storytelling goal of the entire video]
+[e.g. "Make the audience feel the tension of nuclear deterrence without using any text or narration"]
+
+════════════════════════════════════════════════════════════════
+[END CHARACTERS Description]
+════════════════════════════════════════════════════════════════
+
+
+════════════════════════════════════════════════════════════════
+SCENE PROMPTS
+════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────
+🎬 SCENE 01: Trust — Hook [00:00–00:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The scene is drawn with UPA-style simplicity, no depth or shading, just flat color fills and black outlines
+
+ACTIONS:
+- Flat cel-shaded 2D: A drawn door with clean inked outline swings open on paper texture, revealing an empty doorway
+- The door handle is mid-turn, frozen in motion
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- door hinge creaking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 02: Trust — Hook [00:08–00:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Neutral warm lighting, flat color fills, no depth
+
+ACTIONS:
+- Flat cel-shaded 2D: A drawn head silhouette in profile on paper texture, clean inked outline
+- Thought bubbles pop above the head in snappy motion-graphic timing, each containing incomplete sentence fragments: 'A room…', 'A person…', 'Something wrong…'
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- pen scratching paper, bubble popping sounds
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 03: Surprise — Hook [00:16–00:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Neutral lighting shifts to a bright burst at the reveal
+
+ACTIONS:
+- Flat cel-shaded 2D: A drawn scientist figure with exaggerated wide eyes and raised eyebrows stares at a chart on paper texture
+- The chart shows brain wave patterns that visually resemble AI neural network diagrams—both drawn with clean inked outlines
+
+CAMERA:
+Wide | Zoom out
+
+AUDIO:
+- paper rustling, sudden electronic beep
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 04: Trust — Hook [00:24–00:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Sterile clinical white background with faint grid lines
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture: drawn brain outline in clean black ink, grid of electrode dots appearing one by one across the cortex surface
+- Podcast waveform animates as a simple line graph beside the brain, each peak syncing with electrode activation shown as small radiating circles
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- pen tapping electrode dots onto paper, soft click of each dot placement
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 05: Trust — Hook [00:32–00:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The background is plain paper texture
+
+ACTIONS:
+- Flat cel-shaded 2D: A large question mark icon drawn with clean inked outline on paper texture
+- The icon pulses once—a single subtle scale-up and scale-down—then holds static
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- single soft chime
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 06: Trust — Hook [00:40–00:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Neutral warm lighting, no depth or shading
+
+ACTIONS:
+- Flat cel-shaded 2D: A drawn brain icon and an AI chip icon side-by-side on paper texture, both with clean inked outlines and flat color fills
+- An equals sign fades in between them, appearing gradually from transparent to solid
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- soft electronic tone fading in
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 07: Trust — Hook [00:48–00:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Neutral warm lighting, no depth
+
+ACTIONS:
+- Flat cel-shaded 2D: Three horizontal layers stacked vertically on paper texture, each labeled with clean inked text: 'Prediction', 'Layer', 'Probability'
+- The layers animate in sequence—first layer slides in from left, second from right, third from left—with snappy motion-graphic timing
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- three distinct clicks, one per layer
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 08: Trust — Hook [00:56–01:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Flat cel-shaded 2D infographic: Split-screen composition on paper texture
+
+ACTIONS:
+- Flat cel-shaded 2D infographic: Split-screen composition on paper texture
+- Left side shows a drawn brain with color-coded regions (warm amber tones)
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- soft connection tone, line drawing sound
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 09: Trust — Hook [01:04–01:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Sterile blue-white background, UPA-style flat composition, zero depth, no shading
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- five years
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture: A drawn question mark flips 180 degrees mid-frame, clean inked outline, exaggerated rotation with snappy motion-graphic timing
+- Below it, hand-lettered text morphs from 'Can AI think?' to 'Do we?' in bold sans-serif, letters rearranging with satirical snap
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- paper flipping, pen scratching text
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 10: Trust — Hook [01:12–01:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Flat cel-shaded 2D animation on paper texture: Drawn hospital room interior, clean inked outlines, patient silhouette flat on bed, exaggerated grid of electrode dots on head, fluorescent tube lines above casting no shadow
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture: Drawn hospital room interior, clean inked outlines, patient silhouette flat on bed, exaggerated grid of electrode dots on head, fluorescent tube lines above casting no shadow
+- Sterile white walls, clinical blue accents, UPA editorial style, zero depth, static hold
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- fluorescent light buzzing, electrode contact clicking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 11: Trust — Hook [01:20–01:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Flat cel-shaded 2D animation on paper texture: Same drawn hospital scene, slight camera push-in on electrode grid, clean inked outlines, exaggerated flat-drawn hand enters frame holding earbuds, inserts them into patient's ears with snappy motion-graphic timing
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture: Same drawn hospital scene, slight camera push-in on electrode grid, clean inked outlines, exaggerated flat-drawn hand enters frame holding earbuds, inserts them into patient's ears with snappy motion-graphic timing
+- Sterile blue-white palette, UPA style, zero depth, no shading
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- earbud insertion click, cable rustling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 12: Trust — Build Up [01:28–01:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Data stream lines flow from waveform to simplified brain icon on right, UPA editorial style, sterile blue-white background, zero depth, no shading
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture: Drawn podcast waveform animates horizontally across screen, clean inked outline, exaggerated peaks and valleys with snappy motion-graphic timing
+- Data stream lines flow from waveform to simplified brain icon on right, UPA editorial style, sterile blue-white background, zero depth, no shading
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- waveform pulsing, data stream beeping
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 13: Trust — Build Up [01:36–01:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Flat cel-shaded 2D animation on paper texture: Drawn journal cover graphic, hand-lettered 'Nature Communications' in bold serif, clean inked outline, exaggerated institutional badge icons (Hebrew University, Princeton, Google logos) arranged in flat composition, UPA editorial style, sterile blue-white palette, zero depth, no shading
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture: Drawn journal cover graphic, hand-lettered 'Nature Communications' in bold serif, clean inked outline, exaggerated institutional badge icons (Hebrew University, Princeton, Google logos) arranged in flat composition, UPA editorial style, sterile blue-white palette, zero depth, no shading
+- Brief hold
+- Fade
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- page turning, paper settling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 14: Trust — Build Up [01:44–01:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Flat cel-shaded 2D animation on paper texture: Words appear sequentially on horizontal timeline, clean inked text, exaggerated electrode dots light up in sync with each word, snappy motion-graphic timing
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture: Words appear sequentially on horizontal timeline, clean inked text, exaggerated electrode dots light up in sync with each word, snappy motion-graphic timing
+- Simplified brain diagram on right, UPA editorial style, sterile blue-white palette transitioning to warmer amber tones, zero depth, no shading
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- word appearing beep, electrode clicking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 15: Trust — Build Up [01:52–02:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Flat cel-shaded 2D animation on paper texture: Drawn transcript icon splits into two paths with exaggerated motion-graphic snap—one path toward simplified brain icon, one toward AI chip icon, clean inked outlines, UPA editorial style, warmer amber tones, zero depth, no shading
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture: Drawn transcript icon splits into two paths with exaggerated motion-graphic snap—one path toward simplified brain icon, one toward AI chip icon, clean inked outlines, UPA editorial style, warmer amber tones, zero depth, no shading
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- paper splitting, path branching whoosh
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 16: Trust — Build Up [02:00–02:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Brain and AI chip icons side-by-side, synchronized layer progression, UPA editorial style, warmer amber tones, zero depth, no shading
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture: Layered diagram animates bottom-to-top, early layers simple geometric shapes, deeper layers complex interlocking patterns, clean inked outlines, exaggerated motion-graphic timing
+- Brain and AI chip icons side-by-side, synchronized layer progression, UPA editorial style, warmer amber tones, zero depth, no shading
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- layer stacking clicks, pattern assembling beeps
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 17: Trust — Build Up [02:08–02:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Flat UPA-style editorial infographic, zero depth, no volumetric lighting
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture: drawn brain diagram with clean inked outlines, Broca's area region highlighted in contrasting amber color, flat shading only
+- Alignment meter icon beside brain peaks upward with snappy motion-graphic timing
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- pen tapping paper twice
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 18: Trust — Build Up [02:16–02:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Three horizontal layers animate simultaneously beneath hybrid icon, each refining the previous with snappy timing
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture: drawn brain icon and AI chip icon merge into single hybrid symbol at center, clean inked outlines
+- Three horizontal layers animate simultaneously beneath hybrid icon, each refining the previous with snappy timing
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- three quick pen scratches on paper
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 19: Surprise — Build Up [02:24–02:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Flat UPA-style editorial infographic, zero depth, no volumetric lighting
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture: drawn eye icon sees fragmented geometric shapes (incomplete puzzle pieces), brain icon assembles them into coherent form with exaggerated snappy motion
+- Prediction arrow drawn between eye and brain with clean ink outline
+
+CAMERA:
+Medium | Crane
+
+AUDIO:
+- puzzle piece snapping into place
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 20: Trust — Build Up [02:32–02:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Flat UPA-style editorial infographic, zero depth, no 3D rendering
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- twenty years
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture: drawn book icon opens at center with clean inked outline, pages flip rapidly with snappy motion-graphic timing
+- Hand-drawn text 'FREE ENERGY PRINCIPLE' appears in bold inked letters across open pages
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- pages flipping rapidly
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 21: Trust — Build Up [02:40–02:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Flat UPA-style editorial motion graphics, zero depth, no volumetric lighting
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- twenty years
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture: large question mark icon appears at center with clean inked outline, flat color fill
+- Icon pulses once with exaggerated timing
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- single pen tap on paper
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 22: Trust — Build Up [02:48–02:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Flat UPA-style editorial infographic, zero depth, no 3D rendering
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture: drawn brain diagram at center with mechanical gears inside, flat color shading, clean inked outlines
+- Single gear rotates once with snappy motion-graphic timing
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- single gear click
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 23: Surprise — Build Up [02:56–03:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Flat UPA-style editorial motion graphics, zero depth, no volumetric lighting
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture: three icons appear in sequence with snappy timing—eye icon, hand icon, lightbulb icon—each with clean inked outlines and flat color fills
+- Prediction arrows connect each to central brain diagram
+
+CAMERA:
+Medium | Crane
+
+AUDIO:
+- three quick pen taps on paper
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 24: Trust — Build Up [03:04–03:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Flat UPA-style editorial infographic, zero depth, no 3D rendering
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture: drawn checkmark icon at center pulses once with calm green flat color fill, clean inked outline
+- Paper texture visible throughout
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- soft paper tap
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 25: Trust — Build Up [03:12–03:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clean graphic composition, UPA-style simplicity
+
+ACTIONS:
+- Flat cel-shaded 2D: A drawn hand with extended index finger, inked outline on paper texture, aims directly at viewer
+- Finger held steady, no depth, no shading
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- single sharp finger tap on hard surface
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 26: Trust — Build Up [03:20–03:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+UPA editorial motion graphic timing
+
+ACTIONS:
+- Flat cel-shaded 2D: Phone icon vibrates (drawn motion lines), flat hand reaches toward it, phone outline fades to ghost transparency
+- Inked outlines on paper texture, exaggerated gesture, no depth
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- phone buzz vibration, fabric rustle against pocket
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 27: Trust — Build Up [03:28–03:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Snappy motion-graphic timing, UPA-style
+
+ACTIONS:
+- Flat cel-shaded 2D: Three musical notes appear as inked icons
+- Multiply rapidly across frame in cascading pattern
+- Flat graphic multiplication, no depth, clean paper texture
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- three ascending piano notes C-E-G
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 28: Trust — Build Up [03:36–03:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Satirical over-the-top expression, UPA character design
+
+ACTIONS:
+- Flat cel-shaded 2D: Door swings open (inked arc), silhouette figure appears suddenly in doorway, exaggerated surprise pose with raised arms and wide stance
+- Flat shapes, no depth, paper texture
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- door creak hinge, sharp inhale gasp
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 29: Trust — Build Up [03:44–03:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Flat graphic, no depth, clean editorial style
+
+ACTIONS:
+- Flat cel-shaded 2D: The word 'METAPHOR' appears in bold inked letters on paper texture
+- Bold X scratches across it in single decisive stroke
+- Flat graphic, no depth, clean editorial style
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- pen scratching X across paper
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 30: Trust — Deep [03:52–04:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+UPA-style infographic
+
+ACTIONS:
+- Flat cel-shaded 2D: Three arrows in cycle (predict → compare → update) loop continuously, inked outlines on paper texture
+- Flat graphic cycle, no depth, clean motion-graphic timing
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- three soft clicks repeating in rhythm
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 31: Trust — Deep [04:00–04:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Teal accent on icons
+
+ACTIONS:
+- Flat cel-shaded 2D: Brain icon morphs into heart icon via flat transformation, inked outlines on paper texture
+- Clean shape-tween, no depth, UPA editorial style
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- single whoosh transition sound
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 32: Anticipation — Deep [04:08–04:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Amber accent, dramatic side lighting effect (drawn as flat gradient)
+
+ACTIONS:
+- Flat cel-shaded 2D: Question mark floats between brain icon and heart icon, both drawn flat with inked outlines on paper texture
+- Amber accent, dramatic side lighting effect (drawn as flat gradient)
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- pen tapping twice on desk
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 33: Trust — Deep [04:16–04:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Desaturated neutral palette, 3700K teal accent
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture: a drawn brain icon and a drawn heart icon slide together and merge into a single unified shape, clean inked outlines, flat teal and white colors, no depth or shading, UPA editorial style
+- The merged icon holds centered on cream paper background
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- two flat objects clicking together
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 34: Trust — Deep [04:24–04:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Desaturated neutral palette, 3700K teal accent
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture: the unified brain-heart icon from previous shot holds perfectly still, centered on cream paper, clean black ink outline, flat teal fill, no movement, long contemplative hold
+- Desaturated neutral palette, 3700K teal accent
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- single soft thud
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 35: Fear — Deep [04:32–04:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Harsh contrast, 2700K warm tone with red accent
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture: drawn checkmark icon and drawn smiley face icon align side-by-side, both clean inked outlines, flat colors
+- As camera slowly pushes in, the icons begin to tremble slightly
+- A drawn X mark and frowning face appear below, misaligned and shaking
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- two soft clicks, then rapid pen scratching
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 36: Sadness — Deep [04:40–04:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Low key overcast lighting, 3000K very muted, no color accent
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture: drawn X mark and sad face icon, misaligned, floating separately on muted cream paper, clean black ink outlines, no fill colors—just outlines
+- The icons drift very slightly apart as camera gently pulls back
+
+CAMERA:
+Close-up | Zoom out
+
+AUDIO:
+- single low tone
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 37: Trust — Deep [04:48–04:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Desaturated neutral palette, 3700K teal accent
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture: two drawn stick figures side-by-side, clean inked outlines
+- The left figure remains solid black ink, while the right figure slowly fades to a dotted outline
+- To barely visible, leaving only the solid figure
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- faint erasing sound
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 38: Trust — Deep [04:56–05:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Desaturated neutral palette, 3700K teal accent
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture: drawn mug icon appears centered, clean black ink outline, flat white fill
+- A dotted outline of a stick figure materializes beside the mug
+- Fades out
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- ceramic clink
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 39: Trust — Deep [05:04–05:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Desaturated neutral palette, 3700K teal accent
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture: drawn kitchen icon—simple table and mug, clean black ink outlines, flat colors, no figures present
+- The scene holds completely still on cream paper background, long contemplative hold
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- clock ticking once
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 40: Trust — Deep [05:12–05:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Desaturated neutral palette, 3700K teal accent
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture: drawn bed icon, simple rectangular frame with pillow, clean black ink outline
+- A dotted outline of a stick figure appears on the right side of the bed with exaggerated snappy timing, holds for one second
+- Vanishes abruptly
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- sheet rustling, single breath
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 41: Sadness — Deep [05:20–05:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Desaturated neutral palette—pale grays and muted off-whites
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture: the word 'GRIEF' hand-inked in bold capitals dissolves stroke by stroke into a cascade of stacked prediction arrows, each arrow fragmenting downward
+- Clean black outlines, no depth, no shading
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- pen scratching paper, ink bleeding into fibers
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 42: Trust — Deep [05:28–05:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Authoritative teal accent against neutral gray-white background
+
+ACTIONS:
+- Flat cel-shaded 2D infographic on paper texture: two overlapping circles drawn in clean ink—left circle labeled 'REAL' in sans-serif caps, right circle labeled 'PREDICTED', intersection shaded with flat teal hatch marks
+- No depth, no gradient
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- ruler sliding across paper, compass point scratching circle
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 43: Trust — Deep [05:36–05:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clean inked outlines, flat teal accent on arrow tip, neutral gray background
+
+ACTIONS:
+- Flat cel-shaded 2D on paper: a bold arrow icon in black ink pointing left toward a simplified brain diagram (outline only, no detail)
+- The arrow snaps into frame with a single motion-graphic pop
+- Holds
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- paper snap, arrow stamping onto surface
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 44: Trust — Deep [05:44–05:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Flat cel-shaded 2D split-screen on paper texture: left half shows a simplified brain cross-section with three horizontal layers, each layer labeled with a small prediction arrow pointing right
+
+ACTIONS:
+- Flat cel-shaded 2D split-screen on paper texture: left half shows a simplified brain cross-section with three horizontal layers, each layer labeled with a small prediction arrow pointing right
+- Right half shows a neural network diagram with three stacked nodes, each node with a prediction arrow pointing right
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- pen tapping paper twice, ruler sliding
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 45: Trust — Deep [05:52–06:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clean outline, flat teal accent at the base, neutral gray background, no depth, no shading
+
+ACTIONS:
+- Flat cel-shaded 2D on paper: a bold exclamation mark icon in black ink pulses once—scales up 10%
+- Snaps back to original size in a single motion-graphic beat
+- Clean outline, flat teal accent at the base, neutral gray background, no depth, no shading
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- single sharp tap on desk, paper rustling once
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 46: Anticipation — Deep [06:00–06:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Amber accent on timeline markers, desaturated neutral background
+
+ACTIONS:
+- Flat cel-shaded 2D on paper: two separate horizontal timelines drawn in black ink—top timeline shows a brain icon evolving through three stages (simple to complex outline), bottom timeline shows a laptop icon with code brackets appearing in stages
+- The timelines do not connect
+- A visible gap remains between them
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- keyboard clicking slowly, pen scratching intermittently
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 47: Trust — Deep [06:08–06:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The diagrams stop just before contact, leaving a thin vertical gap
+
+ACTIONS:
+- Flat cel-shaded 2D on paper: brain diagram (left) and AI network diagram (right) drift toward the center of frame in slow motion, closing the gap but not yet touching
+- Both drawn in clean black ink, flat teal accents, no depth, no shading
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- paper sliding slowly across table, soft friction
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 48: Trust — Deep [06:16–06:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clean black ink outlines, teal and amber accents, neutral gray background, no depth
+
+ACTIONS:
+- Flat cel-shaded 2D on paper: brain diagram and AI network diagram now overlap slightly at center, with a shared middle layer highlighted in contrasting flat amber
+- The overlapping region is shaded with simple hatch marks, no gradient
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- two sheets of paper sliding together, single tap
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 49: Trust — Deep [06:24–06:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+UPA editorial style, zero depth, no volumetric lighting
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture: two parallel flowcharts drawn in clean ink—left side shows organic branching tree with DNA helix motif labeled 'NATURAL SELECTION', right side shows geometric grid with gradient arrows labeled 'GRADIENT DESCENT'
+- Both converge at bottom into identical layered network diagram
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- pen scratching paper, ruler sliding across surface
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 50: Trust — Deep [06:32–06:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Flat teal and amber on cream paper texture, clean UPA style, no shadows or depth
+
+ACTIONS:
+- Flat 2D cel animation on paper: the two separate diagrams from previous frame now merge into single unified network structure at center, drawn with bold ink outlines
+- Brain icon and circuit icon dissolve into identical layered node diagram
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- two sheets of paper sliding together, single tap on desk
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 51: Trust — Deep [06:40–06:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Below, small text labels: 'PROBLEM: REALITY' with three descriptors—'NOISY', 'AMBIGUOUS', 'INCOMPLETE'—each word appearing sequentially as if typed
+
+ACTIONS:
+- Flat 2D infographic on paper texture: large equals sign appears center frame between brain diagram (left) and AI network diagram (right), both now structurally identical
+- Inked outlines, flat cel-shaded style, desaturated teal and amber on cream
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- typewriter keys clicking, paper rustling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 52: Trust — Deep [06:48–06:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cel-shaded UPA style, clean outlines, desaturated teal and amber on cream paper texture, no depth or lighting effects
+
+ACTIONS:
+- Flat 2D split-screen on paper: left half shows brain diagram with arrow pointing down to label 'SURVIVAL' in bold ink, right half shows AI network with arrow pointing to 'COMPLETION'
+- Both diagrams emit identical prediction arrows radiating outward in flat geometric pattern
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- pen underlining text twice, paper tapping desk
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 53: Anticipation — Deep [06:56–07:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The visual asks the question without answering it, creating an open loop
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture: the word 'THINKING' drawn in bold ink at center frame, surrounded by a dotted outline that flickers and shifts—sometimes solid, sometimes broken
+- Around the word, small hand-drawn icons orbit slowly: a brain, a circuit, a speech bubble, a gear—all rendered in simple black line art with amber accents
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- pen scratching paper, soft rhythmic tapping
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 54: Anticipation — Deep [07:04–07:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The visual asks the question without answering it, creating an open loop
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture: the word 'THINKING' drawn in bold ink at center frame, surrounded by a dotted outline that flickers and shifts—sometimes solid, sometimes broken
+- Around the word, small hand-drawn icons orbit slowly: a brain, a circuit, a speech bubble, a gear—all rendered in simple black line art with amber accents
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- chalk on blackboard, soft erasing sound
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 55: Trust — Deep [07:12–07:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Desaturated teal and amber on cream paper, clean UPA outlines, zero depth
+
+ACTIONS:
+- Flat 2D cel animation on paper: the word 'THINKING' remains center frame, now with a small halo icon above it that fades out over 3 seconds, leaving only the word in solid ink
+- Below, an arrow points down to the word 'COMPUTATION' in bold
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- eraser rubbing paper, pen drawing single arrow stroke
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 56: Trust — Deep [07:20–07:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+UPA editorial motion graphics, zero depth, no lighting effects
+
+ACTIONS:
+- Flat 2D infographic on paper: two labeled boxes side by side—left box contains 'CONSCIOUSNESS' with bold red X mark, right box contains 'LANGUAGE' with green checkmark
+- Both drawn in clean ink, flat cel-shaded style, desaturated teal and amber on cream paper texture
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- pen drawing X mark, pen drawing checkmark, paper tapping desk
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 57: Trust — Deep [07:28–07:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm 4000K lighting
+
+ACTIONS:
+- Flat cel-shaded 2D infographic animation on paper texture
+- Three hand-drawn icons appear in sequence: heart outline, cloud outline, eye outline
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- quiet focused space, minimal room tone, clean silence
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 58: Trust — Deep [07:36–07:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Flat cel-shaded 2D infographic animation on paper texture: three hand-drawn icons in clean inked outlines—a speech bubble labeled 'meaning,' a connecting line labeled 'context,' and a lightbulb labeled 'prediction'—arranged in a simple flowchart
+
+ACTIONS:
+- Flat cel-shaded 2D infographic animation on paper texture: three hand-drawn icons in clean inked outlines—a speech bubble labeled 'meaning,' a connecting line labeled 'context,' and a lightbulb labeled 'prediction'—arranged in a simple flowchart
+- Each icon has a checkmark appearing beside it in sequence
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- pen scratching paper, checkmark tapping
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 59: Trust — Payoff [07:44–07:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Flat cel-shaded 2D infographic on paper texture: two hand-drawn icons—a simplified brain outline on the left and a circuit-chip outline on the right—separated by a vertical gap drawn as a thick black line
+
+ACTIONS:
+- Flat cel-shaded 2D infographic on paper texture: two hand-drawn icons—a simplified brain outline on the left and a circuit-chip outline on the right—separated by a vertical gap drawn as a thick black line
+- The gap shrinks smoothly to a hairline
+- Holds
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- ruler sliding on paper, pencil line drawing
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 60: Surprise — Payoff [07:52–08:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Flat cel-shaded 2D infographic on paper texture: a large hand-drawn mirror icon centered on screen, with a simplified brain outline on the left side and a circuit-chip outline on the right, perfectly symmetrical
+
+ACTIONS:
+- Flat cel-shaded 2D infographic on paper texture: a large hand-drawn mirror icon centered on screen, with a simplified brain outline on the left side and a circuit-chip outline on the right, perfectly symmetrical
+- The mirror line is a bold vertical stroke
+
+CAMERA:
+Wide | Crane
+
+AUDIO:
+- paper unfolding, single bell chime
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 61: Trust — Payoff [08:00–08:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Flat cel-shaded 2D infographic on paper texture: the word 'LANGUAGE' hand-drawn in bold ink, centered on screen
+
+ACTIONS:
+- Flat cel-shaded 2D infographic on paper texture: the word 'LANGUAGE' hand-drawn in bold ink, centered on screen
+- The letters are thick, clean, and static
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- pen scratching paper, ink drying hiss
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 62: Trust — Payoff [08:08–08:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Flat cel-shaded 2D infographic on paper texture: two side-by-side diagrams—a simplified brain outline on the left and a circuit-chip outline on the right—each with identical arrow patterns overlaid in clean inked lines
+
+ACTIONS:
+- Flat cel-shaded 2D infographic on paper texture: two side-by-side diagrams—a simplified brain outline on the left and a circuit-chip outline on the right—each with identical arrow patterns overlaid in clean inked lines
+- The arrows flow in the same direction and rhythm
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- pen drawing arrows, paper rustling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 63: Trust — Payoff [08:16–08:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Flat cel-shaded 2D infographic on paper texture: a flat platform labeled 'UNIQUENESS' in bold ink, centered on screen
+
+ACTIONS:
+- Flat cel-shaded 2D infographic on paper texture: a flat platform labeled 'UNIQUENESS' in bold ink, centered on screen
+- A vertical crack appears down the middle, and the two halves tilt apart in snappy motion-graphic timing
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- paper tearing, platform creaking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 64: Trust — Payoff [08:24–08:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Flat cel-shaded 2D infographic on paper texture: three hand-drawn icons appear in sequence—a heart outline, a cloud outline, and an eye outline—each in clean inked lines
+
+ACTIONS:
+- Flat cel-shaded 2D infographic on paper texture: three hand-drawn icons appear in sequence—a heart outline, a cloud outline, and an eye outline—each in clean inked lines
+- They appear left to right with snappy motion-graphic timing
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- pen tapping paper three times, ink scratching
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 65: Trust — Payoff [08:32–08:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Desaturated neutral tones, paper grain visible
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- twenty years
+
+ACTIONS:
+- Flat cel-shaded 2D: A drawn calendar on paper texture, pages flipping backward in snappy motion-graphic timing
+- Bold inked numbers blur past—2024, 2020, 2015—until the flip stops sharply on a page reading '2005' in thick black ink
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- paper pages flipping rapidly, single page slap
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 66: Trust — Payoff [08:40–08:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Long hold on empty space after erasure
+
+ACTIONS:
+- Flat 2D infographic: The word 'ASSUMPTION' drawn in bold ink on paper texture
+- A flat eraser icon swipes horizontally across the word once, leaving a smudged trail
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- eraser rubbing paper once, faint graphite smudge
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 67: Trust — Payoff [08:48–08:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Desaturated neutral tones, paper grain visible
+
+ACTIONS:
+- Flat 2D: A neat stack of paper sheets drawn with clean ink outlines on paper texture
+- The top sheet slides off-screen left in slow, deliberate motion
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- single paper sheet sliding off stack
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 68: Trust — Payoff [08:56–09:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Desaturated neutral palette
+
+ACTIONS:
+- Flat 2D infographic: A single journal page icon—simple rectangle with horizontal lines—floats centered on paper texture
+- A small ripple effect (concentric inked circles) emanates once from the page, expands outward
+- Fades
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- single water droplet hitting surface, faint ripple
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 69: Trust — Payoff [09:04–09:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Desaturated neutral tones, paper texture visible
+
+ACTIONS:
+- Flat 2D infographic: An electrode grid (simple drawn circles connected by lines) and a layered model diagram (stacked rectangles) pulse alternately in snappy motion-graphic timing
+- Clean ink outlines, no depth, cel-shaded
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- two soft electronic beeps alternating
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 70: Anticipation — Payoff [09:12–09:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Flat 2D: Two arrows drawn in bold ink on paper texture—one labeled 'WORD' in sans-serif, one labeled 'MOMENT'—move forward in parallel, snappy motion-graphic timing
+
+ACTIONS:
+- Flat 2D: Two arrows drawn in bold ink on paper texture—one labeled 'WORD' in sans-serif, one labeled 'MOMENT'—move forward in parallel, snappy motion-graphic timing
+- They advance in sync
+- The camera pulls back to reveal both arrows pointing toward the same vanishing point
+
+CAMERA:
+Medium | Zoom out
+
+AUDIO:
+- two pen strokes on paper in quick succession
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 71: Trust — Payoff [09:20–09:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Desaturated neutral palette
+
+ACTIONS:
+- Flat 2D: A vertical inked line bisects the frame on paper texture
+- Labels 'HUMAN' and 'MACHINE' in bold sans-serif sit on either side
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- pen drawing single vertical line on paper, faint wobble scrape
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 72: Trust — Payoff [09:28–09:33]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm amber wash on paper texture, quiet focused atmosphere
+
+ACTIONS:
+- Flat cel-shaded 2D: A hand-drawn vertical dashed line labeled 'boundary' floats in white paper-textured space, shoulders relaxed, calm expression
+- The line gently dissolves into scattered dots that fade to transparency, leaving only floating labels 'human' and 'machine' with no divider between them
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- pen scratching paper, soft paper rustle
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+════════════════════════════════════════════════════════════════
+[END SCENE PROMPTS]
+════════════════════════════════════════════════════════════════
