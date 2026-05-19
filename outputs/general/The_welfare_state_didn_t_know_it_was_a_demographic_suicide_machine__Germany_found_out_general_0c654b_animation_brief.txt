@@ -1,0 +1,1510 @@
+════════════════════════════════════════════════════════════════
+[CHARACTERS Description]
+════════════════════════════════════════════════════════════════
+
+PROJECT: The_welfare_state_didn_t_know_it_was_a_demographic_suicide_machine__Germany_found_out
+
+RATIO: 16:9
+
+--------------------------------------------------
+STYLE (DETAILED - MANDATORY):
+
+- Style Directive: Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.
+
+- Medium: Animation
+
+- Visual Style:
+  - Cel-shaded forms with hard shadow boundaries
+  - Motion-graphics composition — geometric layout, animated transitions
+  - Infographic composition — labels, callouts, data hierarchy
+
+- Character Design:
+  Exaggerated proportions and expressions; Over-the-top emotional range
+
+- Materials & Textures:
+  [e.g. Flat colors only / Cel-shaded with soft shadow / Painterly with visible brushwork]
+
+- Lighting:
+  Volumetric lighting with visible light shafts; Soft ambient lighting
+
+- Color Palette:
+  [Define color roles — e.g. Red = danger, Yellow = energy, Blue = calm, Black outline for clarity]
+
+- Rendering Quality:
+  [e.g. Crisp, clean, high-definition / Slightly grainy retro / Hyper-smooth anime-style]
+
+- Motion Feel:
+  Snappy, sharp transitions; Exaggerated, over-the-top motion; Over-the-top exaggerated reactions
+
+- Overall Impression:
+  [One paragraph — what should viewers FEEL when watching? What is the visual "brand" of this project?]
+
+--------------------------------------------------
+TONE:
+[Overall emotional register — e.g. High tension, urgent, dramatic / Dark comedic, absurdist / Warm and nostalgic / Energetic and hype]
+[Detected dominant emotion (auto, for reference): Trust]
+
+--------------------------------------------------
+RENDERING RULES:
+
+- [Rule 1 — e.g. NO TEXT, NO LETTERS, NO SYMBOLIC WORDS in any scene]
+- [Rule 2 — e.g. Story must be conveyed entirely through visuals and expressions]
+- [Rule 3 — e.g. Each scene must have a clear visual conflict or action beat]
+- [Rule 4 — e.g. Only include characters explicitly required in each scene]
+- [Rule 5 — e.g. No background crowd, no unnecessary props]
+- [Add more rules as needed]
+
+--------------------------------------------------
+CHARACTERS (LOCKED):
+
+- Character 1: Surgeon General
+  [Physical description — face shape, skin tone, eye style — fill in]
+  [Hair — color #HEX, length, style — fill in]
+  [Default outfit — top, bottom, shoes, accessories — fill in]
+  [Signature trait — what makes them instantly recognizable — fill in]
+  [Expression range — what emotions they show most — fill in]
+
+- [Add unnamed characters (narrator, crowd, etc.) here if needed]
+
+--------------------------------------------------
+ENVIRONMENT (GLOBAL):
+
+[Default background / world setting for the entire project]
+[e.g. Minimal clean background, soft gradient sky / Neon-lit urban rooftop / Pastel fantasy kingdom]
+[Note: individual scenes can override this with their own ENVIRONMENT field]
+
+[Detected scene environments (auto, for reference):]
+  - Stark white paper-grain background, cool pale blue fill, red accent on screen
+  - A bold inked '2019' label floats beside the figure
+  - Cool pale gray background, neutral warm fill
+  - Paper grain background, amber side fill, clean UPA motion-graphic timing
+  - Flat cel-shaded 2D animation on paper texture: rapid-fire ink-stamped icons pop onto a cream paper background in sequence — sneezing figure at a desk, a doorbell with a surprised face, two hands sharing a plate, a coughing figure in a meeting room
+  - UPA editorial timing
+  - Cool pale blue and gray palette, zero depth, UPA motion-graphic timing
+  - Cool gray background with clean inked outlines, snappy motion-graphic pop on the pointing gesture, zero depth, UPA editorial style
+  - Warm amber and cream palette, bold inked outlines, zero depth, methodical deliberate timing
+  - Cool gray palette, bold inked outlines, zero depth, snappy UPA motion-graphic timing on the head-snap
+  - Cool gray and pale blue palette, zero depth, clean inked outlines, methodical UPA timing
+  - Cool gray palette, zero depth, clean inked outlines, snappy UPA motion-graphic timing on text stamp
+
+--------------------------------------------------
+GOAL:
+[Optional — one sentence stating the visual storytelling goal of the entire video]
+[e.g. "Make the audience feel the tension of nuclear deterrence without using any text or narration"]
+
+════════════════════════════════════════════════════════════════
+[END CHARACTERS Description]
+════════════════════════════════════════════════════════════════
+
+
+════════════════════════════════════════════════════════════════
+SCENE PROMPTS
+════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────
+🎬 SCENE 01: Fear — Hook [00:00–00:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Stark white paper-grain background, cool pale blue fill, red accent on screen
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture: a cartoon hand with exaggerated wide fingers recoils from a vibrating phone, jitter motion lines radiating outward, bold inked outlines, zero depth
+- Phone screen glows red with an incoming call name
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- phone vibrating on hard surface, rapid notification pings
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 02: Joy — Hook [00:08–00:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+A bold inked '2019' label floats beside the figure
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture: exaggerated flat-drawn figure with oversized grin holds a chunky telephone receiver aloft, arm raised in triumph, bold inked outlines, zero depth
+- Warm amber and cream fill, golden accent, paper grain background
+
+CAMERA:
+Wide | Handheld
+
+AUDIO:
+- telephone receiver clicking into cradle, cheerful button pressing
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 03: Trust — Hook [00:16–00:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cool pale gray background, neutral warm fill
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture: two oversized flat-drawn phones side by side, bold inked outlines, zero depth
+- Left phone shows 'UNKNOWN NUMBER' in clean sans-serif
+- Right shows a friend's name with a heart icon
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- two phones buzzing in alternation, finger tapping flat surface
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 04: Anticipation — Hook [00:24–00:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Paper grain background, amber side fill, clean UPA motion-graphic timing
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture: a flat-drawn Reddit thread scrolls upward, bold inked post title snaps into frame with ink-stamp impact, amber accent on headline text, zero depth
+- Upvote counter ticks upward in chunky numerals
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- keyboard clicking rapidly, upvote counter ticking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 05: Trust — Hook [00:32–00:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Flat cel-shaded 2D animation on paper texture: rapid-fire ink-stamped icons pop onto a cream paper background in sequence — sneezing figure at a desk, a doorbell with a surprised face, two hands sharing a plate, a coughing figure in a meeting room
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture: rapid-fire ink-stamped icons pop onto a cream paper background in sequence — sneezing figure at a desk, a doorbell with a surprised face, two hands sharing a plate, a coughing figure in a meeting room
+- Each icon snaps in with UPA timing, bold inked outlines, zero depth, cool gray tones
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- rubber stamp thudding, doorbell ringing, plate clinking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 06: Trust — Hook [00:40–00:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Flat cel-shaded 2D animation on paper texture: same icon grid from previous clip continues stacking vertically at faster tempo — mask-less coughing figure, a trophy labeled 'NEVER SICK DAY', a handshake with a red warning halo
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture: same icon grid from previous clip continues stacking vertically at faster tempo — mask-less coughing figure, a trophy labeled 'NEVER SICK DAY', a handshake with a red warning halo
+- Icons pile upward beyond the frame edge, implying infinite scroll
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- rubber stamp thudding faster, paper shuffling, trophy clanging
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 07: Trust — Hook [00:48–00:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+UPA editorial timing
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Seven years
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture: bold inked text card center frame reads 'SEVEN YEARS AGO' in large caps on cream paper grain
+- Below it, a flat cartoon figure with exaggerated wide eyes and arms spread in a massive shrug, eyebrows arched to hairline
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- paper card snapping into frame, single pen tap on desk
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 08: Trust — Hook [00:56–01:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Flat cel-shaded 2D animation on paper texture: split-screen — left panel labeled '2019' in warm cream, right panel labeled '2026' in cool gray
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture: split-screen — left panel labeled '2019' in warm cream, right panel labeled '2026' in cool gray
+- Bold inked calendar grids fill each side
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- red marker squeaking across paper, stamp thudding, arrow snapping
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 09: Trust — Hook [01:04–01:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cool pale blue and gray palette, zero depth, UPA motion-graphic timing
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture: an empty ballot box drawn with bold inked outlines, no checkmarks inside, sitting alone in a sparse white frame
+- A flat exaggerated figure beside it tilts its oversized head sideways, arms spread wide in a shrug, question marks floating around it in graphic pop-up style
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- paper rustling, hollow wooden knock
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 10: Trust — Hook [01:12–01:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cool gray background with clean inked outlines, snappy motion-graphic pop on the pointing gesture, zero depth, UPA editorial style
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture: an exaggerated flat-drawn figure with a comically oversized pointing arm jabs a bold inked arrow directly toward the viewer, breaking the frame edge
+- The arrow is half-revealed, tip cut off at screen edge
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- finger snap, ink stamp thud
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 11: Trust — Hook [01:20–01:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Flat cel-shaded 2D animation on paper texture: a flat exaggerated office figure sits at a desk buried under a towering stack of inked tissue boxes, grinning with an absurdly wide smile, a gold trophy icon stamped beside them
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture: a flat exaggerated office figure sits at a desk buried under a towering stack of inked tissue boxes, grinning with an absurdly wide smile, a gold trophy icon stamped beside them
+- Warm amber and cream tones, bold inked outlines, zero depth, snappy UPA motion-graphic timing
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- trophy ding, tissue box thud, desk knock
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 12: Trust — Build Up [01:28–01:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm amber and cream palette, bold inked outlines, zero depth, methodical deliberate timing
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture: an exaggerated flat boss figure with a wide grin hands an oversized trophy to a sneezing employee, both drawn in sepia ink with exaggerated UPA expressions
+- Sneeze lines radiate outward in graphic bursts
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- trophy clank, exaggerated sneeze sound effect, applause clap
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 13: Trust — Build Up [01:36–01:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cool gray palette, bold inked outlines, zero depth, snappy UPA motion-graphic timing on the head-snap
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture: a meeting table with six flat exaggerated figures, one figure mid-cough at center, five heads snap upward simultaneously with wide inked eyes and rigid posture
+- Cool gray palette, bold inked outlines, zero depth, snappy UPA motion-graphic timing on the head-snap
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- single sharp cough, chair scrape, pencil drop
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 14: Trust — Build Up [01:44–01:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cool gray and pale blue palette, zero depth, clean inked outlines, methodical UPA timing
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture: a bold split-panel graphic, left side labeled '2019' in inked block type, right side '2026.' Identical flat cough figure drawn twice in the same pose
+- Below each: opposite reaction icons — thumbs-up and trophy on the left, hazard symbol and running figure on the right
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- ink stamp thud, page tear
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 15: Trust — Build Up [01:52–02:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cool gray palette, zero depth, clean inked outlines, snappy UPA motion-graphic timing on text stamp
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture: bold quote text stamps onto paper texture letter by letter — 'ABSOLUTE VILLAIN BEHAVIOR' in oversized inked block caps
+- A flat exaggerated figure stands beside it, arms crossed, one eyebrow arched impossibly high, villain cape icon appearing behind them with a graphic pop
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- typewriter clacking, rubber stamp thud, cape whoosh
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 16: Trust — Build Up [02:00–02:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+A bold graphic label above the left reads 'RESPONSIBLE' in warm amber ink; it flips with a snappy motion-graphic cut to 'RECKLESS' in cool gray ink above the right
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture: two identical flat figures side by side, same pose, same inked outline
+- A bold graphic label above the left reads 'RESPONSIBLE' in warm amber ink
+- It flips with a snappy motion-graphic cut to 'RECKLESS' in cool gray ink above the right
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- label flip snap, arrow thud, ink scratch
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 17: Trust — Build Up [02:08–02:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cool pale-blue and gray palette, paper grain visible
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Six years
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture, clean inked outlines
+- Two calendar pages drawn side by side — left labeled '2014', right labeled '2020' — each bearing an identical small action icon (figure walking to office)
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- paper stamp thudding twice
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 18: Trust — Build Up [02:16–02:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cool gray palette, paper grain
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- three months
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture, clean inked outlines
+- A horizontal timeline bar fills the frame — left end labeled 'DECADES' in large bold ink, right end labeled '3 MONTHS' in small text
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- elastic snap sound, ink stamp thud
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 19: Trust — Build Up [02:24–02:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cool blue palette, pale gray background, paper grain
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture, clean inked outlines
+- A bold flat megaphone icon center-frame, 'STAY HOME' text stamps in from above in blocky ink letters
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- rubber stamp thud, footstep stopping abruptly
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 20: Trust — Build Up [02:32–02:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Office building icon on right side gets a bold red X stamped over it in a single flat cut — no fade, no transition
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture, clean inked outlines
+- Same exaggerated flat-drawn figure from prior scene now pivots 180 degrees and walks back toward a small house icon
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- rubber stamp thud, door closing knock
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 21: Trust — Build Up [02:40–02:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+A red X mark on the office icon remains fixed through every page flip, never erasing
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture, clean inked outlines
+- A flat-drawn calendar page flips from '2020' to '2026' — bold inked numbers, hand-drawn page-turn arc
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- paper page turning, pen scratching
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 22: Trust — Build Up [02:48–02:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cool pale-blue palette, paper grain
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture, clean inked outlines
+- Split-screen composition: left panel shows a flat virus icon, right panel shows a large bold question mark
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- three quick ink-stamp thuds
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 23: Trust — Build Up [02:56–03:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm sepia palette per color arc
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- two years
+- six percent
+- sixty percent
+- twenty-three percent
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture, clean inked outlines
+- An exaggerated flat-drawn crowded meeting table — eight figures with oversized speech bubbles overlapping chaotically, warm sepia-amber ink, paper grain
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- overlapping paper rustling, chair scraping
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 24: Trust — Build Up [03:04–03:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cool gray palette, stark empty space
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- two years
+- six percent
+- sixty percent
+- twenty-three percent
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture, clean inked outlines
+- Same meeting table now holds only one small flat-drawn figure at a laptop, surrounded by empty chairs
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- keyboard clicking, ink stamp thud three times
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 25: Trust — Build Up [03:12–03:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Flat cel-shaded 2D infographic animation on paper texture: animated bar chart with clean inked outlines, three vertical bars labeled '6%', '60%', '23%' rising and falling in sequence, drawn in UPA editorial motion-graphics style with exaggerated snappy timing
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- two years
+- six percent
+- sixty percent
+- twenty-three percent
+
+ACTIONS:
+- Flat cel-shaded 2D infographic animation on paper texture: animated bar chart with clean inked outlines, three vertical bars labeled '6%', '60%', '23%' rising and falling in sequence, drawn in UPA editorial motion-graphics style with exaggerated snappy timing
+- Bars are flat solid colors (pale blue, gray) with bold black outlines, no depth or shading
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- pen scratching paper, ruler sliding across desk
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 26: Trust — Build Up [03:20–03:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Flat cel-shaded 2D infographic on paper texture: horizontal line labeled 'normal' in bold black ink, drops sharply downward to new position labeled 'new floor' in red ink
+
+ACTIONS:
+- Flat cel-shaded 2D infographic on paper texture: horizontal line labeled 'normal' in bold black ink, drops sharply downward to new position labeled 'new floor' in red ink
+- Clean inked outlines, zero depth, UPA editorial style
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- chalk snapping on blackboard, paper tearing
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 27: Trust — Build Up [03:28–03:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm amber accent on lightbulb
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- two years
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture: exaggerated flat-drawn figure at desk, wide eyes and raised eyebrows in surprised expression, lightbulb icon pops into frame above head with snappy motion-graphic timing
+- Figure's posture shifts from hunched to upright, hands spread in realization gesture
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- lightbulb filament pinging, desk chair creaking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 28: Trust — Build Up [03:36–03:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm amber accent on mug, soft cream tones on background
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- two years
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture: same flat-drawn figure now relaxed at home desk, exaggerated content expression with closed eyes and slight smile, coffee mug in hand, slippers visible under desk
+- Clean inked outlines, UPA style, zero depth
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- coffee mug clinking on saucer, slippers shuffling on floor
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 29: Trust — Build Up [03:44–03:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Pale blue and gray palette
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Sixty-four percent
+
+ACTIONS:
+- Flat cel-shaded 2D infographic on paper texture: bold '64%' statistic in center, surrounded by small flat-drawn figures (clean inked outlines, exaggerated determined expressions) turning away from office building icon on right side of frame
+- Figures have arms crossed, heads turned, snappy motion-graphic timing
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- footsteps walking away, door closing firmly
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 30: Trust — Build Up [03:52–04:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+UPA editorial style, high contrast, no shading
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture: shattered lightbulb icon in center, pieces scattered outward in all directions with exaggerated motion-graphic timing
+- Clean inked outlines, stark black ink on white paper, zero depth
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- glass shattering, pieces scattering on hard surface
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 31: Trust — Deep [04:00–04:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Flat cel-shaded 2D animation on paper texture: simple side-view of Tesla car with clean inked outlines, green leaf icon floating above it, optimistic soft green and cream palette
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture: simple side-view of Tesla car with clean inked outlines, green leaf icon floating above it, optimistic soft green and cream palette
+- Car is flat solid color with bold black outline, zero depth, UPA editorial style
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- car door closing softly, leaves rustling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 32: Trust — Deep [04:08–04:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cooler desaturated tones (pale blue, gray), zero depth, UPA satirical style
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture: same Tesla side-view with clean inked outlines, green leaf icon replaced by question mark icon, flat-drawn figure walking past with exaggerated averted gaze and uncomfortable posture
+- Cooler desaturated tones (pale blue, gray), zero depth, UPA satirical style
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- footsteps hurrying past, car alarm chirping
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 33: Trust — Deep [04:16–04:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Right panel labeled '2026': same house, same flag, but neighbors turn their heads away, arms crossed, frowning expressions
+
+ACTIONS:
+- Flat cel-shaded 2D illustration on paper texture: a simple drawn house with clean inked outlines, an American flag hanging beside the door
+- Left panel labeled '2019': two flat-drawn neighbor figures wave cheerfully, exaggerated smiles, hands raised high
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- flag fabric flapping in breeze
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 34: Trust — Deep [04:24–04:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cool desaturated tones, pale blues and grays
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- eighty percent
+
+ACTIONS:
+- Flat cel-shaded 2D illustration on paper texture: a flat-drawn TV screen with clean inked outlines, dialogue bubbles emerging from it but no subtitle box visible
+- A flat-drawn figure sits in front, squinting hard, leaning forward with exaggerated confused expression, hand cupped to ear
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- TV dialogue muffled and indistinct
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 35: Trust — Deep [04:32–04:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cool tones warming slightly toward cream
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- eighty percent
+
+ACTIONS:
+- Flat cel-shaded 2D illustration on paper texture: the same flat-drawn TV screen, now with a bold subtitle box at the bottom displaying text in clean inked letters
+- The flat-drawn figure leans back, relaxed posture, arms behind head, satisfied smile, eyes half-closed
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- TV dialogue clear with soft clicking of remote button
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 36: Trust — Deep [04:40–04:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Flat cel-shaded 2D infographic on paper texture: bold '80%' numeral in center, surrounded by a grid of tiny flat-drawn TV icons, each with a subtitle box at the bottom
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- eighty percent
+
+ACTIONS:
+- Flat cel-shaded 2D infographic on paper texture: bold '80%' numeral in center, surrounded by a grid of tiny flat-drawn TV icons, each with a subtitle box at the bottom
+- Clean inked outlines, no depth, no shading
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- rapid clicking of remote buttons in sequence
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 37: Trust — Deep [04:48–04:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Neutral gray palette with teal accent on the checkmark
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- eighty percent
+
+ACTIONS:
+- Flat cel-shaded 2D illustration on paper texture: a single flat-drawn TV icon with clean inked outlines, subtitle box visible at the bottom, and a bold checkmark beside it
+- Simple, matter-of-fact composition, no exaggeration
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- single soft pen stroke marking checkmark
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 38: Trust — Deep [04:56–05:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Desaturated cool tones, pale blues and grays, red X's as the only warm accent
+
+ACTIONS:
+- Flat cel-shaded 2D infographic on paper texture: three flat-drawn icons in a row—government building with columns, corporate tower with windows, law book with spine—each crossed out with bold red X's
+- Clean inked outlines, no depth, no shading
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- three sharp pen strokes marking X's in sequence
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 39: Trust — Deep [05:04–05:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Flat cel-shaded 2D timeline on paper texture: horizontal arrow from left to right, labeled '2020' to '2026'
+
+ACTIONS:
+- Flat cel-shaded 2D timeline on paper texture: horizontal arrow from left to right, labeled '2020' to '2026'
+- On the left, a flat-drawn virus icon fades to pale gray
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- soft eraser rubbing paper, then pen tapping icons
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 40: Trust — Deep [05:12–05:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Inked cross-hatch church pews in background, teal accent line dividing panels
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- sixty years
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture — clean inked outlines, zero depth
+- Left panel: exaggerated flat-drawn elderly figure with wide eager grin, arm outstretched mid-handshake, bold '2019' label above
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- paper page turning, ink stamp thudding twice
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 41: Trust — Deep [05:20–05:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Paper texture background, clean graphic composition
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- sixty years
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture: elderly figure mid-handshake, inked outlines, zero depth
+- Extended hand freezes mid-grip —
+- Slowly retracts
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- hand sliding against palm, single chalk mark scratching paper
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 42: Trust — Deep [05:28–05:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cool desaturated palette, paper texture
+
+ACTIONS:
+- Flat cel-shaded 2D infographic animation on paper texture, clean inked outlines, zero depth
+- Two large flat gear icons center frame: gear labeled 'OBLIGATION' in bold serif, gear labeled 'PREFERENCE' beside it
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- gear teeth clicking, mechanical snap locking into place
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 43: Fear — Deep [05:36–05:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Five identical desk-and-calendar units tile the background in flat graphic repetition
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- five days
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture, clean inked outlines, zero depth
+- Single flat office figure center frame, deadpan mask plastered over face
+
+CAMERA:
+Wide | Crane
+
+AUDIO:
+- mask cracking snap, paper tearing, cartoon spring boing
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 44: Fear — Deep [05:44–05:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cool desaturated gray palette
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- five days
+
+ACTIONS:
+- Flat cel-shaded 2D infographic animation on paper texture, clean inked outlines, zero depth
+- One small flat office figure surrounded by dozens of identical figures tiling outward in eerie graphic repetition — all wearing the same wide grin, same posture
+
+CAMERA:
+Wide | Crane
+
+AUDIO:
+- photocopier mechanical clunk, repeated rubber stamp thudding
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 45: Trust — Deep [05:52–06:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cool flat palette
+
+ACTIONS:
+- Flat cel-shaded 2D infographic animation on paper texture, clean inked outlines, zero depth
+- Three bold flat text blocks in sequence: 'PREFERENCE' → 'NORM' → 'LAW'
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- rubber stamp thudding on paper, ink splat, heavy seal impact
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 46: Anticipation — Deep [06:00–06:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Pale blue-gray paper background with faint ink crosshatch
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture: a giant Reddit post icon — bold inked upvote arrow and post card — centered in frame, drawn with clean UPA-style outlines
+- The upvote arrow pulses once with a snappy graphic pop
+- Freezes mid-glow, unresolved
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- single dull upvote click sound effect, then paper rustling once
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 47: Trust — Deep [06:08–06:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Teal accent on year labels
+
+ACTIONS:
+- Flat cel-shaded 2D infographic animation on paper texture, clean inked outlines, zero depth
+- Split frame: left panel flat figure labeled '2019' — wide shocked eyes, hands raised, exaggerated UPA alarm expression
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- record scratch, single shrug sound effect
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 48: Trust — Deep [06:16–06:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cool flat palette, paper texture
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture, clean inked outlines, zero depth
+- Flat figure faces forward, expression completely neutral, eyes forward
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- calendar page flipping, paper rustling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 49: Trust — Deep [06:24–06:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+UPA animation style, zero depth, no volumetric lighting
+
+ACTIONS:
+- Flat cel-shaded 2D grid of identical drawn faces on paper texture, all laughing with exaggerated open mouths and squinted eyes, clean inked outlines
+- Upvote counter numbers tick upward in corner, drawn in bold sans-serif
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- mouse clicks, keyboard taps, notification pings
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 50: Trust — Deep [06:32–06:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clean inked outlines on paper texture, cool teal palette, 3700K
+
+ACTIONS:
+- Flat cel-shaded 2D single drawn face in the laughing grid, eyes shift sideways with exaggerated motion-graphic snap, pause held for two beats
+- Face resumes laughing
+- Clean inked outlines on paper texture, cool teal palette, 3700K
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- pen scratching paper, single page turn
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 51: Trust — Deep [06:40–06:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+UPA animation style, zero depth, no volumetric lighting
+
+ACTIONS:
+- Flat cel-shaded 2D sequence of three drawn icons on paper texture: coughing figure with motion lines, home desk with laptop, phone with text bubble
+- Large graphic checkmark stamps over each in snappy motion-graphic timing, clean inked outlines
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- stamp hitting paper three times, paper rustling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 52: Surprise — Deep [06:48–06:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Simple inked scene, zero depth
+
+ACTIONS:
+- Flat cel-shaded 2D drawn figure on paper texture opens door with easy, open expression, warm amber tones (soft cream and amber accents)
+- Visitor figure stands outside with relaxed posture, both figures drawn with exaggerated friendly expressions, clean inked outlines
+
+CAMERA:
+Medium | Crane
+
+AUDIO:
+- door opening, footsteps on wooden floor, door hinge creak
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 53: Anticipation — Deep [06:56–07:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm amber-lit interior with soft 3300K glow from a paper-textured lamp, cozy domestic space with simple furniture outlines, UPA-style flat composition
+
+ACTIONS:
+- Flat cel-shaded 2D figure drawn on paper texture with clean inked outlines, eyebrow arched high in exaggerated curiosity, head tilted slightly forward
+- Figure stands at a door (simple line-drawn rectangle), one hand hovering near the handle, the other holding a flat illustrated smartphone at eye level, screen glowing with a question mark icon inside a thought bubble above their head
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- knuckles rapping wood door, phone screen tapping
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 54: Fear — Deep [07:04–07:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cool palette with red accent, 2900K, unresolved dramatic lighting (drawn as flat graphic shadow)
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- seven years
+
+ACTIONS:
+- Flat cel-shaded 2D drawn hand on paper texture reaches for phone before doorknob, graphic close-up with clean inked outlines
+- Phone screen lights up (drawn as flat glow), hand hovers, door waits in background
+
+CAMERA:
+Medium | Handheld
+
+AUDIO:
+- phone screen tap, door knock repeating, fingernail tapping glass
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 55: Fear — Deep [07:12–07:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Phone screen glows (flat graphic glow), door remains closed in background
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- seven years
+
+ACTIONS:
+- Flat cel-shaded 2D drawn hand on paper texture repeats phone-check gesture, now faster and more automatic, clean inked outlines
+- Figure barely registers the action, drawn with blank expression
+
+CAMERA:
+Medium | Handheld
+
+AUDIO:
+- phone screen swipe, rapid tapping, door knock fading
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 56: Trust — Deep [07:20–07:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cool teal palette, 3700K, dry infographic pacing
+
+ACTIONS:
+- Flat cel-shaded 2D sequence of three drawn icons on paper texture: handshake, doorbell, hug
+- Large red X crosses out each in sequence with snappy motion-graphic timing, clean inked outlines
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- pen striking through paper three times, paper sliding on desk
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 57: Trust — Deep [07:28–07:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Paper texture background, UPA editorial style
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture: exaggerated cartoon Surgeon General figure at podium, oversized official seal behind them, body stiff and upright with hands gripping podium edges
+- A bold inked speech bubble floats above reading 'LONELINESS' in block letters
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- podium wood creaking, paper rustling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 58: Trust — Deep [07:36–07:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clean bold outlines, zero depth, cool desaturated blue-gray palette
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture: same cartoon Surgeon General figure now rendered smaller, centered in a vast empty pale-gray field
+- The inked word 'LONELINESS' grows larger behind them, dwarfing the figure
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- chalk squeaking on board, ink stamp thudding
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 59: Trust — Deep [07:44–07:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+UPA editorial infographic style
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture: two bold inked bar charts side by side labeled '2019' and '2024' in blocky type
+- The 2024 bar is dramatically taller
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- pencil tapping on desk, ruler snapping flat
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 60: Trust — Payoff [07:52–08:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Teal ink labels on bars
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture: the 2024 bar chart holds center frame, cool blue-gray palette
+- A flat cartoon figure walks off-frame left with a small wave, leaving the chart alone
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- footsteps on paper, door clicking shut
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 61: Trust — Payoff [08:00–08:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Paper texture background, UPA editorial style
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture: a bold inked bar chart grows upward in real time, its 2024 bar rising frame by frame
+- A tiny flat cartoon figure beside it shrinks proportionally as the bar climbs
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- pen scratching paper, bar graph tick clicking upward
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 62: Trust — Payoff [08:08–08:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Paper texture background, UPA editorial style
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture: a row of small flat icons — mask, phone, house, door with X — connected by a dotted ink line drawing itself slowly across the frame toward a single isolated figure icon
+- Cool blue-gray palette, clean inked outlines, zero depth
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- pen scratching paper, dotted line ticking across surface
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 63: Trust — Payoff [08:16–08:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Paper texture background, UPA editorial style
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture: bold inked text splits down the center — 'GERMS' on the left in teal, 'EACH OTHER' on the right in gray
+- A flat cartoon shield icon snaps onto the frame covering both halves simultaneously with a graphic pop
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- ink stamp thudding, paper slapping flat
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 64: Trust — Payoff [08:24–08:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Each item labeled in blocky type
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture: a vertical checklist of flat icons appears one by one — phone with text bubble, elevator with gap, house with checkmark, door with NO ENTRY sign — each stamped onto paper with a graphic thud
+- Cool blue-gray palette, clean inked outlines, zero depth
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- rubber stamp thudding, checklist box ticking, paper slapping
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 65: Trust — Payoff [08:32–08:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cool pale-blue and gray palette, zero depth, UPA editorial style
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture: a hand-drawn checklist fills the frame, thick inked outlines, each item a bold flat graphic — text bubble, elevator gap arrows, house icon, door with X
+- Final item receives a heavy ink stamp landing with exaggerated impact, figure beside it slumps with wide hollow eyes and drooping posture
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- ink stamp thudding on paper, pen scratching checklist
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 66: Surprise — Payoff [08:40–08:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Pale blue ground, zero depth, clean inked outlines
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture: two exaggerated flat figures strain toward each other across a vast blank paper expanse, faded orange reaching hand extended, blocked by floating speech-balloon and calendar-grid obstacles between them
+- Golden accent lines radiate outward in flat graphic bursts
+
+CAMERA:
+Wide | Crane
+
+AUDIO:
+- paper rustling, cartoon spring boinging, footsteps on flat surface
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 67: Surprise — Payoff [08:48–08:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Flat cel-shaded 2D animation on paper texture: two flat-drawn figures drift apart on a vast blank paper field, connection icons — handshake, coffee cup, speech bubble — fading and dissolving in the empty space between them
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture: two flat-drawn figures drift apart on a vast blank paper field, connection icons — handshake, coffee cup, speech bubble — fading and dissolving in the empty space between them
+- Cool desaturated palette, zero depth, thick inked outlines
+
+CAMERA:
+Wide | Crane
+
+AUDIO:
+- eraser rubbing paper, icons popping off with soft cork-pop sounds
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 68: Trust — Payoff [08:56–09:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cool gray palette, zero depth, UPA style
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture: a flat rotary phone center-frame vibrates with exaggerated motion lines, ringing hard
+- Three flat figures in the same room stand frozen, backs turned, eyes cartoonishly wide with horror-struck expressions, arms rigid at sides
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- telephone ringing, cartoon gulp sound effect
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 69: Trust — Payoff [09:04–09:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cool flat gray palette, zero depth, clean inked outlines, UPA editorial style
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture: bold inked '2026' typography crashes down onto paper-texture ground like a rubber stamp, ink splatter radiating outward in flat graphic arcs
+- A single tiny flat figure stands beneath the massive numerals, arms at sides, expression blank and dwarfed
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- rubber stamp slamming paper, ink splatter sound effect
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 70: Anticipation — Payoff [09:12–09:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Neutral gray palette
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture: a flat balance scale fills frame, 'BETTER' block on left pan, 'WORSE' block on right — both identical weight, neither tipping
+- Neutral gray palette
+
+CAMERA:
+Medium | Zoom out
+
+AUDIO:
+- scale pans clinking, paper unrolling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 71: Anticipation — Payoff [09:20–09:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Zero depth, clean inked outlines, editorial motion-graphic timing
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture: a flat timeline arrow rockets across the frame at snappy UPA speed, leaving inked motion trails
+- Freezes hard
+- A giant bold question-mark icon slams down at the arrow's tip with exaggerated impact lines
+
+CAMERA:
+Medium | Zoom out
+
+AUDIO:
+- arrow whooshing, question-mark stamp impact, paper tearing
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 72: Trust — Payoff [09:28–09:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Flat 2D UPA-style graphic composition, zero depth, clean inked silhouette against a cool flat background
+
+ACTIONS:
+- Flat cel-shaded rotary phone drawn in thick ink outline, pale gray fill on paper texture, centered in empty frame — receiver resting in cradle, dial motionless, cord coiled still
+- No hand reaches for it
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- faint mechanical tick of rotary dial settling, then nothing — single soft click of cradle
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 73: Surprise — Payoff [09:36–09:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cool pale-blue and gray palette
+
+ACTIONS:
+- Flat cel-shaded 2D infographic animation on paper texture — a tall funnel graphic dominates the frame, inked outlines crisp, zero depth
+- Chaotic icons (speech bubbles, handshakes, ringing bells) tumble in from the top with snappy UPA timing, expressions wide-eyed and frantic
+
+CAMERA:
+Wide | Crane
+
+AUDIO:
+- icons popping, paper rustling, single soft chime
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 74: Trust — Payoff [09:44–09:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cool desaturated tones, pale gray-cream
+
+ACTIONS:
+- Flat cel-shaded 2D infographic animation on paper texture — a tiny exaggerated flat-drawn figure sits hunched at a desk in the far corner of an otherwise empty frame, inked outlines clean, zero depth
+- The figure's posture is slack, shoulders rounded, expression a small flat half-smile of resigned acceptance
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- pencil tapping desk once, paper settling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+════════════════════════════════════════════════════════════════
+[END SCENE PROMPTS]
+════════════════════════════════════════════════════════════════
