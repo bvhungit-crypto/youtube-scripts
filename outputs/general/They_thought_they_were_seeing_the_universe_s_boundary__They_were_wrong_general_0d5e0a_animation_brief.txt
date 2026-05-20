@@ -1,0 +1,1621 @@
+════════════════════════════════════════════════════════════════
+[CHARACTERS Description]
+════════════════════════════════════════════════════════════════
+
+PROJECT: They_thought_they_were_seeing_the_universe_s_boundary__They_were_wrong
+
+RATIO: 16:9
+
+--------------------------------------------------
+STYLE (DETAILED - MANDATORY):
+
+- Style Directive: Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1
+
+- Medium: Live-action / Cinematic
+
+- Visual Style:
+  - Photorealistic textures with accurate material response
+  - Observational documentary framing — restrained and credible
+  - Cinematic composition with depth and motivated framing
+  - Anamorphic 2.39:1 framing language adapted to delivery ratio
+  - 8K capture-grade detail with deep blacks and clean highlights
+  - HDR contrast — preserved highlights, nuanced shadows
+
+- Character Design:
+  Semi-realistic figures
+
+- Materials & Textures:
+  [e.g. Flat colors only / Cel-shaded with soft shadow / Painterly with visible brushwork]
+
+- Lighting:
+  Volumetric lighting with visible light shafts
+
+- Color Palette:
+  [Define color roles — e.g. Red = danger, Yellow = energy, Blue = calm, Black outline for clarity]
+
+- Rendering Quality:
+  [e.g. Crisp, clean, high-definition / Slightly grainy retro / Hyper-smooth anime-style]
+
+- Motion Feel:
+  [e.g. Smooth action-driven / Bouncy exaggerated / Slow cinematic / Snappy cut-driven]
+
+- Overall Impression:
+  [One paragraph — what should viewers FEEL when watching? What is the visual "brand" of this project?]
+
+--------------------------------------------------
+TONE:
+[Overall emotional register — e.g. High tension, urgent, dramatic / Dark comedic, absurdist / Warm and nostalgic / Energetic and hype]
+[Detected dominant emotion (auto, for reference): Trust]
+
+--------------------------------------------------
+RENDERING RULES:
+
+- [Rule 1 — e.g. NO TEXT, NO LETTERS, NO SYMBOLIC WORDS in any scene]
+- [Rule 2 — e.g. Story must be conveyed entirely through visuals and expressions]
+- [Rule 3 — e.g. Each scene must have a clear visual conflict or action beat]
+- [Rule 4 — e.g. Only include characters explicitly required in each scene]
+- [Rule 5 — e.g. No background crowd, no unnecessary props]
+- [Add more rules as needed]
+
+--------------------------------------------------
+CHARACTERS (LOCKED):
+
+- Character 1: Eddington
+  [Physical description — face shape, skin tone, eye style — fill in]
+  [Hair — color #HEX, length, style — fill in]
+  [Default outfit — top, bottom, shoes, accessories — fill in]
+  [Signature trait — what makes them instantly recognizable — fill in]
+  [Expression range — what emotions they show most — fill in]
+
+- Character 2: Bang
+  [Physical description — face shape, skin tone, eye style — fill in]
+  [Hair — color #HEX, length, style — fill in]
+  [Default outfit — top, bottom, shoes, accessories — fill in]
+  [Signature trait — what makes them instantly recognizable — fill in]
+  [Expression range — what emotions they show most — fill in]
+
+- [Add unnamed characters (narrator, crowd, etc.) here if needed]
+
+--------------------------------------------------
+ENVIRONMENT (GLOBAL):
+
+[Default background / world setting for the entire project]
+[e.g. Minimal clean background, soft gradient sky / Neon-lit urban rooftop / Pastel fantasy kingdom]
+[Note: individual scenes can override this with their own ENVIRONMENT field]
+
+[Detected scene environments (auto, for reference):]
+  - Deep space stretches endlessly behind it, stars forming subtle bokeh through the anamorphic lens
+  - Clean NASA mission control environment visible in soft focus background, volumetric light rays cutting through darkness
+  - Soft 3800K lighting creates a contemplative, trustworthy atmosphere
+  - Soft volumetric lighting creates an atmosphere of discovery and wonder
+  - 8K HDR, anamorphic 2.39:1, cinematic photorealistic NASA documentary
+  - Warm amber screen glow, volumetric light, deep black background
+  - Volumetric light through gas clouds, 8K HDR, anamorphic 2.39:1, cinematic photorealistic NASA documentary
+  - vast but intimate, warm amber and gold tones, 8K HDR anamorphic 2.39:1, cinematic photorealistic NASA documentary aesthetic, volumetric lighting
+  - Gravitational lensing warps background starfield into curved arcs
+  - Soft neutral warm light bathes the stellar photosphere
+  - Event horizon forming at center as spacetime curves visibly
+  - Anamorphic lens flare catches disk's inner edge where matter crosses event horizon
+
+--------------------------------------------------
+GOAL:
+[Optional — one sentence stating the visual storytelling goal of the entire video]
+[e.g. "Make the audience feel the tension of nuclear deterrence without using any text or narration"]
+
+════════════════════════════════════════════════════════════════
+[END CHARACTERS Description]
+════════════════════════════════════════════════════════════════
+
+
+════════════════════════════════════════════════════════════════
+SCENE PROMPTS
+════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────
+🎬 SCENE 01: Trust — Hook [00:00–00:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep space stretches endlessly behind it, stars forming subtle bokeh through the anamorphic lens
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 13 billion years
+- black hole
+
+ACTIONS:
+- The James Webb Space Telescope suspended in deep space, gold hexagonal mirrors catching volumetric sunlight against infinite black void dotted with distant galaxies
+- The telescope's sunshield glows faintly in cool blue-silver light as it observes the ancient universe
+
+CAMERA:
+Wide | Slow push-in
+
+AUDIO:
+- faint mechanical servo whir from mirror actuators
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 02: Trust — Hook [00:08–00:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clean NASA mission control environment visible in soft focus background, volumetric light rays cutting through darkness
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 0.5 percent
+- galaxy
+- black hole
+
+ACTIONS:
+- Holographic data visualization of a spiral galaxy suspended in deep space, glowing percentage labels (0.1%, 0.5%) floating beside a luminous central point marking the black hole
+- The galaxy rotates slowly, its arms traced in soft blue and silver light
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- holographic projection flicker, data point ping
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 03: Trust — Hook [00:16–00:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Soft 3800K lighting creates a contemplative, trustworthy atmosphere
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 0.5 percent
+- galaxy
+- black hole
+
+ACTIONS:
+- Actual nearby galaxy NGC 4258 rendered in warm amber and gold volumetric light, central supermassive black hole glowing as a brilliant point
+- Translucent overlay shows mass ratio calculation resolving in real-time: stellar mass bar graph fills to 100%, black hole fraction highlights at 0.3%
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- data processing clicks, soft chime as percentage locks into place
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 04: Trust — Hook [00:24–00:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Soft volumetric lighting creates an atmosphere of discovery and wonder
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 800 million years
+- galaxies
+
+ACTIONS:
+- JWST infrared deep field image materializing on screen, ancient galaxies emerging as warm amber and gold points of light against rich cosmic purple
+- Timestamp overlay reads '800 million years after Big Bang' in glowing text
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- telescope mirror actuators clicking, faint electronic shutter sequence
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 05: Trust — Hook [00:32–00:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+8K HDR, anamorphic 2.39:1, cinematic photorealistic NASA documentary
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- black hole
+
+ACTIONS:
+- A single anomalous early-universe galaxy isolated in deep black — its stellar disk thin and sparse, rendered in cool silver, while at its core a supermassive black hole accretion disk blazes in deep amber-orange, visually larger than the entire stellar structure surrounding it
+- A faint mass-comparison bar graphic at frame bottom shows the black hole bar overwhelming the stellar bar
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- low structural bass thud, mass-scale indicator click
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 06: Trust — Hook [00:40–00:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm amber screen glow, volumetric light, deep black background
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- galaxy
+- black hole
+
+ACTIONS:
+- A photorealistic cosmic timeline graphic — a horizontal axis stretching from Big Bang to present — shows a glowing black hole icon appearing first, alone in primordial amber light, while stellar formation markers appear later and smaller
+- The sequence plays in slow forward motion: black hole first, galaxy second
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- timeline marker click, faint electronic tone pulse
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 07: Trust — Hook [00:48–00:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Volumetric light through gas clouds, 8K HDR, anamorphic 2.39:1, cinematic photorealistic NASA documentary
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- black hole
+
+ACTIONS:
+- A photorealistic simulation render of a primordial black hole accretion event — dense gas streams spiralling inward in amber and deep orange, radiation pressure jets firing outward in blue-white, the entire system self-contained and physically coherent without exotic anomaly
+- A translucent journal citation overlay — 'Astrophysical Journal Letters' — resolves into sharp focus at frame top as the simulation continues
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- gas jet hiss, simulation render fan whir
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 08: Trust — Hook [00:56–01:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+8K HDR, anamorphic 2.39:1, cinematic photorealistic NASA documentary
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- black hole
+
+ACTIONS:
+- A photorealistic close render of the black hole accretion disk from C007 — now tighter, the gas inflow geometry filling the frame in deep amber and burnt orange, radiation pressure jets visible but contained, the system feeding at a physically lawful rate
+- A second translucent data overlay appears: 'No super-Eddington accretion required' resolving letter by letter from blurred to sharp
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- gas inflow rushing sound, data overlay keystroke clicks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 09: Trust — Hook [01:04–01:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+vast but intimate, warm amber and gold tones, 8K HDR anamorphic 2.39:1, cinematic photorealistic NASA documentary aesthetic, volumetric lighting
+
+ACTIONS:
+- A single luminous data point — a bright white dot suspended against a warm deep-space amber gradient — pulses with quiet certainty, its glow steady and inviting
+- The point sits perfectly centered, surrounded by soft golden light bleeding into rich cosmic purple at the edges
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- faint electrical spark tick, single soft data-ping chime
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 10: Anticipation — Hook [01:12–01:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Gravitational lensing warps background starfield into curved arcs
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- black hole
+
+ACTIONS:
+- Black hole's accretion disk glowing amber and orange, matter spiraling inward with inexorable motion
+- Gravitational lensing warps background starfield into curved arcs
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- deep rumbling bass from accretion disk rotation
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 11: Trust — Hook [01:20–01:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Soft neutral warm light bathes the stellar photosphere
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- hundred times
+- galaxy
+- black hole
+
+ACTIONS:
+- Star's surface roils with plasma convection cells, each larger than Earth
+- Volumetric corona extends outward in delicate tendrils
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- low frequency plasma oscillations
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 12: Trust — Build Up [01:28–01:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Event horizon forming at center as spacetime curves visibly
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- hundred times
+- galaxy
+- black hole
+
+ACTIONS:
+- Stellar core collapsing inward, outer layers ejecting in supernova shockwave
+- Event horizon forming at center as spacetime curves visibly
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- shockwave expanding through stellar material
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 13: Trust — Build Up [01:36–01:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Anamorphic lens flare catches disk's inner edge where matter crosses event horizon
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- hundred times
+- galaxy
+- black hole
+
+ACTIONS:
+- Newly formed stellar-mass black hole with thin accretion disk, gas streams feeding inward
+- Anamorphic lens flare catches disk's inner edge where matter crosses event horizon
+
+CAMERA:
+Medium | Orbit
+
+AUDIO:
+- gas streams whistling as they spiral inward
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 14: Trust — Build Up [01:44–01:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Extreme close-up of the word 'slowly' rendered in clean sans-serif typography, white text on deep black background
+
+ACTIONS:
+- Extreme close-up of the word 'slowly' rendered in clean sans-serif typography, white text on deep black background
+- Text sits motionless, weighted, deliberate
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- single clock tick echoing
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 15: Trust — Build Up [01:52–02:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Gas heating to incandescence as it falls toward event horizon, radiation pressure pushing outward against incoming material
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- black hole
+
+ACTIONS:
+- Gas heating to incandescence as it falls toward event horizon, radiation pressure pushing outward against incoming material
+- HDR highlights show energy vectors as glowing arrows
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- radiation pressure waves pulsing outward
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 16: Trust — Build Up [02:00–02:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Consistent neutral light
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- black hole
+
+ACTIONS:
+- Eddington limit graph materializing on screen, luminosity vs mass ratio curve resolving in real-time
+- Outward radiation vectors illustrated as glowing amber arrows pushing against infalling gas streamlines
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- graph data points clicking into place
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 17: Trust — Build Up [02:08–02:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary aesthetic, warm 3800K amber tones, deep-space blacks
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Galaxies
+- black hole
+
+ACTIONS:
+- A spiral galaxy rendered in photorealistic 8K HDR — amber and gold dust lanes spiraling inward toward a luminous core, the central black hole region glowing with deep orange accretion light
+- The galaxy rotates imperceptibly slowly, its arms stretching across the anamorphic 2.39:1 frame
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- deep low-frequency stellar wind resonance tone, faint crackling interstellar plasma discharge
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 18: Trust — Build Up [02:16–02:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Ancient galaxies at 800 million years post-Big Bang resolve from noise, each a faint red smudge against cosmic microwave background
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 800 million years
+- galaxies
+
+ACTIONS:
+- Ancient galaxies at 800 million years post-Big Bang resolve from noise, each a faint red smudge against cosmic microwave background
+- Numeric overlay counts down universe age in millions of years, stopping at 800
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- telescope mirror segments clicking into alignment, data stream beeping
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 19: Trust — Build Up [02:24–02:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Absolute silence, no environment
+
+ACTIONS:
+- Pure black frame
+- White sans-serif text fades in center frame: 'There was not enough time.' Text holds, stark and isolated
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- none
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 20: Trust — Build Up [02:32–02:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Sterile data visualization environment, cool blue-silver palette
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 800 million years
+- galaxies
+- black hole
+
+ACTIONS:
+- X-axis shows 800 million years, Y-axis shows black hole mass in solar masses
+- Predicted growth curve (blue line) plateaus far below observed mass (red data point)
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- graph axes drawing, data point appearing with soft ping
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 21: Trust — Build Up [02:40–02:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Bright clean laboratory environment with warm 3800K overhead lighting, polished surfaces reflecting soft amber glow from multiple data screens
+
+ACTIONS:
+- NASA scientist at illuminated workstation, shoulders squared, steady gaze at volumetric holographic display showing galaxy formation timeline with visible gap in evolutionary sequence
+- Scientist's hand gestures toward the temporal discontinuity, tracing the missing link with deliberate finger movement
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- keyboard keys clicking, mouse clicking, holographic interface beeping
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 22: Trust — Build Up [02:48–02:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Abstract physics visualization space, warm amber light
+
+ACTIONS:
+- Camera passes through glowing amber equation layers, each term expanding into physical meaning: radiation pressure vectors, gravitational force arrows, photon scattering cross-sections
+- Formula remains constant, unchanging
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- equation terms resonating, photon scattering pings
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 23: Trust — Build Up [02:56–03:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cool silver-blue computational environment, particle trajectories tracing through space
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- hundred million years
+- galaxy
+- black hole
+
+ACTIONS:
+- Volumetric data streams project cosmological evolution, galaxy and black hole co-evolving over hundreds of millions of years
+- Simulation time counter advances rapidly
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- supercomputer fans whirring, data processing clicks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 24: Trust — Build Up [03:04–03:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep cosmic purples and blacks, gravitational lensing distorting background
+
+ACTIONS:
+- Primordial gas cloud collapsing directly into singularity, bypassing stellar phase entirely
+- No star formation, no supernova
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- gas cloud compressing with deep rumble, gravitational waves pulsing
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 25: Trust — Build Up [03:12–03:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Early universe 300 million years post-Big Bang, sparse cosmic fog in cool blues fading to warm amber at the collapse center, 8K HDR volumetric lighting, anamorphic lens 2.39:1
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- hundred million years
+- black hole
+
+ACTIONS:
+- Volumetric visualization of primordial hydrogen clouds glowing soft amber and gold, filaments of gas streaming inward toward a central gravitational well, particles illuminated by HDR highlights
+- The gas cloud exhibits calm, methodical collapse — streamlines converging with steady precision, no turbulence, no resistance
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- gas particles hissing softly as they stream inward, faint crackling of ionization
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 26: Trust — Build Up [03:20–03:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The gas cloud glows with soft golden luminosity against deep space backdrop, density concentrations visible as brighter filaments
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- hundred million years
+- black hole
+
+ACTIONS:
+- Volumetric particle streams of primordial hydrogen gas illuminated in warm amber and gold HDR highlights, swirling in methodical spiral patterns toward a central gravitational well
+- The gas cloud glows with soft golden luminosity against deep space backdrop, density concentrations visible as brighter filaments
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- particle stream whooshing, low gravitational rumble
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 27: Trust — Build Up [03:28–03:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+interior of a collapsing primordial cloud, rich cosmic purples deepening to near-black at centre, volumetric god-rays piercing the gas
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- hundred million years
+- black hole
+
+ACTIONS:
+- Extreme close-up of dense molecular cloud filaments — 8K detail on individual gas strands in deep blue-purple gradient, volumetric light scattering through pristine primordial hydrogen, no metallic contamination signatures visible anywhere in the structure
+- The filaments compress and thicken toward frame centre, their motion deliberate and inevitable
+
+CAMERA:
+Macro | Static
+
+AUDIO:
+- dense gas compression creak, molecular cloud pressure building
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 28: Trust — Build Up [03:36–03:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Early universe void, 8K HDR, volumetric lighting emphasizing the emptiness, anamorphic lens 2.39:1
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- supernova
+
+ACTIONS:
+- Empty primordial space where a star would form — no stellar core, no fusion ignition, no supernova remnant
+- The frame shows only sparse hydrogen atoms drifting in deep cosmic blacks and cool blues, with a faint amber glow at the center marking the absence of stellar birth
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- faint hydrogen atom collisions, soft gravitational creak as space curves inward
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 29: Trust — Deep [03:44–03:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+primordial deep space, rich purples and deep blacks, volumetric plasma shockwave dissipating outward
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- black hole
+
+ACTIONS:
+- A 100,000-solar-mass black hole event horizon forming instantaneously from direct gas collapse — volumetric shockwave radiating outward in purple-gold HDR burst as the singularity snaps into existence, accretion boundary crystallising with teal-accented light
+- The event horizon holds perfectly still at frame centre, its gravitational lensing distorting background starfield in a clean arc
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- event horizon formation shockwave crack, gravitational singularity resonance pulse
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 30: Trust — Deep [03:52–04:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+deep space data-journalism void, warm amber volumetric light, teal accent highlights on scale markers
+
+ACTIONS:
+- Comparative scale visualization — a photorealistic volumetric graphic resolving on screen: a single solar mass sphere dwarfed beside 100 solar masses
+- Both obliterated by the emergence of a 100,000-solar-mass black hole rendered in warm amber-gold HDR light, its gravitational sphere of influence expanding to fill frame
+- The scale progression is deliberate, each magnitude appearing
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- scale marker resolving click, deep mass comparison resonance tone
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 31: Trust — Deep [04:00–04:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+800-million-year-post-Big-Bang deep space, warm amber-orange plasma glow against deep black, volumetric magnetic field lines threading the disk
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 800 million years
+- black hole
+
+ACTIONS:
+- Black hole accretion disk feeding at half Eddington rate — volumetric plasma streams in orange-gold HDR flowing steadily into the event horizon, the inflow measured and unhurried, a teal-accented relativistic jet rising vertically from the poles
+- A data readout overlay shows accretion rate at 50% Eddington limit, the value stable and resolving clearly
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- plasma accretion stream flowing, relativistic jet electromagnetic crackle
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 32: Trust — Deep [04:08–04:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+deep space data-journalism void, cool blue-silver volumetric projection light, teal accent on equation boundaries, authoritative stillness
+
+ACTIONS:
+- Holographic volumetric projection of standard astrophysics equations — Schwarzschild radius formula, Eddington luminosity equation, general relativity field equations — rendered in cool blue-silver light against deep space black, each equation clean and unmodified, no exotic correction terms appended
+- The equations hold perfectly still, self-contained and complete
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- holographic projection hum, equation text resolving click
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 33: Anticipation — Deep [04:16–04:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm amber and gold tones illuminate the swirling matter, creating sense of incomplete revelation
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- black hole
+
+ACTIONS:
+- Luminous black hole event horizon rendered in volumetric amber light, glowing accretion disk spiraling inward with visible gravitational lensing distortion
+- The black hole's silhouette sharp against background starfield, disk material streaming in elegant curved trajectories
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- plasma crackling, matter streaming into gravitational well
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 34: Trust — Deep [04:24–04:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Authoritative Bloomberg-style teal accent lighting, 3700K, deep space black background
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 0.5 percent
+- galaxy
+- galaxies
+- black hole
+
+ACTIONS:
+- Split-frame volumetric visualization: left panel shows a mature local-universe spiral galaxy with proportional glowing core, right panel shows its central black hole rendered as a luminous amber sphere — both panels connected by a teal data arc displaying '0.1–0.5%' in crisp HDR numerals
+- Galaxy slowly forms new star clusters, black hole pulses with accreted gas in synchronized rhythm
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- data terminal soft beeping, stylus tapping glass display
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 35: Trust — Deep [04:32–04:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The ratio label '0.1–0.5%' holds steady in HDR teal numerals at frame right
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 0.5 percent
+- galaxy
+- galaxies
+- black hole
+
+ACTIONS:
+- Volumetric co-evolution graph rendered in deep space: two luminous growth curves — one teal for galaxy stellar mass, one amber for black hole mass — rising in perfect parallel across cosmic time
+- Data points materialize as glowing spheres along each curve, rack focus pulling through layered graph planes
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- data point chime tones, graph line drawing sound
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 36: Trust — Deep [04:40–04:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Background shows faint JWST galaxy silhouettes in teal accent lighting
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 300 times
+- galaxies
+
+ACTIONS:
+- Volumetric holographic bar graph materializes in deep space, two columns side by side—left column (local universe ratio) at baseline height in cool silver-blue, right column (JWST galaxies) towering 100-300x higher in warm gold-orange gradient
+- Precise numerical labels float beside each bar
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- digital interface beep sequence as bars lock into position
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 37: Trust — Deep [04:48–04:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+infinite deep-space black, teal accent lighting carving the galaxy's stunted silhouette
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- galaxies
+
+ACTIONS:
+- A galaxy cluster rendered as a volumetric 8K HDR projection — small, dim, structurally underdeveloped, stellar nurseries sparse and cold
+- The galaxy rotates imperceptibly slowly, its spiral arms thin and starved, muted deep blues and silvers dominating the frame
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- data points clicking into place, faint mechanical relay switching
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 38: Anticipation — Deep [04:56–05:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm amber-purple gradient separates panels, unresolved convergence builds anticipation
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- galaxies
+
+ACTIONS:
+- Split-screen volumetric simulation showing two distinct suppression mechanisms side by side, left panel displays black hole feedback jets in amber light disrupting gas clouds, right panel shows cosmic web filaments in purple light restricting matter inflow
+- Both simulations animate simultaneously, mechanisms converging toward center, creating visual tension
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- simulation processing, dual mechanism activation
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 39: Sadness — Deep [05:04–05:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Low-key single-source lighting, 3000K very muted, cool shadow consuming the galaxy's outer arms
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- galaxy
+- black hole
+
+ACTIONS:
+- A supermassive black hole accretion disk at the center of a small early-universe galaxy — photorealistic 8K HDR
+- Relativistic jets erupt from the poles, volumetric radiation waves expanding outward in amber-orange HDR flares, visibly pushing surrounding gas clouds away from the galactic plane
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- jet eruption deep bass burst, gas cloud dispersal rushing whoosh
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 40: Sadness — Deep [05:12–05:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Low-key overcast single-source lighting, 3000K very muted, warm amber-gold particle deflection against deep cool shadow
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- galaxy
+- black hole
+
+ACTIONS:
+- Macro view of radiation pressure halting incoming gas streams at the boundary of a black hole's influence sphere — photorealistic 8K HDR
+- Volumetric particle streams approach from frame edges, strike an invisible pressure wall, and deflect outward in slow amber-gold arcs, never reaching the galactic core
+
+CAMERA:
+Close-up | Zoom out
+
+AUDIO:
+- particle deflection crackling impact, gas stream deflecting sharp hiss
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 41: Sadness — Deep [05:20–05:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 3000K muted palette
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- galaxy
+- black hole
+
+ACTIONS:
+- Black hole accretion disk fills frame — swirling amber-orange plasma spiraling inward, relativistic jets erupting vertically as twin columns of ionized radiation, volumetric light piercing surrounding gas clouds that glow faintly
+- Dim
+- The jets visibly heat and disperse cold gas tendrils reaching toward the disk — star-forming material dissolving on contact
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- plasma crackling, gas dispersal whoosh
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 42: Sadness — Deep [05:28–05:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 3000K very muted amber-to-grey gradient
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- galaxy
+- black hole
+
+ACTIONS:
+- Volumetric radiation streams from accretion disk pierce outward through layered cosmic fog — amber-gold light rays illuminating gas clouds that glow briefly
+- Cool to grey silence
+- Pull-back slowly reveals the surrounding galaxy: sparse, dim, no new star clusters forming, cold gas dispersed
+
+CAMERA:
+Close-up | Zoom out
+
+AUDIO:
+- deep electromagnetic pulse throb, gas cloud dissipation hiss
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 43: Trust — Deep [05:36–05:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, teal accent on stellar wind shells
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- supernova
+- galaxy
+- black hole
+
+ACTIONS:
+- A solitary Population III star dominates frame — colossal, blue-white, blazing with primordial intensity against absolute black void, zero surrounding stellar companions, no metals in the sparse gas halo
+- Volumetric stellar wind radiates outward in concentric shells
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- stellar wind roar, convective surface rumble
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 44: Trust — Deep [05:44–05:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm amber and gold tones dominate the frame, conveying the immense energy of the first generation star
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- supernova
+- galaxy
+- black hole
+
+ACTIONS:
+- Massive Population III star core in pre-supernova state, surface roiling with violent convection cells, photosphere glowing intense blue-white against deep space backdrop
+- Star's outer layers visibly expanding, shock waves rippling through stellar atmosphere
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- stellar wind particles streaming past microphone, convection cells rumbling deep bass tones
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 45: Trust — Deep [05:52–06:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, deep black with amber disk
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- black hole
+
+ACTIONS:
+- Black hole event horizon centered in frame — Schwarzschild radius visibly expanding in slow time-lapse, accretion disk brightening and widening as infalling mass increases
+- Gravitational lensing distorts background starfield in real time
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- gravitational accretion disk hiss, infalling matter impact
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 46: Trust — Deep [06:00–06:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Graph rendered in volumetric light, amber and teal accent colors, floating in clean white laboratory space
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 800 million years
+- galaxy
+- black hole
+
+ACTIONS:
+- JWST mass ratio graph materializing on holographic display, x-axis showing 800 million years post-Big Bang, y-axis plotting black hole mass versus galaxy stellar mass
+- Data points resolving one by one, revealing steep lopsided curve with black hole mass dominating
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- data points clicking into place on graph, holographic projector lens focusing mechanism whirring
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 47: Trust — Deep [06:08–06:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep space control room, volumetric light from the screen carving cool teal across polished surfaces, authoritative Bloomberg-style darkness beyond
+
+ACTIONS:
+- A single anomalous data point glows on a dark holographic display, teal numerals frozen mid-calculation, surrounding figures dimmed
+- The ratio measurement hangs unresolved — one number slightly wrong, slightly too large
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- single keyboard key clicking once, paper sliding on desk
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 48: Trust — Deep [06:16–06:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep space background, volumetric light tracing each growth curve
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 0.5 percent
+- galaxies
+- black hole
+
+ACTIONS:
+- A split photorealistic visualization: two parallel cosmic timelines side by side — left shows a galaxy and black hole growing in perfect synchrony, their luminous halos expanding in matched proportion, labeled '0.1–0.5%'
+- Cool blue-silver palette, clean grid lines, teal accent markers
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- slow rhythmic data pulse beep, graph axis tick marks clicking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 49: Trust — Deep [06:24–06:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm amber and soft teal volumetric lighting bathes the projection, conveying stable equilibrium
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 0.5 percent
+- galaxies
+- black hole
+
+ACTIONS:
+- Luminous holographic display of spiral galaxy with glowing central supermassive black hole, ratio annotation '0.1–0.5%' floating beside structure in crisp white text
+- Galaxy rotates gently in volumetric light, black hole core pulsing softly in sync with galactic arms
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- holographic display flicker, soft mechanical servo adjustment
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 50: Trust — Deep [06:32–06:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Rack focus shifts from the fading background model to the sharp, contradictory JWST data in foreground
+
+ACTIONS:
+- JWST infrared data overlay materializing over a traditional co-evolution model diagram, red warning indicators appearing as numerical ratios flicker and diverge from expected values
+- The overlay disrupts the clean symmetry of the old model, creating visual tension
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- data processing clicks, warning indicator beep, digital interface toggle
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 51: Trust — Deep [06:40–06:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- galaxy
+- black hole
+
+ACTIONS:
+- Photorealistic 8K HDR wide cosmic vista: a proto-galaxy in the early universe — sparse, incomplete stellar wisps barely assembled — dominated at its center by a colossal black hole accretion disk blazing in deep purple and gold volumetric light
+- The black hole's mass dwarfs the surrounding stellar structure
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- deep gravitational rumble, gas accretion roar, stellar wind rushing
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 52: Trust — Deep [06:48–06:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- galaxy
+- black hole
+
+ACTIONS:
+- Photorealistic 8K HDR macro shot: volumetric gas streams — amber and gold filaments — spiraling in tight helical paths directly into a supermassive black hole's event horizon, rendered with HDR contrast between the blazing accretion disk and the absolute black of the singularity
+- The surrounding proto-galactic halo is thin, sparse, clearly secondary
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- accretion disk plasma crackling, magnetic field oscillation tone, gas compression hiss
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 53: Trust — Deep [06:56–07:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting
+
+ACTIONS:
+- Photorealistic 8K HDR volumetric data visualization: a cosmic timeline graph rendered in deep space — the x-axis spanning 13.8 billion years, the y-axis showing black-hole-to-galaxy mass ratio
+- At the far left (early universe), the ratio line sits dramatically high in warm amber
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- data graph plotting sound, timeline tick marks clicking, interface rendering tone
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 54: Trust — Deep [07:04–07:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep-space black background
+
+ACTIONS:
+- Photorealistic 8K HDR close-up: a volumetric holographic data confirmation panel — teal-lit, Bloomberg-style — displaying JWST observation IDs, redshift values (z=7.2, z=8.1, z=9.4), and mass ratio measurements crystallizing into sharp focus one by one
+- Each confirmed data point locks in with a precise teal highlight
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- data confirmation beep sequence, holographic panel locking click, interface keystroke
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 55: Trust — Deep [07:12–07:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- billion years
+- 30 percent
+- 300 times
+- supernova
+
+ACTIONS:
+- Photorealistic 8K HDR volumetric simulation render: a Population III supernova detonating inside a primordial halo — a blinding white-gold shockwave expanding outward, scattering stellar material while at the halo's center a direct-collapse black hole seed of 100,000 solar masses glows in deep teal, already accreting
+- A teal percentage annotation reads '10–30% stellar mass ratio' beside the black hole
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- supernova shockwave detonation, stellar debris crackling, shockwave pressure wave expanding
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 56: Trust — Deep [07:20–07:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Teal data labels float beside each: '10%', '18%', '27%', '30%' mass ratios
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- billion years
+- 30 percent
+- 300 times
+- supernova
+
+ACTIONS:
+- Photorealistic 8K HDR volumetric holographic array: multiple early-universe galaxies — six distinct proto-galactic structures at different redshifts — arranged in a teal-lit comparative grid
+- Each galaxy shows an oversized central black hole accretion disk
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- holographic array expanding click, multiple data panels activating, interface array locking tone
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 57: Trust — Deep [07:28–07:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep space blues transition to warm amber at galaxy cores
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- billion years
+- 30 percent
+- 300 times
+- supernova
+
+ACTIONS:
+- Volumetric 3D visualization of multiple early galaxies suspended in deep space, each galaxy rendered with glowing amber core representing central black hole mass ratio—cores visibly oversized relative to stellar disk
+- Teal accent light catches floating percentage markers: 10%, 30%, 300x
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- data points pulsing with soft electronic beep
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 58: Trust — Payoff [07:36–07:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep cosmic purple bleeds into the background
+
+ACTIONS:
+- A large high-resolution monitor displays a scientific data visualization — rotation curves and uncertainty bands rendered in amber and gold, error bars clearly visible, question-mark annotations floating beside unresolved data points
+- The screen glows with warm 4000K volumetric light, uncertainty indicators pulsing faintly
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- monitor fan spinning, keyboard key single tap
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 59: Surprise — Payoff [07:44–07:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- black hole
+
+ACTIONS:
+- Direct-collapse black hole formation simulation frozen at critical moment—massive gas cloud collapsing inward with volumetric purple and amber light rays
+- Question mark overlay materializes in golden particles above the collapsing structure
+
+CAMERA:
+Wide | Crane
+
+AUDIO:
+- gas cloud collapsing with deep rumbling whoosh
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 60: Surprise — Payoff [07:52–08:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm triumphant golden palette
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- black hole
+
+ACTIONS:
+- Same simulation now paused mid-collapse with volumetric light frozen in mid-ray
+- HDR particle effects suspended in space around the forming black hole
+
+CAMERA:
+Wide | Crane
+
+AUDIO:
+- simulation particles crackling with electrical discharge
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 61: Surprise — Payoff [08:00–08:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- black hole
+
+ACTIONS:
+- Simulation data visualization on large curved display—multiple formation pathways rendered as branching light trails in 3D space
+- Super-Eddington accretion path glows red, heavy seed merger path glows blue, direct-collapse path glows amber
+
+CAMERA:
+Wide | Slow push-in
+
+AUDIO:
+- display screen flickering with soft electrical buzz
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 62: Trust — Payoff [08:08–08:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm 4000K lighting
+
+ACTIONS:
+- Simulation render displayed on high-resolution screen—rotating 3D model of early universe galaxy with overmassive black hole core
+- Amber volumetric glow emanates from screen
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- 3D model rotating with mechanical servo whir
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 63: Trust — Payoff [08:16–08:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm research lab with volumetric 4000K lighting, atmosphere of methodical scientific process and collaborative verification
+
+ACTIONS:
+- Split-screen display: left side shows the cosmological simulation code scrolling in amber monospace text, right side displays a live feed placeholder labeled 'JWST Cycle 4 — Awaiting Data'
+- Hands gesture calmly toward the screen, fingers tracing the boundary between simulation and observation
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- keyboard typing, mouse click, paper rustling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 64: Trust — Payoff [08:24–08:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm 4000K light pools on the desk surface, volumetric rays catching paper texture, atmosphere of interconnected scientific inquiry
+
+ACTIONS:
+- Macro shot of a printed research paper lying on a desk, title visible: 'Direct-Collapse Black Hole Formation in the Early Universe'
+- A hand enters frame, fingers tracing the abstract text
+- Lifting the corner to reveal a stack of related papers beneath — each with different institutional logos
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- paper sliding on wood, pen tapping desk
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 65: Trust — Payoff [08:32–08:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cool silver and deep blue tones dominate the frame, stars scattered like dust across the cosmic canvas
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- galaxy
+- galaxies
+- black hole
+
+ACTIONS:
+- Mature spiral galaxy suspended in deep space, arms spread in elegant symmetry, central bulge glowing softly
+- Camera drifts inward with deliberate calm, revealing the tiny luminous core at the heart
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- faint stellar wind hiss, distant cosmic ray crackle
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 66: Trust — Payoff [08:40–08:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The black hole's event horizon glows with fierce purple and amber light, jets of energy piercing outward
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- galaxies
+- black hole
+
+ACTIONS:
+- Primordial galaxy in the early universe, irregular and chaotic, gas clouds swirling around a brilliant accretion disk at its center
+- The black hole's event horizon glows with fierce purple and amber light, jets of energy piercing outward
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- plasma jet roar, accretion disk rumble
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 67: Trust — Payoff [08:48–08:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep blacks anchor the composition, HDR highlights flare at the accretion disk's rim
+
+ACTIONS:
+- Supermassive black hole at the center of frame, surrounded by swirling hydrogen fog glowing in rich purple and gold
+- Volumetric god-rays pierce through the primordial gas, illuminating the event horizon's edge
+
+CAMERA:
+Close-up | Orbit
+
+AUDIO:
+- gravitational wave pulse, hydrogen ionization crackle
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 68: Trust — Payoff [08:56–09:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm amber transitions to deep purple, volumetric lighting reveals structure in the gas
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- galaxy
+
+ACTIONS:
+- Sequence of three macro shots: first, a black hole forming in a dense gas cloud, energy flaring outward
+- Second, the black hole's jets shaping surrounding gas into spiraling streams
+- Third, a young galaxy suppressed in growth, its arms stunted and irregular
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- gas compression whoosh, magnetic field snap, stellar wind gust
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 69: Trust — Payoff [09:04–09:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep primordial void surrounds it: rich cosmic purples and absolute blacks, sparse proto-galactic gas clouds drifting at frame edges, not yet assembled
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- galaxies
+- black hole
+
+ACTIONS:
+- A supermassive black hole — event horizon ringed by a blazing amber-gold accretion disk — dominates frame center, its gravitational lensing bending ancient starlight into luminous arcs
+- The black hole pulses with quiet authority, warping surrounding space-time into visible distortion rings
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- accretion disk plasma crackling, deep gravitational resonance thud
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 70: Trust — Payoff [09:12–09:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep-space purples and absolute blacks dominate
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- galaxies
+- black hole
+
+ACTIONS:
+- Dozens of nascent proto-galaxies — loose swirling gas halos barely cohering — each anchored at their core by a blazing supermassive black hole accretion disk glowing amber and gold
+- As the camera retreats, first-starlight pierces frame edges as anamorphic lens flares bloom at corners
+
+CAMERA:
+Wide | Zoom out
+
+AUDIO:
+- stellar ignition crackling, gas cloud compression rumble
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 71: Trust — Payoff [09:20–09:26]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Rich cosmic purples and deep blacks frame the primordial scene
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- galaxies
+
+ACTIONS:
+- A nascent spiral galaxy rotates in deep space, its core blazing with a supermassive black hole's accretion glow — warm amber and gold light radiating outward into surrounding cosmic dark
+- Dozens of proto-galactic structures drift incomplete, half-assembled arms trailing into void, the black hole anchoring each center before the galaxy fully forms
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- accretion disk plasma crackling, magnetic field snapping
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+════════════════════════════════════════════════════════════════
+[END SCENE PROMPTS]
+════════════════════════════════════════════════════════════════
