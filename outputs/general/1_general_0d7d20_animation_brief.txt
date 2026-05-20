@@ -1,0 +1,3457 @@
+════════════════════════════════════════════════════════════════
+[CHARACTERS Description]
+════════════════════════════════════════════════════════════════
+
+PROJECT: 1
+
+RATIO: 16:9
+
+--------------------------------------------------
+STYLE (DETAILED - MANDATORY):
+
+- Style Directive: Modern 2D cartoon illustration, thick bold black outlines, cel-shaded rendering, flat vibrant colors, smooth clean vector art, minimalist rounded character design, expressive facial expressions, western cartoon aesthetic, polished digital illustration, simplified anatomy, soft shading, colorful boxing gym environment, dynamic composition, clean lighting, YouTube animation style, playful comic aesthetic, high quality digital art
+
+- Medium: Animation
+
+- Visual Style:
+  - Cel-shaded forms with hard shadow boundaries
+
+- Character Design:
+  Cartoon-shaped figures, simplified anatomy; Minimal, geometric figure design
+
+- Materials & Textures:
+  [e.g. Flat colors only / Cel-shaded with soft shadow / Painterly with visible brushwork]
+
+- Lighting:
+  [e.g. Bright even lighting / Dramatic rim lighting / Soft ambient with glow on focal elements]
+
+- Color Palette:
+  Vibrant saturated palette
+
+- Rendering Quality:
+  [e.g. Crisp, clean, high-definition / Slightly grainy retro / Hyper-smooth anime-style]
+
+- Motion Feel:
+  Smooth, fluid motion; Dynamic, momentum-led motion
+
+- Overall Impression:
+  [One paragraph — what should viewers FEEL when watching? What is the visual "brand" of this project?]
+
+--------------------------------------------------
+TONE:
+[Overall emotional register — e.g. High tension, urgent, dramatic / Dark comedic, absurdist / Warm and nostalgic / Energetic and hype]
+[Detected dominant emotion (auto, for reference): Trust]
+
+--------------------------------------------------
+RENDERING RULES:
+
+- [Rule 1 — e.g. NO TEXT, NO LETTERS, NO SYMBOLIC WORDS in any scene]
+- [Rule 2 — e.g. Story must be conveyed entirely through visuals and expressions]
+- [Rule 3 — e.g. Each scene must have a clear visual conflict or action beat]
+- [Rule 4 — e.g. Only include characters explicitly required in each scene]
+- [Rule 5 — e.g. No background crowd, no unnecessary props]
+- [Add more rules as needed]
+
+--------------------------------------------------
+CHARACTERS (LOCKED):
+
+- Character 1: Devin
+  [Physical description — face shape, skin tone, eye style — fill in]
+  [Hair — color #HEX, length, style — fill in]
+  [Default outfit — top, bottom, shoes, accessories — fill in]
+  [Signature trait — what makes them instantly recognizable — fill in]
+  [Expression range — what emotions they show most — fill in]
+
+- [Add unnamed characters (narrator, crowd, etc.) here if needed]
+
+--------------------------------------------------
+ENVIRONMENT (GLOBAL):
+
+[Default background / world setting for the entire project]
+[e.g. Minimal clean background, soft gradient sky / Neon-lit urban rooftop / Pastel fantasy kingdom]
+[Note: individual scenes can override this with their own ENVIRONMENT field]
+
+[Detected scene environments (auto, for reference):]
+  - Cozy living room, flat vector shadows, clean cartoon linework, YouTube animation style
+  - Colorful but dim domestic space, clean flat backgrounds, YouTube animation aesthetic
+  - Clean vector art, muted palette, YouTube animation style
+  - Inside the glowing TV frame: stylized cartoon champion boxer slips left under a jab, thick motion lines exploding as a right hand lands flush — challenger cartoon figure stumbles backward into bright yellow ropes, body bent at impact angle, stars bursting in bold graphic shapes
+  - He holds the peak pose, suspended
+  - The TV glow catches the side of his face in amber
+  - Cartoon boy stands before a bedroom mirror at midnight — both real figure and reflection visible in same frame
+  - Warm amber bedside lamp glow wraps the scene softly
+  - Clean vector art kitchen background, minimalist rounded furniture design
+  - Clean vector art, no background detail needed, focus entirely on character expression
+  - Cool desaturated palette, clean vector art sidewalk and building facade
+  - Simple white background, no environmental detail
+
+--------------------------------------------------
+GOAL:
+[Optional — one sentence stating the visual storytelling goal of the entire video]
+[e.g. "Make the audience feel the tension of nuclear deterrence without using any text or narration"]
+
+════════════════════════════════════════════════════════════════
+[END CHARACTERS Description]
+════════════════════════════════════════════════════════════════
+
+
+════════════════════════════════════════════════════════════════
+SCENE PROMPTS
+════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────
+🎬 SCENE 01: Trust — Hook [00:00–00:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cozy living room, flat vector shadows, clean cartoon linework, YouTube animation style
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 14 years
+
+ACTIONS:
+- Modern 2D cartoon illustration: small rounded boy with wide curious eyes, thick black outlines, sits tucked into corner of an oversized warm-amber couch, knees pulled to chest, head tilted — not toward the TV but sideways, watching his father
+- Cel-shaded flat colors, soft amber TV-glow washes the room in warm gold and honey tones
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- couch fabric rustling, soft cushion creak
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 02: Trust — Hook [00:08–00:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Colorful but dim domestic space, clean flat backgrounds, YouTube animation aesthetic
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- forty minutes
+
+ACTIONS:
+- Modern 2D cartoon illustration: a broad-shouldered cartoon father figure, thick black outlines, cel-shaded, sits forward on a rounded couch — elbows planted on knees, hands loosely clasped, face soft and absorbed, eyes fixed forward with quiet intensity
+- He holds perfectly still, a gentle half-smile of deep focus on his rounded face
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- television static crackling softly, couch fabric rustling faintly
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 03: Trust — Hook [00:16–00:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clean vector art, muted palette, YouTube animation style
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- forty minutes
+
+ACTIONS:
+- Modern 2D cartoon illustration: frozen graphic-novel panel — living room held in perfect stillness, thick black outlines, deep flat cel-shaded shadows filling corners in cool desaturated blue-grey
+- Cartoon father locked in forward lean on couch, elbows on knees, face unreadable, bathed in flat amber TV-glow rectangle
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- clock ticking on wall, faint TV crowd murmur
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 04: Trust — Hook [00:24–00:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Inside the glowing TV frame: stylized cartoon champion boxer slips left under a jab, thick motion lines exploding as a right hand lands flush — challenger cartoon figure stumbles backward into bright yellow ropes, body bent at impact angle, stars bursting in bold graphic shapes
+
+ACTIONS:
+- Modern 2D cartoon illustration, thick bold black outlines, cel-shaded rendering, flat vibrant primary colors
+- Inside the glowing TV frame: stylized cartoon champion boxer slips left under a jab, thick motion lines exploding as a right hand lands flush — challenger cartoon figure stumbles backward into bright yellow ropes, body bent at impact angle, stars bursting in bold graphic shapes
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- boxing glove impact thud, crowd roar crackling through TV speakers, rope twang snapping
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 05: Trust — Hook [00:32–00:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+He holds the peak pose, suspended
+
+ACTIONS:
+- Modern 2D cartoon illustration, thick bold black outlines, cel-shaded rendering, flat vibrant colors
+- Cartoon father leaps to his feet — arms thrown wide, mouth open in a huge exaggerated expression, body fully airborne in mid-jump
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- feet stomping on floor, hands clapping together
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 06: Trust — Hook [00:40–00:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The TV glow catches the side of his face in amber
+
+ACTIONS:
+- Modern 2D cartoon illustration, thick bold black outlines, cel-shaded rendering, flat vibrant colors
+- Cartoon boy seated upright, spine visibly straightening — shoulders pulled back, hands gripping knees, wide eyes fixed forward with an unreadable expression between surprise and recognition
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- sharp intake of breath
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 07: Trust — Hook [00:48–00:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cartoon boy stands before a bedroom mirror at midnight — both real figure and reflection visible in same frame
+
+ACTIONS:
+- Modern 2D cartoon illustration, thick bold black outlines, cel-shaded rendering, flat vibrant colors
+- Cartoon boy stands before a bedroom mirror at midnight — both real figure and reflection visible in same frame
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- fist whooshing through air, bare feet shuffling on wooden floor
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 08: Trust — Hook [00:56–01:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm amber bedside lamp glow wraps the scene softly
+
+ACTIONS:
+- Modern 2D cartoon illustration, thick bold black outlines, cel-shaded rendering, flat vibrant colors
+- Boy and his reflection held still in the mirror — both figures breathing, no motion lines, no punches thrown
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- slow deep breathing, wooden floor creaking once
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 09: Trust — Hook [01:04–01:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clean vector art kitchen background, minimalist rounded furniture design
+
+ACTIONS:
+- Modern 2D cartoon illustration: young boy with rounded features and wide eyes sits at breakfast table, hands folded nervously, shoulders slightly hunched forward
+- Father figure across table, thick black outlines defining stern eyebrows raised, arms crossed over chest, flat cel-shaded expression of measured skepticism
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- fork scraping plate, chair creaking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 10: Trust — Hook [01:12–01:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clean vector art, no background detail needed, focus entirely on character expression
+
+ACTIONS:
+- Modern 2D cartoon illustration: father's face fills frame, thick bold black outlines defining firm mouth and single raised eyebrow, flat cel-shaded skin in warm neutral tones
+- Eyes narrow slightly, jaw set, expression of absolute finality
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- breath exhale, hand slapping table
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 11: Trust — Hook [01:20–01:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cool desaturated palette, clean vector art sidewalk and building facade
+
+ACTIONS:
+- Modern 2D cartoon illustration: father and boy walk side-by-side toward gym entrance, thick black outlines defining their silhouettes against muted blue-grey exterior
+- Boy one step ahead, body leaning forward eagerly, rounded shoulders lifted
+
+CAMERA:
+Wide | Tracking
+
+AUDIO:
+- footsteps on pavement, door handle rattling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 12: Trust — Hook [01:28–01:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Simple white background, no environmental detail
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Six months
+
+ACTIONS:
+- Modern 2D cartoon illustration: flat graphic title card design, thick black outlined calendar pages flipping rapidly in center frame, each page a different saturated primary color (red, yellow, blue)
+- Minimalist rounded numbers counting months, clean vector art clock hands spinning
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- paper flipping rapidly, clock ticking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 13: Trust — Hook [01:36–01:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Modern 2D cartoon illustration: converted warehouse gym interior, thick black outlines defining stained walls with water marks, worn heavy bags hanging from ceiling, flat vibrant red boxing ring canvas in background
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- twenty years
+
+ACTIONS:
+- Modern 2D cartoon illustration: converted warehouse gym interior, thick black outlines defining stained walls with water marks, worn heavy bags hanging from ceiling, flat vibrant red boxing ring canvas in background
+- Saturated primary colors entering palette: yellow ropes, blue corner pads
+
+CAMERA:
+Wide | Slow push-in
+
+AUDIO:
+- fluorescent light buzzing, heavy bag chain creaking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 14: Anticipation — Hook [01:44–01:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Dramatic amber side light from left, clean vector art background blurred
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- twenty-four years
+
+ACTIONS:
+- Modern 2D cartoon illustration: coach figure emerges from shadow, thick bold black outlines defining weathered face with scar tissue ridges above eyes, crooked nose bending left
+- Flat cel-shaded skin in warm amber tones, expressive eyes narrowed with lived experience
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- footsteps on concrete, leather glove creaking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 15: Anticipation — Hook [01:52–02:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm amber lighting from side, clean vector art, no background visible
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- twenty-four years
+
+ACTIONS:
+- Modern 2D cartoon illustration: coach's face fills frame, thick black outlines defining every scar and bent feature, flat cel-shaded skin texture showing ridges above both eyes
+- Expressive eyes hold steady gaze directly at viewer, minimalist rounded character design with detailed facial asymmetry
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- slow breathing, distant gym bell ringing
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 16: Anticipation — Hook [02:00–02:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Background gym shapes — bags, ropes, silhouettes — flat and desaturated behind him, deliberately muted amber-cool palette
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- twenty-four years
+
+ACTIONS:
+- Modern 2D cartoon illustration — thick bold black outlines, cel-shaded rendering, flat vibrant colors
+- A stocky cartoon coach stands arms folded, weight settled, jaw set — scar tissue ridges rendered as bold curved lines above both eyes, nose bent left in a single clean arc
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- leather bag thudding rhythmically, distant speed-bag rattling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 17: Anticipation — Hook [02:08–02:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Scarred cartoon coach face rendered in flat amber tones — scar tissue ridges above both eyes drawn as bold curved lines, nose bent left, jaw set with quiet gravity
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- twenty-four years
+
+ACTIONS:
+- Modern 2D cartoon illustration, thick bold black outlines, cel-shaded rendering
+- Scarred cartoon coach face rendered in flat amber tones — scar tissue ridges above both eyes drawn as bold curved lines, nose bent left, jaw set with quiet gravity
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- leather heavy bag swaying creak, distant speed bag rhythmic tapping
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 18: Trust — Hook [02:16–02:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Soft flattering 3-point lighting, neutral warm 3800K tones
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- six months
+
+ACTIONS:
+- Modern 2D cartoon illustration, thick bold black outlines, cel-shaded rendering, flat vibrant colors
+- Cartoon boy in clean gym stance — feet planted wide, fists raised, expression focused and uncertain
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- sneaker squeaking on canvas floor, glove leather creaking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 19: Anticipation — Hook [02:24–02:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Desk edge looms above, gym environment visible in background — heavy bags, rope shadows
+
+ACTIONS:
+- Modern 2D cartoon illustration, thick bold black outlines, cel-shaded rendering, flat vibrant colors
+- Small round cartoon dog — Sugar Ray — curled in a tight ball under a wooden front desk, eyes half-open, amber side light casting a warm glow across soft rounded fur shapes
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- small dog exhale breath, wooden desk creak settling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 20: Trust — Hook [02:32–02:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Soft 3-point lighting, neutral warm 3800K tones, bright canvas underfoot, yellow ropes framing the scene
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- three months
+
+ACTIONS:
+- Modern 2D cartoon illustration, thick bold black outlines, cel-shaded rendering, flat vibrant colors
+- Cartoon boy in oversized red headgear and bright red 16-ounce gloves, wide eyes visible through gear, posture stiff with nervous anticipation
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- headgear velcro strap fastening, gloves tapping together
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 21: Trust — Hook [02:40–02:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Soft 3-point lighting, neutral warm 3800K, bright saturated gym colors — red, yellow, white canvas
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- three months
+
+ACTIONS:
+- Modern 2D cartoon illustration, thick bold black outlines, cel-shaded rendering, flat vibrant colors
+- Cartoon coach — scarred face, thick bold lines — stands ringside gesturing with one open hand toward the two boys, expression calm and approving
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- coach's hand patting ring apron, glove leather tapping
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 22: Trust — Hook [02:48–02:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Soft 3-point lighting, neutral warm tones
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- ninety seconds
+
+ACTIONS:
+- Modern 2D cartoon illustration, thick bold black outlines, cel-shaded rendering, flat vibrant colors
+- Cartoon boy frozen mid-ring, body stiff, eyes wide as saucers — opponent's red glove connecting with his headgear, bold motion lines radiating from impact point
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- glove impact thud, headgear rattling, sneaker pivot squeak
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 23: Trust — Hook [02:56–03:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Soft streetlight passes across windshield
+
+ACTIONS:
+- 2D cartoon car interior, warm amber dashboard glow, father character with soft rounded features and gentle smile turned slightly toward camera, boy character in passenger seat with small relaxed posture and content expression
+- Father's hand rests on steering wheel, boy's hands folded in lap, both figures rendered in thick black outlines with flat cel-shaded colors
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- car engine hum, seatbelt click
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 24: Trust — Hook [03:04–03:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Flat muted palette — no saturated primaries
+
+ACTIONS:
+- Modern 2D cartoon illustration — thick bold black outlines, cel-shaded flat colors
+- Cartoon father in profile: brow slightly furrowed, lips pressed together in quiet knowing restraint, one hand steady on steering wheel
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- car engine idling, seatbelt fabric shifting
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 25: Trust — Hook [03:12–03:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Car interior rendered in muted blues and grays, clean vector art, soft shading on dashboard
+
+ACTIONS:
+- 2D cartoon boy in passenger seat, thick black outlines, cel-shaded face half in shadow, eyes averted downward, mouth slightly open mid-word, fingers gripping seatbelt strap
+- Flat vibrant colors, simplified anatomy, expressive guilty expression
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- seatbelt fabric rustling, car engine idling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 26: Trust — Hook [03:20–03:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+A teenage boy's shoulder visible at frame edge, older than before
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Two years
+
+ACTIONS:
+- Modern 2D cartoon illustration: thick bold black outlines, cel-shaded flat colors — a cartoon gym locker wall covered in bold flat-color fight posters, each poster showing a different bout date, a pair of red gloves hanging from a hook, and a hand-drawn tally chart reading '11W / 4L' in chunky cartoon numerals
+- The posters are slightly overlapping, edges curling, colors saturated red and yellow against a muted blue-green locker surface
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- metal locker door creaking, paper rustling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 27: Trust — Build Up [03:28–03:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Gym background: red ropes, yellow canvas, saturated primaries
+
+ACTIONS:
+- Modern 2D cartoon illustration: thick bold black outlines, cel-shaded flat colors — cartoon coach holding a large clipboard, bold black text listing fight stats, gesturing with one thick rounded finger toward the page
+- Across from him a sixteen-year-old boy stands straight, chin level, expression carefully neutral but eyes slightly wide
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- clipboard paper flipping, gym bag zipper pulling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 28: Trust — Build Up [03:36–03:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Locker room background in muted blue-green flat tones
+
+ACTIONS:
+- Modern 2D cartoon illustration: thick bold black outlines, cel-shaded flat colors — cartoon teenage boy standing on a large flat-color weigh-in scale, bold digital readout showing '64 kg' in chunky numerals
+- Coach stands beside him, arms crossed, watching the number
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- scale platform clunking underfoot, pen scratching on clipboard
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 29: Anticipation — Build Up [03:44–03:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+No figures yet — just the geometry of anticipation, the empty space between chairs and ropes
+
+ACTIONS:
+- Modern 2D cartoon illustration: thick bold black outlines, cel-shaded flat colors — wide cartoon high school gymnasium interior, rows of empty flat-color folding chairs in amber-shadow tones, a bright boxing ring centered under flat overhead light
+- Chairs stretch back in simplified perspective, the ring small and waiting at center
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- folding chair legs scraping floor, distant crowd murmur building
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 30: Anticipation — Build Up [03:52–04:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Father's eyes face forward toward the unseen ring, expression neither proud nor worried — just present, waiting
+
+ACTIONS:
+- Modern 2D cartoon illustration: thick bold black outlines, cel-shaded flat colors — cartoon father seated in row three of gymnasium chairs, hands folded in lap, face calm and unreadable, drawn with simplified rounded features
+- Beside him a mother figure, hands clasped
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- folding chair creaking, crowd settling shuffling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 31: Trust — Build Up [04:00–04:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Red boxing gloves rest on a bench nearby, vivid against the warm locker-room amber light
+
+ACTIONS:
+- Modern 2D cartoon illustration: thick bold black outlines, cel-shaded flat colors — extreme close-up on two sets of hands: coach's large rounded cartoon hands methodically wrapping white tape around a teenage boy's smaller trembling hands
+- Red boxing gloves rest on a bench nearby, vivid against the warm locker-room amber light
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- tape tearing from roll, tape wrapping tightly around knuckles
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 32: Trust — Build Up [04:08–04:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+flat black, making the red and chrome pop with maximum contrast
+
+ACTIONS:
+- Modern 2D cartoon illustration: thick bold black outlines, cel-shaded flat colors — a cartoon boxing ring corner bell, chrome and bold, mounted on a red post
+- Thick radiating motion lines burst outward from the bell in all directions, filling the frame with kinetic energy
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- boxing bell sharp metallic ring, crowd erupting in sharp burst
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 33: Trust — Build Up [04:16–04:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Bright gymnasium environment with yellow ring ropes, vibrant primary colors, clean vector art style
+
+ACTIONS:
+- Modern 2D cartoon illustration: opponent boxer charging forward with aggressive posture, thick black outlines, red gloves extended in combination punch, motion lines trailing fists
+- Protagonist in defensive stance, guard raised, eyes wide with realization, cel-shaded flat colors
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- glove impact on guard, canvas footsteps shuffling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 34: Trust — Build Up [04:24–04:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Bright ring lights overhead, yellow rope visible in background
+
+ACTIONS:
+- Modern 2D cartoon illustration: red boxing glove connecting with protagonist's raised guard, thick bold black outlines, impact star burst effect radiating from contact point
+- Protagonist's head snapping back, simplified rounded face showing shock, feet sliding backward with motion lines on canvas
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- sharp glove thud, sneaker squeak on canvas
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 35: Trust — Build Up [04:32–04:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Opponent lunging and missing, punch passing through empty space with speed lines
+
+ACTIONS:
+- Modern 2D cartoon illustration: protagonist circling left with clean footwork, thick black outlines, blue shorts and red gloves, jab extended forward with motion lines
+- Opponent lunging and missing, punch passing through empty space with speed lines
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- canvas footwork shuffling, air whoosh from missed punch, bell ding
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 36: Trust — Build Up [04:40–04:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Yellow ring ropes in background, polished digital illustration aesthetic
+
+ACTIONS:
+- Modern 2D cartoon illustration: protagonist slipping left with fluid motion lines, opponent's right hand punch passing overhead through empty space
+- Protagonist's left hook mid-flight toward opponent's head, thick bold black outlines, red glove frozen in arc trajectory
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- air whoosh from slip, glove impact thud, canvas shuffle
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 37: Trust — Build Up [04:48–04:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Motion lines radiating from impact zone, western cartoon physics
+
+ACTIONS:
+- Modern 2D cartoon illustration: protagonist's red glove connecting with opponent's ribs in left hook, thick black outlines, impact star effect at contact point
+- Opponent's simplified torso bending from impact, face wincing with exaggerated cartoon expression, arms covering up defensively
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- body shot thud, exhale grunt, glove scrape on canvas
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 38: Trust — Build Up [04:56–05:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Western cartoon aesthetic with simplified anatomy
+
+ACTIONS:
+- Modern 2D cartoon illustration: full boxing ring from elevated angle, protagonist and opponent separated by visible distance, thick bold black outlines
+- Protagonist moving smoothly with clean footwork lines, opponent reaching forward with extended arms falling short
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- canvas footwork pattern, rope creak, distant crowd murmur
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 39: Trust — Build Up [05:04–05:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Yellow ring ropes framing scene
+
+ACTIONS:
+- Modern 2D cartoon illustration: referee in striped shirt raising protagonist's arm in victory, thick black outlines, protagonist's simplified face exhausted but steady with small satisfied expression
+- Judges' table visible in background with scorecards held up, cel-shaded flat colors
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- crowd applause building, scorecard paper rustle, bell ding
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 40: Trust — Build Up [05:12–05:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Other spectators as blurred simplified shapes in background, vibrant primary color palette
+
+ACTIONS:
+- Modern 2D cartoon illustration: father figure in third row of bleachers clapping, hands mid-motion with motion lines, thick bold black outlines
+- Face showing proud calm expression, simplified rounded features, warm smile, cel-shaded flat colors
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- rhythmic hand clapping, bleacher creak, muffled crowd noise
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 41: Trust — Build Up [05:20–05:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Colorful boxing arena bleachers behind them, simplified rounded figures
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- seven years
+
+ACTIONS:
+- Modern 2D cartoon illustration, thick bold black outlines, cel-shaded rendering
+- A cartoon father mid-clap, wide grin, arms raised, drawn in flat vibrant amber and warm gold tones — his whole body leaning forward with joy
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- hands clapping, crowd applause fading
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 42: Trust — Build Up [05:28–05:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cool desaturated blue-grey fills the cabin, amber streetlight stripe crossing the dashboard
+
+ACTIONS:
+- Modern 2D cartoon illustration, thick bold black outlines, cel-shaded flat colors
+- Wide cartoon car interior — father's thick-outlined hands grip the steering wheel, knuckles forward, eyes fixed straight ahead
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- car engine idling, then engine cutting off with a click
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 43: Trust — Build Up [05:36–05:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cel-shaded car interior bathed in warm amber streetlight glow through windshield, soft gradient shadows on dashboard, flat vibrant colors
+
+ACTIONS:
+- Cartoon father figure sits in driver's seat, hand resting on steering wheel, head turned slightly toward passenger side
+- Thick black outlines define his calm, open expression — eyebrows softly raised, small smile forming
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- fingers tapping steering wheel once
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 44: Anticipation — Build Up [05:44–05:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm amber light fills cel-shaded car interior, golden glow on his cheek, flat vibrant colors with soft gradient shadows
+
+ACTIONS:
+- Cartoon father's face in profile, thick black outlines, eyes forward with soft anticipation — slight upward curve of mouth, eyebrows lifted gently
+- He shifts weight slightly in seat, one hand gesturing toward dashboard clock
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- hand brushing fabric seat, clock ticking twice
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 45: Trust — Build Up [05:52–06:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clean vector art, dynamic panel border, flat soft shading
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Four years
+
+ACTIONS:
+- Modern 2D cartoon illustration, thick bold black outlines, cel-shaded flat colors
+- Split cartoon panel composition: left panel shows a smaller teenage boy in a gym, right panel shows the same character taller at twenty — same rounded design, visibly grown
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- scoreboard numbers clicking into place, gym bell dinging once
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 46: Trust — Build Up [06:00–06:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Bright boxing gym background: yellow ropes, red corner pads, flat vibrant canvas
+
+ACTIONS:
+- Modern 2D cartoon illustration, thick bold black outlines, cel-shaded rendering
+- Cartoon fighter in a clean defensive stance — weight back, gloves raised, rounded simplified body with footwork motion lines drawn beneath his feet like speed dashes
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- boxing gloves tapping together, footsteps squeaking on canvas
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 47: Trust — Build Up [06:08–06:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Minimal background: blurred flat gym colours behind
+
+ACTIONS:
+- Modern 2D cartoon illustration, thick bold black outlines, cel-shaded rendering
+- Extreme close-up on cartoon fighter's eyes above raised red gloves — wide, calm, calculating
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- glove leather creaking, slow measured exhale through nose
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 48: Fear — Build Up [06:16–06:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+His rounded figure is small against the huge empty arena
+
+ACTIONS:
+- Modern 2D cartoon illustration, thick bold black outlines, cel-shaded rendering
+- Cartoon fighter stands alone in the centre of a boxing ring — empty stadium seats stretch behind him in cool desaturated blues, vacant and vast
+
+CAMERA:
+Close-up | Handheld
+
+AUDIO:
+- empty arena echo, folding seat snapping shut in the distance
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 49: Fear — Build Up [06:24–06:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Dim boxing gym interior, cel-shaded flat tones of deep navy and muted grey, single cool light source casting a hard shadow across the upper face, red accent bleeding into the background ropes — desaturated, oppressive atmosphere
+
+ACTIONS:
+- Modern 2D cartoon illustration — a young boxer's thick-outlined cartoon fists hang slightly lowered, red gloves dull and heavy, rounded shoulders curved inward with visible tension, wide eyes shadowed under a dark brow
+- Gloved fists press together slowly, knuckles grinding
+
+CAMERA:
+Close-up | Handheld
+
+AUDIO:
+- leather gloves creaking, slow rope sway tapping canvas post
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 50: Fear — Build Up [06:32–06:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cool single-source light casts deepening shadows across his torso
+
+ACTIONS:
+- Modern 2D cartoon illustration: thick bold outlines, cel-shaded flat primaries — a cartoon boxer drilling rapid body shots into a vibrant red heavy bag
+- Low dynamic angle, arms blurred with bold motion lines, face set in grim determination, jaw tight
+
+CAMERA:
+Close-up | Handheld
+
+AUDIO:
+- heavy bag thudding impacts, glove leather slapping canvas, chain links rattling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 51: Trust — Build Up [06:40–06:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm saturated primaries — yellow, red, white — replace earlier cool tones
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- eight months
+
+ACTIONS:
+- Modern 2D cartoon illustration: bold black outlines, flat cel-shaded colors — a bold cartoon scoreboard graphic fills frame center, numbers climbing in chunky rounded digits: 1x… 2x… 3x stoppage rate
+- Behind it, small in the background, a cartoon fighter pumps one fist skyward, simplified silhouette against bright canvas
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- scoreboard number clicking upward, crowd clapping fading in
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 52: Trust — Build Up [06:48–06:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Bright canvas beneath them, yellow ropes framing the scene
+
+ACTIONS:
+- Modern 2D cartoon illustration: thick bold outlines, flat vibrant cel-shaded gym colors — two cartoon fighters face each other at ring center
+- Protagonist in familiar red gloves
+- Devin rendered with a distinct silhouette, confident upright posture, cool blue trim on his kit
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- boxing gloves tapping together in touch-up, rope corner buckles clinking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 53: Trust — Build Up [06:56–07:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Gym environment warm at 3800K, clean even light
+
+ACTIONS:
+- Modern 2D cartoon illustration — thick bold black outlines, cel-shaded flat vibrant colors
+- Two cartoon boxers, rounded simplified anatomy, face each other across bright canvas
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- boxing gloves tapping together, canvas footstep shuffle
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 54: Trust — Build Up [07:04–07:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Modern 2D cartoon illustration: thick bold outlines, flat cel-shaded primaries — a triptych panel layout, three frames side by side labeled TUESDAY, THURSDAY, SATURDAY in bold rounded cartoon type
+
+ACTIONS:
+- Modern 2D cartoon illustration: thick bold outlines, flat cel-shaded primaries — a triptych panel layout, three frames side by side labeled TUESDAY, THURSDAY, SATURDAY in bold rounded cartoon type
+- Same ring, same two figures in each panel, but motion lines grow denser panel to panel — sparse in Tuesday, moderate Thursday, dense and kinetic Saturday
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- boxing bell clanging three times in sequence, gloves striking mitts
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 55: Trust — Build Up [07:12–07:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The hook lands at frame center — the visual payoff of six months of drilling made concrete
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- six months
+
+ACTIONS:
+- Modern 2D cartoon illustration: bold black outlines, flat vibrant colors — sharp diagonal composition, two cartoon fighters mid-exchange
+- Protagonist's left arm fully extended in a hook, motion lines radiating from the glove in a tight burst
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- leather glove cracking on jaw, canvas footwork squeaking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 56: Trust — Build Up [07:20–07:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Protagonist stands at frame edge, gloves still raised, expression unreadable
+
+ACTIONS:
+- Modern 2D cartoon illustration — thick bold black outlines, cel-shaded flat vibrant colors
+- Cartoon boxer Devin mid-fall, body tilting hard left, flat cartoon impact pose — arms splayed, one glove hitting bright canvas, motion lines vanishing the instant he lands
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- body thudding onto canvas, glove slapping mat
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 57: Anticipation — Build Up [07:28–07:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+colorful boxing gym environment with frozen figures mid-motion, flat perspective, minimalist design
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- fifteen seconds
+- seventeen minutes
+
+ACTIONS:
+- Modern 2D cartoon illustration: Coach character with thick black outlines, cel-shaded rendering, rounded simplified anatomy, urgent expression with wide eyes and raised eyebrows, one hand holding phone to ear, other hand raised palm-out in stop gesture
+- Flat vibrant colors, clean vector art
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- phone keypad beeping, distant gym door creaking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 58: Anticipation — Build Up [07:36–07:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cool blue lighting on face, amber gym glow behind
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- fifteen seconds
+- seventeen minutes
+
+ACTIONS:
+- Modern 2D cartoon illustration: Ambulance doors closing in thick black outlines, cel-shaded flat colors, clean vector art
+- Fighter character with rounded minimalist design stands outside gym entrance, arms straight at sides, head slightly down, simplified facial expression showing quiet shock
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- ambulance doors slamming shut, engine starting
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 59: Trust — Build Up [07:44–07:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Long empty hallway stretches behind in clean vector art, polished digital illustration
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- four days
+
+ACTIONS:
+- Modern 2D cartoon illustration: Hospital corridor in flat vibrant colors, thick black outlines, cel-shaded rendering
+- Fighter character seated alone on bench, head bowed forward, shoulders slumped, hands resting on knees
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- fluorescent light buzzing faintly, distant footsteps echoing
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 60: Trust — Build Up [07:52–08:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Fighter character small in doorway background
+
+ACTIONS:
+- Modern 2D cartoon illustration: Devin character in hospital bed, thick black outlines, cel-shaded flat colors, minimalist rounded design
+- Right arm limp at side on blanket, left hand resting on chest
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- hospital bed motor humming softly, IV drip clicking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 61: Trust — Build Up [08:00–08:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Simplified anatomy, rounded character design, muted cool tones
+
+ACTIONS:
+- Modern 2D cartoon illustration: Close framing on Devin character in bed, thick black outlines, cel-shaded rendering, flat vibrant colors
+- Right arm limp on white sheet, hand open and unmoving
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- bedsheet rustling faintly, heart monitor beeping steadily
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 62: Trust — Build Up [08:08–08:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Background blurred into soft shapes
+
+ACTIONS:
+- Modern 2D cartoon illustration: Tighter framing on unresponsive right hand resting flat on hospital bed sheet, thick black outlines, cel-shaded flat colors, clean vector art
+- Fingers slightly curled but motionless, simplified anatomy
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- pen scratching on medical chart, clipboard tapping
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 63: Trust — Build Up [08:16–08:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Colorful but muted palette
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- three months
+
+ACTIONS:
+- Modern 2D cartoon illustration: Devin character exiting hospital doors, thick black outlines, cel-shaded rendering, flat vibrant colors
+- Cane in left hand, right arm held close to body, simplified rounded anatomy
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- cane tapping on pavement, automatic doors sliding open
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 64: Anticipation — Build Up [08:24–08:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Devin in background with cane, mother figure standing behind
+
+ACTIONS:
+- Modern 2D cartoon illustration: Protagonist character sits across from Devin in therapy room, thick black outlines, cel-shaded flat colors, minimalist rounded design
+- Eyes averted downward, hands folded in lap, shoulders slightly hunched
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- paper cup being set down on table, chair scraping floor
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 65: Trust — Build Up [08:32–08:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Flat saturated primaries flood the gym interior behind him while the hallway behind stays cool and muted
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- five days
+
+ACTIONS:
+- Modern 2D cartoon illustration, thick bold black outlines, cel-shaded rendering, flat vibrant colors
+- Cartoon protagonist — rounded simplified anatomy, jaw set, shoulders squared — pushes open a bright red gym door alone
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- gym door hinge creaking, rubber sole squeaking on floor tile
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 66: Trust — Build Up [08:40–08:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cel-shaded gym environment with muted desaturated colors, simplified geometric equipment shapes in background blur
+
+ACTIONS:
+- 2D cartoon character with thick black outlines stands in flat-colored gym corner, shoulders squared, jaw set, eyes forward with determined expression
+- Arms crossed tightly against chest, posture rigid and self-contained
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- locker door closing with metallic click
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 67: Anticipation — Build Up [08:48–08:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Amber 3400K flat color wash, building shadows at frame edges
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- eight months
+
+ACTIONS:
+- Modern 2D cartoon illustration, thick bold black outlines, cel-shaded amber-shadow tones
+- Extreme close-up on cartoon gloved hands mid left-hook extension — bold red gloves, trembling motion lines radiating from the wrist, slightly jagged trajectory
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- boxing glove thudding on heavy bag, chain rattling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 68: Trust — Build Up [08:56–09:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm amber interior light glows through a small door window
+
+ACTIONS:
+- Modern 2D cartoon illustration, thick bold black outlines, cel-shaded flat colors
+- Cartoon protagonist stands at a suburban front door, fist raised mid-knock, not yet touching wood — hesitation frozen in posture, shoulders slightly hunched
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- car engine ticking off, wind through suburban trees
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 69: Anticipation — Build Up [09:04–09:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Amber 3400K flat color, building shadows
+
+ACTIONS:
+- Modern 2D cartoon illustration, thick bold black outlines, cel-shaded amber-shadow tones
+- Split-panel composition: left panel shows cartoon father in armchair leaning forward, hands on knees, same posture mirrored on right panel by a memory-tinted younger coach in a warehouse — different face, identical lean
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- armchair leather creaking, distant warehouse echo
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 70: Anticipation — Build Up [09:12–09:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+A single clean minimal speech bubble floats beside his face, empty interior — question implied, not shown
+
+ACTIONS:
+- Modern 2D cartoon illustration, thick bold black outlines, cel-shaded flat colors
+- Extreme close-up on cartoon father's face — rounded simplified features, expression serious and open, eyes steady
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- lamp filament buzzing, clock ticking on wall
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 71: Trust — Deep [09:20–09:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+warm living room, flat color shapes
+
+ACTIONS:
+- Modern 2D cartoon illustration, thick bold black outlines, cel-shaded flat colors
+- Cartoon father seated, hands planted firmly on knees, leaning forward — posture carrying weight and foreknowledge
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- hands pressing on denim fabric, slow exhale through nose
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 72: Trust — Deep [09:28–09:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+No motion lines, no background detail — pure face, pure stillness
+
+ACTIONS:
+- Modern 2D cartoon illustration, thick bold black outlines, cel-shaded flat colors
+- Tightest close-up of the batch: cartoon protagonist's face filling frame — rounded simplified features, eyes direct and calm, expression certain without bravado
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- slow breath in through nose, single heartbeat thud
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 73: Trust — Deep [09:36–09:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+A bold graphic panel: the number '21' rendered enormous in flat primary yellow, centered on a deep teal background
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Twenty-one years
+
+ACTIONS:
+- Modern 2D cartoon illustration, thick bold black outlines, cel-shaded rendering, flat vibrant colors
+- A bold graphic panel: the number '21' rendered enormous in flat primary yellow, centered on a deep teal background
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- paper rustling, stamp thudding on surface
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 74: Trust — Deep [09:44–09:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Scale deliberately emphasizes smallness of the figures against the vast empty space
+
+ACTIONS:
+- Modern 2D cartoon illustration, thick bold black outlines, cel-shaded rendering, flat vibrant colors
+- Wide cartoon arena interior: a bright white boxing ring centered in a sparse hall, yellow ropes glowing under flat overhead lights
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- crowd murmuring, ring bell clanging
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 75: Trust — Deep [09:52–10:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The punch is mid-connection, frozen at peak impact
+
+ACTIONS:
+- Modern 2D cartoon illustration, thick bold black outlines, cel-shaded rendering, flat vibrant colors
+- Dynamic mid-fight panel: cartoon boxer in red gloves throwing a straight right, thick motion lines radiating from the fist in bold yellow and white
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- boxing glove thudding on flesh, mouthguard clicking, feet shuffling on canvas
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 76: Trust — Deep [10:00–10:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Sparse crowd dots in background seats, muted teal arena walls
+
+ACTIONS:
+- Modern 2D cartoon illustration, thick bold black outlines, cel-shaded rendering, flat vibrant colors
+- Cartoon referee in white shirt raises the protagonist's red-gloved hand at ring center
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- sparse crowd clapping, referee's whistle blowing
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 77: Trust — Deep [10:08–10:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cool teal table surface, clean minimal background
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- fifteen percent
+
+ACTIONS:
+- Modern 2D cartoon illustration, thick bold black outlines, cel-shaded rendering, flat vibrant colors
+- Close-up on a thin white envelope lying on a plain table
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- paper bills rustling, envelope tearing, coins clinking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 78: Trust — Deep [10:16–10:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cool desaturated blue-amber table surface, minimal background
+
+ACTIONS:
+- Modern 2D cartoon illustration, thick bold black outlines, cel-shaded rendering, flat vibrant colors
+- Close-up on a cartoon protagonist's hands counting a small stack of euro bills on a bare table
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- paper bills rustling, fingers flicking through notes
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 79: Trust — Deep [10:24–10:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Right half shows the protagonist in a sparse cool-toned room, phone to his ear, a faint bruise rendered as a flat purple shape on his cheekbone, expression calm and guarded
+
+ACTIONS:
+- Modern 2D cartoon illustration, thick bold black outlines, cel-shaded rendering, flat vibrant colors
+- Split-panel composition: left half shows a cartoon father seated in a warm amber living room, a small TV glowing with a boxing broadcast, phone pressed to his ear, brow furrowed with concern
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- phone dialing tone, television static crackling, chair creaking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 80: Anticipation — Deep [10:32–10:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cozy amber-lit cartoon kitchen, warm golden-yellow walls, soft flat shadows, muted but inviting tones — positive warmth deliberately understated
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- nine years
+
+ACTIONS:
+- 2D cartoon illustration, thick black outlines, cel-shaded flat colors: a round-faced cartoon boy sits alone at a kitchen table, amber warm light, eyes distant and soft, one hand resting on a phone, slight tired smile — quiet anticipation held in stillness
+- He stares forward, not moving, years of unsaid things readable in his gentle expression
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- clock ticking on wall, chair creaking softly
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 81: Trust — Deep [10:40–10:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Streetlamps cast amber pools on the road
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- six miles
+
+ACTIONS:
+- Modern 2D cartoon illustration, thick bold black outlines, cel-shaded rendering
+- Cartoon runner in oversized hoodie, posture forward-leaning and determined, jaw set, arms pumping with flat motion lines trailing behind
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- rhythmic footsteps on pavement, steady breathing exhale
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 82: Trust — Deep [10:48–10:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+A bold cartoon mileage counter graphic — '6 MILES' — floats in corner like a comic panel label
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- six miles
+
+ACTIONS:
+- Modern 2D cartoon illustration, thick bold black outlines, cel-shaded rendering — cartoon runner mid-stride on an amber-lit pre-dawn street, chest forward, arms pumping, white illustrated breath-puff clouds bursting from mouth, expression focused and calm
+- Feet striking pavement in rhythmic cadence, motion lines trailing behind sneakers
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- sneakers slapping pavement rhythmically, cartoon breath-puff whoosh sounds, distant cartoon bird chirp
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 83: Trust — Deep [10:56–11:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+clean bright bedroom wall, training gear hanging neatly on hooks, red gloves visible
+
+ACTIONS:
+- Modern 2D cartoon illustration, thick bold black outlines, cel-shaded rendering — cartoon character's hand holds a bright flat-design smartphone, screen glowing with cheerful teal UI showing a group chat full of unanswered bubble messages, cartoon notification badges stacking up
+- Character's rounded face visible in soft reflected screen-glow, expression serene and unbothered — small calm smile, relaxed shoulders
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- cartoon notification ping sounds, soft cartoon page-turn swipe sound
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 84: Trust — Deep [11:04–11:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Flat bright gym-yellow background
+
+ACTIONS:
+- Modern 2D cartoon illustration, thick bold black outlines, cel-shaded rendering
+- Close-up on cartoon coach's face — rounded simplified features, mouth open mid-count, lips forming an exaggerated 'O' shape, one finger raised
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- leather mitt slap, single sharp exhale
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 85: Trust — Deep [11:12–11:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Bright gym-yellow background, flat vibrant colors
+
+ACTIONS:
+- Modern 2D cartoon illustration, thick bold black outlines, cel-shaded rendering
+- Cartoon boxer's gloved fist connects with a red focus mitt — bold motion blur lines radiate from the point of impact
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- leather glove striking mitt, rubber sole squeaking on gym floor
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 86: Trust — Deep [11:20–11:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Wide cartoon gym interior at dusk — empty ring, heavy bags hanging still, long flat shadows stretching across the canvas floor
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Three years
+
+ACTIONS:
+- 2D cartoon illustration, thick bold black outlines, cel-shaded rendering
+- Wide cartoon gym interior at dusk — empty ring, heavy bags hanging still, long flat shadows stretching across the canvas floor
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- heavy bag swaying creak, distant speed bag rattling to stillness
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 87: Trust — Deep [11:28–11:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+silhouetted cartoon fighters continuing to run uphill, none glancing back, stoic rounded expressions
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- thousand two hundred meters
+- three times
+
+ACTIONS:
+- Modern 2D cartoon illustration, thick bold black outlines, cel-shaded rendering — cartoon gym interior with bold Mexican flag decal on terracotta wall, cream and warm orange flat tones
+- Foreground: cartoon fighter crouched on a mountain road at 3 a.m., knees bent, hands on knees, illustrated sweat droplets and cartoon nausea-green swirl above head — three bold comic-panel 'X3' marker floating nearby
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- cartoon retching sound effect, gravel crunching under cartoon footsteps, distant wind whoosh
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 88: Trust — Deep [11:36–11:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Mountain shapes in background as clean geometric forms
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- thousand two hundred meters
+- three times
+
+ACTIONS:
+- Modern 2D cartoon illustration, thick bold black outlines, cel-shaded rendering
+- Two cartoon figures running on a dusty mountain trail — simplified silhouettes against flat golden morning sky
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- labored breathing, gravel crunching underfoot
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 89: Anticipation — Deep [11:44–11:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm amber gym light, flat cel-shaded shadows, colorful boxing gym environment
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- twenty-five percent
+
+ACTIONS:
+- Modern 2D cartoon illustration — thick bold black outlines, cel-shaded flat colors
+- A cartoon digital scale display glows amber-gold, bold red numerals reading '200g OVER' centered in frame, partially cropped at edges — the full verdict not yet visible
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- digital scale beeping, paper bills fanning and snapping
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 90: Trust — Deep [11:52–12:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clean vector art, muted teal and amber palette
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- four hours
+
+ACTIONS:
+- Modern 2D cartoon illustration, thick bold black outlines, cel-shaded rendering, flat vibrant colors
+- Motel corridor exterior, door numbered '207' in bold flat numerals, a cartoon cardboard box of hand wraps sitting on the doorstep, a folded note tucked under the flap
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- cardboard box thudding on floor, footsteps fading on linoleum
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 91: Trust — Deep [12:00–12:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Flat color, simplified anatomy, soft cel shading
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- four hours
+
+ACTIONS:
+- Modern 2D cartoon illustration, thick bold black outlines, cel-shaded rendering
+- Extreme close-up of cartoon father's large rounded hands wrapping white tape around a smaller cartoon fist, fingers spread flat
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- cloth tape unwinding, tape tearing
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 92: Trust — Deep [12:08–12:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Motel bathroom mirror reflection: cartoon boxer and father standing side by side, both rendered in flat muted teal and amber tones, expressions neutral and soft, neither speaking
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- four hours
+
+ACTIONS:
+- Modern 2D cartoon illustration, thick bold black outlines, cel-shaded rendering, flat vibrant colors
+- Motel bathroom mirror reflection: cartoon boxer and father standing side by side, both rendered in flat muted teal and amber tones, expressions neutral and soft, neither speaking
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- water dripping from tap, fluorescent light buzzing
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 93: Trust — Deep [12:16–12:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clean flat lighting, no shadows
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- One year
+
+ACTIONS:
+- Modern 2D cartoon illustration, thick bold black outlines, cel-shaded rendering
+- Cartoon doctor's blue-gloved hands illustrated mid-stitch above a cartoon eyebrow, curved needle and white thread rendered in clean vector lines, sterile white and teal hospital palette
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- surgical needle piercing skin, thread pulling taut
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 94: Trust — Deep [12:24–12:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Hospital fluorescent green tint washes the flat background
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- One year
+
+ACTIONS:
+- Modern 2D cartoon illustration, thick bold black outlines, cel-shaded rendering, flat vibrant colors
+- Cartoon boxer's face in three-quarter profile, fresh bold black stitches above left eyebrow illustrated with clean vector lines, expression neutral and unreadable
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- hospital trolley wheels rolling, clipboard paper shuffling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 95: Trust — Deep [12:32–12:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+blurred warm gold and teal wedding lights, minimalist rounded shapes suggesting dancing figures
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- twelve days
+
+ACTIONS:
+- Cartoon wedding reception table in flat vibrant colors, thick black outlines, cel-shaded rendering
+- Simplified character in suit sitting at round table, butterfly stitch drawn as bold black line above right eye, posture upright and still, hands folded on table
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- chair creaking, fabric rustling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 96: Trust — Deep [12:40–12:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Sister in white illustrated dress mid-spin in background
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- twelve days
+
+ACTIONS:
+- Modern 2D cartoon illustration, thick bold black outlines, cel-shaded rendering, flat vibrant colors
+- Dance floor wide view: cartoon father and mother mid-dance, father's head turned over his shoulder, eyes directed toward camera — toward the boxer at table seven
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- slow dance song muffled, dress fabric swishing
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 97: Trust — Deep [12:48–12:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Flat muted teal and steel-grey locker room colors, authoritative Bloomberg-style lighting, teal accent glow on the card
+
+ACTIONS:
+- Modern 2D cartoon illustration, thick bold black outlines, cel-shaded rendering
+- Cartoon gym locker door fills frame — a hand-written index card taped to the metal surface reads '33W / 7L' in bold marker, with '#15' circled beneath
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- marker squeaking on card, tape peeling from roll
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 98: Trust — Deep [12:56–13:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Authoritative Bloomberg-style lighting
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- three times
+
+ACTIONS:
+- Modern 2D cartoon illustration, thick bold black outlines, cel-shaded rendering
+- Cartoon hands centre-frame — simplified rounded anatomy, knuckles drawn as swollen flat red shapes with bold outlines, white athletic tape being slowly unwound in a single continuous strip
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- tape tearing from skin, knuckle cracking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 99: Trust — Deep [13:04–13:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Fracture marks are numbered with small teal callout labels: 1, 2, 3
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- three times
+
+ACTIONS:
+- Modern 2D cartoon illustration, thick bold black outlines, cel-shaded rendering
+- Stylised cartoon X-ray illustration of a hand — flat medical-blue background, simplified bone shapes in pale white, three bold red fracture lines drawn across metacarpals like cracks in ceramic
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- pen scratching paper, clipboard dropping on metal surface
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 100: Trust — Deep [13:12–13:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+No motion lines
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- three times
+
+ACTIONS:
+- Modern 2D cartoon illustration, thick bold black outlines, cel-shaded rendering
+- Rounded cartoon boxer stands before a gym mirror, flexing both hands open and closed slowly
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- gym bag zipper pulling, weight plate clanking on rack
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 101: Trust — Deep [13:20–13:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Skin tone muted, desaturated
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- three times
+
+ACTIONS:
+- Modern 2D cartoon illustration, thick bold black outlines, cel-shaded rendering
+- Extreme close-up on two cartoon fists resting palm-down on a bench — flat composition, hands filling the full frame
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- bench wood creaking, slow exhale breath
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 102: Trust — Deep [13:28–13:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Living room environment, simplified flat background, soft cel-shaded shadows pooling under the figure
+
+ACTIONS:
+- Modern 2D cartoon illustration, thick bold black outlines, cel-shaded rendering
+- Rounded adult cartoon figure seated on a couch, shoulders slumped forward, head tilted down, hands resting heavy on knees — fatigue drawn entirely in posture, spine curved like a question mark
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- couch cushion creaking, slow exhale breath
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 103: Trust — Deep [13:36–13:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Teal and white flat color palette, cool authoritative lighting
+
+ACTIONS:
+- Modern 2D cartoon illustration, thick bold black outlines, cel-shaded rendering, flat vibrant colors
+- A large cartoon fight-poster pinned to a gym wall fills the frame — bold graphic design showing two stylized boxer silhouettes, '37-2 vs UNDERDOG' in chunky block lettering, 'MAIN EVENT 10 ROUNDS' across the bottom
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- gym floor wooden creak, poster corner flapping
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 104: Trust — Deep [13:44–13:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Static frame holds both panels simultaneously — no animation, pure graphic novel energy
+
+ACTIONS:
+- Modern 2D cartoon illustration, thick bold black outlines, cel-shaded rendering
+- Panel-style split composition: left panel shows cartoon opponent lunging forward, motion lines radiating from fists, expression fierce and wide-eyed
+- Right panel shows rounded protagonist in tight defensive guard, arms raised, absorbing impact — impact star shapes in saturated red and yellow at point of contact
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- boxing glove impact thud, crowd stomping on arena floor
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 105: Trust — Deep [13:52–14:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Bright canvas floor, yellow ropes, saturated primary colors, clean vector art aesthetic
+
+ACTIONS:
+- Modern 2D cartoon illustration: boxer character with thick black outlines, rounded minimalist design, stands centered in vibrant boxing ring
+- Flat cel-shaded rendering
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- glove leather creaking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 106: Trust — Deep [14:00–14:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clean vector art, polished digital illustration style, saturated primaries against bright canvas
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- eight years
+- eight months
+
+ACTIONS:
+- Modern 2D cartoon illustration: freeze-frame impact moment, thick bold black outlines, flat vibrant colors
+- Red-gloved fist connects to opponent's torso in center frame, bright yellow star-burst impact graphic explodes at contact point
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- glove thudding into heavy bag
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 107: Trust — Deep [14:08–14:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Vibrant red against desaturated blue-gray background, clean vector art aesthetic, polished digital illustration
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- eight years
+- eight months
+
+ACTIONS:
+- Modern 2D cartoon illustration: tight frame on red boxing glove, thick black outlines, flat cel-shaded rendering
+- Glove cocked back at shoulder level, motion lines trailing behind fist, simplified rounded design
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- canvas creaking underfoot
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 108: Trust — Deep [14:16–14:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Bright primary-colored boxing ring with flat cel-shaded canvas, saturated red corner padding, yellow ropes casting clean vector shadows
+
+ACTIONS:
+- Two cartoon boxers mid-exchange in the ring, both with thick black outlines, rounded simplified anatomy, faces showing gritted determination through bold expressive lines
+- Both figures lean forward, gloves raised in guard, bodies angled toward each other in mutual aggression
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- leather gloves thudding against flesh, canvas creaking under shifting weight, sharp exhales on impact
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 109: Trust — Deep [14:24–14:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Polished digital illustration, simplified anatomy
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- fifteen seconds
+
+ACTIONS:
+- Modern 2D cartoon illustration: two-beat sequence, thick black outlines, cel-shaded rendering
+- First beat: boxer character slips left, head tilting smoothly, opponent's jab passing overhead shown with motion line
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- glove whooshing, sharp impact crack
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 110: Trust — Deep [14:32–14:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Western cartoon aesthetic, simplified anatomy
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- fifteen seconds
+
+ACTIONS:
+- Modern 2D cartoon illustration: opponent character falling backward in flat cartoon slow-motion, thick black outlines, cel-shaded rendering
+- Knees buckled, arms windmilling, wide-eyed dazed expression
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- body hitting canvas, crowd gasping
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 111: Trust — Deep [14:40–14:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Empty ring conveys quiet triumph
+
+ACTIONS:
+- Modern 2D cartoon illustration: boxer character stands alone in ring center, thick black outlines, cel-shaded rendering
+- Single red-gloved fist raised overhead, rounded minimalist design, calm determined expression
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- distant bell ringing once
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 112: Trust — Deep [14:48–14:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm amber-toned locker room with flat cel-shaded benches, vibrant primary-colored lockers in background, clean vector lighting casting soft golden glow
+
+ACTIONS:
+- Cartoon father figure standing in locker room, arms extended forward in embrace position, rounded simplified body with thick black outlines, face showing quiet pride through minimal expressive lines—soft eyes, slight smile
+- Young boxer in frame entering embrace, shoulders relaxed, head tilted down
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- footsteps on concrete floor, fabric rustling as arms move, bench creaking under shifted weight
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 113: Trust — Deep [14:56–15:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The hallway is rendered in flat teal-blue and warm cream tones, clean vector fills, minimal shadow
+
+ACTIONS:
+- Modern 2D cartoon illustration, thick bold black outlines, cel-shaded rendering
+- Cartoon fighter character — rounded simplified anatomy — stands frozen in a warmly lit hotel hallway, body turned sideways, one hand pressed flat against the wall, head tilted toward a closed door
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- carpet muffling footsteps, faint door creak settling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 114: Trust — Deep [15:04–15:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Flat muted palette, minimal shading, graphic novel stillness
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- seven years
+
+ACTIONS:
+- Modern 2D cartoon illustration, thick bold black outlines, cel-shaded flat colors
+- Close on cartoon fighter's rounded face — wide eyes unfocused, soft open mouth, brow slightly furrowed in unreadable stillness
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- wall clock ticking, shallow breath sound
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 115: Anticipation — Deep [15:12–15:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Above him: vast empty white space stretching upward, no summit visible, no ceiling
+
+ACTIONS:
+- Modern 2D cartoon illustration, thick bold black outlines, cel-shaded flat colors
+- Wide cartoon establishing panel: small rounded fighter figure stands at the peak of a stylized flat mountain graphic — bold amber and cool blue tones, cel-shaded slopes
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- wind rushing sound, single footstep on gravel
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 116: Trust — Deep [15:20–15:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Dark hotel room rendered in flat cel-shaded blues; faint teal glow from phone screen cuts across his face
+
+ACTIONS:
+- Cartoon fighter — rounded simplified anatomy, thick black outlines — sits on hotel bed edge, phone pressed to ear, body collapsed inward, shoulders curved forward, free hand gripping knee
+- He stares at the floor, jaw tight, eyes wide and still
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- phone vibration buzz, bedsheet fabric crinkle
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 117: Trust — Deep [15:28–15:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Interior car tones are muted teal and cream
+
+ACTIONS:
+- Modern 2D cartoon illustration, thick bold black outlines, cel-shaded rendering, flat vibrant colors
+- An older cartoon man — rounded simplified anatomy, thick outlines — sits in the driver's seat of a parked cartoon car outside a small amateur boxing gym at dusk
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- car engine ticking cool, distant gym door rattling, wind brushing car exterior
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 118: Trust — Deep [15:36–15:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Flat muted palette, thick outlines, minimal shading
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- four hours
+
+ACTIONS:
+- Modern 2D cartoon illustration, thick bold black outlines, cel-shaded flat colors
+- Two-panel split composition: left panel — cartoon father's rounded face, mouth open mid-word, one finger raised confidently, expression bright and certain — naming the opponent
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- finger tapping on table, chair leg scraping floor
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 119: Trust — Deep [15:44–15:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Other cartoon figures train loosely in the background, unaware
+
+ACTIONS:
+- Modern 2D cartoon illustration, thick bold black outlines, cel-shaded flat colors
+- Wide cartoon gym interior — colorful but muted: red heavy bag, yellow ropes in background, flat canvas floor
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- heavy bag thudding, speed rope slapping floor
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 120: Trust — Deep [15:52–16:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Ahead, a vast arena opening blazes with warm golden-amber light — flat cel-shaded crowd shapes fill the distance
+
+ACTIONS:
+- Modern 2D cartoon illustration, thick bold black outlines, cel-shaded rendering, flat vibrant colors
+- Wide cartoon panel: a small fighter figure stands alone at the mouth of a stadium tunnel, rendered in simplified rounded anatomy
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- distant crowd murmur rising, tunnel concrete echo, boots stepping on floor
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 121: Trust — Deep [16:00–16:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Flat teal accent lighting rims the tunnel arch
+
+ACTIONS:
+- Modern 2D cartoon illustration: thick bold black outlines, cel-shaded flat colors
+- Wide cartoon panel — a massive illustrated arena dwarfs a tiny fighter figure at the mouth of a long tunnel, ninety-thousand flat-color crowd shapes filling tiered stands in cool desaturated blues and amber glow
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- boots striking concrete floor, distant crowd murmur rumble
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 122: Trust — Deep [16:08–16:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+YouTube animation style, playful comic aesthetic, dynamic composition
+
+ACTIONS:
+- Modern 2D cartoon illustration: thick bold black outlines, cel-shaded flat colors
+- Fighter's cartoon legs and boots fill the lower frame, walking forward along a flat-color tunnel floor — bold motion lines trail behind each boot heel, simplified anatomy, clean vector linework
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- boots striking concrete floor, rhythmic footstep echo
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 123: Trust — Deep [16:16–16:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Minimalist rounded design, clean vector art, YouTube animation style
+
+ACTIONS:
+- Modern 2D cartoon illustration: thick bold black outlines, cel-shaded flat colors
+- Extreme close-up on cartoon boots planted on canvas — flat geometric floor texture in muted amber-grey
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- low floor vibration thud, canvas fabric creaking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 124: Trust — Deep [16:24–16:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Bright boxing ring with yellow ropes, red corner pad, flat primary colors, clean vector background, authoritative flat lighting
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- thirty-one years
+
+ACTIONS:
+- Cartoon champion figure stands centered in ring, rounded muscular build with thick black outlines, red gloves at sides, flat cel-shaded skin in warm tan, expressionless professional face with minimal features, confident squared posture
+- He shifts weight subtly forward, gloves rising slightly in ready position
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- glove leather creaking, canvas footstep
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 125: Trust — Deep [16:32–16:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+YouTube animation style, kinetic panel energy, clean vector punches
+
+ACTIONS:
+- Modern 2D cartoon illustration: thick bold black outlines, cel-shaded flat colors
+- Dynamic split-panel composition: two cartoon fighters exchanging jabs at center ring — protagonist left, champion right
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- boxing glove impact thud, canvas footwork squeaking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 126: Trust — Deep [16:40–16:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Body shot impact lines radiate from torso in sharp graphic bursts — teal and grey, muted palette shift away from saturated primaries
+
+ACTIONS:
+- Modern 2D cartoon illustration: thick bold black outlines, cel-shaded flat colors
+- Protagonist's cartoon face fills frame — grimacing expression, brow furrowed, eyes squeezed, mouth tight
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- body punch impact thud, sharp exhale breath
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 127: Trust — Deep [16:48–16:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+YouTube animation style, colorful boxing gym environment
+
+ACTIONS:
+- Modern 2D cartoon illustration: thick bold black outlines, cel-shaded flat colors
+- Protagonist seated on corner stool — slumped shoulders, gloves resting on knees, head slightly bowed
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- corner stool scraping canvas, compress cloth pressing skin, water bottle squirting
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 128: Trust — Deep [16:56–17:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Modern 2D cartoon illustration, YouTube animation style, clean cel-shaded rendering, flat vibrant colors
+
+ACTIONS:
+- Cartoon coach — thick black outline, flat cel-shaded face — leans forward with jaw set, eyes locked, brow furrowed in controlled urgency
+- Mouth opens and closes in rhythmic repetition, bold outlined lips forming the same shape three times
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- corner rope creaking, knuckles tapping canvas
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 129: Trust — Deep [17:04–17:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Corner of a boxing ring, muted cool blues and amber TV-glow, flat cel-shaded tones deliberately desaturated
+
+ACTIONS:
+- Modern 2D cartoon illustration, thick bold black outlines, cel-shaded rendering
+- Cartoon protagonist seated on corner stool, shoulders slightly hunched, eyes wide and softly unfocused — pupils drawn large, irises flat teal, gaze drifting inward
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- leather glove tapping on knee, stool creak
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 130: Anticipation — Deep [17:12–17:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Flat vibrant amber gym light pools on the canvas; the background crowd is frozen mid-motion
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- eight years
+
+ACTIONS:
+- Modern 2D cartoon illustration — thick bold black outlines, cel-shaded rendering
+- A rounded cartoon boxer sits on a corner stool, head tilted back, eyes unfocused and distant
+- A cartoon coach's broad flat hands cup his face, a cutman's tool pressed to a swollen eyebrow
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- corner stool creaking, cutman's swab dabbing skin, shallow breath through nose
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 131: Trust — Deep [17:20–17:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Colorful boxing gym environment recedes to background
+
+ACTIONS:
+- Modern 2D cartoon illustration, thick bold black outlines, cel-shaded rendering
+- Fragmented panel layout: left panel shows Devin's cartoon eyes wide, irises flat and blank, desaturated blue-gray flashback palette
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- paper chart rustling, fluorescent light flicker buzz
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 132: Trust — Deep [17:28–17:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Diagram sits on a neutral canvas-white background with thin grid lines
+
+ACTIONS:
+- Modern 2D cartoon illustration, thick bold black outlines, cel-shaded rendering
+- Analytical diagram panel: champion's cartoon silhouette mid-jab, right hand visibly dropped low, a bold red circle drawn around the lowered glove
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- marker squeaking on whiteboard, paper page turning
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 133: Trust — Deep [17:36–17:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Teal accent grid background, clean lines, simplified anatomy
+
+ACTIONS:
+- Modern 2D cartoon illustration, thick bold black outlines, cel-shaded rendering
+- Same analytical diagram as previous: champion's cartoon silhouette mid-jab, dropped right hand circled in red
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- marker cap clicking, paper slap on desk
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 134: Trust — Deep [17:44–17:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clean vector art, dynamic composition, colorful boxing gym environment
+
+ACTIONS:
+- Modern 2D cartoon illustration, thick bold black outlines, cel-shaded rendering
+- Wide ring view: both cartoon fighters rising from corners, saturated primary colors returning — red gloves, yellow ropes, bright white canvas
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- boxing bell clang, gloves tapping together, canvas footstep
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 135: Trust — Deep [17:52–18:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Vibrant saturated primaries — red, white, yellow ropes in background
+
+ACTIONS:
+- Modern 2D cartoon illustration, thick bold black outlines, cel-shaded rendering
+- Dynamic impact freeze-frame: protagonist's red cartoon glove connecting flush with champion's chin, white starburst impact burst radiating outward, bold motion lines trailing the punch arc
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- glove impact thud, canvas vibration thump
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 136: Trust — Deep [18:00–18:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clean vector art, dynamic composition, colorful arena environment
+
+ACTIONS:
+- Modern 2D cartoon illustration, thick bold black outlines, cel-shaded rendering
+- Extreme wide arena view: flat illustrated stadium backdrop, tiered crowd rendered as dense blocks of vibrant flat color — reds, blues, yellows
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- crowd roar wave building, stadium floor vibration rumble
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 137: Trust — Deep [18:08–18:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Dynamic composition, clean lighting, YouTube animation style
+
+ACTIONS:
+- 2D cartoon illustration, thick bold black outlines, cel-shaded flat colors
+- Champion cartoon figure rising at eight count — knees bent, shaky wobble lines radiating from legs, gloves raised unsteadily
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- referee's whistle blast, crowd roar sound effect, corner stool scraping floor
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 138: Trust — Deep [18:16–18:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Both fighters moving smartly, balanced composition, primary color palette — red gloves, blue trunks, yellow ropes
+
+ACTIONS:
+- Modern 2D cartoon illustration: tactical boxing montage, thick black outlines, protagonist slipping punches with motion arc lines, footwork diagram trails on canvas, clean vector movement
+- Champion missing wide, frustrated expression, rounded character design
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- footsteps pivoting on canvas, air whooshing past gloves, rope springs creaking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 139: Trust — Deep [18:24–18:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm golden-hour palette, flat cel-shaded lighting, simplified anatomy, colorful boxing ring fading to soft amber glow
+
+ACTIONS:
+- Modern 2D cartoon illustration: two exhausted fighters embracing center ring, thick black outlines, rounded character designs, heads resting on shoulders, eyes closed, sweat droplets as simple shapes
+- Respectful expressions, soft smiles, gloves touching backs
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- gloves patting backs, breathing exhales, canvas creaking under weight
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 140: Trust — Deep [18:32–18:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cel-shaded rendering, minimalist rounded design, colorful boxing gym environment, crowd silhouettes cheering
+
+ACTIONS:
+- Modern 2D cartoon illustration: protagonist cartoon figure center ring, arm raised high by referee character, championship belt held overhead, thick black outlines, triumphant expression, eyes wide
+- Flat vibrant confetti shapes falling — geometric triangles and circles in primary colors
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- belt metal clinking, confetti paper fluttering, crowd feet stomping
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 141: Anticipation — Deep [18:40–18:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Yellow ropes soft in background, crowd blurred flat shapes
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- one second
+
+ACTIONS:
+- 2D cartoon illustration, thick bold black outlines, cel-shaded flat colors
+- Cartoon fighter frozen mid-ring — eyes wide and glistening, gloves raised but motionless, motion lines completely stopped around body
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- boxing glove leather squeaking, canvas footstep tap
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 142: Trust — Payoff [18:48–18:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Rounded character design, simplified anatomy, cel-shaded rendering, warm 4000K lighting, flat vibrant colors transitioning to softer golden tones
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- one second
+
+ACTIONS:
+- Modern 2D cartoon illustration: protagonist's face filling frame, thick black outlines, expression shifting from wide-eyed awe to quieter contemplation, eyebrows lowering, mouth closing
+- Rounded character design, simplified anatomy, cel-shaded rendering, warm 4000K lighting, flat vibrant colors transitioning to softer golden tones
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- breath releasing slowly, eyelid blinking softly
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 143: Trust — Payoff [18:56–19:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm golden-hour palette, clean vector art, colorful boxing gym environment expanding upward
+
+ACTIONS:
+- Modern 2D cartoon illustration: camera tilting up from ring to reveal cartoon crowd, thick black outlines, dozens of small rounded character faces in stadium seats, flat vibrant colors — red shirts, blue hats, yellow signs
+- Cel-shaded rendering, minimalist design, expressive faces showing joy, some crying, some cheering
+
+CAMERA:
+Medium | Pan
+
+AUDIO:
+- crowd feet shuffling, seats creaking, paper programs rustling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 144: Anticipation — Payoff [19:04–19:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cut inset panel: flat cartoon living room, elderly man alone on couch, TV blue-glow, speaking to empty room
+
+ACTIONS:
+- Modern 2D cartoon illustration, thick bold black outlines, cel-shaded rendering
+- Cartoon fighter seated on locker room bench — championship belt glowing gold across lap, phone pressed to ear, rounded face shifting from exhausted to stunned
+
+CAMERA:
+Medium | Zoom out
+
+AUDIO:
+- phone buzzing vibration on metal bench, television static crackle
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 145: Anticipation — Payoff [19:12–19:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Colorful locker room environment with red lockers and yellow accents softly out of focus behind him
+
+ACTIONS:
+- Cartoon boxer in thick black outlines sits on locker room bench, shoulders slightly hunched, eyes downcast, one hand resting flat on golden championship belt across his knees
+- Cel-shaded flat colors, warm amber light washing over simplified anatomy
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- locker door creaking shut, distant footsteps on concrete floor
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 146: Trust — Payoff [19:20–19:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Background locker room softly desaturates
+
+ACTIONS:
+- Cartoon boxer's face in thick black outlines, eyes lowered, jaw set, subtle color shift from warm gold to cooler amber washing across cel-shaded features
+- Simplified anatomy shows no tears, expression flat and accepting
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- phone receiver settling into cradle, fabric rustling against bench
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 147: Trust — Payoff [19:28–19:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cartoon locker room in flat vibrant colors, thick black outlines defining every surface
+
+ACTIONS:
+- Cartoon locker room in flat vibrant colors, thick black outlines defining every surface
+- Boxer sits centered on bench, world title belt glowing golden across his knees, hands resting motionless on leather
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- belt buckle clinking softly, bench wood settling under weight
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 148: Trust — Payoff [19:36–19:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Background blurs to soft amber wash
+
+ACTIONS:
+- Cartoon hands in thick black outlines rest on golden championship belt, fingers slightly curled, knuckles showing simplified cel-shaded bruising in muted purples
+- Flat vibrant gold of belt contrasts with desaturated skin tones
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- leather creaking under palms, fingernails tapping belt surface once
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 149: Trust — Payoff [19:44–19:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Background locker room softly out of focus, muted reds and yellows
+
+ACTIONS:
+- Cartoon boxer's face in thick black outlines, eyes downcast, expression unreadable, same flat affect as opening
+- Cel-shaded rendering, simplified anatomy, warm amber light washing over features
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- air vent humming low, distant muffled voices through door
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 150: Trust — Payoff [19:52–20:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cartoon scoreboard in flat vibrant colors, thick black outlines, bold numerals glowing white on red background, then cross-dissolve to cartoon hands resting motionless on belt
+
+ACTIONS:
+- Cartoon scoreboard in flat vibrant colors, thick black outlines, bold numerals glowing white on red background
+- Cross-dissolve to cartoon hands resting motionless on belt
+- Cel-shaded rendering, clean vector art, numbers fade to soft amber wash
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- scoreboard buzzer fading out, paper rustling softly
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 151: Trust — Payoff [20:00–20:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Bold cartoon numeral '40' in thick black outlines, centered on warm golden background, flat cel-shaded rendering, clean vector art
+
+ACTIONS:
+- Bold cartoon numeral '40' in thick black outlines, centered on warm golden background, flat cel-shaded rendering, clean vector art
+- Minimalist composition, no motion, no texture, pure graphic design
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- single clock tick echoing in empty space
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 152: Trust — Payoff [20:08–20:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm golden-hour light mixing with cool industrial tones
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- twenty years
+
+ACTIONS:
+- Cartoon converted warehouse gym in flat vibrant colors, thick black outlines defining every surface
+- Red heavy bags hang from ceiling, yellow ring ropes glow under fluorescent strips, blue water stains pattern concrete walls in cel-shaded rendering
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- fluorescent light buzzing intermittently, water dripping onto concrete floor
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 153: Trust — Payoff [20:16–20:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The gym mirrors the layout of his childhood gym — same angle, same proportions, ghost overlay of his father's old gym dissolves into the present space
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- four years
+
+ACTIONS:
+- Modern 2D cartoon illustration: adult protagonist stands in center of vibrant boxing gym, thick black outlines, cel-shaded rendering
+- His posture is upright, shoulders relaxed, hands resting on hips — expression calm, eyes soft with realization
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- heavy bag creaking on chain, footsteps on canvas mat
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 154: Trust — Payoff [20:24–20:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Soft afternoon light, desaturated blues and warm beige tones, clean vector art, polished digital illustration
+
+ACTIONS:
+- Modern 2D cartoon illustration: memory care facility exterior, thick black outlines, flat muted pastel colors, cel-shaded rendering
+- Small cartoon figure of adult protagonist stands at entrance door, minimalist rounded character design, posture slightly hunched, hands in pockets — expression tender, eyes downcast
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- car door closing, gravel crunching underfoot
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 155: Trust — Payoff [20:32–20:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm muted palette, soft shading, clean lighting, polished digital illustration, western cartoon aesthetic
+
+ACTIONS:
+- Modern 2D cartoon illustration: elderly father sits in armchair inside memory care room, thick black outlines, cel-shaded rendering, flat soft colors
+- His posture is gentle, hands folded in lap, rounded character design with kind confused expression — eyebrows slightly raised, mouth forming a question
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- chair creaking, fabric rustling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 156: Trust — Payoff [20:40–20:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Soft shading on face, warm golden-hour palette, clean vector art, polished digital illustration, western cartoon aesthetic
+
+ACTIONS:
+- Modern 2D cartoon illustration: elderly father's face fills frame, thick black outlines, cel-shaded rendering, flat warm colors
+- His expression is kind and confused, eyebrows furrowed gently, eyes searching, mouth speaking — simplified anatomy, rounded character design
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- soft breathing, hand tapping armrest
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 157: Trust — Payoff [20:48–20:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Desaturated blues and warm beige tones, soft shading, clean vector art, polished digital illustration, western cartoon aesthetic
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- one day
+
+ACTIONS:
+- Modern 2D cartoon illustration: adult protagonist walks away down long corridor of memory care facility, thick black outlines, cel-shaded rendering, flat muted colors
+- Small figure in center, vast hallway stretches behind him, minimalist rounded character design, posture slightly slumped, hands in pockets — expression unseen but body language conveys quiet acceptance
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- footsteps echoing on linoleum, distant door closing
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 158: Trust — Payoff [20:56–21:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Quiet domestic detail, minimalist composition
+
+ACTIONS:
+- Modern 2D cartoon illustration: small cartoon dog sleeps curled under front desk of boxing gym, thick black outlines, cel-shaded rendering, flat vibrant colors
+- Dog's posture is relaxed, paws tucked, eyes closed, rounded character design with soft shading
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- dog breathing softly, paper rustling on desk
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 159: Trust — Payoff [21:04–21:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Colorful boxing gym environment in background
+
+ACTIONS:
+- Modern 2D cartoon illustration: adult protagonist sits behind gym front desk, thick black outlines, cel-shaded rendering, flat warm colors
+- His posture is upright, hands resting on desk, rounded character design with calm expression — mouth slightly open mid-sentence, eyes steady
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- pen tapping on desk, paper sliding
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 160: Trust — Payoff [21:12–21:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm golden-hour palette, soft shading, clean lighting, polished digital illustration, western cartoon aesthetic
+
+ACTIONS:
+- Modern 2D cartoon illustration: adult protagonist's face fills frame, thick black outlines, cel-shaded rendering, flat warm colors
+- His expression is calm and accepting, eyes soft, mouth relaxed, no tension in jaw — rounded character design, simplified anatomy
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- slow exhale, distant gym bell ringing
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 161: Trust — Payoff [21:20–21:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Small inset panel composition, flat background, no motion
+
+ACTIONS:
+- Modern 2D cartoon illustration: cartoon doctor drawn with thick bold black outlines, cel-shaded flat colors, neutral expression, slight upward mouth curve — a practiced smile
+- Doctor stands in a muted hospital-blue inset panel, desaturated palette, rounded simplified anatomy
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- pen tapping clipboard once, paper rustling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 162: Trust — Payoff [21:28–21:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Modern 2D cartoon illustration: same cartoon doctor panel held longer, thick bold black outlines, desaturated flat hospital-blue palette, zero motion
+
+ACTIONS:
+- Modern 2D cartoon illustration: same cartoon doctor panel held longer, thick bold black outlines, desaturated flat hospital-blue palette, zero motion
+- Doctor's face is still, mouth in that same neutral curve, eyes calm and unreadable
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- clock hand ticking once, paper sliding on desk
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 163: Trust — Payoff [21:36–21:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm golden-hour palette, colorful boxing gym background softly out of focus behind him
+
+ACTIONS:
+- Modern 2D cartoon illustration: cartoon boy in school uniform, thick bold black outlines, cel-shaded flat colors, rounded simplified proportions
+- Boy stands still in gym doorway, neutral expression, eyes slightly wide, hands at sides
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- shoe sole squeaking on gym floor once, fabric shifting
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 164: Trust — Payoff [21:44–21:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Flat vibrant gym colors fill background — red gloves on wall hook, yellow rope coiled on shelf
+
+ACTIONS:
+- Modern 2D cartoon illustration: boy's POV looking across desk at cartoon man seated behind it
+- Man drawn with thick bold black outlines, cel-shaded warm golden tones, calm watchful expression, hands folded on desk surface
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- knuckles resting on wooden desk, chair legs settling on floor
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 165: Trust — Payoff [21:52–22:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Flat color background, minimal shading, no motion lines
+
+ACTIONS:
+- Modern 2D cartoon illustration: man's face, thick bold black outlines, cel-shaded flat warm amber tones, eyes slightly unfocused — gaze drifting inward past the frame
+- Rounded simplified facial features, mouth closed, brow softly neutral
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- slow breath exhaled through nose, fingertip pressing desk surface
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 166: Trust — Payoff [22:00–22:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Modern 2D cartoon illustration: quick inset panel — young cartoon figure curled small on a couch, cool desaturated blue TV-glow washing the room, father silhouette standing upright mid-frame arms raised toward television
+
+ACTIONS:
+- Modern 2D cartoon illustration: quick inset panel — young cartoon figure curled small on a couch, cool desaturated blue TV-glow washing the room, father silhouette standing upright mid-frame arms raised toward television
+- Thick bold black outlines, flat muted cel-shaded blues and greys, minimal warm accent
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- television crowd roaring from speaker, fist striking couch cushion
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 167: Trust — Payoff [22:08–22:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Modern 2D cartoon illustration: man's face in profile, thick bold black outlines, cel-shaded flat warm tones, mouth closed, jaw carrying subtle tension — a slight set to the muscle
+
+ACTIONS:
+- Modern 2D cartoon illustration: man's face in profile, thick bold black outlines, cel-shaded flat warm tones, mouth closed, jaw carrying subtle tension — a slight set to the muscle
+- Eyes forward, gaze level, expression unreadable
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- jaw muscle tightening, single slow breath drawn in through nose
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 168: Trust — Payoff [22:16–22:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+colorful gym softly present
+
+ACTIONS:
+- Modern 2D cartoon illustration: man's eyes downcast, hand resting flat on desk surface, thick bold black outlines, cel-shaded warm golden palette
+- Rounded simplified anatomy, clean vector art, soft shading on hand and desk edge
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- hand pressing flat on wooden desk, pen rolling and stopping
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 169: Trust — Payoff [22:24–22:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm golden-hour palette, 4000K lighting, colorful boxing gym environment visible softly behind
+
+ACTIONS:
+- Modern 2D cartoon illustration: young man's face, thick black outlines, cel-shaded rendering, flat vibrant colors
+- Rounded minimalist character design, mouth opening slightly in gentle expression, soft eyes, relaxed posture
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- breath exhaling softly
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 170: Trust — Payoff [22:32–22:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Two sparring figures in background, motion lines on their gloves, vibrant red and yellow gear
+
+ACTIONS:
+- Modern 2D cartoon illustration: young boy seated on wooden bench against gym wall, thick bold black outlines, cel-shaded flat colors, minimalist rounded character design
+- Boy's posture relaxed, hands on knees, eyes watching forward with quiet trust
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- gloves hitting pads rhythmically
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 171: Trust — Payoff [22:40–22:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+motion lines on sparring figures, colorful gym environment
+
+ACTIONS:
+- Modern 2D cartoon illustration: young boy's face in profile, thick black outlines, cel-shaded rendering, flat vibrant colors, minimalist rounded character design
+- Head tilting slightly, eyes tracking movement off-screen, soft expression of quiet observation
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- footsteps shuffling on canvas
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 172: Trust — Payoff [22:48–22:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Water-stained walls rendered in flat vector art, flickering overhead lights (no motion), warm golden-hour palette, 4000K lighting
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Twenty-six years
+- forty years
+
+ACTIONS:
+- Modern 2D cartoon illustration: same gym interior, now aged, thick bold black outlines, cel-shaded flat colors
+- Older cartoon man behind desk, minimalist rounded character design, simplified anatomy, relaxed posture, hands folded
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- fluorescent light buzzing faintly
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 173: Trust — Payoff [22:56–23:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Boy dwarfed by gym space, colorful boxing environment, warm golden palette, 4000K lighting
+
+ACTIONS:
+- Modern 2D cartoon illustration: glass door opening, thick bold black outlines, cel-shaded rendering, flat vibrant colors
+- Small cartoon boy entering, minimalist rounded character design, simplified anatomy, tentative posture, hands at sides
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- glass door sliding open
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 174: Trust — Payoff [23:04–23:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Older man's mouth slightly open, boy's expression attentive, warm golden palette, 4000K lighting
+
+ACTIONS:
+- Modern 2D cartoon illustration: left panel shows older man behind desk, right panel shows younger boy listening, thick bold black outlines, cel-shaded flat colors
+- Minimalist rounded character designs, simplified anatomy, matching postures across panels
+
+CAMERA:
+Medium | Pan
+
+AUDIO:
+- pen tapping on desk
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 175: Trust — Payoff [23:12–23:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Young boy's face in soft focus background, unchanged expression
+
+ACTIONS:
+- Modern 2D cartoon illustration: older man's face, thick black outlines, cel-shaded rendering, flat vibrant colors, minimalist rounded character design
+- Mouth moving in speech, simplified anatomy, expressive facial features showing gentle trust
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- chair creaking softly
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 176: Trust — Payoff [23:20–23:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm golden palette, 4000K lighting, colorful boxing gym environment, smooth clean vector art, polished digital illustration
+
+ACTIONS:
+- Modern 2D cartoon illustration: boy small in background near bench, older man at desk in foreground, thick bold black outlines, cel-shaded flat colors
+- Minimalist rounded character designs, simplified anatomy, both figures still, no motion lines
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- distant bell ringing once
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+════════════════════════════════════════════════════════════════
+[END SCENE PROMPTS]
+════════════════════════════════════════════════════════════════
