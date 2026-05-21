@@ -1,0 +1,1273 @@
+════════════════════════════════════════════════════════════════
+[CHARACTERS Description]
+════════════════════════════════════════════════════════════════
+
+PROJECT: They_thought_they_were_seeing_the_universe_s_boundary__They_were_wrong
+
+RATIO: 16:9
+
+--------------------------------------------------
+STYLE (DETAILED - MANDATORY):
+
+- Style Directive: Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1
+
+- Medium: Live-action / Cinematic
+
+- Visual Style:
+  - Photorealistic textures with accurate material response
+  - Observational documentary framing — restrained and credible
+  - Cinematic composition with depth and motivated framing
+  - Anamorphic 2.39:1 framing language adapted to delivery ratio
+  - 8K capture-grade detail with deep blacks and clean highlights
+  - HDR contrast — preserved highlights, nuanced shadows
+
+- Character Design:
+  Semi-realistic figures
+
+- Materials & Textures:
+  [e.g. Flat colors only / Cel-shaded with soft shadow / Painterly with visible brushwork]
+
+- Lighting:
+  Volumetric lighting with visible light shafts
+
+- Color Palette:
+  [Define color roles — e.g. Red = danger, Yellow = energy, Blue = calm, Black outline for clarity]
+
+- Rendering Quality:
+  [e.g. Crisp, clean, high-definition / Slightly grainy retro / Hyper-smooth anime-style]
+
+- Motion Feel:
+  [e.g. Smooth action-driven / Bouncy exaggerated / Slow cinematic / Snappy cut-driven]
+
+- Overall Impression:
+  [One paragraph — what should viewers FEEL when watching? What is the visual "brand" of this project?]
+
+--------------------------------------------------
+TONE:
+[Overall emotional register — e.g. High tension, urgent, dramatic / Dark comedic, absurdist / Warm and nostalgic / Energetic and hype]
+[Detected dominant emotion (auto, for reference): Trust]
+
+--------------------------------------------------
+RENDERING RULES:
+
+- [Rule 1 — e.g. NO TEXT, NO LETTERS, NO SYMBOLIC WORDS in any scene]
+- [Rule 2 — e.g. Story must be conveyed entirely through visuals and expressions]
+- [Rule 3 — e.g. Each scene must have a clear visual conflict or action beat]
+- [Rule 4 — e.g. Only include characters explicitly required in each scene]
+- [Rule 5 — e.g. No background crowd, no unnecessary props]
+- [Add more rules as needed]
+
+--------------------------------------------------
+CHARACTERS (LOCKED):
+
+- Character 1: [Name]
+  [Physical description — face shape, skin tone, eye style]
+  [Hair — color #HEX, length, style]
+  [Default outfit — top, bottom, shoes, accessories]
+  [Signature trait]
+  [Expression range]
+
+- Character 2: [Name]
+  [Physical description]
+  [Hair — color #HEX, length, style]
+  [Default outfit]
+  [Signature trait]
+  [Expression range]
+
+--------------------------------------------------
+ENVIRONMENT (GLOBAL):
+
+[Default background / world setting for the entire project]
+[e.g. Minimal clean background, soft gradient sky / Neon-lit urban rooftop / Pastel fantasy kingdom]
+[Note: individual scenes can override this with their own ENVIRONMENT field]
+
+[Detected scene environments (auto, for reference):]
+  - Deep space backdrop with Earth's luminous blue limb glowing below, stars sharp against black void
+  - Hubble's aperture door mechanism cycling open, metal segments retracting in precise sequence, interior optics catching first light
+  - Deep space black backdrop, fragments catching distant sunlight, amber and gold tones warming the ice surfaces
+  - Volumetric backlight catches escaping gas, HDR reveals surface topology and thermal gradients
+  - Surface texture shows 4.5-billion-year-old regolith, micro-craters and thermal stress patterns
+  - Camera reveals cosmic scale, fragments becoming ephemeral against infinite void
+  - Comet fragmentation sequence resolves pixel by pixel across the sensor grid, each fragment tracked with precision crosshairs
+  - Mirror holds perfectly still, surface pristine, volumetric light grazing edges
+  - Dramatic amber side light rakes across the frame from left, 3500K warmth cutting through cool space, creating high contrast between lit edge and shadow
+  - Cross-section of comet nucleus revealing layered structure: crystalline water ice in deep blues, carbon dioxide frost in whites, methane ice in pale yellows, all interwoven with dark silicate dust particles
+  - Extreme macro of ancient ice crystal lattice structure, 4.5 billion year old formation visible at molecular scale, blues and silvers refracting through frozen water ice matrix
+  - Extreme macro view of ancient comet ice cross-section, layered strata of water ice, carbon dioxide frost, methane crystals visible as distinct bands in warm amber and gold tones, 3800K even lighting
+
+--------------------------------------------------
+GOAL:
+[Optional — one sentence stating the visual storytelling goal of the entire video]
+[e.g. "Make the audience feel the tension of nuclear deterrence without using any text or narration"]
+
+════════════════════════════════════════════════════════════════
+[END CHARACTERS Description]
+════════════════════════════════════════════════════════════════
+
+
+════════════════════════════════════════════════════════════════
+SCENE PROMPTS
+════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────
+🎬 SCENE 01: Trust — Hook [00:00–00:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep space backdrop with Earth's luminous blue limb glowing below, stars sharp against black void
+
+ACTIONS:
+- Hubble Space Telescope suspended in low Earth orbit, solar panels extended in perfect symmetry, body angled slightly away from camera
+- Telescope rotates gently on its axis, reorienting toward deep space, aperture door catching edge light
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- mechanical servo whir, solar panel creak
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 02: Trust — Hook [00:08–00:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Hubble's aperture door mechanism cycling open, metal segments retracting in precise sequence, interior optics catching first light
+
+ACTIONS:
+- Hubble's aperture door mechanism cycling open, metal segments retracting in precise sequence, interior optics catching first light
+- Mechanism moves with deliberate precision, servos engaging, door panels folding back to reveal primary mirror edge
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- aperture door motors engaging, metal segments sliding, latch mechanisms clicking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 03: Trust — Hook [00:16–00:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep space black backdrop, fragments catching distant sunlight, amber and gold tones warming the ice surfaces
+
+ACTIONS:
+- Comet C/2025 K1 nucleus splitting in two, fragments separating in slow balletic motion, dust blooming outward in luminous plumes
+- Nucleus cracks along visible fault line, ice chunks tumbling free, each trailing faint coma of sublimating gas
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- ice cracking, fragments tumbling, gas jets hissing
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 04: Trust — Hook [00:24–00:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Volumetric backlight catches escaping gas, HDR reveals surface topology and thermal gradients
+
+ACTIONS:
+- Largest comet fragment drifting, surface texture resolving in 8K detail — porous ice, embedded dust grains, micro-fissures spreading
+- Fragment rotates slowly, sublimation jets venting from sunlit side, particles streaming away in delicate trails
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- ice sublimating, particles streaming, fragment rotating
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 05: Trust — Hook [00:32–00:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Surface texture shows 4.5-billion-year-old regolith, micro-craters and thermal stress patterns
+
+ACTIONS:
+- Comet nucleus surface in sharp detail, ancient ice matrix with embedded dust grains visible in 8K resolution
+- Hairline fracture propagates across frame left to right, material sublimating into vapor jets that catch backlight
+
+CAMERA:
+Extreme Close-up | Static
+
+AUDIO:
+- ice cracking, gas hissing
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 06: Trust — Hook [00:40–00:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Camera reveals cosmic scale, fragments becoming ephemeral against infinite void
+
+ACTIONS:
+- Comet fragment field spreading across frame, dozens of smaller pieces tumbling in chaotic orbits, dust clouds expanding into diffuse halos
+- Fragments catch distant sunlight, creating constellation of amber points against deep space black, each trailing faint tail
+
+CAMERA:
+Wide | Zoom out
+
+AUDIO:
+- fragments tumbling, dust clouds expanding, faint ice cracking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 07: Trust — Hook [00:48–00:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Comet fragmentation sequence resolves pixel by pixel across the sensor grid, each fragment tracked with precision crosshairs
+
+ACTIONS:
+- Hubble's Wide Field Camera 3 detector array filling frame, individual CCD sensors glowing faintly with active exposure
+- Time-lapse overlay shows three consecutive nights November 2025, frame counter advancing in corner
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- CCD shutter click, data buffer write
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 08: Trust — Hook [00:56–01:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Mirror holds perfectly still, surface pristine, volumetric light grazing edges
+
+ACTIONS:
+- Hubble's segmented primary mirror filling frame, 8K detail of gold-tinted reflective surface, hexagonal segments aligned with nanometer precision
+- Earth's blue-green surface reflected distorted across mirror face, clouds and continents warping in curved geometry
+
+CAMERA:
+Extreme Close-up | Slow push-in
+
+AUDIO:
+- mirror surface resonating, faint thermal expansion, optical coatings settling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 09: Anticipation — Hook [01:04–01:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Dramatic amber side light rakes across the frame from left, 3500K warmth cutting through cool space, creating high contrast between lit edge and shadow
+
+ACTIONS:
+- Distant point of light against deep space star field, isolated comet fragment glowing faintly in frame center, no human presence
+- Fragment drifts imperceptibly, camera advances with inexorable patience toward the unknown object
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- faint crackle of ice sublimation
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 10: Surprise — Build Up [01:12–01:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cross-section of comet nucleus revealing layered structure: crystalline water ice in deep blues, carbon dioxide frost in whites, methane ice in pale yellows, all interwoven with dark silicate dust particles
+
+ACTIONS:
+- Cross-section of comet nucleus revealing layered structure: crystalline water ice in deep blues, carbon dioxide frost in whites, methane ice in pale yellows, all interwoven with dark silicate dust particles
+- Camera pulls back rapidly to reveal the full internal architecture, volumetric light refracting through translucent frozen layers
+
+CAMERA:
+Medium | Crane
+
+AUDIO:
+- ice cracking and shifting under thermal stress
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 11: Trust — Build Up [01:20–01:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Extreme macro of ancient ice crystal lattice structure, 4.5 billion year old formation visible at molecular scale, blues and silvers refracting through frozen water ice matrix
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 4.5 billion years
+
+ACTIONS:
+- Extreme macro of ancient ice crystal lattice structure, 4.5 billion year old formation visible at molecular scale, blues and silvers refracting through frozen water ice matrix
+- Camera pushes deeper into crystalline structure, revealing layered composition of water, CO2, methane ices interlocked
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- subtle crystalline crackling as ice structure shifts microscopically
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 12: Trust — Build Up [01:28–01:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Extreme macro view of ancient comet ice cross-section, layered strata of water ice, carbon dioxide frost, methane crystals visible as distinct bands in warm amber and gold tones, 3800K even lighting
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 4.5 billion years
+
+ACTIONS:
+- Extreme macro view of ancient comet ice cross-section, layered strata of water ice, carbon dioxide frost, methane crystals visible as distinct bands in warm amber and gold tones, 3800K even lighting
+- Embedded dust grains and organic molecules suspended in frozen matrix, volumetric light refracting through crystalline structure
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- sharp crack of thermal stress in ice
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 13: Trust — Build Up [01:36–01:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Full comet nucleus floating in deep space, anamorphic framing emphasizes primordial isolation, surface craters and ridges resolving in 8K detail as camera retreats
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 4.5 billion years
+
+ACTIONS:
+- Full comet nucleus floating in deep space, anamorphic framing emphasizes primordial isolation, surface craters and ridges resolving in 8K detail as camera retreats
+- Irregular potato-shaped body rotating slowly, ancient surface unchanged for billions of years
+
+CAMERA:
+Medium | Zoom out
+
+AUDIO:
+- distant solar wind particles impacting surface creating faint static pops
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 14: Trust — Build Up [01:44–01:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Volumetric starlight bathes the scene in contemplative stillness, no motion except imperceptible orbital drift
+
+ACTIONS:
+- Wide view of Kuiper Belt region, scattered comet nuclei as bright points against star field, warm amber and soft gold tones illuminating frozen bodies in consistent 3800K even light
+- Comets drift in slow, unchanging orbits, each nucleus pristine and undisturbed, carrying original solar system chemistry
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- soft hiss of solar wind particles deflecting off ice surface
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 15: Trust — Build Up [01:52–02:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Surface texture reveals billions of years of micrometeorite bombardment
+
+ACTIONS:
+- Comet nucleus surface in 8K macro detail, craters and ridges resolving as camera advances, HDR captures subtle albedo variations across ancient regolith, frost deposits in shadowed craters glinting faintly
+- Surface texture reveals billions of years of micrometeorite bombardment
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- faint granular shifting as surface material settles under micro-gravity
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 16: Trust — Build Up [02:00–02:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Close view of single comet nucleus surface, ancient ice textured with 4.5 billion years of micrometeorite impacts, warm twilight tones and soft amber highlights from distant starlight, 3800K even illumination
+
+ACTIONS:
+- Close view of single comet nucleus surface, ancient ice textured with 4.5 billion years of micrometeorite impacts, warm twilight tones and soft amber highlights from distant starlight, 3800K even illumination
+- Frozen surface remains perfectly still, chemical fingerprint preserved in crystalline structure, volumetric light barely touching the ancient material
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- single sharp ping of micrometeorite striking ice
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 17: Trust — Build Up [02:08–02:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep space environment, cool blue starfield with volumetric dust motes drifting past, atmosphere of quiet anticipation
+
+ACTIONS:
+- Comet nucleus tumbling through deep space, irregular surface pocked with ancient craters, posture tense as distant planetary gravity begins to tug at its trajectory
+- The nucleus rotates slowly, revealing shadowed crevasses and frost-covered ridges as it accelerates inward toward the distant Sun glowing faintly at frame edge
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- faint ice cracking, distant rumble of gravitational pull
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 18: Trust — Build Up [02:16–02:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warming environment, amber sunlight intensifying from frame left, atmosphere of transformation and energy release
+
+ACTIONS:
+- Comet surface in extreme 8K macro, crystalline ice structure sublimating directly to vapor, surface tension breaking as molecular bonds release
+- Gas jets erupt from fissures, carrying microscopic dust particles outward in volumetric plumes that catch increasing sunlight, creating HDR bloom halos
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- sharp hissing of sublimation, crackling ice crystals breaking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 19: Trust — Build Up [02:24–02:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep space backdrop with distant stars
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- solar wind
+
+ACTIONS:
+- Solar wind streams — luminous plasma ribbons flowing outward from off-frame Sun — strike comet nucleus, stripping gas and dust into glowing tail that extends diagonally across frame
+- Particles accelerate away in real-time, backlit by solar radiation creating volumetric HDR bloom
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- plasma hiss and particle stream whoosh
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 20: Trust — Build Up [02:32–02:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep space environment transitioning from cool blue to warm amber gradient, atmosphere of cosmic grandeur and delicate beauty
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- solar wind
+
+ACTIONS:
+- Fully formed comet tail stretching millions of miles across frame, dual tails visible (ion tail straight and blue, dust tail curved and golden), nucleus now tiny at the base
+- Gas and dust particles stream continuously away from nucleus, blown by solar radiation pressure and solar wind, creating volumetric light trails in HDR
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- continuous low rumble of solar wind, faint particle streaming
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 21: Trust — Build Up [02:40–02:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cool blue-silver lighting with faint amber edge glow, atmosphere of vulnerability and ancient fragility
+
+ACTIONS:
+- Comet nucleus surface in 8K detail, porous texture riddled with voids and cracks, ice crystals barely bonded together
+- Surface appears fragile, honeycomb structure visible with deep shadows in cavities, individual grains of rock and ice loosely touching
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- faint creaking of ice structure, subtle grinding of loose particles
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 22: Trust — Build Up [02:48–02:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cool blue-silver HDR lighting emphasizes fragility
+
+ACTIONS:
+- Cross-section cutaway of comet nucleus reveals loosely packed rubble pile — irregular ice chunks and rock fragments suspended in frame with visible gaps and voids between them
+- Volumetric lighting penetrates through structural gaps, highlighting weak gravitational cohesion
+
+CAMERA:
+Medium | Orbit
+
+AUDIO:
+- ice creak and subtle rock shift
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 23: Trust — Build Up [02:56–03:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Volumetric dust particles drift slowly through voids, backlit by distant sunlight creating lens flares
+
+ACTIONS:
+- Individual ice crystals barely touching — ancient primordial ice grains suspended in void with millimeter gaps between surfaces
+- HDR highlights reveal crystalline structure and empty space
+
+CAMERA:
+Macro | Static
+
+AUDIO:
+- faint ice fracture and dust particle drift
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 24: Trust — Build Up [03:04–03:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warming environment, cool blue transitioning to intense amber-gold, atmosphere of mounting stress and imminent failure
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Tidal force
+
+ACTIONS:
+- Left frame: comet nucleus approaching Sun, surface temperature rising, 8K detail shows micro-cracks forming and propagating through ice
+- Right frame: subsurface volatile ices explosively sublimating, generating high-pressure jets that erupt through surface, pushing material apart from within
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- sharp cracking of ice fractures, explosive gas venting, low gravitational strain rumble
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 25: Trust — Build Up [03:12–03:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep space backdrop with distant Sun creating rim lighting on the fragmenting surface
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Tidal force
+
+ACTIONS:
+- Comet nucleus surface in 8K HDR macro detail, crystalline ice structure under thermal stress showing hairline fractures spreading across the frame
+- Volatile ice pockets beneath translucent crust visibly sublimating, ejecting fine particle jets that catch volumetric sunlight
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- ice cracking, gas hissing from vents, particles striking surface
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 26: Trust — Deep [03:20–03:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The comet remains motionless, a tiny point of light lost in immensity, conveying the observational challenge
+
+ACTIONS:
+- Vast star field in 8K HDR with single faint comet dot positioned near frame edge, emphasizing cosmic scale and isolation
+- Deep space rendered in cool blues and silvers with volumetric nebula wisps in distant background
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- faint telescope motor whir, shutter click
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 27: Trust — Deep [03:28–03:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Authoritative teal accent in background star field
+
+ACTIONS:
+- Time-lapse simulation of comet nucleus splitting in 8K HDR, rendered as accelerated sequence showing hours compressed to seconds
+- Nucleus fractures along stress lines, fragments separate with visible velocity vectors, volumetric coma expanding asymmetrically around each new piece
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- rapid cracking sequence, debris tumbling, gas jets pulsing
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 28: Trust — Deep [03:36–03:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Authoritative Bloomberg-style lighting creates data-journalism tone
+
+ACTIONS:
+- Ground-based telescope POV showing comet near Sun in sky, 8K HDR rendering intense solar glare overwhelming the frame with volumetric lens flares and chromatic aberration
+- Atmospheric turbulence visualized as wavering heat distortion across the image plane, comet fragments blurred into indistinct smeared blobs
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- telescope tracking motor grinding, wind buffeting dome, shutter clicking repeatedly
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 29: Trust — Deep [03:44–03:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Anamorphic 2.39:1 framing emphasizes the barrier between ground and space
+
+ACTIONS:
+- 8K HDR close-up of Earth's atmospheric turbulence layers, volumetric light scattering through stratified air masses creating visible refractive distortion
+- Comet image wavering and fragmenting through atmospheric cells, rendered as indistinct light blob that shifts and blurs
+
+CAMERA:
+Macro | Static
+
+AUDIO:
+- wind rushing through telescope structure, atmospheric pressure changes, lens focusing mechanism clicking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 30: Trust — Deep [03:52–04:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Teal color accent in shadowed dome interiors
+
+ACTIONS:
+- Multiple ground observatory domes in 8K HDR, daylight washing out sky with volumetric atmospheric haze
+- Empty telescope frames showing blank daylit sky, missed observation windows rendered through absence of data
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- dome shutters closing, equipment powering down, footsteps on metal grating
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 31: Trust — Deep [04:00–04:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Authoritative Bloomberg-style lighting creates data-journalism tone
+
+ACTIONS:
+- Archival-style grainy comet fragment images in 8K HDR with deliberately muted color grading and lower apparent resolution to suggest historical documentary footage
+- Anamorphic 2.39:1 letterbox framing with subtle vignetting
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- film projector clicking, paper photographs shuffling, archival drawer sliding
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 32: Trust — Deep [04:08–04:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep space environment with teal-accented starfield, cool authoritative atmosphere, 8K HDR clarity on every surface texture
+
+ACTIONS:
+- Scattered comet debris field suspended in deep space, individual fragments caught in volumetric dust clouds backlit by distant starlight, each piece tumbling slowly in zero gravity with trailing ice crystals
+- Clinical observation framing, fragments arranged across frame in documentary precision
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- ice crystals crackling, debris tumbling through vacuum
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 33: Trust — Deep [04:16–04:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Comet nucleus intact in deep space, surface tension visible across icy crust, faint stress fractures beginning to web across the structure
+
+ACTIONS:
+- Comet nucleus intact in deep space, surface tension visible across icy crust, faint stress fractures beginning to web across the structure
+- Volumetric coma glows softly around the body, HDR captures subtle luminosity variations, anamorphic 2.39:1 framing isolates the nucleus against star field
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- ice cracking faintly, distant solar wind hiss
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 34: Trust — Deep [04:24–04:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep space backdrop with pinpoint stars
+
+ACTIONS:
+- Hubble Space Telescope in low Earth orbit, solar panels extended in perfect symmetry, Earth's blue limb glowing below
+- The telescope's aperture door slowly irises open, revealing the primary mirror catching volumetric sunlight through anamorphic lens flare
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- mechanical servo whir of aperture door opening, faint metallic click of mirror lock engaging
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 35: Trust — Deep [04:32–04:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Anamorphic 2.39:1 framing tracks the largest fragment as it cleaves
+
+ACTIONS:
+- Comet K1 nucleus splitting in two, chunks separating balletically along orbital path, each fragment trailing its own luminous coma
+- Volumetric dust halos expand asymmetrically, 8K HDR captures ice sublimation as amber and gold light blooms from fresh surfaces, particles drift in slow motion against deep blue star field
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- deep ice fracture rumble, gas venting hiss, particle spray whoosh
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 36: Trust — Deep [04:40–04:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+8K resolves individual particle streams, volumetric light shifts across panels show progressive fragmentation, HDR emphasizes luminosity changes
+
+ACTIONS:
+- Left panel: November 8 exposure showing four distinct fragments, each with glowing coma
+- Center panel: November 9, largest fragment splitting again, new debris cloud forming
+
+CAMERA:
+Medium | Pan
+
+AUDIO:
+- sequential camera shutter clicks, data transmission beeps, exposure timer ticks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 37: Trust — Deep [04:48–04:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Anamorphic 2.39:1 framing isolates the fragment against void, soft twilight tones begin to creep into color palette
+
+ACTIONS:
+- Comet fragments drifting apart frame by frame, largest piece rotating slowly to reveal fresh ice face glowing amber in sunlight
+- HDR captures luminosity gradient from bright sunlit side to shadowed trailing edge, volumetric coma evolves as gas sublimates, 8K resolves individual ice grains and dust particles separating
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- ice sublimation hiss, particle collision ticks, fragment rotation creak
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 38: Trust — Deep [04:56–05:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Final frame lingers as fragments drift into deeper separation, amber glow fading to twilight blue
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Three days
+
+ACTIONS:
+- Three Hubble exposures flash in sequence: November 8 (four fragments), November 9 (largest splits), November 10 (pieces separating)
+- Each frame holds 2 seconds, 8K detail shows progressive transformation, volumetric light shifts dramatically between frames, HDR emphasizes structural changes
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- rapid shutter clicks, frame advance motor whir, exposure timer beeps
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 39: Trust — Deep [05:04–05:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+8K resolves orbital mechanics with scientific precision, HDR captures solar radiation as expanding golden sphere, anamorphic 2.39:1 framing tracks comet's perihelion passage
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- eight days
+
+ACTIONS:
+- Orbital diagram showing comet K1's elliptical path approaching Sun, trajectory line glowing amber as it crosses Mercury's orbit at 0.33 AU
+- Sun rendered as volumetric sphere with corona, thermal gradient visualization shows heat intensity increasing along approach vector
+
+CAMERA:
+Wide | Slow push-in
+
+AUDIO:
+- orbital calculation tones, solar radiation crackle, proximity alarm beep
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 40: Trust — Deep [05:12–05:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm amber and gold light illuminates the sublimation process against soft twilight backdrop
+
+ACTIONS:
+- Comet nucleus fragment glowing faintly in deep space, surface texture crumbling and vaporizing in real-time under solar radiation
+- Fragment disintegrates completely, structural collapse captured in 8K detail, particles expanding outward in volumetric debris field, HDR rendering fades material into black void
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- ice crackling, debris scattering
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 41: Trust — Deep [05:20–05:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Volumetric twilight atmosphere with deep blue gradient fading to amber horizon, 8K HDR anamorphic lens capturing the patient vigil
+
+ACTIONS:
+- Ground-based observatory dome silhouetted against twilight sky, telescope aperture tracking faint comet trail, posture steady and observant
+- Dome remains motionless as stars begin to emerge, comet's faint glow persisting in frame
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- telescope motors whirring, dome shutter mechanism clicking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 42: Trust — Deep [05:28–05:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Amber and gold tones dominate as sublimation accelerates, 8K detail on ice texture and vapor dynamics
+
+ACTIONS:
+- Macro view of fresh comet ice surface fracturing, crystalline structure catching direct sunlight, ice grains sublimating into vapor jets
+- Newly exposed ice face releases gas plumes that expand spherically, volumetric particles scattering HDR light into prismatic rays
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- ice cracking, gas hissing outward
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 43: Trust — Deep [05:36–05:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm amber and gold palette intensifies as sublimation continues, 8K macro detail on particle dynamics
+
+ACTIONS:
+- Camera circles exposed ice surface as dust grains lift off in slow motion, vapor plumes expand radially, volumetric gas clouds catching anamorphic lens flare
+- Dust particles scatter sunlight, creating HDR bloom effects through translucent coma
+
+CAMERA:
+Medium | Orbit
+
+AUDIO:
+- dust particles rustling, vapor jets whooshing
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 44: Trust — Deep [05:44–05:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Soft volumetric lighting from distant sun, cool silver-blue tones with subtle teal accent, 8K HDR clarity, anamorphic 2.39:1 framing
+
+ACTIONS:
+- K1 comet fragment suspended in deep space, dim surface texture visible, no brightness spike or glow, stable posture against star field
+- Fragment remains inert, no sublimation plume, no activity
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- faint telescope servo motor adjusting
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 45: Trust — Deep [05:52–06:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Dust layer builds gradually over ice surface, amber and gold tones warming the frame
+
+ACTIONS:
+- Cross-section view of comet nucleus showing dust grain cloud surrounding ice core, camera pushes forward through volumetric particle field
+- Sunlight scatters through dust grains in HDR bloom, individual particles visible in 8K detail as camera penetrates the coma
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- dust grains colliding softly, particles settling on ice
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 46: Trust — Deep [06:00–06:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Volumetric starfield backdrop with soft twilight tones, 8K HDR rendering of fragment separation
+
+ACTIONS:
+- Multiple K1 fragments drifting in loose formation against deep space starfield, each fragment trailing faint coma
+- Tracking data overlays fade in and out over fragments, showing orbital trajectories
+
+CAMERA:
+Wide | Tracking
+
+AUDIO:
+- faint thruster pulses from tracking satellites, data transmission beeps
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 47: Trust — Deep [06:08–06:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Light rays from distant K1 converge into Hubble Space Telescope's primary mirror, volumetric light beams visible in 8K HDR
+
+ACTIONS:
+- Light rays from distant K1 converge into Hubble Space Telescope's primary mirror, volumetric light beams visible in 8K HDR
+- Data stream visualization overlays the incoming photons, clinical blue and silver tones dominating
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- telescope gyroscopes spinning, mirror actuators adjusting
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 48: Trust — Deep [06:16–06:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Volumetric lighting reveals internal structure as nucleus fractures
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- three days
+
+ACTIONS:
+- K1 comet nucleus splits into four distinct pieces over three-day sequence, volumetric coma expanding with each fragmentation event
+- Camera holds wide as fragments separate in choreographed motion, each trailing individual dust and gas plumes
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- ice fracturing in sequence, fragments separating with low rumble
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 49: Trust — Deep [06:24–06:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep space environment, cool blue-silver light from distant stars, volumetric ice vapor trails forming between fragments
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- three days
+
+ACTIONS:
+- Comet C/2025 K1 nucleus fragmenting in deep space, four distinct pieces separating slowly against star field, surfaces textured with ancient ice and rock, cracks glowing faintly with sublimation
+- Deep space environment, cool blue-silver light from distant stars, volumetric ice vapor trails forming between fragments
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- ice cracking, faint hissing vapor jets
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 50: Trust — Deep [06:32–06:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep space environment, cool teal-accented lighting, star field backdrop, fragments positioned at different depths creating layered composition
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- three days
+
+ACTIONS:
+- Four comet fragments now fully separated in balanced anamorphic composition, each piece distinct in size and texture, trailing faint vapor plumes, volumetric light streaming between them
+- Deep space environment, cool teal-accented lighting, star field backdrop, fragments positioned at different depths creating layered composition
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- distant ice settling, soft vapor release
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 51: Trust — Payoff [06:40–06:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+NASA mission control environment, warm 4000K overhead lighting casting soft shadows on the projection surface, deep space imagery glowing on distant monitors
+
+ACTIONS:
+- Cross-section hologram of comet K1's fragmented nucleus rotating in frame, four distinct pieces suspended in volumetric light, internal structure partially visible with dark voids and crystalline ice layers
+- Holographic data streams flicker across the fragments, highlighting unknown density variations and structural anomalies
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- holographic projector hum, faint mechanical rotation of display gimbal
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 52: Anticipation — Payoff [06:48–06:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep space environment, dramatic lighting building to warm gold release, vapor blooms intensifying
+
+ACTIONS:
+- Extreme close-up of comet surface, delayed sublimation beginning, first volumetric jets erupting slowly from ancient ice, HDR captures sunlight hitting pristine material for first time in 4.5 billion years
+- Camera pulls back to reveal full fragment
+- Deep space environment, dramatic lighting building to warm gold release, vapor blooms intensifying
+
+CAMERA:
+Macro | Zoom out
+
+AUDIO:
+- sharp ice fracturing, pressurized gas escaping, material ejection
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 53: Anticipation — Payoff [06:56–07:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep space environment, building warm amber light, dramatic shadows defining ephemeral structures
+
+ACTIONS:
+- Comet surface sublimating in 8K detail, crystalline ice structures vaporizing, volumetric vapor blooms intensifying, anamorphic depth of field isolates individual ice grains transforming to gas, ancient organic molecules briefly visible before dispersing
+- Deep space environment, building warm amber light, dramatic shadows defining ephemeral structures
+
+CAMERA:
+Macro | Static
+
+AUDIO:
+- accelerating sublimation hiss, crystalline structures collapsing, vapor rushing outward
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 54: Trust — Payoff [07:04–07:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Primordial solar system environment, cool authoritative lighting, vast cosmic scale, timeless stillness
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 4.5 billion years
+
+ACTIONS:
+- Protoplanetary disk 4.5 billion years ago, swirling dust and ice particles coalescing in volumetric clouds, 8K detail of primordial material, HDR nebula colors in deep blues and silvers, young Sun glowing in distance
+- Primordial solar system environment, cool authoritative lighting, vast cosmic scale, timeless stillness
+
+CAMERA:
+Wide | Zoom out
+
+AUDIO:
+- distant nebula rumble, particle collisions, slow accretion whisper
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 55: Trust — Payoff [07:12–07:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Primordial solar system environment, warm 4000K light, soft volumetric glow, timeless stillness, particles drifting into formation
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 4.5 billion years
+
+ACTIONS:
+- Comet nucleus coalescing from primordial ice and rock particles, volumetric accretion process in 8K detail, ancient organic molecules freezing into structure, pristine material untouched for billions of years
+- Primordial solar system environment, warm 4000K light, soft volumetric glow, timeless stillness, particles drifting into formation
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- soft particle impacts, ice crystallizing, slow gravitational assembly
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 56: Trust — Payoff [07:20–07:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Fragment edge glows soft amber from solar radiation, trailing coma fades to twilight blue against deep space backdrop
+
+ACTIONS:
+- Anamorphic 2.39:1 frame on comet fragment sublimating in real-time, ancient ice transforming directly to vapor without melting, wisps of gas streaming away from sunlit surface
+- 8K HDR captures ephemeral transition: solid crystalline structure dissolving into translucent plumes, particles catching volumetric light as they disperse into void
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- faint gas release hiss, ice crackling softly
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 57: Anticipation — Payoff [07:28–07:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep space backdrop transitions from clinical blue-silver to warm amber as sunlight catches telescope's reflective surfaces
+
+ACTIONS:
+- Hubble Space Telescope in sharp focus, solar arrays extended in precise geometry, instrument bay locked onto distant target
+- Telescope holds steady orbital position, tracking mechanism engaged, golden Earth limb glow illuminating lower frame edge
+
+CAMERA:
+Medium | Zoom out
+
+AUDIO:
+- solar array servo motors whirring, gyroscope stabilization clicks, thermal expansion ticks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 58: Anticipation — Payoff [07:36–07:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Ancient icy material glows amber-gold as 4.5-billion-year isolation ends
+
+ACTIONS:
+- Split-screen anamorphic composition: left frame shows Hubble's imaging sensor capturing real-time spectral data streams, right frame reveals comet K1 nucleus fragmenting with sublimation jets erupting
+- Volumetric light beams connect both frames, synchronizing the moment of observation with physical disintegration
+
+CAMERA:
+Medium | Zoom out
+
+AUDIO:
+- CCD sensor readout beeps, data transmission pulses, ice fracturing cracks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 59: Trust — Payoff [07:44–07:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Extreme 8K macro of comet K1's pristine interior material exposed for first time in 4.6 billion years
+
+ACTIONS:
+- Extreme 8K macro of comet K1's pristine interior material exposed for first time in 4.6 billion years
+- Crystalline ice structure catches first direct sunlight, surface texture reveals ancient molecular patterns
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- ice sublimation hiss, micro-fracture pops, vapor jet whoosh
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 60: Trust — Payoff [07:52–08:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+NASA laboratory environment with anamorphic bokeh, warm 4000K key light creating soft shadows across specimen surfaces, 8K HDR capturing microscopic detail and depth
+
+ACTIONS:
+- Ancient crystalline grains suspended in volumetric light beams, surfaces etched with primordial textures, floating in analytical chamber under soft golden illumination
+- Grains rotate gently in zero-gravity, revealing faceted structures and mineral striations that catch and refract light
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- faint mechanical whir of specimen rotation mount, soft click of analysis equipment calibrating
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 61: Trust — Payoff [08:00–08:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Volumetric vapor catches warm amber-gold light, creating luminous streams against deep space backdrop
+
+ACTIONS:
+- Anamorphic macro of ancient comet material actively sublimating: 4.6-billion-year-old ice crystals vaporizing in real-time, microscopic jets erupting from surface
+- Volumetric vapor catches warm amber-gold light, creating luminous streams against deep space backdrop
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- sublimation vapor hiss, ice crystal fracture snaps, outgassing jet whoosh
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 62: Trust — Payoff [08:08–08:10]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Comet fragment glowing softly in warm amber light, surface texture visible as ice sublimates into delicate vapor trails against deep space backdrop
+
+ACTIONS:
+- Comet fragment glowing softly in warm amber light, surface texture visible as ice sublimates into delicate vapor trails against deep space backdrop
+- Fragment gradually dims and fades, edges dissolving into fine particle streams that drift away into darkness
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- ice crackling and hissing as vapor escapes surface
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+════════════════════════════════════════════════════════════════
+[END SCENE PROMPTS]
+════════════════════════════════════════════════════════════════
