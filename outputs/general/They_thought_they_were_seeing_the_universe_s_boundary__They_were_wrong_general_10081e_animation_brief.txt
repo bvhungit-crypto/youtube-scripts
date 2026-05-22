@@ -1,0 +1,2395 @@
+════════════════════════════════════════════════════════════════
+[CHARACTERS Description]
+════════════════════════════════════════════════════════════════
+
+PROJECT: They_thought_they_were_seeing_the_universe_s_boundary__They_were_wrong
+
+RATIO: 16:9
+
+--------------------------------------------------
+STYLE (DETAILED - MANDATORY):
+
+- Style Directive: Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1
+
+- Medium: Live-action / Cinematic
+
+- Visual Style:
+  - Photorealistic textures with accurate material response
+  - Observational documentary framing — restrained and credible
+  - Cinematic composition with depth and motivated framing
+  - Anamorphic 2.39:1 framing language adapted to delivery ratio
+  - 8K capture-grade detail with deep blacks and clean highlights
+  - HDR contrast — preserved highlights, nuanced shadows
+
+- Character Design:
+  Semi-realistic figures
+
+- Materials & Textures:
+  [e.g. Flat colors only / Cel-shaded with soft shadow / Painterly with visible brushwork]
+
+- Lighting:
+  Volumetric lighting with visible light shafts
+
+- Color Palette:
+  [Define color roles — e.g. Red = danger, Yellow = energy, Blue = calm, Black outline for clarity]
+
+- Rendering Quality:
+  [e.g. Crisp, clean, high-definition / Slightly grainy retro / Hyper-smooth anime-style]
+
+- Motion Feel:
+  [e.g. Smooth action-driven / Bouncy exaggerated / Slow cinematic / Snappy cut-driven]
+
+- Overall Impression:
+  [One paragraph — what should viewers FEEL when watching? What is the visual "brand" of this project?]
+
+--------------------------------------------------
+TONE:
+[Overall emotional register — e.g. High tension, urgent, dramatic / Dark comedic, absurdist / Warm and nostalgic / Energetic and hype]
+[Detected dominant emotion (auto, for reference): Trust]
+
+--------------------------------------------------
+RENDERING RULES:
+
+- [Rule 1 — e.g. NO TEXT, NO LETTERS, NO SYMBOLIC WORDS in any scene]
+- [Rule 2 — e.g. Story must be conveyed entirely through visuals and expressions]
+- [Rule 3 — e.g. Each scene must have a clear visual conflict or action beat]
+- [Rule 4 — e.g. Only include characters explicitly required in each scene]
+- [Rule 5 — e.g. No background crowd, no unnecessary props]
+- [Add more rules as needed]
+
+--------------------------------------------------
+CHARACTERS (LOCKED):
+
+- Character 1: Titan
+  [Physical description — face shape, skin tone, eye style — fill in]
+  [Hair — color #HEX, length, style — fill in]
+  [Default outfit — top, bottom, shoes, accessories — fill in]
+  [Signature trait — what makes them instantly recognizable — fill in]
+  [Expression range — what emotions they show most — fill in]
+
+- [Add unnamed characters (narrator, crowd, etc.) here if needed]
+
+--------------------------------------------------
+ENVIRONMENT (GLOBAL):
+
+[Default background / world setting for the entire project]
+[e.g. Minimal clean background, soft gradient sky / Neon-lit urban rooftop / Pastel fantasy kingdom]
+[Note: individual scenes can override this with their own ENVIRONMENT field]
+
+[Detected scene environments (auto, for reference):]
+  - Deep-space black and steel-blue highlights, restrained awe in a Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1 aesthetic
+  - Cool starfield context with steel-blue telemetry glow, credible and composed, in a Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1 aesthetic
+  - Deep-space black and steel-blue environment feels rigorous and trustworthy
+  - Neutral-cool command-visual environment with steel-blue accents and disciplined calm, Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1 aesthetic
+  - Quiet cosmic backdrop with steel-blue rim light and scientific restraint, in a Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1 aesthetic
+  - Color shifts to magnesium-gold and iron-amber without losing documentary clarity, Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1 aesthetic
+  - Iron-amber, magnesium-gold, and sodium-white highlights shape a harsh but awe-filled atmosphere
+  - Balanced neutral-cool scene with restrained warm accents for clarity and closure, in a Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1 aesthetic
+  - Deep-space black lab void with steel-blue highlights and restrained amber mineral glows, measured evidence overlays only
+  - Clean telemetry bay in deep black and steel-blue, warm mineral accents only on phase peaks
+  - Neutral evidence-first observatory interior with cool blacks and soft white instrument reflections
+  - Starfield void with crisp diffraction spikes, cool neutral tones and restrained warm gold on mirror facets
+
+--------------------------------------------------
+GOAL:
+[Optional — one sentence stating the visual storytelling goal of the entire video]
+[e.g. "Make the audience feel the tension of nuclear deterrence without using any text or narration"]
+
+════════════════════════════════════════════════════════════════
+[END CHARACTERS Description]
+════════════════════════════════════════════════════════════════
+
+
+════════════════════════════════════════════════════════════════
+SCENE PROMPTS
+════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────
+🎬 SCENE 01: Trust — Hook [00:00–00:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep-space black and steel-blue highlights, restrained awe in a Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1 aesthetic
+
+ACTIONS:
+- WASP-94A b hangs centered with a calm, stable limb
+- Cloud belt appears soft and measured, conveying quiet reliability
+- A dawn terminator line advances and a timestamped overlay marks first cloud onset, stopping before full reveal to create curiosity
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- solar panel servo tick, telemetry keypad tap, data terminal beep
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 02: Trust — Hook [00:08–00:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cool starfield context with steel-blue telemetry glow, credible and composed, in a Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1 aesthetic
+
+ACTIONS:
+- A hemisphere-split exoplanet visualization sits steady and precise, with balanced posture-like symmetry and clean edges signaling confidence
+- Detection markers lock onto changing atmospheric bands while a “weather signal detected” tag appears
+- Pauses before distance annotation completes
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- relay switch click, console button press, spectrum printer feed
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 03: Trust — Hook [00:16–00:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep-space black and steel-blue environment feels rigorous and trustworthy
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- James Webb Space Telescope
+
+ACTIONS:
+- James Webb Space Telescope fills frame, gold mirror segment glinting
+- Attitude appears steady, posture-like precision conveys calm certainty
+- A distant star’s light beam threads past an exoplanet limb as a raw spectral plot overlays beside JWST, only observed datapoints pulsing while model curves remain faint and incomplete
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- reaction wheel whir, relay click, data-beep ticks, servo micro-adjust chirps
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 04: Trust — Hook [00:24–00:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Neutral-cool command-visual environment with steel-blue accents and disciplined calm, Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1 aesthetic
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- James Webb Space Telescope
+
+ACTIONS:
+- A raw transit dataset screen appears centered, confidence bands tightening like controlled breath, expressing measured certainty
+- Error bars contract across sequential observations and two-side atmospheric divergence becomes unmistakable, ending just before final certainty percentage appears
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- keyboard keypress, mouse click, plotter pen scratch
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 05: Trust — Hook [00:32–00:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Quiet cosmic backdrop with steel-blue rim light and scientific restraint, in a Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1 aesthetic
+
+ACTIONS:
+- A single exoplanet globe holds rigid center
+- One hemisphere looks dense and overcast while the other remains clear, a stark split like composed dual expression
+- The terminator rotates slightly, preserving the contrast instead of blending it, revealing stable asymmetry as the key visual payoff
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- interface toggle click, annotation stamp thud, focus ring turn
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 06: Trust — Hook [00:40–00:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Color shifts to magnesium-gold and iron-amber without losing documentary clarity, Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1 aesthetic
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 200 degrees
+
+ACTIONS:
+- Atmospheric cross-section stands upright and ordered, with mineral layers sharply defined like confident posture
+- Magnesium silicate, iron, and magnesium sulfide labels lock to altitude bands above a glowing 1200°C isotherm while fine particulate streams descend like sand-rain, unresolved at the lowest layer
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- particle impact tick, valve hiss burst, thermal sensor relay click
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 07: Trust — Hook [00:48–00:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Iron-amber, magnesium-gold, and sodium-white highlights shape a harsh but awe-filled atmosphere
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 200 degrees
+
+ACTIONS:
+- A temperature gauge reading 1200°C dominates foreground, its needle trembling
+- Behind it, mineral vapor clouds billow over an exoplanet terminator, their layered forms bent like heavy shoulders under extreme heat
+- Sand-like grains streak downward while metallic fog curls and thins before full reveal
+
+CAMERA:
+Close-up | Orbit
+
+AUDIO:
+- grit hiss, crystal crackle, pebble impacts, pressure-valve ticks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 08: Trust — Hook [00:56–01:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Balanced neutral-cool scene with restrained warm accents for clarity and closure, in a Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1 aesthetic
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 200 degrees
+
+ACTIONS:
+- A spectral panel array sits centered and composed
+- Each trace rises with crisp, disciplined geometry like a confident expression
+- Element callouts sequence in order—MgSiO3, Fe, MgS—each snapping to its peak and altitude band, culminating in a unified composition map that resolves the cloud makeup
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- marker tap, calibration dial click, data card insert
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 09: Trust — Hook [01:04–01:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep-space black lab void with steel-blue highlights and restrained amber mineral glows, measured evidence overlays only
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 200 degrees
+
+ACTIONS:
+- A suspended mineral-cloud simulation sphere fills frame, layers of magnesium silicate and iron condensate visible as calm, precise stratified bands
+- Postureless scientific subject reads as controlled and trustworthy through stable symmetry
+- Dawn-side bands ignite
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- fine sand trickling on glass, metal grains pinging ceramic, stylus tapping display
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 10: Trust — Hook [01:12–01:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clean telemetry bay in deep black and steel-blue, warm mineral accents only on phase peaks
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- four days
+
+ACTIONS:
+- A four-day orbital phase wheel is centered, with crisp numerals and a calm, balanced geometry conveying confidence
+- Indicator arm holds steady
+- Advances
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- mechanical click at each day marker, rotary dial ratchet, light pen tap on glass
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 11: Trust — Hook [01:20–01:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Neutral evidence-first observatory interior with cool blacks and soft white instrument reflections
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- twenty years
+
+ACTIONS:
+- A literal fogged observation window dominates frame, condensation beads trembling like uncertainty while a telescope silhouette behind it appears blocked
+- The scene carries patient frustration through obstructed visibility
+- A gloved hand wipes a narrow clear stripe, revealing a stamped timeline scale from year 1 to year 20 and a partial exoplanet transit trace
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- cloth dragging across wet glass, water droplets sliding, marker squeak writing "20y" on acrylic
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 12: Trust — Hook [01:28–01:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Starfield void with crisp diffraction spikes, cool neutral tones and restrained warm gold on mirror facets
+
+ACTIONS:
+- JWST primary mirror sits centered with poised, precise alignment, conveying quiet breakthrough through rigid, confident geometry
+- A shutter-like overlay opens from slit to wide aperture while a spectral bandpass sweep expands across the frame like a newly opened window
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- latch clack, servo whirring, panel hinge creak, calibration beep pulses
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 13: Surprise — Hook [01:36–01:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Vast starfield with cool steel-blue contrast and a brief warm flash burst in final 30%
+
+ACTIONS:
+- WASP-94A b rotates at center while two translucent question arcs curve around it, giving a physically inquisitive stance through expanding spatial separation and rising visual tension
+- As camera recedes, one arc points to cloud chemistry and the other to general atmospheric physics on unreachable worlds
+- Both stop before final answers
+
+CAMERA:
+Wide | Zoom out
+
+AUDIO:
+- gyroscope spin ticks, interface cursor clicks, short relay switch snap
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 14: Surprise — Hook [01:44–01:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep-black documentary void, neutral-cool base with controlled warm burst accents on activated nodes
+
+ACTIONS:
+- A measurement roadmap board floats in space with four physical panels—planet size, orbit distance, tidal lock, cloud system—arranged in a decisive forward-leaning chain that expresses anticipation through directional momentum
+- Arrows ignite panel-to-panel
+- Halt at the final cloud panel before details populate
+
+CAMERA:
+Wide | Zoom out
+
+AUDIO:
+- card slot clacks, magnetic tile snaps, laser pointer clicks, data stamp thunks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 15: Trust — Hook [01:52–02:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+High-contrast space blacks, crisp white labels, subtle yellow-white stellar bloom
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 1.7 times
+- 5.1 million miles
+- 36 million miles
+- seven times
+
+ACTIONS:
+- WASP-94A b and Jupiter appear side-by-side with firm scale bars
+- Balanced alignment and steady spacing convey reliable comparison
+- Diameter annotation animates from 1.0 to 1.7x over WASP-94A b
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- caliper sliding click, ruler extension rattle, stamp press for numeric labels
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 16: Trust — Hook [02:00–02:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clean scientific starfield with steel-blue shadows and controlled sodium-white highlights
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 1.7 times
+- 5.1 million miles
+- 36 million miles
+- seven times
+
+ACTIONS:
+- A top-down orbital diagram centers on the F-type star with two measured tracks: WASP-94A b at 5.1 million miles and Mercury at 36 million miles
+- Geometric precision and even spacing convey calm authority
+- A ratio brace animates and settles on "7x closer" as irradiation vectors brighten near the inner orbit
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- compass pivot scrape, drafting pen strokes, annotation stamp click, small relay ticks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 17: Trust — Hook [02:08–02:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep-space black lab-void with steel-blue volumetric shafts and restrained warm star glow, trustworthy documentary tone
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 1.7 times
+- 5.1 million miles
+- 36 million miles
+- seven times
+
+ACTIONS:
+- A holographic scale-comparison model holds a calm, balanced posture in frame, numbers crisp and confident
+- The 1.7× Jupiter diameter ring begins incomplete
+- Resolves while distance bars for 5.1 million and 36 million miles slide into alignment, stopping just before the final seven-times label appears
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- interface tap clicks, data chirps, servo whirrs
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 18: Trust — Build Up [02:16–02:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clean observatory-style data space with steel-blue highlights and controlled contrast, positive low-arousal trust
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 1.7 times
+- 5.1 million miles
+- 36 million miles
+- seven times
+
+ACTIONS:
+- A precise orbital ruler graphic sits centered with measured, steady geometry that reads confident and clear
+- The full seven-times comparison completes: 5.1 million miles marker locks near the star while Mercury’s 36 million miles marker remains far out
+- Both scales pulse once without resolving the next causal step
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- marker ticks, laser rangefinder beeps, panel relay clicks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 19: Trust — Build Up [02:24–02:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cool deep-space environment with documentary overlays and volumetric light gradients, methodical atmosphere
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 3.95 days
+
+ACTIONS:
+- A clean orbital clock diagram appears composed and stable, with evenly spaced tick marks conveying analytical calm
+- WASP-94A b advances around its star as a 3.95-day counter increments
+- Quarter-orbit markers trigger evolving cloud-state icons, but the final icon remains pending
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- clock ticks, digital counter clicks, short actuator snaps
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 20: Trust — Build Up [02:32–02:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+High-contrast black space, steel-blue rim light, disciplined documentary calm
+
+ACTIONS:
+- The planet-star geometry is centered in a rigid, composed stance, day-night boundary fixed with unwavering certainty
+- The planet completes orbital motion while its same hemisphere stays pointed at the star, proving tidal lock through synchronized spin-orbit vectors that remain unresolved at the edge of frame
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- gyroscope spin ticks, vector line draw clicks, synchronization chimes
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 21: Trust — Build Up [02:40–02:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep-space documentary chamber with precise labels and calm visual authority
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 200 degrees
+
+ACTIONS:
+- A split thermal globe presents a firm, stable expression through stark bilateral symmetry
+- The substellar hemisphere intensifies past 1200°C in mineral-gold textures while the nightside remains hundreds cooler in cobalt tones
+- Sunrise/sunset indicators stay absent as the terminator line does not move
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- thermal sensor ticks, warning LED clicks, data plotter strokes
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 22: Trust — Build Up [02:48–02:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Sterile cosmic data volume with steel-blue contrast and controlled volumetric light
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 200 degrees
+
+ACTIONS:
+- A locked 1:1 spin-orbit schematic holds strict, centered posture with exacting, confident alignment
+- Rotation and revolution counters advance together
+- The fixed substellar point marker remains pinned while a moving reference grid fails to shift the terminator, leaving atmospheric transport arrows still unresolved
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- counter step clicks, stylus annotation scratches, mechanism latch snaps
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 23: Trust — Build Up [02:56–03:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Controlled black-and-steel palette with neutral-warm accents, documentary rigor intact
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 200 degrees
+
+ACTIONS:
+- A side-by-side star-planet geometry panel stands disciplined and balanced, conveying reliable clarity
+- Left panel tracks orbital position
+- Right panel keeps the same lit hemisphere fixed, while a 200-degree differential tag pulses at the boundary
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- panel switch clicks, calibration beeps, plotline etch scratches
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 24: Trust — Build Up [03:04–03:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Balanced blue-white planetary lab space, positive, trustworthy documentary atmosphere
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- twelve hours
+
+ACTIONS:
+- A rotating Earth model carries a calm, instructional bearing with smooth axis posture and clean equatorial lines
+- Twelve-hour day-night markers alternate across continents while Coriolis arrows curve storm bands into spirals
+- Moisture and heat paths cycle rhythmically, stopping with one storm track mid-turn
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- globe motor whirrs, marker ticks, stylus-on-glass tracing
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 25: Trust — Build Up [03:12–03:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Even, trustworthy documentary atmosphere in deep-space black with steel-blue highlights, clean overlays and no clutter
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- twelve hours
+
+ACTIONS:
+- Earth globe and a transparent 12-hour orbital clock ring show calm, balanced symmetry
+- Indicator arm stays level like a steady posture
+- The planet rotates exactly half-turn as day-night boundary advances, while curved wind bands arc from Coriolis deflection
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- gyroscope whir, servo ticks, relay clicks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 26: Trust — Build Up [03:20–03:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Controlled, methodical atmosphere with crisp telemetry lines against deep-space black and steel-blue accents
+
+ACTIONS:
+- WASP-94A b fills frame with a razor terminator
+- The sphere appears physically split, one hemisphere rigidly bright and one subdued, expressing a fixed, unwavering divide
+- No seasonal loop icons appear
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- data-beep pulses, monitor relay clicks, lens motor micro-steps
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 27: Trust — Build Up [03:28–03:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Atmosphere stays precise and trustworthy, with measured scale bars and restrained contrast
+
+ACTIONS:
+- A hemispheric temperature projection shows dayside sodium-white inferno and nightside magnesium-gold cool-hot zone
+- Vector arrows lean forward like intent posture, conveying directional drive
+- Streamlines begin crossing the terminator, accelerating from high-pressure cool side toward low-pressure hot side without rotational swirl
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- marker chirps, interface click taps, scanline ticks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 28: Trust — Build Up [03:36–03:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The planet’s bright dayside and muted nightside hold a firm two-tone posture; the terminator stays sharp while a thin atmospheric band tenses at the boundary, expressing constrained motion
+
+ACTIONS:
+- The planet’s bright dayside and muted nightside hold a firm two-tone posture
+- The terminator stays sharp while a thin atmospheric band tenses at the boundary, expressing constrained motion
+- Pressure contour lines thicken between permanent extremes
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- instrument clicks, calibration pings, actuator ticks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 29: Trust — Build Up [03:44–03:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Medium cross-sectional atmosphere shot, slow static hold with subtle dolly
+
+ACTIONS:
+- Particle tracers depart the cooler nightside in compact clustered posture
+- Stretch and thin as they enter the dayside furnace
+- Cloud-mineral droplets visibly shrink and vanish, expressing loss and transition
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- particle hiss bursts, telemetry clicks, UI tick pulses
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 30: Trust — Build Up [03:52–04:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clean documentary setting with precise labels and restrained mineral tones
+
+ACTIONS:
+- Spectral bars and molecular icons hold stable, composed alignment
+- Condensate cloud layer from nightside enters a heated sector and icons reconfigure, with droplets evaporating into gas in a measured sequence
+- The trailing edge progressively clears, revealing a starfield through the atmosphere, signaling phase completion without full cycle closure
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- spectrometer ticks, relay clicks, marker beeps
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 31: Trust — Build Up [04:00–04:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Atmosphere is deliberate and balanced, with cool steel-blue blacks and disciplined telemetry readability
+
+ACTIONS:
+- Dual-layer wind vectors show firm opposing posture: lower stream runs nightside-to-dayside while upper stream bends back, both smooth and controlled
+- Temperature contours synchronize with arrows, forming an almost-closed circulation cell that signals reliable mechanism
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- plotting-pen scratches, panel button clicks, data chirp ticks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 32: Trust — Build Up [04:08–04:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Environment stays clean and trustworthy with minimal overlays and balanced neutral-cool grading
+
+ACTIONS:
+- A returning airflow ribbon adopts a softened, relaxed posture as temperature drops along the nightside arc
+- Condensate points reappear, merge, and bloom into fresh cloud bands
+- One full cool-condense-form sequence completes
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- condensation crackle, particle patter, control-pad clicks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 33: Trust — Build Up [04:16–04:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+A clean black-space backdrop with steel-blue highlights and restrained magnesium-gold edges creates methodical trust
+
+ACTIONS:
+- Superheated mineral clouds over a tidally locked exoplanet show calm, repeatable flow patterns like relaxed breathing—broad arcs, smooth curl fronts, no turbulence
+- Condensation forms on the nightside rim, streams to dayside as glowing vapor ribbons, evaporates
+- Loops back in a continuous cycle
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- vapor hiss, crystal crackle, particulate swirl, plasma puff
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 34: Surprise — Build Up [04:24–04:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Neutral-cool light builds to a measured reveal against deep-space black
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- twenty years
+
+ACTIONS:
+- A physical twenty-year timeline of dated transit plots hangs in space, edges curled like anxious shoulders
+- Pinned markers tremble and the center section remains blank
+- Simulation curves glow smoothly while reality slots stay intermittently dark, signaling unresolved doubt
+
+CAMERA:
+Medium | Crane
+
+AUDIO:
+- paper rustle, pin clicks, marker tap, glass slide scrape
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 35: Surprise — Build Up [04:32–04:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Neutral building light with brief sodium-white flashes over deep blacks emphasizes uncertainty
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- twenty years
+
+ACTIONS:
+- Split-frame evidence wall carries physical tension: left side simulation frames stacked neatly, right side observed spectra misaligned like a furrowed brow
+- Clipped printouts bow under strain
+- A cursor traces both sets, pausing before a mismatch region that never resolves in-frame
+
+CAMERA:
+Medium | Crane
+
+AUDIO:
+- keyboard clicking, printer chattering, paper flip, stylus tap
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 36: Trust — Build Up [04:40–04:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+In a sterile mission-analysis bay with even 3800K light and steel-blue highlights, the mood is methodical and trustworthy
+
+ACTIONS:
+- A transparent transit-spectroscopy bench model stands centered, indicator arms upright and precise, conveying calm confidence
+- A collimated star-beam enters, passes through a miniature planet-atmosphere chamber
+- Splits into clean spectral bars where labeled absorption bands begin appearing but stop before full identification
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- laser shutter clicks, motorized filter wheel ticks, glass prism rotation creaks, stylus plotting on chart paper
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 37: Trust — Build Up [04:48–04:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cool high-contrast blacks and steel-blue light preserve trustworthy clarity
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 3.95 days
+- starlight
+
+ACTIONS:
+- WASP-94A b crosses its host star with disciplined geometry
+- A thin luminous atmospheric ring appears at ingress like focused concentration
+- An orbital clock annotation advances to 3.95 days
+
+CAMERA:
+Wide | Orbit
+
+AUDIO:
+- telescope mount servo, shutter clicks, tracking gear ticks, data card insert snap
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 38: Trust — Build Up [04:56–05:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Bright neutral-cool deep space with steel-blue highlights and gentle sodium-white edge glow, confident clean documentary mood
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 3.95 days
+- starlight
+
+ACTIONS:
+- WASP-94A b and its host star centered with a calm, precise observational posture in frame—planetary limb crisp, atmosphere as a thin luminous halo
+- The planet transits
+- A narrow ring of starlight filters through the atmosphere while a floating spectrograph panel resolves missing absorption lines, and an orbital counter locks at 3.95 days
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- spectrograph shutter clicks, mount servo ticks, relay clicks, data-plotter pen scratching
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 39: Trust — Build Up [05:04–05:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Neutral-cool documentary lighting with restrained warm indicator dots
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 3.95 days
+- starlight
+
+ACTIONS:
+- A stack of phase-linked spectra sheets is clipped on a light table, posture orderly and confident
+- Peaks and troughs align across repeated transits while one newest trace is still sliding into place
+- A 3.95-day cadence marker stamps each row, ending before the last stamp lands
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- paper slide, binder clip snap, stamp thud, ruler tap
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 40: Trust — Build Up [05:12–05:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Balanced neutral-cool palette with subtle warm accents signals earned trust
+
+ACTIONS:
+- A lineage graphic made of physical instrument silhouettes stands centered: Hubble model, ground observatory dome model, and shared transit-spectra strip beneath
+- Elements sit upright with calm, reassuring symmetry
+- Indicator lights activate in sequence from older to newer systems, showing continuity rather than novelty
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- dome gear rotation, latch clack, projector click, paper chart unfurl
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 41: Trust — Build Up [05:20–05:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clean spacecraft integration bay with cool steel-blue highlights and deep blacks, methodical trustworthy atmosphere
+
+ACTIONS:
+- NIRISS instrument assembly appears precise and composed, gimbal frame rigid and indicator arrays steady like a calm focused posture
+- Twin collimated star-beam paths pass through a transiting exoplanet model’s leading and trailing limbs
+- Diverge into separate spectral traces that remain unresolved at cut
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- servo motor ticks, relay clicks, cooling fan whir, cable sheath rustle
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 42: Trust — Build Up [05:28–05:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clean instrument bay with bright neutral-cool highlights and restrained warm accents, orderly documentary atmosphere
+
+ACTIONS:
+- NIRISS slitless spectrograph assembly is centered under even 3800K light, indicator bars steady and precise, conveying calm confidence
+- A translucent exoplanet disk slides across a star model while two color-coded spectral streams peel apart in sync—cyan from the leading morning limb, amber from the trailing evening limb—forming an unresolved split graph that keeps building
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- motorized stage sliding, filter wheel clicks, laser calibration beeps, touchscreen taps
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 43: Trust — Build Up [05:36–05:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Instrument interior and projected data wall in cool neutral-cyan tones, clean and methodical NASA-documentary mood
+
+ACTIONS:
+- A detector readout panel presents calm precision
+- Gridlines sit level, status LEDs fixed, giving a confident physical stillness
+- Photon-count columns rise in discrete steps and settle into two stable distributions labeled by transit phase, with error bars tightening but final interpretation withheld
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- keyboard tapping, trackball clicks, printer feed rollers, card reader beep
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 44: Trust — Build Up [05:44–05:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Archive-style data chamber with muted steel-blue contrast and softened detail, trustworthy but limited capability tone
+
+ACTIONS:
+- Split-screen legacy telescope spectra appear weary and blended, curves slumped together like an indistinct expression
+- Morning and evening limb channels merge into one averaged line
+- Attempted deconvolution overlays smear and fail to separate
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- archive reel spin, monitor button clicks, stylus tap on glass, paper chart slide
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 45: Trust — Build Up [05:52–06:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Quiet mission-analysis display environment, cool neutral-cyan light and high-clarity documentary polish, positive trust valence
+
+ACTIONS:
+- JWST dual-limb extraction interface appears confident and upright
+- Two channel panes stand cleanly separated with crisp boundaries
+- A single blended spectrum is algorithmically split into MORNING and EVENING traces, each locking to independent baselines as confirmation markers ping
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- confirmation chime ping, mouse click, keypress clack, waveform cursor tick
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 46: Trust — Build Up [06:00–06:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep-space black backdrop with restrained teal accents and precise telemetry overlays, calm authoritative mood
+
+ACTIONS:
+- The hemisphere split map shows stark physical contrast: morning side hunched under dense cloud bands, evening side clearer and sharper, like opposing expressions
+- As the globe rotates, two extracted spectra appear opposite each other and diverge strongly in depth and slope
+- Pause on mismatch
+
+CAMERA:
+Medium | Orbit
+
+AUDIO:
+- gyroscope whirr, motorized mount tick, UI toggle clicks, projector shutter snap
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 47: Trust — Deep [06:08–06:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Data-journalism style planetary section in cool black-teal palette, rigorous and trustworthy
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 000 times
+
+ACTIONS:
+- Morning limb cross-section is physically burdened: upper haze deck compressed and opaque, with a flattened facial-like contour of the 1.4µm trough panel beside it suggesting suppression
+- Incident starlight rays strike high-altitude cloud layers (0.1–0.01 mbar) and scatter upward before reaching deeper water-vapor layers
+- Absorption feature remains muted
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- laser pointer click, annotation pen tap, touchscreen taps, slide-rule drag
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 48: Trust — Deep [06:16–06:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clean black-space data stage with teal-accent volumetric light and precise NASA-documentary realism
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 000 times
+
+ACTIONS:
+- Pressure-altitude graphic holds firm, with cloud-layer bands stacked tightly like a controlled, deliberate posture
+- A spectral plot zooms to 1.4µm as a blocked light-path animation shows photons scattering in thin upper layers
+- Labels quantify 100–1,000× thinner than sea-level Earth air while the water signal stays depressed
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- chart cursor clicks, stylus scratch on tablet, layer toggle clicks, measurement caliper snap
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 49: Trust — Deep [06:24–06:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep-space black interface environment feels precise, trustworthy, and analytical
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 000 times
+
+ACTIONS:
+- Centered transmission spectrum panel shows a restrained, flattened 1.4-micron trough with rigid gridlines and calm teal highlights, conveying measured confidence
+- Stacked morning-limb transit traces accumulate while a high-altitude cloud band overlay at 0.1–0.01 mbar scatters incoming starlight before lower water-vapor layers, leaving the feature muted
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- mouse click, keyboard key taps, stylus tapping glass display
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 50: Trust — Deep [06:32–06:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clean starfield and neutral-cool teal atmosphere reinforce trust and stability
+
+ACTIONS:
+- The exoplanet’s evening limb is centered with a clear, sharply edged atmospheric arc
+- Its contour appears open and relaxed, with no cloud veil, signaling clarity and confidence
+- A synchronized spectral inset deepens into a strong, well-defined 1.4-micron trough as starlight passes unobstructed through the atmosphere
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- detector shutter ticks, data packet beeps, control knob clicks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 51: Trust — Deep [06:40–06:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep-space black field and steel-blue telemetry glow create a precise, trustworthy atmosphere with volumetric light shafts
+
+ACTIONS:
+- WASP-94A b evening limb centered with a calm unbroken arc, sharp bright edge, and clean high-contrast contours conveying steady certainty
+- Hemisphere map crossfades into a tight spectrum where the 1.4-micron water-vapor trough stays deep, narrow, and crisp while cloud opacity line collapses to near zero
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- data-beep ticks, monitor relay clicks, spectrum-line sweep chirps
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 52: Trust — Deep [06:48–06:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Mission-control documentary environment remains cool, orderly, and intellectually calm
+
+ACTIONS:
+- Sagnick Mukherjee stands upright at frame center before a split-planet data wall, shoulders squared, focused eyes, and a restrained half-nod conveying thoughtful surprise and credibility
+- A lower-third nameplate identifies Arizona State University as he gestures to two contrasting hemispheric diagnostics of the same planet
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- shoe step on floor grate, remote click, fabric rustle
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 53: Trust — Deep [06:56–07:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Sparse starfield lab-visual hybrid environment feels rigorous and calm
+
+ACTIONS:
+- A single exoplanet is bisected vertically at center: morning half wrapped in mineral-gold vapor-rock cloud, evening half clear in neutral-cool teal
+- Both hemispheres appear steady and balanced, expressing measured certainty
+- Twin spectral traces beside each half animate once, revealing cloudy-side suppression versus clear-side deep absorption, captured in one transit by one instrument on one night
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- plotter pen scratching, relay clicks, keycap presses
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 54: Trust — Deep [07:04–07:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Controlled teal-and-black data theater preserves positive, low-arousal trust
+
+ACTIONS:
+- Center frame shows synchronized transit timelines flanking the same planet icon
+- Posture-like visual tension appears in compressed left-side error bars and relaxed right-side error bars, signaling resolved confidence
+- Matching spectral pulses appear once per side, confirming cloud-shrouded morning versus unobstructed evening under identical instrument and night conditions
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- metronome click, touchscreen tap, printer feed clicks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 55: Trust — Deep [07:12–07:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Vast but orderly deep-space environment stays neutral-cool and authoritative
+
+ACTIONS:
+- A star-map expands from one highlighted system to many while the original WASP-94A b marker remains upright and steady at center, conveying grounded confidence amid widening scope
+- Observation overlays radiate outward as linked nodes, showing implications extending beyond a single planet without losing the core measured result
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- map node clicks, cursor wheel ratchet, data card snap-in
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 56: Trust — Deep [07:20–07:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cool starfield, teal instrument reflections, and restrained documentary lighting maintain analytical trust
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Hubble Space Telescope
+
+ACTIONS:
+- Hubble Space Telescope dominates frame with disciplined alignment, locked solar panels, and a composed, forward-facing posture suggesting institutional confidence
+- A split hemisphere spectral card overlays the telescope body
+- Merges into one averaged line where cloudy-morning and clear-evening signatures blend, flattening limb differences and inflating inferred oxygen-carbon abundance relative to Jupiter
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- reaction-wheel whir clicks, servo latch clacks, telemetry ping pulses
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 57: Trust — Deep [07:28–07:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep-space black with steel-blue highlights, authoritative data-journalism atmosphere in Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Hubble Space Telescope
+
+ACTIONS:
+- Hubble Space Telescope centered with squared solar panels and perfectly level attitude, conveying calm confidence through rigid posture
+- A hemisphere-split overlay on WASP-94A b appears beside Hubble
+- Two limb spectra merge into one averaged trace while translucent uncertainty bands widen
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- reaction-wheel tick, relay click, telemetry beep pulses, UI tap clicks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 58: Trust — Deep [07:36–07:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Minimal teal-accent lab-graphic environment over starfield, clean and disciplined in Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1
+
+ACTIONS:
+- A bold measurement label on a spectral panel appears firm and upright
+- Physically replaced by a corrected tag, the hard swap expressing controlled certainty rather than panic
+- The old value stamp slides down and locks out while the new value snaps into place
+
+CAMERA:
+Macro | Static
+
+AUDIO:
+- stamp clack, paper slide scrape, keyboard key clicks, marker squeak
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 59: Trust — Deep [07:44–07:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cool deep-space backdrop with steel-blue UI in Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1
+
+ACTIONS:
+- Three upright diagnostic cards align like calm evidence blocks, each card’s crisp edges and steady spacing conveying trust through ordered posture
+- Card one marks instrument health, card two marks data integrity, card three fills with a cloud-occlusion mask crossing absorption lines
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- card flip snaps, pointer tap ticks, stylus drag, confirmation button clicks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 60: Trust — Deep [07:52–08:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Controlled, trustworthy atmosphere in Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1
+
+ACTIONS:
+- WASP-94A b fills frame with a split terminator
+- Morning hemisphere appears hunched under dense cloud layers while evening hemisphere reads clean and open, a physical contrast of muted vs clear
+- As the planet rotates slightly, morning-side absorption lines flatten and evening lines stay sharp
+
+CAMERA:
+Medium | Orbit
+
+AUDIO:
+- data cursor ticks, layer toggle clicks, waveform scribble, console button presses
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 61: Trust — Deep [08:00–08:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Precision labels remain minimal
+
+ACTIONS:
+- Two spectral plots stand like opposing faces: left trace softened and slumped under cloud opacity, right trace upright and sharply etched, expressing restrained confidence through geometry
+- A central averaging bar blends both and visibly inflates inferred abundances
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- mouse wheel ticks, keypress clicks, stylus taps on glass, plot point ping clicks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 62: Trust — Deep [08:08–08:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cool-black space with steel-blue interface in Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- five times
+
+ACTIONS:
+- JWST phase-locked mask ring is centered, poised and steady
+- Its rigid circular posture signals methodological confidence
+- The mask isolates the clear evening sector, and a vertical abundance gauge drops from “hundreds×” to a luminous “~5× Jupiter,” locking in place
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- selector dial clicks, mask latch clink, slider ratchet ticks, confirmation chime click
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 63: Trust — Deep [08:16–08:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Balanced neutral-cool palette with restrained warm accents in Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- five times
+
+ACTIONS:
+- An evening-only spectrum line holds an upright, clean profile while confidence bands physically tighten inward, conveying calm resolution through narrowing posture
+- Labels for oxygen and carbon settle at moderate levels
+- The former extreme annotation fades to a faint archival ghost
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- pen tap, keyboard clicks, ruler slide scrape, small switch click
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 64: Trust — Deep [08:24–08:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Grand but controlled deep-space environment, Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- five times
+
+ACTIONS:
+- Orbital geometry diagram stands firm at top while extracted evening-side signal panel below remains crisp
+- Both elements align in straight, disciplined posture to express reliable resolution
+- A cloud-shrouded morning sector is traced and excluded
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- orbit marker clicks, tracing stylus scratches, panel lock clack, label stamp taps
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 65: Trust — Deep [08:32–08:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep-space black backdrop with steel-blue highlights and restrained teal glow, emotionally clear and trustworthy
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- five times
+
+ACTIONS:
+- Tidally locked hot Jupiter hemisphere-split render holds a calm, balanced symmetry
+- Numeric label "5× Jupiter" appears crisp and steady, conveying quiet confidence
+- The oxygen and carbon bars step down from extreme values and settle at five times Jupiter as cloud veil peels from the morning side
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- UI tap clicks, data panel slide clicks, soft relay ticks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 66: Trust — Deep [08:40–08:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Neutral-cool observatory infographic space with teal accents and disciplined contrast, authoritative and trustworthy
+
+ACTIONS:
+- A carbon-to-oxygen ratio gauge and protoplanetary disk cross-section sit level and composed
+- Indicator needles hold steady in a calm, evidence-first posture
+- Two formation zones illuminate in sequence as the ratio shifts from extreme enrichment to moderate enrichment, leaving the final zone unresolved for inference
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- stylus taps on glass, marker squeaks on transparent board, button clicks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 67: Trust — Deep [08:48–08:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clean data-journalism environment, cool blacks and steel-blue grids with restrained amber highlights on corrected values
+
+ACTIONS:
+- Before/after spectral retrieval curves appear with disciplined, settled line behavior
+- Confidence brackets sit firm, expressing methodological control
+- Old high C and O curves fade while corrected curves lock into narrower intervals, with delta values resolving one by one
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- keyboard clicks, mouse wheel ratchets, pen taps on tablet edge
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 68: Trust — Deep [08:56–09:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Neutral-cool lab-display atmosphere with teal keylines and restrained warm accents signaling clarity
+
+ACTIONS:
+- A chemistry parameter table stands upright and orderly
+- Highlighted corrected rows look composed and precise, like a calm final verdict
+- Columns for C/O, O/H, and C/H update from prior estimates to corrected values
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- mechanical key presses, single stamp thud, page flip rustle
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 69: Trust — Deep [09:04–09:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Controlled deep-space infographic environment, cool contrast and teal routing lines with balanced neutral tones
+
+ACTIONS:
+- A causal chain diagram holds rigid, straight alignment
+- Nodes appear calm and deliberate, conveying logical certainty
+- The link "wrong composition" routes to "wrong formation history," with arrows lighting in sequence
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- switch clicks, cable plug snaps, dry marker strokes
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 70: Trust — Deep [09:12–09:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Crisp, neutral-cool documentary control graphic with teal anchors and restrained amber revision tags
+
+ACTIONS:
+- A branching migration timeline for WASP-94A b stands poised and balanced
+- Revised branch glows steadily while old branch desaturates, expressing calm model replacement
+- Markers for cloud-bias correction propagate across nearby hot Jupiter entries, implying many records may shift next
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- timeline slider clicks, label card snaps into rail, fine-tip pen ticks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 71: Trust — Deep [09:20–09:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Balanced neutral-cool space with deep blacks, steel-blue structure, and precise teal annotations
+
+ACTIONS:
+- Two formation scenarios occupy left and right panels in disciplined symmetry
+- The new model appears sharper and settled, the old model physically blurred by clouded overlay
+- A transparent fog layer retracts from the old panel as evidence tags transfer to the revised panel, completing a measured handoff
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- glass wipe squeak, tag magnet clicks, hard drive seek ticks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 72: Trust — Deep [09:28–09:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Grand but restrained cosmic atlas environment, cool deep-space blacks, steel-blue star lattice, teal emphasis on updated entries
+
+ACTIONS:
+- A population map of dozens of pre-JWST hot Jupiters sits in stable grid alignment
+- Highlighted points pulse gently with composed, low-arousal confidence
+- One by one, planets switch from fog-icon status to clear-window status, revealing potential composition revisions across the sample
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- map pin clicks, checkbox ticks, short printer chits
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 73: Trust — Deep [09:36–09:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+teal-accent mission records bay, steel-blue highlights, disciplined documentary atmosphere, Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1
+
+ACTIONS:
+- A gloved mission hand with relaxed wrist and steady fingers conveys calm confidence over a single exoplanet dossier
+- The hand slides that lone folder left
+- Places additional labeled planet folders into a neat expanding row, ending centered on a growing JWST program archive
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- folder paper sliding, binder ring click, stamp press thud
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 74: Trust — Deep [09:44–09:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+A nine-tile hot-Jupiter grid appears rigidly aligned and evenly spaced, visual posture disciplined and trustworthy
+
+ACTIONS:
+- A nine-tile hot-Jupiter grid appears rigidly aligned and evenly spaced, visual posture disciplined and trustworthy
+- Temperature tags resolve from 800K to 1700K while each tile splits into morning and evening limb badges with a 1.4µm water marker awaiting comparison
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- touchscreen tap clicks, data-card snap-ins, marker pen ticks on acrylic
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 75: Trust — Deep [09:52–10:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+deep-space black field with teal data accents and restrained authority, Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1
+
+ACTIONS:
+- Nine hot-Jupiter spheres arranged in a 3x3 grid hold a balanced, composed visual posture while two limb markers on each planet glow with measured restraint
+- A synchronized spectra strip beneath each sphere resolves at 1.4 microns, with morning and evening water-feature amplitudes drawing side-by-side for direct comparison across 800–1700 K labels
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- UI tick pulses, marker ping clicks, data panel snap
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 76: Trust — Deep [10:00–10:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Bright neutral-cool mission lab atmosphere with clean whites, steel-blue glass reflections, and restrained warm console accents supports positive trust
+
+ACTIONS:
+- A 3x3 exoplanet analysis wall fills frame
+- Three tiles hold centered with steady, synchronized teal pulses, their balanced symmetry conveying calm confidence
+- The highlighted three repeat identical morning-evening cloud asymmetry bands while the other six remain unlit, delivering a clear intermediate proof
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- touchscreen taps, stylus clicks, confirmation chime beeps, relay clicks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 77: Trust — Deep [10:08–10:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Quantitative evidence wall with teal-accent metrology marks and disciplined documentary lighting
+
+ACTIONS:
+- Three named phase-curve panels—WASP-94A b, WASP-39 b, WASP-17 b—stand upright and symmetrical, expressing measured confidence
+- In each panel, morning-limb water depth stays muted while evening-limb depth rises cleanly
+- Sigma counters climb and stop above 5.0
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- digital counter beeps, graph plotter pen scratches, confirmation button clicks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 78: Trust — Deep [10:16–10:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep-space analysis stage with steel-blue blacks and teal volumetric shafts, calm positive rigor
+
+ACTIONS:
+- A triptych of rotating planet hemispheres remains centered and level, their balanced framing signaling reliability
+- For each named world, the morning side appears cloud-muted while the evening side clears, and identical split overlays snap into place one after another
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- overlay snap clicks, rotor motor ticks, sensor shutter taps
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 79: Trust — Deep [10:24–10:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Comparative dashboard chamber with cool balanced tones, transparent and trustworthy mood
+
+ACTIONS:
+- Six remaining planet tiles are arranged in neat rows with subdued luminance, posture cautious but orderly
+- Confidence bars stall below key thresholds
+- Some tiles show bilateral cloud icons, others flat asymmetry lines, explicitly marking non-universality
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- bar-stop clicks, icon stamp taps, mechanical slider stops
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 80: Trust — Deep [10:32–10:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+neutral-cool starfield plate with teal accents and measured documentary authority, Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1
+
+ACTIONS:
+- A centered 3/9 indicator appears as three illuminated planet discs among nine, holding a firm, composed visual expression against evenly spaced reference rings
+- The fraction remains steady while a subtle coincidence-test glyph locks into place beside it, signaling statistical confidence rather than majority dominance
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- counter click, glyph lock clack, interface confirm chirp
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 81: Trust — Deep [10:40–10:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+deep-space black with restrained teal telemetry glow, analytical and trustworthy atmosphere in Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1 style
+
+ACTIONS:
+- Tidally locked exoplanet phase-map centered, contours crisp and symmetrical with calm, confidence-signaling balance
+- Nightside mineral clouds visibly condense as steel-blue opacity blooms, while dayside remains clear under heat labels
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- telemetry beeps, interface clicks, data-point ticks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 82: Trust — Deep [10:48–10:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+starfield minimalism, teal-accent scientific HUD, cool balanced contrast in Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1 style
+
+ACTIONS:
+- Terminator-crossing streamline field is the subject, lines taut and orderly like controlled breath, expressing low-arousal certainty
+- Cloud tracers advect from nightside to morningside in a continuous loop, unresolved at frame end
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- vector-line drawing scratches, UI taps, short confirmation beeps
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 83: Trust — Deep [10:56–11:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+disciplined data-journalism composition, cool blacks and teal highlights, Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1
+
+ACTIONS:
+- Split-hemisphere diagnostic globe fills frame, left half compact cloud deck and right half thinning veil, posture-like bilateral balance conveying trust
+- Temperature gradient bands (sub-800K to above-1700K) lock onto hemispheres
+- Cloud viability fades at both extremes
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- panel switch clicks, annotation chimes, cursor snaps
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 84: Trust — Deep [11:04–11:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+neutral-cool scientific stage with teal accents and precise gridlines, Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1 look
+
+ACTIONS:
+- Pressure-temperature chart is central subject, clean axis geometry upright and composed like a confident stance
+- A narrow ‘sweet spot’ band illuminates between 800K and 1700K
+- Icons for morning clouds and clear evenings overlap only inside that strip
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- stylus tracing line, marker tap on glass, UI confirmation clicks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 85: Trust — Deep [11:12–11:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+restrained deep-space backdrop with measurement ticks, cool-to-mineral tonal transition in Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1
+
+ACTIONS:
+- Vertical atmospheric cross-section stands centered, arrows evenly spaced and upright, conveying calm instructional authority
+- Dayside columns rise in amber-mineral vapor, upper layers cool, descending flows return
+- Inset compares Earth water-vapor icon to WASP-94A b mineral-vapor icon
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- arrow-render clicks, layered icon snaps, fine particle sprinkle
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 86: Trust — Deep [11:20–11:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Mission-grade visualization bay with neutral-cool steel blues and restrained amber accents, clear and reassuring
+
+ACTIONS:
+- A split atmospheric cross-section—Earth left, WASP-94A b right—shows calm, symmetrical circulation layers like a composed face, conveying steady trust
+- Warm plumes rise, cool plumes sink
+- Water droplets condense into Earth clouds while magnesium-silicate grains crystallize into bright mineral clouds on WASP-94A b
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- dry-ice crackle, fine particle sprinkling, short steam hiss
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 87: Trust — Deep [11:28–11:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+sparse star context, teal analytical overlays, disciplined documentary clarity in Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1
+
+ACTIONS:
+- Circular orbital process diagram dominates frame, segments aligned and balanced like a composed expression
+- Sequence animates in one loop: rise, cool, condense, transport, evaporate
+- Each step lights in order
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- segment lock clicks, rotating dial ticks, soft selector taps
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 88: Trust — Deep [11:36–11:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+clean cosmic-black lab-graphic stage, Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1
+
+ACTIONS:
+- Split material board fills frame: left water-vapor droplet microstructure, right mineral-vapor species (Mg-silicate, Fe, Na) with steady, neatly arranged geometry expressing confident resolution
+- Identical process arrows connect both sides, proving same physics with different ingredients
+- Warm mineral accents settle into balanced cool tones
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- tile snap-ins, label stamp clicks, final lock chime
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 89: Trust — Deep [11:44–11:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+teal-accent mission analysis bay, controlled positive atmosphere, Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic-lens look
+
+ACTIONS:
+- A hemispheric exoplanet simulation rig stands centered in a confident upright posture
+- Indicator arcs glow steady, conveying calm certainty
+- The rig cycles mechanism one
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- relay click, servo whirr, touchscreen tap, stylus scribble
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 90: Trust — Deep [11:52–12:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+evidence-first telemetry wall in steel-blue and warm mineral accents, emotionally reassuring, Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic-lens look
+
+ACTIONS:
+- A transparent atmospheric limb model holds a balanced, composed stance
+- Contour lines remain level like a measured expression
+- Opacity bands along the evening limb thin stepwise as temperature ticks upward, while evaporation-threshold markers illuminate one by one without final endpoint
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- marker squeak on glass, thermal valve hiss, button click, data-printer chatter
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 91: Trust — Deep [12:00–12:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+clean dual-panel data chamber with calm positive authority, Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic-lens look
+
+ACTIONS:
+- A split experimental display presents two equal columns with a steady, neutral posture
+- Alignment bars sit level, expressing disciplined confidence
+- Left column shows downwelling recycling loop
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- mechanical switch clack, pen tap on acrylic, projector shutter tick, keyboard keypress
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 92: Trust — Deep [12:08–12:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+disciplined teal-lit analytics stage, calm trust-forward mood, Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic-lens look
+
+ACTIONS:
+- A confidence-envelope graph array sits centered with restrained, composed geometry
+- Error bars stand upright like a careful expression
+- Two model envelopes overlap across wavelength bands, recycling and destruction counters update in parallel, and long-term chemistry/energy balance icons toggle between outcomes without selecting a winner
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- plotter pen scratching, mouse click, card slider snap, instrument latch click
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 93: Anticipation — Payoff [12:16–12:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+mission planning deck shifting from cool steel-blue to warm release gold, uplifting atmosphere, Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic-lens look
+
+ACTIONS:
+- A JWST target-board module appears tense in posture—status lights clustered close—then relaxes into a wide expanded grid with brighter, open spacing
+- New exoplanet tiles populate in sequence, ending on a highlighted habitable-zone gas giant entry that resolves the built anticipation
+
+CAMERA:
+Medium | Tracking
+
+AUDIO:
+- latch release clack, panel slide, touchscreen taps, confirmation chime strike
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 94: Trust — Payoff [12:24–12:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Minimal black environment with restrained warm edge glow and clean authoritative atmosphere in a Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1 style
+
+ACTIONS:
+- Centered black title panel with firm, motionless typography and perfectly level baseline, conveying calm confidence
+- The words “Confirmed by data” fade in as a thin white plot line resolves from scattered points into a locked fit
+- A small verification glyph clicks on, delivering final certainty
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- single UI click, brief data-point blips, soft projector relay tick
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 95: Trust — Payoff [12:32–12:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+warm-neutral verification suite with disciplined color separation, trust-positive tone, Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic-lens look
+
+ACTIONS:
+- A rotating WASP-94A b hemisphere map shows a composed, balanced stance
+- Morning side appears dense and folded, evening side smooth and open like a relieved expression
+- Mineral cloud overlays (Mg-silicate, iron, Mg-sulfide) accumulate on dawn limb while clear-side spectral tags (H2, H2O, CO2, H2S) lock in at moderate enrichment values
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- spectrometer shutter ticks, cursor clicks, annotation pen scratch, rotary encoder turns
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 96: Trust — Payoff [12:40–12:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+restrained warm documentary lab-graphic space, clear positive authority, Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic-lens look
+
+ACTIONS:
+- A dawn-limb boundary panel holds a precise, confident posture
+- Contour edges are taut and deliberate, expressing measured certainty
+- The view zooms into cloud-deck boundary lines, overlays wavelength bands and uncertainty contours
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- caliper click, glass stylus tap, selector dial ticks, printer feed ratchet
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 97: Trust — Payoff [12:48–12:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep-space backdrop feels clear and trustworthy, neutral-cool with restrained warm mineral accents
+
+ACTIONS:
+- WASP-94A b hemisphere-split model holds a steady, balanced stance
+- The morning limb appears dense and heavy with cloud mass while the evening limb looks open and calm
+- One full four-day phase loop replays once: magnesium-silicate/iron/magnesium-sulfide cloud deck migrates across dawn
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- data-beep ticks, interface click pulses, marker ping taps
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 98: Trust — Payoff [12:56–13:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Environment is disciplined deep black with steel-blue highlights and gentle warm edge light, conveying confident closure
+
+ACTIONS:
+- The planet’s brightest asymmetry frame is held rigid and composed, with a compressed overcast morning limb and crisp transparent evening limb like a resolved expression
+- Action locks at maximum contrast while concise statistic badges resolve around the terminator: direct-observation flag, distance marker, cloud-opacity delta
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- UI lock click, badge pop ticks, fine cursor tap snaps
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 99: Trust — Payoff [13:04–13:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep-space telemetry bay rendered in balanced neutral-cool tones with restrained warm edge light, calm and evidentiary
+
+ACTIONS:
+- Triple-panel exoplanet transit readout appears composed and assured—steady baselines, clean error bars, resolved labels for WASP-39 b and WASP-17 b, while WASP-94A b is marked with a skewed cloud-contamination band
+- Spectral curves lock into place and a 2-of-9 counter resolves as the distortion overlay peels back
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- data-point beeps, interface ticks, graph-line draw clicks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 100: Trust — Payoff [13:12–13:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Background starfield is calm and expansive, with neutral-cool tonality and subtle warm rim accents for intellectual closure
+
+ACTIONS:
+- A three-planet comparative panel presents WASP-94A b, WASP-39 b, and WASP-17 b as evenly spaced spheres with composed, balanced visual posture
+- Their morning limbs carry textured cloud veils while evening limbs remain clearer
+- Identical encoding rings pulse once to show shared cycle physics
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- ring pulse ticks, panel latch clicks, orbital marker taps
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 101: Trust — Payoff [13:20–13:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Neutral-cool starfield-backed analysis display with restrained warm highlights, contemplative and honest
+
+ACTIONS:
+- A residuals heatmap and phase-curve matrix sit physically unresolved—gaps in bands, truncated peaks, and a frozen cursor at an unlabeled variable, conveying calm uncertainty
+- The matrix attempts an auto-fit
+- Stops before completion, leaving one equation line unfinished
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- cursor tap, short alert chirp, relay click, stylus scratch on glass
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 102: Trust — Payoff [13:28–13:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Environment stays neutral-cool with controlled mineral highlights, scientific and calm
+
+ACTIONS:
+- A hot-Jupiter limb cross-section appears poised and analytical
+- Cloud layers arch on morning side while evening side shows a cleaner channel
+- Action alternates two mechanisms in measured overlays: downwelling vectors descend in one pass, evaporation vectors rise in another, with no winner marked
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- vector draw scratches, layer toggle clicks, marker tap pings
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 103: Trust — Payoff [13:36–13:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Environment is crisp starfield geometry with balanced cool tones and subtle warm edge cues of continued progress
+
+ACTIONS:
+- Comparative orbital diagrams maintain a steady, deliberate posture: hot Jupiters on inner tracks and cooler smaller exoplanets on outer tracks, linked by cautious dashed pathways
+- Action pulses candidate drivers sequentially—insolation, circulation, condensation altitude—each illuminating
+- Fading without final lock, preserving scientific restraint
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- orbit tick clicks, pathway pulse taps, node switch snaps
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 104: Trust — Payoff [13:44–13:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Background remains deep, neutral-cool space with restrained warm mineral glints for contemplative closure
+
+ACTIONS:
+- Extreme macro of suspended mineral cloud grains shows a composed, ordered field: larger particles drift lower, finer grains scatter higher, each with clear internal texture like stratified expression
+- Action overlays spectral residual traces and error bars that tighten around some bands and remain open on others, marking boundary of current knowledge
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- particle impact ticks, spectrum trace scratches, caliper click snaps
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 105: Trust — Payoff [13:52–14:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Archive vault-meets-mission gallery with neutral-cool tones and restrained warm edge light, contemplative and authoritative
+
+ACTIONS:
+- A suspended mosaic of Earth cloud atlases, Mars orbital strips, Jupiter flyby frames, and Titan radar swaths sits in precise, balanced alignment, conveying calm certainty
+- The panels brighten in sequence from Earth to Titan
+- Lock into one unified grid as a final verification gesture
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- film-reel clicks, slide-projector clacks, glass-panel taps, servo-lock snaps
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 106: Trust — Payoff [14:00–14:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Mission markers glide to each world and stop within inner-system boundaries, physically confirming reachability by buildable spacecraft
+
+ACTIONS:
+- A brass solar-system orrery fills frame
+- Engraved Earth, Mars, Jupiter, and Titan plates show calm, precise alignment, with steady posture implied by locked instrument arms
+- Mission markers glide to each world and stop within inner-system boundaries, physically confirming reachability by buildable spacecraft
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- orrery gear clicking, mission-pin sliding on metal rails, paper map rustling, projector reel ticking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 107: Trust — Payoff [14:08–14:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+High-orbit visualization chamber with deep black space, clean neutral-cool color, restrained warm rim light, calm and expansive
+
+ACTIONS:
+- Earth, Mars, Jupiter, and Titan appear as four aligned orbital miniatures with steady, level orientation expressing stability
+- Thin timeline ribbons advance beneath each world
+- Converge into a single synchronized weather-process track to confirm universality
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- gyroscope spins, interface beeps, marker-pen scribbles on acetate, mechanical timeline ratchets
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 108: Trust — Payoff [14:16–14:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Interstellar void with disciplined neutral-cool palette and gentle warm highlights on measurement marks, solemn but confident
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- No probe
+- starlight
+
+ACTIONS:
+- A probe trajectory line extends from the inner system
+- Stops short, its tip rigid and halted, while a distant star and WASP-94A b remain separated across vast depth, expressing unreachable distance
+- A bright starlight ray bends through the planet’s thin atmospheric limb, forming measurable distortion arcs
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- thruster bursts, telemetry pings, laser-pointer clicks, optical bench slider scrapes
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 109: Trust — Payoff [14:24–14:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep-space lab bay remains clean and neutral-cool with soft warm edge light, signaling confident evidence despite distance
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- No probe
+- starlight
+
+ACTIONS:
+- A ray-trace rig shows starlight beams entering a transparent exoplanet-atmosphere sphere
+- A blank probe dock and capped camera mount sit motionless, conveying absence through still, restrained geometry
+- Light refracts into a resolving spectral line panel, stepwise revealing weather inference without direct imaging
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- optical bench servo clicks, prism mount ratcheting, laser shutter snapping, data-plotter pen scratching
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 110: Trust — Payoff [14:32–14:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Precision orbital theater with neutral-cool blacks, sodium-white cloud glints, and subtle warm confirmation highlights
+
+ACTIONS:
+- A hemisphere-split model of WASP-94A b holds a steady axial posture, signaling controlled certainty
+- Over one accelerated four-day orbital ring, mineral cloud cover thickens on the morning side
+- Peels back by evening, completing the measured cycle
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- orbital track motor turns, magnetic latch clicks, marker pulses, data-stamp punches
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 111: Trust — Payoff [14:40–14:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+A planar array of diverse exoplanets appears in calm, evenly spaced alignment, each tagged by a stable weather signature icon, expressing measured confidence
+
+ACTIONS:
+- A planar array of diverse exoplanets appears in calm, evenly spaced alignment, each tagged by a stable weather signature icon, expressing measured confidence
+- Signature traces pulse once across all worlds
+- Settle into synchronized steady lines that imply observability beyond reach
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- tagger clicks, signal pulse beeps, panel lock clunks, fine stylus scratches
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 112: Trust — Payoff [14:48–14:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Vast cosmic backdrop with balanced neutral-cool tones, subtle warm closure accents, serene and authoritative
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- four days
+
+ACTIONS:
+- WASP-94A b and a luminous four-day orbital clock ring hold a centered, unwavering posture that conveys permanence
+- Cloud bands repeatedly form and dissolve as the clock ticks through many cycles
+- The ring extends into deep-time markers dwarfing a tiny human-era marker
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- clock escapement ticks, orbital ring ratchets, engraving tool scratches, hard drive seek clicks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 113: Trust — Payoff [14:56–15:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep-space black with neutral-cool tones and restrained warm rim accents, contemplative payoff atmosphere in Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- four days
+
+ACTIONS:
+- WASP-94A b’s limb shows calm, rhythmic cloud bands tightening and loosening with measured regularity, conveying quiet certainty
+- A luminous orbital ring completes and resets at four evenly spaced day markers while a faint Earth timeline tick fades in late for scale
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- soft control-dial clicks, relay ticks, subtle display beeps
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 114: Trust — Payoff [15:04–15:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Balanced neutral-cool space with restrained warm edge light, serene confidence in Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1
+
+ACTIONS:
+- A transparent spectral panel sits center frame with a calm, steady cursor and neatly aligned absorption lines, visually “reading” an atmosphere with deliberate precision
+- The cursor locks successive peaks into labeled weather bands while the background widens from instrument glass to a distant starfield, signaling new human literacy
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- touchscreen taps, stylus scratches on glass, data-chime pings
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 115: Trust — Payoff [15:12–15:19]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Neutral-cool cosmic backdrop with gentle warm highlights, resolved and uplifting in Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1
+
+ACTIONS:
+- A planetary catalog grid of tiny confirmed worlds sits left while a large live atmospheric phase map of one planet fills right
+- The map’s cloud vectors move with calm coherence, expressing confident progression
+- Two concise on-screen beat cards appear and fade in sequence—“find planets”
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- keyboard clicks, marker pen strokes on acetate, single monitor button press
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+════════════════════════════════════════════════════════════════
+[END SCENE PROMPTS]
+════════════════════════════════════════════════════════════════
