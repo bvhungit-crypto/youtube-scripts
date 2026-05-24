@@ -1,0 +1,2151 @@
+════════════════════════════════════════════════════════════════
+[CHARACTERS Description]
+════════════════════════════════════════════════════════════════
+
+PROJECT: They_thought_they_were_seeing_the_universe_s_boundary__They_were_wrong
+
+RATIO: 16:9
+
+--------------------------------------------------
+STYLE (DETAILED - MANDATORY):
+
+- Style Directive: Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1
+
+- Medium: Live-action / Cinematic
+
+- Visual Style:
+  - Photorealistic textures with accurate material response
+  - Observational documentary framing — restrained and credible
+  - Cinematic composition with depth and motivated framing
+  - Anamorphic 2.39:1 framing language adapted to delivery ratio
+  - 8K capture-grade detail with deep blacks and clean highlights
+  - HDR contrast — preserved highlights, nuanced shadows
+
+- Character Design:
+  Semi-realistic figures
+
+- Materials & Textures:
+  [e.g. Flat colors only / Cel-shaded with soft shadow / Painterly with visible brushwork]
+
+- Lighting:
+  Volumetric lighting with visible light shafts
+
+- Color Palette:
+  [Define color roles — e.g. Red = danger, Yellow = energy, Blue = calm, Black outline for clarity]
+
+- Rendering Quality:
+  [e.g. Crisp, clean, high-definition / Slightly grainy retro / Hyper-smooth anime-style]
+
+- Motion Feel:
+  [e.g. Smooth action-driven / Bouncy exaggerated / Slow cinematic / Snappy cut-driven]
+
+- Overall Impression:
+  [One paragraph — what should viewers FEEL when watching? What is the visual "brand" of this project?]
+
+--------------------------------------------------
+TONE:
+[Overall emotional register — e.g. High tension, urgent, dramatic / Dark comedic, absurdist / Warm and nostalgic / Energetic and hype]
+[Detected dominant emotion (auto, for reference): Trust]
+
+--------------------------------------------------
+RENDERING RULES:
+
+- [Rule 1 — e.g. NO TEXT, NO LETTERS, NO SYMBOLIC WORDS in any scene]
+- [Rule 2 — e.g. Story must be conveyed entirely through visuals and expressions]
+- [Rule 3 — e.g. Each scene must have a clear visual conflict or action beat]
+- [Rule 4 — e.g. Only include characters explicitly required in each scene]
+- [Rule 5 — e.g. No background crowd, no unnecessary props]
+- [Add more rules as needed]
+
+--------------------------------------------------
+CHARACTERS (LOCKED):
+
+- Character 1: Kuiper Belt
+  [Physical description — face shape, skin tone, eye style — fill in]
+  [Hair — color #HEX, length, style — fill in]
+  [Default outfit — top, bottom, shoes, accessories — fill in]
+  [Signature trait — what makes them instantly recognizable — fill in]
+  [Expression range — what emotions they show most — fill in]
+
+- Character 2: Authoritative Bloomberg
+  [Physical description — face shape, skin tone, eye style — fill in]
+  [Hair — color #HEX, length, style — fill in]
+  [Default outfit — top, bottom, shoes, accessories — fill in]
+  [Signature trait — what makes them instantly recognizable — fill in]
+  [Expression range — what emotions they show most — fill in]
+
+- Character 3: Nereid
+  [Physical description — face shape, skin tone, eye style — fill in]
+  [Hair — color #HEX, length, style — fill in]
+  [Default outfit — top, bottom, shoes, accessories — fill in]
+  [Signature trait — what makes them instantly recognizable — fill in]
+  [Expression range — what emotions they show most — fill in]
+
+- Character 4: Triton
+  [Physical description — face shape, skin tone, eye style — fill in]
+  [Hair — color #HEX, length, style — fill in]
+  [Default outfit — top, bottom, shoes, accessories — fill in]
+  [Signature trait — what makes them instantly recognizable — fill in]
+  [Expression range — what emotions they show most — fill in]
+
+- Character 5: Voyager
+  [Physical description — face shape, skin tone, eye style — fill in]
+  [Hair — color #HEX, length, style — fill in]
+  [Default outfit — top, bottom, shoes, accessories — fill in]
+  [Signature trait — what makes them instantly recognizable — fill in]
+  [Expression range — what emotions they show most — fill in]
+
+- [Add unnamed characters (narrator, crowd, etc.) here if needed]
+
+--------------------------------------------------
+ENVIRONMENT (GLOBAL):
+
+[Default background / world setting for the entire project]
+[e.g. Minimal clean background, soft gradient sky / Neon-lit urban rooftop / Pastel fantasy kingdom]
+[Note: individual scenes can override this with their own ENVIRONMENT field]
+
+[Detected scene environments (auto, for reference):]
+  - Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+  - Deep space blacks behind, HDR highlights on debris field
+  - Nereid snaps into sharp focus, intact scarred surface drifting alone in eccentric elliptical orbit, isolation emphasized by vast empty space surrounding it
+  - Clean modern lab environment with planetary models on shelves, warm neutral tones, professional academic atmosphere
+  - McDonald Observatory dome silhouette visible through window in soft focus background, warm amber archival lighting
+  - Deep space backdrop remains ink-black, stars pinpoint sharp
+  - Soft neutral warm lighting, clean professional visualization with numerical labels appearing beside major moons
+  - HDR ring lighting creates volumetric glow, warm amber accents on moon surfaces, soft neutral illumination
+  - Soft neutral warm lighting, professional scientific visualization aesthetic
+  - Warm neutral tones, clean scientific visualization showing natural moon formation
+  - Photorealistic 3D orbital diagram of Neptune system in warm amber and soft blue HDR light, Triton's retrograde path highlighted in glowing red trajectory arc curving opposite to blue prograde moon orbits, all paths clearly labeled and rotating methodically in volumetric space
+  - Neptune's equator rendered as horizontal golden grid, Triton's path slicing upward through it at extreme inclination
+
+--------------------------------------------------
+GOAL:
+[Optional — one sentence stating the visual storytelling goal of the entire video]
+[e.g. "Make the audience feel the tension of nuclear deterrence without using any text or narration"]
+
+════════════════════════════════════════════════════════════════
+[END CHARACTERS Description]
+════════════════════════════════════════════════════════════════
+
+
+════════════════════════════════════════════════════════════════
+SCENE PROMPTS
+════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────
+🎬 SCENE 01: Trust — Hook [00:00–00:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+ACTIONS:
+- Neptune's crescent glows deep cobalt against black void, seven tiny inner moons glinting like ice fragments in foreground, Nereid isolated as distant speck far off-axis right
+- Volumetric god-rays pierce through Neptune's limb
+
+CAMERA:
+Wide | Slow push-in
+
+AUDIO:
+- faint ice particles colliding in vacuum
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 02: Trust — Hook [00:08–00:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+ACTIONS:
+- Triton breaks free from Kuiper belt debris field, icy surface catching faint sunlight, trailing volumetric particle wake as Neptune's gravity well bends its trajectory inward
+- Kuiper objects drift in deep focus background
+
+CAMERA:
+Medium | Tracking
+
+AUDIO:
+- ice chunks scraping and tumbling through space
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 03: Trust — Hook [00:16–00:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep space blacks behind, HDR highlights on debris field
+
+ACTIONS:
+- Triton's scarred surface plows through foreground, shockwave ripples outward in volumetric particle burst
+- Original moons scatter as fragmenting bodies, glowing orange impact points
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- thunderous collision impacts, debris ricocheting, deep bass rumble
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 04: Trust — Hook [00:24–00:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+ACTIONS:
+- Moon fragments collide in slow-motion, surfaces fracturing with glowing impact points, debris field expanding outward in volumetric particle clouds
+- HDR highlights on shattered ice catching Neptune's reflected light
+
+CAMERA:
+Extreme Close-up | Pan
+
+AUDIO:
+- rock shattering and ice cracking in rapid succession
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 05: Trust — Hook [00:32–00:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+ACTIONS:
+- Seven small irregular moons coalesce from glowing debris field, fragments accreting through time-compressed simulation, surfaces cooling from orange-hot to icy blue-grey
+- Neptune's limb provides scale in background
+
+CAMERA:
+Wide | Crane
+
+AUDIO:
+- debris grinding and compacting into solid mass
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 06: Trust — Hook [00:40–00:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Nereid snaps into sharp focus, intact scarred surface drifting alone in eccentric elliptical orbit, isolation emphasized by vast empty space surrounding it
+
+ACTIONS:
+- Foreground: chaotic debris field out of focus
+- Background: Nereid snaps into sharp focus, intact scarred surface drifting alone in eccentric elliptical orbit, isolation emphasized by vast empty space surrounding it
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- single object whistling through vacuum
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 07: Trust — Hook [00:48–00:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- four billion years
+
+ACTIONS:
+- JWST golden hexagonal mirror segments catch warm edge lighting, infrared sensor arrays glow amber, spectral data overlay materializes showing primordial composition signatures
+- Volumetric light rays refract through optical elements
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- telescope servos adjusting and locking into position
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 08: Trust — Hook [00:56–01:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+ACTIONS:
+- Nereid's eccentric orbital path traces glowing trajectory line around Neptune over compressed 4 billion years, starfield rotating in deep background, orbital ellipse unchanging
+- Neptune remains constant anchor point
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- orbital path humming through gravitational field
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 09: Trust — Hook [01:04–01:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clean modern lab environment with planetary models on shelves, warm neutral tones, professional academic atmosphere
+
+ACTIONS:
+- Caltech planetary science laboratory interior, HDR volumetric lighting through tall windows casting soft amber glow across workstation
+- Hands rest calmly on desk edge beside open journal showing Neptune system diagrams, posture upright and composed
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- pen tip gliding across paper, pages turning softly
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 10: Trust — Hook [01:12–01:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+McDonald Observatory dome silhouette visible through window in soft focus background, warm amber archival lighting
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 77 years
+
+ACTIONS:
+- Vintage 1949 photographic glass plate held in archival gloved hands under examination light, surface showing faint stellar field with single circled dot marking Nereid's first detection
+- Plate tilts slightly as light rakes across emulsion grain, revealing depth of historical artifact
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- glass plate sliding onto light table, glove fabric brushing surface
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 11: Anticipation — Hook [01:20–01:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep space backdrop remains ink-black, stars pinpoint sharp
+
+ACTIONS:
+- Nereid's cratered surface fills frame, amber side light raking across ancient impact scars, texture resolving as camera advances
+- The moon rotates incrementally, revealing a deep basin half in shadow
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- faint ice cracking, distant micrometeorite impacts on regolith
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 12: Anticipation — Hook [01:28–01:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+ACTIONS:
+- Split-screen composition: left half shows Jupiter's orderly Galilean moons in circular orbits, Saturn's rings and regular satellites, Uranus system in neat formation—all bathed in soft golden light
+- Right half reveals Neptune isolated in deep blue-black void, Nereid's wildly elliptical path traced as glowing amber arc cutting chaotically through frame
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- orbital trajectory data points locking into grid, faint mechanical telescope tracking motor
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 13: Trust — Hook [01:36–01:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Soft neutral warm lighting, clean professional visualization with numerical labels appearing beside major moons
+
+ACTIONS:
+- Jupiter system orbital diagram in 8K detail, 95 moons arranged in concentric rings around gas giant, each satellite following circular path in equatorial plane
+- Volumetric lighting traces orbital trajectories as glowing amber lines, moons moving in synchronized orderly motion
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- orbital mechanics simulation running, satellite position data updating
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 14: Trust — Hook [01:44–01:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+HDR ring lighting creates volumetric glow, warm amber accents on moon surfaces, soft neutral illumination
+
+ACTIONS:
+- Saturn's equatorial plane in cross-section, major moons orbiting in perfectly circular paths aligned with ring system
+- Camera tracks laterally along plane showing Titan, Rhea, Dione in synchronized motion
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- ring particle collisions, satellite telemetry signal beeping
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 15: Trust — Hook [01:52–02:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Soft neutral warm lighting, professional scientific visualization aesthetic
+
+ACTIONS:
+- Protoplanetary disk simulation around young Neptune, glowing amber and gold accretion material swirling in equatorial plane
+- Text overlay 'Regular Moons' materializes in clean sans-serif font
+- Dissolves as camera pushes through disk
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- particle simulation processing, accretion disk material flowing
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 16: Trust — Hook [02:00–02:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm neutral tones, clean scientific visualization showing natural moon formation
+
+ACTIONS:
+- Protoplanetary disk around early Neptune in 8K detail, amber and gold material accreting into proto-moons along equatorial plane
+- Moons emerge from disk in orderly sequence, each settling into circular orbit
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- accretion simulation running, gravitational calculation processing, material condensing
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 17: Trust — Build Up [02:08–02:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Photorealistic 3D orbital diagram of Neptune system in warm amber and soft blue HDR light, Triton's retrograde path highlighted in glowing red trajectory arc curving opposite to blue prograde moon orbits, all paths clearly labeled and rotating methodically in volumetric space
+
+ACTIONS:
+- Photorealistic 3D orbital diagram of Neptune system in warm amber and soft blue HDR light, Triton's retrograde path highlighted in glowing red trajectory arc curving opposite to blue prograde moon orbits, all paths clearly labeled and rotating methodically in volumetric space
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- orbital simulation software mouse clicks, keyboard taps on workstation
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 18: Trust — Build Up [02:16–02:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Neptune's equator rendered as horizontal golden grid, Triton's path slicing upward through it at extreme inclination
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 157 degrees
+
+ACTIONS:
+- Triton's orbital plane tilts dramatically through Neptune's equatorial reference grid, glowing amber trajectory lines carving 157-degree angle through deep blue space
+- Numerical overlay materializes: '157°' in clean sans-serif, floating beside the tilted orbital plane
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- soft digital beep as angle measurement locks into place
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 19: Trust — Build Up [02:24–02:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Photorealistic 3D diagram of Triton's retrograde orbit with glowing red 'X' mark materializing over the path, golden text 'Captured Origin' fading in alongside amber trajectory line extending from distant Kuiper belt region toward Neptune, all rendered in warm HDR with soft volumetric glow
+
+ACTIONS:
+- Photorealistic 3D diagram of Triton's retrograde orbit with glowing red 'X' mark materializing over the path, golden text 'Captured Origin' fading in alongside amber trajectory line extending from distant Kuiper belt region toward Neptune, all rendered in warm HDR with soft volumetric glow
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- digital interface beep, text rendering whoosh, trajectory line drawing sound
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 20: Trust — Build Up [02:32–02:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+NASA mission control visualization lab, deep-space blue ambient light, volumetric data projections floating in darkness, anamorphic lens flare from hologram edges
+
+ACTIONS:
+- Holographic orbital simulation of Triton's capture trajectory, glowing ice-blue path spiraling inward from Kuiper Belt toward Neptune's gravity well, shoulders relaxed, gaze steady on screen
+- Fingers trace the retrograde arc on transparent display as simulation loops through capture phases
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- holographic display click, finger tap on glass surface, projection emitter whir
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 21: Trust — Build Up [02:40–02:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Photorealistic icy Kuiper Belt object drifting in deep space, surface textured with frozen nitrogen and water ice catching soft volumetric sunlight in warm amber and pale blue HDR, second smaller companion body visible in distance, both bodies moving methodically through star field
+
+ACTIONS:
+- Photorealistic icy Kuiper Belt object drifting in deep space, surface textured with frozen nitrogen and water ice catching soft volumetric sunlight in warm amber and pale blue HDR, second smaller companion body visible in distance, both bodies moving methodically through star field
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- ice crystals shifting on surface, faint micrometeorite impacts
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 22: Trust — Build Up [02:48–02:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Photorealistic close-up of Triton approaching Neptune, glowing amber trajectory lines bending sharply around planet's gravitational field shown as warm golden distortion grid in HDR, Triton's surface beginning to deform under tidal stress, volumetric light catching ice plumes venting from surface
+
+ACTIONS:
+- Photorealistic close-up of Triton approaching Neptune, glowing amber trajectory lines bending sharply around planet's gravitational field shown as warm golden distortion grid in HDR, Triton's surface beginning to deform under tidal stress, volumetric light catching ice plumes venting from surface
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- ice cracking under stress, tidal flexing groans, surface fracturing
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 23: Trust — Build Up [02:56–03:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Golden ellipse traces Triton's highly elongated capture orbit around Neptune, stretching far into deep space then diving back inward
+
+ACTIONS:
+- Golden ellipse traces Triton's highly elongated capture orbit around Neptune, stretching far into deep space
+- Diving back inward
+- Neptune centered in frame, deep blue with volumetric atmospheric glow
+
+CAMERA:
+Wide | Tracking
+
+AUDIO:
+- soft whoosh as Triton passes through periapsis
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 24: Trust — Build Up [03:04–03:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep-space visualization chamber, cold blue backlight, golden measurement grid lines, anamorphic bokeh on floating numerals
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 706 kilometers
+
+ACTIONS:
+- Split-frame holographic comparison: Triton's 2,706 km diameter sphere rotating left, Earth's Moon rotating right, scale differential rendered in volumetric light, posture upright, expression focused
+- Hand gestures measure the size gap in mid-air as measurement overlays materialize between the two bodies
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- holographic sphere rotation hum, measurement grid snap, hand gesture whoosh through projection
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 25: Trust — Build Up [03:12–03:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep space backdrop with Neptune's faint blue glow illuminating the scene from below
+
+ACTIONS:
+- Three small icy moonlets in tight formation, surfaces smooth and pristine, reflecting soft blue-white light
+- The moons drift in synchronized orbits, their trajectories traced by faint orbital lines
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- ice crystals shifting, faint orbital hum
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 26: Trust — Build Up [03:20–03:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Soft even lighting reveals Triton's textured surface detail
+
+ACTIONS:
+- Triton dominates the frame in sharp focus, massive cratered surface filling two-thirds of screen, while three tiny moonlets appear as small bright dots in the foreground lower third
+- Scale comparison emphasizes Triton's overwhelming mass
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- deep subsonic rumble, distant ice cracking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 27: Fear — Build Up [03:28–03:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cold 2900K lighting with red accent on impact zone, shadows deepening each second
+
+ACTIONS:
+- First impact moment: Triton's limb clips small moon in slow-motion, surface fractures spiderwebbing outward from contact point, volumetric debris cloud erupting in HDR shockwave
+- The moon's posture shifts from stable to fragmenting, ice shards catching red-orange light as they scatter
+
+CAMERA:
+Close-up | Handheld
+
+AUDIO:
+- deep impact thud, ice shattering, debris scattering across vacuum
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 28: Trust — Build Up [03:36–03:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep blue space, amber grid lines intensify where curvature is steepest, volumetric light traces orbital arcs
+
+ACTIONS:
+- Photorealistic orbital mechanics simulation: three small moons on stable circular paths, gravitational field lines rendered as faint amber wireframe grid warping in real-time
+- Triton's gravity well enters frame right, grid distorts severely, moon trajectories bend and elongate into crossing ellipses
+
+CAMERA:
+Medium | Tracking
+
+AUDIO:
+- metallic orbital resonance tones shifting pitch
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 29: Trust — Build Up [03:44–03:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+A single small moonlet accelerates outward on escape trajectory, Neptune shrinking in background from blue sphere to distant point of light
+
+ACTIONS:
+- A single small moonlet accelerates outward on escape trajectory, Neptune shrinking in background from blue sphere to distant point of light
+- The moon's path traced by faint motion blur against star field
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- whooshing trajectory sound, fading gravitational hum
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 30: Trust — Build Up [03:52–04:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Consistent even light, 3800K, methodical temporal progression
+
+ACTIONS:
+- Debris field coalescing into thin ring around Neptune's equator, thousands of particles spiraling inward in synchronized motion, volumetric dust catching distant sunlight in golden streaks
+- The ring's posture shifts from chaotic cloud to organized disc, time compressed into seconds
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- particle collisions cascading, dust settling into orbital plane, faint ring resonance
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 31: Trust — Build Up [04:00–04:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Even lighting across plane, soft blue ambient from Neptune below, amber accent on label text for readability
+
+ACTIONS:
+- Photorealistic diagram: Neptune's equatorial plane rendered as translucent blue disc, seven small moons positioned in precise orbital slots, each labeled with clean sans-serif text appearing sequentially
+- Labels materialize with subtle glow, moons hold steady positions, diagram maintains clinical documentary clarity
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- digital interface beep for each label appearing
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 32: Surprise — Build Up [04:08–04:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Building reveal lighting, neutral color temperature warming to golden on instruments, flash accent on camera activation
+
+ACTIONS:
+- Voyager 2 spacecraft silhouette passing Neptune's limb on August 25, 1989, golden instrument lights active on camera array, antenna dish tracking the planet
+- The spacecraft's posture is alert and operational, solar panels catching edge light
+
+CAMERA:
+Medium | Crane
+
+AUDIO:
+- spacecraft thruster pulses, camera shutter mechanisms clicking, telemetry transmission beeps
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 33: Trust — Build Up [04:16–04:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Neptune's blue atmosphere fills the lower third of frame, its cloud bands slowly rotating beneath the orderly moon system
+
+ACTIONS:
+- Seven small irregular moons orbit Neptune in perfect circular paths, each moon rendered as a distinct rocky body with visible surface detail, moving in synchronized prograde motion around the planet's equatorial plane
+- The moons trace glowing orbital paths color-coded in soft blues and ambers against the deep black of space, their trajectories forming concentric rings of mathematical precision
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- faint mechanical whir of orbital motion, distant ice cracking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 34: Trust — Build Up [04:24–04:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Particles glow amber as they collide and merge, volumetric dust clouds illuminated by Neptune's reflected light, HDR rendering shows material density increasing as moons form
+
+ACTIONS:
+- Debris disk surrounding Neptune coalescing in time-lapse: thousands of small particles clumping into larger aggregates, dust and ice fragments spiraling inward and accreting into seven distinct proto-moons along the equatorial plane
+- Particles glow amber as they collide and merge, volumetric dust clouds illuminated by Neptune's reflected light, HDR rendering shows material density increasing as moons form
+
+CAMERA:
+Medium | Crane
+
+AUDIO:
+- soft granular impacts of particles colliding, ice crystals clinking together
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 35: Trust — Build Up [04:32–04:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The reformed moons drift into stable circular orbits around Neptune's equator, their paths glowing with soft amber light against deep space blue-black
+
+ACTIONS:
+- A ghosted outline of ancient primordial moons fades from view in the foreground, their irregular shapes dissolving into particle clouds, while in the background seven new reformed moons solidify into sharp focus, their surfaces smooth and freshly coalesced
+- The reformed moons drift into stable circular orbits around Neptune's equator, their paths glowing with soft amber light against deep space blue-black
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- low rumble of settling debris, distant metallic resonance
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 36: Trust — Build Up [04:40–04:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The spacecraft's thrusters emit faint amber glow, mechanical details rendered in 8K clarity—rivets, thermal blankets, instrument booms
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 950 kilometers
+- The spacecraft
+
+ACTIONS:
+- Voyager 2 spacecraft in extreme close-up, golden-hued body panels and dish antenna catching volumetric light from distant sun, approaching Neptune's swirling blue cloud tops visible in background
+- Distance marker '4,950 km' appears as clean white text overlay in lower third
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- faint mechanical whir of gyroscopes, thruster valve clicks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 37: Trust — Build Up [04:48–04:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Walls lined with illuminated mission patches and framed planetary portraits
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Voyager mission
+
+ACTIONS:
+- Golden-hour sunlight streams through mission control windows, casting warm amber glow across vintage consoles displaying Voyager 2 trajectory data
+- Engineer's hands rest confidently on printed mission timeline, finger tracing the Neptune closest-approach arc
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- paper rustling, pen tapping on desk
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 38: Surprise — Build Up [04:56–05:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Lower third shows Triton's surface temperature reading '-235°C' in clean white numerals on black background
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 235 degrees
+
+ACTIONS:
+- Six previously unknown moons appearing sequentially in Voyager's imaging data: each moon materializes as a bright point resolving from noise, labeled with discovery designation
+- Neptune's ring system emerges as faint arcs of backlit particles in upper frame
+
+CAMERA:
+Medium | Crane
+
+AUDIO:
+- data transmission beeps, imaging sensor clicks, telemetry tone pulses
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 39: Trust — Build Up [05:04–05:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Frame right, Voyager's camera pivots toward distant Nereid, visible as a faint irregular speck against black space, distance overlay '4.7 million km' appears in lower third
+
+ACTIONS:
+- Triton's frozen surface in extreme close-up: nitrogen geysers erupting vertically from icy terrain, plumes of vapor shooting upward and dispersing into space, backlit by distant sunlight creating volumetric god-rays through the ejected material
+- Surface texture shows fractured ice plains in 8K detail
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- low rumbling of subsurface pressure release, ice cracking, vapor hissing
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 40: Trust — Build Up [05:12–05:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Distance readout '4.7 million kilometers' overlaid in amber monospace font
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 4.7 million kilometers
+
+ACTIONS:
+- Grainy archival Voyager imaging data displayed as raw sensor output: Nereid appears as a faint, unresolved point of light barely distinguishable from background noise, surrounded by pixel artifacts and scan lines
+- Distance readout '4.7 million kilometers' overlaid in amber monospace font
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- faint static hiss of analog data transmission, tape drive mechanical clicks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 41: Trust — Build Up [05:20–05:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm amber glow from distant Neptune limb barely illuminates the edge of frame, creating soft contrast against void
+
+ACTIONS:
+- Nereid rendered as single bright pixel against deep black space, centered in frame, no visible surface detail or rotation
+- The pixel holds steady, isolated, featureless
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- telescope tracking motor clicking intermittently
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 42: Trust — Build Up [05:28–05:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1
+
+ACTIONS:
+- Elongated ellipse path glowing faint amber against deep blue-black grid, Neptune centered as ice-blue sphere, Nereid's eccentric trajectory traced in golden arc sweeping through volumetric coordinate system
+- Methodical camera push tightens on ellipse geometry
+
+CAMERA:
+Wide | Orbit
+
+AUDIO:
+- soft digital beep of orbital calculation resolving
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 43: Trust — Build Up [05:36–05:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm institutional lighting bathes the exhibit in honey tones, polished floor reflecting the glow
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 37 years
+- No spacecraft
+
+ACTIONS:
+- Archival 1989 Voyager 2 spacecraft model suspended in museum display case, illuminated by warm amber spotlights, brass plaque reading '1989 Neptune Flyby' visible below
+- Camera pushes slowly toward the craft's gold-foil antenna dish, reflecting soft golden light
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- footsteps echoing on polished floor, distant museum ventilation hum
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 44: Trust — Build Up [05:44–05:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep blue-black background, volumetric light rays tracing mathematical path
+
+ACTIONS:
+- Orbital eccentricity value '0.749' materializes in HDR amber holographic text over ellipse diagram, numbers resolving pixel by pixel
+- Camera pushes through transparent data layer toward glowing ellipse geometry
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- digital chime as numerical value locks into place
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 45: Trust — Deep [05:52–06:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1
+
+ACTIONS:
+- Left panel: Nereid at periapsis, close to Neptune's limb with scale bar '1.35M km'
+- Right panel: same moon at apoapsis, Neptune shrunk to distant disk, scale bar '9.62M km'
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- precise mechanical click of measurement calibration
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 46: Trust — Deep [06:00–06:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 1.35 million kilometers
+
+ACTIONS:
+- Orbital diagram on illuminated data screen: Nereid's elliptical path traced in teal, closest approach point marked '1.35M km' glowing bright, Neptune rendered as blue sphere at focus
+- Ruler overlay measures distance, numbers resolving in real-time
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- keyboard key clicks, mouse clicking on screen
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 47: Trust — Deep [06:08–06:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm amber glow from Neptune's limb fades as distance increases, deep space isolation emphasized
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 9.62 million kilometers
+- 360 days
+
+ACTIONS:
+- Nereid receding from Neptune, distance counter on screen overlay incrementing from 1.35M to 9.62M kilometers in teal numerals
+- Neptune shrinks to small blue disk in frame center, Nereid becomes distant speck against black void
+
+CAMERA:
+Medium | Zoom out
+
+AUDIO:
+- digital counter beeping incrementally, single key press
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 48: Trust — Deep [06:16–06:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep blue-black space, volumetric grid faintly visible
+
+ACTIONS:
+- Complete 360-day Nereid orbit compressed into accelerated motion, golden trajectory arc sweeping full ellipse around Neptune
+- Earth year calendar ticks synchronized alongside in teal holographic text: months cycling rapidly
+
+CAMERA:
+Wide | Orbit
+
+AUDIO:
+- rapid digital clock ticking through calendar year
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 49: Trust — Deep [06:24–06:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Each orbit labeled with aphelion/perihelion distances glowing softly
+
+ACTIONS:
+- Orbital mechanics diagram in deep space: circular orbits of Neptune's regular moons (Proteus, Larissa) rendered as smooth blue ellipses, contrasted with Nereid's wild eccentric path—a stretched amber ellipse cutting diagonally across frame
+- Clean infographic aesthetic, volumetric grid lines in teal, 8K HDR clarity
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- data points materializing on holographic display, soft electronic beeps
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 50: Trust — Deep [06:32–06:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep space blacks and blues, teal accent grid marking temporal progression
+
+ACTIONS:
+- Volumetric 4-billion-year rewind sequence: Nereid's current position in outer orbit
+- Time-reversed particle trail glowing amber as moon retraces path inward toward Neptune
+- Kuiper Belt objects (icy bodies, irregular shapes) materialize in background as timeline scrolls backward, labeled 'Capture Origin Hypothesis'
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- digital time-rewind whoosh, particles coalescing
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 51: Trust — Deep [06:40–06:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Graph floats in volumetric space, no background distractions
+
+ACTIONS:
+- Spectral absorption graph center frame: Nereid's spectrum (water ice peaks, neutral material baseline) rendered as glowing teal curve against black grid
+- Red 'MISMATCH' annotation highlights divergence from expected Kuiper Belt signature (faint gray comparison curve beneath)
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- spectral data points locking into graph, soft digital clicks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 52: Trust — Deep [06:48–06:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clinical data journalism aesthetic, 3700K lighting, 8K HDR
+
+ACTIONS:
+- Split-screen spectral comparison: left panel shows Pholus surface (reddish, organic-rich spectrum with distinct absorption features), right panel shows Nereid surface (neutral gray-white, water ice dominated)
+- Each spectrum rendered as glowing curve above corresponding surface texture
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- comparison algorithm processing, soft electronic tones
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 53: Trust — Deep [06:56–07:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Neptune's pale blue sphere faint in background, suggesting unexpected kinship across planetary systems
+
+ACTIONS:
+- Spectral match revelation: Nereid's spectrum (teal glowing curve) overlays perfectly with Uranus moons Titania and Umbriel (amber curves beneath)
+- Overlapping regions glow green, indicating compositional match
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- spectral curves aligning, harmonic resonance tone
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 54: Trust — Deep [07:04–07:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Faint Neptune in background, Nereid as indistinct smudge
+
+ACTIONS:
+- Ground-based telescope imagery: blurry, low-resolution Nereid observation, heavily pixelated, insufficient spectral detail
+- Image center frame, surrounded by 'INSUFFICIENT RESOLUTION' annotations in red
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- telescope tracking motors whirring, atmospheric distortion static
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 55: Joy — Deep [07:12–07:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+JWST's sunshield unfurls subtly in background, golden foil catching edge light
+
+ACTIONS:
+- JWST golden hexagonal mirror array rotates into frame, each segment catching warm amber light
+- NIRSpec instrument activates, infrared sensors glowing teal
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- JWST mirror segments locking into alignment, mechanical precision clicks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 56: Trust — Deep [07:20–07:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Voyager panel labeled 'Flyby 1989: Limited Data', JWST panel labeled 'JWST 2023: Definitive Spectrum'
+
+ACTIONS:
+- Side-by-side data comparison: left panel shows 1989 Voyager 2 Nereid image (grainy, low-resolution, monochrome), right panel shows 2020s JWST near-infrared spectrum (sharp, high-resolution, color-coded absorption features)
+- Sharp HDR contrast, 3700K teal accent
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- data upgrade processing, digital transformation chime
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 57: Trust — Deep [07:28–07:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Authoritative Bloomberg-style lighting, 3700K teal accent illuminating the screen from below, HDR amber glow on graph peaks
+
+ACTIONS:
+- JWST spectral readout display centered in frame, absorption line graph resolving with precise data points locking into place, composition percentages materializing in clean sans-serif type
+- Authoritative Bloomberg-style lighting, 3700K teal accent illuminating the screen from below, HDR amber glow on graph peaks
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- keyboard keys clicking, mouse clicking, hard drive spinning
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 58: Trust — Deep [07:36–07:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Modern research facility environment, soft authoritative lighting, 3700K teal accent illuminating screen edges
+
+ACTIONS:
+- Spectral analysis graph on high-resolution display, data curves in teal and white resolving into distinct peaks, one curve highlighted and separated from cluster
+- Graph occupies center frame, clean scientific visualization with precise labels
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- mouse clicking on screen, keyboard tapping twice
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 59: Trust — Deep [07:44–07:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Authoritative teal-accented lighting bathes the formation sequence, 3700K color temperature rendering the ancient process with documentary precision
+
+ACTIONS:
+- Primordial Neptune nebula disk at center frame, swirling protoplanetary material coalescing in slow motion
+- Nereid forms in situ from accreting particles, growing from dust grain to moonlet within the natal disk 4.5 billion years ago
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- particle impacts, gas whoosh, accretion disk rumble
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 60: Trust — Deep [07:52–08:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Authoritative teal-accented lighting, 3700K color temperature rendering the moon's surface with clinical precision
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 4.5 billion years
+
+ACTIONS:
+- Nereid's ancient cratered surface in extreme 8K detail, center frame
+- Timescale overlay materializes: '4.5 billion years' resolves in crisp typography against the scarred terrain
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- data readout beep, timestamp lock tone, display refresh click
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 61: Anticipation — Deep [08:00–08:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+NASA mission control environment bathed in golden instrument glow, data screens casting warm reflections across polished surfaces
+
+ACTIONS:
+- Holographic orbital simulation materializes in warm amber light, elliptical path glowing softly as it traces Triton-sized body's eccentric trajectory around Neptune's luminous sphere
+- Scientist's hand gestures through the volumetric projection, fingers following the elongated orbit with focused precision
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- holographic interface hum, soft projection flicker, fingertip tracing through light field
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 62: Anticipation — Deep [08:08–08:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Research visualization environment, dramatic amber glow at 3300K, HDR highlights on orbital path
+
+ACTIONS:
+- Holographic orbital simulation materializing in center frame, amber light trails forming elongated elliptical path around Neptune's blue sphere, trajectory lines building outward in volumetric space
+- Simulation occupies frame center, mathematical precision in glowing geometry
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- hologram emitter clicking on, light particles crackling into formation
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 63: Trust — Deep [08:16–08:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Authoritative Bloomberg-style lighting, 3700K teal accent on Neptune, HDR amber stress indicators
+
+ACTIONS:
+- Orbital simulation view: tight formation of inner moons (small spheres) orbiting Neptune in concentric paths, gravitational stress lines visible as pulsing volumetric distortions in teal and amber, orbital paths beginning to warp and intersect
+- Authoritative Bloomberg-style lighting, 3700K teal accent on Neptune, HDR amber stress indicators
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- gravitational wave detector pulsing, orbital mechanics calculation beeping, tension cable vibrating
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 64: Trust — Deep [08:24–08:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Authoritative teal-accented lighting, 3700K color temperature rendering the destruction with clinical precision
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- million years
+
+ACTIONS:
+- Time-compressed simulation: inner moons collide in chain reaction at center frame, impact flashes erupting in sequence
+- Debris fields expand outward in accelerated time, system disintegrating over million-year span compressed into seconds
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- collision impacts, debris scatter, structural breakup cracks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 65: Trust — Deep [08:32–08:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep-space laboratory environment, 8K HDR volumetric lighting, teal accent glow on orbital boundary, authoritative documentary atmosphere
+
+ACTIONS:
+- Neptune's outer orbital zone rendered as volumetric holographic diagram, cooler blue gradient demarcating weaker gravitational influence, small irregular moon drifting outward along trajectory arc, posture calm and methodical
+- Moon crosses threshold from inner chaotic zone to outer safe zone, trajectory line extending toward frame edge
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- trajectory line tracing across holographic surface, faint mechanical click as boundary threshold is crossed
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 66: Trust — Deep [08:40–08:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR with volumetric light rays marking the ejection vector, anamorphic 2.39:1
+
+ACTIONS:
+- Nereid's orbital path suddenly elongates in real-time simulation playback, circular orbit warping into extreme ellipse as gravitational slingshot effect propels the moon outward
+- Inner collision zone glows red with debris clouds, outer trajectory traced in cool blue safety
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- orbital mechanics calculation clicks, trajectory plotting beeps
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 67: Trust — Deep [08:48–08:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Split-screen composition: left half shows Nereid's current elongated orbit glowing in teal against black space, right half displays shattered debris field of destroyed inner moons rendered as fragmented rock clusters
+
+ACTIONS:
+- Split-screen composition: left half shows Nereid's current elongated orbit glowing in teal against black space, right half displays shattered debris field of destroyed inner moons rendered as fragmented rock clusters
+- Volumetric HDR lighting emphasizes the stark contrast between survival and annihilation
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- debris field simulation crackling, orbital data stream processing
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 68: Trust — Deep [08:56–09:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Neptune centered, moon's path extending to frame edges in exaggerated eccentricity visualization
+
+ACTIONS:
+- Nereid's full elliptical orbit traced as glowing trajectory line stretching across the frame in extreme elongation, periapsis and apoapsis marked with luminous nodes
+- Neptune centered, moon's path extending to frame edges in exaggerated eccentricity visualization
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- orbital parameter calculation tones, eccentricity measurement beeps
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 69: Trust — Deep [09:04–09:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Eccentricity value e=0.75 renders as glowing numerical overlay, orbital path diagram rotates into view showing escape trajectory
+
+ACTIONS:
+- Orbital mechanics data visualization dissolves from 'capture hypothesis' graphics (fading red) into 'ejection model' schematics (emerging amber HDR glow)
+- Eccentricity value e=0.75 renders as glowing numerical overlay, orbital path diagram rotates into view showing escape trajectory
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- data model transition processing, hypothesis recalculation clicks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 70: Trust — Deep [09:12–09:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, HDR with amber energy glow against deep blue void, anamorphic 2.39:1
+
+ACTIONS:
+- Slow-motion simulation fragment: Nereid at the precise moment of gravitational ejection, circular orbit visibly warping into ellipse as volumetric shockwave ripples outward in 8K detail
+- Moon frozen mid-trajectory with motion blur trails, orbital path deforming in real-time physics render
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- gravitational wave simulation rumble, orbital disruption impact
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 71: Trust — Deep [09:20–09:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K volumetric lighting, 2.39:1 aspect ratio
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Four billion years
+
+ACTIONS:
+- Present-day Neptune system rendered in full: planet centered in deep blue HDR, Triton in close retrograde orbit, regular satellites in neat circular paths, and Nereid's wildly eccentric ellipse standing out as the sole anomaly traced in contrasting teal light
+- All moons labeled with orbital parameters
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- orbital tracking system beeps, satellite position updates
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 72: Trust — Deep [09:28–09:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep-space HDR environment, 8K volumetric lighting, teal accent on Triton's limb, authoritative documentary tone
+
+ACTIONS:
+- Triton dominates foreground in cold blue-white, scarred irregular moons scattered across mid-ground in chaotic orbital planes, Neptune's faint crescent edge-lit in background, posture stable and authoritative
+- Orbital paths rendered as faint arcs crossing at oblique angles, disrupted architecture evident in non-coplanar geometry
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- orbital path lines materializing with soft electronic trace, distant satellite position markers pinging into view
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 73: Trust — Deep [09:36–09:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Quiet university office, afternoon light through window, teal accent on desk lamp, authoritative documentary atmosphere
+
+ACTIONS:
+- Planetary scientist at University of Leicester desk, shoulders relaxed, hands resting on open research journal, calm focused expression
+- Reviewing published Neptune system disruption models, annotated diagrams visible on desk
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- pages turning, pen tapping paper
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 74: Trust — Deep [09:44–09:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clean modern research facility bathed in warm 3700K lighting with teal accent panels, atmosphere of quiet discovery and intellectual trust
+
+ACTIONS:
+- Warm amber holographic projection of Neptune's moon system floats in bright laboratory space, soft golden light illuminating reconstructed orbital paths as glowing rings
+- Scientist's hand gestures confidently through the luminous display, fingers tracing stable circular orbits with calm precision
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- holographic interface beeps, finger taps on glass display
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 75: Trust — Deep [09:52–10:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Mission control data analysis room, teal accent lighting on monitor edges, authoritative Bloomberg-style atmosphere
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 210 miles
+
+ACTIONS:
+- JWST spectral data visualization on high-resolution monitor, Nereid's 210-mile diameter sphere rendered in scale comparison against Earth's Moon, size differential clear
+- Hands steady on keyboard, data annotation in progress, calm methodical posture
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- keyboard clicking, mouse clicking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 76: Trust — Deep [10:00–10:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Observatory dome interior, night observation session, teal accent on instrument panel, HDR contrast emphasizing detection difficulty
+
+ACTIONS:
+- Ground-based telescope view through eyepiece, Neptune bright in center frame, overwhelming glare, Nereid barely visible as faint point of light lost in scattered light halo
+- Astronomer's hands adjusting focus knobs, shoulders tense with concentration, expression focused on elusive target
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- telescope motor whirring, focus knob clicking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 77: Trust — Deep [10:08–10:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clean exhibition space with polished floors reflecting amber light, atmosphere of historical achievement and documented trust
+
+ACTIONS:
+- Vintage Voyager 2 spacecraft model illuminated by warm museum spotlight against bright cream wall, golden 3700K light casting soft shadows
+- Archival 1989 mission patch and flight trajectory diagram mounted beside it, colors faded to warm sepia tones
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- camera shutter clicks, paper rustling, display case latch opening
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 78: Trust — Deep [10:16–10:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Data analysis workstation, teal accent on monitor bezels, authoritative documentary atmosphere, pre-JWST era constraints visualized
+
+ACTIONS:
+- Scientific data dashboard with empty fields, blank spectral charts labeled 'No Data', missing rotation period readout, featureless light curve flatline
+- Researcher's hands hovering over keyboard, shoulders slightly slumped, expression reflecting knowledge gap, calm acceptance of limitations
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- keyboard spacebar tapping, mouse clicking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 79: Trust — Deep [10:24–10:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+University library archive room, afternoon light, teal accent on desk lamp, authoritative documentary atmosphere, decades of research visualized
+
+ACTIONS:
+- Archival research paper montage on desk, Triton featured prominently in title and images, Nereid mentioned only in small footnote text at bottom of page, visual hierarchy clear
+- Librarian's hands placing papers in chronological stack, posture methodical and archival, calm documentation mood
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- paper stacking, pages sliding
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 80: Trust — Deep [10:32–10:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Mission control data center, teal accent lighting on multiple monitors, HDR volumetric atmosphere, breakthrough moment visualized
+
+ACTIONS:
+- JWST spectral data streams flooding high-resolution display, compositional analysis graphs resolving in real-time, orbital mechanics visualization overlaying Nereid's trajectory, data elevation from footnote to revelation
+- Scientist's hands gesturing toward screen, shoulders lifted with discovery posture, calm authoritative expression
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- data processing beeps, hard drive spinning
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 81: Trust — Deep [10:40–10:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep space backdrop with distant Neptune crescent visible at frame edge
+
+ACTIONS:
+- Nereid's ancient cratered surface fills frame, ice crystals glinting under raking volumetric sunlight at 3700K with teal accent
+- The moon's scarred terrain shows geological permanence, craters and ridges frozen in time
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- ice crystals settling on surface
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 82: Trust — Deep [10:48–10:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep space visible through gaps between mirror segments, emphasizing isolation
+
+ACTIONS:
+- JWST's golden hexagonal mirror segments in sharp focus, mission elapsed time display counting upward in amber numerals overlaid at lower third
+- Instrument panel shows cryocooler status indicators, finite fuel gauge at 68% capacity
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- cryocooler pump cycling, relay clicks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 83: Trust — Deep [10:56–11:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep space blacks transition to warm amber monitor glow
+
+ACTIONS:
+- Split-screen composition: left half shows James Webb Space Telescope in high orbit, solar array catching edge light, gold mirrors reflecting starfield
+- Right half shows research laboratory, three scientists at workstations with multiple monitors displaying spectral data curves and orbital mechanics simulations, posture upright and focused, hands resting on keyboards
+- Golden particle streams of data flow diagonally from JWST frame into lab frame, connecting both halves
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- rapid keyboard typing, mouse clicks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 84: Trust — Deep [11:04–11:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, 3700K teal accent
+
+ACTIONS:
+- Time-lapse compression of JWST sunshield deployment: five layers unfurling in accelerated motion, each membrane snapping taut with precision
+- Nereid's elliptical orbital path overlaid as glowing trajectory line converging with JWST's observation window
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- deployment mechanism ratchet clicks, membrane snapping taut
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 85: Trust — Deep [11:12–11:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep space 8K HDR with 3700K teal accent
+
+ACTIONS:
+- Neptune system in foreground with Nereid visible as bright speck, camera reveals Jupiter's banded atmosphere in mid-ground, Saturn's rings in distant background, all connected by volumetric light rays suggesting gravitational relationships
+- Deep space 8K HDR with 3700K teal accent
+
+CAMERA:
+Wide | Zoom out
+
+AUDIO:
+- none
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 86: Trust — Deep [11:20–11:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, 3700K teal accent, anamorphic 2.39:1
+
+ACTIONS:
+- Jupiter's swirling polar vortex in center, irregular moon swarm in foreground with data tags labeling each captured object (Himalia, Elara, Pasiphae)
+- Moons show varied colors and textures indicating diverse origins
+
+CAMERA:
+Medium | Orbit
+
+AUDIO:
+- data tag notification pings, soft electronic tones
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 87: Trust — Deep [11:28–11:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The moon rotates gently, revealing its asymmetric shape against Saturn's pale crescent in soft focus background
+
+ACTIONS:
+- Phoebe's irregular, cratered surface fills frame in warm golden-hour sunlight, its dark regolith textured with ancient impact scars
+- The moon rotates gently, revealing its asymmetric shape against Saturn's pale crescent in soft focus background
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- faint mechanical whir of spacecraft instruments
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 88: Trust — Payoff [11:36–11:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm 4000K edge lighting on Neptune's limb symbolizing knowledge illuminating mystery
+
+ACTIONS:
+- Neptune isolated in frame with orbital diagram overlay: ghosted original moon system (multiple small regular orbits) fading out, replaced by current system dominated by Triton's large retrograde path cutting through frame
+- Warm 4000K edge lighting on Neptune's limb symbolizing knowledge illuminating mystery
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- none
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 89: Trust — Payoff [11:44–11:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+deep space backdrop, Neptune's blue crescent providing warm edge light, HDR contrast between ice and void
+
+ACTIONS:
+- Triton's massive ice surface fills frame, scarred and cratered, subtle backward-motion arrow graphic overlaid in soft blue HUD style
+- Posture: moon itself as subject, tilted retrograde axis visible against Neptune's crescent glow in background
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- ice sheet cracking, orbital mechanics clicking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 90: Trust — Payoff [11:52–12:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Nereid, scarred primordial moon, half-lit in golden edge light against deep space black
+
+ACTIONS:
+- Nereid, scarred primordial moon, half-lit in golden edge light against deep space black
+- Surface pocked with ancient impact craters, eccentric orbit traced as glowing elliptical path stretching far from Neptune
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- single faint thruster pulse echo, ice settling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 91: Trust — Payoff [12:00–12:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Neptune's blue crescent looms in background
+
+ACTIONS:
+- Volumetric particle simulation: Nereid positioned closer to Neptune, Triton's gravitational shockwave shatters it into cascading ice fragments
+- Explosion rendered in 8K HDR with anamorphic lens flares, debris field expanding in slow motion, each fragment catching warm backlight
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- ice shattering in layers, debris cascading outward
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 92: Trust — Payoff [12:08–12:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+vast black space, Neptune shrinking in background, warm amber sunlight grazing moon's leading edge, HDR glow on ice
+
+ACTIONS:
+- Nereid as small irregular moon tumbling through deep space, ejection trajectory line fading behind it in faint golden particle trail
+- Posture: moon itself as subject, tumbling end-over-end, scarred surface catching distant sunlight
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- tumbling impacts on surface, ejection debris scattering
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 93: Trust — Payoff [12:16–12:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Neptune rotates in background, gravitational field lines visible as subtle HDR gradients
+
+ACTIONS:
+- Holographic orbital diagram materializes in volumetric light: Nereid's actual elliptical orbit glowing amber, suspended between two translucent boundary spheres—inner destruction zone (red), outer ejection threshold (blue)
+- Moon's path threads the narrow safe corridor
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- none
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 94: Trust — Payoff [12:24–12:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm 4000K edge light on monitor bezel, deep space black background, volumetric light rays catching floating dust motes in observation room
+
+ACTIONS:
+- JWST near-infrared spectrograph display filling frame, shoulders relaxed in quiet certainty, wavelength peaks and absorption lines materializing across dark screen in golden HDR glow
+- Spectral data resolving into composition readout, cursor highlighting Kuiper Belt comparison mismatch
+- Neptune formation zone match
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- data relay beeps, hard drive spin, cursor clicks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 95: Trust — Payoff [12:32–12:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Rack focus from spectral signature (foreground, golden glow highlighting specific absorption line confirming primordial water ice) to Nereid thumbnail (background, half-lit surface resolving into sharp detail)
+
+ACTIONS:
+- Rack focus from spectral signature (foreground, golden glow highlighting specific absorption line confirming primordial water ice) to Nereid thumbnail (background, half-lit surface resolving into sharp detail)
+- 8K HDR captures molecular-level data visualization transitioning to photorealistic moon surface
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- confirmation tone sustaining
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 96: Trust — Payoff [12:40–12:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Simulation transitions from wireframe to photorealistic 8K HDR render, warm 4000K glow on screen surface, volumetric light shafts in darkened visualization lab
+
+ACTIONS:
+- Computer simulation render materializing on large curved display, posture upright with hands resting confidently on desk edge, primordial moon network orbiting Neptune in wireframe blue before Triton's arrival
+- Collision event triggers, trajectories calculate in real-time, Nereid's path ejecting into eccentric orbit shown in golden arc against deep space black
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- simulation processing fan hum, keyboard enter key, orbital calculation beeps
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 97: Trust — Payoff [12:48–12:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm 4000K lighting casts soft shadows across the paper texture, volumetric light catching dust motes above the journal
+
+ACTIONS:
+- Science Advances journal cover (May 20, 2026 issue) centered in frame, title text sharp and legible under warm amber desk lamp
+- Camera advances steadily toward the publication as pages turn gently, revealing Nereid observation data tables and spectral graphs on interior spreads
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- page turning, paper rustling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 98: Trust — Payoff [12:56–13:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Holographic Neptune system diagram floating in mission control space, warm amber volumetric light rays cutting through
+
+ACTIONS:
+- Holographic Neptune system diagram floating in mission control space, warm amber volumetric light rays cutting through
+- Translucent question mark icons hover over empty orbital paths where primordial moons once existed, pulsing softly with uncertainty
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- holographic interface clicks, data stream pulses
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 99: Anticipation — Payoff [13:04–13:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+8K HDR, volumetric lighting, cinematic photorealistic NASA documentary aesthetic
+
+ACTIONS:
+- Split-screen anamorphic 2.39:1: Nereid (left half) and tiny irregular Halimede (right half) both gray and neutral-toned, surfaces matching in texture
+- Dotted golden trajectory line connects them across the divide, suggesting shared origin
+
+CAMERA:
+Medium | Zoom out
+
+AUDIO:
+- trajectory calculation beeps, orbital resonance tone
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 100: Trust — Payoff [13:12–13:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm 4000K lighting reveals surface detail, volumetric dust particles suspended in space
+
+ACTIONS:
+- Halimede's irregular, fractured surface fills frame, gray neutral coloration matching Nereid's composition
+- Translucent overlay of Nereid's surface texture aligns perfectly with Halimede's features, demonstrating compositional match
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- surface scan beeps, spectral match confirmation tone
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 101: Trust — Payoff [13:20–13:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm 4000K edge lighting highlights layer boundaries, soft HDR glow on ice crystals, deep space black background
+
+ACTIONS:
+- 8K cross-section cutaway of Nereid's internal structure: translucent ice shell in pale blue-white, rocky core in warm ochre, layered composition floating in warm amber volumetric light
+- Cutaway rotates slowly, revealing internal geology with scientific precision
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- ice cracking softly, rock grinding, structural scan clicks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 102: Trust — Payoff [13:28–13:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Modern ground-based telescope dome visible through window in soft focus background, warm sunset light
+
+ACTIONS:
+- Vintage 1989 CRT monitor displaying Voyager 2 Neptune encounter data, warm amber phosphor glow illuminating the frame
+- Mission elapsed time counter ticks forward in chunky green digits
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- CRT static crackle, tape drive mechanical clicking, telemetry beep sequence
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 103: Trust — Payoff [13:36–13:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm 4000K edge lighting on metal, soft HDR bloom on gold surfaces, volumetric light rays
+
+ACTIONS:
+- Split-screen anamorphic 2.39:1: left half shows Hubble Space Telescope's golden solar arrays and aperture door opening, right half shows JWST's hexagonal gold mirror segments unfolding, both instruments glowing warm amber against deep space black
+- Mechanisms move with precision, light reflecting off polished surfaces
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- servo motors whirring, mirror actuators clicking, aperture iris opening
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 104: Trust — Payoff [13:44–13:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Sun rendered as distant pinpoint of light in deep black space (left edge of frame)
+
+ACTIONS:
+- Sun rendered as distant pinpoint of light in deep black space (left edge of frame)
+- Volumetric light ray travels 4.5 billion kilometers across frame to Nereid (center), reflects off the moon's gray surface, and continues to JWST (right edge)
+
+CAMERA:
+Wide | Slow push-in
+
+AUDIO:
+- photon travel whoosh (stylized), detector click, data packet arrival tone
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 105: Trust — Payoff [13:52–14:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary aesthetic, warm 4000K edge lighting reveals geological patience
+
+ACTIONS:
+- Nereid's ancient cratered surface fills frame in 8K HDR detail, primordial ice composition markers glowing softly in golden volumetric light
+- Spectral analysis overlay resolves across terrain, highlighting water ice signatures and impact scars
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- data confirmation chime, spectral analysis processing clicks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 106: Trust — Payoff [14:00–14:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Nereid traces its elongated elliptical orbit around Neptune in time-compressed motion, glowing trajectory line visualized in volumetric HDR light against deep space
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- four billion years
+
+ACTIONS:
+- Nereid traces its elongated elliptical orbit around Neptune in time-compressed motion, glowing trajectory line visualized in volumetric HDR light against deep space
+- The moon sweeps from distant aphelion to close perihelion, eccentric path rendered as luminous arc
+
+CAMERA:
+Wide | Orbit
+
+AUDIO:
+- orbital resonance hum, time-lapse trajectory whoosh
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 107: Trust — Payoff [14:08–14:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Camera moves deliberately across primordial surface features, warm 4000K edge lighting emphasizes timeless preservation
+
+ACTIONS:
+- Nereid's cratered terrain in 8K detail, ancient impact scars and fracture lines holding geological memory
+- Volumetric sunlight rakes across ice formations at low angle, revealing texture and depth
+
+CAMERA:
+Extreme Close-up | Static
+
+AUDIO:
+- ice microcracking, thermal expansion pops
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 108: Trust — Payoff [14:16–14:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Trajectory calculations resolve on-screen as the ellipse completes, perihelion and aphelion distances highlighting the impossible geometry
+
+ACTIONS:
+- Orbital mechanics visualization: Nereid's elongated ellipse traced in glowing golden line against Neptune's circular reference orbit
+- The extreme eccentricity renders in HDR volumetric light, mathematical proof of violent origin
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- orbital calculation beeps, trajectory plotting servo clicks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 109: Trust — Payoff [14:24–14:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The moon moves with geological patience through deep space, silent witness to deep time
+
+ACTIONS:
+- Nereid drifts slowly frame-right in foreground, half-lit cratered surface in 8K detail, carrying four-billion-year story across frame
+- Neptune's azure disk glows softly behind, star field beyond
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- single faint spacecraft thruster pulse
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+════════════════════════════════════════════════════════════════
+[END SCENE PROMPTS]
+════════════════════════════════════════════════════════════════
