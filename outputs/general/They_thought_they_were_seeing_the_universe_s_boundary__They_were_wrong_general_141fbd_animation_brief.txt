@@ -1,0 +1,1936 @@
+════════════════════════════════════════════════════════════════
+[CHARACTERS Description]
+════════════════════════════════════════════════════════════════
+
+PROJECT: They_thought_they_were_seeing_the_universe_s_boundary__They_were_wrong
+
+RATIO: 16:9
+
+--------------------------------------------------
+STYLE (DETAILED - MANDATORY):
+
+- Style Directive: Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1
+
+- Medium: Live-action / Cinematic
+
+- Visual Style:
+  - Photorealistic textures with accurate material response
+  - Observational documentary framing — restrained and credible
+  - Cinematic composition with depth and motivated framing
+  - Anamorphic 2.39:1 framing language adapted to delivery ratio
+  - 8K capture-grade detail with deep blacks and clean highlights
+  - HDR contrast — preserved highlights, nuanced shadows
+
+- Character Design:
+  Semi-realistic figures
+
+- Materials & Textures:
+  [e.g. Flat colors only / Cel-shaded with soft shadow / Painterly with visible brushwork]
+
+- Lighting:
+  Volumetric lighting with visible light shafts
+
+- Color Palette:
+  [Define color roles — e.g. Red = danger, Yellow = energy, Blue = calm, Black outline for clarity]
+
+- Rendering Quality:
+  [e.g. Crisp, clean, high-definition / Slightly grainy retro / Hyper-smooth anime-style]
+
+- Motion Feel:
+  [e.g. Smooth action-driven / Bouncy exaggerated / Slow cinematic / Snappy cut-driven]
+
+- Overall Impression:
+  [One paragraph — what should viewers FEEL when watching? What is the visual "brand" of this project?]
+
+--------------------------------------------------
+TONE:
+[Overall emotional register — e.g. High tension, urgent, dramatic / Dark comedic, absurdist / Warm and nostalgic / Energetic and hype]
+[Detected dominant emotion (auto, for reference): Trust]
+
+--------------------------------------------------
+RENDERING RULES:
+
+- [Rule 1 — e.g. NO TEXT, NO LETTERS, NO SYMBOLIC WORDS in any scene]
+- [Rule 2 — e.g. Story must be conveyed entirely through visuals and expressions]
+- [Rule 3 — e.g. Each scene must have a clear visual conflict or action beat]
+- [Rule 4 — e.g. Only include characters explicitly required in each scene]
+- [Rule 5 — e.g. No background crowd, no unnecessary props]
+- [Add more rules as needed]
+
+--------------------------------------------------
+CHARACTERS (LOCKED):
+
+- Character 1: Gobi Desert
+  [Physical description — face shape, skin tone, eye style — fill in]
+  [Hair — color #HEX, length, style — fill in]
+  [Default outfit — top, bottom, shoes, accessories — fill in]
+  [Signature trait — what makes them instantly recognizable — fill in]
+  [Expression range — what emotions they show most — fill in]
+
+- Character 2: Hong Kong
+  [Physical description — face shape, skin tone, eye style — fill in]
+  [Hair — color #HEX, length, style — fill in]
+  [Default outfit — top, bottom, shoes, accessories — fill in]
+  [Signature trait — what makes them instantly recognizable — fill in]
+  [Expression range — what emotions they show most — fill in]
+
+- Character 3: Damaged Shenzhou
+  [Physical description — face shape, skin tone, eye style — fill in]
+  [Hair — color #HEX, length, style — fill in]
+  [Default outfit — top, bottom, shoes, accessories — fill in]
+  [Signature trait — what makes them instantly recognizable — fill in]
+  [Expression range — what emotions they show most — fill in]
+
+- Character 4: Zhu Yangzhu
+  [Physical description — face shape, skin tone, eye style — fill in]
+  [Hair — color #HEX, length, style — fill in]
+  [Default outfit — top, bottom, shoes, accessories — fill in]
+  [Signature trait — what makes them instantly recognizable — fill in]
+  [Expression range — what emotions they show most — fill in]
+
+- Character 5: Zhang Zhiyuan
+  [Physical description — face shape, skin tone, eye style — fill in]
+  [Hair — color #HEX, length, style — fill in]
+  [Default outfit — top, bottom, shoes, accessories — fill in]
+  [Signature trait — what makes them instantly recognizable — fill in]
+  [Expression range — what emotions they show most — fill in]
+
+- Character 6: Tiangong
+  [Physical description — face shape, skin tone, eye style — fill in]
+  [Hair — color #HEX, length, style — fill in]
+  [Default outfit — top, bottom, shoes, accessories — fill in]
+  [Signature trait — what makes them instantly recognizable — fill in]
+  [Expression range — what emotions they show most — fill in]
+
+- [Add unnamed characters (narrator, crowd, etc.) here if needed]
+
+--------------------------------------------------
+ENVIRONMENT (GLOBAL):
+
+[Default background / world setting for the entire project]
+[e.g. Minimal clean background, soft gradient sky / Neon-lit urban rooftop / Pastel fantasy kingdom]
+[Note: individual scenes can override this with their own ENVIRONMENT field]
+
+[Detected scene environments (auto, for reference):]
+  - Vast empty desert stretching to curved Earth horizon, cool blue pre-dawn light washing over sand dunes and distant mountains
+  - Launch pad infrastructure rendered in warm amber light against cool blue shadows, volumetric god rays piercing through vapor clouds, anamorphic lens flares catching metal edges
+  - Shallow depth of field isolates numerals as they flip with mechanical precision, reflections dancing across glossy control panel surface
+  - Three helmeted astronauts seated in Shenzhou capsule interior, center figure's visor reflecting instrument glow, posture calm and focused
+  - Volumetric atmosphere creates depth layers from foreground pad to distant mountain range, anamorphic flares catching rocket's white body
+  - Hands clasped formally at sides, posture conveying trust and readiness, subtle volumetric haze in background
+  - Soft 3-point lighting creates volumetric glow around helmet rim, background softly out of focus showing blurred equipment racks
+  - Golden amber city lights creating warm glow against cool twilight blues, creating emotional contrast of departure and belonging
+  - Clean laboratory environment with soft overhead fluorescents, stainless steel surfaces reflecting neutral warm light
+  - Volumetric dust particles suspended in facility light, steel and glass architecture of centrifuge chamber, cool industrial blues warming to amber as rotation begins
+  - Soft key light from conference room windows, neutral warm color temperature, professional event atmosphere
+  - Professional event environment with neutral warm tones, shallow depth of field isolating each keyboard in turn
+
+--------------------------------------------------
+GOAL:
+[Optional — one sentence stating the visual storytelling goal of the entire video]
+[e.g. "Make the audience feel the tension of nuclear deterrence without using any text or narration"]
+
+════════════════════════════════════════════════════════════════
+[END CHARACTERS Description]
+════════════════════════════════════════════════════════════════
+
+
+════════════════════════════════════════════════════════════════
+SCENE PROMPTS
+════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────
+🎬 SCENE 01: Trust — Hook [00:00–00:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Vast empty desert stretching to curved Earth horizon, cool blue pre-dawn light washing over sand dunes and distant mountains
+
+ACTIONS:
+- Shenzhou capsule silhouetted against pre-dawn Gobi Desert horizon, volumetric light rays piercing thin atmosphere, steel-gray launch tower standing resolute
+- Rocket exhaust plume beginning to glow faint orange at base, incomplete ignition sequence creating visual tension
+
+CAMERA:
+Wide | Crane
+
+AUDIO:
+- rocket engine ignition rumble building, metal stress creaking, hydraulic hiss
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 02: Trust — Hook [00:08–00:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Launch pad infrastructure rendered in warm amber light against cool blue shadows, volumetric god rays piercing through vapor clouds, anamorphic lens flares catching metal edges
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 340 kilometers
+- Jiuquan Satellite
+- Shenzhou spacecraft
+
+ACTIONS:
+- Jiuquan Satellite Launch Center gantry tower at golden hour, posture upright and resolute
+- Frost vapor streams off rocket body as final fueling completes, service arms retracting in synchronized mechanical ballet
+
+CAMERA:
+Medium | Tilt
+
+AUDIO:
+- hydraulic arm retraction, pressurized gas venting, metal-on-metal clamps releasing
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 03: Trust — Hook [00:16–00:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Shallow depth of field isolates numerals as they flip with mechanical precision, reflections dancing across glossy control panel surface
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 340 kilometers
+- Jiuquan Satellite
+- Shenzhou spacecraft
+
+ACTIONS:
+- Mission clock LED display counting final ten seconds to zero, digits glowing cool cyan against black background
+- Shallow depth of field isolates numerals as they flip with mechanical precision, reflections dancing across glossy control panel surface
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- digital beep on each second transition, relay clicks inside panel, cooling fan whir
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 04: Trust — Hook [00:24–00:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Three helmeted astronauts seated in Shenzhou capsule interior, center figure's visor reflecting instrument glow, posture calm and focused
+
+ACTIONS:
+- Three helmeted astronauts seated in Shenzhou capsule interior, center figure's visor reflecting instrument glow, posture calm and focused
+- Rack focus shifts from left to center astronaut as volumetric cabin light streams through small porthole, illuminating floating dust particles
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- oxygen regulator hiss, suit fabric rustling against seat, Velcro strap adjustment
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 05: Trust — Hook [00:32–00:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Volumetric atmosphere creates depth layers from foreground pad to distant mountain range, anamorphic flares catching rocket's white body
+
+ACTIONS:
+- Long March 2F rocket vertical on launch pad against vast Gobi Desert expanse, posture commanding and isolated
+- Camera orbits at 200 meters revealing scale relationship between rocket and endless sand dunes, service tower casting long shadow in golden hour light
+
+CAMERA:
+Medium | Orbit
+
+AUDIO:
+- wind gusting across open desert, distant bird call, sand particles hitting metal structures
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 06: Trust — Hook [00:40–00:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Hands clasped formally at sides, posture conveying trust and readiness, subtle volumetric haze in background
+
+ACTIONS:
+- Three astronauts in white Sokol-style suits standing side-by-side in pre-launch facility, shoulders squared in confident military bearing
+- Focus pulls sequentially from left (Zhu) to center (Zhang) to right (Lai), each face momentarily sharp before softening, soft documentary key light from camera left
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- suit zipper adjustment, boot heel clicking on polished floor, breathing through suit ventilation
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 07: Trust — Hook [00:48–00:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Soft 3-point lighting creates volumetric glow around helmet rim, background softly out of focus showing blurred equipment racks
+
+ACTIONS:
+- Lai Ka-ying's gloved hand adjusting helmet visor in pre-launch preparation room, fingers moving with practiced precision
+- Rack focus shifts from embroidered Hong Kong regional flag patch on shoulder to her eyes reflected in visor glass, expression calm and determined
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- glove material flexing, visor latch clicking into place, suit pressure valve hissing
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 08: Trust — Hook [00:56–01:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Golden amber city lights creating warm glow against cool twilight blues, creating emotional contrast of departure and belonging
+
+ACTIONS:
+- Hong Kong skyline at dusk transitioning to night, Victoria Harbour lights emerging one by one across the frame, ICC tower and IFC complex silhouettes sharpening against deepening indigo sky
+- Photograph surface shows subtle texture of printed material, edges slightly worn suggesting personal keepsake
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- paper rustling softly, photograph sliding on wooden surface, distant harbour foghorn
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 09: Trust — Hook [01:04–01:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clean laboratory environment with soft overhead fluorescents, stainless steel surfaces reflecting neutral warm light
+
+ACTIONS:
+- Hands in white gloves carefully aligning a scientific payload module into a test rack, fingers steady and deliberate, posture upright and focused
+- The module clicks into place with precision, labels in Chinese and English visible on equipment panels
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- metal latch clicking, equipment sliding into rack
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 10: Trust — Hook [01:12–01:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Volumetric dust particles suspended in facility light, steel and glass architecture of centrifuge chamber, cool industrial blues warming to amber as rotation begins
+
+ACTIONS:
+- Lai in training centrifuge cockpit, jaw set, shoulders braced, eyes focused forward with quiet determination
+- G-force strain visible in controlled breathing, hands steady on armrests
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- centrifuge motor whirring, metal creaking under load, hydraulic hiss
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 11: Trust — Hook [01:20–01:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Soft key light from conference room windows, neutral warm color temperature, professional event atmosphere
+
+ACTIONS:
+- Microphone on press conference podium, shallow depth of field isolating the mic against soft-focus background of media cameras and recorders
+- A hand enters frame to adjust the microphone stand
+- Withdraws, leaving the mic centered and waiting
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- microphone stand adjusting, paper rustling, camera shutter clicks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 12: Trust — Hook [01:28–01:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Professional event environment with neutral warm tones, shallow depth of field isolating each keyboard in turn
+
+ACTIONS:
+- Journalists' hands typing rapidly on laptop keyboards, rack focus shifting across a row of three laptops, fingers moving in synchronized rhythm
+- Screens glow with text documents being updated in real time, cool ambient conference hall lighting casting soft shadows
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- keyboard clicking, laptop keys tapping, mouse clicking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 13: Trust — Hook [01:36–01:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Chinese and Hong Kong flags side-by-side in mission control, fabric taut and still, colors saturated under soft flattering 3-point lighting
+
+ACTIONS:
+- Chinese and Hong Kong flags side-by-side in mission control, fabric taut and still, colors saturated under soft flattering 3-point lighting
+- Flags occupy left and right thirds of frame, equal prominence, no movement
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- flag fabric snapping softly
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 14: Trust — Hook [01:44–01:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Patch mounted on flight suit shoulder, neutral gray fabric background
+
+ACTIONS:
+- Shenzhou 23 mission patch embroidery, needle-sharp focus on gold thread spelling 'Hong Kong' beneath stylized orbital arc, fabric weave visible at thread level
+- Soft diffused light rakes across patch surface, revealing texture of stitching, slight shadow in recessed areas
+
+CAMERA:
+Extreme Close-up | Slow push-in
+
+AUDIO:
+- thread sliding through fabric, needle puncturing cloth, scissors snipping thread
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 15: Trust — Build Up [01:52–02:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Neutral warm lighting, clean institutional environment, the portrait's formal composition suggesting weight and responsibility
+
+ACTIONS:
+- Official crew portrait photograph in frame on mission control desk, three astronauts in blue flight suits standing at attention, expressions composed and professional
+- The photo occupies center frame, anamorphic bokeh softening the background desk and monitors
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- photo frame settling on desk, paper sliding, pen clicking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 16: Trust — Build Up [02:00–02:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Professional decision-making environment, neutral warm tones, the act of selection deliberate and methodical
+
+ACTIONS:
+- Three personnel files spread on conference table, each labeled with crew member name and photo, mission director's hand entering frame to slide one file forward
+- Withdrawing
+- Shallow focus isolates the selected file, cool office fluorescent light casting soft shadows, documents crisp and official
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- paper sliding on table, file folder opening, pen tapping
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 17: Trust — Build Up [02:08–02:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Volumetric light from Earth's atmosphere creates soft blue rim around station's silhouette
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- The station
+
+ACTIONS:
+- Tiangong space station in full sunlight against Earth's curved horizon, solar arrays extended symmetrically, thermal blankets gleaming white and gold
+- Station rotates gently to reveal three cylindrical modules docked in T-configuration, radiators and antennae visible in sharp 8K detail
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- solar panel servos whirring, metallic clicks of thermal expansion
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 18: Trust — Build Up [02:16–02:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Neutral documentary lighting, no color grading
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- The station
+
+ACTIONS:
+- Split-screen comparison: ISS on left, Tiangong on right, both rendered as clean 3D models against black space
+- Numerical overlays resolve: '420 metric tons' above ISS, '100 metric tons' above Tiangong
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- digital interface beeps, data readout tones
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 19: Trust — Build Up [02:24–02:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Station rotates gently against black starfield, revealing docking port and laboratory windows
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- The station
+
+ACTIONS:
+- Tiangong space station exterior in full frame, three cylindrical modules connected in T-formation, solar arrays extended symmetrically, thermal blankets reflecting soft Earth-light
+- Station rotates gently against black starfield, revealing docking port and laboratory windows
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- solar array servos whirring, faint metallic creaking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 20: Trust — Build Up [02:32–02:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Soft LED panels cast even 3800K light across compact living space
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- two hours
+
+ACTIONS:
+- Interior of empty Tianhe module: cylindrical white walls lined with equipment racks, handholds, and storage lockers
+- Soft LED panels cast even 3800K light across compact living space
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- ventilation system air flow, distant equipment fans
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 21: Trust — Build Up [02:40–02:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Interior Tianhe module cross-section cutaway, 8K HDR revealing compact living quarters: exercise treadmill mounted to wall, sealed meal packages floating in galley netting, sleeping bag compartment no wider than shoulders
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- two hours
+
+ACTIONS:
+- Interior Tianhe module cross-section cutaway, 8K HDR revealing compact living quarters: exercise treadmill mounted to wall, sealed meal packages floating in galley netting, sleeping bag compartment no wider than shoulders
+- Crew member's gloved hand secures Velcro strap on treadmill harness, methodical and practiced
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- Velcro ripping, treadmill harness clicking, meal package crinkling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 22: Trust — Build Up [02:48–02:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Final dawn holds for four seconds, golden light flooding cupola interior
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- twelve months
+- 365 days
+
+ACTIONS:
+- View through Tiangong cupola window: Earth's terminator line sweeps across frame as station orbits
+- Sunrise begins—thin blue atmospheric arc brightens to gold, volumetric rays streaming through window
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- camera shutter clicks, window seal creaking, faint orbital thruster pulses
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 23: Trust — Build Up [02:56–03:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Shallow focus isolates arm and device against blurred module interior
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Sixteen times
+
+ACTIONS:
+- Close view of astronaut's bare forearm in clinical white LED light
+- Hand enters frame holding circular biometric sensor—white plastic disc with electrode contacts
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- adhesive peeling, sensor beep, velcro strap tightening
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 24: Trust — Build Up [03:04–03:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clean documentary interface design, neutral color palette
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- six months
+
+ACTIONS:
+- Medical monitoring screen mounted to Tiangong module wall: digital readouts display real-time biometric data—heart rate graph, bone density percentage declining slowly over animated timeline, muscle mass chart trending downward
+- Screen shows '180 days' marker
+- '365 days' appears with projected values in red
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- keyboard typing, monitor beeps, data processing clicks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 25: Trust — Build Up [03:12–03:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clean laboratory environment, soft overhead LED panels casting even 3800K light across monitor surface, sterile white walls in soft focus behind
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- six months
+
+ACTIONS:
+- Digital medical display showing timeline graph: six-month marker highlighted in blue, twelve-month marker glowing amber ahead, bone density curve declining steadily across screen
+- Graph resolves methodically, data points appearing one by one
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- keyboard keys clicking, mouse clicking on screen
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 26: Trust — Build Up [03:20–03:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Tiangong interior, warm 3800K incandescent glow, metallic surfaces reflecting light
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- six months
+
+ACTIONS:
+- Blood sample vial floating in microgravity, backlit by volumetric station light streaming through porthole, liquid suspended inside glass tube, surface tension visible as meniscus curves, tiny air bubble drifting slowly through red fluid
+- Anamorphic bokeh rendering background module walls as soft amber streaks
+
+CAMERA:
+Macro | Static
+
+AUDIO:
+- vial glass clinking softly, liquid sloshing inside tube
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 27: Trust — Build Up [03:28–03:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm incandescent light from overhead fixtures, cool Earth-glow through porthole in background
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- six months
+
+ACTIONS:
+- Digital mission timeline display mounted on station wall, clean sans-serif typeface showing "6 MONTHS" in white text fading to "12 MONTHS" in amber, numbers resolving with subtle glow
+- Screen reflects faintly in brushed aluminum panel below
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- digital beep resolving, panel click
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 28: Anticipation — Build Up [03:36–03:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Tiangong station exterior in low Earth orbit, modular T-shaped structure floating against deep indigo starfield, solar arrays extended symmetrically, Earth's terminator line visible below casting amber-shadow gradient across hull
+
+ACTIONS:
+- Tiangong station exterior in low Earth orbit, modular T-shaped structure floating against deep indigo starfield, solar arrays extended symmetrically, Earth's terminator line visible below casting amber-shadow gradient across hull
+- Camera drifts closer, revealing docking port and communication antennas
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- metal creaking softly, solar array servos whirring
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 29: Trust — Build Up [03:44–03:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+ISS hangs motionless against black space, every truss and radiator panel rendered in 8K HDR detail
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 25 years
+- International Space Station
+
+ACTIONS:
+- International Space Station in full sunlight, complete structure visible from solar arrays to pressurized modules, white and silver surfaces reflecting harsh 5600K sunlight, Earth's blue oceans and white clouds filling lower third of frame
+- ISS hangs motionless against black space, every truss and radiator panel rendered in 8K HDR detail
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- none — silent vacuum of space
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 30: Trust — Build Up [03:52–04:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Anamorphic lens flare streaks horizontally
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 25 years
+- International Space Station
+
+ACTIONS:
+- ISS cupola interior, seven windows framing Earth's curved horizon in soft blue and white
+- Mission patches from USA, Russia, Japan, Canada, ESA float gently in microgravity near the center window, backlit by golden orbital sunrise
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- patch fabric rustling in air current, window frame creak
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 31: Trust — Build Up [04:00–04:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Horizontal anamorphic flare bisects the frame
+
+ACTIONS:
+- Split-screen anamorphic frame: left half shows ISS exterior in warm amber sunlight against black space, right half shows empty star field in deep indigo, no structure visible
+- Horizontal anamorphic flare bisects the frame
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- faint metallic ping from ISS structure
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 32: Trust — Build Up [04:08–04:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Archival document page, 'Wolf Amendment' header visible at top, dense legal text in black serif font on white paper, specific phrases highlighted in yellow: 'prohibits NASA,' 'cooperate with China,' 'explicit authorization.' Shallow depth-of-field, text resolving into focus as camera pushes closer
+
+ACTIONS:
+- Archival document page, 'Wolf Amendment' header visible at top, dense legal text in black serif font on white paper, specific phrases highlighted in yellow: 'prohibits NASA,' 'cooperate with China,' 'explicit authorization.' Shallow depth-of-field, text resolving into focus as camera pushes closer
+- Cool 4100K fluorescent lighting from above, clinical bureaucratic environment, paper texture visible in 8K detail
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- paper rustling, pen scratching margin notes
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 33: Trust — Build Up [04:16–04:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Desaturated color grade, cool steel grays and muted blues, institutional atmosphere
+
+ACTIONS:
+- Printed legislative document on mahogany desk, pages crisp and aligned, official congressional seal visible at header
+- Human hand enters frame, index finger extended, tracing line by line through dense legal text under harsh overhead fluorescent light
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- finger sliding across paper, page rustling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 34: Trust — Build Up [04:24–04:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Camera glides steadily toward the legislative chamber doors, emphasizing institutional authority and deliberate process
+
+ACTIONS:
+- Sunlit marble corridor in U.S
+- Capitol building, warm golden light streaming through tall windows onto polished floor
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- footsteps echoing on marble floor, heavy door latch clicking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 35: Trust — Build Up [04:32–04:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cool blue-gray palette, side-light creating deep shadows on document edges
+
+ACTIONS:
+- Classified briefing folder on polished desk, red 'CONFIDENTIAL' stamp visible, pages slightly fanned
+- Shallow depth of field racks focus from folder to background window revealing Capitol dome silhouette
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- folder closing, paper sliding on wood
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 36: Trust — Build Up [04:40–04:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Harsh side-light from desk lamp creates stark shadows, emphasizing secrecy
+
+ACTIONS:
+- Redacted intelligence document pages spread across desk, black bars obscuring key passages, official seals and stamps visible
+- 8K HDR reveals paper texture and ink density
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- pages turning, highlighter squeaking on paper
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 37: Trust — Deep [04:48–04:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Anamorphic lens flares streak across frame as sun dips toward horizon
+
+ACTIONS:
+- Gobi Desert construction site at golden hour, massive steel launch tower framework rising against amber sky, cranes silhouetted in backlight
+- Anamorphic lens flares streak across frame as sun dips toward horizon
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- distant metal clanging, wind gusting across sand
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 38: Trust — Deep [04:56–05:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+8K HDR captures frost patterns on rocket skin
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Mengtian laboratory
+
+ACTIONS:
+- Long March 5B rocket on launch pad, Tianhe core module visible in payload fairing, pre-dawn blue light washing over white fuselage
+- Volumetric exhaust vents release cryogenic vapor, drifting across frame
+
+CAMERA:
+Wide | Tilt
+
+AUDIO:
+- liquid oxygen venting, metal groaning under thermal stress
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 39: Trust — Deep [05:04–05:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Tiangong robotic arm grappling Wentian laboratory module in orbit, mechanical fingers closing around docking adapter
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Mengtian laboratory
+
+ACTIONS:
+- Tiangong robotic arm grappling Wentian laboratory module in orbit, mechanical fingers closing around docking adapter
+- Sunlight glints off gold thermal blankets and white module skin
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- mechanical whirring, latch clicking into place
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 40: Trust — Deep [05:12–05:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Completed Tiangong space station in full T-shaped configuration against Earth's blue atmosphere, Mengtian laboratory module extending from core
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Mengtian laboratory
+
+ACTIONS:
+- Completed Tiangong space station in full T-shaped configuration against Earth's blue atmosphere, Mengtian laboratory module extending from core
+- Anamorphic 2.39:1 framing, golden orbital sunrise light washing across solar arrays
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- faint solar array motor adjusting, distant thruster pulse
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 41: Trust — Deep [05:20–05:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+ACTIONS:
+- Tiangong space station in full sunlit orbit, solar panels extended in perfect symmetry, posture stable and operational
+- Station rotates slowly against Earth's curved horizon, blue-white atmosphere glowing below
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- solar panel servomotor whirring, docking clamp mechanical click
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 42: Trust — Deep [05:28–05:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep indigo starfield background, teal accent lighting on graphic elements
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Four years
+
+ACTIONS:
+- Digital mission timeline graphic materializing in space above Earth's limb—nine crew rotation markers glowing in sequence from 2022 to 2026, final marker pulsing amber for Shenzhou 23 one-year mission
+- Hands unseen, posture implied through data visualization
+
+CAMERA:
+Wide | Slow push-in
+
+AUDIO:
+- holographic interface beep sequence, data node resolving click
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 43: Trust — Deep [05:36–05:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+ACTIONS:
+- Tiangong station cupola window from exterior, silhouettes of previous crew visible inside against soft volumetric cabin glow, postures relaxed and steady
+- Station modules float in stable orbit, Earth's limb glowing below
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- station life support hum, faint electrical relay clicks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 44: Trust — Deep [05:44–05:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cold authoritative 3700K lighting with teal accent highlights the geometric fracture patterns
+
+ACTIONS:
+- Damaged Shenzhou 20 spacecraft window in extreme macro detail, fractured multilayer glass with visible impact crater at center, spiderweb cracks radiating outward through transparent layers
+- Camera locked on tripod, no movement, revealing depth of penetration through successive panes
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- glass cracking under stress
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 45: Trust — Deep [05:52–06:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Damaged Shenzhou window in sharp focus foreground, Earth's sunlit hemisphere soft bokeh background, window shows deep impact crater with exposed composite layers, spacecraft exterior pristine except for strike zone
+
+ACTIONS:
+- Damaged Shenzhou window in sharp focus foreground, Earth's sunlit hemisphere soft bokeh background, window shows deep impact crater with exposed composite layers, spacecraft exterior pristine except for strike zone
+- Rack focus transitions from fractured glass detail to Earth's cloud patterns 400km below, anamorphic lens flares catching orbital sunrise, warm amber light bleeding through undamaged window sections
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- soft hiss of life support ventilation, distant mechanical click of attitude control thrusters
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 46: Trust — Deep [06:00–06:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+ACTIONS:
+- Three astronauts float near damaged window inside Tiangong module, faces lit by amber and red warning panel LEDs, expressions focused and calm, hands gripping handrails
+- Shallow depth-of-field isolates crew against blurred station interior
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- warning panel beeps, suit fabric rustling, Velcro ripping
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 47: Trust — Deep [06:08–06:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep blue sky transitions to amber near horizon
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- three months
+- 200 days
+
+ACTIONS:
+- Gobi Desert launch complex at golden hour—three Long March rockets on separate pads in various stages of preparation, gantry towers casting long shadows across rust-red sand
+- Posture of coordinated urgency
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- diesel engine rumble, gantry hydraulic hiss, wind across desert sand
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 48: Trust — Deep [06:16–06:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Three cargo spacecraft docking ports on Tiangong station in clean geometric arrangement, center frame shows active docking mechanism with Tianzhou freighter making final approach, RCS thrusters firing in controlled bursts creating volumetric exhaust plumes backlit by Earth's terminator
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- three months
+- 200 days
+
+ACTIONS:
+- Three cargo spacecraft docking ports on Tiangong station in clean geometric arrangement, center frame shows active docking mechanism with Tianzhou freighter making final approach, RCS thrusters firing in controlled bursts creating volumetric exhaust plumes backlit by Earth's terminator
+- Station's modular structure fills frame with white pressure vessels and gold radiators, mechanical arms extended in standby position
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- sharp metallic clang of docking clamps engaging, pneumatic hiss of pressure equalization
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 49: Trust — Deep [06:24–06:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary aesthetic, 8K HDR, volumetric lighting, anamorphic lens 2.39:1
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- three months
+- 200 days
+
+ACTIONS:
+- Digital mission timeline display showing three launch windows marked in sequence across a 90-day calendar grid, each date highlighted in teal accent light
+- The timeline resolves from left to right as mission identifiers appear: crew swap, emergency return, lifeboat replacement
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- keyboard clicking, mouse clicking, display beeping
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 50: Trust — Deep [06:32–06:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep indigo and steel blue color palette, 3700K teal accent lighting, 8K HDR volumetric atmosphere
+
+ACTIONS:
+- Empty crew sleeping quarters aboard Tiangong station, personal items floating gently in microgravity, tethered photographs and small mementos visible
+- Slow dolly through narrow corridor, volumetric light streaming through circular porthole, casting geometric patterns on metallic walls
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- fabric rustling against Velcro straps, metal clips clicking softly
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 51: Trust — Deep [06:40–06:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary aesthetic, 8K HDR, volumetric lighting, anamorphic lens 2.39:1
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 437 days
+- 355 days
+- 328 days
+- 371 days
+
+ACTIONS:
+- Large mission-control display wall showing four illuminated numerical readouts in vertical column: 437, 355, 328, 371, each labeled with cosmonaut/astronaut surname in sans-serif type, glowing soft teal against matte black background
+- Camera locked on tripod, no drift
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- mechanical relay clicks as each number locks into place
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 52: Trust — Deep [06:48–06:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Archival-style view of Mir space station silhouetted against Earth's curved limb, deep indigo atmosphere gradient below
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 437 days
+- 355 days
+- 328 days
+- 371 days
+
+ACTIONS:
+- Archival-style view of Mir space station silhouetted against Earth's curved limb, deep indigo atmosphere gradient below
+- Station modules rotate slowly into frame, solar panels catching golden edge-light
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- mechanical gyroscope whir, metal stress creaks, solar panel servo motors
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 53: Trust — Deep [06:56–07:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Authoritative Bloomberg-style lighting at 3700K with teal accent highlights on metal surfaces
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 437 days
+- 355 days
+- 328 days
+- 371 days
+
+ACTIONS:
+- Interior Mir module: a resistance exercise device mounted to the wall, its elastic bands stretched taut and slowly releasing
+- Volumetric dust particles drift through a shaft of warm amber light from a porthole
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- elastic band stretching, Velcro tearing, equipment clicking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 54: Trust — Deep [07:04–07:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary aesthetic, 8K HDR, volumetric lighting, anamorphic lens 2.39:1
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 437 days
+- 355 days
+- 328 days
+- 371 days
+
+ACTIONS:
+- A Mir mission patch affixed to the module wall, fabric slightly worn, Cyrillic text visible
+- The camera racks focus from the patch to a paper calendar behind it, days marked in pen, the number 437 circled in red
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- pen scratching paper, Velcro tearing, fabric rustling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 55: Trust — Deep [07:12–07:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary aesthetic, 8K HDR, anamorphic lens 2.39:1
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 365 days
+
+ACTIONS:
+- The frame begins on a Mir porthole showing Earth's curvature in warm golden light
+- Match-cuts to a Tiangong cupola window showing the same Earth angle but in cooler blue light
+- The camera holds static as the color temperature shifts from 4200K amber to 3700K teal
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- porthole latch clicking, window seal hissing, station creaking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 56: Trust — Deep [07:20–07:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep indigo and steel blue palette, 3700K teal accent, 8K HDR detail on fabric texture and metal surfaces
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 365 days
+
+ACTIONS:
+- Close view of analog calendar mounted inside Tiangong module, pages showing '365 DAYS' in bold numerals
+- Hand in pressure suit glove reaches into frame, tears away single page revealing next day's date
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- paper tearing, Velcro ripping, glove fabric brushing against metal
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 57: Trust — Deep [07:28–07:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Sterile lab environment, cool 3700K lighting casting subtle shadows on monitor bezel
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 2 percent
+
+ACTIONS:
+- Medical monitor screen displaying bone density scan with declining graph line dropping 2% per data point, clinical white interface with teal accent highlights
+- Screen fills frame in sharp 8K detail, numbers and anatomical overlay resolving precisely
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- monitor beep sequence, keyboard key tap
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 58: Trust — Deep [07:36–07:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clinical documentary framing, authoritative Bloomberg-style lighting at 3700K
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 2 percent
+
+ACTIONS:
+- Resistance exercise harness and bungee cords stretched taut in Tiangong module, empty but configured for use, volumetric light shaft cutting through porthole illuminating floating equipment
+- Teal-accented straps against white module walls, 8K HDR capturing material texture and tension
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- fabric strap creak, metal carabiner clink
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 59: Trust — Deep [07:44–07:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cool 3700K lighting, authoritative documentary precision, shallow depth of field isolating hand from blurred module background
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 2 percent
+
+ACTIONS:
+- Astronaut hand gripping medical sensor device, veins visible under translucent skin in 8K macro detail, fingertips pressing into soft rubber grip
+- Sensor LED blinking teal against clinical white casing, volumetric light emphasizing biological texture
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- sensor device click, fingernail tap on plastic
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 60: Trust — Deep [07:52–08:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cool teal-accented lighting from overhead panels, deep shadows in module corners, volumetric haze from air circulation vents
+
+ACTIONS:
+- Medical monitoring equipment in Tiangong station module—LED displays cycling through vital signs, radiation dosimeter readouts incrementing, circadian rhythm graphs updating on screen
+- Hands in blue nitrile gloves adjust sensor leads on a crew member's forearm, electrodes visible on skin
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- beeping heart monitor, soft click of keyboard keys, faint hiss of ventilation fan
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 61: Trust — Deep [08:00–08:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cool 3700K lighting emphasizing separation between worlds, teal accent glow from hatch seal indicator
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- twelve months
+- six months
+
+ACTIONS:
+- Astronaut hand touching sealed station hatch window from inside, fingertips pressed against thick glass, Earth's blue curve visible beyond in sharp focus
+- Volumetric light shaft illuminating hand and barrier, 8K HDR capturing fingerprint whorls and glass reflection
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- fingertip slide on glass, hatch seal pressure hiss
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 62: Trust — Deep [08:08–08:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Authoritative Bloomberg-style lighting at 3700K with teal accent highlights metallic surfaces
+
+ACTIONS:
+- Split-screen composition: left half shows ISS exterior module with biological sample freezer visible through window, right half shows Tiangong station module in identical framing
+- Both stations float in low Earth orbit against black starfield
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- metallic latch clicking open on sample freezer drawer
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 63: Trust — Deep [08:16–08:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+8K HDR capturing data resolution and screen reflections, cool 3700K lighting transitioning to warm sunrise glow
+
+ACTIONS:
+- Floating data tablets displaying genetic marker graphs and DNA sequence visualizations, screens arranged in mid-air cluster inside Tiangong module
+- Anamorphic lens flare as station rotates into orbital sunrise, golden light shaft cutting through frame illuminating teal-accented screen edges
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- tablet screen tap, data processing beep
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 64: Trust — Deep [08:24–08:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cool 3700K lighting, clinical documentary precision, shallow depth of field isolating vial against blurred white module background
+
+ACTIONS:
+- Blood sample vial rotating slowly in microgravity, backlit by volumetric cabin light creating internal glow through crimson fluid
+- 8K HDR capturing surface tension meniscus and label detail, teal accent band around vial cap
+
+CAMERA:
+Macro | Static
+
+AUDIO:
+- vial glass clink, liquid shift inside container
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 65: Trust — Deep [08:32–08:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+ACTIONS:
+- Tiangong space station module exterior in sharp focus, Moon's cratered surface visible in deep background, Earth's blue curve at frame edge
+- Station's solar arrays catch golden sunlight against black void
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- faint metallic creaking of station structure, solar panel servo motors adjusting
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 66: Trust — Deep [08:40–08:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Anamorphic 2.39:1 framing emphasizes vast horizontal expanse
+
+ACTIONS:
+- Lunar surface horizon in extreme foreground, gray regolith texture in 8K detail
+- Earth rising above the Moon's limb, half in shadow, blue and white against black space
+
+CAMERA:
+Wide | Tilt
+
+AUDIO:
+- silence broken only by faint radio static crackle
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 67: Trust — Deep [08:48–08:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Anamorphic bokeh in background
+
+ACTIONS:
+- Long March rocket components in assembly hall, massive cylindrical fuel tank sections on transport craigs
+- Volumetric dust rays slice through industrial space from overhead skylights
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- welding torch hissing, metal clanging on concrete floor, hydraulic lift whirring
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 68: Trust — Deep [08:56–09:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Reflection shows Tiangong module interior lights as bokeh points
+
+ACTIONS:
+- Astronaut's eye reflected in curved helmet visor, pupil dilated, eyelashes in sharp focus
+- Shallow depth-of-field isolates iris detail
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- breathing through oxygen regulator, faint heartbeat monitor beeping
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 69: Trust — Deep [09:04–09:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 12 days
+- twelve months
+
+ACTIONS:
+- Left half: archival Apollo capsule interior, cramped analog controls, 16mm film grain
+- Right half: Tiangong habitat module, spacious white walls, modern touchscreens
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- vintage Apollo radio chatter on left channel, modern Tiangong air circulation hum on right channel
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 70: Trust — Deep [09:12–09:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Anamorphic bokeh on background equipment
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 12 days
+- twelve months
+
+ACTIONS:
+- Exercise resistance device in Tiangong module, elastic bands stretched taut
+- Astronaut's hands gripping handles, knuckles white from exertion, veins visible on forearms
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- elastic bands stretching and snapping back, labored breathing, Velcro straps ripping
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 71: Trust — Deep [09:20–09:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Bright authoritative lighting at 3700K, teal UI glow reflecting on polished console surface
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 24 mission
+- six months
+
+ACTIONS:
+- Large mission control display showing Shenzhou 24 trajectory overlay with launch date marker six months ahead, clean interface with teal accent highlights
+- Cursor clicks to expand timeline detail, revealing evolving Tiangong module configuration
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- mouse click, keyboard tap
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 72: Trust — Deep [09:28–09:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+ACTIONS:
+- Pakistani flag patch on flight suit shoulder in sharp focus foreground, green and white crescent star emblem in 8K detail
+- Rack focus shifts to crew photo on module wall in background, three astronauts in matching suits
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- fabric rustling as suit shifts, Velcro patch separating, photo frame tapping against wall
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 73: Trust — Deep [09:36–09:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Volumetric light from Earth's limb casts teal accent across white hull plating, atmosphere of quiet institutional trust
+
+ACTIONS:
+- Two Shenzhou capsules docked to Tiangong station, Earth's terminator line glowing beneath, 8K HDR rendering reveals every docking port seal and solar panel detail
+- The station hangs in perfect stillness against the black, posture calm and authoritative
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- docking clamp mechanical lock engaging, faint metallic resonance
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 74: Trust — Payoff [09:44–09:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm 4000K light reveals stitching on fabric, atmosphere of quiet resolution and trust
+
+ACTIONS:
+- Empty crew seat inside Shenzhou capsule interior, harness straps hanging loose in microgravity, volumetric light streaming through porthole illuminates the vacant position
+- The seat's posture is open and waiting, expression of absence made tangible
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- harness buckle clicking, fabric strap sliding through metal loop
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 75: Trust — Payoff [09:52–10:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Atmosphere of warm finality and trust, 4000K light painting the interior gold
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- twelve months
+
+ACTIONS:
+- Single astronaut silhouette in Tiangong cupola window, back to camera, shoulders relaxed in contemplative posture, Earth rotating slowly beneath through the glass
+- The figure's stillness expresses acceptance—one stays, the mechanism now understood
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- faint creaking of station structure, thermal expansion ticking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 76: Trust — Payoff [10:00–10:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm golden light from orbital sunrise bathes both stations equally, casting long shadows across their modules
+
+ACTIONS:
+- Two orbital stations float in separate trajectories against Earth's curved horizon—ISS on left, Tiangong on right—both structures gleaming in sunlight, solar arrays extended, separated by vast black starfield
+- Camera advances gently toward the gap between them, revealing the scale of distance and the parallel paths they trace above the planet's blue-white surface
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- solar panel servos whirring, faint metallic creaks from thermal expansion
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 77: Trust — Payoff [10:08–10:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Atmosphere of warm institutional trust, 4000K light casting soft shadows
+
+ACTIONS:
+- International crew mission patches arranged on Tiangong station wall—Chinese flag patch, Pakistani flag patch, others in discussion
+- The patches float slightly in microgravity, posture of growing collection, expression of openness
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- Velcro patch peeling from wall, fabric rustling as new patch is positioned
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 78: Trust — Payoff [10:16–10:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Shallow depth of field isolates text as camera advances, controlled desk lamp casting warm 4000K light across paper grain
+
+ACTIONS:
+- Mission manifest document on desk, camera pushes in on crew names—Zhu Yangzhu, Zhang Zhiyuan, Lai Ka-ying—printed in sharp focus
+- The document's posture is authoritative, expression of confirmed data
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- pen tip tapping paper, document page turning
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 79: Trust — Payoff [10:24–10:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Launch pad structure silhouetted against deep blue pre-dawn sky, atmosphere of quiet institutional trust and historic moment
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- one year
+- The mission
+
+ACTIONS:
+- Shenzhou 23 liftoff at pre-dawn Gobi Desert horizon, Long March 2F rocket rising through volumetric exhaust plume, 8K HDR capturing frost sublimating off hull and flame detail in orange and white
+- The rocket's posture is vertical and determined, expression of controlled power
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- rocket engine ignition roar building, metal launch structure groaning under thrust
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 80: Trust — Payoff [10:32–10:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Station interior gleams with white composite panels and brushed aluminum fixtures
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- one year
+- The mission
+
+ACTIONS:
+- Three astronauts float in Tiangong's core module—Zhu Yangzhu center, Zhang Zhiyuan left, Lai Ka-ying right—bodies relaxed in microgravity, hands gently gripping handrails, faces calm and focused as they orient toward camera
+- Soft volumetric light streams through cupola window behind them, backlighting their silhouettes against Earth's curved blue horizon
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- ventilation fans cycling, Velcro straps releasing, fabric rustling against handrails
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 81: Trust — Payoff [10:40–10:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Shenzhou 23 capsule ascending through Earth's atmosphere, exhaust plume trailing in golden pre-dawn light, crew cabin windows glinting as vehicle rotates
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- one year
+- The mission
+
+ACTIONS:
+- Shenzhou 23 capsule ascending through Earth's atmosphere, exhaust plume trailing in golden pre-dawn light, crew cabin windows glinting as vehicle rotates
+- Rocket climbs steadily through layered cloud deck, main engines burning bright orange against deep blue sky
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- rocket engine roar, metal stress creaking, wind rushing past hull
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 82: Trust — Payoff [10:48–10:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm volumetric light from monitor arrays illuminates face and console, shallow depth of field isolating glowing screens against softly blurred background of control room
+
+ACTIONS:
+- Mission control operator seated at workstation, calm focused posture, hands resting on desk beside keyboard, eyes scanning multiple monitors with steady professional gaze
+- Operator gestures toward incomplete telemetry fields on central screen, finger tracing empty data columns
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- keyboard keys tapping, mouse clicking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 83: Trust — Payoff [10:56–11:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Tiangong station exterior at orbital sunrise, three silhouetted figures visible through cupola window, faces obscured by window reflection and backlighting
+
+ACTIONS:
+- Tiangong station exterior at orbital sunrise, three silhouetted figures visible through cupola window, faces obscured by window reflection and backlighting
+- Earth's terminator line glowing amber below, station solar arrays catching first light
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- station structure creaking, air circulation whooshing, equipment beeping
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 84: Trust — Payoff [11:04–11:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm interior lighting, volumetric rays through porthole, shallow focus keeping faces soft
+
+ACTIONS:
+- Interior Tiangong main module, three crew members floating in microgravity, faces partially obscured by floating equipment and experiment apparatus
+- Hands adjusting instruments, bodies rotating slowly, but camera angle and foreground objects prevent clear identification
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- velcro ripping, equipment clicking, fabric rustling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 85: Trust — Payoff [11:12–11:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Shallow depth-of-field, warm 4000K lighting, clipboard edge sharp but name blurred
+
+ACTIONS:
+- Mission patch floating in foreground, camera rack-focuses to crew roster clipboard behind it, one name circled in red pen but text deliberately out of focus and unreadable
+- Shallow depth-of-field, warm 4000K lighting, clipboard edge sharp but name blurred
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- paper rustling, pen cap clicking, clipboard metal clip snapping
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 86: Trust — Payoff [11:20–11:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary aesthetic, 8K HDR volumetric lighting, anamorphic lens 2.39:1, warm 4000K sunrise gradient illuminating station structure with documentary reverence
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Twenty-five years
+- International Space Station
+
+ACTIONS:
+- The International Space Station in full frame against Earth's curved horizon at sunrise, golden light raking across solar arrays and truss segments, volumetric atmospheric glow defining every geometric edge
+- Station silhouette transitions from shadow to brilliant sunlit metal as terminator line sweeps across frame
+
+CAMERA:
+Wide | Orbit
+
+AUDIO:
+- solar array motor whir, metal creaking, thruster puff
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 87: Anticipation — Payoff [11:28–11:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Left frame: ISS in full sunlight, right frame: Tiangong station in matching orbital position, both stations rendered at identical scale and lighting
+
+ACTIONS:
+- Left frame: ISS in full sunlight, right frame: Tiangong station in matching orbital position, both stations rendered at identical scale and lighting
+- Anamorphic 2.39:1 framing emphasizes parallel sovereign presence, solar arrays on both catching same golden light
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- dual station structure creaking, overlapping solar array motors, synchronized equipment beeping
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 88: Trust — Payoff [11:36–11:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Shallow focus, warm 4000K light, camera lingers on bureaucratic barrier
+
+ACTIONS:
+- Camera glides past vacant Common Berthing Mechanism, volumetric light streaming through nearby porthole illuminating regulatory placard reading 'AUTHORIZED PERSONNEL ONLY - WOLF AMENDMENT RESTRICTIONS'
+- Docking port mechanisms idle, no vehicle attached, empty space where collaboration could exist
+
+CAMERA:
+Medium | Tracking
+
+AUDIO:
+- air circulation hissing, docking mechanism servo whirring, metal latch clicking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 89: Trust — Payoff [11:44–11:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Interior bathed in warm amber orbital sunrise glow, volumetric light rays through porthole glass, anamorphic lens flares across visor reflections
+
+ACTIONS:
+- Three astronauts in Shenzhou capsule, helmets reflecting Earth's curve through window, calm focused expressions, shoulders relaxed
+- Hong Kong mission patch visible on left suit arm
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- suit fabric rustling against seat harness, soft mechanical click of seatbelt release
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 90: Trust — Payoff [11:52–12:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Interior of Tiangong laboratory module bathed in warm amber instrument glow, Earth's blue curve visible through porthole behind, volumetric light rays cutting through floating dust motes
+
+ACTIONS:
+- Astronaut's gloved hands steady and deliberate, fingers gently securing biological sample container into analysis rack, face partially visible through helmet visor showing calm focus
+- Precise methodical motion as sample locks into place, shoulders relaxed in microgravity
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- container locking mechanism clicking, rack sliding into position
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 91: Trust — Payoff [12:00–12:06]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The station hangs motionless in the black void, Earth's terminator line glowing soft blue beneath, deep indigo star field above, anamorphic bokeh stars stretching horizontally
+
+ACTIONS:
+- Tiangong station appears as a single bright point of light against Earth's curved horizon, silhouetted crew module visible as zoom tightens, station structure resolving into delicate solar arrays and docking ports
+- The station hangs motionless in the black void, Earth's terminator line glowing soft blue beneath, deep indigo star field above, anamorphic bokeh stars stretching horizontally
+
+CAMERA:
+Wide | Slow push-in
+
+AUDIO:
+- faint metallic creak of station structure, distant hiss of life support ventilation
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+════════════════════════════════════════════════════════════════
+[END SCENE PROMPTS]
+════════════════════════════════════════════════════════════════
