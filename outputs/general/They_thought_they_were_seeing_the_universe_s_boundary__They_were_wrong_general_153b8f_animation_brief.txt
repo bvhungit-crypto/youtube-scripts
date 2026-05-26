@@ -1,0 +1,2129 @@
+════════════════════════════════════════════════════════════════
+[CHARACTERS Description]
+════════════════════════════════════════════════════════════════
+
+PROJECT: They_thought_they_were_seeing_the_universe_s_boundary__They_were_wrong
+
+RATIO: 16:9
+
+--------------------------------------------------
+STYLE (DETAILED - MANDATORY):
+
+- Style Directive: Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1
+
+- Medium: Live-action / Cinematic
+
+- Visual Style:
+  - Photorealistic textures with accurate material response
+  - Observational documentary framing — restrained and credible
+  - Cinematic composition with depth and motivated framing
+  - Anamorphic 2.39:1 framing language adapted to delivery ratio
+  - 8K capture-grade detail with deep blacks and clean highlights
+  - HDR contrast — preserved highlights, nuanced shadows
+
+- Character Design:
+  Semi-realistic figures
+
+- Materials & Textures:
+  [e.g. Flat colors only / Cel-shaded with soft shadow / Painterly with visible brushwork]
+
+- Lighting:
+  Volumetric lighting with visible light shafts
+
+- Color Palette:
+  [Define color roles — e.g. Red = danger, Yellow = energy, Blue = calm, Black outline for clarity]
+
+- Rendering Quality:
+  [e.g. Crisp, clean, high-definition / Slightly grainy retro / Hyper-smooth anime-style]
+
+- Motion Feel:
+  [e.g. Smooth action-driven / Bouncy exaggerated / Slow cinematic / Snappy cut-driven]
+
+- Overall Impression:
+  [One paragraph — what should viewers FEEL when watching? What is the visual "brand" of this project?]
+
+--------------------------------------------------
+TONE:
+[Overall emotional register — e.g. High tension, urgent, dramatic / Dark comedic, absurdist / Warm and nostalgic / Energetic and hype]
+[Detected dominant emotion (auto, for reference): Trust]
+
+--------------------------------------------------
+RENDERING RULES:
+
+- [Rule 1 — e.g. NO TEXT, NO LETTERS, NO SYMBOLIC WORDS in any scene]
+- [Rule 2 — e.g. Story must be conveyed entirely through visuals and expressions]
+- [Rule 3 — e.g. Each scene must have a clear visual conflict or action beat]
+- [Rule 4 — e.g. Only include characters explicitly required in each scene]
+- [Rule 5 — e.g. No background crowd, no unnecessary props]
+- [Add more rules as needed]
+
+--------------------------------------------------
+CHARACTERS (LOCKED):
+
+- Character 1: Archival Apollo
+  [Physical description — face shape, skin tone, eye style — fill in]
+  [Hair — color #HEX, length, style — fill in]
+  [Default outfit — top, bottom, shoes, accessories — fill in]
+  [Signature trait — what makes them instantly recognizable — fill in]
+  [Expression range — what emotions they show most — fill in]
+
+- Character 2: Vintage Apollo
+  [Physical description — face shape, skin tone, eye style — fill in]
+  [Hair — color #HEX, length, style — fill in]
+  [Default outfit — top, bottom, shoes, accessories — fill in]
+  [Signature trait — what makes them instantly recognizable — fill in]
+  [Expression range — what emotions they show most — fill in]
+
+- Character 3: Apollo
+  [Physical description — face shape, skin tone, eye style — fill in]
+  [Hair — color #HEX, length, style — fill in]
+  [Default outfit — top, bottom, shoes, accessories — fill in]
+  [Signature trait — what makes them instantly recognizable — fill in]
+  [Expression range — what emotions they show most — fill in]
+
+- Character 4: Bloomberg
+  [Physical description — face shape, skin tone, eye style — fill in]
+  [Hair — color #HEX, length, style — fill in]
+  [Default outfit — top, bottom, shoes, accessories — fill in]
+  [Signature trait — what makes them instantly recognizable — fill in]
+  [Expression range — what emotions they show most — fill in]
+
+- Character 5: Artemis
+  [Physical description — face shape, skin tone, eye style — fill in]
+  [Hair — color #HEX, length, style — fill in]
+  [Default outfit — top, bottom, shoes, accessories — fill in]
+  [Signature trait — what makes them instantly recognizable — fill in]
+  [Expression range — what emotions they show most — fill in]
+
+- [Add unnamed characters (narrator, crowd, etc.) here if needed]
+
+--------------------------------------------------
+ENVIRONMENT (GLOBAL):
+
+[Default background / world setting for the entire project]
+[e.g. Minimal clean background, soft gradient sky / Neon-lit urban rooftop / Pastel fantasy kingdom]
+[Note: individual scenes can override this with their own ENVIRONMENT field]
+
+[Detected scene environments (auto, for reference):]
+  - Desolate lunar surface under Earthlight, undisturbed regolith stretching to horizon
+  - Interior of Apollo lunar module replica, cramped metallic quarters lit by amber instrument panel glow
+  - Anamorphic bokeh on background control panels
+  - Warm practical lighting from instrument glow
+  - Volumetric atmospheric haze softens background
+  - Volumetric light through presentation haze
+  - Soft 3-point lighting
+  - Volumetric atmosphere softens background
+  - Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+  - Desolate, inhospitable terrain stretching to curved horizon
+  - Training facility background with measurement equipment visible
+  - Each step lifts effortlessly, leaving shallow impressions
+
+--------------------------------------------------
+GOAL:
+[Optional — one sentence stating the visual storytelling goal of the entire video]
+[e.g. "Make the audience feel the tension of nuclear deterrence without using any text or narration"]
+
+════════════════════════════════════════════════════════════════
+[END CHARACTERS Description]
+════════════════════════════════════════════════════════════════
+
+
+════════════════════════════════════════════════════════════════
+SCENE PROMPTS
+════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────
+🎬 SCENE 01: Trust — Hook [00:00–00:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Desolate lunar surface under Earthlight, undisturbed regolith stretching to horizon
+
+ACTIONS:
+- Desolate lunar surface under Earthlight, undisturbed regolith stretching to horizon
+- Anamorphic 2.39:1 framing emphasizes vast emptiness, deep craters casting long shadows
+
+CAMERA:
+Wide | Slow push-in
+
+AUDIO:
+- regolith crunching underfoot
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 02: Trust — Hook [00:08–00:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Interior of Apollo lunar module replica, cramped metallic quarters lit by amber instrument panel glow
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 75 hours
+- Three days
+
+ACTIONS:
+- Interior of Apollo lunar module replica, cramped metallic quarters lit by amber instrument panel glow
+- Hammock sleep restraint suspended in zero-gravity configuration, fabric worn and creased
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- Velcro tearing, fabric rustling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 03: Trust — Hook [00:16–00:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Anamorphic bokeh on background control panels
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 75 hours
+- Three days
+
+ACTIONS:
+- Worn Apollo mission sleep restraint bag against brushed aluminum LM wall, Velcro strips frayed from use
+- 8K HDR captures fabric texture, stitching detail, and faded NASA logo
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- fabric shifting, metal creaking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 04: Trust — Hook [00:24–00:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm practical lighting from instrument glow
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 75 hours
+- Three days
+
+ACTIONS:
+- Archival Apollo mission elapsed time clock showing 75:00:00 in glowing orange LED digits
+- Anamorphic bokeh on background control panels with toggle switches and analog gauges
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- clock ticking, switch clicking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 05: Trust — Hook [00:32–00:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Volumetric atmospheric haze softens background
+
+ACTIONS:
+- Modern NASA facility exterior at golden hour, warm sunlight raking across white concrete and glass
+- American flag on tall pole catches breeze
+
+CAMERA:
+Wide | Tilt
+
+AUDIO:
+- flag flapping, wind rustling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 06: Trust — Hook [00:40–00:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Volumetric light through presentation haze
+
+ACTIONS:
+- NASA Administrator at podium, warm key light mixing with cool monitor glow from mission timeline display behind
+- Determined posture, hands resting on lectern
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- paper rustling, microphone feedback
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 07: Trust — Hook [00:48–00:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Soft 3-point lighting
+
+ACTIONS:
+- Hands placing thick mission brief document on wooden lectern, NASA seal embossed on cover in metallic blue
+- 8K detail captures typography, paper texture, and gold foil lettering reading 'Lunar Surface Operations Plan 2026.' Anamorphic lens flare from overhead practical
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- paper sliding on wood, pages settling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 08: Trust — Hook [00:56–01:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Volumetric atmosphere softens background
+
+ACTIONS:
+- Administrator's face in three-quarter profile, determined expression with slight forward lean
+- Soft key light from camera left, rim light separating from background
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- breath exhaling, clothing shifting
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 09: Trust — Hook [01:04–01:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+ACTIONS:
+- Mission control room with multiple large monitors displaying detailed lunar base architectural renderings and construction timelines
+- Volumetric light streams through venetian blinds casting precise horizontal shadows across the displays
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- computer fan whirring, monitor display flickering, ventilation system humming
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 10: Trust — Hook [01:12–01:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+ACTIONS:
+- Large wall-mounted Gantt chart showing mission phases from 2024 to 2036, with color-coded milestones and dependency lines
+- Engineers' hands point to critical path items in the 2030-2036 section
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- marker squeaking on whiteboard, paper rustling, pen clicking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 11: Trust — Hook [01:20–01:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Desolate, inhospitable terrain stretching to curved horizon
+
+ACTIONS:
+- Harsh lunar landscape with extreme contrast between brilliant sunlit regolith and pitch-black shadows
+- Jagged crater rim in foreground, Earth visible as small blue marble on horizon
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- solar wind particles striking surface, micrometeorite impacts crackling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 12: Trust — Hook [01:28–01:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Training facility background with measurement equipment visible
+
+ACTIONS:
+- Astronaut in partial-gravity simulator suspended by precision harness system, body angled forward mid-bounce
+- Volumetric dust particles illuminate the reduced-weight movement
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- harness cables creaking, pulley system clicking, boots scuffing floor
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 13: Trust — Hook [01:36–01:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Each step lifts effortlessly, leaving shallow impressions
+
+ACTIONS:
+- Lunar boots on simulated gray regolith in slow-motion, capturing the moment of impact and reduced-weight bounce
+- HDR captures fine dust particles suspended longer than Earth-normal
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- regolith crunching softly, boot material flexing, dust particles settling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 14: Trust — Hook [01:44–01:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+ACTIONS:
+- Digital readout display showing "1/6 g" in crisp LED numerals with decimal precision
+- Anamorphic bokeh on background laboratory equipment creates soft out-of-focus glow
+
+CAMERA:
+Extreme Close-up | Slow push-in
+
+AUDIO:
+- digital display buzzing, cooling fan spinning, electrical hum
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 15: Trust — Hook [01:52–02:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+ACTIONS:
+- Medical monitor displaying bone density scan with color-coded DEXA imaging
+- Warm amber monitor glow illuminates the screen
+
+CAMERA:
+Extreme Close-up | Slow push-in
+
+AUDIO:
+- monitor beeping softly, keyboard keys tapping, mouse clicking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 16: Trust — Hook [02:00–02:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Anamorphic compression emphasizes confined module space
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- two hours
+- six months
+
+ACTIONS:
+- Astronaut on ISS treadmill with bungee harness system pulling body down against platform
+- Volumetric light streams through cupola window showing Earth below
+
+CAMERA:
+Medium | Tracking
+
+AUDIO:
+- treadmill belt whirring, bungee cords stretching, ventilation system whooshing
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 17: Trust — Build Up [02:08–02:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Interior ISS module with consistent even lighting, 3800K warm practicals, HDR capturing metallic sheen and fabric texture
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- two hours
+- six months
+
+ACTIONS:
+- Resistance bands and exercise equipment mounted on ISS wall module, metallic textures worn from use, straps slightly tensioned
+- Equipment remains still, awaiting use
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- metal carabiner clicking against equipment frame
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 18: Trust — Build Up [02:16–02:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm 3800K facility lighting, anamorphic frame emphasizing support structure, HDR capturing fabric and skin tones
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- two hours
+- six months
+
+ACTIONS:
+- Astronaut assisted by two medical personnel in golden-lit NASA recovery facility, astronaut's posture slightly hunched, leaning on support rail, medical team's hands steadying shoulders
+- Astronaut takes slow, deliberate steps forward
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- footsteps on polished floor, fabric rustling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 19: Trust — Build Up [02:24–02:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm 3800K desk lamp, anamorphic bokeh on background, 8K detail capturing aged paper texture and ink
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 75 hours
+
+ACTIONS:
+- Archival Apollo mission patch and flight plan documents spread on desk, paper edges yellowed, mission duration stamp visible reading '75 hours'
+- Documents remain still under warm nostalgic lighting
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- paper pages settling on desk
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 20: Trust — Build Up [02:32–02:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clean NASA facility environment with neutral beige walls slightly out of focus in background
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 75 hours
+
+ACTIONS:
+- Digital mission timer display showing "75:00:00" in bright amber LED numerals, mounted on brushed aluminum console panel
+- Timer digits glow steadily against matte gray surface, subtle lens flare catching the colon separators
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- soft electronic beep as timer holds at 75 hours, faint relay click
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 21: Trust — Build Up [02:40–02:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm 3800K facility lighting, anamorphic lens flare on metal surfaces, 8K detail on mechanical timer components
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 75 hours
+
+ACTIONS:
+- Vintage Apollo mission timer display showing '75:00:00', mechanical digits frozen, warm archival lighting casting soft shadows
+- Timer remains static, background control panels slightly out of focus with anamorphic bokeh
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- mechanical relay clicking, ventilation system air flow
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 22: Trust — Build Up [02:48–02:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+HDR contrast between illuminated regolith and void sky, volumetric sunlight defining terrain texture, 8K detail on rock formations
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- hundred meters
+
+ACTIONS:
+- Lunar surface at solar noon, pitch-black sky above bright gray regolith, harsh sunlight raking across crater-pocked terrain, no atmosphere visible
+- Landscape remains still, shadows sharp and absolute
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- no sound
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 23: Trust — Build Up [02:56–03:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Consistent even lighting, 3800K, anamorphic frame, 8K texture on suit material and lunar dust
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- hundred meters
+
+ACTIONS:
+- Astronaut glove in white EVA suit touching gray lunar rock, fingers pressing gently into regolith, no visible sound waves or vibration
+- Glove remains in contact, texture of suit fabric and rock surface in sharp focus
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- no sound
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 24: Trust — Build Up [03:04–03:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+HDR capturing Earth's blue glow in reflection, 3800K interior helmet lighting, 8K detail on visor scratches and coating
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- hundred meters
+
+ACTIONS:
+- Helmet visor reflecting pitch-black sky and distant Earth, faceplate surface showing fine scratches and dust particles, astronaut's face barely visible inside
+- Visor remains still, reflections sharp and clear
+
+CAMERA:
+Extreme Close-up | Static
+
+AUDIO:
+- no sound
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 25: Trust — Build Up [03:12–03:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 127 degrees
+- 173 degrees
+- 300 degrees
+
+ACTIONS:
+- Split-screen digital thermometer display showing two numerical readouts: left panel glows searing orange displaying +127°C, right panel glows icy blue displaying -173°C, with a central vertical divider and a third readout showing 300° swing in white
+- The display sits against a matte black technical monitor background, clean NASA interface aesthetic
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- digital beep of temperature sensor updating, faint electronic hum of display panel
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 26: Trust — Build Up [03:20–03:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 127 degrees
+- 173 degrees
+- 300 degrees
+
+ACTIONS:
+- Lunar surface bisected by the day-night boundary: left half bathed in harsh white sunlight with visible heat shimmer distortion rising from regolith, right half in deep shadow with frost crystals glinting on rock edges
+- The terminator line cuts diagonally through frame, volumetric light beams raking across the transition zone
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- faint crackle of thermal expansion in rock, subtle grinding of regolith particles shifting
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 27: Trust — Build Up [03:28–03:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Calm, technical atmosphere
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 127 degrees
+- 173 degrees
+- 300 degrees
+
+ACTIONS:
+- Thermal sensor array mounted on test equipment, LED indicators cycling through temperature readings, anamorphic lens flare catching metallic surfaces
+- Precise, focused instrumentation
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- soft click of relay switches, faint whir of cooling fan
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 28: Trust — Build Up [03:36–03:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Calm, deliberate atmosphere
+
+ACTIONS:
+- Structural test rig cycling a habitat module mockup through thermal extremes, volumetric steam venting from thermal chamber seals as the module transitions states
+- Methodical, patient engineering process
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- hiss of steam release, metallic creak of expanding joints
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 29: Trust — Build Up [03:44–03:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm laboratory lighting with volumetric glow through the sample container
+
+ACTIONS:
+- Lunar dust sample contained in sealed transparent chamber, fine gray particles suspended and slowly settling
+- Sharp, angular grain structure visible in 8K macro detail, anamorphic bokeh softening background
+
+CAMERA:
+Extreme Close-up | Static
+
+AUDIO:
+- faint tap on glass container, soft rustle of particles settling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 30: Trust — Build Up [03:52–04:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Microscope stage shifts incrementally, bringing new particle clusters into focus, revealing the abrasive texture of billions of years of micrometeorite bombardment
+
+ACTIONS:
+- Extreme macro view of lunar regolith particles under electron microscope display, jagged glass shards and angular mineral fragments filling frame with crystalline precision, each edge razor-sharp and glinting under scientific illumination
+- Microscope stage shifts incrementally, bringing new particle clusters into focus, revealing the abrasive texture of billions of years of micrometeorite bombardment
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- microscope stage motor clicking, sample tray sliding
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 31: Trust — Build Up [04:00–04:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Volumetric dust cloud catching harsh lunar surface lighting, anamorphic frame with black sky above
+
+ACTIONS:
+- Gloved hand in lunar EVA suit sifting regolith, fine particles clinging electrostatically to fabric and refusing to fall
+- Calm, deliberate demonstration of adhesion problem
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- soft scrape of glove through regolith, faint crackle of static discharge
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 32: Trust — Build Up [04:08–04:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clean NASA materials lab with soft golden overhead illumination, atmosphere of careful scientific examination and trust
+
+ACTIONS:
+- Split-screen comparison display: left side shows rich brown Earth soil sample with rounded particles under warm 3800K lab lighting, right side reveals gray lunar regolith with razor-sharp angular fragments, both samples in clear acrylic containers on white laboratory counter
+- Gloved hands gently rotate the lunar sample container, light catching the glassy edges of particles
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- container rotating on counter, glove fabric rustling, sample shifting
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 33: Trust — Build Up [04:16–04:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Sterile laboratory environment with cool blue-gray illumination, clinical precision atmosphere
+
+ACTIONS:
+- Extreme close-up of jagged lunar regolith particles under electron microscope magnification, sharp angular glass shards glinting under focused beam light
+- Microscopic dust grains slowly rotating in frame, revealing razor-like edges and crystalline fracture patterns
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- microscope stage motor whirring, sample tray clicking into position
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 34: Trust — Build Up [04:24–04:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Fifteen years
+
+ACTIONS:
+- Archival Apollo-era mission report open on modern engineering desk, yellowed pages showing handwritten dust mitigation notes and diagrams
+- Engineer's hands in frame, placing contemporary CAD printout of advanced airlock seal design beside the vintage document — visual contrast between past nuisance and present crisis
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- paper pages turning, pen tapping on desk surface
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 35: Trust — Build Up [04:32–04:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm facility lighting mixing with cool blueprint undertones, volumetric atmosphere, anamorphic lens capturing shallow depth of field
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Fifteen years
+
+ACTIONS:
+- Hands in white gloves annotating lunar base airlock blueprint with red pen — circling seal interfaces, drawing arrows to dust infiltration points, writing technical notes in margin
+- Blueprint spread across illuminated drafting table, 8K detail capturing paper grain and ink texture
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- pen scratching on paper, blueprint rustling under hands
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 36: Trust — Build Up [04:40–04:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Fifteen years
+
+ACTIONS:
+- Full-scale lunar habitat airlock prototype in NASA test facility — industrial scale engineering, metallic surfaces reflecting volumetric atmospheric haze, dust simulation chamber visible through reinforced glass
+- Prototype stands isolated in vast hangar space, emphasizing scale and isolation
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- distant ventilation system hum, metal structure settling and creaking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 37: Trust — Build Up [04:48–04:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+ACTIONS:
+- Radiation warning trefoil symbol on official lunar mission briefing document, sharp focus in center frame
+- Document rests on mission planning table, surrounding papers slightly out of focus
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- document sliding across table surface, paper settling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 38: Trust — Build Up [04:56–05:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+ACTIONS:
+- Mission control screen array displaying real-time solar storm visualization — coronal mass ejection rendered in scientific false-color, particle streams radiating outward from Sun's surface
+- Multiple monitors showing telemetry data, radiation flux graphs spiking
+
+CAMERA:
+Wide | Slow push-in
+
+AUDIO:
+- keyboard keys clicking, computer cooling fans whirring
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 39: Trust — Build Up [05:04–05:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cool 5600K moonlight, anamorphic 2.39:1 framing emphasizing horizontal vulnerability and vertical threat
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- magnetosphere
+
+ACTIONS:
+- Bare lunar surface in foreground — gray regolith texture in 8K detail — with cosmic ray particle visualization overlay: thin blue-white streaks descending vertically from star-filled black sky, unimpeded trajectories reaching ground
+- No atmosphere, no protection visible
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- simulated particle detector clicks, Geiger counter ticking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 40: Trust — Build Up [05:12–05:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- magnetosphere
+
+ACTIONS:
+- Electronic dosimeter badge clipped to spacesuit fabric, LED display showing accumulated radiation reading in millisieverts — numbers incrementing slowly in real-time
+- HDR capturing LED luminance against white suit material, anamorphic bokeh rendering background into soft blur
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- dosimeter beeping intermittently, electronic circuit hum
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 41: Trust — Build Up [05:20–05:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- magnetosphere
+
+ACTIONS:
+- Cross-section diagram of Earth's magnetosphere deflecting solar radiation particles, glowing blue field lines curving around planet, contrasted with bare lunar surface receiving direct particle bombardment shown as orange streaks penetrating gray regolith
+- Scientific visualization with volumetric light rays, HDR highlighting invisible radiation paths as luminous trajectories
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- faint electrical hum of display screen, soft beep of data point appearing
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 42: Fear — Build Up [05:28–05:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+ACTIONS:
+- Digital radiation dosimeter display climbing from green zone through yellow into red warning threshold, numbers incrementing in real-time, amber LED indicators pulsing faster as values rise
+- Device mounted on lab bench, cool overhead fluorescent light casting harsh shadows, red accent glow from warning LEDs intensifying
+
+CAMERA:
+Close-up | Handheld
+
+AUDIO:
+- dosimeter beeping accelerating, LED indicator clicking, fingertip tapping glass screen
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 43: Fear — Deep [05:36–05:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+ACTIONS:
+- Wall-mounted mission calendar with daily radiation exposure markers accumulating, each day stamped with red dosage value, hand-drawn tally marks filling margins
+- Camera pushes closer as pages flip forward in time-lapse, markers densifying, red ink spreading across weeks and months
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- pen scratching paper repeatedly, calendar page rustling and flipping, marker cap clicking off and on
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 44: Trust — Deep [05:44–05:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Prototype sits unfinished, gap in shielding layer visible, emphasizing unsolved engineering challenge
+
+ACTIONS:
+- Empty NASA test chamber with half-finished radiation shielding prototype on steel workbench, exposed wiring and incomplete regolith composite panels, tools arranged but unused
+- Cool overhead fluorescent lighting, teal color grade, authoritative Bloomberg-style framing
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- ventilation system low hum, fluorescent light faint buzz
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 45: Trust — Deep [05:52–06:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+ACTIONS:
+- Gloved hands sifting lunar regolith simulant under focused task light, gray powder cascading through fingers in slow motion, 8K texture detail capturing individual grain structure
+- Volumetric dust particles suspended in light beam, cool teal color grade, authoritative framing
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- regolith grains cascading and rustling, gloved fingers rubbing material, powder settling into metal tray
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 46: Trust — Deep [06:00–06:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+ACTIONS:
+- Transparent cross-section model of lunar habitat showing layered regolith shielding above structure, animated light rays (representing radiation) entering from top, stopping and dissipating at regolith barrier layer
+- Scientific visualization with volumetric light beams, cool teal color grade, authoritative Bloomberg-style lighting
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- soft electronic hum of display, faint beep as light rays stop at barrier
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 47: Trust — Deep [06:08–06:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+ACTIONS:
+- Orbital map of lunar south pole displayed on large monitor, topographic relief showing crater rims and permanently shadowed regions marked in deep blue, target landing zones highlighted in teal
+- Cool authoritative Bloomberg-style lighting, 3700K with teal accent
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- computer fan low hum, mouse clicking on map interface
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 48: Trust — Deep [06:16–06:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Anamorphic 2.39:1 framing emphasizing vast horizontal expanse, volumetric light through thin atmosphere simulation
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 230 degrees
+
+ACTIONS:
+- Lunar south pole terrain with Sun perpetually grazing horizon at extreme low angle, golden rim light illuminating crater peaks while deep shadows fill crater interiors
+- Long raking shadows stretching across regolith, cool blue shadowed regions contrasting with warm sunlit ridges
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- faint solar panel hum, thermal expansion crack of regolith
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 49: Trust — Deep [06:24–06:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Earth rising above horizon in soft focus
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 230 degrees
+
+ACTIONS:
+- Split-screen anamorphic frame dividing sunlit lunar ridge (left, warm 5600K highlights) and deep crater shadow (right, cool 3700K teal)
+- HDR capture shows extreme contrast: bright regolith texture versus black void
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- solar wind static crackling, faint ice sublimation hiss
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 50: Trust — Deep [06:32–06:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 230 degrees
+
+ACTIONS:
+- Physical scale model of lunar habitat module resting on illuminated drafting table, casting sharp shadows
+- Architect's hands in frame adjusting transparent dome section under focused task light
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- plastic model pieces clicking together softly on table surface
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 51: Trust — Deep [06:40–06:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+ACTIONS:
+- Crystalline water ice embedded in gray lunar regolith under electron microscope, individual ice crystals refracting cool blue scientific LED light at 8K resolution
+- Shallow depth of field isolates single ice grain against blurred regolith particles
+
+CAMERA:
+Extreme Close-up | Static
+
+AUDIO:
+- microscope lens adjusting with mechanical click
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 52: Trust — Deep [06:48–06:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+soft-focus server racks with blinking status LEDs
+
+ACTIONS:
+- Three orbital spacecraft (Lunar Prospector, Chandrayaan-1, LRO) rendered as 3D models orbiting Moon hologram at center
+- Ice concentration heat-map overlays south pole in teal-to-white gradient, data points resolving in real-time
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- keyboard typing rhythm, mouse clicks, hard drive spin-up whir
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 53: Trust — Deep [06:56–07:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+ACTIONS:
+- Gloved finger tracing ice deposit locations on backlit lunar topographic map, finger moving deliberately across south pole region
+- Map shows elevation contours and permanently shadowed crater zones in high contrast
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- fingertip sliding across smooth laminated map surface
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 54: Trust — Deep [07:04–07:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+ACTIONS:
+- Mission control operations wall displaying synchronized data feeds from multiple lunar probes, large screens showing converging ice detection results
+- Warm facility lighting bathes empty workstations in golden glow
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- ventilation system air flowing through large facility space
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 55: Trust — Deep [07:12–07:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Anamorphic reflection creates horizontal flare across cylindrical vessel
+
+ACTIONS:
+- Clear containment vessel holding water sample on laboratory bench, liquid catching and refracting overhead LED light
+- Droplets cling to interior glass walls
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- water droplet falling into sample container with soft impact
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 56: Trust — Deep [07:20–07:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Electrodes visible at chamber bases
+
+ACTIONS:
+- Electrolysis apparatus with transparent chambers showing water splitting into separate gas streams
+- Hydrogen bubbles rise through left chamber, oxygen through right, both streams illuminated by volumetric lighting
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- electrolysis bubbles fizzing and popping in liquid chambers
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 57: Trust — Deep [07:28–07:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clean white NASA laboratory environment with polished steel surfaces, warm 3700K teal-accented task lighting creating subtle reflections on metallic equipment
+
+ACTIONS:
+- Split-screen composition: left frame shows oxygen tank valve with pressure gauge needle rising steadily, right frame shows hydrogen fuel cell with glowing indicator LEDs transitioning from amber to green
+- Engineer's gloved hands adjust valve controls with precise, confident movements
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- valve clicking, gauge needle tapping, LED indicators beeping
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 58: Trust — Deep [07:36–07:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Permanently shadowed craters appear as absolute black voids against gray regolith, sunlight grazing crater rims in razor-sharp terminator line
+
+ACTIONS:
+- Lunar south pole crater field from 200km altitude, Earth visible as crescent in upper frame
+- Permanently shadowed craters appear as absolute black voids against gray regolith, sunlight grazing crater rims in razor-sharp terminator line
+
+CAMERA:
+Wide | Orbit
+
+AUDIO:
+- satellite thruster firing, telemetry beep
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 59: Trust — Deep [07:44–07:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Lunar regolith texture rendered in extreme HDR contrast between lit and shadowed regions, teal accent lighting on equipment housings
+
+ACTIONS:
+- Illuminated ridgeline on lunar south pole with solar array panels catching brilliant sunlight, their surfaces gleaming with 8K detail
+- Foreground shows the sharp terminator line where sunlight ends and permanent shadow begins in the crater below
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- solar panel servos whirring, rover treads crunching regolith
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 60: Trust — Deep [07:52–08:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clean NASA integration facility with authoritative Bloomberg-style lighting at 3700K, polished floor reflecting equipment
+
+ACTIONS:
+- Nuclear RTG power unit mounted on rover chassis, its radioisotope core housing visible with thermal fins glowing faint amber from decay heat
+- Diagnostic screen displays power output graph with steady wattage line, teal UI elements against black background
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- cooling fan spinning, diagnostic screen beeping, scanner clicking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 61: Trust — Deep [08:00–08:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Volumetric sunlight cutting across rim edge in sharp horizontal line, creating dramatic light-to-shadow gradient
+
+ACTIONS:
+- Camera positioned on sunlit crater rim, tilting down into permanently shadowed interior
+- Volumetric sunlight cutting across rim edge in sharp horizontal line, creating dramatic light-to-shadow gradient
+
+CAMERA:
+Wide | Tilt
+
+AUDIO:
+- regolith shifting, solar panel adjusting
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 62: Trust — Deep [08:08–08:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clean NASA facility environment, authoritative Bloomberg-style lighting at 3700K with teal accent, anamorphic lens flare from screen edges
+
+ACTIONS:
+- Fission reactor technical schematic glowing on backlit engineering display, uranium core diagram centered with heat exchanger pathways highlighted in amber
+- Screen fills frame, rack focus shifts from schematic to engineer's hand hovering over touchscreen interface
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- touchscreen tapping, cooling fan whirring
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 63: Trust — Deep [08:16–08:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Physical scale model of fission reactor module under focused task light, casting dramatic shadows
+
+ACTIONS:
+- Physical scale model of fission reactor module under focused task light, casting dramatic shadows
+- Volumetric dust particles suspended in light beam, 8K surface texture detail on titanium casing and radiator fins
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- pencil sketching paper, ruler sliding on desk
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 64: Trust — Deep [08:24–08:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Anamorphic 2.39:1 frame emphasizing horizontal vastness and isolation
+
+ACTIONS:
+- Lunar surface at terminator boundary, half the frame in harsh sunlight, half in deep shadow
+- Camera slowly advancing toward shadow line, emphasizing the stark transition
+
+CAMERA:
+Wide | Slow push-in
+
+AUDIO:
+- solar wind static, regolith settling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 65: Trust — Deep [08:32–08:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Display glows with confident clarity against warm golden facility lighting
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 173 degrees
+
+ACTIONS:
+- Digital temperature display showing -173°C in sharp teal LCD numerals, mounted on brushed aluminum panel
+- Display glows with confident clarity against warm golden facility lighting
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- LCD digit transition clicks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 66: Trust — Deep [08:40–08:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Teal accent lighting traces power conduits
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 173 degrees
+
+ACTIONS:
+- Illuminated battery bank array in warm-lit NASA facility, individual cells glowing with amber charge indicators
+- Teal accent lighting traces power conduits
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- battery cell cooling fans spinning
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 67: Trust — Deep [08:48–08:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Life support control panel with illuminated status indicators, warm golden facility lighting, teal accent on active readouts
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 173 degrees
+
+ACTIONS:
+- Life support control panel with illuminated status indicators, warm golden facility lighting, teal accent on active readouts
+- Confident operational display, clean technical interface
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- relay switches clicking sequentially
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 68: Anticipation — Deep [08:56–09:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Mission elapsed time display counting upward in warm amber numerals, golden facility lighting, teal accent on frame edges
+
+ACTIONS:
+- Mission elapsed time display counting upward in warm amber numerals, golden facility lighting, teal accent on frame edges
+- Timer advances steadily, building anticipation
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- digital counter beeping incrementally
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 69: Trust — Deep [09:04–09:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Volumetric light streaming through test chamber window, 3700K teal accent, 8K material texture on metal and rubber, authoritative Bloomberg-style lighting, anamorphic bokeh on background equipment
+
+ACTIONS:
+- Engineer's gloved hands stress-testing habitat seal joint in test chamber, fingers pressing firmly on metallic gasket, posture focused and methodical
+- Hands apply steady pressure, testing the seal's integrity without movement beyond the action itself
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- metal joint creaking under pressure
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 70: Trust — Deep [09:12–09:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Camera glides smoothly left to right across the illuminated timeline, warm NASA facility lighting casting soft teal accents on the display panels
+
+ACTIONS:
+- Mission timeline wall display spanning 2026-2036 with phase markers and milestones, posture methodical and deliberate
+- Camera glides smoothly left to right across the illuminated timeline, warm NASA facility lighting casting soft teal accents on the display panels
+
+CAMERA:
+Wide | Tracking
+
+AUDIO:
+- faint whir of projector cooling fan
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 71: Surprise — Deep [09:20–09:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Dramatic god-ray reveal lighting, cool-to-warm color burst as dust catches light, anamorphic 2.39:1 frame, 8K detail on rover mechanics and regolith texture
+
+ACTIONS:
+- Lunar rover prototype on test regolith, drilling arm extending downward into simulated lunar soil, posture mechanical and purposeful
+- Drill bit penetrates regolith, volumetric dust plume rising in slow motion, HDR capturing metal sheen and dust particles
+
+CAMERA:
+Medium | Crane
+
+AUDIO:
+- drill motor whirring, regolith crunching
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 72: Trust — Deep [09:28–09:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Volumetric light streaming through high assembly bay windows, 3700K teal accent, authoritative Bloomberg-style lighting, anamorphic 2.39:1 frame, 8K detail on habitat fabric and crane rigging
+
+ACTIONS:
+- Inflatable habitat module mockup in assembly bay, overhead crane lowering cylindrical component toward the module, posture industrial and patient
+- Crane descends slowly, component aligning with habitat frame, no human figures visible
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- crane cable creaking, hydraulic hiss
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 73: Trust — Deep [09:36–09:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Lunar surface visible through viewport beyond, cool gray regolith under black sky, anamorphic bokeh softening background habitat modules
+
+ACTIONS:
+- Robotic arm connector mating with cylindrical habitat port, mechanical interface in sharp 8K detail, posture steady and precise
+- Connector locks into place with deliberate mechanical motion
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- metallic clunk of connector locking, pneumatic hiss of seal engaging
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 74: Trust — Deep [09:44–09:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Volumetric light shafts cutting through interior atmosphere, dust motes suspended in zero-gravity sections
+
+ACTIONS:
+- Pressurized lunar habitat module interior, curved white composite walls with integrated life-support panels glowing soft amber, single viewport revealing gray regolith and black sky beyond
+- Robotic arm installing ice-extraction equipment visible through transparent section of wall, mechanical joints articulating with precision
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- mechanical whir of robotic joints, soft pneumatic hiss of airlock seals
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 75: Trust — Deep [09:52–10:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+8K gauge detail shows precise calibration markings, anamorphic bokeh on background
+
+ACTIONS:
+- Airlock pressure gauge rising from red through yellow to green zone, backlit indicator glowing, needle moving steadily
+- Rack focus shifts from gauge face to habitat interior visible beyond, warm lighting spilling through open hatch
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- gauge needle ticking upward, airlock seal hissing, indicator beep at green zone
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 76: Trust — Deep [10:00–10:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Volumetric atmosphere glow around structures, anamorphic frame captures vast lunar horizon
+
+ACTIONS:
+- Completed habitat cluster on lunar surface under Earthlight, cylindrical modules connected by pressurized corridors, posture stable and enduring
+- Soft blue glow from Earth illuminates regolith, habitat windows emit warm golden light
+
+CAMERA:
+Wide | Crane
+
+AUDIO:
+- faint structural creaking, thermal expansion ticking, distant regolith settling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 77: Trust — Deep [10:08–10:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Authoritative Bloomberg-style lighting at 3700K with teal accent highlights on metallic surfaces, anamorphic 2.39:1 framing emphasizes horizontal station architecture
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- The Gateway station
+
+ACTIONS:
+- Gateway station physical scale model suspended in frame, Earth and Moon visible in background alignment, model slowly rotating to reveal solar arrays and docking ports
+- Authoritative Bloomberg-style lighting at 3700K with teal accent highlights on metallic surfaces, anamorphic 2.39:1 framing emphasizes horizontal station architecture
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- mechanical servo motor rotating model stand, faint click of locking mechanism
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 78: Trust — Deep [10:16–10:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Map shows Earth-Moon system, trajectory lines glow softly, anamorphic bokeh on background charts
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- The Gateway station
+
+ACTIONS:
+- Mission planner's hand moving Gateway module miniature on illuminated trajectory map, fingers deliberate and precise
+- Hand slides module from orbital path toward lunar surface trajectory, warm task lighting casts volumetric dust beam
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- module sliding on map surface, paper rustling, pen tapping trajectory line
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 79: Trust — Deep [10:24–10:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm facility lighting, anamorphic screen flare from display edges, 8K screen clarity shows technical annotations
+
+ACTIONS:
+- Cargo lander schematic on large display wall, increased payload capacity section highlighted in teal, posture authoritative and grounded
+- Schematic shows lander cross-section with expanded cargo bay, mass allocation numbers visible
+
+CAMERA:
+Wide | Slow push-in
+
+AUDIO:
+- display screen buzzing, keyboard clicking, mouse scrolling schematic
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 80: Trust — Deep [10:32–10:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm facility lighting, 8K screen clarity shows precise numerical data, anamorphic frame captures monitor and reflection
+
+ACTIONS:
+- Mass allocation spreadsheet on monitor, cursor highlighting increased surface delivery tonnage row, numbers glowing in teal accent
+- Spreadsheet shows mission manifest with tonnage values, cursor moves down column emphasizing surface allocation increase
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- mouse clicking cells, keyboard typing numbers, spreadsheet cell beep
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 81: Trust — Deep [10:40–10:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Photorealistic NASA documentary aesthetic, 8K HDR, volumetric light rays cutting through dust motes, anamorphic bokeh on background engineering blueprints
+
+ACTIONS:
+- Lunar habitat module cross-section model under warm task lighting, structural beams and life support conduits visible through transparent panels, hands in frame adjusting interior layout components
+- Photorealistic NASA documentary aesthetic, 8K HDR, volumetric light rays cutting through dust motes, anamorphic bokeh on background engineering blueprints
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- plastic model components clicking together, metal tweezers scraping surface
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 82: Trust — Deep [10:48–10:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Photorealistic NASA documentary aesthetic, 8K HDR, 3700K teal accent on paper texture, anamorphic lens flare on metallic seal
+
+ACTIONS:
+- Official NASA mission document header filling frame, embossed seal catching volumetric light, rack focus pulling from blurred text to sharp mission logo
+- Photorealistic NASA documentary aesthetic, 8K HDR, 3700K teal accent on paper texture, anamorphic lens flare on metallic seal
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- document pages turning crisply, paper sliding on desk
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 83: Trust — Deep [10:56–11:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep space backdrop with Moon's gray surface below, stars sharp and unmoving
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Gateway station
+
+ACTIONS:
+- Gateway station module suspended in lunar orbit, metallic surface reflecting Earth's blue glow, structural trusses and solar arrays extending outward in precise geometry
+- Station rotates imperceptibly, revealing docking ports and communication arrays, technical precision evident in every panel and joint
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- station mechanical clicks, thruster valve releases
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 84: Trust — Payoff [11:04–11:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Fission reactor prototype model on laboratory bench, glowing core element visible through transparent shielding, technical readouts on adjacent monitor
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Gateway station
+
+ACTIONS:
+- Fission reactor prototype model on laboratory bench, glowing core element visible through transparent shielding, technical readouts on adjacent monitor
+- Photorealistic NASA documentary aesthetic, 8K HDR, warm 4000K task lighting, volumetric glow from reactor core, anamorphic lens flare
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- cooling fan whirring, electronic beeping from monitor, metal casing settling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 85: Trust — Payoff [11:12–11:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Photorealistic NASA documentary aesthetic, 8K HDR, warm 4000K backlight, volumetric dust in light beam, anamorphic bokeh on background equipment
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Gateway station
+
+ACTIONS:
+- Three-phase mission timeline chart on illuminated wall panel, robotic icons transitioning to habitat icons to permanent base icons, LED indicators progressing left to right
+- Photorealistic NASA documentary aesthetic, 8K HDR, warm 4000K backlight, volumetric dust in light beam, anamorphic bokeh on background equipment
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- LED indicators clicking on sequentially, panel switch toggling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 86: Trust — Payoff [11:20–11:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Lunar regolith sample container on lab bench, ice crystals visible through magnification lens, spectrometer readout screen displaying water composition data
+
+ACTIONS:
+- Lunar regolith sample container on lab bench, ice crystals visible through magnification lens, spectrometer readout screen displaying water composition data
+- Photorealistic NASA documentary aesthetic, 8K HDR, warm 4000K task lighting, volumetric light through lens, anamorphic flare on glass container
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- spectrometer beeping, sample container lid unscrewing, glass clinking on metal tray
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 87: Trust — Payoff [11:28–11:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Archive wall displaying faded Apollo mission patches in glass cases, decades of lunar program history visible, cool museum lighting casting soft shadows
+
+ACTIONS:
+- Archive wall displaying faded Apollo mission patches in glass cases, decades of lunar program history visible, cool museum lighting casting soft shadows
+- Photorealistic NASA documentary aesthetic, 8K HDR, 4000K warm accent on brass plaques, volumetric dust in light shafts, anamorphic lens compression
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- glass case sliding open slowly, brass latch clicking, footsteps on polished floor
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 88: Trust — Payoff [11:36–11:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Photorealistic NASA documentary aesthetic, 8K HDR, warm 4000K monitor glow, volumetric light through microscope lens, anamorphic bokeh on background lab equipment
+
+ACTIONS:
+- Radiation shielding material sample under electron microscope display, layered structure visible on high-resolution monitor, measurement calipers adjusting sample position
+- Photorealistic NASA documentary aesthetic, 8K HDR, warm 4000K monitor glow, volumetric light through microscope lens, anamorphic bokeh on background lab equipment
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- caliper jaws clicking shut, microscope stage motor whirring, keyboard typing data entry
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 89: Trust — Payoff [11:44–11:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm golden facility lighting bathes the display panel, soft reflections on polished control room glass, anamorphic lens flare streaking horizontally across frame
+
+ACTIONS:
+- Digital mission countdown clock display mounted on NASA control room wall, numbers incrementing forward in crisp LED segments, shoulders relaxed, steady posture
+- Clock mechanism advances through mission timeline phases, each digit clicking into place with mechanical precision
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- digital clock relay mechanism clicking, LED segment switching
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 90: Anticipation — Payoff [11:52–12:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Dramatic lighting transitions to warm release gold, 8K HDR with volumetric light cutting between the displays
+
+ACTIONS:
+- Split-frame composition: NASA Artemis mission timeline on left, CNSA lunar program timeline on right, both rendered as illuminated acrylic displays with glowing 2030 target dates
+- Camera creeps into the converging timelines
+- Suddenly pulls back to reveal both programs racing toward the same year
+
+CAMERA:
+Medium | Zoom out
+
+AUDIO:
+- hard drive platters spinning up, data transfer beeps
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 91: Trust — Payoff [12:00–12:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm archival color grade with 4000K lighting, volumetric dust particles floating through the frame
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- eight years
+
+ACTIONS:
+- Vintage Apollo program budget chart on aged paper, camera advancing on the peak expenditure bar graph from 1966
+- Warm archival color grade with 4000K lighting, volumetric dust particles floating through the frame
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- microfilm projector advancing frames, mechanical sprocket clicking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 92: Trust — Payoff [12:08–12:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Camera advances as cells populate with dollar amounts, warm 4000K lighting reflecting off the screen surface
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- eight years
+
+ACTIONS:
+- Modern budget spreadsheet on 8K HDR display, cursor hovering over multi-year funding projections spanning 2025-2035
+- Camera advances as cells populate with dollar amounts, warm 4000K lighting reflecting off the screen surface
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- spreadsheet cells being selected with mouse clicks, keyboard enter key pressed
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 93: Trust — Payoff [12:16–12:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Anamorphic lens creates horizontal flares across the ascent stage
+
+ACTIONS:
+- Museum-quality Apollo 17 Lunar Module Challenger scale model on black display pedestal, dramatic underlighting casting long shadows upward
+- Camera advances as volumetric light particles drift through the frame like lunar dust
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- display case glass vibrating subtly, model motor whirring
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 94: Trust — Payoff [12:24–12:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Volumetric lighting creates soft glow around the patch edges
+
+ACTIONS:
+- Apollo 17 mission patch under museum glass, embroidered texture reading 'The Last Moon Mission' with raking warm light across the fabric surface
+- Camera advances to reveal the eagle and lunar surface stitching in 8K HDR detail
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- fabric rustling as archival handler adjusts the patch, glass case opening
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 95: Trust — Payoff [12:32–12:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Lunar surface stretches behind him under warm earthlight, soft shadows across regolith, American flag visible in middle distance
+
+ACTIONS:
+- Astronaut in full Apollo EVA suit stands at lunar module ladder base, helmet visor reflecting Earth's blue crescent, gloved hand resting on ladder rung with quiet resolve
+- He pauses mid-climb, shoulders squared in calm determination
+- Lifts one boot onto the first rung
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- boot grinding lunar dust, glove sliding on metal ladder rung
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 96: Trust — Payoff [12:40–12:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Lunar surface extends into soft focus behind, warm gray tones under 4000K earthlight glow
+
+ACTIONS:
+- Single bootprint preserved in fine lunar regolith, every tread ridge casting crisp shadow under low-angle sunlight, dust particles undisturbed around the impression
+- The print sits in perfect stillness, edges sharp and defined, no movement in frame except the slow camera advance revealing microscopic detail in the tread pattern
+
+CAMERA:
+Extreme Close-up | Slow push-in
+
+AUDIO:
+- none
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 97: Trust — Payoff [12:48–12:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Static frame holds on the impression, raking sunlight casting deep shadows into each groove
+
+ACTIONS:
+- Pristine lunar bootprint in gray regolith, sharp tread pattern preserved in fine dust, edges crisp and undisturbed
+- Static frame holds on the impression, raking sunlight casting deep shadows into each groove
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- regolith grains shifting and settling under microscopic movement
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 98: Trust — Payoff [12:56–13:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm 4000K edge lighting from laboratory environment
+
+ACTIONS:
+- Archival lunar surface photograph on illuminated lightbox, cool backlight glowing through the image
+- Camera pushes toward bootprint detail in the photograph, grain structure visible, shadows preserved in silver halide emulsion
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- lightbox fluorescent bulb buzzing steadily
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 99: Anticipation — Payoff [13:04–13:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Dramatic to warm lighting transition, 4000K with gold accent flare on metallic elements
+
+ACTIONS:
+- Artemis mission patch with embroidered lunar surface and Earth, metallic silver threads catching warm ceremonial light
+- Camera creeps in on stitched details
+- Pulls back to reveal 'Artemis' text and mission year
+
+CAMERA:
+Medium | Zoom out
+
+AUDIO:
+- fabric drape being pulled away smoothly
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 100: Trust — Payoff [13:12–13:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Fabric texture visible in 8K detail, patch edges crisp against uniform material
+
+ACTIONS:
+- Artemis mission patch on white fabric, embroidered Moon and trajectory arc in silver thread, text 'TO STAY' stitched below in bold letters
+- Warm 4000K light glows across the patch surface as focus racks from text to lunar embroidery
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- metal pin clasp clicking shut, fabric rustling as patch settles into place
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 101: Trust — Payoff [13:20–13:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Medium shot, slow horizontal pan
+
+ACTIONS:
+- Mission control display screens showing Artemis timeline projections, budget spreadsheets with 2036 milestones, engineering schematics of lunar habitat modules
+- Warm monitor glow 4000K, anamorphic bokeh from screen edges
+
+CAMERA:
+Medium | Pan
+
+AUDIO:
+- keyboard keys clicking intermittently, mouse clicking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 102: Trust — Payoff [13:28–13:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Empty lunar surface stretches to horizon, gray regolith undisturbed under harsh sunlight, deep black shadows pooling in crater depressions
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 53 years
+
+ACTIONS:
+- Empty lunar surface stretches to horizon, gray regolith undisturbed under harsh sunlight, deep black shadows pooling in crater depressions
+- No movement, no life, no change
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- faint metallic creaking of abandoned equipment cooling in shadow
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 103: Trust — Payoff [13:36–13:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Apollo bootprint in foreground, American flag on pole in middle ground standing rigid, ALSEP instrument package in background with solar panels angled skyward
+
+ACTIONS:
+- Apollo bootprint in foreground, American flag on pole in middle ground standing rigid, ALSEP instrument package in background with solar panels angled skyward
+- Raking sunlight creates high contrast across artifacts, each object sharp in 8K HDR
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- fine dust particles trickling down small crater slope, distant metallic ping of thermal expansion
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 104: Trust — Payoff [13:44–13:50]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Volumetric atmosphere glow visible at Earth's edge
+
+ACTIONS:
+- Lunar horizon with Earth rising above ridgeline, blue and white marble glowing against black space
+- Warm 4000K light from Earthshine bathes gray regolith in foreground, anamorphic lens flare streaking from Earth's limb
+
+CAMERA:
+Wide | Crane
+
+AUDIO:
+- soft mechanical whir of distant spacecraft systems powering up
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+════════════════════════════════════════════════════════════════
+[END SCENE PROMPTS]
+════════════════════════════════════════════════════════════════
