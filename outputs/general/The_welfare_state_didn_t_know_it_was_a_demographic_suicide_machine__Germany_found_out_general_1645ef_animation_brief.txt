@@ -1,0 +1,1470 @@
+════════════════════════════════════════════════════════════════
+[CHARACTERS Description]
+════════════════════════════════════════════════════════════════
+
+PROJECT: The_welfare_state_didn_t_know_it_was_a_demographic_suicide_machine__Germany_found_out
+
+RATIO: 16:9
+
+--------------------------------------------------
+STYLE (DETAILED - MANDATORY):
+
+- Style Directive: Flat cel-shaded 2D infographic animation, drawn entirely on paper texture with clean inked outlines and zero depth. Visual style references UPA animation and editorial motion graphics — NO 3D geometry, NO volumetric lighting, NO subsurface scattering, NO ambient occlusion. Characters are exaggerated flat-drawn figures with over-the-top expressions and snappy motion-graphic timing, used satirically to highlight the absurdity of real historical decisions. Humor is visual and surface-level; irony is carried through pose, expression, and graphic contrast — not dimensional rendering.
+
+- Medium: Animation
+
+- Visual Style:
+  - Cel-shaded forms with hard shadow boundaries
+  - Motion-graphics composition — geometric layout, animated transitions
+  - Infographic composition — labels, callouts, data hierarchy
+
+- Character Design:
+  Exaggerated proportions and expressions; Over-the-top emotional range
+
+- Materials & Textures:
+  [e.g. Flat colors only / Cel-shaded with soft shadow / Painterly with visible brushwork]
+
+- Lighting:
+  Volumetric lighting with visible light shafts; Soft ambient lighting
+
+- Color Palette:
+  [Define color roles — e.g. Red = danger, Yellow = energy, Blue = calm, Black outline for clarity]
+
+- Rendering Quality:
+  [e.g. Crisp, clean, high-definition / Slightly grainy retro / Hyper-smooth anime-style]
+
+- Motion Feel:
+  Snappy, sharp transitions; Exaggerated, over-the-top motion; Over-the-top exaggerated reactions
+
+- Overall Impression:
+  [One paragraph — what should viewers FEEL when watching? What is the visual "brand" of this project?]
+
+--------------------------------------------------
+TONE:
+[Overall emotional register — e.g. High tension, urgent, dramatic / Dark comedic, absurdist / Warm and nostalgic / Energetic and hype]
+[Detected dominant emotion (auto, for reference): Trust]
+
+--------------------------------------------------
+RENDERING RULES:
+
+- [Rule 1 — e.g. NO TEXT, NO LETTERS, NO SYMBOLIC WORDS in any scene]
+- [Rule 2 — e.g. Story must be conveyed entirely through visuals and expressions]
+- [Rule 3 — e.g. Each scene must have a clear visual conflict or action beat]
+- [Rule 4 — e.g. Only include characters explicitly required in each scene]
+- [Rule 5 — e.g. No background crowd, no unnecessary props]
+- [Add more rules as needed]
+
+--------------------------------------------------
+CHARACTERS (LOCKED):
+
+- Character 1: [Name]
+  [Physical description — face shape, skin tone, eye style]
+  [Hair — color #HEX, length, style]
+  [Default outfit — top, bottom, shoes, accessories]
+  [Signature trait]
+  [Expression range]
+
+- Character 2: [Name]
+  [Physical description]
+  [Hair — color #HEX, length, style]
+  [Default outfit]
+  [Signature trait]
+  [Expression range]
+
+--------------------------------------------------
+ENVIRONMENT (GLOBAL):
+
+[Default background / world setting for the entire project]
+[e.g. Minimal clean background, soft gradient sky / Neon-lit urban rooftop / Pastel fantasy kingdom]
+[Note: individual scenes can override this with their own ENVIRONMENT field]
+
+[Detected scene environments (auto, for reference):]
+  - Warm saturated ochre and coral tones, hand-drawn line work
+  - Bright coral and cream tones, zero depth, no 3D lighting
+  - UPA editorial style, zero depth, no volumetric lighting
+  - Warm tones cooling slightly toward pale blue-gray
+  - Warm, saturated paper tone establishes familiarity
+  - Warm coral and cream tones, zero depth, no 3D lighting
+  - Room elements (bed outline, lamp, window) minimal and geometric, UPA editorial style
+  - Blue-gray desaturated tone beginning to creep in at edges
+  - Palette now cool, desaturated—pale blue-gray wash on paper
+  - UPA flat illustration style, zero depth, no shading
+  - Desaturated warm paper tone
+  - Figure's posture confident but visually overwhelmed by bubbles
+
+--------------------------------------------------
+GOAL:
+[Optional — one sentence stating the visual storytelling goal of the entire video]
+[e.g. "Make the audience feel the tension of nuclear deterrence without using any text or narration"]
+
+════════════════════════════════════════════════════════════════
+[END CHARACTERS Description]
+════════════════════════════════════════════════════════════════
+
+
+════════════════════════════════════════════════════════════════
+SCENE PROMPTS
+════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────
+🎬 SCENE 01: Trust — Hook [00:00–00:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm saturated ochre and coral tones, hand-drawn line work
+
+ACTIONS:
+- Flat cel-shaded 2D animation on cream paper texture with clean inked outlines
+- Three disconnected vignettes scattered across frame: coffee maker icon, phone screen glow, exaggerated flat figure mid-gesture
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- paper rustling, pen scratching surface
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 02: Trust — Hook [00:08–00:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Bright coral and cream tones, zero depth, no 3D lighting
+
+ACTIONS:
+- Flat cel-shaded 2D animation on cream paper, clean inked outlines
+- Exaggerated flat-drawn woman, confident pose, shoulders back, holding underwear over coffee maker spout
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- water bubbling, fabric rustling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 03: Trust — Hook [00:16–00:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+UPA editorial style, zero depth, no volumetric lighting
+
+ACTIONS:
+- Flat cel-shaded 2D animation on cream paper, clean inked outlines
+- Same composition as previous: flat-drawn woman frozen mid-smile, underwear suspended over coffee maker
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- coffee maker hissing, water dripping
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 04: Trust — Hook [00:24–00:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm tones cooling slightly toward pale blue-gray
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture, clean inked outlines
+- Drawn hand holding phone, screen glowing with simple white rectangle
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- phone screen tapping, finger sliding glass
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 05: Trust — Hook [00:32–00:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm, saturated paper tone establishes familiarity
+
+ACTIONS:
+- Flat cel-shaded 2D: a coffee maker icon drawn in bold black ink, centered on cream paper texture with soft ochre background
+- Clean inked outlines, zero depth, UPA-style graphic simplicity
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- pen scratching paper, single tap on desk
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 06: Trust — Hook [00:40–00:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm coral and cream tones, zero depth, no 3D lighting
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture, clean inked outlines
+- Three quick inked panels in sequence: underwear drops into machine, button pressed, water flows
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- fabric dropping, button clicking, water rushing
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 07: Anticipation — Hook [00:48–00:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Room elements (bed outline, lamp, window) minimal and geometric, UPA editorial style
+
+ACTIONS:
+- Flat cel-shaded 2D: empty hotel room drawn in clean line art on cooling pale blue-gray paper
+- Coffee maker sits alone on counter, inked in black with exaggerated spout
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- coffee maker drip, single footstep on tile
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 08: Anticipation — Hook [00:56–01:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+UPA editorial style, zero depth, no volumetric lighting
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture, clean inked outlines
+- Phone screen inked center, world outside screen fades to unfinished pencil sketches
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- phone notification chime, keyboard typing
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 09: Trust — Hook [01:04–01:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Blue-gray desaturated tone beginning to creep in at edges
+
+ACTIONS:
+- Flat cel-shaded 2D: drawn smartphone glowing at center of paper texture, clean inked outlines
+- Background figures sketched as faint, erasing outlines—disappearing into blank cream paper
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- phone screen tap, single soft click
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 10: Trust — Hook [01:12–01:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Palette now cool, desaturated—pale blue-gray wash on paper
+
+ACTIONS:
+- Flat 2D infographic on stark white paper texture: single inked ellipsis (...) centered, clean black ink, minimal composition
+- No other elements
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- pen nib scratching paper slowly, three deliberate marks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 11: Trust — Hook [01:20–01:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+UPA flat illustration style, zero depth, no shading
+
+ACTIONS:
+- Flat cel-shaded 2D: drawn smartphone screen on muted blue-gray paper, clean inked outlines
+- DM bubble with small crying face icon, tight framing on screen
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- keyboard typing soft clicks, message send whoosh
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 12: Trust — Build Up [01:28–01:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Desaturated warm paper tone
+
+ACTIONS:
+- Flat 2D drawn figure in bathrobe, exaggerated angry expression—mouth wide, eyebrows sharp, pointing finger at camera
+- Ring light drawn as halo behind head, clean inked outlines on paper texture
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- bathrobe fabric rustle, finger snap pointing gesture
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 13: Trust — Build Up [01:36–01:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Figure's posture confident but visually overwhelmed by bubbles
+
+ACTIONS:
+- Flat 2D: bathrobe figure small in frame, surrounded by aggressive speech bubbles—jagged shapes, illegible words, inked bold
+- Bubbles dominate composition, figure shrinking
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- paper rustling, pen scratching multiple quick strokes
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 14: Trust — Build Up [01:44–01:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Timing begins to slow here, longer hold
+
+ACTIONS:
+- Flat 2D drawn hand pressing 'post' button on phone screen, exaggerated confident gesture—finger extended, bold line work
+- Clean inked outlines on desaturated paper texture
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- single button click, soft digital beep
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 15: Trust — Build Up [01:52–02:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Background is minimal paper texture with faint outline of tripod and doorway
+
+ACTIONS:
+- Flat cel-shaded 2D: drawn figure in luxury bathrobe sits centered in frame, ring light icon glowing behind head, smartphone held at arm's length
+- Character's face exaggerated with smug half-smile, eyebrows raised in performative confidence
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- fabric rustling, phone screen tapping, ring light clicking on
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 16: Trust — Build Up [02:00–02:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Static hold
+
+ACTIONS:
+- Flat 2D split composition: left shows woman's face (small, faint outline, barely visible), right shows bold 'content' icon (play button, inked heavy)
+- Visual hierarchy inverted—icon dominates, person fades
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- coin dropping on desk, single metallic clink
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 17: Anticipation — Build Up [02:08–02:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Slow horizontal pan across the grid reveals pattern
+
+ACTIONS:
+- Flat cel-shaded 2D infographic animation on paper texture
+- Clean inked outlines, zero depth
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- pen scratching paper, pages turning slowly
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 18: Trust — Build Up [02:16–02:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Muted blue-gray paper background, clinical and flat
+
+ACTIONS:
+- Flat cel-shaded 2D infographic animation on paper texture
+- Simplified graphic surgical room drawn with clean black ink outlines
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- phone camera shutter clicking, tripod legs scraping floor
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 19: Trust — Build Up [02:24–02:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Soft even lighting at 3800K creates a warm, trustworthy atmosphere
+
+ACTIONS:
+- Flat cel-shaded 2D animation on cream paper texture with clean inked outlines
+- Three small black X marks drawn in ink, spaced horizontally across the frame, stark and minimal
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- pen scratching paper three times
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 20: Trust — Build Up [02:32–02:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Minimal detail, maximum negative space
+
+ACTIONS:
+- Flat cel-shaded 2D infographic animation on paper texture
+- Operating table drawn as simple black-outlined rectangle, center frame
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- phone notification chime, finger tapping screen
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 21: Trust — Build Up [02:40–02:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Patient figure passive, horizontal
+
+ACTIONS:
+- Flat cel-shaded 2D infographic animation on paper texture
+- Nurse figure at bedside, patient on table—both drawn as simplified flat shapes with clean black outlines
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- phone recording beep, fabric rustling, bedsheet crinkling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 22: Surprise — Build Up [02:48–02:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+UPA-style editorial simplicity, zero depth
+
+ACTIONS:
+- Flat cel-shaded 2D infographic animation on paper texture
+- Empty paper space with single inked text block center frame reading 'Now it gets quiet.' Pause all motion
+
+CAMERA:
+Medium | Zoom out
+
+AUDIO:
+- paper settling on desk, distant clock ticking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 23: Trust — Build Up [02:56–03:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Muted blue-gray paper background, desaturated
+
+ACTIONS:
+- Flat cel-shaded 2D infographic animation on paper texture
+- Newspaper clipping drawn as inked rectangle, left frame
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- newspaper pages flipping, phone screens tapping
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 24: Trust — Build Up [03:04–03:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Pale blue-gray paper background, further desaturated
+
+ACTIONS:
+- Flat cel-shaded 2D infographic animation on paper texture
+- Figure at laptop, drawn with exaggerated pleading expression—oversized eyes, downturned mouth, hands raised in supplication
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- keyboard clicking rapidly, mouse clicking, chair creaking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 25: Trust — Build Up [03:12–03:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+UPA-style flat character design, zero depth, no volumetric lighting
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture: drawn figure holding phone at arm's length, face split vertically—left half smiling with exaggerated curve, right half blank with empty eyes, both rendered in clean ink outlines
+- Background fades from warm cream paper tone to unfinished pencil line art, objects half-drawn
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- phone screen tapping, paper rustling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 26: Trust — Build Up [03:20–03:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Dorm room drawn with minimal detail: bed, desk, single window with warm light fading to cooler tones
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture: drawn figure sits on dorm bed, shoulders hunched forward, one hand covering face, the other holding phone at arm's length toward a small tripod icon
+- Tears rendered as simple ink lines down cheeks
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- phone camera shutter click, fabric rustling on bedsheet
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 27: Trust — Build Up [03:28–03:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Background desaturates to pale blue-gray paper, stark contrast between halves
+
+ACTIONS:
+- Flat cel-shaded 2D: face split vertically down center—left half crying (tears as ink lines, mouth downturned, brow furrowed), right half composed (neutral expression, dry, slight smile forming)
+- Both halves equally real, drawn with identical line weight
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- single tear drop hitting fabric, fingernail tapping phone glass
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 28: Trust — Build Up [03:36–03:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Flat 2D cel animation on paper texture: same dorm room, figure on bed, hand now drifting slowly toward phone screen, fingers extending
+
+ACTIONS:
+- Flat 2D cel animation on paper texture: same dorm room, figure on bed, hand now drifting slowly toward phone screen, fingers extending
+- Tears still present as ink lines
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- fingernail tapping glass, fabric rustling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 29: Anticipation — Build Up [03:44–03:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Background desaturated to washed-out white with faint blue-gray texture
+
+ACTIONS:
+- Flat cel-shaded 2D: figure drawn smaller in center, surrounded by spiral pattern of repeating phone icons (simple rectangles with glowing screens) radiating outward
+- Figure rendered in progressively lighter ink—body fading toward line art, face barely filled, posture slumped
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- keyboard clicking in rhythm, mouse scroll wheel clicking repeatedly
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 30: Trust — Build Up [03:52–04:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Flat 2D infographic animation on paper texture: three inked panels arranged horizontally—left panel shows phone icon, center panel shows rising graph line, right panel shows figure adjusting drawn posture
+
+ACTIONS:
+- Flat 2D infographic animation on paper texture: three inked panels arranged horizontally—left panel shows phone icon, center panel shows rising graph line, right panel shows figure adjusting drawn posture
+- Black arrows connect them in cycle
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- keyboard clicking, mouse clicking, paper sliding
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 31: Trust — Deep [04:00–04:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm cream paper background with soft ochre undertones
+
+ACTIONS:
+- Flat cel-shaded 2D: drawn figure sits cross-legged on paper texture, shoulders relaxed, eyes half-closed in meditative calm, hands resting open on knees
+- Around the figure, dozens of identical phone icons spiral outward in concentric rings, each phone screen glowing soft teal
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- pen tapping rhythmically on desk
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 32: Trust — Deep [04:08–04:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Flat 2D infographic animation on paper texture: split screen composition—left half shows heart icon in clean ink, right half shows shocked face icon, both identical size and weight
+
+ACTIONS:
+- Flat 2D infographic animation on paper texture: split screen composition—left half shows heart icon in clean ink, right half shows shocked face icon, both identical size and weight
+- Below, algorithm rendered as simple flowchart with boxes and arrows, both icons feeding into same output node
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- data entry beeping, mouse clicking, keyboard tapping
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 33: Trust — Deep [04:16–04:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+stark white paper with subtle texture, high contrast black ink
+
+ACTIONS:
+- Flat cel-shaded 2D infographic animation on paper texture
+- Two identical drawn figures side by side, clean inked outlines, zero depth
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- pen scratching paper, single tap on glass screen
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 34: Trust — Deep [04:24–04:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+pale blue-gray paper texture, desaturated, clinical
+
+ACTIONS:
+- Flat cel-shaded 2D infographic animation on paper texture
+- Single drawn figure centered in frame, clean inked outlines, zero depth
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- single footstep on wooden floor
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 35: Trust — Deep [04:32–04:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+muted blue-gray paper texture, desaturated
+
+ACTIONS:
+- Flat cel-shaded 2D infographic animation on paper texture
+- Split-screen composition, vertical divide down center
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- phone notification chime, paper rustling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 36: Trust — Deep [04:40–04:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+pale blue-gray paper texture, highly desaturated, clinical
+
+ACTIONS:
+- Flat cel-shaded 2D infographic animation on paper texture
+- Same split-screen composition as previous
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- slow footsteps on hard floor, faint paper sliding
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 37: Trust — Deep [04:48–04:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Vast negative space
+
+ACTIONS:
+- Flat cel-shaded 2D infographic animation on paper texture
+- Empty paper expanse, stark white with subtle texture
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- pen drawing single stroke on paper
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 38: Trust — Deep [04:56–05:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Background fades to pale blue-gray, desaturated
+
+ACTIONS:
+- Flat cel-shaded 2D infographic animation on paper texture
+- Drawn hand (viewer's perspective) holding phone in center frame, clean inked outlines, zero depth
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- finger tapping phone screen twice
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 39: Trust — Deep [05:04–05:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+cool clinical pale blue-gray paper texture, desaturated
+
+ACTIONS:
+- Flat cel-shaded 2D infographic animation on paper texture
+- Multiple drawn hands reaching toward center screen from all edges of frame, clean inked outlines, zero depth
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- multiple rapid clicks on phone screen, overlapping taps
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 40: Trust — Deep [05:12–05:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+stark white paper with high contrast black ink, clinical and minimal
+
+ACTIONS:
+- Flat cel-shaded 2D infographic animation on paper texture
+- Circular composition, three points connected by arrows forming loop
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- pen drawing three connected lines on paper, completing circle
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 41: Trust — Deep [05:20–05:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Flat cel-shaded 2D infographic animation on paper texture
+
+ACTIONS:
+- Flat cel-shaded 2D infographic animation on paper texture
+- Large megaphone icon drawn center frame, clean black ink outlines, zero depth
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- paper rustling, single sharp tap
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 42: Trust — Deep [05:28–05:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+UPA animation style, no 3D geometry, no volumetric lighting
+
+ACTIONS:
+- Flat cel-shaded 2D infographic animation on paper texture
+- Cluster of small drawn figures scattered across frame, each holding phone raised to face, clean inked outlines, zero depth
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- multiple phone notification chimes, finger tapping glass
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 43: Trust — Deep [05:36–05:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Background is washed-out white with subtle paper grain
+
+ACTIONS:
+- Flat cel-shaded 2D animation on paper texture: cluster of small drawn figures in desaturated pale blue-gray palette, each holding a glowing phone at chest height, faces frozen in exaggerated shocked expressions—wide eyes, open mouths, eyebrows raised
+- Figures stand shoulder-to-shoulder in a tight grid formation, all facing forward, phones casting faint teal glow on their flat inked faces
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- phone screen taps, notification pings
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 44: Trust — Deep [05:44–05:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Desk rendered as simple horizontal line, no perspective
+
+ACTIONS:
+- Flat cel-shaded 2D infographic animation on paper texture
+- Drawn woman at desk center frame, exaggerated wide grin, clean inked outlines, zero depth
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- pen tapping desk rhythmically, paper sliding
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 45: Trust — Deep [05:52–06:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Paper background begins warm cream, desaturates toward pale gray during hold
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- two days
+
+ACTIONS:
+- Flat cel-shaded 2D infographic animation on paper texture
+- Drawn face fills frame, wide exaggerated grin, clean black ink outlines, zero depth
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- single exhale, faint paper crinkle
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 46: Trust — Deep [06:00–06:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Muted blue-gray paper background, desaturated palette
+
+ACTIONS:
+- Flat cel-shaded 2D infographic animation on paper texture
+- Phone screens multiply across frame, each showing same drawn face with wide grin, clean inked outlines, zero depth
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- multiple phone unlock sounds, screen taps overlapping
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 47: Trust — Deep [06:08–06:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Pale blue-gray paper, desaturated palette
+
+ACTIONS:
+- Flat cel-shaded 2D infographic animation on paper texture
+- Split frame composition: left side shows cluster of drawn figures facing right, right side shows single figure on rectangular screen, clean inked outlines, zero depth
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- faint keyboard clicking, single mouse click
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 48: Trust — Deep [06:16–06:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Paper texture visible throughout, teal accent on screen glow
+
+ACTIONS:
+- Flat 2D split-screen composition on paper texture: left half shows inked crowd of exaggerated flat-drawn figures, all heads turned toward right half
+- Right half shows single drawn figure isolated on glowing screen rectangle, posture upright and still, hands at sides, expression neutral but eyes wide
+- Figures rendered in clean cel-shaded ink outlines, no depth or shading, pure UPA-style graphic contrast
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- paper rustling, pen tapping desk
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 49: Trust — Deep [06:24–06:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Figure's expression is over-the-top sincere—wide eyes, earnest smile—satirizing performed authenticity
+
+ACTIONS:
+- Flat cel-shaded 2D: drawn figure center frame, exaggerated theatrical pose with arms spread wide, frozen mid-gesture
+- Clean inked outline on cream paper texture
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- pen scratching on paper
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 50: Joy — Deep [06:32–06:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+UPA-style editorial motion graphic, zero depth, no volumetric lighting
+
+ACTIONS:
+- Flat cel-shaded 2D: three drawn figures in casual poses, each holding a sketched phone, arranged in loose triangle composition
+- Figures have exaggerated relaxed expressions—half-smiles, tilted heads—satirizing curated casualness
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- fingers tapping on glass screen
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 51: Trust — Deep [06:40–06:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+UPA-style editorial motion graphic, zero depth, no volumetric lighting
+
+ACTIONS:
+- Flat cel-shaded 2D: single drawn figure rehearsing 'candid' pose in front of sketched mirror
+- Around the frame, multiple smaller sketches show discarded attempts—different poses, crossed out with X marks
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- pencil erasing on paper, quick strokes
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 52: Trust — Deep [06:48–06:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+UPA-style editorial motion graphic, zero depth, no volumetric lighting
+
+ACTIONS:
+- Flat cel-shaded 2D: figure drawn twice in split composition—left side shows figure performing (arms raised, big smile), right side shows same figure watching self perform (arms crossed, analytical expression)
+- Thin inked outlines on pale washed-out paper texture
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- footsteps pacing on wooden floor
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 53: Trust — Deep [06:56–07:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+UPA-style editorial motion graphic, zero depth, no volumetric lighting
+
+ACTIONS:
+- Flat cel-shaded 2D: same split composition as previous, slightly zoomed out
+- Figure smaller within frame, more negative space surrounding
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- clock ticking, slow rhythm
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 54: Trust — Deep [07:04–07:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Dual figure barely visible, surrounded by stark white negative space
+
+ACTIONS:
+- Flat cel-shaded 2D: same composition, further zoomed out
+- Figure now tiny within vast blank paper expanse
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- single water drop hitting surface
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 55: Trust — Deep [07:12–07:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+UPA-style editorial motion graphic, zero depth, no volumetric lighting
+
+ACTIONS:
+- Flat cel-shaded 2D: single large question mark drawn center frame, clean inked outline
+- Edges of the question mark dissolve into sketchy, incomplete strokes that fade into blank paper
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- pen tapping on desk, three taps
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 56: Trust — Deep [07:20–07:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Year labels inked below x-axis: '2000', '2009' marked with small teal accent dots
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- thirty years
+- 40 percent
+
+ACTIONS:
+- Flat cel-shaded 2D: descending line graph drawn center frame, sharp downward slope
+- Clean inked axes and data line on stark near-white paper
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- ruler drawing straight line on paper, pen scratching numbers
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 57: Trust — Deep [07:28–07:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+UPA-style infographic clarity
+
+ACTIONS:
+- Flat cel-shaded 2D: two inked diagrams side-by-side on stark white paper—small phone icon left, large crowd icon right
+- Arrow connects them, drawn in black ink
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- glass cracking, sharp fracture sounds
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 58: Trust — Deep [07:36–07:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Figures rendered in clean ink outlines, desaturated cool palette with pale blue-gray wash over cream paper
+
+ACTIONS:
+- Flat cel-shaded 2D infographic animation on paper texture
+- Wide composition showing a dense grid of small drawn figures, all heads down, each holding a glowing phone rectangle
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- pen scratching paper repeatedly
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 59: Trust — Deep [07:44–07:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+UPA editorial style, no depth, pure graphic contrast between tiny stage and massive phone array
+
+ACTIONS:
+- Flat 2D cel-shaded animation on paper texture
+- Concert stage drawn as small rectangle at top of frame, crowd below fills 80% of composition—every figure holding phone up, screens glowing white rectangles
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- crowd murmur fading to phone camera shutter clicks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 60: Trust — Deep [07:52–08:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Enormous negative space dominates frame—stark white paper with minimal ink
+
+ACTIONS:
+- Flat 2D cel-shaded animation on paper texture
+- Vast empty composition with figures scattered at edges, backs turned toward center
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- single footstep echoing in empty space
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 61: Anticipation — Payoff [08:00–08:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+UPA editorial style, exaggerated pause timing
+
+ACTIONS:
+- Flat 2D cel-shaded animation on paper texture
+- Frame opens on drawn figure's hand frozen mid-reach toward phone on table, fingers extended but not touching
+
+CAMERA:
+Close-up | Zoom out
+
+AUDIO:
+- hand sliding across table surface stopping abruptly
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 62: Trust — Payoff [08:08–08:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Washed-out blue-gray palette over cream paper
+
+ACTIONS:
+- Flat 2D cel-shaded animation on paper texture
+- Split-panel composition: left panel shows drawn plate of food (simple ink outlines, minimal detail), right panel shows phone camera interface framing the same plate
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- phone camera shutter click followed by fork scraping plate
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 63: Trust — Payoff [08:16–08:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cool tones, pale blue-gray paper
+
+ACTIONS:
+- Flat cel-shaded 2D: figure witnessing drawn 'funny moment' (abstract burst shape with radiating lines suggesting laughter), immediately pulls phone up in quick snappy motion
+- Figure is simple outlined shape, phone is rectangle raised to eye level
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- quick laugh cut short, phone sliding from pocket, screen unlock beep
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 64: Trust — Payoff [08:24–08:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Flat 2D cel-shaded infographic animation on paper texture
+
+ACTIONS:
+- Flat 2D cel-shaded infographic animation on paper texture
+- Two simple inked diagrams side-by-side: left shows small phone icon (clean outline, minimal detail), right shows large crowd icon (dense cluster of tiny figures)
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- pen drawing single bold line across paper
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 65: Trust — Payoff [08:32–08:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+UPA-style editorial motion graphics, zero depth, no volumetric lighting
+
+ACTIONS:
+- Flat cel-shaded 2D infographic animation on paper texture: a simple ascending curve drawn in clean black ink, with small exaggerated cartoon figures positioned at intervals along the line—early figures slouched and uncertain, later figures standing upright with confident postures and wide eyes
+- The curve rises gently from left to right across a warm cream paper background
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- pen scratching paper, light tapping on desk
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 66: Trust — Payoff [08:40–08:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Background is pale washed-out blue-gray paper, vast negative space around the face
+
+ACTIONS:
+- Flat cel-shaded 2D infographic animation on paper texture: a single drawn face in clean black ink outline, neutral expression, eyes looking directly at viewer
+- Thin inked features, minimal detail
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- paper rustling, single pen tap
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 67: Trust — Payoff [08:48–08:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+UPA-style editorial motion graphics, zero depth, no volumetric lighting
+
+ACTIONS:
+- Flat cel-shaded 2D infographic animation on paper texture: a simple phone icon (rectangle with rounded corners) drawn in stark black ink at center, with thin arrows radiating outward toward scattered silhouette figures at the edges
+- Figures are small, exaggerated postures—some hunched, some reaching
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- pen scratching paper, light tapping rhythm
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 68: Trust — Payoff [08:56–09:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+UPA-style editorial motion graphics, zero depth, no volumetric lighting
+
+ACTIONS:
+- Flat cel-shaded 2D infographic animation on paper texture: a simple balance scale drawn in clean black ink, tilted
+- On the left pan, a phone icon rises
+- On the right pan, a cluster of small figure silhouettes sinks downward
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- pen scratching paper, single metallic clink
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 69: Trust — Payoff [09:04–09:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The room is still, silent, abandoned
+
+ACTIONS:
+- Flat cel-shaded 2D infographic animation on paper texture: an empty room interior drawn in clean black ink—simple table and chairs outlined, no figures present
+- Vast negative space dominates the frame, cool gray-blue paper tone
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- single chair scrape, distant door creak
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 70: Trust — Payoff [09:12–09:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+UPA-style editorial motion graphics, zero depth, no volumetric lighting
+
+ACTIONS:
+- Flat cel-shaded 2D infographic animation on paper texture: small inked figures positioned at the edges of the frame, backs turned to center, each holding a simple phone rectangle
+- Vast blank white-gray paper center dominates
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- multiple phone notification clicks, distant footsteps fading
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 71: Trust — Payoff [09:20–09:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Muted pale gray paper background, minimal detail
+
+ACTIONS:
+- Flat cel-shaded 2D infographic animation on paper texture: a simple room drawn in clean black ink with scattered figures facing each other, no phones visible
+- Figures have neutral, slightly uncertain postures—hands at sides, shoulders slightly raised
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- shuffling feet, single cough, paper rustling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 72: Trust — Payoff [09:28–09:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Desaturated blue-gray paper background
+
+ACTIONS:
+- Flat cel-shaded 2D infographic animation on paper texture: two drawn figures in conversation, speech bubbles above their heads crossed out with X marks or tangled in scribbled lines
+- Figures have exaggerated frustrated postures—arms crossed, heads tilted, furrowed brows
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- pen scratching paper, eraser rubbing, frustrated exhale
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 73: Anticipation — Payoff [09:36–09:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Room corners dissolve mid-line as if erased
+
+ACTIONS:
+- Flat 2D inked room outline on cream paper texture, edges incomplete and fading into blank white
+- Center frame: oversized question mark drawn in thick black ink, slightly off-kilter
+
+CAMERA:
+Medium | Zoom out
+
+AUDIO:
+- pen scratching hesitant strokes, paper rustling softly
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 74: Trust — Payoff [09:44–09:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm ochre paper background transitions to cooler pale blue-gray at edges
+
+ACTIONS:
+- Flat cel-shaded 2D figure drawn in clean black ink on cream paper, shoulders relaxed, eyes gently closed, small satisfied smile
+- Figure turns head slowly away from sketched room outline (fading to thin pencil lines) toward a glowing flat phone rectangle in hand
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- pen scratching paper, phone screen tap
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 75: Trust — Payoff [09:52–09:55]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Negative space dominates—clinical, isolating
+
+ACTIONS:
+- Single small flat 2D figure facing vast blank white expanse, drawn in thin black ink on near-white paper
+- Figure positioned lower third of frame, back to viewer, arms at sides, posture still and resigned
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- single breath exhale, distant paper settling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+════════════════════════════════════════════════════════════════
+[END SCENE PROMPTS]
+════════════════════════════════════════════════════════════════
