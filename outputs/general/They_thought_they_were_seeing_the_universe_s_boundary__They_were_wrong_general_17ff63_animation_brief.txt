@@ -1,0 +1,1869 @@
+════════════════════════════════════════════════════════════════
+[CHARACTERS Description]
+════════════════════════════════════════════════════════════════
+
+PROJECT: They_thought_they_were_seeing_the_universe_s_boundary__They_were_wrong
+
+RATIO: 16:9
+
+--------------------------------------------------
+STYLE (DETAILED - MANDATORY):
+
+- Style Directive: Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1
+
+- Medium: Live-action / Cinematic
+
+- Visual Style:
+  - Photorealistic textures with accurate material response
+  - Observational documentary framing — restrained and credible
+  - Cinematic composition with depth and motivated framing
+  - Anamorphic 2.39:1 framing language adapted to delivery ratio
+  - 8K capture-grade detail with deep blacks and clean highlights
+  - HDR contrast — preserved highlights, nuanced shadows
+
+- Character Design:
+  Semi-realistic figures
+
+- Materials & Textures:
+  [e.g. Flat colors only / Cel-shaded with soft shadow / Painterly with visible brushwork]
+
+- Lighting:
+  Volumetric lighting with visible light shafts
+
+- Color Palette:
+  [Define color roles — e.g. Red = danger, Yellow = energy, Blue = calm, Black outline for clarity]
+
+- Rendering Quality:
+  [e.g. Crisp, clean, high-definition / Slightly grainy retro / Hyper-smooth anime-style]
+
+- Motion Feel:
+  [e.g. Smooth action-driven / Bouncy exaggerated / Slow cinematic / Snappy cut-driven]
+
+- Overall Impression:
+  [One paragraph — what should viewers FEEL when watching? What is the visual "brand" of this project?]
+
+--------------------------------------------------
+TONE:
+[Overall emotional register — e.g. High tension, urgent, dramatic / Dark comedic, absurdist / Warm and nostalgic / Energetic and hype]
+[Detected dominant emotion (auto, for reference): Trust]
+
+--------------------------------------------------
+RENDERING RULES:
+
+- [Rule 1 — e.g. NO TEXT, NO LETTERS, NO SYMBOLIC WORDS in any scene]
+- [Rule 2 — e.g. Story must be conveyed entirely through visuals and expressions]
+- [Rule 3 — e.g. Each scene must have a clear visual conflict or action beat]
+- [Rule 4 — e.g. Only include characters explicitly required in each scene]
+- [Rule 5 — e.g. No background crowd, no unnecessary props]
+- [Add more rules as needed]
+
+--------------------------------------------------
+CHARACTERS (LOCKED):
+
+- Character 1: Ancient Martian
+  [Physical description — face shape, skin tone, eye style — fill in]
+  [Hair — color #HEX, length, style — fill in]
+  [Default outfit — top, bottom, shoes, accessories — fill in]
+  [Signature trait — what makes them instantly recognizable — fill in]
+  [Expression range — what emotions they show most — fill in]
+
+- Character 2: Martian
+  [Physical description — face shape, skin tone, eye style — fill in]
+  [Hair — color #HEX, length, style — fill in]
+  [Default outfit — top, bottom, shoes, accessories — fill in]
+  [Signature trait — what makes them instantly recognizable — fill in]
+  [Expression range — what emotions they show most — fill in]
+
+- Character 3: Zwan
+  [Physical description — face shape, skin tone, eye style — fill in]
+  [Hair — color #HEX, length, style — fill in]
+  [Default outfit — top, bottom, shoes, accessories — fill in]
+  [Signature trait — what makes them instantly recognizable — fill in]
+  [Expression range — what emotions they show most — fill in]
+
+- Character 4: Wolf
+  [Physical description — face shape, skin tone, eye style — fill in]
+  [Hair — color #HEX, length, style — fill in]
+  [Default outfit — top, bottom, shoes, accessories — fill in]
+  [Signature trait — what makes them instantly recognizable — fill in]
+  [Expression range — what emotions they show most — fill in]
+
+- [Add unnamed characters (narrator, crowd, etc.) here if needed]
+
+--------------------------------------------------
+ENVIRONMENT (GLOBAL):
+
+[Default background / world setting for the entire project]
+[e.g. Minimal clean background, soft gradient sky / Neon-lit urban rooftop / Pastel fantasy kingdom]
+[Note: individual scenes can override this with their own ENVIRONMENT field]
+
+[Detected scene environments (auto, for reference):]
+  - Deep black void surrounds the planet, stars pinpoint sharp in background
+  - Warm orange-red glow from core against cool blue mantle layers, volumetric lighting through planetary strata
+  - Translucent blue magnetic field grid enveloping Earth in protective dome, incoming solar wind particles visualized as golden streaks deflecting around magnetosphere boundary
+  - Particles absorbed and redirected, energy dissipating as luminous cascades
+  - Warm 3800K lighting on Martian surface, cool star field behind
+  - Warm amber sunlight through thicker blue-tinted atmosphere, volumetric haze softening terrain
+  - Thicker atmosphere glows warm orange-gold at terminator line
+  - Anamorphic lens flares from sun, warm hopeful lighting
+  - Cross-section cutaway of Mars's interior four billion years ago: molten orange iron core at center freezing in real-time, bright convection currents slowing to stillness, glowing magnetic field lines collapsing inward like dying embers, orange fading to cold gray as solidification spreads outward
+  - Clinical white-blue rim lighting replacing warm core glow
+  - The camera advances inexorably toward the barren horizon, revealing the scale of atmospheric loss
+  - Clinical white-blue lighting, dramatic cool side shadows, red accent on ionized particles
+
+--------------------------------------------------
+GOAL:
+[Optional — one sentence stating the visual storytelling goal of the entire video]
+[e.g. "Make the audience feel the tension of nuclear deterrence without using any text or narration"]
+
+════════════════════════════════════════════════════════════════
+[END CHARACTERS Description]
+════════════════════════════════════════════════════════════════
+
+
+════════════════════════════════════════════════════════════════
+SCENE PROMPTS
+════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────
+🎬 SCENE 01: Trust — Hook [00:00–00:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep black void surrounds the planet, stars pinpoint sharp in background
+
+ACTIONS:
+- Earth suspended in deep space, soft blue atmospheric glow wrapping the limb, lens flare arcs suggesting invisible protective field extending outward
+- Slow rotation reveals sunlit hemisphere, cloud patterns drifting across oceans
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- none
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 02: Trust — Hook [00:08–00:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm orange-red glow from core against cool blue mantle layers, volumetric lighting through planetary strata
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- magnetosphere
+- solar wind
+
+ACTIONS:
+- Earth's molten iron core with convection currents churning, calm focused posture
+- Liquid iron flows in circular patterns, magnetic field lines radiating outward as translucent blue threads
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- molten iron churning with low rumble, magnetic field lines crackling softly
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 03: Trust — Hook [00:16–00:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Translucent blue magnetic field grid enveloping Earth in protective dome, incoming solar wind particles visualized as golden streaks deflecting around magnetosphere boundary
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- magnetosphere
+- solar wind
+
+ACTIONS:
+- Translucent blue magnetic field grid enveloping Earth in protective dome, incoming solar wind particles visualized as golden streaks deflecting around magnetosphere boundary
+- Charged particles curve away from planet, creating rippling aurora-like distortions at field edges
+
+CAMERA:
+Wide | Orbit
+
+AUDIO:
+- high-pitched particle impacts, crackling electromagnetic interference
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 04: Trust — Hook [00:24–00:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Particles absorbed and redirected, energy dissipating as luminous cascades
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- magnetosphere
+- solar wind
+
+ACTIONS:
+- Solar wind impact zone at magnetosphere boundary: charged particles colliding with invisible field, creating rippling distortions and volumetric light scattering through plasma
+- Aurora-like green and blue waves pulse across frame
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- sharp crackling electrical discharge, high-frequency plasma oscillation
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 05: Trust — Hook [00:32–00:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm 3800K lighting on Martian surface, cool star field behind
+
+ACTIONS:
+- Mars centered in frame, rust-red surface illuminated by distant sun, thin atmosphere barely visible as faint amber haze at limb
+- Deimos or Phobos drifts slowly across upper frame
+
+CAMERA:
+Wide | Slow push-in
+
+AUDIO:
+- none
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 06: Trust — Hook [00:40–00:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm amber sunlight through thicker blue-tinted atmosphere, volumetric haze softening terrain
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Four billion years
+
+ACTIONS:
+- Ancient Mars riverbed carved into rust-colored rock, shoulders open, hopeful posture
+- Water once flowed through channels now dry and cracked, geological striations visible in canyon walls
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- ancient water flowing through channels, wind carrying moisture
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 07: Trust — Hook [00:48–00:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Thicker atmosphere glows warm orange-gold at terminator line
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Four billion years
+
+ACTIONS:
+- Ancient Mars four billion years ago: translucent amber magnetic field lines arc gracefully around planet, shimmering protective grid visible against star field
+- Thicker atmosphere glows warm orange-gold at terminator line
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- water trickling over rocks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 08: Trust — Hook [00:56–01:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Anamorphic lens flares from sun, warm hopeful lighting
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Four billion years
+
+ACTIONS:
+- Ancient Mars canyon with liquid water flowing through rocky channel, volumetric clouds drifting overhead, soft amber sunlight filtering through thick atmosphere
+- Magnetic aurora faintly visible in sky as green-amber shimmer
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- water rushing over rocks, wind rustling through canyon, distant thunder
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 09: Trust — Hook [01:04–01:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cross-section cutaway of Mars's interior four billion years ago: molten orange iron core at center freezing in real-time, bright convection currents slowing to stillness, glowing magnetic field lines collapsing inward like dying embers, orange fading to cold gray as solidification spreads outward
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- four billion years
+
+ACTIONS:
+- Cross-section cutaway of Mars's interior four billion years ago: molten orange iron core at center freezing in real-time, bright convection currents slowing to stillness, glowing magnetic field lines collapsing inward like dying embers, orange fading to cold gray as solidification spreads outward
+- Warm amber light transitions to desaturated steel as the dynamo dies
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- deep metallic creaking, low rumble fading to silence
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 10: Trust — Hook [01:12–01:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clinical white-blue rim lighting replacing warm core glow
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- four billion years
+
+ACTIONS:
+- Extreme close-up of Martian core interior: iron crystals forming in geometric lattice patterns, final convection current spiraling to halt, last glowing orange pocket extinguishing to blue-gray, magnetic dynamo mechanism grinding to stop
+- Microscopic view of solidifying metal, individual crystal boundaries locking into place, volumetric dust particles suspended in dying heat shimmer
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- final convection whoosh fading, crystal lattice snapping into place
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 11: Anticipation — Hook [01:20–01:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The camera advances inexorably toward the barren horizon, revealing the scale of atmospheric loss
+
+ACTIONS:
+- Wide desolate modern Martian surface: thin wispy atmosphere barely visible against black sky, harsh unfiltered sunlight casting sharp shadows across desaturated red-brown terrain, dust particles suspended motionless in the thin air
+- No magnetic field lines visible — empty space where protection once existed
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- wind whistling through thin air, sand grains skittering across rock, distant atmospheric hiss
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 12: Fear — Hook [01:28–01:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clinical white-blue lighting, dramatic cool side shadows, red accent on ionized particles
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- one million miles
+- magnetosphere
+- solar wind
+
+ACTIONS:
+- Solar wind visualization at center frame: golden charged particle streams flowing at one million miles per hour toward unprotected Mars, no magnetic deflection barrier, particles striking upper atmosphere directly
+- Microscopic view of ionization events: individual oxygen and nitrogen molecules being stripped of electrons, accelerated outward by particle impacts
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- high-frequency particle impacts, ionization crackling, molecular acceleration whooshing
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 13: Fear — Hook [01:36–01:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Dramatic cool side shadows, red accent on escaping particles, clinical white-blue background lighting
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- one million miles
+- magnetosphere
+- solar wind
+
+ACTIONS:
+- Atmospheric stripping sequence at center frame: individual gas molecules being torn from upper Martian atmosphere, oxygen and nitrogen atoms ionized and accelerated into space by solar wind, streaming away in glowing trails
+- Microscopic particle-level view, each molecule departure visible, volumetric density of atmosphere visibly decreasing
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- molecular ejection whooshing, ionization crackling, atmospheric thinning hiss
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 14: Fear — Build Up [01:44–01:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Motivated cool single source lighting, red accent on thinning atmosphere, desaturated color palette
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- one million miles
+- magnetosphere
+- solar wind
+
+ACTIONS:
+- Accelerated time-lapse of Mars atmosphere at center frame: blue sky fading through pink to rust-red over billions of years, volumetric atmospheric density visibly decreasing frame by frame, shadows deepening progressively as pressure drops
+- Orbital perspective showing atmospheric envelope thinning from thick blue haze to wispy red veil
+
+CAMERA:
+Close-up | Handheld
+
+AUDIO:
+- time-lapse atmospheric whooshing, pressure dropping hiss, wind intensity decreasing
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 15: Trust — Build Up [01:52–02:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Spacecraft instruments measuring escape flux, data streams updating in real-time
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- four billion years
+
+ACTIONS:
+- MAVEN spacecraft data visualization at center frame: numerical atmospheric loss rate '100 g/s' overlaid on orbital view of Mars, real-time particle escape stream visible as glowing plume, clinical HUD aesthetic with measurement readouts, volumetric particle density decreasing outward from planet
+- Consistent even lighting, 3800K neutral, clean documentary style
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- spacecraft instrument beeping, data processing clicks, measurement confirmation tones
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 16: Trust — Build Up [02:00–02:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Extreme close-up of individual oxygen and nitrogen molecules drifting away from Mars's upper atmosphere into space: backlit by distant sun creating anamorphic lens flares, shallow depth of field isolating single atoms in sharp focus against bokeh of planetary limb below
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- four billion years
+
+ACTIONS:
+- Extreme close-up of individual oxygen and nitrogen molecules drifting away from Mars's upper atmosphere into space: backlit by distant sun creating anamorphic lens flares, shallow depth of field isolating single atoms in sharp focus against bokeh of planetary limb below
+- Each molecule trails faint ionization glow as solar wind strips it away
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- high-frequency molecular vibration, faint plasma crackling, particle impacts on MAVEN sensors
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 17: Trust — Build Up [02:08–02:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Desolate rust-red landscape under steel-blue sky, desaturated palette, volumetric dust haze catching harsh sunlight
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 1 percent
+- 60 degrees
+- four billion years
+
+ACTIONS:
+- Barren rust-red Martian terrain stretches to horizon under thin pale sky, surface cracked and desiccated, posture of abandonment
+- Dust devils spiral weakly across empty plains
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- wind gusting across rocky terrain, small rocks tumbling down slope
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 18: Trust — Build Up [02:16–02:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Harsh sunlight rakes across spacecraft hull, creating deep shadows and anamorphic lens flares
+
+ACTIONS:
+- MAVEN spacecraft in sharp focus, solar panels extended symmetrically, instrument arrays angled downward toward Mars
+- Spacecraft rotates incrementally, revealing sensor housings and communication dish
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- solar panel servos whirring, mechanical clicks of instrument gimbal adjustments
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 19: Trust — Build Up [02:24–02:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep space black above, stars pinpoint sharp
+
+ACTIONS:
+- MAVEN spacecraft in sharp focus, solar panels extended at precise angles, gold thermal blankets catching harsh sunlight, sensor housing with visible instrument ports
+- Spacecraft rotates methodically in Mars orbit, red planet filling lower frame, thin atmosphere visible as faint blue-white arc
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- mechanical servo motors adjusting solar panel angle, metallic click of instrument shutter opening
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 20: Trust — Build Up [02:32–02:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Volumetric lighting through detector housing, cool blue-white glow intensifying, clinical precision aesthetic
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- The spacecraft
+
+ACTIONS:
+- MAVEN's particle detector fills frame, hexagonal sensor grid visible in 8K detail, faint blue Cherenkov glow beginning to pulse within detector chambers, posture of active measurement
+- Data streams visualize as luminous particle trails threading through sensor geometry
+
+CAMERA:
+Extreme Close-up | Static
+
+AUDIO:
+- capacitor charging whine, detector array clicking as particles register
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 21: Trust — Build Up [02:40–02:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Volumetric dust haze creates depth separation between spacecraft and planet
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- The spacecraft
+
+ACTIONS:
+- MAVEN spacecraft silhouetted against rust-red Martian hemisphere, solar panels fully extended in cruciform configuration
+- Spacecraft occupies right third of frame, Mars fills left two-thirds
+
+CAMERA:
+Wide | Orbit
+
+AUDIO:
+- spacecraft thruster micro-bursts, faint solar wind static interference
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 22: Trust — Build Up [02:48–02:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Reflected monitor glow illuminates reading glasses in shallow focus foreground, scientist's hands barely visible at frame bottom
+
+ACTIONS:
+- Backlit monitor displays MAVEN telemetry data streams in amber monochrome
+- Spectral analysis graphs scroll vertically, wavelength peaks and troughs resolving in real-time
+
+CAMERA:
+Extreme Close-up | Static
+
+AUDIO:
+- keyboard key presses, mouse clicks, hard drive access chirps
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 23: Trust — Build Up [02:56–03:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Empty mission control workstation in desaturated steel-blue lighting
+
+ACTIONS:
+- Empty mission control workstation in desaturated steel-blue lighting
+- Single monitor displays blinking cursor on black screen, no active data streams
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- fluorescent tube electrical buzz, HVAC vent air flow, single cursor blink beep
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 24: Trust — Build Up [03:04–03:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Bright even daylight, cool blue-white color temperature, equations in black and red marker, 8K detail on handwritten notation
+
+ACTIONS:
+- Whiteboard covered in plasma physics equations and magnetic field diagrams, hand-drawn Mars atmospheric models with arrows indicating solar wind interaction, posture of active theoretical work
+- Natural window light streams across board surface, dust particles visible in volumetric rays
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- marker squeaking on whiteboard, papers rustling on nearby desk, pen tapping against clipboard
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 25: Trust — Build Up [03:12–03:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Spacecraft rotates gently, Earth visible as bright blue dot in deep black star field
+
+ACTIONS:
+- MAVEN spacecraft in Mars orbit, solar panels fully illuminated by warm sunlight, instrument housings gleaming white and gold, antenna arrays extended in operational configuration
+- Spacecraft rotates gently, Earth visible as bright blue dot in deep black star field
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- solar panel servos clicking, gyroscope spinning, antenna motor whirring
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 26: Trust — Build Up [03:20–03:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Desaturated steel-blue color palette
+
+ACTIONS:
+- NASA mission control room with multiple large screens displaying flatline telemetry graphs and error messages
+- Overhead fluorescent lights cast clinical white light across workstations
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- keyboard keys clicking sporadically, chair wheels rolling on floor, paper rustling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 27: Trust — Build Up [03:28–03:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Sensor boom extends into soft bokeh background showing star field
+
+ACTIONS:
+- MAVEN's magnetometer sensor head in sharp focus, polished metal surface catching warm reflected light from Mars below, calibration LEDs glowing steady green, data port connector gleaming
+- Sensor boom extends into soft bokeh background showing star field
+
+CAMERA:
+Extreme Close-up | Static
+
+AUDIO:
+- data transmission beeps, hard drive writing clicks, cooling fan spinning
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 28: Trust — Build Up [03:36–03:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Abstract 3D visualization of magnetic field lines materializing in pure black void
+
+ACTIONS:
+- Abstract 3D visualization of magnetic field lines materializing in pure black void
+- Cool blue-white wireframe aesthetic with volumetric glow
+
+CAMERA:
+Medium | Tilt
+
+AUDIO:
+- digital interface tones resolving, data stream processing sounds
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 29: Trust — Build Up [03:44–03:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep space backdrop with volumetric light rays piercing through the magnetosphere's edge, cool blue-white glow suffusing the scene with sterile precision
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- magnetic field line
+- magnetosphere
+- solar wind
+
+ACTIONS:
+- Cross-section of Earth's blue magnetosphere rendered as translucent field lines curving around the planet, shoulders relaxed, steady gaze
+- Solar wind particles — glowing white streaks — deflect smoothly along the curved magnetic boundaries, compressing into narrow luminous flux tubes that funnel plasma around Earth's protective bubble
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- particles striking magnetic boundary with sharp metallic pings
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 30: Trust — Build Up [03:52–04:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Anamorphic bokeh on background field lines creates depth
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- magnetic field line
+- magnetosphere
+- solar wind
+
+ACTIONS:
+- Magnetic flux tubes compressing under solar wind pressure, glowing intense blue-white at constriction points
+- Camera tracks smoothly along the length of a single flux tube as it narrows
+
+CAMERA:
+Medium | Tracking
+
+AUDIO:
+- high-pressure gas compressing, magnetic field lines vibrating under tension
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 31: Trust — Build Up [04:00–04:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Volumetric lighting through plasma compression zones
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- magnetosphere
+- solar wind
+
+ACTIONS:
+- Glowing ions spiraling through compressed magnetic flux tube structure, accelerating toward Earth's atmosphere
+- Motion blur on particle trails, anamorphic bokeh on background field lines
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- ions spiraling with high-pitched whine, magnetic compression crackling, particles ejecting with sharp pops
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 32: Trust — Build Up [04:08–04:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The magnetosphere's protective boundary shimmers in the background, cool steel-blue atmosphere with volumetric light beams highlighting the ejection process
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- magnetosphere
+- solar wind
+
+ACTIONS:
+- Abstract visualization of a single magnetic flux tube rendered as a glowing blue cylindrical structure, field lines tightening visibly, posture upright and contained
+- White ions eject outward in sharp bursts as the tube constricts, energy waves pulsing from dim blue at the edges to brilliant white at the compression point
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- ions ejecting with crisp snapping sounds, magnetic coil tightening with metallic creaks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 33: Trust — Build Up [04:16–04:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep space backdrop with volumetric light rays cutting through both planetary fields
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- magnetosphere
+
+ACTIONS:
+- Split-screen composition: left half shows Earth's blue dipole magnetosphere with clean organized field lines arcing symmetrically from pole to pole, right half shows Mars with fragmented amber crustal magnetic patches scattered chaotically across surface
+- Camera holds steady as subtle glow pulses through Earth's field lines while Martian patches flicker independently
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- electrical crackling from magnetic field visualization, faint metallic ping from data display
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 34: Trust — Build Up [04:24–04:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Desolate atmosphere
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- magnetosphere
+
+ACTIONS:
+- Mars surface terrain in desaturated rust tones, scattered magnetic anomaly regions glowing faint amber like dying embers across barren landscape
+- Camera ascends to reveal isolation and vast emptiness between patches
+
+CAMERA:
+Medium | Zoom out
+
+AUDIO:
+- wind whistling over rocky terrain
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 35: Trust — Build Up [04:32–04:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Consistent even lighting, no shadows
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- magnetosphere
+
+ACTIONS:
+- Left: Earth with smooth blue magnetic envelope rotating slowly clockwise
+- Right: Mars with patchy orange remnant magnetism rotating counterclockwise at different speed
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- mechanical servo motors rotating smoothly
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 36: Trust — Deep [04:40–04:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm tungsten lighting casts amber glow
+
+ACTIONS:
+- Archival 1970s-era mission planning documents spread on illuminated light table, Mars magnetometer readings showing weak signal traces on yellowed graph paper
+- Warm tungsten lighting casts amber glow
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- paper rustling on table surface
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 37: Trust — Deep [04:48–04:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Authoritative Bloomberg-style lighting
+
+ACTIONS:
+- Black screen
+- Single red warning indicator illuminates center frame in harsh spotlight
+- Circular LED warning light glows intensely against void
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- electronic beep tone sharp
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 38: Trust — Deep [04:56–05:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Mars visible as small rust sphere in background
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- The spacecraft
+
+ACTIONS:
+- Massive solar flare erupting from sun's limb, bright plasma ejection racing toward Mars in distance
+- MAVEN spacecraft tiny in foreground, solar panels catching harsh light
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- solar wind rushing past spacecraft
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 39: Surprise — Deep [05:04–05:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Retro NASA control room aesthetic, teal accent on anomaly highlight
+
+ACTIONS:
+- MAVEN instrument display showing irregular waveform pattern on green monochrome CRT screen with scan lines
+- Anomaly spike in center of graph suddenly appears, waveform deviating sharply from baseline
+
+CAMERA:
+Extreme Close-up | Slow push-in
+
+AUDIO:
+- CRT monitor static crackling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 40: Trust — Deep [05:12–05:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Mars visible out of focus in background through sensor opening
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- magnetosphere
+
+ACTIONS:
+- MAVEN spacecraft sensor housing in harsh white-blue clinical lighting, solar panels catching sunlight at sharp angle
+- Camera pushes into magnetometer instrument aperture, revealing internal sensor array components
+
+CAMERA:
+Extreme Close-up | Static
+
+AUDIO:
+- spacecraft gyroscope whirring steadily
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 41: Trust — Deep [05:20–05:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary aesthetic, anamorphic 2.39:1 framing, teal accent lighting on data overlays marking altitude zones
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- magnetosphere
+
+ACTIONS:
+- Volumetric cross-section of Mars's ionosphere rendered in 8K HDR, layered atmospheric bands glowing amber-red, magnetic field lines compressing inward as flux tubes squeeze visible plasma streams
+- Cinematic photorealistic NASA documentary aesthetic, anamorphic 2.39:1 framing, teal accent lighting on data overlays marking altitude zones
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- plasma hissing through magnetic compression, faint metallic resonance of flux tube formation
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 42: Trust — Deep [05:28–05:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+MAVEN spacecraft instrument panel in extreme close-up, 8K HDR, multiple orbital pass readouts cycling on screen, identical waveform signatures repeating across three consecutive data windows
+
+ACTIONS:
+- MAVEN spacecraft instrument panel in extreme close-up, 8K HDR, multiple orbital pass readouts cycling on screen, identical waveform signatures repeating across three consecutive data windows
+- Cinematic photorealistic NASA documentary, anamorphic lens compression, authoritative Bloomberg-style lighting with 3700K teal accent on digital displays
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- instrument relay clicking, data stream beeping in rhythmic sequence
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 43: Trust — Deep [05:36–05:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, anamorphic 2.39:1, 3700K teal accent on screen edges
+
+ACTIONS:
+- Archival CRT monitor displaying magnetic field waveform, desaturated green phosphor glow, irregular signal spikes highlighted by cursor hovering over anomalous fluctuations
+- Cinematic photorealistic NASA documentary, 8K HDR, anamorphic 2.39:1, 3700K teal accent on screen edges
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- CRT electron beam scanning, cursor clicking on waveform peaks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 44: Trust — Deep [05:44–05:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Split-screen composition: left panel shows predicted Zwan-Wolf altitude range in Earth's magnetosphere (blue-white protective glow), right panel shows actual detection zone deep inside Mars ionosphere (amber-red forbidden region), red warning overlay highlighting unexpected position
+
+ACTIONS:
+- Split-screen composition: left panel shows predicted Zwan-Wolf altitude range in Earth's magnetosphere (blue-white protective glow), right panel shows actual detection zone deep inside Mars ionosphere (amber-red forbidden region), red warning overlay highlighting unexpected position
+- Cinematic photorealistic NASA documentary, 8K HDR, anamorphic lens, slow push-in on anomaly marker
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- warning tone pulsing, data mismatch alert beeping
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 45: Trust — Deep [05:52–06:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- solar wind
+
+ACTIONS:
+- Cross-section cutaway of Mars upper atmosphere, thin translucent layers glowing faint amber-red, no protective magnetic field lines present
+- Solar wind particles — bright white streaks — penetrate freely through atmospheric layers, unimpeded, flowing downward in slow motion
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- particle stream whooshing past microphone, faint electrical crackling from magnetic pockets
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 46: Trust — Deep [06:00–06:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, anamorphic lens compression, 3700K teal accent lighting
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- solar wind
+
+ACTIONS:
+- Altitude scale graphic in extreme close-up, 8K HDR, forbidden zone (200-400 km) highlighted in red, Zwan-Wolf magnetic signature waveform appearing inside restricted region, HDR contrast boost on anomaly marker
+- Cinematic photorealistic NASA documentary, anamorphic lens compression, 3700K teal accent lighting
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- altitude marker beeping, restricted zone alarm tone, waveform signature resolving with electronic chime
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 47: Trust — Deep [06:08–06:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Nature Communications journal page in extreme close-up, 8K HDR, publication date 'May 2026' visible, camera slowly tracks across abstract and author list, sterile academic lighting with 3700K teal accent on white paper
+
+ACTIONS:
+- Nature Communications journal page in extreme close-up, 8K HDR, publication date 'May 2026' visible, camera slowly tracks across abstract and author list, sterile academic lighting with 3700K teal accent on white paper
+- Cinematic photorealistic NASA documentary, anamorphic 2.39:1
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- paper pages turning, pen underlining key text, journal binding creaking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 48: Anticipation — Deep [06:16–06:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The globe rotates slowly as data streams pulse across its surface, revealing the stark contrast between Earth's protective shield and Mars's exposed core
+
+ACTIONS:
+- Holographic Mars globe suspended in warm amber light, scientist's hand entering frame with deliberate pointing gesture toward flickering magnetic field overlay, fingers tracing the vanishing lines with focused precision
+- The globe rotates slowly as data streams pulse across its surface, revealing the stark contrast between Earth's protective shield and Mars's exposed core
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- holographic interface hum, data stream beeps, finger tapping glass surface
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 49: Trust — Deep [06:24–06:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Volumetric lighting renders each particle stream in 8K HDR clarity, teal-accented plasma against deep space black
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- solar wind
+
+ACTIONS:
+- Solar wind streams — glowing charged particles flowing from left frame toward Mars's rusty surface — collide with thin atmospheric layers, stripping ions upward in luminous trails
+- Volumetric lighting renders each particle stream in 8K HDR clarity, teal-accented plasma against deep space black
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- plasma crackling, particle impacts on atmospheric molecules
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 50: Trust — Deep [06:32–06:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The solar wind particles hang suspended in space, motion arrested
+
+ACTIONS:
+- The previous Mars cross-section frame freezes mid-animation
+- A semi-transparent question mark graphic fades in over the collapsing magnetic field lines, rendered in desaturated steel-blue wireframe
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- single soft electronic tone fading in and out
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 51: Trust — Deep [06:40–06:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Martian rust-red horizon visible below, deep space black above, 8K HDR volumetric particle simulation with authoritative 3700K teal accent lighting
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- solar wind
+
+ACTIONS:
+- Volumetric solar wind particles streaming toward Mars's thin atmosphere, rendered as luminous blue-white plasma ribbons colliding with invisible magnetic bubble structures that ripple and deflect the flow
+- Localized magnetic field lines visualized as glowing teal filaments emerging from atmospheric layers, bending and redirecting incoming particle streams in real-time interaction
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- particle stream whoosh, electromagnetic crackle
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 52: Trust — Deep [06:48–06:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+the vast Martian atmosphere fades into soft amber haze
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- solar wind
+
+ACTIONS:
+- Micro-scale view of a single localized magnetic bubble in Mars's ionosphere, rendered as a translucent blue-white sphere with field lines curving inward
+- Solar wind particles — glowing white streaks — strike the bubble's surface, deflecting at sharp angles, some absorbed, others ricocheting into space
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- sharp metallic pings as particles strike
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 53: Trust — Deep [06:56–07:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary aesthetic, 8K HDR, volumetric lighting, anamorphic lens 2.39:1
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- magnetosphere
+
+ACTIONS:
+- Mars from orbital perspective, the entire planet filling the lower two-thirds of frame
+- Tiny localized Zwan-Wolf magnetic regions — small blue-white glowing patches — scattered across the dayside atmosphere, dwarfed by the planet's vast rusty surface
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- low rumbling wind sweeping across barren terrain
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 54: Trust — Deep [07:04–07:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The camera retreats, revealing the planet's vulnerability in the vastness of space
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- magnetosphere
+
+ACTIONS:
+- Mars's upper atmosphere, the small blue-white Zwan-Wolf magnetic zones now visibly overwhelmed by incoming solar wind
+- Charged particles flood past the protective regions, stripping amber atmospheric wisps into space in long trailing streams
+
+CAMERA:
+Wide | Zoom out
+
+AUDIO:
+- deep bass rumble of solar wind intensifying
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 55: Trust — Deep [07:12–07:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+8K HDR volumetric lighting renders each atmospheric layer and magnetic topology with clinical precision
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- solar wind
+
+ACTIONS:
+- Cross-section cutaway of Mars's thin atmosphere — layered translucent blue-white gases — with temporary magnetic structures (glowing teal field lines) emerging spontaneously within the ionosphere as solar wind (amber particle streams) impacts from above
+- The structures twist and reform in real-time, modifying particle trajectories
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- atmospheric ionization crackle, magnetic structure formation snaps
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 56: Trust — Deep [07:20–07:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary aesthetic, 8K HDR, volumetric lighting, anamorphic lens 2.39:1
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- solar wind
+
+ACTIONS:
+- The network diagram from the previous shot, now focused on a central cluster of nodes labeled 'uncertainty.' New nodes appear at the edges, connecting to the cluster with glowing lines
+- The web grows more intricate, variables multiplying
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- rhythmic electronic pulses accelerating slightly
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 57: Trust — Deep [07:28–07:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Desaturated steel-blue palette with teal accents highlighting interaction zones
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- solar wind
+
+ACTIONS:
+- Solar wind particles streaming toward Mars's upper atmosphere, rendered as luminous ion trails colliding with atmospheric molecules in cross-section view
+- Particles deflect and scatter at contact boundary, creating visible magnetic field lines that curve and twist in response
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- particle impacts crackling, magnetic field lines snapping
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 58: Trust — Deep [07:36–07:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The graph hovers against desaturated steel-blue background, clinical and unresolved
+
+ACTIONS:
+- Atmospheric loss rate graph materializes on holographic display, error bars widening in real-time as timeline extends rightward into amber-tinted uncertainty
+- Numbers flicker and recalculate, confidence intervals expanding
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- digital beeping, data processing clicks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 59: Trust — Deep [07:44–07:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Instrument bay visible with sensor arrays pointed toward Mars (distant red crescent in background)
+
+ACTIONS:
+- MAVEN spacecraft in extreme close-up, gold thermal blanket catching harsh sunlight, solar panels extending into frame edges
+- Instrument bay visible with sensor arrays pointed toward Mars (distant red crescent in background)
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- solar panel latch clicking, thermal blanket crinkling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 60: Trust — Deep [07:52–08:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Camera advances toward MAVEN's particle detector array, Mars's curved horizon reflected in polished sensor dome, volumetric light cutting through space revealing dust particles, HDR preserves shadow detail in recessed instrument bays, teal accent on antenna elements, desaturated steel-blue space background
+
+ACTIONS:
+- Camera advances toward MAVEN's particle detector array, Mars's curved horizon reflected in polished sensor dome, volumetric light cutting through space revealing dust particles, HDR preserves shadow detail in recessed instrument bays, teal accent on antenna elements, desaturated steel-blue space background
+- Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- camera motor whir, metal stress creaks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 61: Trust — Deep [08:00–08:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Screens float in clean white laboratory space with subtle teal edge lighting
+
+ACTIONS:
+- Layered data visualization: three transparent screens stacked in depth, front screen shows MAVEN atmospheric loss rate graph, middle screen displays solar wind flux curves, back screen holds unanswered question mark icon glowing softly
+- Screens float in clean white laboratory space with subtle teal edge lighting
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- data point plotting clicks, screen glass tapping
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 62: Trust — Deep [08:08–08:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- solar wind
+
+ACTIONS:
+- Solar wind plasma streams (rendered as luminous blue-white particle flows) converge on Venus's thick atmosphere from left, Moon's thin exosphere from right, Mars's intermediate atmosphere center frame, each body showing different interaction patterns—Venus deflecting, Moon absorbing, Mars generating temporary magnetic structures—volumetric lighting reveals particle trajectories, teal accent on magnetic field lines
+- Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- plasma wind rushing, electromagnetic crackling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 63: Trust — Deep [08:16–08:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Split-screen composition: left side shows Venus's dense atmosphere glowing sulfuric yellow under solar bombardment, right side shows Moon's surface with thin exosphere barely visible as faint shimmer, center dividing line contains flowing data stream connecting the two extremes, teal accent on data particles, desaturated steel-blue background, volumetric god-rays
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- solar wind
+
+ACTIONS:
+- Split-screen composition: left side shows Venus's dense atmosphere glowing sulfuric yellow under solar bombardment, right side shows Moon's surface with thin exosphere barely visible as faint shimmer, center dividing line contains flowing data stream connecting the two extremes, teal accent on data particles, desaturated steel-blue background, volumetric god-rays
+- Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- data stream processing clicks, atmospheric wind layers
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 64: Trust — Deep [08:24–08:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clean white space with teal hologram glow, authoritative Bloomberg lighting
+
+ACTIONS:
+- Holographic planetary model array: five exoplanets rotating slowly in a row, each with translucent atmosphere layer
+- Center planet's atmosphere visibly thinning and replenishing in cycle, challenging binary protected/unprotected model
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- holographic projector whirring, planet rotation mechanism clicking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 65: Trust — Deep [08:32–08:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clean NASA mission control environment, steel-blue walls with teal accent lighting from overhead panels
+
+ACTIONS:
+- A 3D cross-section diagram of an exoplanet atmosphere suspended in volumetric light, layers labeled with altitude markers and magnetic field lines fading at the edges, posture neutral and stable
+- The diagram rotates one degree
+- Locks into place, revealing a secondary overlay of atmospheric retention curves diverging from predicted models
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- mechanical click of projection lens focusing
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 66: Trust — Deep [08:40–08:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep space background, 8K HDR
+
+ACTIONS:
+- Photorealistic split-screen comparison: left half shows Earth's magnetosphere as glowing blue field lines arcing from pole to pole, right half shows Mars with patchy crustal magnetic anomalies—small isolated orange-red field pockets scattered across rust-colored surface
+- Camera locked
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- low magnetic field resonance tone shifting between frequencies
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 67: Trust — Deep [08:48–08:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Bright NASA control room, cool 3700K lighting with teal edge glow from monitor arrays
+
+ACTIONS:
+- A high-resolution spectral analysis graph on a large mission control display, wavelength peaks labeled in crisp white text against a teal-accented interface, posture authoritative and grounded
+- Data points populate the graph in real-time, each coordinate locking into place with precision
+- The entire display holds steady as the final value resolves
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- soft beep of data point confirmation
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 68: Trust — Deep [08:56–09:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Volumetric lighting, 8K HDR
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- solar wind
+
+ACTIONS:
+- Photorealistic orbital view of Mars during a solar storm: the planet's rust-red surface fills lower frame, ionosphere glowing electric teal above
+- Solar wind—rendered as streams of golden charged particles—strikes the ionosphere from upper right, creating rippling interference patterns
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- solar wind particle stream whooshing past, ionosphere crackling with electrical discharge
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 69: Trust — Deep [09:04–09:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary aesthetic, 8K HDR, volumetric lighting through the ionospheric glow, anamorphic lens 2.39:1, authoritative Bloomberg-style lighting at 3700K with teal accent on the spacecraft hull
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- solar wind
+
+ACTIONS:
+- The MAVEN spacecraft in Martian orbit, solar panels extended, instruments pointed downward toward the rust-red ionosphere below
+- A faint ripple of luminous plasma disturbance propagates through the thin atmospheric layer beneath the craft
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- faint metallic creak of solar panel actuators
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 70: Trust — Deep [09:12–09:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep space backdrop with Mars filling lower third, volumetric light tracing the ionospheric disturbance
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- solar wind
+
+ACTIONS:
+- The MAVEN spacecraft in Martian orbit, solar panels extended symmetrically, body angled toward the rust-red planet below, posture stable and observant
+- A faint luminous ripple—the Zwan-Wolf effect—pulses through the ionosphere beneath the craft, visible as a teal-blue wave propagating through thin atmospheric layers
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- faint metallic creak of spacecraft structure adjusting
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 71: Trust — Payoff [09:20–09:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The screen is mounted in a clean analysis lab with soft warm 4000K lighting casting gentle shadows across the display surface
+
+ACTIONS:
+- A large high-resolution data visualization screen displays a rotating 3D scatter plot of Martian atmospheric measurements with distinct gaps and missing data points highlighted in red, the graph slowly rotating to reveal empty regions
+- The visualization shows clear patterns but conspicuous voids where measurements are absent, creating visual tension between what is known and unknown
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- mouse clicks on workstation, data point selection beeps
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 72: Trust — Payoff [09:28–09:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep space background, volumetric lighting, 8K HDR
+
+ACTIONS:
+- Photorealistic view of four exoplanets in distant star systems, arranged in a grid: top-left shows a Venus-like world with thick yellow atmosphere, top-right a rocky Mars-analog with thin teal ionosphere, bottom-left a tidally-locked planet with one bright hemisphere, bottom-right a question mark rendered in faint teal light
+- Each planet rotates slowly
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- low-frequency radio telescope signal sweep, cycling through static bursts
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 73: Trust — Payoff [09:36–09:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Desaturated steel-blue space backdrop with volumetric god rays piercing through dust, 8K HDR clarity
+
+ACTIONS:
+- Photorealistic 3D visualization of Mars' thin upper atmosphere rendered as translucent amber-red layers, shoulders relaxed, subtle glow pulsing at edges
+- Atmospheric particles drift outward in slow motion, revealing invisible solar wind interaction zones
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- faint electrical crackling of ionized particles
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 74: Trust — Payoff [09:44–09:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Sterile steel-blue lighting bathes both planetary surfaces, volumetric haze catches edge light along terminator lines
+
+ACTIONS:
+- Split-screen composite: left half shows Mars' thin atmosphere as translucent rust-colored veil above curved horizon, right half displays Venus shrouded in thick sulfuric clouds, both planets rotating slowly in frame
+- Faint grid overlays pulse with diagnostic data points marking atmospheric boundaries
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- data processor beeping rhythmically, faint mechanical servo adjustments
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 75: Trust — Payoff [09:52–10:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Engineers in white suits visible as soft bokeh in background, warm 4000K practicals reflecting off metallic surfaces
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- four billion years
+
+ACTIONS:
+- Archival NASA footage of MAVEN spacecraft's golden solar panels unfolding in clean room, hands steady, precise mechanical extension captured in 8K HDR
+- Engineers in white suits visible as soft bokeh in background, warm 4000K practicals reflecting off metallic surfaces
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- mechanical whir of panel deployment motors
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 76: Trust — Payoff [10:00–10:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Photorealistic render of geological timeline—Mars surface aging across four billion years, posture weary, red dust accumulating in time-lapse as atmosphere visibly thins
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- four billion years
+
+ACTIONS:
+- Photorealistic render of geological timeline—Mars surface aging across four billion years, posture weary, red dust accumulating in time-lapse as atmosphere visibly thins
+- Ancient river valleys fade to desiccated canyons under harsh solar radiation, desaturated amber-to-steel color grade
+
+CAMERA:
+Extreme Close-up | Slow push-in
+
+AUDIO:
+- wind whistling through empty canyons
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 77: Trust — Payoff [10:08–10:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Spacecraft's instruments visibly scanning the ionosphere below
+
+ACTIONS:
+- Photorealistic CGI of MAVEN orbiter silhouetted against Mars' curved horizon, posture alert, solar panels catching warm 4000K sunlight as it passes through terminator line
+- Thin atmospheric glow in amber-red traces the limb, 8K volumetric haze, anamorphic lens breathing
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- subtle thruster firing pulses
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 78: Trust — Payoff [10:16–10:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cursor hovers over anomalous spike in particle deflection readings
+
+ACTIONS:
+- Photorealistic scientific visualization of Martian ionosphere data resolving on screen—unexpected magnetic field structures appearing as glowing blue-white filaments, posture surprised, emerging from noise in real-time graph animation
+- Warm 4000K backlight on display, 8K HDR color grading, volumetric light spill
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- soft beeping of data acquisition system
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 79: Trust — Payoff [10:24–10:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Mars' upper atmosphere rendered as semi-transparent amber layers, invisible magnetic field lines materializing as faint blue-white filaments coiling and deflecting incoming solar wind particles (shown as golden streaks bending around the filaments)
+
+ACTIONS:
+- Mars' upper atmosphere rendered as semi-transparent amber layers, invisible magnetic field lines materializing as faint blue-white filaments coiling and deflecting incoming solar wind particles (shown as golden streaks bending around the filaments)
+- Particles ricochet off newly-formed plasma structures, some escaping upward, others spiraling back toward surface
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- electromagnetic static crackling, particle impacts pinging softly
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 80: Trust — Payoff [10:32–10:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Archival detail shot of MAVEN's data storage unit—physical hard drives in spacecraft bay, posture resolute, LED indicators blinking in sequence
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- The spacecraft
+
+ACTIONS:
+- Archival detail shot of MAVEN's data storage unit—physical hard drives in spacecraft bay, posture resolute, LED indicators blinking in sequence
+- Warm 4000K lighting reflects off brushed aluminum housing, 8K HDR macro detail on connector ports
+
+CAMERA:
+Extreme Close-up | Slow push-in
+
+AUDIO:
+- hard drive spinning down, final click
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 81: Trust — Payoff [10:40–10:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Camera glides over barren landscape, revealing scale of planetary abandonment
+
+ACTIONS:
+- Ancient Martian surface stretches endlessly — rust-red dunes, faint traces of dried riverbeds, thin atmosphere shimmering in volumetric haze
+- Desaturated amber light casts long shadows across desolate terrain
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- wind whistling across sand, distant rumble of dust shifting
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 82: Trust — Payoff [10:48–10:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm amber sunlight rakes across eroded channels, HDR captures shadow detail in canyon walls, desaturated ochre sky above
+
+ACTIONS:
+- Ancient Martian riverbed carved into rust-red terrain, shoulders relaxed in quiet acceptance, camera drifts forward revealing layered sediment striations
+- Warm amber sunlight rakes across eroded channels, HDR captures shadow detail in canyon walls, desaturated ochre sky above
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- wind whistling through canyon, sand grains skittering across rock
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 83: Trust — Payoff [10:56–11:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clinical white-blue instrument housings contrast with amber planet backdrop, anamorphic bokeh stars shimmer in deep space, volumetric light catches solar panel edges
+
+ACTIONS:
+- MAVEN spacecraft in Martian orbit, solar panels catching warm sunlight, sensor arrays pointed downward with purposeful alignment
+- Data streams visualized as luminous particle trails flowing from instruments toward Mars below, hands steady on invisible controls
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- spacecraft gyroscope whirring, solar panel servos clicking into position
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 84: Trust — Payoff [11:04–11:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm amber edge-lighting reveals crystalline structure, volumetric god-rays pierce through dissipating field geometry, desaturated rust and steel palette
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- four billion years
+
+ACTIONS:
+- Cross-section of Mars's solidified iron core, gray metallic mass suspended in frame, extinct magnetic field lines fading to transparency around sphere
+- Warm amber edge-lighting reveals crystalline structure, volumetric god-rays pierce through dissipating field geometry, desaturated rust and steel palette
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- metallic creaking, crystalline fracture echoes
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 85: Trust — Payoff [11:12–11:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Long lens compresses space between worlds, volumetric dust catches warm foreground light while background cools to clinical blue, HDR preserves detail in both rust terrain and distant Earth
+
+ACTIONS:
+- View from Martian surface toward distant Earth as pale blue dot on horizon, camera glides forward across rust-red regolith transitioning to steel-blue atmospheric haze
+- Posture shifts from grounded to reaching, eyes lifting toward home planet with quiet recognition
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- regolith crunching underfoot, thin Martian wind carrying fine dust particles
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 86: Trust — Payoff [11:20–11:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clinical lighting reveals internal dynamics
+
+ACTIONS:
+- Earth planetary core cutaway — magnetic field lines flicker unstable, convection currents slow and irregular
+- Split-screen overlay shows polarity reversal data graphs with amber warning indicators
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- low electromagnetic crackling, data processing beeps
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 87: Trust — Payoff [11:28–11:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clinical white-blue lighting, tight framing on both planetary interiors
+
+ACTIONS:
+- Left frame: Mars dead core, solidified iron, no magnetic field
+- Right frame: Earth active core, convection currents flowing, magnetic field strength graphs declining
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- dual-channel core rumble, left silent, right active but weakening
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 88: Trust — Payoff [11:36–11:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+MAVEN spacecraft's data transmission dish in golden hour light, antenna array tilted toward Earth, posture steady and purposeful
+
+ACTIONS:
+- MAVEN spacecraft's data transmission dish in golden hour light, antenna array tilted toward Earth, posture steady and purposeful
+- Warm 4000K sunlight glints off solar panels, volumetric atmosphere scatters amber rays, HDR captures metallic texture detail
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- satellite dish motor whirring, solar panel servos clicking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+════════════════════════════════════════════════════════════════
+[END SCENE PROMPTS]
+════════════════════════════════════════════════════════════════
