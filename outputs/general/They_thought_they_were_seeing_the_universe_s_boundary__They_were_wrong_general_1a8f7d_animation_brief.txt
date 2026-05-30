@@ -1,0 +1,2922 @@
+════════════════════════════════════════════════════════════════
+[CHARACTERS Description]
+════════════════════════════════════════════════════════════════
+
+PROJECT: They_thought_they_were_seeing_the_universe_s_boundary__They_were_wrong
+
+RATIO: 16:9
+
+--------------------------------------------------
+STYLE (DETAILED - MANDATORY):
+
+- Style Directive: Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1
+
+- Medium: Live-action / Cinematic
+
+- Visual Style:
+  - Photorealistic textures with accurate material response
+  - Observational documentary framing — restrained and credible
+  - Cinematic composition with depth and motivated framing
+  - Anamorphic 2.39:1 framing language adapted to delivery ratio
+  - 8K capture-grade detail with deep blacks and clean highlights
+  - HDR contrast — preserved highlights, nuanced shadows
+
+- Character Design:
+  Semi-realistic figures
+
+- Materials & Textures:
+  [e.g. Flat colors only / Cel-shaded with soft shadow / Painterly with visible brushwork]
+
+- Lighting:
+  Volumetric lighting with visible light shafts
+
+- Color Palette:
+  [Define color roles — e.g. Red = danger, Yellow = energy, Blue = calm, Black outline for clarity]
+
+- Rendering Quality:
+  [e.g. Crisp, clean, high-definition / Slightly grainy retro / Hyper-smooth anime-style]
+
+- Motion Feel:
+  [e.g. Smooth action-driven / Bouncy exaggerated / Slow cinematic / Snappy cut-driven]
+
+- Overall Impression:
+  [One paragraph — what should viewers FEEL when watching? What is the visual "brand" of this project?]
+
+--------------------------------------------------
+TONE:
+[Overall emotional register — e.g. High tension, urgent, dramatic / Dark comedic, absurdist / Warm and nostalgic / Energetic and hype]
+[Detected dominant emotion (auto, for reference): Trust]
+
+--------------------------------------------------
+RENDERING RULES:
+
+- [Rule 1 — e.g. NO TEXT, NO LETTERS, NO SYMBOLIC WORDS in any scene]
+- [Rule 2 — e.g. Story must be conveyed entirely through visuals and expressions]
+- [Rule 3 — e.g. Each scene must have a clear visual conflict or action beat]
+- [Rule 4 — e.g. Only include characters explicitly required in each scene]
+- [Rule 5 — e.g. No background crowd, no unnecessary props]
+- [Add more rules as needed]
+
+--------------------------------------------------
+CHARACTERS (LOCKED):
+
+- Character 1: New Glenn
+  [Physical description — face shape, skin tone, eye style — fill in]
+  [Hair — color #HEX, length, style — fill in]
+  [Default outfit — top, bottom, shoes, accessories — fill in]
+  [Signature trait — what makes them instantly recognizable — fill in]
+  [Expression range — what emotions they show most — fill in]
+
+- Character 2: Launch Complex
+  [Physical description — face shape, skin tone, eye style — fill in]
+  [Hair — color #HEX, length, style — fill in]
+  [Default outfit — top, bottom, shoes, accessories — fill in]
+  [Signature trait — what makes them instantly recognizable — fill in]
+  [Expression range — what emotions they show most — fill in]
+
+- Character 3: Cape Canaveral
+  [Physical description — face shape, skin tone, eye style — fill in]
+  [Hair — color #HEX, length, style — fill in]
+  [Default outfit — top, bottom, shoes, accessories — fill in]
+  [Signature trait — what makes them instantly recognizable — fill in]
+  [Expression range — what emotions they show most — fill in]
+
+- Character 4: Boca Chica
+  [Physical description — face shape, skin tone, eye style — fill in]
+  [Hair — color #HEX, length, style — fill in]
+  [Default outfit — top, bottom, shoes, accessories — fill in]
+  [Signature trait — what makes them instantly recognizable — fill in]
+  [Expression range — what emotions they show most — fill in]
+
+- Character 5: Vulcan Centaur
+  [Physical description — face shape, skin tone, eye style — fill in]
+  [Hair — color #HEX, length, style — fill in]
+  [Default outfit — top, bottom, shoes, accessories — fill in]
+  [Signature trait — what makes them instantly recognizable — fill in]
+  [Expression range — what emotions they show most — fill in]
+
+- Character 6: Atlantic Ocean
+  [Physical description — face shape, skin tone, eye style — fill in]
+  [Hair — color #HEX, length, style — fill in]
+  [Default outfit — top, bottom, shoes, accessories — fill in]
+  [Signature trait — what makes them instantly recognizable — fill in]
+  [Expression range — what emotions they show most — fill in]
+
+- [Add unnamed characters (narrator, crowd, etc.) here if needed]
+
+--------------------------------------------------
+ENVIRONMENT (GLOBAL):
+
+[Default background / world setting for the entire project]
+[e.g. Minimal clean background, soft gradient sky / Neon-lit urban rooftop / Pastel fantasy kingdom]
+[Note: individual scenes can override this with their own ENVIRONMENT field]
+
+[Detected scene environments (auto, for reference):]
+  - Cape Canaveral launch complex at dusk, sterile confidence, clinical whites and cool blues
+  - Cape Canaveral LC-36 perimeter at night, high-contrast NASA facility lighting, sterile whites shifting toward amber undertones
+  - LC-36 fueling operations at night, amber and orange fire tones beginning to creep into edges of frame, harsh shadows
+  - beneath New Glenn first stage at LC-36, amber tones intensifying, harsh shadows from directional lighting
+  - LC-36 at night, fire tones dominating, harsh shadows cast by fireball, smoke beginning to rise
+  - residential Space Coast interior at night, warm incandescent light inside contrasting with orange glow outside, shadows flickering
+  - pure black, no ambient light, no texture
+  - Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1
+  - Bright NASA facility interior, cool clinical whites with warm 3800K accent light raking across the lander's gold foil panels, sterile confidence
+  - Cool clinical whites, high-contrast facility lighting, clean professional documentary aesthetic
+  - Warm golden-hour light bathes the structure in soft amber, casting long clean shadows across the empty pad — desolate but luminous
+  - Bright NASA facility corridor behind, soft 3800K warm light wrapping the scene in clean professional warmth
+
+--------------------------------------------------
+GOAL:
+[Optional — one sentence stating the visual storytelling goal of the entire video]
+[e.g. "Make the audience feel the tension of nuclear deterrence without using any text or narration"]
+
+════════════════════════════════════════════════════════════════
+[END CHARACTERS Description]
+════════════════════════════════════════════════════════════════
+
+
+════════════════════════════════════════════════════════════════
+SCENE PROMPTS
+════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────
+🎬 SCENE 01: Trust — Hook [00:00–00:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cape Canaveral launch complex at dusk, sterile confidence, clinical whites and cool blues
+
+ACTIONS:
+- Three rockets stand in formation on adjacent launch pads under twilight sky — SLS, Starship, New Glenn — silhouetted against deep space blacks and high-contrast facility lighting
+- Posture: upright, aligned, ready
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- metal creaking under thermal stress, distant hydraulic hiss, vapor venting
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 02: Trust — Hook [00:08–00:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cape Canaveral LC-36 perimeter at night, high-contrast NASA facility lighting, sterile whites shifting toward amber undertones
+
+ACTIONS:
+- Digital mission clock reads 21:00:00 EDT, May 28, 2026, mounted on control tower exterior
+- Posture: static, authoritative
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- relay clicking inside clock housing, electrical buzz from LED display
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 03: Trust — Hook [00:16–00:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+LC-36 fueling operations at night, amber and orange fire tones beginning to creep into edges of frame, harsh shadows
+
+ACTIONS:
+- Cryogenic propellant lines snake across New Glenn first stage, frost crystallizing on metal surfaces under floodlights
+- Posture: tense, pressurized
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- liquid rushing through pressurized lines, ice cracking off metal, droplets hitting concrete
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 04: Trust — Hook [00:24–00:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+beneath New Glenn first stage at LC-36, amber tones intensifying, harsh shadows from directional lighting
+
+ACTIONS:
+- Seven BE-4 engine bells fill the 2.39:1 frame, condensation dripping from nozzle edges, frost patterns visible on turbopump housings
+- Posture: coiled, waiting
+
+CAMERA:
+Extreme Close-up | Static
+
+AUDIO:
+- water droplet impact on concrete, metal contracting under cryogenic temperature
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 05: Trust — Hook [00:32–00:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+LC-36 at night, fire tones dominating, harsh shadows cast by fireball, smoke beginning to rise
+
+ACTIONS:
+- BE-4 engines ignite in sequence, volumetric fire blooming upward and outward in 2.39:1 frame, orange and amber tones flooding the night
+- Posture: explosive, uncontrolled
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- ignition roar, metal tearing, structural collapse beginning
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 06: Trust — Hook [00:40–00:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+residential Space Coast interior at night, warm incandescent light inside contrasting with orange glow outside, shadows flickering
+
+ACTIONS:
+- Interior of Florida home, window frame center, coffee mug on sill vibrating in concentric ripples
+- Posture: domestic, vulnerable
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- window glass rattling in frame, ceramic mug vibrating on wood sill
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 07: Trust — Hook [00:48–00:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+pure black, no ambient light, no texture
+
+ACTIONS:
+- White sans-serif text fades in center: 'No one was injured.' Posture: still, declarative
+- Action: text holds, no movement, no sound
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- none
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 08: Trust — Hook [00:56–01:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1
+
+ACTIONS:
+- A scorched launch pad clamp arm hangs frozen mid-release, twisted metal catching amber light, smoke curling upward in thick volumetric columns against a black Florida sky
+- The arm holds its broken position — incomplete, suspended — as if time itself refused to move forward
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- metal debris settling on concrete, low wind through twisted steel
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 09: Trust — Hook [01:04–01:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Bright NASA facility interior, cool clinical whites with warm 3800K accent light raking across the lander's gold foil panels, sterile confidence
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Two days
+
+ACTIONS:
+- Blue Moon lander scale model gleaming under warm volumetric facility light, surface details crisp and precise, posture of engineered confidence
+- Lander sits centered on a clean white plinth, mission patch and NASA contract documents fanned open beside it, partially visible — a curiosity gap
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- paper pages fanning open, document sliding across hard surface
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 10: Trust — Hook [01:12–01:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cool clinical whites, high-contrast facility lighting, clean professional documentary aesthetic
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Two days
+
+ACTIONS:
+- NASA contract documentation page filling frame, official letterhead and billion-dollar figure visible in photorealistic archival detail, Blue Origin logo and mission parameters in sharp focus
+- The document rests on polished conference table surface, edges crisp under soft flattering 3-point lighting
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- paper rustling, pen scratching paper, document pages turning
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 11: Trust — Hook [01:20–01:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm golden-hour light bathes the structure in soft amber, casting long clean shadows across the empty pad — desolate but luminous
+
+ACTIONS:
+- Damaged launch pad erector frame stands empty against a pale morning sky, scorched concrete apron stretching across the full 2.39:1 frame — vast, still, achingly open
+- Twisted steel support arms hang at broken angles, surfaces streaked with soot
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- wind pushing through open steel lattice, loose metal bracket tapping rhythmically against a beam
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 12: Trust — Hook [01:28–01:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Bright NASA facility corridor behind, soft 3800K warm light wrapping the scene in clean professional warmth
+
+ACTIONS:
+- Two hands hold a smartphone in warm volumetric facility light, screen fully legible — Bezos statement text sharp and centered in frame, partially scrolled, bottom line just out of view
+- Hands steady, composed, grip firm — quiet resolve
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- smartphone screen tap, notification chime fading
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 13: Trust — Hook [01:36–01:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+NASA headquarters briefing facility, high-contrast clinical lighting, desaturated whites and steel blues, institutional precision
+
+ACTIONS:
+- Large display monitor in sterile NASA briefing room shows Jared Isaacman statement text in official NASA typography
+- Cool white walls and government-issue furniture frame the screen
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- air conditioning vent hiss, fluorescent light buzz
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 14: Trust — Hook [01:44–01:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cool clinical whites, high-contrast facility lighting, ironic stillness
+
+ACTIONS:
+- Empty press briefing podium centered in 2.39:1 composition, NASA logo visible on front panel, microphones arranged but no speaker present
+- Volumetric light falls on vacant space from overhead fixtures, creating dramatic shadows on blue curtain backdrop
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- air conditioning vent blowing, distant footsteps echoing, door closing softly
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 15: Trust — Hook [01:52–02:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+A backlit mission timeline graphic fills the frame — two parallel horizontal bars labeled USA and CHINA, date markers resolving in crisp white text, the gap between 2030 markers narrowing visibly as the camera inches closer
+
+ACTIONS:
+- A backlit mission timeline graphic fills the frame — two parallel horizontal bars labeled USA and CHINA, date markers resolving in crisp white text, the gap between 2030 markers narrowing visibly as the camera inches closer
+- Warm volumetric light rakes across the display surface, gold and white tones glowing with clinical precision
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- display panel button click, stylus tapping on glass surface
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 16: Trust — Hook [02:00–02:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Desaturated steel blues and grays, high-contrast analytical lighting, controlled documentary framing
+
+ACTIONS:
+- Mission control display screen showing dual timeline graphic, American and Chinese lunar program milestones plotted on parallel tracks converging toward 2030
+- The timelines compress visually, margin between programs shrinking to razor-thin gap
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- computer mouse clicking, keyboard typing rapidly, display screen refreshing
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 17: Trust — Hook [02:08–02:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Launch complex bathed in cool clinical white floodlights against deep Florida night sky, sterile confidence radiating from every steel surface
+
+ACTIONS:
+- A New Glenn rocket stands fully vertical on the launch pad, frost forming on the liquid oxygen tank surface, hold-down clamps locked tight at the base
+- Umbilical lines connect to the vehicle as ground support equipment surrounds the pad in precise formation
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- metal clamps clicking, frost crackling on tank surface
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 18: Trust — Hook [02:16–02:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Volumetric fire and smoke fill the 2.39:1 frame, amber and orange tones with harsh shadows, countdown clock visible in lower third ticking down final seconds
+
+ACTIONS:
+- Rocket engine bells igniting during static fire test, flames erupting from nozzles with controlled intensity — posture rigid, thrust building
+- Volumetric fire and smoke fill the 2.39:1 frame, amber and orange tones with harsh shadows, countdown clock visible in lower third ticking down final seconds
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- engine roar building, metal stress creak, propellant whoosh
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 19: Trust — Hook [02:24–02:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Launch pad surface covered in soot and fire suppression foam under harsh morning sunlight, volumetric smoke drifting through frame
+
+ACTIONS:
+- Charred rocket debris scattered across scorched launch pad concrete, twisted metal fragments still smoking, posture collapsed and broken
+- Blackened engine bell lies separated from main structure, hydraulic lines severed and leaking residual propellant
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- metal settling and pinging, dripping liquid hitting concrete, wind through twisted wreckage
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 20: Surprise — Hook [02:32–02:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Volumetric lighting catches texture of failure
+
+ACTIONS:
+- Extreme close-up of scorched rocket engine hardware, blackened turbopump housing with heat damage visible in 8K HDR detail — posture damaged, compromised
+- Camera pushes slowly into charred metal surface, revealing stress fractures and melted components, desaturated steel blues and grays with amber fire residue
+
+CAMERA:
+Wide | Zoom out
+
+AUDIO:
+- metal cooling tick, faint gas hiss, debris shift
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 21: Sadness — Hook [02:40–02:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Background shows empty chairs and blank projection screen, deep silence pervades
+
+ACTIONS:
+- Empty press podium in desaturated conference room, microphone stand alone in frame — posture absent, waiting
+- Overcast soft low-key lighting at 3200K, muted editorial atmosphere, no movement, complete stillness
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- distant rain on window, paper rustle, chair creak
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 22: Sadness — Hook [02:48–02:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Darkened office space with single desk lamp casting cold blue monitor glow, desaturated steel color palette, rain streaking window glass behind
+
+ACTIONS:
+- Computer monitor displaying official Blue Origin statement with single word 'anomaly' highlighted, cursor blinking at end of sparse text, screen posture flat and emotionless
+- Fingers rest motionless on keyboard in foreground, no typing, document timestamp visible in corner
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- keyboard spacebar single tap, mouse click, rain tapping window glass
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 23: Sadness — Build Up [02:56–03:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+A single darkened mission control console sits isolated under cold steel-blue overhead lighting, screens displaying frozen telemetry data mid-sequence — numbers halted, graphs incomplete, one monitor showing a flat line where engine chamber pressure should climb
+
+ACTIONS:
+- A single darkened mission control console sits isolated under cold steel-blue overhead lighting, screens displaying frozen telemetry data mid-sequence — numbers halted, graphs incomplete, one monitor showing a flat line where engine chamber pressure should climb
+- Desaturated steel-blue and gray tones drain warmth from the frame
+
+CAMERA:
+Medium | Zoom out
+
+AUDIO:
+- keyboard key clicking once, monitor button pressing
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 24: Trust — Build Up [03:04–03:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Construction workers visible as small figures against massive infrastructure, volumetric dust in air, Florida coastline in background
+
+ACTIONS:
+- Wide archival-style shot of LC-36 launch complex under construction in daylight, crane lifting steel structure into place — posture building, ascending
+- Warm 3800K lighting, consistent even illumination, documentary clean aesthetic
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- crane motor whir, metal beam clang, welding spark crackle
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 25: Trust — Build Up [03:12–03:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+sterile white surface, deep space black background, high-contrast NASA facility lighting, 3800K
+
+ACTIONS:
+- A glowing 2016 press release document fills the anamorphic frame — crisp white paper under a single volumetric beam of cool clinical light, the date '2016' and text 'NEW GLENN — TARGET: 2020' rendered in sharp focus, edges dissolving into deep shadow
+- The document sits motionless, promise frozen in time
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- paper sliding on hard surface, single pen click
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 26: Trust — Build Up [03:20–03:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clean white studio backdrop, no shadows, clinical neutrality
+
+ACTIONS:
+- Calendar pages flip in tight anamorphic close-up — 2020, 2021, 2022, 2023, 2024 — each year printed in bold sans-serif numerals on white paper, edges crisp under even 3800K tungsten light
+- Each page turns with deliberate precision, revealing the next year in methodical sequence
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- paper flipping, sharp page turns
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 27: Trust — Build Up [03:28–03:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Volumetric light filters through cloud cover, casting soft shadows across the concrete apron
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- thirteen years
+
+ACTIONS:
+- Empty launch pad under overcast Florida sky, desaturated steel blue and gray tones, no rocket present — only the massive support structure and umbilical towers standing vacant
+- Negative space dominates the 2.39:1 frame, the absence itself carrying narrative weight
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- distant wind gusts, metal creaking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 28: Trust — Build Up [03:36–03:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+aerospace manufacturing facility, cool white light, 3800K, deep shadow at frame edges
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- thirteen years
+
+ACTIONS:
+- A production floor timeline — a large printed Gantt chart pinned to a steel wall — fills the frame under flat fluorescent clinical light
+- Delivery milestone rows for 'BE-4 ENGINE UNIT 1' through 'UNIT 12' show red 'DELAYED' stamps cascading down the chart, each date pushed further right
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- marker squeaking on whiteboard, clipboard papers shuffling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 29: Trust — Build Up [03:44–03:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Camera advances steadily toward the engine's throat, revealing layered complexity: fuel injectors, cooling channels, combustion chamber walls
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- thirteen years
+
+ACTIONS:
+- BE-4 rocket engine assembly in production facility — massive methane-fueled staged combustion engine mounted on test stand, intricate plumbing and turbopumps gleaming under 3800K industrial lighting
+- Camera advances steadily toward the engine's throat, revealing layered complexity: fuel injectors, cooling channels, combustion chamber walls
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- metal clanking, hydraulic hiss, wrench tightening bolts
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 30: Trust — Build Up [03:52–04:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The frame holds, making time tactile — the patch a relic of anticipation
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- thirteen years
+
+ACTIONS:
+- A worn New Glenn mission patch mounted on a facility wall, fabric slightly faded, edges frayed from years of waiting
+- The patch shows the rocket silhouette and mission designation, colors desaturated into steel blue and muted white
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- fluorescent light buzzing, distant footsteps
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 31: Joy — Build Up [04:00–04:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cape Canaveral launch complex, warm amber engine glow against cool night sky, 4300K, volumetric smoke and steam
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Five years
+
+ACTIONS:
+- New Glenn rocket on the launch pad at night — the full 98-meter vehicle silhouetted against a deep indigo Florida sky, seven BE-4 engines igniting simultaneously in a blinding amber-white flare that floods the 2.39:1 anamorphic frame with warm golden light
+- Exhaust plumes billow outward across the pad
+
+CAMERA:
+Medium | Orbit
+
+AUDIO:
+- rocket engine ignition roar, launch pad water suppression steam hissing
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 32: Joy — Build Up [04:08–04:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+A digital mission success graphic on a large control room display — three green checkmarks resolving sequentially: January 2025, Flight 2, Flight 3
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Five years
+
+ACTIONS:
+- A digital mission success graphic on a large control room display — three green checkmarks resolving sequentially: January 2025, Flight 2, Flight 3
+- The frame begins in desaturated steel blue
+- Warm amber light creeps into the edges as the checkmarks appear, volumetric light from the display casting soft glow on the surrounding consoles
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- keyboard typing, display beeping confirmation tones
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 33: Joy — Build Up [04:16–04:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Five years
+
+ACTIONS:
+- New Glenn rocket standing vertical on launch pad at dawn, engineers in high-visibility vests embracing in foreground with arms raised, faces lit with relief and joy
+- Rocket gleaming white against soft golden sky, volumetric light cutting through morning haze
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- metal clanging on launch structure, radio chatter crackling, footsteps on steel grating
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 34: Trust — Build Up [04:24–04:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+ACTIONS:
+- New Glenn fourth vehicle stacked vertically on Cape Canaveral pad in late afternoon, massive white rocket filling frame against pale blue sky, service structure arms extended
+- Methodical, deliberate framing emphasizes scale and engineering precision
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- wind whistling through launch tower, distant hydraulic hiss, metal creaking under tension
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 35: Joy — Build Up [04:32–04:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+ACTIONS:
+- Massive orange fireball erupting from New Glenn rocket base at twilight, flames billowing upward in volumetric plumes, harsh amber light casting long shadows across launch pad
+- Engineers in foreground silhouetted against the explosion, hands raised to faces in shock
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- deep rumbling explosion, metal tearing and collapsing, debris clattering on concrete
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 36: Anticipation — Build Up [04:40–04:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Sterile NASA facility interior, 3400K amber-shadow lighting carving deep contrast across the blueprint surface, tension accumulating in the frame
+
+ACTIONS:
+- A large illuminated architectural blueprint of a lunar base spreads across a backlit drafting table — multiple modules, supply lines, and launch corridors annotated in amber ink, no single node dominant
+- Gloved hands trace interconnected pathways across the diagram, fingers pausing at a cluster of launch vehicle icons
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- pen tip dragging across paper, blueprint page rustling under gloved fingers
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 37: Fear — Build Up [04:48–04:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- forty-eight hours
+
+ACTIONS:
+- NASA document dated May 26 lying on dark desk, single motivated cool light raking across the page from left, casting deep shadows
+- Camera drifts slightly, emphasizing the date as volumetric light catches dust motes in the air
+
+CAMERA:
+Close-up | Handheld
+
+AUDIO:
+- paper rustling, pen tapping on desk, distant footsteps in hallway
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 38: Fear — Build Up [04:56–05:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- forty-eight hours
+
+ACTIONS:
+- Mission timeline graphic displayed on wall-mounted screen in empty conference room, phases labeled 'Robotic' and 'Crewed' with dates, forty-eight hours highlighted in red
+- Cool single-source light from screen, deep shadows in corners
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- projector fan whirring, air conditioning vent hissing, chair creaking under weight
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 39: Fear — Build Up [05:04–05:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- forty-eight hours
+
+ACTIONS:
+- Desaturated empty hallway at Johnson Space Center, cold blue overhead fluorescent lighting, polished floor reflecting light, doors closed on both sides
+- Camera holds motionless, emphasizing isolation and the weight of the announcement now shadowed by failure
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- fluorescent lights buzzing, distant door closing, footsteps echoing far away
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 40: Fear — Build Up [05:12–05:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- forty-eight hours
+
+ACTIONS:
+- Lunar base schematic on illuminated drafting table in darkened room, detailed habitat modules and infrastructure rendered in white lines on black background
+- Camera slowly pulls back, framing the schematic smaller and smaller against the surrounding darkness, emphasizing fragility and scale
+
+CAMERA:
+Medium | Zoom out
+
+AUDIO:
+- drafting table light humming, paper sliding on surface, distant ventilation system
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 41: Trust — Build Up [05:20–05:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clinical deep-space blacks fill the background
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Each mission
+
+ACTIONS:
+- A photorealistic lunar lander mockup stands beside a towering rocket silhouette inside a vast NASA assembly hangar — both subjects centered in 2.39:1 anamorphic frame, posture upright and deliberate, surfaces catching volumetric cool-white facility light
+- The lander's landing legs splay outward, partially visible, the rocket's upper stage cut off by frame edge — an incomplete reveal
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- metal scaffolding creaking, distant hydraulic hiss
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 42: Trust — Build Up [05:28–05:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1
+
+ACTIONS:
+- Three mission logos — NASA meatball, SpaceX chevron, ULA shield, Blue Origin feather — rendered as large backlit panels mounted on a clean white NASA facility wall, each glowing under consistent cool 3800K fluorescent light, arranged side by side in deliberate sequence
+- The panels stand rigid, institutional, slightly separated — three distinct identities sharing one wall
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- ventilation fan blades spinning, fluorescent light fixture buzzing
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 43: Trust — Build Up [05:36–05:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cool clinical whites and deep-space blacks
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 120 meters
+
+ACTIONS:
+- SpaceX Starship stands on the Boca Chica launch mount — 120 meters of stainless steel rising from frame bottom to beyond frame top, scale dwarfing the launch tower beside it
+- Pre-dawn volumetric mist curls around the base
+
+CAMERA:
+Wide | Tilt
+
+AUDIO:
+- wind rushing across steel structure, distant ocean waves breaking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 44: Trust — Build Up [05:44–05:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cool industrial steel tones, near-black background
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 120 meters
+
+ACTIONS:
+- Starship's Raptor engine cluster fills the 2.39:1 frame — 33 nozzle bells arranged in concentric rings, stainless steel surfaces etched with weld seams and thermal discoloration
+- Volumetric raking light from camera-left carves deep shadows between each nozzle
+
+CAMERA:
+Extreme Close-up | Static
+
+AUDIO:
+- metal ticking as structure cools, wrench socket clicking against bolt head
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 45: Trust — Build Up [05:52–06:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm amber light from the horizon contrasts the rocket's cool steel surface
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 120 meters
+
+ACTIONS:
+- Starship on the Boca Chica orbital launch mount at golden hour — full vehicle visible from base to nose, Gulf of Mexico stretching to the horizon behind it
+- Anamorphic lens flare streaks horizontally across frame from the low sun
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- seabirds calling, wind buffeting launch structure steel cables
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 46: Trust — Build Up [06:00–06:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+A frosted control room window behind it casts diffused volumetric light across the wall surface
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 120 meters
+
+ACTIONS:
+- The Artemis Human Landing System mission patch — a circular emblem showing Starship descending toward a lunar surface, Earth crescent in background — mounted on a clean white NASA facility wall under volumetric cool-white light
+- The patch fills center frame, edges sharp in 8K HDR
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- HVAC duct air rushing, distant door latch clicking shut
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 47: Trust — Build Up [06:08–06:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 120 meters
+
+ACTIONS:
+- Starship's stainless steel hull mid-section fills the frame — camera tracks slowly across the surface revealing weld seams, panel joints, frost condensation crystals, and heat shield tile edges in 8K HDR
+- Volumetric cool light rakes across the curved surface, each imperfection casting a micro-shadow
+
+CAMERA:
+Medium | Pan
+
+AUDIO:
+- metal structure groaning under thermal stress, frost crystals crackling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 48: Trust — Build Up [06:16–06:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1
+
+ACTIONS:
+- Vulcan Centaur rocket stands on Space Launch Complex 41 at Cape Canaveral — full vehicle centered in 2.39:1 frame, Atlantic Ocean horizon behind it under volumetric morning light
+- The rocket's white fairing and blue ULA livery catch clean 3800K light
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- Atlantic wind across launch structure, distant seagull calls, metal access arm swaying
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 49: Trust — Build Up [06:24–06:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Volumetric light rakes across the interstage, revealing riveted aluminum panels and ULA mission markings
+
+ACTIONS:
+- Vulcan Centaur rocket stands vertical on the launch pad, twin BE-4 engine bells gleaming under consistent cool-white facility floodlights, anamorphic lens compressing the rocket's full height against a deep space-black Florida sky
+- The rocket's white fuselage reflects pad lighting in clean horizontal bands — steady, immovable, operational
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- metal structure creaking under wind load, distant pad ventilation fans spinning
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 50: Trust — Build Up [06:32–06:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+8K HDR anamorphic, deep space blacks, sterile confidence
+
+ACTIONS:
+- New Glenn rocket standing at LC-36, three-quarter angle, seven BE-4 engine bells clustered at the base catching volumetric pad floodlights — cool clinical white light raking across the nozzle array
+- The rocket's full silhouette fills the 2.39:1 frame, booster skirt sharp against Florida night sky
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- metal structure creaking under thermal load, distant pad ventilation fans spinning
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 51: Trust — Build Up [06:40–06:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cool clinical whites and deep space blacks
+
+ACTIONS:
+- Single BE-4 engine bell filling the 2.39:1 frame — methane frost crystals forming on the nozzle exterior, volumetric raking light exposing turbopump housing geometry in photorealistic 8K HDR detail
+- Cool clinical whites and deep space blacks
+
+CAMERA:
+Extreme Close-up | Static
+
+AUDIO:
+- high-pressure gas hissing through valve seals, metal ticking as cryogenic temperatures contract the engine bell
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 52: Trust — Build Up [06:48–06:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cool clinical whites and deep space blacks
+
+ACTIONS:
+- New Glenn inside its vertical integration facility — the full rocket stacked and vertical, dwarfing the steel gantry framework surrounding it
+- Industrial volumetric light shafts pierce through upper bay windows, illuminating dust motes and the rocket's white composite fairing
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- overhead crane chain rattling, steel gantry bolts torquing
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 53: Trust — Build Up [06:56–07:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Anamorphic 2.39:1 compresses the desolate horizon
+
+ACTIONS:
+- LC-36 launch pad empty — the flame trench scorched black, concrete blast deck cracked and stained with soot in radiating fracture patterns
+- No rocket
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- wind rushing across concrete, loose metal debris scraping
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 54: Trust — Build Up [07:04–07:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cool clinical whites
+
+ACTIONS:
+- A large NASA contract document displayed on a backlit glass panel — Blue Origin letterhead visible, mission designations listed in clean sans-serif type
+- Beside it, a Blue Moon lander schematic diagram rendered in precise engineering line-art, the lander's four landing legs and payload deck clearly delineated
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- paper rustling, document page turning
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 55: Trust — Build Up [07:12–07:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clean NASA documentary aesthetic — sterile confidence, cool whites and deep space blacks
+
+ACTIONS:
+- A photorealistic 8K HDR render of the lunar south pole surface — Shackleton Connecting Ridge bathed in raking volumetric sunlight, crisp white regolith glittering under a coal-black sky, warm golden light cutting low across crater rims
+- A mission trajectory arc animates onto the terrain surface as a glowing blue line resolving toward a marked landing zone, the target coordinates crystallizing on-screen
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- metallic stylus tapping on glass display surface, soft electronic beep of coordinate lock
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 56: Trust — Build Up [07:20–07:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+8K HDR, anamorphic 2.39:1, cool clinical whites
+
+ACTIONS:
+- Mission timeline graphic rendered on a large backlit display panel — clean sans-serif typography, 'FALL 2026' date highlighted in cool white against deep charcoal background, 'SHACKLETON CONNECTING RIDGE' coordinates listed below, '20 METRIC TONS' payload figure prominent
+- Volumetric control room lighting rakes across the display surface
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- display panel cooling fan spinning, single keyboard key clicking as a data field updates
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 57: Trust — Build Up [07:28–07:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clean NASA facility environment, high-contrast lighting casting sharp shadows across technical diagrams
+
+ACTIONS:
+- Blue Moon lander payload bay schematic rendered in volumetric light, stereo camera arrays and laser retroreflector visible as physical hardware mounted in frame
+- Instruments gleam under clinical 3800K white light, each component labeled with survival-critical function tags
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- mechanical servo whir, lens aperture click
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 58: Trust — Build Up [07:36–07:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Sterile NASA lab environment, each instrument isolated on white surface
+
+ACTIONS:
+- Radiation sensor module in 8K HDR detail, metallic surface reflecting volumetric light, calibration LEDs blinking in sequence
+- Regolith drill bit beside it, lunar dust simulant clinging to spiral threads
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- LED indicator beep, drill bit rotation click
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 59: Trust — Build Up [07:44–07:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clean NASA integration lab, white walls, high-key lighting from overhead panels, lander hardware in soft focus background
+
+ACTIONS:
+- Stereo camera array mounted on lunar lander leg, chrome reflective surfaces catching volumetric light from above, lens housings angled downward toward simulated regolith surface
+- Camera rig rotates incrementally on motorized gimbal, precise mechanical movement
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- servo motor whirring, lens aperture clicking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 60: Trust — Deep [07:52–08:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Lunar surface in lower frame, lander structure above, deep space black beyond horizon
+
+ACTIONS:
+- Stereo camera rig mounted on lunar lander leg, twin lenses angled downward toward regolith surface, metal housing reflecting volumetric starlight
+- Camera array remains motionless, lenses capturing invisible thruster plume zone below
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- metal housing creaking, lens aperture clicking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 61: Fear — Deep [08:00–08:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Dim high-contrast lighting, confined space feeling
+
+ACTIONS:
+- Darkened mission control screen displays mission timeline with red warning indicators
+- Desaturated steel blue color grade, 2700K lighting casting harsh shadows across screen surface
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- keyboard key press, warning tone beep
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 62: Trust — Deep [08:08–08:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Authoritative Bloomberg-style lighting, clinical and stable
+
+ACTIONS:
+- Mission manifest document on white table under volumetric light raking across the page from left
+- The document lists multiple payload entries in technical font, each line itemized with mission numbers and delivery dates
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- paper rustle, pen tap on table edge
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 63: Trust — Deep [08:16–08:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Authoritative Bloomberg-style lighting, no movement, pure stability
+
+ACTIONS:
+- Empty launch pad under overcast gray Florida sky
+- The pad's concrete surface stretches across the frame, service structures visible in the background, no rocket present
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- distant wind gust, metal structure creak, seagull cry
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 64: Trust — Deep [08:24–08:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clean office environment, neutral tones, authoritative framing
+
+ACTIONS:
+- Mission manifest document on illuminated desk, single line of text in focus reading 'ARTEMIS III - CREWED', black sans-serif type on white paper, soft 3700K light with teal accent from desk lamp above
+- Hand rests beside document, fingers relaxed, no movement
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- paper edge lifting slightly in air current, pen rolling on desk surface
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 65: Trust — Deep [08:32–08:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The spacecraft hangs motionless on steel cables, no sway, no rotation — pure engineered stability
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Orion spacecraft
+
+ACTIONS:
+- Photorealistic Orion spacecraft module suspended in clean white NASA assembly facility, bathed in cool 3700K teal-accented volumetric light streaming through high industrial windows
+- The capsule's heat shield faces camera, matte white thermal tiles pristine and unmarked, gold Mylar insulation catching sharp highlights
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- hydraulic lock engaging, steel cable tension creak
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 66: Trust — Deep [08:40–08:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clinical whites and deep space blacks
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Orion spacecraft
+
+ACTIONS:
+- Blue Moon Mark 2 crewed lunar lander rendered in photorealistic 8K HDR — gleaming white hull, teal-accented landing legs fully extended, upright and confident in a bright NASA facility bay
+- The lander stands illuminated by authoritative cool-white overhead lighting, teal accent strips catching volumetric light along its ascent stage
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- metal landing leg locking click, pressurized strut settling clank
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 67: Fear — Deep [08:48–08:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+dim, harsh shadows, deep red accent, space feels increasingly confined as frame closes
+
+ACTIONS:
+- Artemis III mission patch rendered photorealistically in 8K HDR — embroidered fabric texture filling frame, red and deep crimson thread catching harsh high-contrast light at 2700K
+- The circular patch shows Earth, Moon, and orbital trajectory arc
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- mechanical clock ticking, single notification ping
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 68: Fear — Deep [08:56–09:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+desaturated steel grey and deep shadow, red accent in distant horizon glow, space feels hostile and empty
+
+ACTIONS:
+- Photorealistic lunar surface in 8K HDR — barren regolith filling the anamorphic 2.39:1 frame, harsh raking light at 2700K casting long knife-edge shadows across crater rims
+- Pull focus from foreground rocks to the indifferent horizon, where absolute blackness meets grey dust
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- single metallic impact ping, dust particle striking visor glass
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 69: Trust — Deep [09:04–09:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cool clinical whites, teal accents, no shadows
+
+ACTIONS:
+- Photorealistic New Glenn rocket cross-section technical diagram rendered as a luminous engineering schematic on a bright white backlit display panel — clean steel-blue lines on white ground, teal accent highlights tracing the fairing interior
+- Blue Moon Mark 1 lander outline fits cleanly inside the single fairing cavity, label crisp and legible
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- stylus tapping display glass, diagram label printing click
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 70: Trust — Deep [09:12–09:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+No shadows, no darkness
+
+ACTIONS:
+- Photorealistic scale comparison graphic rendered on a bright clinical white display: New Glenn rocket silhouette at full height on the left, Blue Moon Mark 2 lander silhouette beside it — teal measurement lines connecting the two, precise dimension labels in crisp white typography
+- Both subjects brightly lit under authoritative cool-white facility lighting
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- measurement caliper clicking, label stamp pressing paper
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 71: Trust — Deep [09:20–09:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+cool clinical whites and deep space grey, overcast diffuse light, one warm amber point source at the facility entrance — the only warmth in the frame
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- ten miles
+
+ACTIONS:
+- Wide photorealistic exterior of Port Canaveral production facility in 8K HDR — large industrial building under flat overcast Florida sky, a single warm sodium light burning above the loading bay entrance
+- Teal accent on facility signage
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- distant seagull cry, metal loading dock door rattling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 72: Trust — Deep [09:28–09:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Through the foreground window, faint reflections of exterior daylight and palm trees overlay the interior scene
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- ten miles
+
+ACTIONS:
+- Photorealistic Blue Moon Mark 1 lander hardware visible inside bright white Port Canaveral production facility — three stacked modules on assembly jig under harsh overhead LED arrays
+- The descent stage's four landing legs folded against the cylindrical body, gold Mylar insulation catching teal-accented highlights
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- HVAC duct airflow, distant metal tool placement
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 73: Trust — Deep [09:36–09:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Through a distant window, a faint orange glow suggests the horizon
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- ten miles
+
+ACTIONS:
+- Three stacked cylindrical modules of the Blue Moon Mark 1 lander dominate the frame in a clean white assembly facility, volumetric industrial light raking across welded seams and polished panels
+- Engineers in white cleanroom suits move methodically around the base, hands adjusting precision hardware
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- wrench tightening bolts, pneumatic hiss, metal panel sliding into place
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 74: Trust — Deep [09:44–09:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Distant facility lights glow faintly through humid air
+
+ACTIONS:
+- Launch Complex 36 pad at night, empty and dark under cold moonlight
+- The steel gantry arms stand motionless, frost forming on metal surfaces
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- metal creaking under thermal contraction, distant chain rattling in wind
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 75: Trust — Deep [09:52–10:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+ACTIONS:
+- A tight frame on a NASA mission diagram pinned to a wall — lines connecting 'Blue Moon Mark 1' to 'New Glenn' to 'Artemis III' — begins to reveal a broader web of interconnected nodes and timelines as the camera creeps backward
+- The diagram is printed on matte paper, lit by 3700K teal-accented light, shadows falling across adjacent mission patches and technical schematics
+
+CAMERA:
+Medium | Zoom out
+
+AUDIO:
+- paper rustling, pen tapping diagram, quiet breath
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 76: Anticipation — Deep [10:00–10:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Volumetric light rakes across the engineered surface, highlighting precision machining
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- thirteen years
+
+ACTIONS:
+- BE-4 engine nozzle in clean facility lighting, copper-toned metal surface catching amber side-light at 3300K
+- The bell-shaped nozzle dominates frame, intricate cooling channels visible in shallow depth-of-field
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- hydraulic servo whine, metal-on-metal adjustment click
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 77: Trust — Deep [10:08–10:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+ACTIONS:
+- A side-by-side comparison graphic rendered in desaturated steel blue and gray: on the left, the New Glenn rocket silhouette
+- On the right, the Vulcan Centaur silhouette
+- Both rockets are shown in technical schematic style, with the BE-4 engines highlighted in subtle amber at the base of each
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- paper sliding on table, pen marking diagram, quiet room tone
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 78: Trust — Deep [10:16–10:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+ACTIONS:
+- The Vulcan Centaur rocket stands on its launch pad under a cool gray overcast sky, the frame dominated by the rocket's white and orange livery
+- The pad infrastructure — gantry, umbilicals, support towers — is rendered in photorealistic detail
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- distant wind across metal, faint hydraulic pump hum, gantry creak
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 79: Trust — Deep [10:24–10:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+ACTIONS:
+- Tight frame on the base of the Vulcan Centaur rocket, two BE-4 engine nozzles filling the lower half of the 2.39:1 frame
+- The engines are identical in geometry to the New Glenn's — polished metal, cooling channels, bolted flanges
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- metal stress creak, faint valve hiss, bolt settling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 80: Trust — Deep [10:32–10:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+BE-4 rocket engine nozzle in clean room, chrome bell reflecting amber work light from frame edge
+
+ACTIONS:
+- BE-4 rocket engine nozzle in clean room, chrome bell reflecting amber work light from frame edge
+- Engine mounted on test stand, fuel lines disconnected and capped
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- pneumatic valve click, metal tag swinging on cable
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 81: Trust — Deep [10:40–10:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Sterile white walls, high-contrast lighting, clinical atmosphere
+
+ACTIONS:
+- BE-4 turbopump cutaway model in clean NASA facility, polished metal surfaces reflecting soft overhead light, technical diagram projected on wall behind showing cross-section in teal accent lines
+- Volumetric light rakes across the hardware from high window, casting defined shadows on white floor
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- metal clink on workbench
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 82: Trust — Deep [10:48–10:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clinical, authoritative atmosphere
+
+ACTIONS:
+- BE-4 turbopump cross-section 3D render on large monitor in bright control room, teal wireframe lines rotating slowly, technical annotations appearing on screen
+- Clean white walls, overhead fluorescent lighting, reflections on polished desk surface
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- keyboard click, mouse click
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 83: Trust — Deep [10:56–11:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Sterile, methodical atmosphere
+
+ACTIONS:
+- Propellant feed system hardware array on clean white test stand in NASA facility, stainless steel tanks and valves catching overhead light, teal accent stripe on floor
+- Bright, clinical lighting from ceiling panels, white walls, high contrast
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- valve hiss, metal tap
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 84: Trust — Deep [11:04–11:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Right: Vulcan launch pad empty, similar lighting, clean concrete
+
+ACTIONS:
+- Left: New Glenn launch pad empty under bright daylight, white gantry structure, teal accent on tower
+- Right: Vulcan launch pad empty, similar lighting, clean concrete
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- wind gust, metal creak
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 85: Trust — Deep [11:12–11:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Authoritative, documentary atmosphere
+
+ACTIONS:
+- Two mission patches mounted on white control room wall, bright overhead lighting, teal accent frame around each patch
+- Clean, clinical environment, high contrast, reflections on polished wall surface
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- paper rustle, pen click
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 86: Trust — Deep [11:20–11:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Sterile, precise atmosphere
+
+ACTIONS:
+- Single titanium bolt in BE-4 turbopump assembly, 8K detail, polished metal surface reflecting overhead light, teal accent on bolt head
+- Everything else soft focus
+
+CAMERA:
+Extreme Close-up | Static
+
+AUDIO:
+- metal tap, wrench click
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 87: Trust — Deep [11:28–11:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Optimistic, documentary atmosphere
+
+ACTIONS:
+- SpaceX Starship on Boca Chica pad at golden hour, bright sunlight on stainless steel hull, teal accent stripe on launch tower, volumetric clouds in clear sky
+- High contrast, clean lines, majestic scale
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- wind gust, metal creak
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 88: Trust — Deep [11:36–11:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary aesthetic, anamorphic lens 2.39:1, volumetric lighting
+
+ACTIONS:
+- Starship heat shield tiles in tight frame, uneven gaps between black hexagonal tiles visible under harsh raking 3700K teal-accented light
+- Surface imperfections, adhesive residue, and misaligned edges revealed in 8K HDR detail
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- tile surface scraping, adhesive cracking under thermal stress
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 89: Trust — Deep [11:44–11:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Harsh industrial work lights cast deep shadows across exposed titanium framework
+
+ACTIONS:
+- Starship vehicle on orbital test stand, hull panels open revealing internal fuel transfer plumbing — unfinished, incomplete
+- Cryogenic vapor venting from disconnected coupling joints
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- metal creaking, vapor hissing from vents
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 90: Trust — Deep [11:52–12:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Teal-accented facility lighting illuminates idle gantry steel; no vehicles, no activity, no personnel
+
+ACTIONS:
+- Three launch pads — New Glenn's LC-36, Vulcan's SLC-41, Starship's Boca Chica — rendered as a triptych across the 2.39:1 anamorphic frame, each pad empty under a clear night sky
+- Teal-accented facility lighting illuminates idle gantry steel
+- No vehicles, no activity, no personnel
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- distant metal structure creaking in wind, gravel shifting underfoot
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 91: Trust — Deep [12:00–12:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cool, clinical whites and deep space blacks
+
+ACTIONS:
+- Wide anamorphic frame holds on three empty launch structures — New Glenn's pad, Vulcan's pad, Starship's Boca Chica mount — motionless under a deep blue-black night sky
+- Teal accent lighting traces idle gantry arms
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- low wind passing through steel gantry cables, concrete pad settling tick
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 92: Anticipation — Deep [12:08–12:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Desaturated steel blue control room light, amber accent on the X marks
+
+ACTIONS:
+- A photorealistic mission timeline chart fills the frame — horizontal axis marked in years, three vehicle rows labeled NEW GLENN, VULCAN, STARSHIP
+- Red X marks accumulate across milestones as the slow push-in tightens
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- marker pen striking paper, paper rustling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 93: Trust — Deep [12:16–12:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1
+
+ACTIONS:
+- Extreme close-up of a NASA mission architecture document — printed text, official header, the word REDUNDANCY isolated under a tight pool of volumetric desk lamp light, teal-accented
+- The surrounding text falls into shadow
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- paper settling on desk surface
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 94: Trust — Deep [12:24–12:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Earth's blue curve below, volumetric atmosphere glow
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- two years
+- nine years
+- International Space Station
+
+ACTIONS:
+- International Space Station exterior in full sunlight, photorealistic 8K detail
+- Two docking ports visible in frame: left shows Space Shuttle Atlantis docked, right shows Soyuz capsule docked — both vehicles present simultaneously
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- mechanical latch engagement, airlock seal hissing
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 95: Trust — Deep [12:32–12:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The International Space Station rendered in photorealistic 8K HDR, sunlit against deep space black, a Soyuz capsule visibly docked at one berthing port while an adjacent port sits empty — the absence made concrete
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- two years
+- nine years
+- International Space Station
+
+ACTIONS:
+- The International Space Station rendered in photorealistic 8K HDR, sunlit against deep space black, a Soyuz capsule visibly docked at one berthing port while an adjacent port sits empty — the absence made concrete
+- Warm golden sunlight rakes across the station's solar arrays, teal Earth limb glowing below
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- solar panel vibration hum, docking clamp metallic click, station hull thermal creak
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 96: Trust — Deep [12:40–12:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- two years
+- nine years
+- International Space Station
+
+ACTIONS:
+- Space Shuttle on the launch pad — photorealistic 8K HDR archival-style render, pre-dawn, volumetric exhaust vapor rising from the flame trench, the orbiter and external tank silhouetted against deep blue sky
+- Teal-accented pad lighting, cool clinical whites on the vehicle
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- steam vent hiss, metal structure wind creak, distant water deluge drip
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 97: Trust — Deep [12:48–12:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- two years
+- nine years
+- International Space Station
+
+ACTIONS:
+- Launch Complex 39 pad stands empty under overcast Florida sky, concrete weathered and stained, weeds pushing through expansion joints in the foreground
+- The gantry structure rises skeletal against gray clouds, no rocket present
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- wind gusting through metal gantry structure, distant seabird calls
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 98: Trust — Deep [12:56–13:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+ACTIONS:
+- International Space Station silhouette against Earth's curved horizon, Russian Soyuz capsule docked to the nadir port, solar arrays extended symmetrically
+- Deep space black surrounds the station, Earth's atmosphere glowing thin blue below
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- faint mechanical hum of station gyroscopes, solar array servo motors clicking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 99: Trust — Deep [13:04–13:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+ACTIONS:
+- Lunar surface fills the lower third of frame, gray regolith stretching to the horizon under black sky
+- Earth hangs small and distant in the upper left, a pale blue dot
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- absolute silence
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 100: Trust — Deep [13:12–13:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warehouse interior stretches into darkness beyond the pool of light, high ceilings and empty floor conveying scale and solitude, teal accent light raking across metal framework
+
+ACTIONS:
+- Blue Moon lander mockup stands alone in vast warehouse bay, clean white surfaces catching single overhead spotlight, posture upright and complete but isolated
+- Lander remains motionless, no crew, no activity, emphasizing readiness without deployment
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- metal creaking from thermal contraction in warehouse structure
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 101: Trust — Deep [13:20–13:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Facility interior lit by single overhead fluorescent panel casting cool teal-accented light across desks, volumetric haze in air, sterile and clinical atmosphere of waiting
+
+ACTIONS:
+- Mission control console array in dim facility, monitors powered down showing faint reflections, keyboards untouched with hands resting motionless beside them
+- No operators present, chairs empty, conveying institutional patience and suspended operations
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- fluorescent light fixture buzzing intermittently
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 102: Fear — Deep [13:28–13:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+ACTIONS:
+- SpaceX mission patch under glass in display case, fabric slightly faded, stitching visible in harsh side lighting
+- The patch shows a dragon and stars
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- keyboard typing rapid bursts, notification ping, chair creaking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 103: Trust — Deep [13:36–13:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+open Florida sky, desaturated steel-blue horizon, harsh shadows across fractured concrete, absence of any rocket or payload
+
+ACTIONS:
+- Launch Complex 40, Cape Canaveral at dawn — the scarred concrete pad stretches across the full 2.39:1 frame, blast-scorched and empty
+- Twisted steel holddown arms reach upward with nothing to hold
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- wind rushing across exposed concrete, loose metal bracket rattling against steel
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 104: Trust — Deep [13:44–13:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Background out of focus, showing more damaged structure
+
+ACTIONS:
+- Twisted steel beam from launch pad infrastructure, paint blistered and peeling, metal warped from extreme heat
+- Harsh sunlight from upper left creates high-contrast shadows in the deformed metal
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- metal stress creaking, wind through hollow beam structure
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 105: Trust — Deep [13:52–14:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- four months
+
+ACTIONS:
+- Calendar pages flipping forward in slow motion, four distinct months passing — January 2017 materializing in sharp focus
+- Clinical fluorescent lighting overhead casts authoritative teal-accented shadows across the paper
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- paper pages flipping, desk surface contact
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 106: Trust — Deep [14:00–14:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- four months
+
+ACTIONS:
+- Launch Complex 40 construction site at golden hour, massive cranes silhouetted against steel-blue sky, volumetric dust particles suspended in shafts of light
+- Steel framework rising from concrete foundation, workers in high-vis vests moving methodically across the frame
+
+CAMERA:
+Wide | Slow push-in
+
+AUDIO:
+- crane hydraulics groaning, steel beams clanging, distant welding torch hissing
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 107: Trust — Deep [14:08–14:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm 3700K light with teal accent highlights the metallic surfaces of the launch infrastructure
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- four months
+
+ACTIONS:
+- Wide aerial view of Launch Complex 39A at Kennedy Space Center, bathed in golden afternoon sunlight, the massive white Falcon 9 standing vertical on the pad, service structure gleaming
+- Camera holds perfectly still as the frame reveals the iconic Vehicle Assembly Building in the background, American flag visible on the tower
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- distant metal clanging, hydraulic hiss, crane motor whirring
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 108: Trust — Deep [14:16–14:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+ACTIONS:
+- Launch Complex 36 stands isolated on the Cape Canaveral coastline, single pad structure centered in 2.39:1 anamorphic frame
+- Atlantic Ocean stretches to horizon on one side, empty scrubland on the other
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- distant ocean waves breaking, wind across concrete structures
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 109: Trust — Deep [14:24–14:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+ACTIONS:
+- Damaged transporter erector structure in foreground, twisted steel beams and collapsed framework
+- Volumetric smoke still rising from scorched metal, HDR orange embers glowing against steel-blue twilight
+
+CAMERA:
+Medium | Tracking
+
+AUDIO:
+- metal creaking under stress, small debris settling, residual fire crackling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 110: Trust — Deep [14:32–14:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+ACTIONS:
+- Twisted launch mount hardware fills the frame, photorealistic 8K detail capturing every bent strut and sheared bolt
+- The metal is scorched black with heat stress patterns visible in HDR
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- wind whistling through damaged metal structure, loose cable swaying and tapping steel
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 111: Trust — Deep [14:40–14:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+ACTIONS:
+- Empty concrete pad foundation stretches across the 2.39:1 frame, exposed rebar grid visible where the surface has been compromised
+- Volumetric light cuts through suspended dust particles, creating shafts of illumination that emphasize the scale
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- wind across open concrete, small stones rolling on pad surface
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 112: Trust — Deep [14:48–14:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The 2.39:1 frame emphasizes the production line's depth and capacity
+
+ACTIONS:
+- Blue Origin factory floor at Exploration Park, multiple New Glenn booster sections in various stages of assembly
+- Cool white industrial lighting with 3700K teal accent reflects off polished aluminum skin panels
+
+CAMERA:
+Wide | Slow push-in
+
+AUDIO:
+- pneumatic tools cycling, metal panels being positioned, overhead crane motor humming
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 113: Trust — Deep [14:56–15:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1
+
+ACTIONS:
+- A mission timeline chart fills the frame — vertical columns of mission phases, red delay markers spreading laterally across interconnected nodes, each cascade visually unresolved
+- Authoritative Bloomberg-style lighting, teal accent glow on the chart surface, cool clinical whites
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- marker pen tapping on chart surface
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 114: Trust — Deep [15:04–15:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1
+
+ACTIONS:
+- A photorealistic lunar surface target map rendered on a large backlit display — topographic contour lines of the Moon's south pole, a landing zone circle highlighted in teal, the text 'FALL 2026' printed beneath it in clean sans-serif
+- The date glows with volumetric screen light against deep space black
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- display screen electrical hum clicking, cooling fan ticking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 115: Trust — Deep [15:12–15:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1
+
+ACTIONS:
+- Extreme close-up of an Artemis III mission patch — embroidered fabric texture rendered in photorealistic 8K detail, the '2027' date stitched in white thread visible at lower arc
+- Desaturated steel-blue light rakes across the patch surface, casting shallow shadows across the embroidery
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- fabric rustling, metal pin clicking against hard surface
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 116: Trust — Deep [15:20–15:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1
+
+ACTIONS:
+- A large mission dependency wall chart fills the frame — interconnected timeline blocks labeled 'ROBOTIC PRECURSOR,' 'ARTEMIS III,' 'CREWED LANDING 2028,' linked by dependency arrows
+- The '2028' block sits at the end of a chain, its connection lines rendered in teal against deep space black
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- paper chart rustling, dry-erase marker squeaking on board
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 117: Trust — Deep [15:28–15:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+ACTIONS:
+- Chinese national flag patch on spacesuit shoulder, fabric crisp and perfectly lit, embroidered gold stars sharp against red field
+- The patch rests motionless on white fabric, 2030 mission emblem visible beside it — lunar surface graphic and Chinese characters
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- fabric rustling against nylon
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 118: Trust — Deep [15:36–15:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1
+
+ACTIONS:
+- A photorealistic mission schedule board — rows of labeled mission blocks arranged like dominoes in sequence, each block casting a shadow onto the next
+- The blocks are labeled with mission names and years
+- The first block leans fractionally, implying imminent cascade
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- paper shuffling, clipboard clicking against metal surface
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 119: Trust — Payoff [15:44–15:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+ACTIONS:
+- Empty Launch Complex 36 pad at dusk, concrete expanse stretching into frame, service tower silhouetted against deep blue twilight sky
+- No rocket, no crew, no activity — only the skeletal infrastructure waiting
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- distant metal creaking, wind through steel framework
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 120: Trust — Payoff [15:52–16:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- two days
+
+ACTIONS:
+- A NASA press briefing transcript document rendered in photorealistic 8K detail — the text 'Artemis III on track for mid-2027' visible in clean type, a timestamp two lines below reading a date two days prior to the explosion
+- The document is backlit with warm 4000K light, HDR contrast pulling the timestamp into sharp relief
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- paper page turning, single pen clicking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 121: Surprise — Payoff [16:00–16:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The crane ascends almost imperceptibly, revealing the podium's isolation against an immense dark backdrop
+
+ACTIONS:
+- A government podium bearing a presidential seal, bathed in expansive volumetric golden light, stands alone in frame — the seal's eagle emblem partially obscured by lens flare, creating a visual curiosity gap
+- The podium occupies the lower third
+- Above it, vast dark negative space stretches upward
+
+CAMERA:
+Wide | Crane
+
+AUDIO:
+- podium microphone stand faint metallic creak, distant ventilation duct tick
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 122: Trust — Payoff [16:08–16:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+NASA mission control environment, dim overhead lighting casting soft shadows across console surface, single warm desk lamp illuminating the clock face
+
+ACTIONS:
+- Digital mission clock display showing countdown timer decrementing in real-time, red LED numerals glowing against black panel
+- Numbers tick downward frame by frame, each digit flip precise and mechanical
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- electronic beep of timer, mechanical relay click
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 123: Trust — Payoff [16:16–16:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Desaturated steel blue environment, clean laboratory setting
+
+ACTIONS:
+- Hands in white lab coat sleeves place printed telemetry report onto polished steel desk surface, pages aligned with deliberate precision
+- Warm 4000K overhead light illuminates the document, technical graphs and data columns visible, fingers release and withdraw with clinical finality
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- paper sliding on metal surface, fingertips releasing document
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 124: Trust — Payoff [16:24–16:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- two days
+
+ACTIONS:
+- New Glenn rocket frozen in a static fire test frame — amber and orange fire blooming from the base of the vehicle, volumetric smoke billowing across Launch Complex 36's steel infrastructure
+- The rocket's white fuselage is desaturated by the harsh fire glow, structural members bending in the heat haze
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- metal structural groan, fire roar, debris impact on concrete
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 125: Trust — Payoff [16:32–16:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cape Canaveral daylight, desaturated steel-blue sky, harsh raking shadows across debris field, the scale of destruction measured against the empty horizon
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- two days
+
+ACTIONS:
+- Ground-level view of Launch Complex 36 post-explosion: scorched concrete stretching across the full 2.39:1 frame, twisted steel debris scattered across the pad, amber fire-stained blast marks radiating from the engine mount position
+- No movement
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- wind passing through bent steel girders, small debris piece scraping across concrete
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 126: Trust — Payoff [16:40–16:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+LC-36 pad, desaturated steel-blue ambient light, harsh side-raking shadows carving the destruction's texture, no sky visible — only the engine and the smoke
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- two days
+
+ACTIONS:
+- Anamorphic tight frame on a destroyed BE-4 engine nozzle — metal twisted outward like a bloomed flower, surface oxidized amber and black, volumetric smoke still curling upward from the bell interior
+- The hardware fills the frame, massive and broken
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- thin smoke hissing from hot metal, small metal fragment dropping onto concrete
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 127: Joy — Payoff [16:48–16:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cape Canaveral pre-dawn, deep blue horizon, volumetric exhaust cloud billowing, the launch complex infrastructure visible below — everything functioning as designed
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- two days
+
+ACTIONS:
+- A previous New Glenn rocket lifts off successfully — golden exhaust plume expanding against a pre-dawn sky, the vehicle climbing clean and intact, warm amber light flooding the 2.39:1 frame from below
+- The crane ascends as the rocket shrinks against the vast sky, triumphant and whole
+
+CAMERA:
+Wide | Crane
+
+AUDIO:
+- rocket engine roar reverberating across concrete, launch pad water suppression system steam venting
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 128: Trust — Payoff [16:56–17:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cape Canaveral dusk, flat overcast sky, no color, no movement, the pad's absence more present than any object — smallness against immensity
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- two days
+
+ACTIONS:
+- Wide shot of the LC-36 debris field at dusk, desaturated blue-gray light draining the scene of warmth — twisted structural steel, shattered concrete, the ghost outline of where the rocket stood now empty air
+- Camera holds completely still
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- distant wind across open tarmac, loose cable end tapping against steel beam
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 129: Trust — Payoff [17:04–17:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1
+
+ACTIONS:
+- A blank whiteboard under a single overhead fluorescent light, surface unmarked, eraser resting at the tray's edge — stillness encoded in the empty white field
+- The camera inches forward, the whiteboard filling frame, revealing nothing new
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- eraser tapping tray once, faint fluorescent tube flicker tick
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 130: Trust — Payoff [17:12–17:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Desaturated steel blue facility lighting, volumetric monitor glow casting soft shadows on surrounding console
+
+ACTIONS:
+- BE-4 rocket engine cutaway diagram on engineering workstation monitor, technical schematics glowing in amber HUD overlays, cross-section revealing turbopump assembly and combustion chamber
+- Camera drifts forward into the screen as diagnostic annotations flicker across fuel lines and ignition sequences
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- keyboard keys clicking, mouse scrolling technical diagrams
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 131: Trust — Payoff [17:20–17:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+NASA facility interior, 4000K warm tungsten glow, volumetric light shafts cutting through clean air, steel and glass surfaces reflecting soft gold
+
+ACTIONS:
+- A illuminated mission control timeline board — warm amber light washing across rows of open questions rendered as glowing text blocks, each line crisp and legible against a clean white surface
+- The board holds still, questions unresolved, a visual checklist awaiting answers
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- marker squeaking on whiteboard, paper shuffling on desk
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 132: Trust — Payoff [17:28–17:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Desaturated color palette, steel grays and carbon blacks dominate
+
+ACTIONS:
+- Charred launch pad infrastructure from above, blackened concrete and twisted metal gantry arms sprawling across the frame in high-contrast 2.39:1 composition
+- Debris field patterns visible in harsh midday sunlight, casting deep shadows
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- metal debris settling, distant crane hydraulics groaning
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 133: Trust — Payoff [17:36–17:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1
+
+ACTIONS:
+- A warmly lit wall of mission patches — Apollo, Challenger, Columbia, STS emblems — each fabric circle stitched with gold thread catching 4000K tungsten light, colors vivid against a cream-white facility wall
+- The camera drifts gently left to right across the grid of patches, each one a completed chapter
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- fabric rustling against wall mount, metal frame clicking against surface
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 134: Trust — Payoff [17:44–17:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1
+
+ACTIONS:
+- A clean archival display panel showing freeze-frame silhouettes of Saturn V, Space Shuttle stack, and Falcon 9 side by side — backlit with warm 4000K amber light, each rocket profile crisp and golden against a warm cream background
+- The three forms stand together, a lineage rendered in warm light
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- projector slide clicking forward, paper page turning on desk
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 135: Trust — Payoff [17:52–18:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Modern aerospace building with clean lines, company logo visible, subtle steam rising from nearby ground vents
+
+ACTIONS:
+- Blue Origin facility exterior at dawn, warm golden light glowing through large industrial windows against soft blue morning sky
+- Modern aerospace building with clean lines, company logo visible, subtle steam rising from nearby ground vents
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- distant metal clanking, low hydraulic hiss, faint electrical hum from facility systems
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 136: Anticipation — Payoff [18:00–18:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1
+
+ACTIONS:
+- A large wall calendar in a mission planning office — multiple launch dates circled in red marker, some crossed out, margin notes illegible
+- Camera pushes slowly toward the circled dates, almost reaching legibility
+- Pulls back sharply to reveal the full calendar surrounded by empty wall — the year header cropped just out of frame
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- marker cap clicking onto desk surface, paper calendar page corner lifting in air current
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 137: Trust — Payoff [18:08–18:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1
+
+ACTIONS:
+- A photorealistic Moon Base architectural rendering glows on a large monitor — crisp white habitat modules, solar arrays, lunar regolith rendered in warm amber light — the image luminous and precise against a softly lit control room
+- The rendering fills the frame with engineered optimism, every detail sharp
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- monitor fan spinning, keyboard key single press
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 138: Trust — Payoff [18:16–18:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1
+
+ACTIONS:
+- A photorealistic close-up of a rocket engine nozzle — New Glenn's BE-4 engine bell, polished steel catching warm 4000K volumetric light, surface etched with heat scoring and machined precision
+- The engine fills the frame, massive and still, its geometry absolute
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- metal structure ticking, wind passing over steel
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 139: Trust — Payoff [18:24–18:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+8K HDR, volumetric lighting, anamorphic 2.39:1
+
+ACTIONS:
+- A metal booster nameplate reading 'No, It's Necessary' — scorched, heat-warped edges, paint blistered — fills the anamorphic 2.39:1 frame
+- Raking volumetric light from a single source at low angle carves deep shadows across each letter
+
+CAMERA:
+Extreme Close-up | Slow push-in
+
+AUDIO:
+- metal cooling and ticking, wind across scorched steel
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 140: Trust — Payoff [18:32–18:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1
+
+ACTIONS:
+- A photorealistic wide shot of Launch Complex 36 under a clear Florida night sky — the concrete pad bathed in warm amber security lighting, stars sharp overhead in 8K HDR
+- The erector arm is absent, its mounting points bare
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- concrete pad surface wind, distant Atlantic Ocean waves
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 141: Trust — Payoff [18:40–18:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Background is pure black
+
+ACTIONS:
+- The scorched 'No, It's Necessary' nameplate fills the frame, raking volumetric light from the left creating deep shadows in the engraved letters
+- Soot and heat damage are visible in sharp detail
+
+CAMERA:
+Extreme Close-up | Static
+
+AUDIO:
+- faint metal ticking as it cools, distant wind, single water drip on concrete
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 142: Trust — Payoff [18:48–18:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The void in the center of the pad is the subject
+
+ACTIONS:
+- Photorealistic ultra-wide 2.39:1 of Launch Complex 36 at Cape Canaveral under a star-filled night sky — the concrete pad completely bare, erector absent, lightning tower base empty
+- Warm amber security lights illuminate the pad surface from low angles, casting long geometric shadows across clean concrete
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- wind across concrete, distant Atlantic surf breaking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 143: Trust — Payoff [18:56–19:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1
+
+ACTIONS:
+- Photorealistic close-up of a New Glenn BE-4 engine cross-section technical diagram printed on large-format paper — crisp engineering lines, component labels, cutaway views rendered under steel-blue volumetric light at 4000K
+- Two engine diagrams side by side, one labeled NEW GLENN, one labeled VULCAN CENTAUR, sharing identical BE-4 architecture
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- paper rustling, document pages turning
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 144: Trust — Payoff [19:04–19:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1
+
+ACTIONS:
+- The Blue Moon Mark 1 lunar lander stands alone on a production floor — gleaming white composite panels, gold-foil thermal blankets catching a single warm overhead spotlight, landing legs splayed wide on polished concrete
+- The vast warehouse stretches into warm amber shadow behind it, ceiling trusses dissolving into darkness
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- distant HVAC duct vibration, single metal footstep on concrete floor
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 145: Trust — Payoff [19:12–19:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cape Canaveral production facility, warm overhead industrial lighting casting soft shadows across polished metal surfaces, clean floor reflecting the spacecraft
+
+ACTIONS:
+- Blue Moon Mark 1 lander rests on production floor, titanium hull gleaming under overhead work lights, landing struts folded in transport configuration, posture of patient readiness
+- The lander sits motionless, waiting
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- metal settling creak, distant hydraulic hiss
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 146: Trust — Payoff [19:20–19:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+vast positive deep space with warm lunar reflected light catching the 2.39:1 anamorphic frame — cold black surround giving way to the Moon's own gentle radiance, volumetric light tracing crater rims
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 53 years
+
+ACTIONS:
+- The Moon's sunlit crescent glows with warm silver-gold light against deep space, surface textures of ancient craters rendered in photorealistic 8K HDR detail — patient, enduring, luminous
+- The Moon holds perfectly still, neither advancing nor retreating, suspended in timeless waiting
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- faint wind across a desert plain, distant metal structure settling with a low creak
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 147: Anticipation — Payoff [19:28–19:29]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+pure black space, no stars, no horizon — only the Moon and silence, volumetric light catching the lunar limb in warm gold
+
+ACTIONS:
+- The Moon — small, bright, warm silver-gold — sits in the upper corner of the 2.39:1 frame against absolute black deep space, photorealistic 8K HDR surface detail glowing with reflected sunlight
+- Camera holds tight on the lunar disc
+- Pulls back in a sudden release, the Moon shrinking further into the vast unresolved darkness — present but unreachable
+
+CAMERA:
+Medium | Zoom out
+
+AUDIO:
+- single metallic tone fading, distant launch pad wind gust
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+════════════════════════════════════════════════════════════════
+[END SCENE PROMPTS]
+════════════════════════════════════════════════════════════════
