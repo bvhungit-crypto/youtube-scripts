@@ -1,0 +1,2514 @@
+════════════════════════════════════════════════════════════════
+[CHARACTERS Description]
+════════════════════════════════════════════════════════════════
+
+PROJECT: They_thought_they_were_seeing_the_universe_s_boundary__They_were_wrong
+
+RATIO: 16:9
+
+--------------------------------------------------
+STYLE (DETAILED - MANDATORY):
+
+- Style Directive: Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1
+
+- Medium: Live-action / Cinematic
+
+- Visual Style:
+  - Photorealistic textures with accurate material response
+  - Observational documentary framing — restrained and credible
+  - Cinematic composition with depth and motivated framing
+  - Anamorphic 2.39:1 framing language adapted to delivery ratio
+  - 8K capture-grade detail with deep blacks and clean highlights
+  - HDR contrast — preserved highlights, nuanced shadows
+
+- Character Design:
+  Semi-realistic figures
+
+- Materials & Textures:
+  [e.g. Flat colors only / Cel-shaded with soft shadow / Painterly with visible brushwork]
+
+- Lighting:
+  Volumetric lighting with visible light shafts
+
+- Color Palette:
+  [Define color roles — e.g. Red = danger, Yellow = energy, Blue = calm, Black outline for clarity]
+
+- Rendering Quality:
+  [e.g. Crisp, clean, high-definition / Slightly grainy retro / Hyper-smooth anime-style]
+
+- Motion Feel:
+  [e.g. Smooth action-driven / Bouncy exaggerated / Slow cinematic / Snappy cut-driven]
+
+- Overall Impression:
+  [One paragraph — what should viewers FEEL when watching? What is the visual "brand" of this project?]
+
+--------------------------------------------------
+TONE:
+[Overall emotional register — e.g. High tension, urgent, dramatic / Dark comedic, absurdist / Warm and nostalgic / Energetic and hype]
+[Detected dominant emotion (auto, for reference): Trust]
+
+--------------------------------------------------
+RENDERING RULES:
+
+- [Rule 1 — e.g. NO TEXT, NO LETTERS, NO SYMBOLIC WORDS in any scene]
+- [Rule 2 — e.g. Story must be conveyed entirely through visuals and expressions]
+- [Rule 3 — e.g. Each scene must have a clear visual conflict or action beat]
+- [Rule 4 — e.g. Only include characters explicitly required in each scene]
+- [Rule 5 — e.g. No background crowd, no unnecessary props]
+- [Add more rules as needed]
+
+--------------------------------------------------
+CHARACTERS (LOCKED):
+
+- Character 1: Nancy Grace
+  [Physical description — face shape, skin tone, eye style — fill in]
+  [Hair — color #HEX, length, style — fill in]
+  [Default outfit — top, bottom, shoes, accessories — fill in]
+  [Signature trait — what makes them instantly recognizable — fill in]
+  [Expression range — what emotions they show most — fill in]
+
+- Character 2: Milky Way
+  [Physical description — face shape, skin tone, eye style — fill in]
+  [Hair — color #HEX, length, style — fill in]
+  [Default outfit — top, bottom, shoes, accessories — fill in]
+  [Signature trait — what makes them instantly recognizable — fill in]
+  [Expression range — what emotions they show most — fill in]
+
+- Character 3: Habitable Worlds
+  [Physical description — face shape, skin tone, eye style — fill in]
+  [Hair — color #HEX, length, style — fill in]
+  [Default outfit — top, bottom, shoes, accessories — fill in]
+  [Signature trait — what makes them instantly recognizable — fill in]
+  [Expression range — what emotions they show most — fill in]
+
+- Character 4: Grace Roman
+  [Physical description — face shape, skin tone, eye style — fill in]
+  [Hair — color #HEX, length, style — fill in]
+  [Default outfit — top, bottom, shoes, accessories — fill in]
+  [Signature trait — what makes them instantly recognizable — fill in]
+  [Expression range — what emotions they show most — fill in]
+
+- Character 5: Authoritative Bloomberg
+  [Physical description — face shape, skin tone, eye style — fill in]
+  [Hair — color #HEX, length, style — fill in]
+  [Default outfit — top, bottom, shoes, accessories — fill in]
+  [Signature trait — what makes them instantly recognizable — fill in]
+  [Expression range — what emotions they show most — fill in]
+
+- Character 6: Roman
+  [Physical description — face shape, skin tone, eye style — fill in]
+  [Hair — color #HEX, length, style — fill in]
+  [Default outfit — top, bottom, shoes, accessories — fill in]
+  [Signature trait — what makes them instantly recognizable — fill in]
+  [Expression range — what emotions they show most — fill in]
+
+- [Add unnamed characters (narrator, crowd, etc.) here if needed]
+
+--------------------------------------------------
+ENVIRONMENT (GLOBAL):
+
+[Default background / world setting for the entire project]
+[e.g. Minimal clean background, soft gradient sky / Neon-lit urban rooftop / Pastel fantasy kingdom]
+[Note: individual scenes can override this with their own ENVIRONMENT field]
+
+[Detected scene environments (auto, for reference):]
+  - Cool deep-space blues and silvers, volumetric dust rays threading between pages, 8K HDR clarity on aged paper textures
+  - Cleanroom environment with soft neutral warm glow, technicians' silhouettes blurred in deep background
+  - Dramatic amber side light at 3500K creates warm golden highlights on metallic surface, shallow depth of field isolates text, background shows soft bokeh of clean room facility lights
+  - Volumetric light shafts cutting through filtered air, 8K HDR revealing microscopic surface detail, anamorphic lens flare streaking horizontally
+  - Roman telescope instrument module rotating slowly, revealing thermal blanket seams, sensor array circular apertures, golden Kapton layers overlapping, mirror edge segments catching amber side light, precision bolts and calibration ports in 8K detail, volumetric clean room particles drifting through HDR light beams
+  - Clean assembly hall with suspended overhead cranes holding position
+  - Complete Nancy Grace Roman Space Telescope centered in frame, golden hour lighting simulation creating warm amber highlights on solar arrays and mirror housing, primary mirror assembly visible in cylindrical body, sensor instruments protruding symmetrically, anamorphic bokeh on background clean room equipment creating cinematic depth, confident frontal framing emphasizing readiness, balanced warm color palette showing engineering completion
+  - Balanced natural color palette, soft diffused overhead lighting revealing 8K material textures on multi-layer insulation, volumetric haze from clean room filtration
+  - Clean research laboratory environment with neutral tones, organized workspace visible in soft focus background
+  - Professional planetarium projection environment with soft indirect lighting
+  - Clean modern mission control environment, soft neutral warm 3800K atmosphere suggesting purposeful scientific intent
+  - Professional data visualization environment with dramatic amber side lighting creating contrast between known and unknown
+
+--------------------------------------------------
+GOAL:
+[Optional — one sentence stating the visual storytelling goal of the entire video]
+[e.g. "Make the audience feel the tension of nuclear deterrence without using any text or narration"]
+
+════════════════════════════════════════════════════════════════
+[END CHARACTERS Description]
+════════════════════════════════════════════════════════════════
+
+
+════════════════════════════════════════════════════════════════
+SCENE PROMPTS
+════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────
+🎬 SCENE 01: Trust — Hook [00:00–00:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cool deep-space blues and silvers, volumetric dust rays threading between pages, 8K HDR clarity on aged paper textures
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- thirty years
+
+ACTIONS:
+- Thirty illuminated calendar pages suspended in deep space, each glowing softly, arranged in a floating timeline from 1995 to 2025, hands calm at sides
+- Pages turn slowly one by one as camera advances, each revealing a faint planetary marker appearing in the star field behind
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- paper pages turning, soft mechanical click of markers appearing
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 02: Trust — Hook [00:08–00:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cleanroom environment with soft neutral warm glow, technicians' silhouettes blurred in deep background
+
+ACTIONS:
+- Golden telescope chassis gleaming under clean lab lights, subtle anamorphic flare emerging at frame edge
+- Reflection of star field resolving across polished mirror surface as assembly rotates one degree on test stand
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- mechanical servo whir, precision actuator click
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 03: Anticipation — Hook [00:16–00:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Dramatic amber side light at 3500K creates warm golden highlights on metallic surface, shallow depth of field isolates text, background shows soft bokeh of clean room facility lights
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- one hundred times
+- thousand times
+- Grace Roman Space Telescope
+
+ACTIONS:
+- Rack focus transitions from soft NASA logo blur in background to sharp 'Nancy Grace Roman Space Telescope' lettering on polished brass nameplate mounted on clean room equipment
+- Dramatic amber side light at 3500K creates warm golden highlights on metallic surface, shallow depth of field isolates text, background shows soft bokeh of clean room facility lights
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- precision mechanical latch engagement clicks, pressurized clean room air valve release hiss
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 04: Anticipation — Hook [00:24–00:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Volumetric light shafts cutting through filtered air, 8K HDR revealing microscopic surface detail, anamorphic lens flare streaking horizontally
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- one hundred times
+- thousand times
+- Grace Roman Space Telescope
+
+ACTIONS:
+- Nancy Grace Roman Space Telescope primary mirror suspended in clean room, golden hexagonal panels catching dramatic 3500K amber side light from overhead rig
+- Mirror surface reflects distorted clean room ceiling grid, technician silhouettes barely visible at frame edges
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- faint hydraulic hiss, pressurized air release from clean room vents
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 05: Anticipation — Hook [00:32–00:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Roman telescope instrument module rotating slowly, revealing thermal blanket seams, sensor array circular apertures, golden Kapton layers overlapping, mirror edge segments catching amber side light, precision bolts and calibration ports in 8K detail, volumetric clean room particles drifting through HDR light beams
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- one hundred times
+- thousand times
+- Grace Roman Space Telescope
+
+ACTIONS:
+- Roman telescope instrument module rotating slowly, revealing thermal blanket seams, sensor array circular apertures, golden Kapton layers overlapping, mirror edge segments catching amber side light, precision bolts and calibration ports in 8K detail, volumetric clean room particles drifting through HDR light beams
+
+CAMERA:
+Close-up | Orbit
+
+AUDIO:
+- precision bearing rotation smooth mechanical glide, thermal blanket material subtle crinkle adjustments
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 06: Anticipation — Hook [00:40–00:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clean assembly hall with suspended overhead cranes holding position
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- one hundred times
+- thousand times
+- Grace Roman Space Telescope
+
+ACTIONS:
+- Nancy Grace Roman Space Telescope primary mirror filling frame, hexagonal segments catching dramatic amber side light at 3500K
+- Field-of-view comparison graphic materializing as holographic overlay: Hubble's narrow cone versus Roman's sweeping 100× cone expanding outward in golden rays
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- metal latch engagement, optical alignment laser pulse
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 07: Anticipation — Hook [00:48–00:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Complete Nancy Grace Roman Space Telescope centered in frame, golden hour lighting simulation creating warm amber highlights on solar arrays and mirror housing, primary mirror assembly visible in cylindrical body, sensor instruments protruding symmetrically, anamorphic bokeh on background clean room equipment creating cinematic depth, confident frontal framing emphasizing readiness, balanced warm color palette showing engineering completion
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- one hundred times
+- thousand times
+- Grace Roman Space Telescope
+
+ACTIONS:
+- Complete Nancy Grace Roman Space Telescope centered in frame, golden hour lighting simulation creating warm amber highlights on solar arrays and mirror housing, primary mirror assembly visible in cylindrical body, sensor instruments protruding symmetrically, anamorphic bokeh on background clean room equipment creating cinematic depth, confident frontal framing emphasizing readiness, balanced warm color palette showing engineering completion
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- telescope systems power-on initialization electronic chime sequence, mirror segment micro-adjustment motor precise stepping pulses
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 08: Trust — Hook [00:56–01:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Balanced natural color palette, soft diffused overhead lighting revealing 8K material textures on multi-layer insulation, volumetric haze from clean room filtration
+
+ACTIONS:
+- Technicians in white bunny suits working beneath Roman telescope's bus structure, dwarfed by golden thermal blankets and silver propulsion module overhead
+- Hands adjusting calibration instruments with focused precision, posture upright and methodical
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- ratchet wrench clicking, soft fabric rustle from bunny suits
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 09: Trust — Hook [01:04–01:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clean research laboratory environment with neutral tones, organized workspace visible in soft focus background
+
+ACTIONS:
+- Computer monitor displaying orbital mechanics spreadsheet with numerical data columns, telescope specification document visible in adjacent window, soft screen glow illuminating the frame edges
+- Cursor scrolling through calculation rows showing stellar density parameters and detection probability equations
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- keyboard keys clicking, mouse wheel sliding on desk
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 10: Trust — Hook [01:12–01:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Professional planetarium projection environment with soft indirect lighting
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- galaxy
+
+ACTIONS:
+- Spiral galaxy rendered in astronomical visualization software filling frame center, regions color-coded by stellar environment zones — dense core in amber, spiral arms in cool blue, outer halo in silver
+- Data overlay showing concentrated exoplanet search radius near galactic center
+
+CAMERA:
+Wide | Orbit
+
+AUDIO:
+- projection system fan whirring, lens mechanism adjusting, cooling vent airflow
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 11: Trust — Hook [01:20–01:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clean modern mission control environment, soft neutral warm 3800K atmosphere suggesting purposeful scientific intent
+
+ACTIONS:
+- Warm-lit 3D holographic galaxy map rotating steadily in frame, golden exploration markers highlighting unexplored outer spiral arms, soft flattering three-point lighting casting even illumination across the projection surface
+- The map rotates with mechanical precision, unmarked regions glowing faintly in anticipation
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- holographic display mechanical rotation click, soft projection lens adjustment servo
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 12: Anticipation — Hook [01:28–01:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Professional data visualization environment with dramatic amber side lighting creating contrast between known and unknown
+
+ACTIONS:
+- Left half: existing exoplanet catalog database scrolling — 5,000 confirmed entries with orbital parameters
+- Right half: question mark icon pulsing against star field background representing unknown worlds
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- hard drive spinning, data scrolling beeps, digital pulse tone
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 13: Joy — Hook [01:36–01:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cool deep-space blues dominating palette with warm golden accent on solar panel edges
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- two missions
+- 000 stars
+- four years
+
+ACTIONS:
+- Kepler Space Telescope in Earth orbit against black void, solar panels extended at precise 90-degree angles catching edge-lit sunlight creating golden rim light
+- Earth's blue limb visible in lower frame third
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- solar panel servo motor whirring, thermal expansion creaking, attitude thruster puff
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 14: Joy — Hook [01:44–01:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm 4500K lighting with high saturation golden tones suggesting discovery energy
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- two missions
+- 000 stars
+- four years
+
+ACTIONS:
+- TESS satellite in high Earth orbit, four wide-field camera lenses visible on instrument deck, solar panel wings angled to catch warm sunlight creating bright golden highlights along panel seams
+- Distant star field visible beyond
+
+CAMERA:
+Wide | Handheld
+
+AUDIO:
+- camera shutter mechanisms clicking, solar array actuator buzzing, antenna gimbal rotating
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 15: Joy — Hook [01:52–02:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Neutral balanced lighting with slight cool blue tones
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- two missions
+- 000 stars
+- four years
+
+ACTIONS:
+- Side-by-side silhouettes: left frame shows Kepler telescope profile against star field density plot, right frame shows TESS satellite profile against all-sky survey map
+- Neutral balanced lighting with slight cool blue tones
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- digital counter incrementing, data point plotting clicks, reference chart rustling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 16: Trust — Hook [02:00–02:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clean pedagogical environment with soft neutral lighting emphasizing clarity over emotion
+
+ACTIONS:
+- Animated orbital mechanics diagram showing planet orbit plane with narrow transit alignment cone highlighted in clinical white-blue
+- Angle measurements showing 0.5-degree alignment window required for transit detection
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- stylus pen tapping diagram, protractor sliding on paper, measurement tool clicking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 17: Trust — Hook [02:08–02:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep space backdrop rendered in cool blues and silvers, emphasizing the rarity of this geometry
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- one percent
+
+ACTIONS:
+- Photorealistic CGI animation: a single Earth-sized exoplanet transits across the blazing disk of a Sun-like star, silhouetted in perfect alignment
+- The planet's shadow drifts across the star's HDR corona, volumetric light rays streaming past its edges
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- solar wind hiss, faint magnetic crackle
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 18: Trust — Hook [02:16–02:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cool analytical lighting transitions to warm discovery gold on hidden orbits
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- one percent
+
+ACTIONS:
+- Camera pulls away from single visible transit to reveal expanding field: one hundred orbital plane rings arrayed in 3D space, ninety-nine tilted at varying angles glowing faint amber, one aligned plane bright blue
+- Each ring holds a planetary silhouette
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- orbital plane array deployment servo, ring activation sequence beeps
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 19: Trust — Build Up [02:24–02:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm discovery-gold lines trace each orbit as they emerge from the central point, building a geometric lattice of hidden planetary systems against deep-space indigo backdrop
+
+ACTIONS:
+- Animated data visualization: a single glowing exoplanet dot in center frame multiplies outward into a hundred faint orbital rings spreading across the screen, each ring tilted at varied angles, creating a spherical halo of invisible worlds
+- Warm discovery-gold lines trace each orbit as they emerge from the central point, building a geometric lattice of hidden planetary systems against deep-space indigo backdrop
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- soft electronic beep sequence as each orbit line appears
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 20: Trust — Build Up [02:32–02:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm amber accent light illuminates the known region while cool silver-blue starfields stretch into deep space
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- galaxy
+
+ACTIONS:
+- Photorealistic Milky Way galaxy rendered from above, showing spiral arms in luminous blue-white starlight
+- A small glowing golden sphere highlights the local neighborhood near one outer arm, pulsing gently
+
+CAMERA:
+Wide | Slow push-in
+
+AUDIO:
+- telescope servo motors adjusting position, faint mechanical clicks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 21: Trust — Build Up [02:40–02:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cool deep-space blue and silver palette, volumetric galactic dust lanes, 8K HDR on spiral structure, anamorphic lens compression
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- galaxy
+
+ACTIONS:
+- Photorealistic Milky Way galaxy edge-on view: small glowing blue sphere (surveyed region) in galactic arm, camera pulling back to reveal full hundred-thousand light-year disk spiraling in cool silver and blue, surveyed volume shrinking to single bright point
+- Expanding field of view communicating scale revelation
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- galactic scale expansion whoosh, spiral arm resonance deep rumble
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 22: Trust — Build Up [02:48–02:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cool blue boundary interior transitioning to warm amber frontier, 8K HDR volumetric particle effects, anamorphic flare on emerging stars
+
+ACTIONS:
+- Camera accelerates past semi-transparent boundary sphere markers, volumetric wall dissolving in particle cascade, pushing into dense unexplored star field beyond with warm golden accent light blooming on distant stars
+- Forward momentum communicating breakthrough
+
+CAMERA:
+Medium | Pan
+
+AUDIO:
+- boundary membrane rupture cascade, frontier star field activation sequence rising pitch
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 23: Trust — Build Up [02:56–03:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cool analytical blue lighting with warm golden accent on expanded field coverage, 8K HDR on graph precision, volumetric interface glow
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- galaxy
+
+ACTIONS:
+- Photorealistic animated transit method diagram: planet silhouette crossing star disk in clean blue, brightness dip graph line tracing below in real-time, multiple simultaneous transits appearing across wider field of view (Roman's expanded coverage) compared to narrow single-star focus
+- Methodical demonstration posture in composition, side-by-side comparison layout
+
+CAMERA:
+Medium | Tracking
+
+AUDIO:
+- transit detection graph plotting pen scratch, expanded field activation chime sequence
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 24: Trust — Build Up [03:04–03:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+new visualization sharpening into clarity — curved spacetime grid with foreground star bending light rays from background star into multiple brightened paths (microlensing preview)
+
+ACTIONS:
+- Foreground: transit method diagram (planet crossing star disk) defocuses into soft blue bokeh
+- Background: new visualization sharpening into clarity — curved spacetime grid with foreground star bending light rays from background star into multiple brightened paths (microlensing preview)
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- focus shift optical mechanism, spacetime grid activation resonance tone
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 25: Trust — Build Up [03:12–03:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clean white laboratory environment with soft indirect lighting, technical precision atmosphere
+
+ACTIONS:
+- Luminous 3D wireframe grid warping smoothly around an invisible gravitational lens, bright silver-white mesh bending in elegant curves under volumetric light rays
+- Grid lines converge and diverge methodically, demonstrating spacetime curvature in motion
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- faint metallic grid resonance, subtle glass chime
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 26: Trust — Build Up [03:20–03:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Environment shows vast cosmic separation, deep blue void with faint nebula glow
+
+ACTIONS:
+- Distant background star centered in frame, foreground lensing mass approaching alignment from screen left, gravitational warp field beginning to distort star's light into subtle arc
+- Star remains single point, mass silhouetted against deep space backdrop
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- star photons streaming through vacuum
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 27: Trust — Build Up [03:28–03:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Lensing mass now centered, background star brightness amplifying visibly, light rays bending in precise arcs around the mass's gravitational field
+
+ACTIONS:
+- Lensing mass now centered, background star brightness amplifying visibly, light rays bending in precise arcs around the mass's gravitational field
+- Star's luminosity increasing from baseline to multiple-fold intensity, warm golden light spreading through bent rays
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- intensifying photon flux resonating
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 28: Trust — Build Up [03:36–03:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Environment shows scientific precision, clean data space with volumetric projection light
+
+ACTIONS:
+- Light curve graph resolving on transparent holographic display, brightness axis spiking sharply upward as time axis advances, peak reaching hundreds of times baseline
+- Secondary sharp spike appearing offset from main peak
+- Graph rendered in warm amber data visualization with HDR glow on peak values
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- data points plotting onto graph axes
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 29: Trust — Build Up [03:44–03:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Infinite black void dotted with distant galaxies, scale emphasized through anamorphic flare on each star
+
+ACTIONS:
+- Two distant star systems positioned at vast separation in deep space, each rendered as a glowing point with faint companion planets, thin trajectory arcs gradually intersecting at screen center
+- Stars drift methodically along their paths, alignment incomplete as frame holds
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- soft stellar wind hiss, faint trajectory tone
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 30: Anticipation — Build Up [03:52–04:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Environment shows massive survey scale, volumetric HDR rendering individual star points, warm amber accents appearing as detection targets lock
+
+ACTIONS:
+- Roman telescope's field of view expanding across dense star field, tens of millions of individual star points illuminating simultaneously in galactic bulge region
+- Field coverage growing outward in concentric waves, each wave revealing more stars monitored in parallel
+
+CAMERA:
+Wide | Slow push-in
+
+AUDIO:
+- telescope array focusing sequentially
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 31: Anticipation — Build Up [04:00–04:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Environment shows technical capability, volumetric light from Earth's atmosphere below, warm amber instrument lights against cool space backdrop
+
+ACTIONS:
+- Roman Space Telescope in orbit above Earth's terminator, instrument cycling rapidly through targets, camera bay rotating to new field positions, solar panels angled for optimal power
+- Telescope's posture shows methodical precision, rapid-capture sequence visible through instrument articulation
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- telescope mechanisms cycling through positions
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 32: Trust — Build Up [04:08–04:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Environment shows methodical comparison, balanced natural color palette emphasizing geometric constraint
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- ninety-nine percent
+- galaxy
+
+ACTIONS:
+- Split-frame composition: left side shows planet in close orbit crossing star face (transit-viable geometry), right side shows planet in distant orbit never crossing star disk (invisible to transits)
+- Ninety-nine percent label appearing over right frame
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- orbital paths tracing through space
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 33: Trust — Build Up [04:16–04:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Holographic star map of the Milky Way's galactic bulge suspended in bright NASA control room, glowing golden markers lighting distant planetary systems across 70,000 light-years, warm amber data streams flowing through the map's core region
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- ninety-nine percent
+- galaxy
+
+ACTIONS:
+- Holographic star map of the Milky Way's galactic bulge suspended in bright NASA control room, glowing golden markers lighting distant planetary systems across 70,000 light-years, warm amber data streams flowing through the map's core region
+- A hand enters frame, gesturing toward the dense central cluster with open palm, steady confident posture
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- hologram interface clicks, data stream chirps
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 34: Trust — Build Up [04:24–04:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Multiple exoplanets in diverse orbits around a central star, all simultaneously illuminated by volumetric backlighting as a microlensing wavefront sweeps through the system, measured confident framing
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- ninety-nine percent
+- galaxy
+
+ACTIONS:
+- Multiple exoplanets in diverse orbits around a central star, all simultaneously illuminated by volumetric backlighting as a microlensing wavefront sweeps through the system, measured confident framing
+- Planets at varied distances — near rocky worlds and distant ice giants — all revealed at once by the gravitational lens effect
+
+CAMERA:
+Wide | Orbit
+
+AUDIO:
+- lens sweep resonance, orbital harmonic tone
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 35: Trust — Build Up [04:32–04:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic NASA documentary with 8K HDR, volumetric deep-space fog, anamorphic bokeh on distant stars
+
+ACTIONS:
+- Isolated planetary data marker floating in deep void, far from any stellar object, cool mystery lighting casting long shadows across empty coordinate grid, calm steady framing
+- The marker pulses faintly, signaling a detection with no visible parent star nearby
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- isolated signal beep, coordinate grid click
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 36: Trust — Build Up [04:40–04:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The planet moves slowly across frame, surrounded by empty space and distant starlight bokeh
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- galaxy
+
+ACTIONS:
+- Rogue planet drifting alone through sparse star field, no parent star visible, faint thermal glow from its cooling core the only light source, calm isolated posture
+- The planet moves slowly across frame, surrounded by empty space and distant starlight bokeh
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- thermal radiation hiss, distant star shimmer
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 37: Anticipation — Build Up [04:48–04:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Photorealistic NASA documentary, volumetric lighting, anamorphic lens with shallow depth, amber-shadow color temperature
+
+ACTIONS:
+- Rogue planet surface with ancient volcanic craters and frozen terrain in 8K texture detail, ambient cosmic starlight casting long shadows, contemplative patient framing
+- The camera inches closer, revealing geological scars of a world without a sun
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- surface wind whistle, ice crack echo
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 38: Trust — Build Up [04:56–05:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Photorealistic NASA documentary, 8K HDR with amber heat glow, volumetric lighting through dust, anamorphic lens 2.39:1
+
+ACTIONS:
+- Young protoplanetary disk with dozens of embryonic planets in unstable intersecting orbits, volumetric dust clouds swirling in turbulent energy, methodical steady camera movement
+- Gravitational perturbations visibly distort trajectories as worlds jostle for space
+
+CAMERA:
+Wide | Pan
+
+AUDIO:
+- orbital debris scatter, gravitational rumble
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 39: Trust — Build Up [05:04–05:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Two large protoplanets on near-collision trajectory, gravitational fields visibly bending each other's paths, HDR lighting capturing imminent impact energy, tense deliberate framing
+
+ACTIONS:
+- Two large protoplanets on near-collision trajectory, gravitational fields visibly bending each other's paths, HDR lighting capturing imminent impact energy, tense deliberate framing
+- The larger planet's gravity slingshots the smaller one violently, altering its course
+
+CAMERA:
+Medium | Tracking
+
+AUDIO:
+- gravitational stress groan, trajectory whip sound
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 40: Trust — Build Up [05:12–05:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Photorealistic NASA documentary, 8K HDR with cool blue exit lighting, volumetric lens flare on distant stars, anamorphic 2.39:1
+
+ACTIONS:
+- Planet flung outward from solar system at high velocity, trailing debris and ice particles, escaping into deep void beyond orbit paths, calm decisive movement
+- The world accelerates past escape velocity, stars streaking past as it leaves its birthplace forever
+
+CAMERA:
+Wide | Tracking
+
+AUDIO:
+- velocity wind rush, debris trail scatter
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 41: Trust — Build Up [05:20–05:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 3.9 billion years
+- galaxy
+
+ACTIONS:
+- Early solar system 3.9 billion years ago: five giant planets orbiting young Sun, protoplanetary disk glowing faintly in background, outermost ice giant beginning slow drift toward frame edge
+- Distant galaxy band visible beyond system plane, cool blue nebular glow suffusing scene, volumetric dust trails catching starlight
+
+CAMERA:
+Wide | Orbit
+
+AUDIO:
+- faint asteroid impacts on distant planetary surface, low rumble of gravitational interactions
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 42: Trust — Build Up [05:28–05:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 3.9 billion years
+- galaxy
+
+ACTIONS:
+- Neptune-sized ice giant in foreground sharp focus, curved gravitational slingshot path overlay appearing as luminous trajectory arc, background Jupiter pulling frame right
+- Planet's icy surface catching HDR highlights, methane atmosphere bands visible, volumetric ice crystal haze trailing behind body
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- deep gravitational resonance hum, ice cracking under tidal stress
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 43: Trust — Build Up [05:36–05:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Soft mechanical clicking of brass gears, wooden orbital rings sliding on polished track
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 3.9 billion years
+- galaxy
+
+ACTIONS:
+- Golden-hour sunlight illuminating a physical orrery model of the solar system, warm brass and copper planets aligned on polished wooden base, hands gently adjusting orbital rings
+- Fifth empty orbital track visible between Jupiter and Neptune positions, dust motes floating in volumetric afternoon light streaming through observatory window
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- Soft mechanical clicking of brass gears, wooden orbital rings sliding on polished track
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 44: Trust — Build Up [05:44–05:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm golden rim light traces the planet's edge, breaking the void with measured presence
+
+ACTIONS:
+- Empty starfield in deep space, no central star visible, a lone planet silhouette drifts against the luminous band of the Milky Way, steady and unhurried
+- The planet's dark outline contrasts subtly against scattered starlight, demonstrating invisibility to transit-based detection
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- faint telescope servos whirring, distant mechanical clicks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 45: Trust — Build Up [05:52–06:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clinical documentary environment with monochrome blue-gray palette, sharp data visualization contrasted against deep space reality
+
+ACTIONS:
+- Left side shows flatlined transit light curve graph with no signal dip, right side shows rogue planet drifting undetected through starfield, both halves encoding the physical expression of observational absence through empty data
+- Light curve remains perfectly horizontal as planet moves through frame, demonstrating detection method failure
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- graph plotter pen scratching flat line, data point clicks on empty axis
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 46: Trust — Build Up [06:00–06:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+ACTIONS:
+- Foreground rogue planet snaps into sharp focus from soft bokeh, background distant star field rendered as anamorphic bokeh circles
+- Planet surface detail resolving: cratered ice, methane frost patterns
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- lens motor whir, camera shutter mechanism clicking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 47: Trust — Build Up [06:08–06:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- starlight
+
+ACTIONS:
+- Rogue planet crossing in front of distant background star, gravitational lens diagram overlay appearing as curved light ray paths bending around planet mass
+- Volumetric light shafts visibly curving through frame, starlight intensifying as alignment perfects
+
+CAMERA:
+Medium | Orbit
+
+AUDIO:
+- gravitational wave detector tone rising in pitch, starlight photon impacts on sensor array
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 48: Trust — Deep [06:16–06:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Graph shows Gaussian curve resolving in real time, teal axis labels, authoritative Bloomberg-style data presentation
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- starlight
+
+ACTIONS:
+- Background star brightening in centre frame as rogue planet passes off-screen, symmetric light amplification curve graphed as golden HUD overlay in lower third
+- Star intensity increasing visibly over 5 seconds
+- Holding at peak brightness
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- photometric data stream clicks, telescope tracking motor hum
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 49: Trust — Deep [06:24–06:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+8K HDR depth, 3700K teal accent lighting on data interface edges
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- galaxy
+
+ACTIONS:
+- Ultra-wide galactic map filling frame, Milky Way spiral arms rendered in photorealistic detail with volumetric dust lanes
+- Billions of amber rogue planet markers appearing across the map in accelerating waves, vastly outnumbering the sparse blue orbital markers clustered around stars
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- digital beeps sequencing rapidly, soft electronic chimes layering
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 50: Trust — Deep [06:32–06:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Volumetric lighting from sun creates lens flare across anamorphic frame, warm amber accents contrast with cool deep-space blues
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- galaxy
+
+ACTIONS:
+- Nancy Grace Roman Space Telescope in Earth orbit, posture of quiet authority and readiness, golden solar panels catching terminator light as Earth's curved horizon glows beneath, 8K surface detail reveals panel texture and instrument housing
+- Volumetric lighting from sun creates lens flare across anamorphic frame, warm amber accents contrast with cool deep-space blues
+
+CAMERA:
+Medium | Orbit
+
+AUDIO:
+- solar panel servo adjustment, orbital thruster micro-bursts
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 51: Trust — Deep [06:40–06:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Roman's wide-field imager sensor grid activating, composed and methodical expression, microlensing target reticles populate across the sensor array in rapid succession—dozens, then hundreds, then thousands of amber acquisition markers fill the frame
+
+ACTIONS:
+- Roman's wide-field imager sensor grid activating, composed and methodical expression, microlensing target reticles populate across the sensor array in rapid succession—dozens
+- Hundreds
+- Thousands of amber acquisition markers fill the frame
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- sensor array activation sequence, data stream processing clicks, target acquisition beeps accelerating
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 52: Trust — Deep [06:48–06:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Scientific visualization interface with teal accent highlights and precise typographic overlays showing detection statistics
+
+ACTIONS:
+- Split-frame composition: left half shows question mark symbol dissolving into star field particles, right half displays Roman Space Telescope's detection grid illuminating progressively with golden data points mapping rogue planets across galactic plane
+- Clean geometric division at frame center, volumetric light rays streaming from right to left as knowledge fills void
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- Digital interface beeps sequencing, holographic grid snapping into position
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 53: Trust — Deep [06:56–07:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Photorealistic NASA documentary aesthetic, 8K HDR with volumetric haze, 3700K teal accent lighting, warm amber glow on fragmentation points
+
+ACTIONS:
+- Close frame on astronomical definition diagram: traditional planetary orbit model (planet circling star) fragmenting into geometric shards at edges
+- Rogue planet silhouettes populate margins in soft focus, boundaries of "planet" category visibly dissolving as new population appears
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- paper tearing softly, glass fragments clinking delicately
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 54: Trust — Deep [07:04–07:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Volumetric counters display billions in real-time, warm amber saturation overwhelms initial cool tones
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- galaxy
+
+ACTIONS:
+- Galactic census data visualization, posture of calm authority, bar graph shows rogue planet count rapidly incrementing past star-bound planet count—ratio inverting expectations as amber rogue column rises to dominate cool blue orbital column
+- Volumetric counters display billions in real-time, warm amber saturation overwhelms initial cool tones
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- counter incrementing rapid clicks, bar graph rising whoosh, ratio inversion chime
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 55: Trust — Deep [07:12–07:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Wide galactic disk visualization showing planetary census: star-bound planets rendered as warm amber points clustered along spiral arms, rogue planets as cool silver-blue points filling interstellar voids in overwhelming numerical majority
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- galaxy
+
+ACTIONS:
+- Wide galactic disk visualization showing planetary census: star-bound planets rendered as warm amber points clustered along spiral arms, rogue planets as cool silver-blue points filling interstellar voids in overwhelming numerical majority
+- Camera descends through volumetric data layers as ratio becomes visually obvious—rogues outnumber bound planets 3:1
+
+CAMERA:
+Medium | Orbit
+
+AUDIO:
+- Spatial data markers pinging in cascading sequence, mechanical telescope calibration clicks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 56: Trust — Deep [07:20–07:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The map hovers in clean volumetric space, each planetary marker pulsing softly with scientific certainty
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- galaxy
+
+ACTIONS:
+- The Milky Way galaxy rendered as a luminous three-dimensional holographic map, rotating gently in a pristine data visualization chamber
+- Soft teal and warm amber light pools illuminate individual star systems as glowing pinpoints
+- Between them, countless faint blue markers represent rogue planets, outnumbering the stellar systems — their quiet majority revealed through elegant data design
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- holographic projector hum, faint electronic beep sequence
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 57: Trust — Deep [07:28–07:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Volumetric light rays from distant stars create gentle teal-accented halos, 8K HDR clarity on metal surfaces and optical arrays, anamorphic 2.39:1 framing emphasizes horizontal division
+
+ACTIONS:
+- Split-screen composite: left half shows labeled Kepler Space Telescope silhouette against star field, right half shows TESS satellite array in orbital position, both rendered as archival technical diagrams with coordinate overlays and mission timestamps, steady confident posture in framing
+- Data points illuminate across both panels in synchronized pulses, marking confirmed exoplanet detections as small bright dots clustering around visible stars
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- satellite mechanical hum, faint electrical relay clicks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 58: Trust — Deep [07:36–07:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+8K HDR captures extreme low-light detail, anamorphic 2.39:1 emphasizes vast empty horizontal expanse
+
+ACTIONS:
+- Single dim rogue planet — brownish-red Jupiter-mass sphere — hangs in deep black void, no parent star, no illumination source except faint cosmic microwave background glow rendering surface barely visible as dark ochre against blacker space, steady isolated presence
+- Planetary limb shows minimal atmospheric banding in low contrast, no anamorphic flare, no lens artifacts, pure documentary observation of lightless world
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- deep sub-bass rumble, faint plasma crackle
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 59: Trust — Deep [07:44–07:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The Roman Space Telescope's Coronagraph instrument bay in a NASA cleanroom, intricate golden optical baffles and precision mirrors arranged in concentric rings, thermal blanketing catching volumetric light from overhead LED panels, rack focus slowly pulling from foreground glass inspection window to the instrument's core optics in sharp detail
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- starlight
+
+ACTIONS:
+- The Roman Space Telescope's Coronagraph instrument bay in a NASA cleanroom, intricate golden optical baffles and precision mirrors arranged in concentric rings, thermal blanketing catching volumetric light from overhead LED panels, rack focus slowly pulling from foreground glass inspection window to the instrument's core optics in sharp detail
+- Authoritative Bloomberg-style lighting with 3700K teal accent reflecting off polished metal surfaces, creating a sense of engineered precision and institutional confidence
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- cleanroom air filtration whooshing, gloved hands adjusting metal components, optical mount clicking into place
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 60: Fear — Deep [07:52–08:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+harsh high-contrast space, raw sensor readout aesthetic, cool blue-white with red chromatic fringing
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- billion times
+- 99.9999999 percent
+- starlight
+
+ACTIONS:
+- Split-screen HDR exposure comparison: left half shows blazing white star overwhelming sensor with volumetric lens flare and chromatic artifacts, right half shows same frame with 99.9999999% starlight suppression revealing faint planetary dot barely emerging from noise floor
+- Coronagraph optical mask visible as dark circular occulter center-left
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- mechanical shutter click, lens aperture iris closing
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 61: Fear — Deep [08:00–08:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+high-contrast optical system interior, harsh white starlight bleeding around mask edges, red chromatic fringing, dim blue planetary albedo barely detectable
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- billion times
+- 99.9999999 percent
+- starlight
+
+ACTIONS:
+- Coronagraph starshade mask edge in extreme macro—precision-machined occulter disk blocking star's blazing white-hot core, diffraction spikes radiating outward, faint gas giant dot barely visible in suppressed halo at 3 o'clock position
+- Push continues revealing planetary signal emerging from noise
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- low frequency optics alignment servo motor, intermittent stabilization actuator clicks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 62: Fear — Deep [08:08–08:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Dim harsh high-contrast lighting with 2700K color temperature and red accent, the technical specifications rendered in sharp focus as the camera slowly pushes into the display
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- billion times
+- 99.9999999 percent
+- starlight
+
+ACTIONS:
+- Split-exposure demonstration: left side shows a star at normal exposure, clean and well-defined
+- Right side shows the same field with planet exposure boosted a billion times, revealing the faint planetary companion now visible but star completely blown out, the contrast ratio visualized as a dynamic HDR comparison with numeric readout '10^9:1' overlaid in clinical white text
+- Dim harsh high-contrast lighting with 2700K color temperature and red accent, the technical specifications rendered in sharp focus as the camera slowly pushes into the display
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- display screen pixels refreshing, exposure slider dragging, numerical readout beeping
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 63: Fear — Deep [08:16–08:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Macro detail of the Roman Coronagraph's internal vane mechanism, ultra-precise mechanical petals positioning with micrometer accuracy to block starlight, each vane edge catching volumetric light from a single focused beam, metallic surfaces rendered in 8K detail showing brushed titanium texture, dust particles floating through the illuminated volume emphasizing the cleanroom environment
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- billion times
+- 99.9999999 percent
+- starlight
+
+ACTIONS:
+- Macro detail of the Roman Coronagraph's internal vane mechanism, ultra-precise mechanical petals positioning with micrometer accuracy to block starlight, each vane edge catching volumetric light from a single focused beam, metallic surfaces rendered in 8K detail showing brushed titanium texture, dust particles floating through the illuminated volume emphasizing the cleanroom environment
+- Dim harsh high-contrast lighting with 2700K color temperature and red accent, the mechanical precision visualized through the slow, deliberate movement of the vanes as camera pushes into the optical assembly
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- precision servo motors whirring, vane actuators clicking, optical alignment laser pulsing
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 64: Trust — Deep [08:24–08:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Authoritative Bloomberg-style lighting with 3700K teal accent illuminating the orbital mechanics, numerical distance labels '1.5M km' in clinical white text, the geometry emphasizing gravitational balance and thermal stability
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 1.5 million kilometers
+- James Webb Space Telescope
+
+ACTIONS:
+- Wide orbital diagram in clean data-visualization style: Earth rendered as a small blue sphere at left, Sun as a larger golden sphere further left, a thin amber line extending 1.5 million kilometers to the L2 Lagrange point marked by a glowing teal node, Roman Space Telescope icon positioned at L2 with trajectory lines forming a stable halo orbit around the point
+- Authoritative Bloomberg-style lighting with 3700K teal accent illuminating the orbital mechanics, numerical distance labels '1.5M km' in clinical white text, the geometry emphasizing gravitational balance and thermal stability
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- orbital mechanics simulation calculating, trajectory line drawing on screen, distance measurement ticking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 65: Trust — Deep [08:32–08:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Spacecraft maintains fixed orientation relative to Sun, thermal blanket gold foil catching faint solar backlight, deep space navy-black backdrop with faint Milky Way band
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 1.5 million kilometers
+- James Webb Space Telescope
+
+ACTIONS:
+- Roman Space Telescope in stable L2 halo orbit, solar array panels fully extended in cross formation, Earth and Moon visible as distant crescents in lower frame third
+- Spacecraft maintains fixed orientation relative to Sun, thermal blanket gold foil catching faint solar backlight, deep space navy-black backdrop with faint Milky Way band
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- faint solar panel servomotor clicks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 66: Trust — Deep [08:40–08:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Roman's wide-field instrument aimed toward deep space frame right, away from all interference sources
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 1.5 million kilometers
+- James Webb Space Telescope
+
+ACTIONS:
+- Camera pulls away from Roman's sun shield, revealing its orbital advantage: unobstructed view away from Earth's glare, James Webb Space Telescope visible in distant parallel L2 orbit
+- Sun, Earth, and Moon aligned on same side of frame left, creating clear thermal boundary
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- thermal radiator panels venting heat in controlled pulses, attitude thrusters firing brief micro-corrections
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 67: Trust — Deep [08:48–08:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Medium shot, static hold with shallow focus rack
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- The telescope
+- Hubble Space Telescope
+
+ACTIONS:
+- Black-and-white archival photograph of Nancy Grace Roman at 1960s NASA desk, star charts and celestial coordinate grids spread before her, hands resting on open calculation notebook
+- Soft vignette around frame edges, authentic film grain texture
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- paper rustling as pages settle, pen cap clicking onto metal desk surface
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 68: Trust — Deep [08:56–09:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm respectful lighting from overhead practicals creates soft glow on memorial wall
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- The telescope
+- Hubble Space Telescope
+
+ACTIONS:
+- Archival photograph of Nancy Grace Roman dissolves into modern NASA Goddard control room, her framed portrait visible on memorial wall background
+- Engineers at workstations foreground, but focus held on portrait
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- keyboard typing at workstations, chair rolling on hard floor, papers being placed on desk
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 69: Trust — Deep [09:04–09:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Fountain pen ink shows characteristic flow variations and period-appropriate script
+
+ACTIONS:
+- Handwritten quote on aged archival paper: 'If you really want to do something, don't let anyone talk you out of it.' Camera pushes in steadily as quote fills frame, revealing paper texture and ink absorption patterns in 8K detail
+- Volumetric window light from frame right catches paper fibers and subtle yellowing
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- paper sliding across wooden desk surface, pen being set down with soft metal click
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 70: Trust — Deep [09:12–09:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Spacecraft panel background shows thermal blanket texture and fastener precision
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- seven years
+
+ACTIONS:
+- Engraved metal nameplate reads 'NANCY GRACE ROMAN SPACE TELESCOPE' in precision aerospace lettering, mounted on telescope's exterior panel
+- Camera holds completely still, allowing Earth's reflected blue light to slowly travel across polished metallic surface, revealing micro-machined depth of engraving
+
+CAMERA:
+Extreme Close-up | Static
+
+AUDIO:
+- distant mechanical relay switching, metal contracting in thermal gradient with faint pinging
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 71: Trust — Deep [09:20–09:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Both mirrors perfectly still, volumetric dust particles floating in controlled cleanroom atmosphere, 8K surface polish visible in reflected grid pattern
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 2.4 meters
+- one hundred times
+
+ACTIONS:
+- Side-by-side split-screen: left half shows Hubble's 2.4m primary mirror in vertical cleanroom mount, precision gold hexagonal segments reflecting overhead LED grid
+- Right half shows Roman's identical 2.4m monolithic mirror in identical mount, same reflection pattern, scale ruler visible at base reading 2.4m
+- Both mirrors perfectly still, volumetric dust particles floating in controlled cleanroom atmosphere, 8K surface polish visible in reflected grid pattern
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- cleanroom HEPA ventilation hiss
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 72: Trust — Deep [09:28–09:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Star field background shows actual galaxy density
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 2.4 meters
+- one hundred times
+
+ACTIONS:
+- Two glowing boundary cones superimposed on dense star field: narrow yellow cone representing Hubble's field of view (grain of sand angular size), massive teal cone 100 times wider representing Roman's panoramic field
+- Star field background shows actual galaxy density
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- digital interface tones scaling upward, graphical boundary lines resolving with electronic chirps
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 73: Trust — Deep [09:36–09:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cool teal accent lighting from instrument panel, 3700K authoritative Bloomberg documentary aesthetic, 8K HDR volumetric light rays catching mirror surface micro-texture
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 2.4 meters
+- one hundred times
+
+ACTIONS:
+- Roman Space Telescope primary mirror assembly in clean room, 2.4-meter polished beryllium surface reflecting golden thermal test lights, hexagonal secondary mirror mount visible above, wide-field instrument housing extending horizontally in anamorphic 2.39:1 frame emphasizing hundred-times-wider field compared to narrow Hubble aperture
+- Engineer's gloved hands adjusting calibration instrument at mirror edge, posture confident and methodical, fingers precisely turning micrometer dial
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- micrometer clicking, instrument panel beeping
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 74: Trust — Deep [09:44–09:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+NASA documentary aesthetic with volumetric light shafts through control room haze, anamorphic lens flare catches edge of leftmost screen, 8K HDR clarity on each monitor's distinct content
+
+ACTIONS:
+- Four HDR mission control displays tile across frame in perfect grid, each showing distinct active data stream — galaxy mapping (blue particle field), supernova tracking (red pulsar grid), stellar monitoring (yellow star field), coronagraph imaging (teal gas giant)
+- Warm interface glow casts soft light on polished console surface
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- electric hum of multiple displays powering on, soft ventilation fan whir, faint hard drive click sequence
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 75: Trust — Deep [09:52–10:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Right: coronagraph direct imaging interface showing gas giant resolving around nearby star in warm amber
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- galactic center
+- supernova
+- galaxies
+
+ACTIONS:
+- NASA mission control display wall showing four survey windows side-by-side, hands relaxed at sides, shoulders squared with quiet confidence
+- Left window: millions of galaxy icons populate across cosmic web grid with dark energy measurement lines forming in cool blue
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- keyboard keys clicking, mouse clicks, display refresh hum
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 76: Trust — Deep [10:00–10:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- galactic center
+- supernova
+- galaxies
+
+ACTIONS:
+- The galactic center rendered as dense star field with tens of millions of pinpoint light sources
+- Microlensing events trigger sequentially: individual stars brighten in characteristic spike pattern, amber light curves graphing alongside each detection
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- detection alert chimes staggered, photon counter clicking, spectrometer whirring
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 77: Trust — Deep [10:08–10:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- galactic center
+- supernova
+- galaxies
+
+ACTIONS:
+- Infrared thermal map of galactic core resolving from coarse to fine resolution
+- Color gradient spans cool red outer regions to hot white central concentration
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- infrared sensor cooling pump cycling, thermal calibration clicks, data stream whistling through processors
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 78: Trust — Deep [10:16–10:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Holographic data visualization in NASA mission control showing four stacked infographic bars filling with numbers — 'Four Surveys' (complete), 'Five Years' (timeline graphic), 'One Billion Galaxies' (counter scrolling to 1,000,000,000), '100,000 New Worlds' (exoplanet icons populating grid)
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Five years
+- billion galaxies
+- galaxies
+
+ACTIONS:
+- Holographic data visualization in NASA mission control showing four stacked infographic bars filling with numbers — 'Four Surveys' (complete), 'Five Years' (timeline graphic), 'One Billion Galaxies' (counter scrolling to 1,000,000,000), '100,000 New Worlds' (exoplanet icons populating grid)
+- Warm golden accent lighting highlights the escalating figures, cool teal underlight on console base, volumetric haze carries light shafts through frame, anamorphic lens flare on upper right numeric display
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- rapid digital counter clicking through numbers, hard drive data write chirp, cooling fan steady hum
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 79: Trust — Deep [10:24–10:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Display labels update with new hierarchy markers
+
+ACTIONS:
+- Mission priority display grid showing exoplanet survey window shrinking from primary to secondary position, hands gesture open-palm toward repositioned layout with calm acceptance
+- Four survey tiles rearrange on screen: dark energy survey expands to top-left primary slot in deep blue, supernova tracking moves to top-right in silver, exoplanet survey reduces to lower-right corner in muted teal, coronagraph holds lower-left in soft amber
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- interface beep, tile sliding sound, status indicator chime
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 80: Anticipation — Deep [10:32–10:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The push-in tightens on Roman's primary mirror as Kepler fades to 30% opacity, creating torch-passing visual metaphor
+
+ACTIONS:
+- Split-screen composition — left half shows Kepler Space Telescope silhouette against star field (cool blue-silver tones, historical archival aesthetic), right half shows Nancy Grace Roman Space Telescope emerging from shadow into warm amber-gold light (modern 8K HDR clarity)
+- Volumetric cosmic dust creates light shafts between the two telescopes, anamorphic lens flare bridges the center divide
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- telescope gyroscope low rumble, star tracker mechanism faint click sequence, solar panel unfold creak
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 81: Anticipation — Deep [10:40–10:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Kepler Space Telescope in Earth orbit, solar panels extended, metallic silver body reflecting planet's terminator glow
+
+ACTIONS:
+- Kepler Space Telescope in Earth orbit, solar panels extended, metallic silver body reflecting planet's terminator glow
+- Telescope's photometer aperture aimed at dense star field, visible through frame
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- telescope solar panel micro-adjustments, faint relay clicks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 82: Trust — Deep [10:48–10:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm 3700K lighting with teal technical highlights
+
+ACTIONS:
+- 3D holographic orbital diagram suspended in bright laboratory space, multiple tight planetary orbits glowing in warm golden light circling close to central star representation
+- Orbits pulse gently with teal accents marking detection zone boundaries
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- holographic projector whir, faint electronic beep sequence
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 83: Trust — Deep [10:56–11:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Physical orrery model in sunlit observatory space, inner mechanical planetary arms rotate rapidly in tight arcs near central brass sun, outer orbital tracks remain motionless and empty, dust particles floating in volumetric light beams
+
+ACTIONS:
+- Physical orrery model in sunlit observatory space, inner mechanical planetary arms rotate rapidly in tight arcs near central brass sun, outer orbital tracks remain motionless and empty, dust particles floating in volumetric light beams
+- Polished metal surfaces reflect 3700K lighting with teal accent highlights from nearby monitor displays
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- mechanical gears clicking, metal orbital arms sliding
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 84: Trust — Deep [11:04–11:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Roman Space Telescope CAD model rotating slowly, optical assembly and wide-field instrument visible
+
+ACTIONS:
+- Roman Space Telescope CAD model rotating slowly, optical assembly and wide-field instrument visible
+- Outer orbital zones 1–10 AU illuminate in cool teal as telescope rotates — volumetric sight lines extend outward from instrument, mapping detection range
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- mechanical rotation servo, optical calibration beep
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 85: Trust — Deep [11:12–11:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep space background remains still while lensing effect intensifies at center
+
+ACTIONS:
+- Animated microlensing event unfolding, distant background star centered in frame gradually brightening as unseen planet passes in front, gravitational lensing arcs materializing as curved light rays bending around planet's mass
+- Star brightness curve graph overlays bottom third showing characteristic microlensing peak
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- data acquisition chirps, light intensity meter ticks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 86: Trust — Deep [11:20–11:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+ACTIONS:
+- Split-screen composition, left half shows Kepler inner-orbit data as warm amber planetary dots clustered near star, right half shows Roman outer-orbit data as cool blue dots distributed in wider arcs
+- Golden connecting lines begin forming between datasets, merging into unified planetary architecture map
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- data synchronization tones, network connection pulses
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 87: Trust — Deep [11:28–11:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Volumetric depth layers reveal architectural patterns
+
+ACTIONS:
+- Merging data visualization: left half shows Kepler's inner-orbit detections (amber glowing spheres, 0.1–1 AU), right half shows Roman's outer-orbit projections (cool teal spheres, 1–10 AU)
+- Center seam dissolves, datasets blend into unified galactic census
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- data stream synthesis, harmonic convergence tone
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 88: Trust — Deep [11:36–11:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+ACTIONS:
+- Complete planetary distribution map materialized across Milky Way galaxy, warm-to-cool gradient showing inner-to-outer orbit density across thousands of star systems, our solar system highlighted at center with characteristic rocky-inner gas-giant-outer architecture
+- 2.39:1 composition emphasizes vast horizontal span of galactic census, volumetric data layers creating depth
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- final data compilation tone, map resolution lock click
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 89: Trust — Deep [11:44–11:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cool teal rim lighting from below, 3700K authoritative clarity, volumetric star field in background
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- thirty years
+- five years
+
+ACTIONS:
+- Two floating timeline markers hover in deep space: '30 years' in faded blue wireframe, '5 years' in glowing golden outline, positioned at opposite edges of frame
+- Roman Space Telescope schematic rotates slowly between them, technical annotation lines extending outward
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- holographic interface materializing, digital time signature resolving, panel latching into position
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 90: Trust — Deep [11:52–12:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Architectural blueprint of solar system mechanics suspended in volumetric display, Jupiter-Saturn orbital resonance lines glowing in rhythmic teal pulses, query cursor blinking softly at intersection points, deep space coordinates scrolling in background data streams
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- thirty years
+- five years
+
+ACTIONS:
+- Architectural blueprint of solar system mechanics suspended in volumetric display, Jupiter-Saturn orbital resonance lines glowing in rhythmic teal pulses, query cursor blinking softly at intersection points, deep space coordinates scrolling in background data streams
+- 3700K teal accent lighting, 8K HDR clarity, anamorphic 2.39:1 framing
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- data stream ticking, interface cursor blinking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 91: Anticipation — Deep [12:00–12:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+high-energy galactic core, visually warmer and brighter than sparse outer regions, radiating anticipation through concentrated light
+
+ACTIONS:
+- Galactic bulge core glowing warm amber and gold, dense star clusters packed tight, volumetric dust lanes lit orange by radiation fields, metallicity gradients visible as color shifts from amber center to cooler outer zones
+- Camera creeps forward through the densest region, revealing stellar crowding and protoplanetary disk silhouettes backlit by intense starlight
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- low rumbling stellar wind, plasma crackling, radiation hiss
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 92: Anticipation — Deep [12:08–12:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep space research lab bathed in warm 3300K amber sidelight, hologram casts golden reflections on polished surfaces
+
+ACTIONS:
+- Three-dimensional holographic galactic map suspended in research facility, glowing amber and gold layers represent metal-rich bulge core, cooler blue outer regions, radiation intensity visualized as pulsing halos
+- Researcher's hand enters frame, fingertips hovering near bulge region with focused contemplative posture, slight forward lean suggesting curiosity
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- holographic interface soft electronic chirp, finger passing through light field crackle
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 93: Trust — Deep [12:16–12:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+expectant digital workspace, clinically lit, professional stillness conveying confident clarity of the knowledge gap
+
+ACTIONS:
+- Empty star chart grid centered on screen, galactic bulge region outlined but unmarked by exoplanet survey data, clean teal-accented interface glowing softly against deep blue-black void, blinking cursor awaiting input in data field labeled 'Bulge Planets: 0 Detected'
+- Minimal light, authoritative framing, no movement
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- single blinking cursor tone, faint hard drive spin, isolated keyboard tap
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 94: Trust — Deep [12:24–12:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- five years
+- billion galaxies
+- galaxies
+
+ACTIONS:
+- Roman Space Telescope fully assembled in clean room, golden solar arrays folded at sides, primary mirror reflecting overhead work lights
+- Date stamp 'August 30, 2026' overlays bottom third in clean sans-serif
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- systems diagnostic completing, panel indicator clicking on, precision mechanism engaging
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 95: Trust — Payoff [12:32–12:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Extreme detail of Roman thruster nozzle assembly, thermal protection blankets catching golden lab light, 8K macro texture of multi-layer insulation foil, titanium propulsion mount bolts visible, countdown interface softly glowing in reflection
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- five years
+- billion galaxies
+- galaxies
+
+ACTIONS:
+- Extreme detail of Roman thruster nozzle assembly, thermal protection blankets catching golden lab light, 8K macro texture of multi-layer insulation foil, titanium propulsion mount bolts visible, countdown interface softly glowing in reflection
+- Warm final revealing light, 4000K natural color palette, volumetric atmospheric depth, anamorphic bokeh
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- thermal blanket crinkling, countdown interface beeping
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 96: Trust — Payoff [12:40–12:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Fully integrated Roman spacecraft on transport frame in clean room, solar arrays folded symmetrically, blue ambient wash from HEPA ventilation creating volumetric light shafts, golden instrument reflections on polished surfaces, mission timeline hologram hovering beside spacecraft
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- five years
+- billion galaxies
+- galaxies
+
+ACTIONS:
+- Fully integrated Roman spacecraft on transport frame in clean room, solar arrays folded symmetrically, blue ambient wash from HEPA ventilation creating volumetric light shafts, golden instrument reflections on polished surfaces, mission timeline hologram hovering beside spacecraft
+- Warm final revealing light, 4000K balanced palette, 8K HDR clarity, anamorphic 2.39:1 framing
+
+CAMERA:
+Wide | Slow push-in
+
+AUDIO:
+- ventilation system whooshing, transport frame hydraulics hissing
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 97: Trust — Payoff [12:48–12:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+NASA cleanroom environment, anamorphic lens flares across polished surfaces, warm 4000K lighting creating trusted atmosphere of readiness
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- five years
+- billion galaxies
+- galaxies
+
+ACTIONS:
+- Roman Space Telescope primary mirror assembly, gold-coated hexagonal segments catching volumetric light rays, surfaces reflecting Earth's curve in HDR detail
+- Mirror housing rotates gently into final locked position, mechanical precision visible in 8K clarity
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- servo motors whirring, metallic latches clicking into place
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 98: Trust — Payoff [12:56–13:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+White NASA facility walls, gleaming metallic surfaces catching warm overhead lighting
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- five years
+- billion galaxies
+- galaxies
+
+ACTIONS:
+- The Nancy Grace Roman Space Telescope fully assembled in clean room, gold mirror panels reflecting overhead lights, mission patch engraved with August 30 2026 launch date in foreground
+- Robotic arm retracts from final inspection position, technician's gloved hand gestures approval signal in background
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- robotic arm hydraulics whirring, metal latch clicking into locked position
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 99: Trust — Payoff [13:04–13:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Modern mission control workstation bathed in golden afternoon light from large window, polished surfaces reflecting warm glow, atmosphere of quiet confident anticipation
+
+ACTIONS:
+- Clean white data terminal screen glowing softly in warm 4000K light, cursor blinking steadily in center frame, operator's hands resting calmly on keyboard edge showing patient readiness
+- Screen displays 'Awaiting First Transmission' header with empty data fields below, interface clean and organized
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- keyboard spacebar single tap, mouse single click
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 100: Trust — Payoff [13:12–13:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep space behind scattered with star field, warm sunlight edge-lighting the spacecraft surfaces creating dramatic rim glow
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Habitable Worlds Observatory
+
+ACTIONS:
+- Habitable Worlds Observatory concept render in high Earth orbit, massive coronagraph sunshade deployed like golden flower petals, telescope body gleaming white and silver in direct sunlight, Earth's blue curve visible below
+- Observatory rotates gently showing intricate mirror segments catching light, solar arrays extended symmetrically, entire structure rendered in photorealistic NASA engineering detail with 8K clarity
+
+CAMERA:
+Wide | Orbit
+
+AUDIO:
+- mechanical servo motor whir, metallic panel lock click sequence
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 101: Trust — Payoff [13:20–13:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cool blue interface glow dominates frame, anamorphic bokeh softening background lab equipment
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Habitable Worlds Observatory
+
+ACTIONS:
+- Holographic interface displaying '100,000' in flickering translucent digits, numbers oscillating between values, uncertainty encoded in visual instability
+- Scientist's hand hovers near hologram without touching, palm casting shadow through volumetric projection
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- holographic flicker buzzing, hand moving through air
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 102: Trust — Payoff [13:28–13:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clean technical environment bathed in warm 4000K lighting, bright viewing windows showing Earth in background, atmosphere of quiet achievement and scientific readiness
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Habitable Worlds Observatory
+
+ACTIONS:
+- The Habitable Worlds Observatory spacecraft in final assembly, golden solar panels catching warm directional light, sleek coronagraph instrument at center with subtle reflective highlights
+- Engineers in clean-room suits perform final integration checks with calm, assured posture, hands moving with precision and confidence
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- screwdriver clicks, panel latches engaging, clean-room air system hiss
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 103: Trust — Payoff [13:36–13:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Markers cluster in small region of frame, vast unmarked space surrounding them
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- thirty years
+
+ACTIONS:
+- Star field with 6,300 glowing blue markers scattered across frame, each representing cataloged exoplanet, cool blue-black gradient backdrop emphasizing limited scale
+- Markers cluster in small region of frame, vast unmarked space surrounding them
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- data point pings, digital catalog indexing
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 104: Trust — Payoff [13:44–13:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Time-lapse clouds drift behind dome in background
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- thirty years
+
+ACTIONS:
+- Archival montage of telescope dome opening at golden hour, mechanism splitting to reveal primary mirror inside catching warm HDR sunset light
+- Metallic surfaces gleam with volumetric rays, 8K detail capturing years of accumulated knowledge in physical infrastructure
+
+CAMERA:
+Medium | Orbit
+
+AUDIO:
+- dome motors grinding, metal echoing, wind whistling past structure
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 105: Trust — Payoff [13:52–14:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep space environment, infinite star field, anamorphic lens flare streaking across frame
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- galaxy
+
+ACTIONS:
+- The Milky Way galaxy fills frame as a luminous spiral of billions of stars, cool blues and silvers, one outer arm highlighted with subtle golden marker indicating Sol's position
+- Camera drifts outward, emphasizing vastness and our peripheral location
+
+CAMERA:
+Wide | Zoom out
+
+AUDIO:
+- none
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 106: Trust — Payoff [14:00–14:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Roman Space Telescope instrument panel in ISO cleanroom, technical precision engineering, cool LED status indicators glowing blue and white, shallow depth of field isolating coronagraph assembly, brushed metal surfaces reflecting sterile fluorescent overhead lighting, no human presence, anamorphic 2.39:1 framing emphasizing horizontal instrument array
+
+ACTIONS:
+- Roman Space Telescope instrument panel in ISO cleanroom, technical precision engineering, cool LED status indicators glowing blue and white, shallow depth of field isolating coronagraph assembly, brushed metal surfaces reflecting sterile fluorescent overhead lighting, no human presence, anamorphic 2.39:1 framing emphasizing horizontal instrument array
+
+CAMERA:
+Medium | Tracking
+
+AUDIO:
+- faint servo motor whir with electronic relay click
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 107: Trust — Payoff [14:08–14:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Photorealistic Earth-like exoplanet in habitable zone, ocean surfaces reflecting yellow-white star light, thin atmospheric haze layer visible at limb, volumetric cloud formations casting soft shadows on landmasses, 8K surface detail showing continent edges, warm natural color palette balanced between blues and earth tones, anamorphic composition
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Habitable Worlds Observatory
+
+ACTIONS:
+- Photorealistic Earth-like exoplanet in habitable zone, ocean surfaces reflecting yellow-white star light, thin atmospheric haze layer visible at limb, volumetric cloud formations casting soft shadows on landmasses, 8K surface detail showing continent edges, warm natural color palette balanced between blues and earth tones, anamorphic composition
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- none — silent space
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 108: Trust — Payoff [14:16–14:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clean laboratory environment, dark backdrop with subtle edge lighting
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Habitable Worlds Observatory
+
+ACTIONS:
+- Habitable Worlds Observatory schematic materializes in volumetric holographic projection, golden wireframe geometry resolving segmented mirror panels and sleek instrument bay
+- Camera circles as technical annotations appear: coronagraph assembly, starshade deployment distance, spectroscopy wavelength range
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- projection array clicking through discrete assembly states
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 109: Trust — Payoff [14:24–14:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The planet holds steady in frame, fragile and clear
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Habitable Worlds Observatory
+
+ACTIONS:
+- The Habitable Worlds Observatory coronagraph assembly in extreme macro detail, concentric baffles blocking a simulated star's blinding light — brilliant white flare suppressed to controlled diffraction spikes
+- In the cleared shadow zone, a pale blue dot resolves: an Earth-like exoplanet, atmospheric haze barely visible
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- precise optical shutter mechanism click
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 110: Trust — Payoff [14:32–14:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Roman Space Telescope left frame feeding glowing golden data stream pipeline to Habitable Worlds Observatory right frame, volumetric light rays connecting the two instruments across 2.39:1 anamorphic composition, balanced symmetrical framing, cool blue accents on Roman transitioning to warm gold flow to warmer tones on HWO, technical lineage emphasized through connecting light, deep black background, 8K HDR rendering
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Habitable Worlds Observatory
+
+ACTIONS:
+- Roman Space Telescope left frame feeding glowing golden data stream pipeline to Habitable Worlds Observatory right frame, volumetric light rays connecting the two instruments across 2.39:1 anamorphic composition, balanced symmetrical framing, cool blue accents on Roman transitioning to warm gold flow to warmer tones on HWO, technical lineage emphasized through connecting light, deep black background, 8K HDR rendering
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- digital data transmission pulse with harmonic resonance tone
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 111: Trust — Payoff [14:40–14:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Roman Space Telescope primary mirror assembly pointing toward target coordinates, precision measurement reticle overlay in cool blue HUD interface, volumetric fog in background suggesting deep space environment, golden targeting crosshairs locking onto stellar position, anamorphic lens with subtle flare, 4000K balanced lighting on telescope surfaces, 8K technical detail on mirror segments
+
+ACTIONS:
+- Roman Space Telescope primary mirror assembly pointing toward target coordinates, precision measurement reticle overlay in cool blue HUD interface, volumetric fog in background suggesting deep space environment, golden targeting crosshairs locking onto stellar position, anamorphic lens with subtle flare, 4000K balanced lighting on telescope surfaces, 8K technical detail on mirror segments
+
+CAMERA:
+Medium | Orbit
+
+AUDIO:
+- gyroscope stabilization whir with targeting system lock beep
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 112: Trust — Payoff [14:48–14:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Stellar coordinate interface screen resolving, precise alphanumeric targeting data locking into position, cool blue holographic HUD with crosshairs refining on star system coordinates, 8K sharp text rendering, depth markers and distance measurements appearing sequentially, clean technical aesthetic, anamorphic framing emphasizing horizontal data fields, volumetric screen glow, no human hands visible
+
+ACTIONS:
+- Stellar coordinate interface screen resolving, precise alphanumeric targeting data locking into position, cool blue holographic HUD with crosshairs refining on star system coordinates, 8K sharp text rendering, depth markers and distance measurements appearing sequentially, clean technical aesthetic, anamorphic framing emphasizing horizontal data fields, volumetric screen glow, no human hands visible
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- interface targeting beep sequence with data confirmation chirp
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 113: Trust — Payoff [14:56–15:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Each marker pulses softly with warm 4000K light against cool blue nebula backdrop
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- galaxy
+
+ACTIONS:
+- 3D holographic map of the Milky Way galaxy suspended in deep space, volumetric data points materializing in accelerating waves—100,000 amber planetary markers blooming outward from galactic center in geometric patterns
+- Each marker pulses softly with warm 4000K light against cool blue nebula backdrop
+
+CAMERA:
+Wide | Orbit
+
+AUDIO:
+- holographic interface materialization hum, data marker activation pings cascading in waves
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 114: Trust — Payoff [15:04–15:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm 4000K volumetric lighting casting soft golden highlights across data visualization layers, subtle HDR bloom on brightest stellar regions
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- galaxy
+
+ACTIONS:
+- Wide-field view of the Milky Way galaxy rendered as high-resolution astronomical survey map, glowing points of light representing 100,000 exoplanet detections scattered across spiral arms in varied colors — amber gas giants, pale blue ice worlds, russet rocky bodies
+- Statistical distribution patterns emerging as density gradients, clustering around stellar nurseries, thinning toward galactic periphery
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- digital chime sequence marking data point registration
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 115: Trust — Payoff [15:12–15:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm 4000K light bathes the visualization in trusted scientific clarity
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- galaxy
+
+ACTIONS:
+- Holographic statistical distribution curves rising from a photorealistic galactic plane, golden volumetric light shafts illuminating deep structural layers
+- Data points materialize as glowing nodes across spiral arms, clustering patterns emerging in real-time
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- data points materializing as soft electronic pings, holographic emitters cycling with mechanical precision
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 116: Trust — Payoff [15:20–15:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clean NASA analysis lab, warm 4000K console lighting, polished surfaces reflecting golden data streams, purposeful methodical atmosphere
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- galaxy
+
+ACTIONS:
+- Digital filter system processing planet data in layered holographic display, warm green highlights isolating habitable zone candidates against amber-lit database visualization, hands gesturing with measured precision showing confident selection process
+- Subset of planetary systems filtered in real-time, unsuitable candidates fading to translucent blue while Earth-like prospects glow soft emerald, focus racks through data layers revealing refined target list
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- digital filter beeps, data sorting clicks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 117: Trust — Payoff [15:28–15:34]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cool blue nebula backdrop contrasts warm navigation grid, 8K HDR reveals both distant galaxies and foreground trajectory detail
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- thirty years
+
+ACTIONS:
+- Same deep-space star field from beginning now transformed: golden trajectory web overlays the cosmic void, connecting 100,000 planetary systems in organized geometric lattice
+- Glowing amber pathways form constellation-like atlas structure where chaos once existed, each node a discovered world
+
+CAMERA:
+Wide | Tilt
+
+AUDIO:
+- trajectory web harmonic resonance, low-frequency stellar hum, soft anamorphic lens flare crackle
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+════════════════════════════════════════════════════════════════
+[END SCENE PROMPTS]
+════════════════════════════════════════════════════════════════
