@@ -1,0 +1,2456 @@
+════════════════════════════════════════════════════════════════
+[CHARACTERS Description]
+════════════════════════════════════════════════════════════════
+
+PROJECT: They_thought_they_were_seeing_the_universe_s_boundary__They_were_wrong
+
+RATIO: 16:9
+
+--------------------------------------------------
+STYLE (DETAILED - MANDATORY):
+
+- Style Directive: Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1
+
+- Medium: Live-action / Cinematic
+
+- Visual Style:
+  - Photorealistic textures with accurate material response
+  - Observational documentary framing — restrained and credible
+  - Cinematic composition with depth and motivated framing
+  - Anamorphic 2.39:1 framing language adapted to delivery ratio
+  - 8K capture-grade detail with deep blacks and clean highlights
+  - HDR contrast — preserved highlights, nuanced shadows
+
+- Character Design:
+  Semi-realistic figures
+
+- Materials & Textures:
+  [e.g. Flat colors only / Cel-shaded with soft shadow / Painterly with visible brushwork]
+
+- Lighting:
+  Volumetric lighting with visible light shafts
+
+- Color Palette:
+  [Define color roles — e.g. Red = danger, Yellow = energy, Blue = calm, Black outline for clarity]
+
+- Rendering Quality:
+  [e.g. Crisp, clean, high-definition / Slightly grainy retro / Hyper-smooth anime-style]
+
+- Motion Feel:
+  [e.g. Smooth action-driven / Bouncy exaggerated / Slow cinematic / Snappy cut-driven]
+
+- Overall Impression:
+  [One paragraph — what should viewers FEEL when watching? What is the visual "brand" of this project?]
+
+--------------------------------------------------
+TONE:
+[Overall emotional register — e.g. High tension, urgent, dramatic / Dark comedic, absurdist / Warm and nostalgic / Energetic and hype]
+[Detected dominant emotion (auto, for reference): Trust]
+
+--------------------------------------------------
+RENDERING RULES:
+
+- [Rule 1 — e.g. NO TEXT, NO LETTERS, NO SYMBOLIC WORDS in any scene]
+- [Rule 2 — e.g. Story must be conveyed entirely through visuals and expressions]
+- [Rule 3 — e.g. Each scene must have a clear visual conflict or action beat]
+- [Rule 4 — e.g. Only include characters explicitly required in each scene]
+- [Rule 5 — e.g. No background crowd, no unnecessary props]
+- [Add more rules as needed]
+
+--------------------------------------------------
+CHARACTERS (LOCKED):
+
+- Character 1: Fermi Gamma
+  [Physical description — face shape, skin tone, eye style — fill in]
+  [Hair — color #HEX, length, style — fill in]
+  [Default outfit — top, bottom, shoes, accessories — fill in]
+  [Signature trait — what makes them instantly recognizable — fill in]
+  [Expression range — what emotions they show most — fill in]
+
+- Character 2: Model
+  [Physical description — face shape, skin tone, eye style — fill in]
+  [Hair — color #HEX, length, style — fill in]
+  [Default outfit — top, bottom, shoes, accessories — fill in]
+  [Signature trait — what makes them instantly recognizable — fill in]
+  [Expression range — what emotions they show most — fill in]
+
+- Character 3: Day
+  [Physical description — face shape, skin tone, eye style — fill in]
+  [Hair — color #HEX, length, style — fill in]
+  [Default outfit — top, bottom, shoes, accessories — fill in]
+  [Signature trait — what makes them instantly recognizable — fill in]
+  [Expression range — what emotions they show most — fill in]
+
+- [Add unnamed characters (narrator, crowd, etc.) here if needed]
+
+--------------------------------------------------
+ENVIRONMENT (GLOBAL):
+
+[Default background / world setting for the entire project]
+[e.g. Minimal clean background, soft gradient sky / Neon-lit urban rooftop / Pastel fantasy kingdom]
+[Note: individual scenes can override this with their own ENVIRONMENT field]
+
+[Detected scene environments (auto, for reference):]
+  - Distant spiral galaxy rendered in HDR 8K, soft blue-white luminous core with delicate spiral arms, single supernova outshining galactic center with brilliant white-gold bloom, volumetric god rays streaming through cosmic dust, anamorphic lens flare streaking horizontally across frame in warm amber, stars scattered across deep space background
+  - Warm 3800K light bathes the scene in soft flattering glow, conveying quiet confidence and cosmic patience
+  - Medium wide 2.39:1, slow horizontal pan
+  - Cross-section cutaway of collapsing stellar core, molten interior glowing orange-red with visible convection currents, foreground layers sharp then soft as focus pulls to reveal faint radioactive decay particles streaming as light trails through dense plasma
+  - The explosion appears frozen at peak violence, then settles into eerie stillness, anamorphic flares streaking horizontally
+  - superluminous supernova core blazing 10x brighter in intense gold-white with massive volumetric bloom and horizontal anamorphic flares
+  - Radioactive nickel-56 atoms visualized as glowing amber-orange nuclei floating in supernova debris field, each nucleus pulsing with warm light as decay occurs, volumetric decay energy radiating outward as soft golden rays, HDR rendering individual atom glow and surrounding illuminated gas clouds, debris particles drifting slowly, warm color palette of molten orange and amber gold
+  - Single nickel-56 atomic nucleus center frame in warm amber-orange glow, nucleus structure visible in HDR detail, moment of decay captured as nucleus transforms to cobalt-56 with subtle structural shift, gamma-ray photons streaming outward as thin brilliant white-gold light beams in radial pattern, volumetric energy release illuminating surrounding space in soft warm haze, anamorphic flare streaking horizontally
+  - Debris particles illuminated from within, warm amber and gold tones dominating frame, star field backdrop with soft bokeh
+  - Massive cloud of nickel-56 isotopes (glowing metallic silver particles) collapsing inward, volumetric implosion effect with compression distortion, particles spiraling into central black void, mass counter overlay ticking upward past stellar mass limit then flashing red
+  - Three holographic projection columns stand side-by-side in bright observatory space, each displaying a different supernova engine model as rotating 3D schematics—left shows radioactive core, center depicts black hole accretion disk, right reveals spinning neutron star
+  - Fermi Space Telescope in Earth orbit, gamma-ray detectors (glowing faint violet panels) on spacecraft hull catching light, Earth's blue limb below, volumetric solar rays grazing metal surface, spacecraft steady in frame
+
+--------------------------------------------------
+GOAL:
+[Optional — one sentence stating the visual storytelling goal of the entire video]
+[e.g. "Make the audience feel the tension of nuclear deterrence without using any text or narration"]
+
+════════════════════════════════════════════════════════════════
+[END CHARACTERS Description]
+════════════════════════════════════════════════════════════════
+
+
+════════════════════════════════════════════════════════════════
+SCENE PROMPTS
+════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────
+🎬 SCENE 01: Trust — Hook [00:00–00:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Distant spiral galaxy rendered in HDR 8K, soft blue-white luminous core with delicate spiral arms, single supernova outshining galactic center with brilliant white-gold bloom, volumetric god rays streaming through cosmic dust, anamorphic lens flare streaking horizontally across frame in warm amber, stars scattered across deep space background
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- supernova
+- galaxy
+
+ACTIONS:
+- Distant spiral galaxy rendered in HDR 8K, soft blue-white luminous core with delicate spiral arms, single supernova outshining galactic center with brilliant white-gold bloom, volumetric god rays streaming through cosmic dust, anamorphic lens flare streaking horizontally across frame in warm amber, stars scattered across deep space background
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- stellar wind rushing, cosmic gas particles colliding
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 02: Trust — Hook [00:08–00:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm 3800K light bathes the scene in soft flattering glow, conveying quiet confidence and cosmic patience
+
+ACTIONS:
+- Distant spiral galaxy suspended in deep space, its arms glowing soft amber and warm white against velvet black, subtle anamorphic lens flare streaking horizontally across frame as starlight intensifies
+- Galaxy rotates almost imperceptibly, core brightening with steady unwavering luminosity, HDR preserving intricate detail in spiral structure and surrounding star field
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- none
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 03: Trust — Hook [00:16–00:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Medium wide 2.39:1, slow horizontal pan
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- supernova
+
+ACTIONS:
+- Normal supernova remnant Cassiopeia A, expanding debris shell glowing amber and molten orange, filamentary structures threading through frame, volumetric light bleeding through ionized gas pockets, HDR capturing fine texture in shock-heated material
+- The remnant appears as a shattered sphere, outer layers peeling away in slow motion, camera panning left to reveal full 360° structure
+
+CAMERA:
+Medium | Pan
+
+AUDIO:
+- plasma discharge crackle, expanding shockwave rumble
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 04: Trust — Hook [00:24–00:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cross-section cutaway of collapsing stellar core, molten interior glowing orange-red with visible convection currents, foreground layers sharp then soft as focus pulls to reveal faint radioactive decay particles streaming as light trails through dense plasma
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- supernova
+
+ACTIONS:
+- Cross-section cutaway of collapsing stellar core, molten interior glowing orange-red with visible convection currents, foreground layers sharp
+- Soft as focus pulls to reveal faint radioactive decay particles streaming as light trails through dense plasma
+- The core appears suspended mid-collapse, outer shells compressing inward, volumetric scattering visible in particle tracks
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- core compression groan, particle collision clicks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 05: Trust — Hook [00:32–00:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The explosion appears frozen at peak violence, then settles into eerie stillness, anamorphic flares streaking horizontally
+
+ACTIONS:
+- Shockwave expanding radially from white-hot stellar core, volumetric blast wave scattering light through successive atmospheric layers, outer shells disintegrating frame-by-frame, HDR preserving core flash and faint outer debris simultaneously
+- The explosion appears frozen at peak violence
+- Settles into eerie stillness, anamorphic flares streaking horizontally
+
+CAMERA:
+Macro | Static
+
+AUDIO:
+- shockwave thunder crack, metal-on-metal impact ring
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 06: Trust — Hook [00:40–00:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+superluminous supernova core blazing 10x brighter in intense gold-white with massive volumetric bloom and horizontal anamorphic flares
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 100 times
+- supernova
+
+ACTIONS:
+- Foreground: normal supernova core rendered as moderate white-blue sphere with subtle glow, slightly out of focus
+- Background: superluminous supernova core blazing 10x brighter in intense gold-white with massive volumetric bloom and horizontal anamorphic flares
+
+CAMERA:
+Close-up | Zoom out
+
+AUDIO:
+- focus ring rotating, lens aperture adjusting
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 07: Trust — Hook [00:48–00:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Radioactive nickel-56 atoms visualized as glowing amber-orange nuclei floating in supernova debris field, each nucleus pulsing with warm light as decay occurs, volumetric decay energy radiating outward as soft golden rays, HDR rendering individual atom glow and surrounding illuminated gas clouds, debris particles drifting slowly, warm color palette of molten orange and amber gold
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- supernova
+
+ACTIONS:
+- Radioactive nickel-56 atoms visualized as glowing amber-orange nuclei floating in supernova debris field, each nucleus pulsing with warm light as decay occurs, volumetric decay energy radiating outward as soft golden rays, HDR rendering individual atom glow and surrounding illuminated gas clouds, debris particles drifting slowly, warm color palette of molten orange and amber gold
+
+CAMERA:
+Medium | Orbit
+
+AUDIO:
+- Geiger counter clicking rhythmically, atomic decay popping
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 08: Trust — Hook [00:56–01:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Single nickel-56 atomic nucleus center frame in warm amber-orange glow, nucleus structure visible in HDR detail, moment of decay captured as nucleus transforms to cobalt-56 with subtle structural shift, gamma-ray photons streaming outward as thin brilliant white-gold light beams in radial pattern, volumetric energy release illuminating surrounding space in soft warm haze, anamorphic flare streaking horizontally
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- supernova
+
+ACTIONS:
+- Single nickel-56 atomic nucleus center frame in warm amber-orange glow, nucleus structure visible in HDR detail, moment of decay captured as nucleus transforms to cobalt-56 with subtle structural shift, gamma-ray photons streaming outward as thin brilliant white-gold light beams in radial pattern, volumetric energy release illuminating surrounding space in soft warm haze, anamorphic flare streaking horizontally
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- atomic bond breaking, photon emission whooshing outward
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 09: Trust — Hook [01:04–01:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Debris particles illuminated from within, warm amber and gold tones dominating frame, star field backdrop with soft bokeh
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- supernova
+
+ACTIONS:
+- Superluminous supernova debris field expanding in deep space, glowing with impossible sustained brilliance, volumetric light rays piercing through golden-orange expanding shells of gas and dust, incandescent core region pulsing with energy far beyond normal supernova luminosity
+- Debris particles illuminated from within, warm amber and gold tones dominating frame, star field backdrop with soft bokeh
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- plasma crackling, debris particles colliding
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 10: Trust — Hook [01:12–01:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Massive cloud of nickel-56 isotopes (glowing metallic silver particles) collapsing inward, volumetric implosion effect with compression distortion, particles spiraling into central black void, mass counter overlay ticking upward past stellar mass limit then flashing red
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- supernova
+
+ACTIONS:
+- Massive cloud of nickel-56 isotopes (glowing metallic silver particles) collapsing inward, volumetric implosion effect with compression distortion, particles spiraling into central black void, mass counter overlay ticking upward past stellar mass limit
+- Flashing red
+- Cinematic photorealistic NASA documentary, 8K HDR, anamorphic lens 2.39:1, 24fps, 16:9
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- metallic particles collapsing, digital counter beeping rapidly
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 11: Joy — Hook [01:20–01:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Three holographic projection columns stand side-by-side in bright observatory space, each displaying a different supernova engine model as rotating 3D schematics—left shows radioactive core, center depicts black hole accretion disk, right reveals spinning neutron star
+
+ACTIONS:
+- Three holographic projection columns stand side-by-side in bright observatory space, each displaying a different supernova engine model as rotating 3D schematics—left shows radioactive core, center depicts black hole accretion disk, right reveals spinning neutron star
+- Golden afternoon sunlight streams through tall windows, illuminating floating particle simulations around each model
+
+CAMERA:
+Wide | Handheld
+
+AUDIO:
+- hologram projectors clicking on, light panels snapping into place, projection beams buzzing
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 12: Trust — Hook [01:28–01:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Fermi Space Telescope in Earth orbit, gamma-ray detectors (glowing faint violet panels) on spacecraft hull catching light, Earth's blue limb below, volumetric solar rays grazing metal surface, spacecraft steady in frame
+
+ACTIONS:
+- Fermi Space Telescope in Earth orbit, gamma-ray detectors (glowing faint violet panels) on spacecraft hull catching light, Earth's blue limb below, volumetric solar rays grazing metal surface, spacecraft steady in frame
+- Soft 3-point lighting, 3800K neutral warm
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- spacecraft solar panels adjusting, faint electrical whir
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 13: Trust — Hook [01:36–01:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Soft 3-point lighting, 3800K warm
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Gamma ray
+
+ACTIONS:
+- Gamma-ray photons rendered as sharp violet light beams piercing through orange supernova debris field, volumetric scattering effects tracing photon paths from hidden core outward, HDR capturing high-energy light cutting through gas clouds, camera tracking beam trajectory
+- Soft 3-point lighting, 3800K warm
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- high-frequency energy discharge crackling, photons zipping past
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 14: Trust — Hook [01:44–01:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Newborn magnetar forming at supernova core, electric violet magnetic field lines erupting outward from spinning sphere, volumetric glow intensifying, surface detail showing rapid rotation blur, deep indigo background transitioning to violet
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- neutron star
+
+ACTIONS:
+- Newborn magnetar forming at supernova core, electric violet magnetic field lines erupting outward from spinning sphere, volumetric glow intensifying, surface detail showing rapid rotation blur, deep indigo background transitioning to violet
+- Soft 3-point lighting, 3800K warm
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- magnetic field crackling, metallic hum vibrating at high frequency
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 15: Trust — Hook [01:52–02:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Magnetar surface (neutron star crust) in extreme close-up, magnetic field lines twisting and warping space around spinning sphere, rapid rotation creating motion blur at edges, volumetric energy discharges pulsing outward, anamorphic flares streaking frame, electric violet and deep indigo tones
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- neutron star
+
+ACTIONS:
+- Magnetar surface (neutron star crust) in extreme close-up, magnetic field lines twisting and warping space around spinning sphere, rapid rotation creating motion blur at edges, volumetric energy discharges pulsing outward, anamorphic flares streaking frame, electric violet and deep indigo tones
+- Cinematic photorealistic NASA documentary, 8K HDR, anamorphic 2.39:1, 24fps, 16:9
+
+CAMERA:
+Macro | Static
+
+AUDIO:
+- high-speed rotation whooshing, magnetic discharge crackling continuously
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 16: Trust — Hook [02:00–02:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Spiral galaxy NGC 3191 in frame, icy blue and sterile white tones, supernova SN 2017egm flaring bright at galaxy's edge (molten orange point), volumetric starlight diffusing through gas, anamorphic 2.39:1 scope emphasizing isolation in cosmic void
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- supernova
+
+ACTIONS:
+- Spiral galaxy NGC 3191 in frame, icy blue and sterile white tones, supernova SN 2017egm flaring bright at galaxy's edge (molten orange point), volumetric starlight diffusing through gas, anamorphic 2.39:1 scope emphasizing isolation in cosmic void
+- Soft 3-point lighting, 3800K neutral
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- distant stellar wind rushing, faint explosion echo reverberating
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 17: Surprise — Hook [02:08–02:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The camera continues its smooth retreat, revealing the vast scale of space
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Gaia satellite
+- galaxy
+
+ACTIONS:
+- The Gaia satellite floats in orbit above Earth's limb, its gold-foil sunshield catching edge light, solar panels extending into frame
+- A faint grid of scanning lasers sweeps across the star field in the background
+
+CAMERA:
+Wide | Zoom out
+
+AUDIO:
+- satellite gyroscope whirring, faint mechanical click of shutter mechanism
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 18: Surprise — Build Up [02:16–02:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Constellation Ursa Major star pattern overlays faintly in backdrop
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Gaia satellite
+- galaxy
+
+ACTIONS:
+- NGC 3191 barred spiral galaxy rotates in deep field, arms trailing luminous dust lanes
+- Camera begins tight on glowing core
+- Cranes upward and back, revealing full galactic structure suspended in void
+
+CAMERA:
+Medium | Crane
+
+AUDIO:
+- telescope servo motor, mirror actuator clicks, focus ring rotation
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 19: Trust — Build Up [02:24–02:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Neutral 3800K color temperature, sterile blues and whites
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- supernova
+- galaxies
+
+ACTIONS:
+- Split-screen composition: left half shows SN 2017egm blazing in NGC 3191 foreground, sharp detail and HDR bloom
+- Right half shows distant faint superluminous supernova billions of light-years away, barely visible pinpoint in deep field
+- Depth-of-field favors left frame, right frame soft but legible
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- data logger beep sequence, hard drive spin-up, cooling system airflow
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 20: Trust — Build Up [02:32–02:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Icy blue stars dot the background, emphasizing the warm glow of the explosion
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- supernova
+- galaxies
+
+ACTIONS:
+- The supernova SN 2017egm itself dominates the frame — a brilliant expanding shell of plasma and gas filaments in the spiral arm of NGC 3191, glowing amber and white against the deep blue void
+- Delicate tendrils of ejecta stream outward in slow motion, backlit by volumetric light from the central core
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- low-frequency rumble of expanding shockwave, faint crackling of ionized gas
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 21: Trust — Build Up [02:40–02:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Volumetric light rays streak horizontally through interstellar dust, emphasizing the vast emptiness
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- supernova
+- galaxies
+
+ACTIONS:
+- Anamorphic 2.39:1 frame reveals a dense star field in deep space, cold blue galaxies scattered across the void, one brighter point glowing amber-white in the foreground—SN 2017egm
+- Camera holds steady as subtle distance scale overlays fade in along the lower third, marking 440 million light-years
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- none
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 22: Trust — Build Up [02:48–02:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm 3800K lighting bathes the foreground cluster, HDR preserving both bright cores and faint connecting filaments of cosmic web
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- supernova
+- galaxies
+
+ACTIONS:
+- A 3D volumetric map of galaxy clusters suspended in space, each cluster rendered as a glowing node with distance measurements appearing in soft holographic numerals
+- Camera advances through the field toward one amber-lit cluster labeled 440 Mly, while billions-of-light-years markers fade into deep blue background
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- soft mechanical click of distance markers locking into place, faint whir of holographic projection system
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 23: Trust — Build Up [02:56–03:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+HDR bloom radiates from supernova, anamorphic lens flares streak horizontally
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- galaxy
+
+ACTIONS:
+- NGC 3191 galaxy begins soft and out-of-focus, spiral arms indistinct smear of blue-white light
+- Focus pull resolves galaxy structure
+- Continues past it to lock sharply on single blazing point beside core — SN 2017egm outshining entire galactic disk
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- lens focusing motor whir, aperture iris adjustment, focus confirmation beep
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 24: Trust — Build Up [03:04–03:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Neutral 3800K, sterile blues transitioning to warm amber at supernova core
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Nordic Optical Telescope
+- galaxy
+
+ACTIONS:
+- Split-frame 2.39:1 composition: left half shows NGC 3191 spiral galaxy structure in full detail, hundreds of billions of stars resolved into luminous arms and core
+- Right half shows single point source — SN 2017egm — blazing with equal luminosity, dominating its half of frame
+- Both sides equally lit, HDR preserving detail in galaxy structure and supernova bloom
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- image processing software keyboard typing, mouse scroll wheel, file save confirmation chime
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 25: Trust — Build Up [03:12–03:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Nordic Optical Telescope
+- galaxy
+
+ACTIONS:
+- The Nordic Optical Telescope dome stands silhouetted against a star-filled night sky, its aperture open and tracking smoothly
+- Inside the observatory control room, multiple monitors display the galaxy NGC 3191 as a faint smudge of light, while one brilliant point dominates the center of every frame
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- Telescope motors whirring, cooling fans humming, mirror adjustment servos clicking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 26: Trust — Build Up [03:20–03:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+ACTIONS:
+- A single stellar core fills the frame, its surface roiling with violent convection currents
+- The outer layers begin peeling away in slow motion, revealing the molten orange-white interior beneath
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- Plasma roaring, magnetic field lines snapping, stellar material tearing away
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 27: Trust — Build Up [03:28–03:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The supernova glows in the background, fading in real-time synchronization with the graph
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- supernova
+
+ACTIONS:
+- A scientific light curve graph materializes on screen, plotting brightness over time
+- The curve descends gradually, but its slope is shallower than the comparison curve labeled 'Normal SN' beside it
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- Data plotting stylus scratching, keyboard keys tapping, printer head sliding across paper
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 28: Trust — Build Up [03:36–03:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The frame emphasizes the vast scale of debris against the void
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- supernova
+
+ACTIONS:
+- The supernova remnant expands outward in a spherical shell of glowing debris, amber and orange filaments streaming through space
+- At the core, a faint pulsing light persists, feeding energy into the surrounding material
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- Shock waves rumbling, debris field crackling, electromagnetic pulses buzzing
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 29: Anticipation — Build Up [03:44–03:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+ACTIONS:
+- An empty debris field floats in the frame's center, glowing faintly with residual heat
+- The 2.39:1 anamorphic framing emphasizes the surrounding void
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- Distant rumbling, metallic debris settling, faint electromagnetic hum
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 30: Trust — Build Up [03:52–04:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The anamorphic 2.39:1 aspect emphasizes the horizontal triptych layout
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- supernova
+
+ACTIONS:
+- Three empty rectangular frames appear side-by-side on screen, backlit with sterile white light
+- Each frame is labeled at the bottom: 'Model 1', 'Model 2', 'Model 3'
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- Projector lamp buzzing, slide carousel clicking, ventilation fan whirring
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 31: Trust — Build Up [04:00–04:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 250 times
+- neutron star
+- black hole
+
+ACTIONS:
+- A cross-section diagram of a massive stellar core fills the frame, labeled '130–250 M☉'
+- High-energy gamma rays burst outward from the center in volumetric light shafts
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- Core pressure valves releasing, photon bursts crackling, electron pairs sparking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 32: Trust — Build Up [04:08–04:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+the interior of a 250-solar-mass star, walls of superheated hydrogen collapsing inward, casting amber reflections
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 250 times
+- neutron star
+- black hole
+
+ACTIONS:
+- 8K macro: photons colliding into electron-positron pairs inside a stellar core, electric blue and violet sparks erupting in HDR clarity, anamorphic lens flares streaking horizontally across frame
+- The core material glows molten orange, pressure waves rippling outward as photon conversion cascades through plasma
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- crackling electric discharge, plasma hissing, faint rumble of collapsing gas
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 33: Trust — Build Up [04:16–04:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Bright warm amber and gold volumetric lighting, clean NASA documentary framing, anamorphic 2.39:1 with shallow depth emphasizing core layers
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 250 times
+- neutron star
+- black hole
+
+ACTIONS:
+- 8K cross-section cutaway of stellar core 250 solar masses, molten amber and orange compression waves rippling inward toward center, volumetric internal glow pulsing as photon conversion destabilizes core structure, gossamer threads of light fragmenting into particle pairs, core boundary dissolving into black void with no remnant forming
+- Bright warm amber and gold volumetric lighting, clean NASA documentary framing, anamorphic 2.39:1 with shallow depth emphasizing core layers
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- deep rumble of collapsing matter, high-frequency photon crackle converting to particles
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 34: Trust — Build Up [04:24–04:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+8K stellar core detonating completely white-hot HDR bloom filling frame, no remnant left, anamorphic horizontal lens flares streaking across 2.39:1 scope, volumetric light expanding outward, photorealistic NASA documentary with extreme dynamic range
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 250 times
+- neutron star
+- black hole
+
+ACTIONS:
+- 8K stellar core detonating completely white-hot HDR bloom filling frame, no remnant left, anamorphic horizontal lens flares streaking across 2.39:1 scope, volumetric light expanding outward, photorealistic NASA documentary with extreme dynamic range
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- catastrophic explosion shockwave expanding, metal tearing, energy discharge cracking, debris scattering outward
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 35: Trust — Build Up [04:32–04:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Empty void where stellar core once existed, cooling ember particles fading to black, deep indigo blue returning to frame edges
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- supernova
+
+ACTIONS:
+- Empty void where stellar core once existed, cooling ember particles fading to black, deep indigo blue returning to frame edges
+- Sparse glowing debris drifting slowly outward, volumetric fog dissipating
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- faint particle hiss fading to nothing
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 36: Trust — Build Up [04:40–04:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+8K view of pre-supernova star surrounded by thick concentric shells of amber and violet ejected gas, volumetric layers glowing softly in 3800K warm light, dense material drifting outward in gossamer waves, star at center dim and pulsing with internal instability, gossamer tendrils of expelled hydrogen and helium tracing elegant arcs through space
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- supernova
+
+ACTIONS:
+- 8K view of pre-supernova star surrounded by thick concentric shells of amber and violet ejected gas, volumetric layers glowing softly in 3800K warm light, dense material drifting outward in gossamer waves, star at center dim and pulsing with internal instability, gossamer tendrils of expelled hydrogen and helium tracing elegant arcs through space
+- Warm amber core transitioning to violet outer shells, anamorphic 2.39:1 framing emphasizing layered depth, clean documentary lighting with volumetric god rays
+
+CAMERA:
+Medium | Orbit
+
+AUDIO:
+- low-frequency gas expansion whoosh, faint stellar wind hiss
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 37: Trust — Build Up [04:48–04:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+8K massive star shedding outer photosphere layers years before final collapse, glowing material drifting slowly outward in volumetric HDR trails, faint amber glow against deep space, photorealistic NASA documentary aesthetic with anamorphic 2.39:1 scope
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- supernova
+
+ACTIONS:
+- 8K massive star shedding outer photosphere layers years before final collapse, glowing material drifting slowly outward in volumetric HDR trails, faint amber glow against deep space, photorealistic NASA documentary aesthetic with anamorphic 2.39:1 scope
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- stellar surface bubbling, material ejecting with whooshing gas release, distant rumbling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 38: Trust — Build Up [04:56–05:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+8K supernova ejecta blast wave slamming into pre-existing circumstellar shell at high velocity, violent orange shock waves radiating through volumetric collision zone, debris spraying outward in HDR-captured jets, photorealistic NASA documentary with anamorphic lens compression
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- supernova
+
+ACTIONS:
+- 8K supernova ejecta blast wave slamming into pre-existing circumstellar shell at high velocity, violent orange shock waves radiating through volumetric collision zone, debris spraying outward in HDR-captured jets, photorealistic NASA documentary with anamorphic lens compression
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- massive impact shockwave booming, metal-on-metal collision ringing, kinetic energy converting with crackling discharge
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 39: Trust — Build Up [05:04–05:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+HDR blooming highlights, volumetric shockwave ripples
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- supernova
+
+ACTIONS:
+- Supernova blast wave slamming into circumstellar shell, kinetic energy converting to brilliant white light at impact zone
+- Molten core forming in sharp focus, background shell blurred
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- explosive impact shockwave, plasma ignition crackling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 40: Trust — Build Up [05:12–05:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+8K incomplete circumstellar shell coverage around supernova explosion site, visible gaps in material distribution, cool indigo blue edges where shell is absent, photorealistic NASA documentary with HDR capturing uneven coverage, anamorphic 2.39:1 emphasizing horizontal gaps
+
+ACTIONS:
+- 8K incomplete circumstellar shell coverage around supernova explosion site, visible gaps in material distribution, cool indigo blue edges where shell is absent, photorealistic NASA documentary with HDR capturing uneven coverage, anamorphic 2.39:1 emphasizing horizontal gaps
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- faint stellar wind whistling through gaps, sparse material drifting with soft hissing, radio static crackling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 41: Trust — Build Up [05:20–05:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clean modern observatory control room, warm overhead lighting casting soft glow on polished metal console surfaces
+
+ACTIONS:
+- Two illuminated stellar simulation models displayed side-by-side on bright LED panels, both showing identical dim core regions with faint emission curves
+- Camera holds steady as subtle light flickers synchronize across both screens
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- faint electrical buzz from LED panels, soft plastic click of cooling fans
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 42: Trust — Build Up [05:28–05:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm 3800K laboratory lighting, atmosphere of elegant revelation
+
+ACTIONS:
+- Physical magnetar demonstration model at table center: rapidly spinning gyroscope embedded in transparent sphere with violet electroluminescent wire loops representing magnetic field lines, spinning visibly
+- Scientist's hands frame the model from sides, fingers relaxed and steady, expression of quiet confidence
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- gyroscope whirring and electromagnetic coil buzz
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 43: Trust — Build Up [05:36–05:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Volumetric compression waves distort the space around the imploding core, bending light in gravitational lensing arcs
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- neutron star
+
+ACTIONS:
+- A massive blue supergiant star's outer layers peel back in slow motion, revealing a white-hot core collapsing inward
+- The core compresses frame by frame, shrinking from planetary scale to city-sized sphere as shockwaves ripple outward through translucent stellar gas
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- Gravitational compression roar building, deep sub-bass rumble with metallic groaning overtones
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 44: Trust — Build Up [05:44–05:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The background remains pure black void, emphasizing the object's isolation and density
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- neutron star
+
+ACTIONS:
+- The collapsed neutron star core now occupies frame center, a perfectly spherical city-sized object with a crystalline metallic surface
+- The surface cracks and solidifies in real time, forming geometric patterns of hexagonal plates as the material transitions to neutron-degenerate matter
+
+CAMERA:
+Macro | Static
+
+AUDIO:
+- Metal crystallization cracks echoing, sharp high-frequency pings with deep resonant aftershocks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 45: Trust — Deep [05:52–06:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting tracing each magnetic field line with precision, anamorphic 2.39:1 lens creating horizontal streaks of light across the frame
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- supernova
+
+ACTIONS:
+- A newborn magnetar occupies frame center, its surface radiating intense white-blue light in pulsating waves
+- Electric violet magnetic field lines snap into place from pole to pole, arcing through space in perfect symmetry
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- Magnetic field snap and hiss, sharp crackling discharge with sustained electromagnetic whine
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 46: Trust — Deep [06:00–06:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clean laboratory with authoritative 3700K lighting and teal accent on metal fixtures, atmosphere of data-driven clarity
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- supernova
+
+ACTIONS:
+- Physical supernova debris field model: translucent resin dome filled with suspended metallic fragments and fiber-optic strands, lit from within by pulsing amber LED core representing magnetar
+- Scientist's hands visible at dome base, adjusting control dial, posture confident and deliberate
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- servo motor clicks and LED pulse sequence
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 47: Trust — Deep [06:08–06:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Fine tendrils branch off the main arcs, creating a tree-like structure of electromagnetic energy against the black void
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- supernova
+
+ACTIONS:
+- Electric violet magnetic field lines arc from the magnetar's north and south poles, stretching vertically through the frame in dramatic anamorphic 2.39:1 composition
+- The field lines pulse with energy, their luminosity increasing and decreasing in rhythm with the magnetar's rotation
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- Electrical arc discharge crackling, high-voltage snap with sustained electromagnetic hum resonating in overtones
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 48: Trust — Deep [06:16–06:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Bloomberg-style 3700K lighting with teal accents in the magnetar's field lines
+
+ACTIONS:
+- A cutaway view shows the magnetar at the geometric center of a translucent expanding debris shell, like a glowing jewel inside a spherical cage
+- Energy radiates outward from the magnetar in all directions, visible as pulsating wavefronts traveling through the gas
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- Energy pulse thump rhythmic and deep, sustained low-frequency drone with metallic resonance
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 49: Trust — Deep [06:24–06:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+ACTIONS:
+- Cross-section cutaway of supernova debris shell with glowing magnetar core at center, volumetric light rays penetrating outward through layered ejecta in electric violet and deep indigo, debris expanding slowly, HDR capturing both blinding core and faint filament structure
+- Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- debris expansion whoosh, magnetic field oscillation hum, magnetic snap crackle
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 50: Trust — Deep [06:32–06:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Spinning magnetar at debris core, violet magnetic field lines radiating outward, HDR capturing blinding central neutron star and faint surrounding filaments, anamorphic horizontal streaks from intense magnetic poles, slow 15-degree arc over 8 seconds
+
+ACTIONS:
+- Spinning magnetar at debris core, violet magnetic field lines radiating outward, HDR capturing blinding central neutron star and faint surrounding filaments, anamorphic horizontal streaks from intense magnetic poles, slow 15-degree arc over 8 seconds
+- Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+CAMERA:
+Medium | Orbit
+
+AUDIO:
+- magnetic oscillation hum, field snap crackle, neutron star spin whoosh
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 51: Trust — Deep [06:40–06:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- gamma ray
+- supernova
+
+ACTIONS:
+- Thin sharp gamma-ray beams shooting from magnetar core through thinning debris shell, volumetric scattering as high-energy photons penetrate expanding ejecta, anamorphic lens flares on gamma rays, debris now semi-transparent with violet and amber glow, HDR capturing both intense gamma beams and faint shell structure
+- Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- high-energy photon bursts, gamma ray beam hiss, debris scattering crackle
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 52: Trust — Deep [06:48–06:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The detector sits motionless in a clean laboratory environment, sterile white walls with subtle teal glow from overhead panels, atmosphere of patient scientific vigilance
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- gamma ray
+
+ACTIONS:
+- Empty gamma-ray detector array panel in sharp focus, sleek white and brushed aluminum surface under 3700K teal-accented light, no indicator LEDs lit, conveying quiet readiness and未触发 state
+- The detector sits motionless in a clean laboratory environment, sterile white walls with subtle teal glow from overhead panels, atmosphere of patient scientific vigilance
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- soft metallic click of detector housing settling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 53: Trust — Deep [06:56–07:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+NASA Fermi Gamma-ray Space Telescope dish tracking across star field, volumetric light from distant gamma sources, solar panels edge-lit in teal accent, slow 20-degree pan matching telescope slew, HDR capturing both reflective dish surface and faint cosmic background
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 16 years
+- Space Telescope
+- Gamma-ray
+- supernova
+
+ACTIONS:
+- NASA Fermi Gamma-ray Space Telescope dish tracking across star field, volumetric light from distant gamma sources, solar panels edge-lit in teal accent, slow 20-degree pan matching telescope slew, HDR capturing both reflective dish surface and faint cosmic background
+- Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+CAMERA:
+Close-up | Tracking
+
+AUDIO:
+- telescope servo motors whirring, gyroscope spin, solar panel creak
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 54: Trust — Deep [07:04–07:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Data visualization screen: 16-year timeline scrolling left to right, light curves of six supernovae appearing sequentially, gamma-ray event markers sparse, volumetric depth of field on layered data planes, teal accent highlights on key dates, anamorphic bokeh on background readouts
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 16 years
+- Space Telescope
+- Gamma-ray
+- supernova
+
+ACTIONS:
+- Data visualization screen: 16-year timeline scrolling left to right, light curves of six supernovae appearing sequentially, gamma-ray event markers sparse, volumetric depth of field on layered data planes, teal accent highlights on key dates, anamorphic bokeh on background readouts
+- Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- hard drive spin whir, data beeps chirping, timeline scroll click
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 55: Trust — Deep [07:12–07:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Light curve graph of SN 2017egm with faint gamma-ray signal trace overlaid, volumetric glow highlighting anomaly region, rack focus from optical light curve (foreground) to gamma overlay (background), HDR capturing subtle gamma signal against bright optical curve, teal accent on gamma trace
+
+ACTIONS:
+- Light curve graph of SN 2017egm with faint gamma-ray signal trace overlaid, volumetric glow highlighting anomaly region, rack focus from optical light curve (foreground) to gamma overlay (background), HDR capturing subtle gamma signal against bright optical curve, teal accent on gamma trace
+- Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- data alert chime, graph axis click, gamma signal ping
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 56: Trust — Deep [07:20–07:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Timeline visualization: days 43 to 155 highlighted in glowing teal bar, gamma-ray photon spikes emerging from noise floor, volumetric depth on layered timeline planes, HDR capturing both faint noise and bright signal spikes, anamorphic bokeh on background data
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- five months
+- Large Area Telescope
+- gamma-ray
+- supernova
+
+ACTIONS:
+- Timeline visualization: days 43 to 155 highlighted in glowing teal bar, gamma-ray photon spikes emerging from noise floor, volumetric depth on layered timeline planes, HDR capturing both faint noise and bright signal spikes, anamorphic bokeh on background data
+- Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- gamma photon impacts on detector, timeline tick advancing, signal spike beeps
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 57: Trust — Deep [07:28–07:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep space observatory interior bathed in 3700K teal accent light, volumetric dust motes suspended in silence
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- five months
+- Large Area Telescope
+- gamma-ray
+- supernova
+
+ACTIONS:
+- Fermi Large Area Telescope detector array in extreme close-up, photon impact counters incrementing in HDR amber numerals, posture neutral and stable
+- Detection events resolving as discrete bright points on the grid, each photon hit marking a specific coordinate
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- metallic detector clicks, sharp electronic beeps marking photon impacts
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 58: Trust — Deep [07:36–07:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Space telescope detector chamber, electric indigo lighting with 3700K teal rim accents, zero gravity environment
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- five months
+- Large Area Telescope
+- gamma-ray
+- supernova
+
+ACTIONS:
+- Gamma-ray photons rendered as piercing violet needles striking crystalline sensor plane in extreme slow motion, anamorphic flares blooming at each impact point
+- Photons penetrating detector lattice, each collision triggering cascading energy release visualized as expanding spherical shockwaves in HDR
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- high-frequency crystal resonance pings, sharp impact tones at irregular intervals
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 59: Trust — Deep [07:44–07:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cosmic debris field 170 million light-years distant, deep indigo background with warm gold photon trails breaking through cooling gas
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- five months
+- Large Area Telescope
+- gamma-ray
+- supernova
+
+ACTIONS:
+- SN 2017egm supernova remnant shell thinning from opaque amber to translucent violet, gamma-ray beams escaping through widening gaps in the gas, volumetric scattering creating god-ray patterns
+- Photon streams threading outward as debris cloud disperses, density gradient visible in HDR color temperature shift
+
+CAMERA:
+Medium | Pan
+
+AUDIO:
+- low rumbling gas expansion, sharp photon escape bursts cutting through
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 60: Trust — Deep [07:52–08:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Infinite black space with sparse star field, isolation emphasized by vast negative space and 3700K teal color grading
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 16 years
+- gamma ray
+- supernova
+
+ACTIONS:
+- Six superluminous supernovae arrayed in deep cosmic void, each rendered as distant glowing nebulae in anamorphic 2.39:1 scope, SN 2017egm positioned right-of-center with subtly enhanced luminosity in both visible and gamma spectra
+- Five supernovae in faint blue-white, SN 2017egm glowing with dual-layer emission: outer visible shell in amber, inner gamma-ray core in electric violet
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- distant stellar wind particle impacts, sparse metallic pings echoing in vacuum
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 61: Trust — Deep [08:00–08:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The anamorphic 2.39:1 frame emphasizes the systematic precision of the search pattern
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 16 years
+- gamma ray
+- supernova
+
+ACTIONS:
+- Six celestial coordinate markers illuminate sequentially across a vast star chart displayed on an 8K HDR screen, each supernova position resolving with timestamp overlays spanning 16 years
+- Gamma-ray detection windows glow in electric teal against the deep indigo star field, data columns scrolling methodically beside each marker
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- telescope servomotor whir, data processing clicks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 62: Trust — Deep [08:08–08:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Subtle lens flare from monitor edge, anamorphic bokeh in background controls
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 16 years
+- gamma ray
+- supernova
+
+ACTIONS:
+- 8K close-up of Fermi Space Telescope data terminal, amber-lit monitor array displaying time-stamped gamma-ray event log scrolling frame-by-frame, 16-year timeline bar glowing softly at screen edge, volumetric light casting warm highlights across polished metal instrument housing
+- Subtle lens flare from monitor edge, anamorphic bokeh in background controls
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- hard drive spinning clicks, faint electrical relay clicks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 63: Trust — Deep [08:16–08:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Observatory timing system interface, 3700K teal accent lighting on panel edges, volumetric atmosphere minimal
+
+ACTIONS:
+- Digital mission elapsed-time counter in extreme close-up, HDR amber numerals advancing from 'Day 043' to 'Day 155' in smooth increments, each day transition marked by subtle glow pulse
+- Mechanical relay switches and status indicators in soft focus behind counter, neutral gray control panel texture, precise engineering aesthetic
+
+CAMERA:
+Macro | Static
+
+AUDIO:
+- mechanical relay switches toggling, precise stepper motor clicks, electrical contact closures
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 64: Trust — Deep [08:24–08:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Supernova interior cutaway view, molten orange and amber tones dominating, HDR scattering creating internal glow, debris particles tumbling and colliding
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- gamma ray
+- supernova
+
+ACTIONS:
+- Early-stage supernova debris shell rendered in volumetric detail, dense opaque orange-amber gas blocking gamma-ray photons visible as trapped violet light needles ricocheting inside the shell
+- Photons scattering, reflecting, absorbed by dense ejecta, unable to penetrate outward
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- debris tumbling impacts, grinding rock-on-rock collisions, muffled internal energy bursts
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 65: Trust — Deep [08:32–08:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Authoritative documentary lighting, 3700K teal accent on shell boundaries, 8K HDR capturing both the trapped radiation glow and the emerging photon escape paths
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- gamma ray
+- supernova
+
+ACTIONS:
+- Expanding supernova debris shell rendered as translucent volumetric cloud, initially opaque and glowing orange-red from absorbed gamma radiation, gradually thinning and cooling to reveal violet-blue gamma ray beams trapped within the structure
+- Shell fragments drift outward in slow motion, density decreasing radially, creating transparency gradient from dense core to wispy outer edges
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- shell fragments crackling and splitting apart, high-energy photon impacts on debris material
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 66: Trust — Deep [08:40–08:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Authoritative Bloomberg-style lighting, 3700K teal accent on measurement annotations, 8K HDR
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- gamma ray
+
+ACTIONS:
+- Split-screen composition: left frame shows opaque early supernova debris at day 0-42 blocking all gamma radiation (dense orange-red cloud), right frame shows same debris field at day 43 now thinned and semi-transparent with sharp violet gamma ray beams piercing through the expanding shell
+- Shell thickness measurement overlay appears, marking optical depth transition from τ > 1 to τ < 1
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- shell material cracking and fragmenting, gamma photon bursts escaping through gaps
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 67: Trust — Deep [08:48–08:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- gamma ray
+
+ACTIONS:
+- Sharp gamma-ray photon beams pierce through thinning supernova debris veil, striking detector array sensors
+- Volumetric fog reveals light paths as high-energy photons escape expanding ejecta cloud
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- photon impacts on metal detector sensors, faint electrical sparks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 68: Trust — Deep [08:56–09:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+deep space, HDR capturing dimming but persistent magnetar luminosity, volumetric light rays cutting through suspended dust
+
+ACTIONS:
+- Violet-glowing magnetar spinning at frame center, violet light pulsing rhythmically outward in sharp beams
+- Months-old debris field drifts slowly around it in wide arcs, particles tumbling end-over-end
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- metallic debris fragments tumbling and colliding, distant particle impacts
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 69: Trust — Deep [09:04–09:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+deep space composite, HDR capturing magnetic field luminosity and sharp waveform data
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- neutron star
+
+ACTIONS:
+- Neutron star surface at frame center, intense magnetic field lines rendered as shimmering teal filaments arcing from poles
+- Fast radio burst waveform graph overlays lower third, millisecond spike rendering in real-time as sharp vertical pulse
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- radio telescope dish motors whirring and adjusting position, mechanical servo clicks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 70: Trust — Deep [09:12–09:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Electric blue and violet color palette with white radio wave fronts
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- neutron star
+
+ACTIONS:
+- Extreme close-up of magnetar neutron star surface undergoing starquake eruption: crust fracturing and snapping, releasing concentrated magnetic energy as expanding concentric radio wave rings propagating outward from rupture point
+- Magnetic field lines snap like elastic bands during the quake
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- magnetic field lines snapping and crackling, surface crust fracturing
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 71: Trust — Deep [09:20–09:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+deep space, HDR capturing luminosity shift from radio to optical spectrum, volumetric light filling frame
+
+ACTIONS:
+- Same magnetar now at frame center powering optical supernova glow, warm golden and amber light erupting outward in volumetric waves
+- Energy transfer visualized as bright photon streams flowing from magnetar core into surrounding debris shell
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- high-frequency photon bursts crackling, energy discharge surges
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 72: Trust — Deep [09:28–09:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1
+
+ACTIONS:
+- Split-screen montage: left side shows millisecond fast radio burst flash as sharp white spike, right side shows months-long supernova glow in warm amber
+- Both emanate from central spinning magnetar in electric violet and teal
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- sharp burst pop transitioning to sustained low rumble
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 73: Trust — Deep [09:36–09:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Isolated magnetar positioned in lower third of 2.39:1 anamorphic scope, deep space background with distant galaxies out of focus, electric violet core with gold HDR flare erupting from magnetic poles, volumetric field lines rendered as glowing arcs in teal and amber, 8K photorealistic treatment withauthoritative Bloomberg-style key light at 3700K, camera tightening focus millimeter by millimeter as magnetar dominates all wavelengths visible in frame (gamma, X-ray, optical bands layered as colored halos)
+
+ACTIONS:
+- Isolated magnetar positioned in lower third of 2.39:1 anamorphic scope, deep space background with distant galaxies out of focus, electric violet core with gold HDR flare erupting from magnetic poles, volumetric field lines rendered as glowing arcs in teal and amber, 8K photorealistic treatment withauthoritative Bloomberg-style key light at 3700K, camera tightening focus millimeter by millimeter as magnetar dominates all wavelengths visible in frame (gamma, X-ray, optical bands layered as colored halos)
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- deep sustained magnetar spin tone with rising electromagnetic whine
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 74: Trust — Deep [09:44–09:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep space backdrop in electric indigo with volumetric fog catching golden light, HDR bloom on field line edges creating authoritative presence
+
+ACTIONS:
+- Magnetar core isolated in centre frame, shoulders squared, glowing violet-gold magnetic field lines radiating outward in perfect symmetry
+- Core rotates at constant angular velocity, surface rippling with charged particle streams
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- metallic rotation clicks, electromagnetic crackle
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 75: Trust — Deep [09:52–10:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+blurred theoretical model printout with magnetar diagram, equations visible but soft
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- gamma ray
+
+ACTIONS:
+- Foreground: gamma ray detector readout screen in sharp focus, faint signal peak barely rising above noise floor, teal numeric values updating slowly, 8K HDR screen glow
+- Background: blurred theoretical model printout with magnetar diagram, equations visible but soft
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- mechanical click of focus ring on lens, paper rustling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 76: Trust — Deep [10:00–10:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Models slightly offset so none align perfectly with faint observational data plot visible beneath all three layers, 8K macro detail on printed line work and transparency edges, authoritative sidelight at 3700K creating subtle shadow separation between sheets, 2.39:1 anamorphic framing, photorealistic documentary treatment
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- gamma ray
+
+ACTIONS:
+- Three translucent acetate sheets layered on illuminated lightbox, each sheet printed with different theoretical model diagram: magnetar central engine (violet lines), circumstellar interaction shock (amber wavefronts), radioactive decay chain (teal decay curves)
+- Models slightly offset so none align perfectly with faint observational data plot visible beneath all three layers, 8K macro detail on printed line work and transparency edges, authoritative sidelight at 3700K creating subtle shadow separation between sheets, 2.39:1 anamorphic framing, photorealistic documentary treatment
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- acetate sheets sliding and settling on lightbox glass
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 77: Trust — Deep [10:08–10:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm 3700K sidelight from left, teal accent from backlit table, soft volumetric haze
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- gamma ray
+
+ACTIONS:
+- Overlapping transparent spectral analysis sheets layered on illuminated lightbox, each showing gamma-ray signal curve with different statistical confidence bands (68%, 95%, 99.7%) marked in amber and teal
+- Hand enters frame placing final competing model overlay — circumstellar interaction prediction — beside magnetar model, neither perfectly matching the observed data points
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- paper sliding on glass, pen tapping lightbox edge
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 78: Trust — Deep [10:16–10:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Single handwritten margin note reading "mechanism unclear" circled three times in blue ink, warm desk lamp glow at 3700K creating high-contrast shadow on paper texture, 8K macro detail showing pen pressure variation in ink strokes, teal accent reflected in glossy pen barrel partially visible at frame edge, 2.39:1 anamorphic crop emphasizing isolation of the annotated doubt, shallow depth of field with surrounding text blurred, photorealistic documentary treatment
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- gamma ray
+- supernova
+
+ACTIONS:
+- Single handwritten margin note reading "mechanism unclear" circled three times in blue ink, warm desk lamp glow at 3700K creating high-contrast shadow on paper texture, 8K macro detail showing pen pressure variation in ink strokes, teal accent reflected in glossy pen barrel partially visible at frame edge, 2.39:1 anamorphic crop emphasizing isolation of the annotated doubt, shallow depth of field with surrounding text blurred, photorealistic documentary treatment
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- pen scratching slow deliberate circles on paper, ink absorbing into fiber
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 79: Trust — Deep [10:24–10:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Single word "COULD" printed in serif typeface within scientific abstract text, 8K HDR rendering with shallow depth of field blurring surrounding words into illegibility, authoritative 3700K lighting creating subtle paper texture detail and ink density variation, teal accent reflected in paper's subtle sheen, 2.39:1 anamorphic framing isolating the conditional verb, meditative hold on typographic precision, photorealistic NASA documentary aesthetic
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- gamma ray
+- supernova
+
+ACTIONS:
+- Single word "COULD" printed in serif typeface within scientific abstract text, 8K HDR rendering with shallow depth of field blurring surrounding words into illegibility, authoritative 3700K lighting creating subtle paper texture detail and ink density variation, teal accent reflected in paper's subtle sheen, 2.39:1 anamorphic framing isolating the conditional verb, meditative hold on typographic precision, photorealistic NASA documentary aesthetic
+- Camera holds motionless throughout
+
+CAMERA:
+Extreme Close-up | Static
+
+AUDIO:
+- paper sheet being set down gently on desk surface, settling with faint rustle
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 80: Trust — Deep [10:32–10:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm amber sidelight rakes across the page, creating micro-shadows on the paper grain
+
+ACTIONS:
+- Extreme close-up of a single word printed in black serif type on white paper: 'COULD' in sharp 8K focus, surrounded by out-of-focus scientific text
+- Warm amber sidelight rakes across the page, creating micro-shadows on the paper grain
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- paper sheet settling onto wooden desk
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 81: Trust — Deep [10:40–10:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+SN 2017egm supernova glowing faintly in deep space visible through opening, outer debris shell rendered in layered visible-light wavelengths (amber, ultraviolet haze, infrared glow), expanding gas tendrils frozen mid-drift
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- supernova
+
+ACTIONS:
+- Observatory dome hatch unsealing, metallic panels retracting symmetrically, volumetric HDR light spilling through widening gap, teal-accented edges catching 3700K glow
+- SN 2017egm supernova glowing faintly in deep space visible through opening, outer debris shell rendered in layered visible-light wavelengths (amber, ultraviolet haze, infrared glow), expanding gas tendrils frozen mid-drift
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- metal panels grinding, hydraulic actuators hissing
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 82: Trust — Deep [10:48–10:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep indigo backdrop dotted with distant galaxies
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- supernova
+
+ACTIONS:
+- SN 2017egm supernova explosion frozen mid-burst, glowing debris shell suspended in deep space, outer layers rendered in luminous amber and violet bands showing visible-light wavelength emission, core region deliberately obscured by dense radiant fog suggesting hidden engine beneath
+- Photorealistic NASA documentary aesthetic, 8K HDR, volumetric god rays pierce through gas clouds, anamorphic 2.39:1 framing with teal edge flare
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- plasma crackling, debris fragments tumbling through void
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 83: Trust — Deep [10:56–11:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Technical readout overlays appear as floating holographic AR labels identifying detector components
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- supernova
+
+ACTIONS:
+- Fermi Space Telescope's gamma-ray detector array in clean white NASA facility, instrument panel showing real-time gamma-ray photon counter display with cascading green digits resolving into final detection value
+- Teal accent lighting from monitor glow illuminates polished metal surfaces of detector housing
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- soft electronic clicking of photon counter incrementing, single confirmation tone at detection threshold
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 84: Trust — Deep [11:04–11:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Surrounding debris shell glowing amber and teal at edges, volumetric light scattering through ejected gas
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Gamma ray
+
+ACTIONS:
+- Magnetar core at supernova center: ultra-dense neutron star sphere (12 km diameter) rendered in electric violet and deep indigo, magnetic field lines emerging as luminous curved arcs from poles, twin gamma-ray beams ejecting outward in tight collimated cones, HDR core glow pulsing subtly
+- Surrounding debris shell glowing amber and teal at edges, volumetric light scattering through ejected gas
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- magnetic field crackling, gamma-ray beams whooshing
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 85: Trust — Deep [11:12–11:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Photorealistic NASA documentary aesthetic, HDR volumetric lighting highlights particle density variations within cone, anamorphic 2.39:1 framing isolates beam against deep space backdrop
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- gamma ray
+- supernova
+
+ACTIONS:
+- Gamma-ray emission cone visualization: narrow violet beam erupting from spinning magnetar core at frame center, beam rendered as volumetric particle stream with individual photon trails visible in 8K detail, magnetar surface glowing electric indigo with magnetic field lines arcing outward in teal accent bands
+- Photorealistic NASA documentary aesthetic, HDR volumetric lighting highlights particle density variations within cone, anamorphic 2.39:1 framing isolates beam against deep space backdrop
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- high-frequency electromagnetic crackling, magnetar surface metal stress groaning
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 86: Anticipation — Deep [11:20–11:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Photorealistic NASA documentary aesthetic, anamorphic 2.39:1 scope emphasizes horizontal array expanse, volumetric atmosphere adds depth haze between dishes
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Cherenkov Telescope Array
+- gamma-ray
+- gamma ray
+- supernova
+
+ACTIONS:
+- Cherenkov Telescope Array Observatory dish in foreground right, secondary dish mid-ground left, both angled skyward at 60-degree elevation, metallic surfaces catching cold amber starlight from Milky Way band overhead, individual mirror segments visible in 8K detail reflecting faint galaxy light, high-altitude plateau ground texture sharp in foreground, dramatic side lighting creates hard shadows on dish structures
+- Photorealistic NASA documentary aesthetic, anamorphic 2.39:1 scope emphasizes horizontal array expanse, volumetric atmosphere adds depth haze between dishes
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- telescope servo motors whirring, metal dish framework creaking in wind, hydraulic actuator hissing
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 87: Anticipation — Deep [11:28–11:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Single Cherenkov dish tracking across frame: hydraulic actuators rotating dish mount, reflective tessellated mirror surface catching faint starlight in amber and teal glints, shallow depth of field isolating dish from blurred array behind it
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Cherenkov Telescope Array
+- gamma-ray
+- gamma ray
+- supernova
+
+ACTIONS:
+- Single Cherenkov dish tracking across frame: hydraulic actuators rotating dish mount, reflective tessellated mirror surface catching faint starlight in amber and teal glints, shallow depth of field isolating dish from blurred array behind it
+- Actuator arm extends and locks into new position mid-frame
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- hydraulic actuators pumping, actuator arm locking with metallic clunk
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 88: Anticipation — Deep [11:36–11:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Supernova debris shell glowing amber and indigo at edges, faint host galaxy visible as diffuse backdrop
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Cherenkov Telescope Array
+- gamma-ray
+- gamma ray
+- supernova
+
+ACTIONS:
+- POV through Cherenkov telescope optical system: distant superluminous supernova coming into sharp focus at frame center, gamma-ray photons visualized as sharp violet-white light streaks converging radially toward supernova core, anamorphic lens flare streaking horizontally
+- Supernova debris shell glowing amber and indigo at edges, faint host galaxy visible as diffuse backdrop
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- telescope optics adjusting focus ring clicking, photon detectors pinging rapidly
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 89: Joy — Deep [11:44–11:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Isolated supernova burning alone against infinite black void, faint background stars scattered across frame emphasizing cosmic distance
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- supernova
+
+ACTIONS:
+- Single superluminous supernova blazing in vast star field, glowing brilliant white core surrounded by expanding violet and amber shell, subtle radial flares emanating outward
+- Isolated supernova burning alone against infinite black void, faint background stars scattered across frame emphasizing cosmic distance
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- high-frequency electromagnetic crackle
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 90: Trust — Payoff [11:52–12:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Focused workspace with soft warm light revealing data curves resolving into confirmation
+
+ACTIONS:
+- Printed gamma-ray spectrograph lying flat on illuminated desk, sharp peaks and valleys visible on graph, warm desk lamp casting golden glow across paper surface, scientist's hand entering frame to place fingertip on peak marker
+- Focused workspace with soft warm light revealing data curves resolving into confirmation
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- paper sliding on desk surface
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 91: Trust — Payoff [12:00–12:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Fermi Gamma-ray Space Telescope detector array in extreme detail, metallic hexagonal sensor grid with sequential LED indicators lighting blue-white in cascade pattern, chrome and titanium surfaces reflecting volumetric internal glow, intricate circuitry visible through transparent housing
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Space Telescope
+- Gamma-ray
+- gamma ray
+- supernova
+
+ACTIONS:
+- Fermi Gamma-ray Space Telescope detector array in extreme detail, metallic hexagonal sensor grid with sequential LED indicators lighting blue-white in cascade pattern, chrome and titanium surfaces reflecting volumetric internal glow, intricate circuitry visible through transparent housing
+- Precision scientific instrument revealing gamma-ray detection in real-time through illuminated sensor response
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- soft electronic beep sequence
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 92: Trust — Payoff [12:08–12:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Scientific visualization screen showing gamma-ray detection emergence with warm monitor glow illuminating surrounding desk edge
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Space Telescope
+- Gamma-ray
+- gamma ray
+- supernova
+
+ACTIONS:
+- Computer monitor displaying gamma-ray light curve graph, luminosity values plotting upward in bright green line against black grid, timestamp reading 'SN 2017egm Day 43–155' in corner, cursor tracking along rising curve
+- Scientific visualization screen showing gamma-ray detection emergence with warm monitor glow illuminating surrounding desk edge
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- keyboard key clicks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 93: Trust — Payoff [12:16–12:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm overhead lighting casts soft amber glow across console surface, volumetric light rays filtering through glass partition
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Space Telescope
+- Gamma-ray
+- gamma ray
+- supernova
+
+ACTIONS:
+- Fermi Space Telescope instrument panel display in NASA mission control, gamma-ray detector readout showing violet spike clusters between day 43 and day 155
+- Readout numbers resolve clearly on calibrated energy scale, cursor tracking peak timing
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- console button clicks, cooling fan whir, paper rustling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 94: Trust — Payoff [12:24–12:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm golden light spills across polished metal surfaces and circuit boards, creating gentle highlights on fiber optic cables
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Space Telescope
+- Gamma-ray
+- gamma ray
+- supernova
+
+ACTIONS:
+- Fermi Space Telescope instrument panel glowing softly in warm amber light, gamma-ray detector array visible with indicator LEDs pulsing steadily
+- Technical readout screen displays SN 2017egm designation and NGC 3191 coordinates, energy spectrum graph resolving in real-time with sharp emission peaks between day 43 and day 155
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- LED indicator clicks, cooling fan whir, relay switches engaging
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 95: Trust — Payoff [12:32–12:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Multi-screen montage showing convergent evidence streams under warm laboratory lighting with soft amber desk lamp glow
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Space Telescope
+- Gamma-ray
+- gamma ray
+- supernova
+
+ACTIONS:
+- Four computer monitors arranged in grid, each displaying different data visualization: gamma-ray spectrum with sharp peaks, light curve ascending exponentially, energy distribution histogram, magnetar signature waveform—all converging on central conclusion with synchronized green confirmation indicators lighting
+- Multi-screen montage showing convergent evidence streams under warm laboratory lighting with soft amber desk lamp glow
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- multiple monitor cooling fans
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 96: Trust — Payoff [12:40–12:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Hand hovering motionless over blank section of printed research paper, fountain pen held vertically just above empty white space, shallow depth of field isolating hand and pen tip, warm desk lamp light casting soft shadow, surrounding text visible but blurred
+
+ACTIONS:
+- Hand hovering motionless over blank section of printed research paper, fountain pen held vertically just above empty white space, shallow depth of field isolating hand and pen tip, warm desk lamp light casting soft shadow, surrounding text visible but blurred
+- Hesitant scholarly moment capturing unconfirmed hypothesis through suspended writing gesture
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- pen cap clicking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 97: Anticipation — Payoff [12:48–12:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm amber light dominates left, cool uncertain blue-gray on right, volumetric light rays separating the two halves
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- gamma-ray
+- supernova
+
+ACTIONS:
+- Split-screen frame dividing vertically: left half shows glowing magnetar model spinning with brilliant white-gold core and magnetic field lines radiating outward, right half displays dimmer competing theory diagrams (pair-instability cascade, circumstellar shell interaction) rendered as faint technical schematics
+- The magnetar side pulses with confident luminosity while alternate models flicker uncertainly
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- electrical hum intensifying, magnetic field crackling, data processor beeping
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 98: Anticipation — Payoff [12:56–13:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- gamma-ray
+- supernova
+
+ACTIONS:
+- Fermi Space Telescope gamma-ray detector readout screen filling frame, real-time spectral data cascading as glowing energy spikes in false-color green and violet, numeric values updating in HUD overlay, SN 2017egm identifier blinking in corner
+- One spike flatlines
+- Second spike emerges—unresolved question visualized as incomplete pattern
+
+CAMERA:
+Extreme Close-up | Static
+
+AUDIO:
+- Detector clicks increasing in tempo, single unresolved tone sustaining
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 99: Anticipation — Payoff [13:04–13:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Camera creeps along photon trajectory, then suddenly pulls back to reveal entire debris field with multiple potential gamma-ray sources glowing faintly in background, establishing uncertainty
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- gamma-ray
+- supernova
+
+ACTIONS:
+- Single gamma-ray burst piercing through supernova debris cloud, rendered as actual high-energy photon stream visualized in false-color ultraviolet and X-ray spectrum
+- Photon beam cuts diagonal across frame from lower left to upper right, debris particles scattering in its wake
+
+CAMERA:
+Medium | Zoom out
+
+AUDIO:
+- high-frequency photon impacts, debris particle collisions, energy discharge snaps
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 100: Anticipation — Payoff [13:12–13:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- gamma-ray
+- supernova
+
+ACTIONS:
+- Observatory dome silhouetted against dawn sky transitioning from deep indigo to warm amber at horizon, single rectangular viewport glowing faintly with electric blue light, building anticipation through stillness, volumetric atmospheric haze
+- Camera creeps forward, tightening composition as interior glow intensifies subtly
+
+CAMERA:
+Wide | Slow push-in
+
+AUDIO:
+- Distant dome motor hum, structural settling creak, morning wind over metal
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 101: Anticipation — Payoff [13:20–13:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- gamma-ray
+- supernova
+
+ACTIONS:
+- Observatory control station: multiple data screens displaying magnetar spin-down models, energy budget graphs with error bars, magnetic field strength simulations in false-color, volumetric screen glow illuminating surrounding instruments
+- Foreground monitor sharp, background telescope dome visible through window softly out of focus
+- Focus shifts to dome exterior
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- Keyboard key clicks, mouse scroll wheel ticks, monitor cooling fan whir
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 102: Trust — Payoff [13:28–13:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+A distant spiral galaxy 440 million light-years away hangs in deep space, rendered in cold sterile blues and whites against the cosmic void
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- galaxy
+
+ACTIONS:
+- A distant spiral galaxy 440 million light-years away hangs in deep space, rendered in cold sterile blues and whites against the cosmic void
+- A single pinpoint star near the galaxy's outer arm dims gradually from white to amber to dark, its light fading as stellar death begins
+
+CAMERA:
+Wide | Slow push-in
+
+AUDIO:
+- stellar wind particles impacting debris, distant hydrogen fusion fading, cosmic radiation static
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 103: Trust — Payoff [13:36–13:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Camera pushes slowly into expanding debris field, warm amber and molten orange glow overwhelming the icy blue background galaxy
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- galaxy
+
+ACTIONS:
+- Supernova explosion blooming in center of galaxy, outshining entire galactic core in HDR white-gold brilliance
+- Anamorphic lens flares streak horizontally across 2.39:1 frame as luminosity overwhelms sensor
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- plasma discharge rumble, shockwave expanding through gas, magnetic field lines tearing, energy release roar building
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 104: Trust — Payoff [13:44–13:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Anamorphic lens flares streak horizontally across frame
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- galaxy
+
+ACTIONS:
+- Very slow confirming push-in reveals the spinning magnetar core inside — a brilliant white-gold sphere with magnetic field lines radiating outward as luminous violet arcs
+- Energy pulses rhythmically from the core, illuminating the translucent debris shell from within
+
+CAMERA:
+Medium | Pan
+
+AUDIO:
+- rotating magnetar whir, plasma jet whoosh, energy discharge crackle
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 105: Trust — Payoff [13:52–14:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep space backdrop with distant galaxy faintly visible
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- galaxy
+
+ACTIONS:
+- Luminous supernova remnant at frame center, brilliantly glowing shell of expanding gas and plasma overwhelming the frame, outshining surrounding stars with sustained radiant intensity
+- The debris shell pulses with internal energy, layers of ejected stellar material still illuminated months after detonation, volumetric light rays streaming outward through thinning gas
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- plasma crackling, stellar material hissing
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 106: Trust — Payoff [14:00–14:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Scientist's hand scrolls through digital light curve data on holographic display, fingers tracing the luminosity peak with quiet confidence
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- supernova
+
+ACTIONS:
+- Archival composite image of superluminous supernova SN 2015bn resolving into focus, photorealistic NASA 8K HDR rendering, warm amber and orange hues illuminating stellar remnant cloud, volumetric light piercing through gas filaments
+- Anamorphic 2.39:1 frame emphasizing cosmic scale
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- holographic interface beeps, data scrolling clicks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 107: Trust — Payoff [14:08–14:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Each supernova entry color-coded by classification, magnitude values and redshift measurements clearly visible
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- supernova
+
+ACTIONS:
+- Digital astronomical database interface filling frame, rows of spectroscopic data scrolling slowly upward, light curve graphs overlaid in translucent layers, numerical values updating in real-time
+- Volumetric interface glow casting electric violet light, HDR preserving fine data density, anamorphic 2.39:1 aspect emphasizing horizontal data streams
+
+CAMERA:
+Extreme Close-up | Static
+
+AUDIO:
+- hard drive spinning, data beeps clicking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 108: Trust — Payoff [14:16–14:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Electric violet photon strike flashes at frame edge, HDR preserving subtle luminosity against deep indigo background, anamorphic lens flare bleeding horizontally
+
+ACTIONS:
+- Fermi Space Telescope's Gamma-ray Burst Monitor detector array, photorealistic NASA 8K macro, shallow depth of field isolating single sodium iodide crystal detector
+- Electric violet photon strike flashes at frame edge, HDR preserving subtle luminosity against deep indigo background, anamorphic lens flare bleeding horizontally
+
+CAMERA:
+Extreme Close-up | Static
+
+AUDIO:
+- detector circuit click, faint electromagnetic ping
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 109: Trust — Payoff [14:24–14:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm volumetric fog fills deep space, backlit debris field glowing golden-orange against indigo void, magnetar core pulsing steady violet in distant background, anamorphic lens flares streaking horizontal
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Gamma ray
+
+ACTIONS:
+- Gamma ray photon beams pierce through glowing debris field, thin wisps of stellar material parting as brilliant narrow columns of violet-white light cut through, shoulders relaxed, face open with gentle certainty
+- Light streams accelerate through thinning gas clouds, each beam carving a luminous path through orange and amber dust remnants
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- photon bursts crackling through debris particles, thin metallic pings of high-energy impacts
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 110: Trust — Payoff [14:32–14:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+ACTIONS:
+- Split-frame: left side shows fading orange supernova gradually dimming, right side displays spinning blue-white magnetar with glowing magnetic field lines spiraling outward
+- Rack focus shifts smoothly from left to right, revealing magnetar as true source
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- metallic hum transitioning to sharp electrical discharge
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 111: Trust — Payoff [14:40–14:43]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep indigo background fading to warm amber foreground
+
+ACTIONS:
+- Supernova debris field suspended in cosmic void, glowing from within with warm golden volumetric light, photorealistic NASA 8K HDR, 2.39:1 aspect emphasizing vast isolation
+- Magnetar core barely visible at center, pulsing faintly, casting god rays through particle clouds
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- debris tumbling impacts, distant magnetar pulse
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+════════════════════════════════════════════════════════════════
+[END SCENE PROMPTS]
+════════════════════════════════════════════════════════════════
