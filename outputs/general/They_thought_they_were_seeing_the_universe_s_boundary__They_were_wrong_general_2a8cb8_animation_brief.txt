@@ -1,0 +1,1890 @@
+════════════════════════════════════════════════════════════════
+[CHARACTERS Description]
+════════════════════════════════════════════════════════════════
+
+PROJECT: They_thought_they_were_seeing_the_universe_s_boundary__They_were_wrong
+
+RATIO: 16:9
+
+--------------------------------------------------
+STYLE (DETAILED - MANDATORY):
+
+- Style Directive: Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1
+
+- Medium: Live-action / Cinematic
+
+- Visual Style:
+  - Photorealistic textures with accurate material response
+  - Observational documentary framing — restrained and credible
+  - Cinematic composition with depth and motivated framing
+  - Anamorphic 2.39:1 framing language adapted to delivery ratio
+  - 8K capture-grade detail with deep blacks and clean highlights
+  - HDR contrast — preserved highlights, nuanced shadows
+
+- Character Design:
+  Semi-realistic figures
+
+- Materials & Textures:
+  [e.g. Flat colors only / Cel-shaded with soft shadow / Painterly with visible brushwork]
+
+- Lighting:
+  Volumetric lighting with visible light shafts
+
+- Color Palette:
+  [Define color roles — e.g. Red = danger, Yellow = energy, Blue = calm, Black outline for clarity]
+
+- Rendering Quality:
+  [e.g. Crisp, clean, high-definition / Slightly grainy retro / Hyper-smooth anime-style]
+
+- Motion Feel:
+  [e.g. Smooth action-driven / Bouncy exaggerated / Slow cinematic / Snappy cut-driven]
+
+- Overall Impression:
+  [One paragraph — what should viewers FEEL when watching? What is the visual "brand" of this project?]
+
+--------------------------------------------------
+TONE:
+[Overall emotional register — e.g. High tension, urgent, dramatic / Dark comedic, absurdist / Warm and nostalgic / Energetic and hype]
+[Detected dominant emotion (auto, for reference): Trust]
+
+--------------------------------------------------
+RENDERING RULES:
+
+- [Rule 1 — e.g. NO TEXT, NO LETTERS, NO SYMBOLIC WORDS in any scene]
+- [Rule 2 — e.g. Story must be conveyed entirely through visuals and expressions]
+- [Rule 3 — e.g. Each scene must have a clear visual conflict or action beat]
+- [Rule 4 — e.g. Only include characters explicitly required in each scene]
+- [Rule 5 — e.g. No background crowd, no unnecessary props]
+- [Add more rules as needed]
+
+--------------------------------------------------
+CHARACTERS (LOCKED):
+
+- Character 1: Titan
+  [Physical description — face shape, skin tone, eye style — fill in]
+  [Hair — color #HEX, length, style — fill in]
+  [Default outfit — top, bottom, shoes, accessories — fill in]
+  [Signature trait — what makes them instantly recognizable — fill in]
+  [Expression range — what emotions they show most — fill in]
+
+- Character 2: Europa
+  [Physical description — face shape, skin tone, eye style — fill in]
+  [Hair — color #HEX, length, style — fill in]
+  [Default outfit — top, bottom, shoes, accessories — fill in]
+  [Signature trait — what makes them instantly recognizable — fill in]
+  [Expression range — what emotions they show most — fill in]
+
+- [Add unnamed characters (narrator, crowd, etc.) here if needed]
+
+--------------------------------------------------
+ENVIRONMENT (GLOBAL):
+
+[Default background / world setting for the entire project]
+[e.g. Minimal clean background, soft gradient sky / Neon-lit urban rooftop / Pastel fantasy kingdom]
+[Note: individual scenes can override this with their own ENVIRONMENT field]
+
+[Detected scene environments (auto, for reference):]
+  - Infinite black void surrounding, distant stars pinprick sharp
+  - NASA Jet Propulsion Laboratory high bay, sterile white walls, soft overhead LED grids casting even shadowless illumination, sterile blue floor markings
+  - Surface tension holds perfect spherical form, single droplet isolated against sterile white backdrop
+  - Archival mission patch for Viking 1976 mounted in glass display case, edges slightly worn, NASA logo crisp under museum lighting
+  - White backdrop, single directional key light creates hard shadows rotating with model
+  - Warm 3800K lighting from overhead panels, clean professional NASA operations room background softly out of focus
+  - Deep space black, no other objects
+  - Continental coastlines sharp, water the undeniable visual focus
+  - Sterile lab environment with warm 3800K volumetric backlighting refracting through liquid, revealing suspended molecular structures
+  - Laboratory microscope with brass accents under soft 3800K lighting, slight camera shake suggesting tension
+  - Lighting transitions from cool 5600K fluorescent to warmer 4200K practical lamp
+  - Sterile laboratory environment with white counters and soft defocused glassware in background, flat even illumination reinforcing methodical order
+
+--------------------------------------------------
+GOAL:
+[Optional — one sentence stating the visual storytelling goal of the entire video]
+[e.g. "Make the audience feel the tension of nuclear deterrence without using any text or narration"]
+
+════════════════════════════════════════════════════════════════
+[END CHARACTERS Description]
+════════════════════════════════════════════════════════════════
+
+
+════════════════════════════════════════════════════════════════
+SCENE PROMPTS
+════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────
+🎬 SCENE 01: Trust — Hook [00:00–00:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Infinite black void surrounding, distant stars pinprick sharp
+
+ACTIONS:
+- Earth suspended in deep space void, surface detail sharp, blue oceans gleaming under sunlight, thin atmospheric edge glowing with volumetric light
+- Continents visible through scattered cloud formations, planet rotating almost imperceptibly
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- solar wind particles striking magnetosphere
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 02: Trust — Hook [00:08–00:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+NASA Jet Propulsion Laboratory high bay, sterile white walls, soft overhead LED grids casting even shadowless illumination, sterile blue floor markings
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- fifty years
+- Europa Clipper mission
+
+ACTIONS:
+- The Europa Clipper spacecraft suspended in clean room assembly bay, robotic arms poised mid-calibration, engineers' shoulders visible at frame edge showing calm methodical posture
+- The spacecraft's gold radar antenna rotating incrementally under test lights, solar arrays folded precisely against white titanium body
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- robotic arm servos whirring, metal clicks of calibration tools
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 03: Trust — Hook [00:16–00:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Surface tension holds perfect spherical form, single droplet isolated against sterile white backdrop
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- fifty years
+- Europa Clipper mission
+
+ACTIONS:
+- Water droplet suspended on transparent glass surface, backlit with clinical white light creating internal refraction patterns
+- Molecular hydrogen bonds visible as faint geometric lattice within droplet
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- glass surface vibrating at molecular frequency
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 04: Trust — Hook [00:24–00:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Archival mission patch for Viking 1976 mounted in glass display case, edges slightly worn, NASA logo crisp under museum lighting
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- fifty years
+- Europa Clipper mission
+
+ACTIONS:
+- Archival mission patch for Viking 1976 mounted in glass display case, edges slightly worn, NASA logo crisp under museum lighting
+- Camera inches forward as soft 3800K warm light reveals embroidered detail and faded fabric texture
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- glass case latch clicking open
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 05: Trust — Hook [00:32–00:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+White backdrop, single directional key light creates hard shadows rotating with model
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- fifty years
+- Europa Clipper mission
+
+ACTIONS:
+- Physical molecular model of H₂O, spheres representing oxygen and hydrogen atoms connected by rigid bonds
+- White backdrop, single directional key light creates hard shadows rotating with model
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- ball-and-stick joints clicking during rotation
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 06: Trust — Hook [00:40–00:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm 3800K lighting from overhead panels, clean professional NASA operations room background softly out of focus
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- When mission
+
+ACTIONS:
+- 3D orbital diagram resolving on mission control screen: concentric habitable zone rings illuminate in soft cyan around central star model, outermost ring pulsing gently
+- Camera pushes toward screen as zone boundaries sharpen into focus
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- computer keys tapping, mouse clicking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 07: Trust — Hook [00:48–00:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep space black, no other objects
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- When mission
+
+ACTIONS:
+- Exoplanet in foreground right third of frame, terminator line visible, golden warmth from parent star illuminating crescent edge
+- Planet positioned in habitable zone distance, star glowing warm yellow-white left background
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- stellar radiation flux oscillating
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 08: Trust — Hook [00:56–01:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Continental coastlines sharp, water the undeniable visual focus
+
+ACTIONS:
+- Earth from high orbit, blue oceans dominating 70% of visible hemisphere, white cloud systems swirling over Pacific
+- Sunlight glinting off ocean surface in HDR brilliance, atmospheric edge glowing with volumetric scattering
+
+CAMERA:
+Wide | Slow push-in
+
+AUDIO:
+- ocean surface waves resonating globally
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 09: Trust — Hook [01:04–01:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Sterile lab environment with warm 3800K volumetric backlighting refracting through liquid, revealing suspended molecular structures
+
+ACTIONS:
+- Laboratory beaker filled with amber methane liquid, soft condensation forming on glass surface
+- Precise pipette tip enters frame from above, dispensing single droplet that creates expanding ripple pattern
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- liquid droplet impact, glass contact resonance, subtle bubble formation
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 10: Trust — Hook [01:12–01:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Laboratory microscope with brass accents under soft 3800K lighting, slight camera shake suggesting tension
+
+ACTIONS:
+- Microscope slide adjustment mechanism in sharp focus, metal stage clips releasing and repositioning glass slide containing amber-tinted sample
+- Gloved hands making precise adjustments, warm amber tones entering cooler palette
+
+CAMERA:
+Close-up | Handheld
+
+AUDIO:
+- metal clip release, glass slide scraping stage, focusing knob rotation
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 11: Trust — Hook [01:20–01:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Lighting transitions from cool 5600K fluorescent to warmer 4200K practical lamp
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- fifty years
+
+ACTIONS:
+- Vintage astronomical star chart spread on backlit table, habitable zones marked in blue overlay
+- Gloved hand enters frame tracing arc with red grease pencil, crossing out regions methodically
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- paper rustling, grease pencil scratching paper, fingertip sliding across chart surface
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 12: Trust — Hook [01:28–01:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Sterile laboratory environment with white counters and soft defocused glassware in background, flat even illumination reinforcing methodical order
+
+ACTIONS:
+- Macro 3D molecular model of H₂O rotating on laboratory pedestal under clinical white lighting, each atom rendered in translucent glass with covalent bonds glowing faintly
+- Precise controlled rotation reveals oxygen nucleus and hydrogen bonds from multiple angles
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- glass beads rotating on metal turntable
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 13: Trust — Hook [01:36–01:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Sterile lab bench, soft three-point lighting
+
+ACTIONS:
+- Laboratory beaker in soft focus background, sharp focus pulls to glass pipette tip dispensing clear liquid creating volumetric light refraction
+- Single droplet forms, elongates, and falls in extreme slow motion through 3800K warm backlight creating prismatic color separation
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- pipette plunger depression, liquid dispensing through narrow bore, droplet separating and falling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 14: Trust — Hook [01:44–01:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Methodical scientific arrangement, sharp shadows defining circular dish edges
+
+ACTIONS:
+- Array of petri dishes on laboratory bench illuminated by cool 5200K top-down LED panel
+- Each dish contains different colored bacterial cultures forming distinct colony patterns
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- petri dish placement on bench surface, plastic lid slight rattle, dish sliding into position
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 15: Trust — Build Up [01:52–02:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Laboratory environment with monitor as primary light source casting cool 4800K glow
+
+ACTIONS:
+- 3D molecular animation on laboratory monitor showing hydrogen bond network forming between water molecules
+- Screen displays atoms connecting in rapid succession, cool blue bonds appearing between molecular structures
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- computer processing fan, keyboard key depression, monitor static electricity discharge
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 16: Trust — Build Up [02:00–02:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Array of laboratory glassware on backlit shelf creating dramatic side-lighting and sharp shadows
+
+ACTIONS:
+- Array of laboratory glassware on backlit shelf creating dramatic side-lighting and sharp shadows
+- Beakers, Erlenmeyer flasks, and graduated cylinders filled with clear liquids at varying levels
+
+CAMERA:
+Medium | Tracking
+
+AUDIO:
+- glass resonance from environmental vibration, liquid subtle sloshing, shelf slight creaking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 17: Trust — Build Up [02:08–02:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clinical laboratory environment, cool fluorescent overhead creating stark shadows, sterile white countertop stretching into soft focus background
+
+ACTIONS:
+- Single laboratory beaker filled with clear water on sterile white surface, shoulders squared in deliberate stillness
+- Beaker sits centered under even overhead lighting, liquid perfectly still
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- liquid settling in glass beaker
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 18: Trust — Build Up [02:16–02:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Molecular-scale void environment, cool blue dominant lighting with amber accent on bond site, deep black negative space emphasizing isolation
+
+ACTIONS:
+- Water molecule approaching phosphate bond of RNA strand, molecular structure rendered in translucent blue and white against black void, bond glowing faintly amber
+- Water molecule contacts bond site, bond begins to fracture visibly
+
+CAMERA:
+Extreme Close-up | Static
+
+AUDIO:
+- crystalline bond fracturing, faint molecular vibration
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 19: Trust — Build Up [02:24–02:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clinical laboratory environment, steel blue lighting with cool 3800K cast, glass surface reflecting fracturing bonds
+
+ACTIONS:
+- Macro view of RNA molecular structure suspended in water droplet, phosphate bonds visibly fragmenting under ultraviolet backlight, molecules drifting apart in slow motion
+- Clinical laboratory environment, steel blue lighting with cool 3800K cast, glass surface reflecting fracturing bonds
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- glass cracking, water droplets hitting metal surface
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 20: Trust — Build Up [02:32–02:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Laboratory bench environment, cool UV blue backlight from below, harsh fluorescent overhead creating dual-source contrast, deep shadows emphasizing molecular detail
+
+ACTIONS:
+- Nucleoside phosphate molecular model on glass slide, rendered in white and blue polymers, phosphate groups glowing faintly under UV blacklight, structure intact outside water
+- Molecular model rests motionless on sterile glass under controlled lighting
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- glass slide shifting on bench surface
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 21: Trust — Build Up [02:40–02:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Sterile laboratory desktop, white LED strip light creating stark side contrast, cool blue-white color temperature, black negative space right frame
+
+ACTIONS:
+- RNA double helix model in transparent acrylic, positioned vertically under harsh white LED strip from left, casting sharp shadow right, molecular backbone detail visible in crisp focus
+- Helix stands motionless, every phosphate bond and base pair rendered in clinical precision
+
+CAMERA:
+Macro | Static
+
+AUDIO:
+- LED strip buzzing faintly
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 22: Trust — Build Up [02:48–02:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clean modern lab space with natural wood accents, warm sunlight creating gentle shadows across polished surfaces
+
+ACTIONS:
+- Laboratory bench bathed in warm golden afternoon light streaming through tall windows, soft amber glow illuminating glassware
+- Scientist's hands carefully pipetting clear liquid into beaker, steady controlled movement showing methodical precision
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- pipette clicking, liquid dripping into glass beaker
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 23: Trust — Build Up [02:56–03:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Aged wooden laboratory desk surface, brass lamp casting focused pool of light
+
+ACTIONS:
+- Split-frame composition: left side shows water molecule model in motion under warm 3800K desk lamp, right side displays vintage origin-of-life research paper with hand-drawn molecular diagrams, pages turning mechanically
+- Both truths occupy frame simultaneously, neither dominating
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- paper pages turning, pen scratching on parchment
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 24: Trust — Build Up [03:04–03:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep space environment, cool blue dominant from ocean coverage, stark black void surrounding, distant stars as faint pinpoints, clinical sterile vastness
+
+ACTIONS:
+- Earth suspended in deep space, Pacific Ocean dominating frame center, swirling white cloud systems over blue water, sunlight edge-lighting atmospheric rim, planet centered against star field
+- Earth hangs motionless, oceans and continents in crisp detail, atmosphere glowing faintly at terminator
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- distant orbital thruster pulse, faint satellite signal beep
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 25: Trust — Build Up [03:12–03:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep library shadows frame scene, rich wood grain visible in 8K detail
+
+ACTIONS:
+- Stacked leather-bound journals and aged papers rest on polished mahogany desk, spines embossed with gold lettering, pages yellowed at edges
+- Camera inches closer as overhead practical lamp casts warm pool of light across archival documents
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- paper rustling against fabric
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 26: Trust — Build Up [03:20–03:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+amber-lit beaker of liquid methane snaps into sharp focus as camera completes slow dolly-in, warm 3800K glow spreading across frame
+
+ACTIONS:
+- Foreground: out-of-focus cryogenic lab equipment in cool steel blue
+- Background: amber-lit beaker of liquid methane snaps into sharp focus as camera completes slow dolly-in, warm 3800K glow spreading across frame
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- glass beaker settling on metal lab bench, liquid methane faint bubbling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 27: Trust — Build Up [03:28–03:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Volumetric god rays pierce through glass, illuminating interior equipment in silhouette
+
+ACTIONS:
+- University of Hawaii campus building exterior at golden hour, warm amber light spilling through tall laboratory windows against cool evening sky
+- Modernist architecture with clean lines, palm fronds visible at frame edge
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- wind through palm leaves, distant door closing
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 28: Trust — Build Up [03:36–03:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Harsh fluorescent overhead light creates stark shadows, cool steely blue color palette dominates
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 263 degrees
+- Keck Research Laboratory
+
+ACTIONS:
+- Stainless steel cryogenic chamber door seal releases visible vapor plume in ultra-slow motion, frost crystals forming along gasket edge
+- LED temperature display shows -263°C in sharp cyan digits, adjacent pressure gauge needle rests at near-vacuum
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- pressurized gas hissing, metal valve clicking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 29: Trust — Build Up [03:44–03:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+No people, no lab context—just the phenomenon itself
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 263 degrees
+- Keck Research Laboratory
+
+ACTIONS:
+- Single droplet of liquid methane forming on underside of frosted glass surface, amber backlight glowing through translucent fluid
+- High-speed capture resolves molecular surface tension as droplet grows, refracts light, and slowly detaches in perfect spherical form
+
+CAMERA:
+Macro | Static
+
+AUDIO:
+- droplet detaching and impacting glass surface below, faint liquid methane trickling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 30: Trust — Build Up [03:52–04:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The space is clean, sterile, and bathed in warm 3800K lighting that casts gentle highlights across polished metal surfaces
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 263 degrees
+- Keck Research Laboratory
+
+ACTIONS:
+- Inside the W
+- M
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- ventilation hum cycling, electronic beep from thermometer, faint metallic creak of chamber settling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 31: Trust — Build Up [04:00–04:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm 3800K lighting creates amber glow through liquid medium, volumetric particulate matter suspended between forming crystals
+
+ACTIONS:
+- Complex carboxylic acid molecules crystallizing in methane solution, golden practical backlight illuminating translucent organic structures forming in real-time
+- Camera holds static as molecular lattices grow, branch, and interconnect—no people, no apparatus framing, just the chemistry itself
+
+CAMERA:
+Macro | Static
+
+AUDIO:
+- crystallization faint crackling, liquid methane subtle bubbling, molecular bonds forming faint high-frequency resonance
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 32: Trust — Build Up [04:08–04:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+No people, no lab context—just the molecular dance itself
+
+ACTIONS:
+- Molecular bonds forming in solution, camera slowly racks focus through multiple liquid layers—foreground bonds blur as background structures snap sharp
+- Reverse
+- Volumetric particulate matter drifts through amber-lit methane, catching backlight glow as organic compounds assemble
+
+CAMERA:
+Extreme Close-up | Static
+
+AUDIO:
+- molecular bonds forming faint ultrasonic clicks, liquid layers subtle convection flow, solution faint viscous movement
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 33: Trust — Build Up [04:16–04:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm golden laboratory light filtering through frozen sample chamber, refracting through crystalline edges
+
+ACTIONS:
+- Translucent ice crystal matrix suspended in frame, backlit by soft amber glow, internal molecular structures visible as delicate geometric lattices
+- Complex carboxylic acid molecules forming spontaneously within ice grain boundaries, rendered as glowing organic chains assembling piece by piece
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- ice cracking softly, liquid nitrogen hissing, sample stage mechanical hum
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 34: Trust — Build Up [04:24–04:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- million years
+
+ACTIONS:
+- Star field time-lapse showing subtle stellar drift over geological time, deep space blacks transitioning through midnight blue to warm amber at frame edges
+- Distant nebulae pulse faintly with stellar birth cycles
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- deep space rumble, distant stellar wind
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 35: Surprise — Build Up [04:32–04:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+ACTIONS:
+- Leiden University laboratory cryogenic chamber exterior, warm amber practicals glowing through viewport windows against cool steel blue chamber walls
+- Inside viewport: simulated space ice sample under UV bombardment, molecular tracers fluorescing green-gold
+
+CAMERA:
+Medium | Crane
+
+AUDIO:
+- cryogenic pump hum, control panel beep sequence
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 36: Surprise — Build Up [04:40–04:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+ACTIONS:
+- Molecular cloud nebula cross-section, organic molecule clusters glowing amber-gold suspended in swirling blue-violet gas
+- Camera reveals increasing density and complexity of molecular structures as it pulls back, transitioning from cool blues at molecular scale to warm amber-orange at nebula scale
+
+CAMERA:
+Medium | Crane
+
+AUDIO:
+- nebula gas flow, molecular collision pings
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 37: Surprise — Build Up [04:48–04:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+ACTIONS:
+- Organic molecules embedded in ice particles glow faintly amber against deep space black, illuminated by distant starlight
+- Volumetric god rays pierce dust lanes, revealing three-dimensional molecular distribution
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- dust grain impacts, distant stellar wind whisper
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 38: Trust — Deep [04:56–05:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+ACTIONS:
+- Protoplanetary disk surrounding young star, rich amber-orange accretion glow illuminating swirling dust and gas
+- No planetary bodies formed yet—only chaotic disk material in Keplerian rotation
+
+CAMERA:
+Wide | Orbit
+
+AUDIO:
+- accretion disk roar, stellar wind howl
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 39: Trust — Deep [05:04–05:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Rack focus shifts from foreground molecules to background star formation, showing temporal sequence
+
+ACTIONS:
+- Molecular structures float in nebula foreground—amino acids and carboxylic acids glowing amber-gold, sharply focused
+- Background slowly comes into focus: stellar nursery with protostars forming in pillars of hydrogen gas, warm orange-pink emission nebula
+
+CAMERA:
+Medium | Zoom out
+
+AUDIO:
+- molecular vibration hum, distant stellar ignition rumble
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 40: Trust — Deep [05:12–05:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep space blacks with scattered stars visible through data layers
+
+ACTIONS:
+- Multiple translucent data visualization layers superimposed over deep space star field: spectroscopic molecular signatures, ice grain analysis graphs, reaction pathway diagrams
+- Cool steel blue data overlays transition to warm amber-gold as convergent patterns align and intersect at frame center
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- data processing clicks, harmonic convergence tone
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 41: Trust — Deep [05:20–05:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The vial is labeled with handwritten chemical formula, droplets condensing on the glass exterior
+
+ACTIONS:
+- Laboratory bench surface under cool fluorescent lighting, gloved hands positioning a small glass vial containing clear formamide liquid onto a metal tray
+- The vial is labeled with handwritten chemical formula, droplets condensing on the glass exterior
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- glass vial tapping metal tray, liquid sloshing inside container
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 42: Trust — Deep [05:28–05:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Shallow depth-of-field isolates vial against blurred lab shelf backdrop
+
+ACTIONS:
+- Glass vial filled with liquid formamide backlit by amber-teal gradient, condensation droplets forming on exterior surface in real-time, refracting light into micro-prisms
+- Liquid interior shows faint Brownian motion shimmer
+
+CAMERA:
+Macro | Slow push-in
+
+AUDIO:
+- glass vial placed gently on metal lab surface, faint liquid settling inside container
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 43: Trust — Deep [05:36–05:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clean white laboratory interior, stainless steel surfaces reflecting warm overhead lights, calm atmosphere of methodical discovery
+
+ACTIONS:
+- Laboratory bench under soft volumetric lighting, glass vials containing pale amber formamide solution in foreground, shoulders relaxed, hands gently adjusting sample rack with methodical confidence
+- Researcher carefully pipettes formamide into quartz cuvette under 3700K teal-accented LED array, movement precise and unhurried
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- pipette clicking, glass vial touching metal rack, liquid dripping into container
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 44: Trust — Deep [05:44–05:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Equipment arranged on Formica lab bench, dated cable management
+
+ACTIONS:
+- 1990s-era laboratory equipment—bulky cathode-ray monitor, analog oscilloscope with green phosphor display, beige desktop computer tower with floppy drive slot visible
+- Desaturated color palette, slight film grain overlay, fluorescent tube lighting casting flat illumination
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- CRT monitor high-frequency whine, mechanical hard drive seeking data, faint cooling fan spinning inside computer case
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 45: Trust — Deep [05:52–06:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep space black void background
+
+ACTIONS:
+- Formamide molecular structure visualization at atomic scale—electron clouds rendered as translucent volumetric particle effects surrounding nucleus cores
+- Nitrogen atom (blue), carbon (gray), oxygen (red), hydrogen (white) glow with subtle internal luminescence
+
+CAMERA:
+Macro | Static
+
+AUDIO:
+- subtle electromagnetic resonance tone (conceptual atomic vibration), faint crackling of molecular bond formation
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 46: Trust — Deep [06:00–06:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cool clinical lighting, teal accent highlights on paper edges
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- twenty years
+
+ACTIONS:
+- Research papers stacking in time-lapse (2018 Wisconsin-Madison title visible, 2025 Hawaii, 2026 Leiden), microscope slides layering atop one another with faint click, data graphs overlaying on translucent screens—bar charts, spectroscopy peaks, molecular diagrams
+- Each layer adds cumulative visual weight
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- paper sheets stacking on desk, glass slides clicking together, pen tapping against clipboard, printer ejecting pages
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 47: Trust — Deep [06:08–06:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep space backdrop, distant star field providing 3700K teal accent illumination, volumetric light scattering through ice crystals
+
+ACTIONS:
+- Icy comet nucleus surface — cratered water-ice terrain — glows faintly with embedded organic compounds under distant starlight, no atmosphere
+- Crystalline formamide and complex precursor molecules luminesce in ultraviolet wavelengths across frozen regolith, forming web-like chemical networks
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- Micrometeorite impacts on ice surface, faint crystalline structure cracking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 48: Trust — Deep [06:16–06:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Ethereal blue-white lighting, cosmic scale
+
+ACTIONS:
+- Protoplanetary disk in formation stage—swirling gas and dust in spiral arms around nascent star (off-frame, glow from left)
+- Within ice grains suspended in disk: molecular assembly occurring—amino acids linking into peptide chains, nucleotides forming, visible as faint bioluminescent teal tracers threading through ice particles
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- low-frequency gravitational rumble (subsonic resonance), ice grains colliding softly, faint molecular bonding clicks (stylized as ice crackling)
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 49: Trust — Deep [06:24–06:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Sterile museum environment with teal-accented LED strip lighting along case edges, deep blacks surrounding the specimen, authoritative presentation reinforcing scientific credibility
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Rosetta mission
+
+ACTIONS:
+- Murchison meteorite fragment rests in archival museum display case, surface texture illuminated by dramatic side lighting revealing crystalline inclusions and organic-rich veins
+- The fragment sits motionless, its pitted surface catching volumetric light rays that reveal depth and geological history
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- glass case lock clicking open
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 50: Trust — Deep [06:32–06:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cool teal accent lighting from neighboring screens casts subtle glow on the primary display, sterile tech environment with deep blacks and clinical precision
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Rosetta mission
+
+ACTIONS:
+- Rosetta spacecraft instrument panel readout displaying real-time mass spectrometry data, phosphorus peak resolving on screen as digital waveform
+- The monitor sits mounted in mission control environment, surrounded by other diagnostic displays showing orbital telemetry and comet surface imaging
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- monitor panel ventilation fan whirring, data processing beeps
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 51: Trust — Deep [06:40–06:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Sterile lab environment with teal-accented ring light reflected in polished sample surface
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Rosetta mission
+
+ACTIONS:
+- Meteorite cross-section under polarized light microscopy reveals rainbow interference patterns as organic inclusions become visible in crystalline matrix
+- Focus pulls from foreground mineral grains into mid-depth organic-rich zones
+- Toward background crystalline structures, creating layered visual depth
+
+CAMERA:
+Macro | Static
+
+AUDIO:
+- microscope stage adjustment knob clicking, lens element rotating
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 52: Anticipation — Deep [06:48–06:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Softly lit control room with warm 3300K amber glow, volumetric light rays cutting through floating projections
+
+ACTIONS:
+- Illuminated holographic star map rotating in warm amber light, constellation markers and planetary orbits glowing softly in golden projection
+- Camera glides closer as cursor hovers over unexplored sectors, data labels flickering into view
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- mouse click on touchscreen, soft electronic chime of selection, faint whir of projection servo motor
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 53: Trust — Deep [06:56–07:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep space black background, sterile data visualization aesthetic, authoritative Bloomberg-style presentation reinforcing water-centric search parameters
+
+ACTIONS:
+- Habitable zone diagram overlaid on star system schematic, Earth-analog planet highlighted in blue water tones positioned within green Goldilocks zone band
+- Graphic elements resolve with clinical precision—concentric orbital rings, temperature gradient bars, spectral classification labels appearing in teal-accented UI elements
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- data interface tones chiming, UI element appearing with soft beep
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 54: Trust — Deep [07:04–07:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Steely blues dominate Europa panel, Mars rust-orange, Enceladus brilliant white—all backlit with clinical 3700K teal accent lighting
+
+ACTIONS:
+- Split-screen mosaic: left third shows Mars Valles Marineris canyon system with ancient riverbed channels carved into rust-red terrain
+- Center third displays Europa's cracked ice shell cross-section revealing subsurface ocean beneath, teal-blue water layer glowing under thin crust
+- Right third frames Enceladus south pole with white plumes of water ice erupting upward into black space
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- subtle crackle of ice fracturing, faint hiss of geyser vapor
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 55: Trust — Deep [07:12–07:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Sterile lab environment with teal-accented LED work light, clinical whites and cool blues dominating palette, reinforcing water's continued scientific relevance
+
+ACTIONS:
+- Laboratory pipette dispenses single water droplet in extreme slow motion, droplet suspended mid-fall toward pristine petri dish below, surface tension creating perfect sphere
+- Crystalline clarity reveals internal light refraction, volumetric backlighting creates halo effect around droplet
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- pipette plunger mechanism clicking, droplet impacting glass surface
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 56: Trust — Deep [07:20–07:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Sterile lab environment, teal accent lighting separating the two halves, volumetric depth in ice crystal structures
+
+ACTIONS:
+- Left half: water-based amino acid synthesis in glass beaker, clear liquid with subtle convection currents
+- Right half: formamide ice crystal lattice under cryogenic conditions, frost patterns forming molecular scaffolds
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- cryogenic chamber pressure valve hissing, liquid nitrogen boiling off
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 57: Trust — Deep [07:28–07:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+ACTIONS:
+- Wide-angle view of a luminous star map projection showing dozens of candidate worlds—icy moons, exoplanets, and methane-rich bodies—scattered across the frame, each tagged with faint orbital data overlays
+- The map glows with warm amber and teal accents against a soft gradient background, authoritative Bloomberg-style lighting at 3700K
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- holographic display powering on, projection lens clicking into focus
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 58: Trust — Deep [07:36–07:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+8K HDR, authoritative teal accent (3700K), NASA documentary aesthetic, deep space blacks contrasting warm amber moon
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 179 degrees
+
+ACTIONS:
+- Anamorphic 2.39:1 framing of Titan suspended in Saturn's rings, backlit by distant sun, volumetric orange atmospheric glow diffusing through thick haze
+- Surface temperature readout overlay resolves: -179°C in crisp white sans-serif
+
+CAMERA:
+Wide | Slow push-in
+
+AUDIO:
+- faint spacecraft thruster pulse, metallic creak of orbital mechanics
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 59: Trust — Deep [07:44–07:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Volumetric lighting reveals suspended organic particles, 8K HDR captures texture gradients in amber and deep teal (3700K)
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 179 degrees
+
+ACTIONS:
+- Anamorphic 2.39:1 close-up of Titan's surface: liquid methane lake rippling under minus-179°C conditions, slow-motion methane rain droplets falling through thick orange photochemical haze
+- Volumetric lighting reveals suspended organic particles, 8K HDR captures texture gradients in amber and deep teal (3700K)
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- slow liquid drip into methane pool, faint atmospheric crackle
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 60: Trust — Deep [07:52–08:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+clean gradient with faint orbital trajectory graphics
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- The Dragonfly mission
+
+ACTIONS:
+- Close view of the Dragonfly rotorcraft model mounted on a display stand, its rotor blades and landing struts rendered in photorealistic detail under authoritative Bloomberg-style lighting at 3700K with teal accents
+- The craft's reflective surfaces catch volumetric light, and mission insignia are visible on the fuselage
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- metal panel settling on exhibition stand, plastic seal breaking on protective case
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 61: Trust — Deep [08:00–08:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Authoritative teal accent (3700K), NASA documentary realism, no spacecraft or human elements—pure atmospheric phenomenon
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- The Dragonfly mission
+
+ACTIONS:
+- Anamorphic 2.39:1 establishing view through Titan's thick nitrogen atmosphere, volumetric layers of orange photochemical haze illuminated by diffuse sunlight
+- Suspended organic particles drifting downward in slow motion, 8K HDR captures gradient from deep amber at horizon to lighter ochre overhead
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- soft atmospheric wind, distant nitrogen gas flow
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 62: Trust — Deep [08:08–08:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Authoritative teal accent (3700K), NASA documentary photorealistic aesthetic, no laboratory context—pure molecular-scale chemistry
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- The Dragonfly mission
+
+ACTIONS:
+- Anamorphic 2.39:1 extreme close-up of individual hydrocarbon molecules in amber methane solvent, backlit warm volumetric glow
+- Rack focus from foreground molecular cluster to background suspended tholins, 8K HDR, shallow depth of field isolates carbon-rich chain structures
+
+CAMERA:
+Macro | Static
+
+AUDIO:
+- faint molecular bond vibration, liquid methane flow
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 63: Trust — Deep [08:16–08:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The surface stretches into soft-focus distance, composed of water-ice bedrock dusted with carbon-rich sediment, under a thick nitrogen sky glowing pale orange-gold
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- The Dragonfly mission
+
+ACTIONS:
+- The Dragonfly rotorcraft lander rests on Titan's amber-tinted surface, its eight rotors still, body angled slightly forward in quiet readiness
+- Organic haze particles drift lazily downward, settling on the lander's solar panels and structural frame, accumulating like fine snow
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- rotor blade ticking as it cools, dust particles pattering softly on metal hull
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 64: Trust — Deep [08:24–08:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+8K HDR, volumetric lighting (3700K teal accent), NASA documentary aesthetic, sterile lab environment
+
+ACTIONS:
+- Anamorphic 2.39:1 extreme close-up of laboratory cryogenic chamber flask containing amber liquid methane analog, minus-179°C temperature indicator visible on chamber wall
+- Rack focus from foreground condensation forming on glass to background molecular diagram reflection in liquid surface
+
+CAMERA:
+Macro | Slow push-in
+
+AUDIO:
+- cryogenic chamber cooling hiss, faint liquid nitrogen vapor release
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 65: Trust — Deep [08:32–08:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Laboratory apparatus centered—transparent reaction vessels side by side under volumetric lighting, steely blue left, amber right
+
+ACTIONS:
+- Split-screen composition: left panel shows molecular assembly in liquid water with glowing hydrogen bonds forming
+- Right panel shows identical molecular assembly in liquid methane with orange-tinted bonds
+- Both pathways illuminate simultaneously with bioluminescent glow
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- glass vessels bubbling, liquid dripping into beakers
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 66: Trust — Deep [08:40–08:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cool volumetric light rakes across the translucent projection, casting structured shadows on polished console below
+
+ACTIONS:
+- Holographic planetary display interface floating in clean modernist mission control, rotating roster of celestial bodies—Titan highlighted in teal accent light
+- Fading as Europa, Enceladus, and distant exoplanets cycle into prominence
+- Data tags update beside each world, status indicators shifting from amber to teal
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- soft mechanical click of holographic interface cycling, faint electronic chime
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 67: Trust — Deep [08:48–08:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Bright star field backdrop, warm volumetric glow from Earth's atmosphere wrapping around the telescope body
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Roman Space Telescope
+- galaxy
+
+ACTIONS:
+- The Roman Space Telescope floating in Earth orbit, solar panels extended, Earth's bright blue curve visible below, golden sunlight glinting off mirror surfaces
+- The telescope rotates gently, revealing its wide-field infrared camera array
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- mechanical servo hum, solar panel deployment click
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 68: Trust — Deep [08:56–09:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+HDR luminance emphasizes temperature gradient from orange core to blue-white surface ice
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Roman Space Telescope
+- galaxy
+
+ACTIONS:
+- Rogue planet core glowing molten orange beneath layered icy crust—cutaway view reveals internal structure
+- Core radiates heat upward through convection layers visible as shimmering thermal currents
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- deep rumbling core rotation, ice sheets grinding
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 69: Trust — Deep [09:04–09:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Organic particulates drift through water illuminated by volumetric light shafts
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Roman Space Telescope
+- galaxy
+
+ACTIONS:
+- Subsurface liquid water beneath translucent ice shell, lit by faint internal bioluminescent glow from chemosynthetic reactions
+- Convection currents visible as shimmering thermal plumes rising through water column
+
+CAMERA:
+Macro | Static
+
+AUDIO:
+- water flowing through subsurface channels, thermal vents hissing
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 70: Trust — Deep [09:12–09:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Foreground: faint silhouette of Roman Space Telescope's mirror edge, out of focus, framing the galactic vista
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Roman Space Telescope
+- galaxy
+
+ACTIONS:
+- Spiral galaxy rendered in volumetric 8K HDR, thousands of rogue planets depicted as faint infrared signatures scattered throughout spiral arms—each a tiny teal pinpoint against swirling nebula dust
+- Camera holds completely still as the galaxy rotates imperceptibly, revealing density of rogue worlds far outnumbering illuminated star systems
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- low frequency radio telescope data sonification, faint digital chirps mapping detected worlds
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 71: Trust — Deep [09:20–09:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Authoritative Bloomberg-style lighting, 3700K teal accent
+
+ACTIONS:
+- Narrow teal habitable zone ring around single star expands outward into vast sphere encompassing diverse worlds—rogue planets, icy moons, radiation-bathed bodies
+- Camera pulls back revealing scale as sphere grows to fill galaxy map
+
+CAMERA:
+Medium | Zoom out
+
+AUDIO:
+- digital interface beeps, holographic map expanding
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 72: Trust — Deep [09:28–09:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Steely blue lighting, clinical atmosphere
+
+ACTIONS:
+- Transparent laboratory flask contains prebiotic molecular building blocks suspended in solution—amino acids, nucleotides, lipids—each glowing faintly with bioluminescent markers
+- Molecules drift slowly but do not assemble further
+- They remain suspended in Brownian motion
+
+CAMERA:
+Macro | Static
+
+AUDIO:
+- solution bubbling gently, glass flask tapping on lab bench
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 73: Trust — Deep [09:36–09:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Sterile lab environment, cool 3700K teal-accented fluorescent overhead lighting casting precise shadows
+
+ACTIONS:
+- Empty laboratory bench with scattered molecular model components — simple amino acids on left, complex protein structure on right, wide gap between them
+- Clean professional posture, hands resting deliberately apart
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- glass vial clicking on metal surface
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 74: Trust — Deep [09:44–09:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clinical laboratory backdrop with stainless steel surfaces out of focus
+
+ACTIONS:
+- Extreme macro on single water droplet suspended in cryogenic chamber, backlit with volumetric HDR refraction revealing microscopic cellular structures floating inside
+- Subject centered, isolated, calm containment posture
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- liquid nitrogen hissing softly
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 75: Trust — Payoff [09:52–10:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clean minimalist lab environment, warm amber glow transitioning from clinical cool
+
+ACTIONS:
+- Laboratory whiteboard with single chalk question mark glowing under warm 4000K practical light, surrounded by erased equations and crossed-out formulas
+- Calm contemplative framing, no human presence, allowing empty space to speak
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- chalk dust settling on floor
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 76: Anticipation — Payoff [10:00–10:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep space volumetric light through nebulae
+
+ACTIONS:
+- Camera creeps on frozen chemical compounds embedded in ice
+- Rapid 180-degree pull reveals multiple moons and planetary bodies illuminated simultaneously — Europa's icy cracks, Titan's methane lakes, distant exoplanets glowing amber and teal
+- Equal compositional weight, no hierarchy
+
+CAMERA:
+Wide | Zoom out
+
+AUDIO:
+- ice fracturing sharply, debris scattering
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 77: Trust — Payoff [10:08–10:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm 4000K final lighting with volumetric light rays through liquid mediums
+
+ACTIONS:
+- Split-screen anamorphic composition: left frame shows Europa's subsurface ocean with bioluminescent chemosynthetic vents glowing blue, right frame shows Titan's amber methane lakes with organic haze
+- Camera tracks parallel into both environments simultaneously, equal narrative weight
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- sonar ping echoing underwater, methane bubbles popping
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 78: Trust — Payoff [10:16–10:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clean modern laboratory environment with soft depth of field, stainless steel workbenches and precision equipment visible in background bokeh
+
+ACTIONS:
+- Glass laboratory vials containing amber organic compounds rest on a polished metal surface, camera moving steadily closer to reveal molecular structures suspended in solution
+- The vials catch warm overhead lighting, refracting golden hues through transparent liquid
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- vial gently tapping glass surface
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 79: Trust — Payoff [10:24–10:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Laboratory glassware edges bokeh in background
+
+ACTIONS:
+- Amino acid precursors crystallizing inside liquid methane chamber, time-lapse compression showing nucleobase structures forming from formamide solution
+- Backlit warm 4200K amber volumetric light refracting through chemical medium, HDR captures prismatic edges and luminance gradients
+
+CAMERA:
+Macro | Slow push-in
+
+AUDIO:
+- spectrometer beeping rhythmically, liquid dripping slowly
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 80: Trust — Payoff [10:32–10:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clean laboratory containment vessel edges barely visible
+
+ACTIONS:
+- Complex organic molecules — nucleobases and carboxylic acids — suspended in glowing amber methane solution, faintly luminescent from internal chemical bonds
+- HDR captures molecular detail and light refraction, volumetric rays passing through liquid medium
+
+CAMERA:
+Macro | Static
+
+AUDIO:
+- magnetic stirrer rotating smoothly, gas bubbles rising gently
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 81: Trust — Payoff [10:40–10:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Laboratory environment bathed in warm 4000K backlight, volumetric rays piercing through vapor
+
+ACTIONS:
+- Glass vial containing amber prebiotic solution suspended in cryogenic chamber, delicate ice crystals forming along edges
+- Molecular structures glowing faintly within frozen matrix, carboxylic acid chains visible as luminous threads
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- ice crackling softly, liquid nitrogen hissing
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 82: Trust — Payoff [10:48–10:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clean laboratory bench bathed in warm golden spotlight, center frame empty and undisturbed
+
+ACTIONS:
+- Clean laboratory bench bathed in warm golden spotlight, center frame empty and undisturbed
+- Polished surface reflects soft overhead illumination, edges fade into gentle shadows
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- glass beaker gently settling on wooden surface
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 83: Trust — Payoff [10:56–11:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Shallow depth-of-field isolates subject against blurred laboratory background
+
+ACTIONS:
+- Single droplet of liquid methane suspended on precision needle tip, surface tension holding perfect sphere
+- Cool edge-lighting reveals rainbow refraction patterns across droplet surface
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- precision syringe clicking, droplet forming slowly
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 84: Trust — Payoff [11:04–11:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Right frame: beaker of liquid methane with identical lighting and framing
+
+ACTIONS:
+- Left frame: beaker of water with gentle convection currents visible
+- Right frame: beaker of liquid methane with identical lighting and framing
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- glass beakers settling on surface, liquid gently sloshing
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 85: Trust — Payoff [11:12–11:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Shallow depth-of-field reveals additional pages with unresolved calculations
+
+ACTIONS:
+- Open research journal with handwritten chemical equations and molecular diagrams spread across laboratory desk
+- Question mark notation circled in red ink, pen resting beside page
+
+CAMERA:
+Medium | Tilt
+
+AUDIO:
+- pen rolling on paper, pages rustling softly
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 86: Trust — Payoff [11:20–11:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Archive display of historical space mission patches mounted on wall: Viking, Cassini, Mars rovers, Europa missions
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- fifty years
+
+ACTIONS:
+- Archive display of historical space mission patches mounted on wall: Viking, Cassini, Mars rovers, Europa missions
+- Cool blue museum lighting, chronological arrangement spanning decades
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- footsteps echoing on polished floor, display case latching
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 87: Trust — Payoff [11:28–11:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Institutional fluorescent lighting casts sterile blue-white wash over monitors, each screen showing water-world targets—frozen surfaces, suspected subsurface oceans, spectral water signatures
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- fifty years
+
+ACTIONS:
+- Wall-mounted monitors displaying archival Mars rover imagery, Europa ice imagery, mission patch timeline spanning five decades
+- Institutional fluorescent lighting casts sterile blue-white wash over monitors, each screen showing water-world targets—frozen surfaces, suspected subsurface oceans, spectral water signatures
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- low fluorescent tube buzz, distant HVAC airflow
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 88: Trust — Payoff [11:36–11:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Earth's oceans from space, sunlight glinting off Pacific surface creating brilliant reflection path
+
+ACTIONS:
+- Earth's oceans from space, sunlight glinting off Pacific surface creating brilliant reflection path
+- Cloud formations drifting slowly over deep blue water masses
+
+CAMERA:
+Medium | Orbit
+
+AUDIO:
+- satellite transmission static crackling, orbital mechanism clicking softly
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 89: Trust — Payoff [11:44–11:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Laboratory bench warm under tungsten practicals, shallow depth of field isolating the beaker against soft bokeh
+
+ACTIONS:
+- Amber liquid in glass beaker, organic molecules forming chain visible through backlit glow, molecular bonds clicking into place one by one
+- Laboratory bench warm under tungsten practicals, shallow depth of field isolating the beaker against soft bokeh
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- glass beaker settling on bench, faint liquid settling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 90: Trust — Payoff [11:52–12:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Rich saturated colors transition from amber to deep space purples and blacks
+
+ACTIONS:
+- Titan's orange surface with methane lake reflecting hazy atmosphere, camera rises and pulls back exponentially revealing Saturn's rings
+- Jupiter's moons as tiny dots
+- Star field expanding into frame until Titan becomes invisible speck
+
+CAMERA:
+Wide | Crane
+
+AUDIO:
+- none
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 91: Trust — Payoff [12:00–12:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Extreme wide orbital, slow drift through interstellar void
+
+ACTIONS:
+- Frozen ice grains tumbling in zero gravity, catching stray photons from distant stars, molecular structures assembling on grain surfaces under cosmic radiation glow
+- Deep blacks punctuated by scattered starlight, ice grains reflecting violet and blue hues as they rotate
+
+CAMERA:
+Wide | Orbit
+
+AUDIO:
+- none
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 92: Anticipation — Payoff [12:08–12:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Camera suddenly pulls back revealing laboratory wall covered in periodic table, molecular diagrams, and star charts, recontextualizing the two samples as equal candidates
+
+ACTIONS:
+- Scientist's hand enters frame placing second slide labeled 'Methane' beside it, both backlit through microscope stage
+- Camera suddenly pulls back revealing laboratory wall covered in periodic table, molecular diagrams, and star charts, recontextualizing the two samples as equal candidates
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- glass slide placed on surface, pen tapping glass
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 93: Surprise — Payoff [12:16–12:19]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Camera drifts backward revealing layer after layer of chemical abundance, molecular structures glowing faintly against cosmic backdrop, infinite depth
+
+ACTIONS:
+- Swirling nebula field filling frame with rich purples, deep golds, glowing organic compound tracers suspended throughout gas clouds like luminous spiderwebs
+- Camera drifts backward revealing layer after layer of chemical abundance, molecular structures glowing faintly against cosmic backdrop, infinite depth
+
+CAMERA:
+Wide | Crane
+
+AUDIO:
+- none
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+════════════════════════════════════════════════════════════════
+[END SCENE PROMPTS]
+════════════════════════════════════════════════════════════════
