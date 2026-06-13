@@ -1,0 +1,2004 @@
+════════════════════════════════════════════════════════════════
+[CHARACTERS Description]
+════════════════════════════════════════════════════════════════
+
+PROJECT: They_thought_they_were_seeing_the_universe_s_boundary__They_were_wrong
+
+RATIO: 16:9
+
+--------------------------------------------------
+STYLE (DETAILED - MANDATORY):
+
+- Style Directive: Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1
+
+- Medium: Live-action / Cinematic
+
+- Visual Style:
+  - Photorealistic textures with accurate material response
+  - Observational documentary framing — restrained and credible
+  - Cinematic composition with depth and motivated framing
+  - Anamorphic 2.39:1 framing language adapted to delivery ratio
+  - 8K capture-grade detail with deep blacks and clean highlights
+  - HDR contrast — preserved highlights, nuanced shadows
+
+- Character Design:
+  Semi-realistic figures
+
+- Materials & Textures:
+  [e.g. Flat colors only / Cel-shaded with soft shadow / Painterly with visible brushwork]
+
+- Lighting:
+  Volumetric lighting with visible light shafts
+
+- Color Palette:
+  [Define color roles — e.g. Red = danger, Yellow = energy, Blue = calm, Black outline for clarity]
+
+- Rendering Quality:
+  [e.g. Crisp, clean, high-definition / Slightly grainy retro / Hyper-smooth anime-style]
+
+- Motion Feel:
+  [e.g. Smooth action-driven / Bouncy exaggerated / Slow cinematic / Snappy cut-driven]
+
+- Overall Impression:
+  [One paragraph — what should viewers FEEL when watching? What is the visual "brand" of this project?]
+
+--------------------------------------------------
+TONE:
+[Overall emotional register — e.g. High tension, urgent, dramatic / Dark comedic, absurdist / Warm and nostalgic / Energetic and hype]
+[Detected dominant emotion (auto, for reference): Trust]
+
+--------------------------------------------------
+RENDERING RULES:
+
+- [Rule 1 — e.g. NO TEXT, NO LETTERS, NO SYMBOLIC WORDS in any scene]
+- [Rule 2 — e.g. Story must be conveyed entirely through visuals and expressions]
+- [Rule 3 — e.g. Each scene must have a clear visual conflict or action beat]
+- [Rule 4 — e.g. Only include characters explicitly required in each scene]
+- [Rule 5 — e.g. No background crowd, no unnecessary props]
+- [Add more rules as needed]
+
+--------------------------------------------------
+CHARACTERS (LOCKED):
+
+- Character 1: Milky Way
+  [Physical description — face shape, skin tone, eye style — fill in]
+  [Hair — color #HEX, length, style — fill in]
+  [Default outfit — top, bottom, shoes, accessories — fill in]
+  [Signature trait — what makes them instantly recognizable — fill in]
+  [Expression range — what emotions they show most — fill in]
+
+- Character 2: Cosmic Explorer
+  [Physical description — face shape, skin tone, eye style — fill in]
+  [Hair — color #HEX, length, style — fill in]
+  [Default outfit — top, bottom, shoes, accessories — fill in]
+  [Signature trait — what makes them instantly recognizable — fill in]
+  [Expression range — what emotions they show most — fill in]
+
+- Character 3: Hanford
+  [Physical description — face shape, skin tone, eye style — fill in]
+  [Hair — color #HEX, length, style — fill in]
+  [Default outfit — top, bottom, shoes, accessories — fill in]
+  [Signature trait — what makes them instantly recognizable — fill in]
+  [Expression range — what emotions they show most — fill in]
+
+- Character 4: Livingston
+  [Physical description — face shape, skin tone, eye style — fill in]
+  [Hair — color #HEX, length, style — fill in]
+  [Default outfit — top, bottom, shoes, accessories — fill in]
+  [Signature trait — what makes them instantly recognizable — fill in]
+  [Expression range — what emotions they show most — fill in]
+
+- Character 5: Virgo
+  [Physical description — face shape, skin tone, eye style — fill in]
+  [Hair — color #HEX, length, style — fill in]
+  [Default outfit — top, bottom, shoes, accessories — fill in]
+  [Signature trait — what makes them instantly recognizable — fill in]
+  [Expression range — what emotions they show most — fill in]
+
+- [Add unnamed characters (narrator, crowd, etc.) here if needed]
+
+--------------------------------------------------
+ENVIRONMENT (GLOBAL):
+
+[Default background / world setting for the entire project]
+[e.g. Minimal clean background, soft gradient sky / Neon-lit urban rooftop / Pastel fantasy kingdom]
+[Note: individual scenes can override this with their own ENVIRONMENT field]
+
+[Detected scene environments (auto, for reference):]
+  - LIGO Hanford detector arm stretching into dawn horizon, steel lattice gleaming under soft golden light, morning mist rising from desert floor
+  - Steel blues and cool grays persist, the beam itself a faint crimson thread in the volumetric fog
+  - Mist rises from swamp water, anamorphic flare warmer and softer
+  - 8K particle simulation rendering spacetime curvature as visible grid deformation
+  - Camera holds wide on ripple expansion, volumetric lighting revealing wave structure
+  - The binary system rotates, accretion disk glowing faint orange against deep navy void, mass transferring between the two objects
+  - Warm 3800K key light on the holographic display, soft fill on surrounding clean lab table
+  - Volumetric monitor glow illuminating steel blue workspace, amber text resolving line by line
+  - Clean observatory control room bathed in warm 3800K indirect lighting, amber indicator LEDs creating subtle bokeh in background
+  - Physical printout of GWTC-5 catalog laid flat on illuminated lab table, pages fanning open revealing dense columns of detection timestamps and coordinates, human hand placing final page completing the document
+  - Shadows fall sharply across the table surface
+  - Steel-blue data center, HDR highlights on polished metal surfaces, shallow depth of field isolating active equipment zone
+
+--------------------------------------------------
+GOAL:
+[Optional — one sentence stating the visual storytelling goal of the entire video]
+[e.g. "Make the audience feel the tension of nuclear deterrence without using any text or narration"]
+
+════════════════════════════════════════════════════════════════
+[END CHARACTERS Description]
+════════════════════════════════════════════════════════════════
+
+
+════════════════════════════════════════════════════════════════
+SCENE PROMPTS
+════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────
+🎬 SCENE 01: Trust — Hook [00:00–00:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+LIGO Hanford detector arm stretching into dawn horizon, steel lattice gleaming under soft golden light, morning mist rising from desert floor
+
+ACTIONS:
+- LIGO Hanford detector arm stretching into dawn horizon, steel lattice gleaming under soft golden light, morning mist rising from desert floor
+- Camera glides toward the beam tube junction where two 4-kilometer arms meet, precision engineering bathed in warm 3800K glow
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- metal stress creaking from thermal expansion, faint hydraulic valve release
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 02: Trust — Hook [00:08–00:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Steel blues and cool grays persist, the beam itself a faint crimson thread in the volumetric fog
+
+ACTIONS:
+- Interior of LIGO's vacuum tube, laser beam visible through volumetric haze, camera tracking the beam path forward
+- The coherent light travels through suspended mirrors, each surface catching subtle reflections, posture steady and unwavering
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- low-frequency vibration isolation system cycling, glass resonance from suspended optics
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 03: Trust — Hook [00:16–00:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Mist rises from swamp water, anamorphic flare warmer and softer
+
+ACTIONS:
+- The LIGO Livingston facility emerges from Louisiana wetlands, slightly warmer light than Hanford, dawn breaking over cypress trees
+- The detector arm extends into frame, matching the geometry of Hanford but with golden amber creeping into the edges of the frame
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- distant birdcall filtering through dawn, faint metallic creak of detector framework
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 04: Trust — Hook [00:24–00:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+8K particle simulation rendering spacetime curvature as visible grid deformation
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 29 times
+- 1.3 billion years
+- black hole
+
+ACTIONS:
+- Two luminous spheres spiraling inward against deep space navy void, orbital decay visible through motion blur trails
+- Spheres sized 36:29 ratio, volumetric gravitational lensing distorting starfield behind
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- low-frequency gravitational wave chirp rising in pitch, cosmic rumble
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 05: Trust — Hook [00:32–00:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Camera holds wide on ripple expansion, volumetric lighting revealing wave structure
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 29 times
+- 1.3 billion years
+- black hole
+
+ACTIONS:
+- Collision flash: spheres merge in HDR bloom, single unified black hole forming, spacetime ripple expanding outward through volumetric grid
+- Gravitational wave propagating as visible distortion, concentric rings spreading through deep space navy
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- sharp impact burst, deep bass resonance decay, spacetime ringing down
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 06: Trust — Hook [00:40–00:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The binary system rotates, accretion disk glowing faint orange against deep navy void, mass transferring between the two objects
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 29 times
+- 1.3 billion years
+- black hole
+
+ACTIONS:
+- Two black hole event horizons spiral inward, gravitational lensing warping background starfield into luminous arcs
+- The binary system rotates, accretion disk glowing faint orange against deep navy void, mass transferring between the two objects
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- deep sub-bass gravitational wave chirp rising in frequency, data stream clicking rapidly
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 07: Trust — Hook [00:48–00:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm 3800K key light on the holographic display, soft fill on surrounding clean lab table
+
+ACTIONS:
+- Three illuminated observatory domes positioned on world map hologram, fiber-optic network lines pulsing between LIGO Hanford, LIGO Livingston, Virgo Italy, glowing nodes marking detector sites
+- Camera pushes toward the cluster as '390' materializes in elegant sans-serif typography overlaying the network
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- fiber optic cable click connecting, electronic relay switch engaging
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 08: Trust — Hook [00:56–01:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Volumetric monitor glow illuminating steel blue workspace, amber text resolving line by line
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- eleven years
+
+ACTIONS:
+- Computer monitor displaying GWTC-5 catalog interface, scrolling list of detection entries from GW150914 to GW250115
+- Screen readout posture: data accumulating, catalog growing incrementally
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- keyboard typing, mouse clicking, monitor pixel refresh buzz
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 09: Trust — Hook [01:04–01:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clean observatory control room bathed in warm 3800K indirect lighting, amber indicator LEDs creating subtle bokeh in background
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- eleven years
+
+ACTIONS:
+- Large digital display showing '390' in crisp white numerals against deep navy interface, smaller counter '161' glowing amber beneath it
+- Display mounted on polished brushed aluminum console, soft reflections of distant starfield visible in screen glass
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- soft electronic beep sequence, gentle keyboard click, faint cooling fan hum
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 10: Trust — Hook [01:12–01:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Physical printout of GWTC-5 catalog laid flat on illuminated lab table, pages fanning open revealing dense columns of detection timestamps and coordinates, human hand placing final page completing the document
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- eleven years
+
+ACTIONS:
+- Physical printout of GWTC-5 catalog laid flat on illuminated lab table, pages fanning open revealing dense columns of detection timestamps and coordinates, human hand placing final page completing the document
+- Soft 3-point lighting casts gentle shadows across paper texture, warm 3800K glow highlights printed data rows
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- paper pages fanning, sheet sliding on table surface, pen cap click
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 11: Trust — Hook [01:20–01:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Shadows fall sharply across the table surface
+
+ACTIONS:
+- A printed physical chart lies flat on a glass table, illuminated by a single overhead spotlight
+- The chart shows a histogram of 390 gravitational-wave events, grouped by detection year — bars rising from 1 in 2015 to 161 in 2024–2025
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- paper rustling, pen cap clicking, marker tip squeaking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 12: Trust — Hook [01:28–01:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Steel-blue data center, HDR highlights on polished metal surfaces, shallow depth of field isolating active equipment zone
+
+ACTIONS:
+- Server rack tower with blinking green status LEDs in vertical columns, fiber optic cables glowing amber at connection points, liquid cooling tubes visible with condensation droplets
+- Hands check physical cable connections methodically, shoulders squared showing professional composure
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- server fan blade rotation, network switch packet clicks, cooling pump circulation whoosh
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 13: Trust — Hook [01:36–01:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cool blue ambient lighting, monitor glow casting soft highlights, volumetric light shafts through ceiling vents
+
+ACTIONS:
+- LIGO Livingston control room interior, five workstations in curved arrangement, multiple 4K monitors displaying live interferometer status, seismic noise graphs, and detector lock state
+- Three operators at stations, shoulders relaxed, hands resting on keyboards, postures conveying collaborative calm
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- multiple keyboard typing overlapped, air conditioning vent rush, printer paper feed mechanism
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 14: Trust — Build Up [01:44–01:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep space navy background, golden amber accretion disk glow, HDR particle effects on ejecta spray
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- neutron star
+- black hole
+
+ACTIONS:
+- Binary neutron star collision simulation rendering in real-time, two dense spheres spiraling inward on curved spacetime grid, tidal deformation increasing as orbit tightens, gravitational wave amplitude peaking at merger
+- Forearms rest on desk edge, hands clasped loosely showing confident stillness
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- simulation calculation processing buzz, cooling fan acceleration, hard drive seek clicking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 15: Trust — Build Up [01:52–02:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Twilight-gray control room, soft monitor backlight, shallow depth isolating active display
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- neutron star
+- black hole
+
+ACTIONS:
+- Waveform spectrogram display showing 390 detection events as vertical bands across time axis, frequency-mass correlation color-coded from steel blue (low mass) to golden amber (high mass)
+- Scientist's hands adjust frequency filter sliders on touchscreen, fingers moving deliberately, wrist posture showing controlled precision
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- touchscreen interface tap sequence, audio chirp playback at 16x speed, workstation fan whir
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 16: Trust — Build Up [02:00–02:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Split-screen composition: left half shows single golden waveform on black (GW150914, September 2015 timestamp visible), right half displays 9x18 grid of tiny waveforms densely packed, each cell a unique detection signature from April 2024-January 2025 period labeled at top
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- nine months
+
+ACTIONS:
+- Split-screen composition: left half shows single golden waveform on black (GW150914, September 2015 timestamp visible), right half displays 9x18 grid of tiny waveforms densely packed, each cell a unique detection signature from April 2024-January 2025 period labeled at top
+- Consistent even lighting, 3800K neutral tone, minimal color grading
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- data cell click repeating, digital chirp sequence cascading, grid populate whoosh
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 17: Trust — Build Up [02:08–02:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The timeline stretches into soft focus toward the horizon, suggesting exponential growth
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- nine months
+
+ACTIONS:
+- A vast digital timeline wall in warm golden light — steel and glass surface displaying "2015: 1 detection" transitioning smoothly to "2026: 161 detections in 9 months." Numbers materialize sequentially in glowing amber numerals
+- The wall spans the frame, bathed in even 3800K tungsten glow, each new detection appearing as a small bright point that fades into the grid
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- digital counter ticking softly, mechanical relay clicks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 18: Trust — Build Up [02:16–02:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The scene conveys maturation and permanence — infrastructure built to listen to the universe
+
+ACTIONS:
+- LIGO Hanford Observatory at golden hour — the 4km detector arm stretches across high desert landscape, pointing toward a twilight sky transitioning from amber to deep navy
+- The facility's white structures glow warmly in 3800K light, clean geometric lines against natural terrain
+
+CAMERA:
+Wide | Crane
+
+AUDIO:
+- wind brushing metal surfaces, distant bird call
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 19: Trust — Build Up [02:24–02:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary aesthetic, 8K HDR, warm tungsten 3800K light with blue-hour window glow in background
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- black hole
+
+ACTIONS:
+- A printed catalog page under task light, entry 'GW250114' highlighted in amber, surrounded by waveform amplitude graphs and residual plots
+- The page lies flat on a polished wood desk, edges crisp, annotation marks in careful pen strokes along the margin
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- pen scratching paper margin, page corner lifted and released
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 20: Trust — Build Up [02:32–02:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Volumetric particle fields trace the waveform's geometry, suggesting spacetime itself bending
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- black hole
+
+ACTIONS:
+- The GW250114 waveform resolves on a high-resolution display — a dramatic strain amplitude spike rendered in luminous golden curves against deep navy space
+- The signal peak towers above baseline noise, its shape unmistakable: two black holes spiraling inward
+
+CAMERA:
+Extreme Close-up | Orbit
+
+AUDIO:
+- data stream clicking rhythmically, single sharp tone marking peak detection
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 21: Trust — Build Up [02:40–02:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Steel-blue control room reflected in monitor glass, single desk lamp providing warm key light on screen edge, cool ambient from ceiling panels, volumetric dust particles in lamp beam
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- black hole
+
+ACTIONS:
+- High-resolution monitor displaying GW250114 waveform amplitude graph, vertical axis stretching beyond screen top edge, peak values rendered in crisp 8K detail with HDR highlight bloom
+- Graph line traces perfect merger chirp pattern, shoulders square and aligned, eyes would track rising amplitude with methodical precision
+
+CAMERA:
+Close-up | Zoom out
+
+AUDIO:
+- cooling fan spinning, hard drive reading data in short bursts
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 22: Trust — Build Up [02:48–02:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Rack focus pulls from map detail to a telescope dome model visible in soft background bokeh
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- twelve times
+
+ACTIONS:
+- A printed sky localization contour map on drafting table under bright task light, six-square-degree patch outlined in precise red ink, two overlapping full-moon silhouettes drawn to scale for comparison
+- The map surface is matte, posture flat and technical, expression is cartographic precision
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- printer paper sheet feed, pen cap click
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 23: Trust — Build Up [02:56–03:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary aesthetic, 8K HDR, deep space navy background with amber highlights
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- black hole
+
+ACTIONS:
+- Three concentric waveform rings expanding outward on black background, each ring a different frequency overtone rendered in layered amber-to-steel-blue gradient
+- The rings pulse gently, posture is harmonic and mathematically ordered, expression is vibrational structure made visible
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- tuning fork strike with sustained resonance, low-frequency oscillator tone layering in
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 24: Trust — Build Up [03:04–03:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Continuation of three-tone waveform visualization, camera advancing toward the central frequency peak where all three overtones intersect
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- black hole
+
+ACTIONS:
+- Continuation of three-tone waveform visualization, camera advancing toward the central frequency peak where all three overtones intersect
+- The intersection point glows brightest, posture is convergent and resolving, expression is measurement depth and harmonic structure
+
+CAMERA:
+Extreme Close-up | Slow push-in
+
+AUDIO:
+- low-frequency oscillator tone decaying, spectrum analyzer sweep
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 25: Trust — Build Up [03:12–03:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Laboratory environment bathed in warm 3800K light, clean surfaces reflecting data streams
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- black hole
+
+ACTIONS:
+- Black hole visualization on holographic display — three distinct waveform peaks glowing in amber, golden light casting on scientist's focused face
+- Scientist's hand enters frame, index finger extends to trace the middle peak with precision
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- finger tapping glass screen, holographic interface soft beep
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 26: Trust — Build Up [03:20–03:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- black hole
+
+ACTIONS:
+- CGI black hole merger in deep space: two event horizons coalesce into one, three concentric gravitational waves radiate outward through star-filled void in slow motion
+- Waves shimmer with violet-blue Doppler shift
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- deep space rumble, gravitational wave whoosh
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 27: Trust — Build Up [03:28–03:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clinical laboratory lighting, steel blue walls
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- galaxy
+- Black hole
+
+ACTIONS:
+- Large wall-mounted histogram chart filling frame: 390 glowing cyan data points accumulating in real-time against black grid, clustering visibly around 30 solar mass mark
+- Points materialize sequentially, scatter plot resolving into pattern
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- data point beep sequence, hard drive click
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 28: Trust — Build Up [03:36–03:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clean laboratory screen environment, steel blue interface light, golden amber accent on peak region, consistent even illumination
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- galaxy
+- Black hole
+
+ACTIONS:
+- Mass distribution chart on screen: 390 data points clustering visibly around 30 solar masses, density peak forming in real time as points accumulate
+- Hands folded calmly, posture upright and engaged, expression focused with slight head tilt
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- hard drive read-write clicks, data processing beeps
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 29: Trust — Build Up [03:44–03:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+blurred monitor showing same data digitally
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- galaxy
+- Black hole
+
+ACTIONS:
+- Foreground: printed mass distribution chart on desk, hand-drawn circle around 30 solar mass cluster
+- Background: blurred monitor showing same data digitally
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- paper rustle, pen scratch on paper
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 30: Trust — Build Up [03:52–04:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Volumetric projector casts amber and navy light upward, shadows soft, environment clean and focused
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- galaxy
+- Black hole
+
+ACTIONS:
+- Three scientists around table, shoulders angled inward, hands gesturing toward overlapping mass distribution plots projected as volumetric hologram above table surface
+- Collaborative posture, heads tilted together, fingers pointing at specific data clusters
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- paper shuffle, pen tap on glass surface
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 31: Trust — Build Up [04:00–04:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Laboratory desk surface with faint shadows
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- galaxy
+- Black hole
+
+ACTIONS:
+- Hands marking threshold line on printed mass chart at 2.5 solar masses with highlighter, wrist steady, fingers precise
+- Chart shows cluster of 390 points above line, vast empty space below threshold
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- highlighter squeak on paper, pen scratch
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 32: Trust — Build Up [04:08–04:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Steel blue interface background, golden amber accent on cluster, red outlier glowing
+
+ACTIONS:
+- Mass distribution chart on screen: 390 data points densely clustered above 2.5 solar masses in navy blue, one isolated red point sitting alone below threshold in vast empty region
+- Hand enters frame from right, index finger extended, circling the outlier point slowly
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- pen circling on paper, single mouse click
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 33: Trust — Build Up [04:16–04:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Softly lit control room, cool steel-blue ambient glow from surrounding monitors, clean workspace
+
+ACTIONS:
+- Screen display showing single circled data point labeled 'M < 1 M☉' in red ink on white paper, scientist's hand resting beside it, fingers slightly curled in quiet confidence
+- Hand gently taps the circled value once, emphasizing its isolation
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- pen cap click, paper rustle
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 34: Trust — Build Up [04:24–04:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Ambient control room, cool twilight gray with golden accent from desk lamp, clean modern workspace
+
+ACTIONS:
+- Journal article PDF on large monitor: header reads 'Magaraggia et al
+- 2025' above waveform diagram labeled 'S251112cm', cursor hovering over event designation
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- mouse click, screen tap
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 35: Trust — Build Up [04:32–04:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Below the line: empty space
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- neutron star
+- black hole
+
+ACTIONS:
+- Animated mass histogram resolves on screen: vertical axis labeled 'Count', horizontal axis 'M/M☉'
+- Data points populate rapidly above 2.5 solar masses in clustered columns
+- The 2.5 threshold line appears in glowing amber, bisecting the frame
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- graphing calculator beep
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 36: Trust — Build Up [04:40–04:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Background gradient shifts from cool twilight blue to deep space navy
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- neutron star
+- black hole
+
+ACTIONS:
+- Same histogram chart, now fully populated: 389 blue data points stacked above 2.5 M☉ line, forming dense columns
+- Subtle grid lines highlight the clustering
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- mouse scroll wheel click
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 37: Trust — Deep [04:48–04:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary, 8K HDR, volumetric lighting, anamorphic lens 2.39:1, 24fps, 16:9
+
+ACTIONS:
+- Histogram chart persists
+- A single red data point materializes below the 2.5 M☉ threshold, labeled 'S251112cm' in small white sans-serif text
+- The point glows softly against the empty lower quadrant, isolated
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- alert notification chime
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 38: Trust — Deep [04:56–05:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Screen positioned in warm-lit NASA control environment, subtle amber desk lamp illuminating frame edge, conveying quiet authority and scientific milestone
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- black hole
+
+ACTIONS:
+- Digital display showing 'M < 1 M☉' in sharp white text against deep space backdrop, faint gravitational lensing ring visible around central coordinate point
+- Text glows softly with clinical precision
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- keyboard spacebar single press
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 39: Trust — Deep [05:04–05:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cool steel-blue and deep space navy palette, distant starfield backdrop, volumetric lighting through ejected stellar material
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- black hole
+
+ACTIONS:
+- CGI stellar core collapse sequence: massive star implodes, core compresses, but collapse halts—no event horizon forms, only a neutron star remains, glowing faintly
+- Mass scale overlay fades in: 'M > 2.5 M☉ required'
+- Red 'X' appears over sub-solar region
+
+CAMERA:
+Wide | Zoom out
+
+AUDIO:
+- stellar wind whoosh, collapse rumble
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 40: Trust — Deep [05:12–05:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+No stars, no galaxies — pure primordial spacetime geometry
+
+ACTIONS:
+- Early-universe simulation: quantum foam texture fills frame, violet and indigo fluctuations rippling across fractal density variations
+- Inflationary epoch energy field glows softly, causal horizons forming and dissolving
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- synthesized quantum fluctuation
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 41: Trust — Deep [05:20–05:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The black hole's event horizon is mathematically precise, edges sharply defined, warping the fabric around it into a visible curvature
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- black hole
+
+ACTIONS:
+- A primordial black hole rendered as a compact gravitational singularity surrounded by distorted spacetime grid, glowing faintly in deep ultraviolet against the cosmic microwave background plasma of the early universe, density fluctuations rippling outward in slow-motion relativistic waves
+- The black hole's event horizon is mathematically precise, edges sharply defined, warping the fabric around it into a visible curvature
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- spacetime fabric tearing, quantum fluctuation crackling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 42: Trust — Deep [05:28–05:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+8K anamorphic bokeh, volumetric god rays
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- black hole
+
+ACTIONS:
+- Volumetric particle field — swirling plasma in navy, amber, gray
+- Particles condense center, forming high-density region collapsing inward, gravitational lens distortion
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- particle collision sounds, gravitational rumble
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 43: Trust — Deep [05:36–05:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep navy background warming to amber in high-density zones, teal volumetric lighting edges
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- black hole
+
+ACTIONS:
+- Continuation of particle simulation with density fluctuations intensifying, brighter clusters forming asymmetric patterns
+- Camera subtly tracks leftward as particles swirl into proto-singularity regions
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- plasma crackling intensifying, density waves compressing
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 44: Trust — Deep [05:44–05:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary aesthetic, 8K HDR, volumetric lighting, anamorphic lens 2.39:1
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- black hole
+
+ACTIONS:
+- Particle simulation collapses into singular bright point at center frame, volumetric light rays burst radially outward in HDR bloom
+- Fade gradually to black
+- Final collapse leaves glowing remnant singularity suspended in void
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- plasma implosion burst, light rays dispersing
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 45: Trust — Deep [05:52–06:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary aesthetic, 8K HDR, volumetric lighting, anamorphic lens 2.39:1
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- black hole
+
+ACTIONS:
+- Handwritten TOV equation on paper in foreground sharp focus, researcher's hand enters frame from right holding pen, underlines primordial exception note beneath equation
+- Teal desk lamp illuminates paper, steel blue shadows on hand
+
+CAMERA:
+Close-up | Static
+
+AUDIO:
+- pen scratching paper, desk lamp buzzing faintly
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 46: Trust — Deep [06:00–06:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary aesthetic, 8K HDR, volumetric lighting, anamorphic lens 2.39:1
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- black hole
+
+ACTIONS:
+- Digital mass spectrum chart on monitor displaying sub-solar mass region highlighted, cursor hovering over 0.5 solar mass data point
+- Chart reflects in eyeglass lenses in lower frame edge
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- keyboard clicking, mouse scrolling, monitor fan whirring
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 47: Trust — Deep [06:08–06:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm amber and soft gold tones dominate, evoking trust and cosmic origin
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- black hole
+
+ACTIONS:
+- A primordial black hole rendered as a radiant spherical distortion in spacetime fabric, golden and amber light bending around its event horizon, photorealistic gravitational lensing effect visible
+- The black hole hovers against a pre-stellar void, no stars yet formed, luminous gas clouds swirling in the deep background suggesting early cosmic density fluctuations
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- distant low-frequency rumble of spacetime warping
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 48: Trust — Deep [06:16–06:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cinematic photorealistic NASA documentary aesthetic, 8K HDR, volumetric lighting, anamorphic lens 2.39:1
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 13.8 billion years
+
+ACTIONS:
+- Time-lapse of Milky Way rotation over LIGO detector silhouette in foreground, 8K star trails arcing across deep space navy sky, golden amber horizon glow
+- Detector arms sharp against starfield, volumetric atmosphere scattering distant starlight
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- wind whistling over detector structure, distant night insects chirping
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 49: Trust — Deep [06:24–06:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Sunlit modern laboratory with floor-to-ceiling windows, warm natural light mixing with cool digital projections, creating hopeful atmosphere
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 13.8 billion years
+
+ACTIONS:
+- Volumetric holographic timeline projection floating in bright observatory space, numbers '13.8 billion years' glowing in soft teal light, hands reaching forward with open palms in contemplative gesture
+- Timeline extends horizontally through frame as illuminated markers pulse gently along its length
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- hologram projector click, marker pulse beep
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 50: Trust — Deep [06:32–06:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The waveform pulses subtly as the label resolves into focus
+
+ACTIONS:
+- Close-up of LIGO data screen displaying waveform labeled 'S251112cm' in teal monospace font, signal peak highlighted in amber
+- Screen reflects softly on scientist's safety glasses in foreground, expression measured and analytical
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- soft keystroke clicks, monitor cooling fan whir
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 51: Trust — Deep [06:40–06:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The curves and numbers occupy the full frame, no human face visible
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- black hole
+
+ACTIONS:
+- Whiteboard filled with probability density curves and equations for primordial black hole abundance, chalk dust visibly suspended in volumetric side light from window
+- Hand enters frame, tapping the final calculated value with chalk, posture confident but cautious
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- chalk tapping on board, paper rustling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 52: Trust — Deep [06:48–06:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Extreme close-up of hand writing 'N_PBH ≈ rare' in pen on research paper, shallow DOF isolating the writing hand
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- black hole
+
+ACTIONS:
+- Extreme close-up of hand writing 'N_PBH ≈ rare' in pen on research paper, shallow DOF isolating the writing hand
+- Volumetric window light cuts across the page, fingers gripping pen with measured precision
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- pen scratching paper, wrist watch ticking faintly
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 53: Trust — Deep [06:56–07:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Physical 3D-printed model of subsolar black hole sits on illuminated white laboratory table, researcher's hands gesturing above it with measured, confident movements showing scale comparison
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- black hole
+
+ACTIONS:
+- Physical 3D-printed model of subsolar black hole sits on illuminated white laboratory table, researcher's hands gesturing above it with measured, confident movements showing scale comparison
+- Hands pause over model demonstrating rarity through spacing of identical models arranged sparsely across table surface
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- model placement tap on table, paper sheet rustle
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 54: Trust — Deep [07:04–07:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Modern detector facility interior with abundant natural skylights, polished steel and glass surfaces reflecting warm sunlight, creating atmosphere of scientific optimism
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- black hole
+
+ACTIONS:
+- Actual LIGO interferometer arm extends through frame in bright daylight, technician in clean-room suit stands with arms crossed in assured posture beside beam tube
+- Statistical overlay graphic materializes in air showing signal waveform S251112cm with confidence intervals, numbers resolving into clarity
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- keyboard key press, mouse click
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 55: Trust — Deep [07:12–07:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Behind the text, faint S251112cm waveform visible, cool clinical steel-blue palette
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- black hole
+
+ACTIONS:
+- Extreme close-up of data screen overlay reading 'UNCONFIRMED DETECTION' in red sans-serif type, blinking red caution indicator pulsing at 1Hz in corner
+- Behind the text, faint S251112cm waveform visible, cool clinical steel-blue palette
+
+CAMERA:
+Medium | Slow push-in
+
+AUDIO:
+- indicator beep pulsing at 1Hz, monitor static hiss
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 56: Trust — Deep [07:20–07:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Starfield beyond, deep space navy background, planet occupying lower third of frame
+
+ACTIONS:
+- Orbital view of Earth from 400km altitude, LIGO Livingston and Hanford detector locations marked with pulsing teal icons on surface, Virgo in Europe faintly visible
+- Starfield beyond, deep space navy background, planet occupying lower third of frame
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- satellite thruster micro-adjustments, faint orbital wind
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 57: Trust — Deep [07:28–07:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The cosmic microwave background glows faintly as diffuse orange-teal gradient across the frame
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- one second
+- cosmic microwave background
+- galaxy
+- black hole
+
+ACTIONS:
+- Volumetric light pierces through swirling primordial plasma clouds in deep space, pre-stellar void with no galaxies visible
+- Dense fluctuations ripple outward from frame center, forming a dark singularity core where light bends
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- plasma ionization crackle
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 58: Trust — Deep [07:36–07:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Camera creeps closer to the distortion, revealing subtle ripples in the fabric of space
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- one second
+- cosmic microwave background
+- galaxy
+- black hole
+
+ACTIONS:
+- A single primordial black hole's gravitational lensing effect distorts the background cosmic microwave background radiation glow, bending light in a circular pattern around an invisible center
+- The lensing ring shimmers faintly in amber and teal as spacetime warps
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- deep sub-bass rumble resonating through vacuum
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 59: Trust — Deep [07:44–07:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Anamorphic 2.39:1 aspect ratio emphasizes horizontal solitude
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- one second
+- cosmic microwave background
+- galaxy
+- black hole
+
+ACTIONS:
+- The gravitational lensing effect recedes into vast cosmic emptiness, revealing the true scale of the pre-galactic void
+- The black hole becomes a tiny distortion against an infinite expanse of deep navy and black, with only faint traces of the cosmic microwave background glowing in orange-amber at the edges
+
+CAMERA:
+Wide | Zoom out
+
+AUDIO:
+- distant cosmic wind whistling through void
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 60: Trust — Deep [07:52–08:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Soft practical lighting from desk lamp casts long shadows across the pages
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- fifty years
+
+ACTIONS:
+- Vintage 1970s astrophysics journal pages spread on a wooden desk under warm desk lamp light (3700K)
+- The camera pans across yellowed paper with visible equations and diagrams, settling on a page titled 'Hawking 1971' with hand-drawn black hole illustrations
+
+CAMERA:
+Close-up | Pan
+
+AUDIO:
+- paper rustling softly on desk
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 61: Trust — Deep [08:00–08:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Screen readout in darkened control room shows alphanumeric string 'S251112cm' resolving character by character from left to right on monitor
+
+ACTIONS:
+- Screen readout in darkened control room shows alphanumeric string 'S251112cm' resolving character by character from left to right on monitor
+- Rack focus pulls from blurred waveform overlay in foreground to sharp text on screen
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- keyboard key tap, data processing beep
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 62: Anticipation — Deep [08:08–08:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The scale of the future instrument is conveyed through the endless straight line cutting through empty landscape
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- ten times
+- black hole
+
+ACTIONS:
+- Vast desert site at golden hour, with conceptual foundation markers for a 40km detector arm stretching toward the horizon
+- The detector path is marked by faint concrete foundations and surveying equipment, disappearing into the distance
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- desert wind gusting across open ground
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 63: Anticipation — Deep [08:16–08:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Camera tilts from desert horizon at dusk upward to reveal star-dense twilight sky transitioning through HDR exposure from warm amber horizon to deep navy overhead
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- ten times
+- black hole
+
+ACTIONS:
+- Camera tilts from desert horizon at dusk upward to reveal star-dense twilight sky transitioning through HDR exposure from warm amber horizon to deep navy overhead
+- The Milky Way becomes visible as the tilt completes, with thousands of stars rendered in 8K clarity
+
+CAMERA:
+Wide | Tilt
+
+AUDIO:
+- night insects chirping at dusk
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 64: Anticipation — Deep [08:24–08:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Dramatic side lighting from a desk lamp casts half the frame in shadow, creating unresolved tension
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- ten times
+- black hole
+
+ACTIONS:
+- Architectural rendering screen showing a 40km Cosmic Explorer detector arm stretching across Louisiana farmland, ten times longer than LIGO's 4km arms
+- The screen glows softly in amber backlight, reflecting on polished glass surface
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- soft fan whir, paper rustle, pen tap on desk
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 65: Anticipation — Deep [08:32–08:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Split screen: left frame shows current LIGO detector arm extending to horizon under twilight sky, steel and concrete infrastructure sharp against fading light; right frame reveals conceptual Cosmic Explorer arm stretching farther into deep blue dusk, matched horizon line
+
+ACTIONS:
+- Split screen: left frame shows current LIGO detector arm extending to horizon under twilight sky, steel and concrete infrastructure sharp against fading light
+- Right frame reveals conceptual Cosmic Explorer arm stretching farther into deep blue dusk, matched horizon line
+- Transition via slow dissolve, amber warning lights pulsing on both structures
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- warning light pulse, distant steel creak, wind across open plain
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 66: Trust — Deep [08:40–08:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Background galaxies distort subtly through warped spacetime
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 27 percent
+- black hole
+
+ACTIONS:
+- Deep space field, stars scattered across black void
+- Foreground: faint blue gravitational lens arc bending light around invisible primordial black hole mass, labeled '27%' in clinical sans-serif overlay
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- faint electronic beep, data stream click
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 67: Trust — Deep [08:48–08:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+The frame centers on the warped light pattern against the black void, HDR contrast emphasizing the luminous arc against absolute darkness
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- 27 percent
+- black hole
+
+ACTIONS:
+- A single primordial black hole rendered as an invisible gravitational lens in deep space, its presence revealed only by the arc of distant galaxy light bending around it
+- The frame centers on the warped light pattern against the black void, HDR contrast emphasizing the luminous arc against absolute darkness
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- faint mechanical hum of telescope tracking mount
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 68: Trust — Deep [08:56–09:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Teal accent highlights grid vertices
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- black hole
+
+ACTIONS:
+- Time-lapse: spiral galaxy rotation visualized over deep navy void
+- Invisible gravitational influence rendered as faint blue wireframe grid warping beneath galactic plane, primordial black holes marked as subtle density nodes
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- faint star motion whoosh, grid node ping
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 69: Trust — Deep [09:04–09:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Cool twilight blue palette with 3700K teal accents on the brightest stars
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- black hole
+
+ACTIONS:
+- Deep space simulation: a cluster of invisible primordial black holes scattered through a galactic halo, their positions marked only by subtle gravitational distortion of background starlight
+- The camera rises to reveal the full three-dimensional structure of the dark matter distribution, each black hole a void in the luminous web
+
+CAMERA:
+Medium | Crane
+
+AUDIO:
+- low frequency radio telescope signal pulses
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 70: Trust — Deep [09:12–09:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Close on underground particle detector chamber: spherical LUX-ZEPLIN sensor array suspended in center, steel blue tones
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- black hole
+- neutrino
+- WIMP
+- axion
+
+ACTIONS:
+- Close on underground particle detector chamber: spherical LUX-ZEPLIN sensor array suspended in center, steel blue tones
+- Reflective photomultiplier tubes catch clinical overhead light
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- liquid nitrogen drip, detector chamber echo, metal stress tick
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 71: Trust — Deep [09:20–09:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Clinical teal accent lighting from below
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- black hole
+- neutrino
+- WIMP
+- axion
+
+ACTIONS:
+- Tilt down massive cryogenic detector vessel (XENON1T-style), frost forming in real-time on copper surface
+- Volumetric condensation fog drifts downward
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- cryogenic valve hiss, frost crackle, metal contraction ping
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 72: Trust — Deep [09:28–09:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Volumetric atmosphere, slight haze from air filtration
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- black hole
+- neutrino
+- WIMP
+- axion
+
+ACTIONS:
+- Underground laboratory carved from solid rock: cathedral-like cavern with particle detector at geometric center, massive cylindrical water tank surrounding it
+- Human figure in cleanroom suit for scale, standing at observation platform, back to camera, looking down at detector
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- underground cavern reverb, water tank fluid shifting, detector electronics buzzing, distant drilling echo
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 73: Trust — Payoff [09:36–09:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Control room bathed in warm 4000K amber glow from overhead panels, secondary monitors casting soft reflections on polished console surface
+
+ACTIONS:
+- High-resolution waveform display showing signal S251112cm rendered in crisp luminous green against deep black background, subsolar mass value 0.87 M☉ resolving in overlaid text as the trace stabilizes
+- Physicist's hand rests on desk edge, fingers barely curled in quiet contemplation
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- computer fan whirring, hard drive clicking, keyboard keys tapping intermittently
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 74: Trust — Payoff [09:44–09:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Volumetric light rays from screens, deep blacks, 4000K warm key
+
+ACTIONS:
+- LIGO control room interior at night, large curved monitor array displaying live strain data streams, three simultaneous waveform channels synced across top, middle, and bottom thirds of main display
+- Silhouetted figures visible in distant background against cool monitor glow, warm amber desk lamps illuminating keyboard and notepad in foreground
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- cooling fan whir, distant footstep, paper rustle
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 75: Trust — Payoff [09:52–10:00]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm indirect lighting from screen glow against matte black console, deep golden amber wash from overhead practical, volumetric haze catching light rays
+
+ACTIONS:
+- Display monitor showing waveform data resolving into final confirmation readout, soft reflection on curved glass surface
+- Data visualization completes its render cycle, final values locking into place with subtle interface animation
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- keyboard key click, mouse button press, interface beep confirmation
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 76: Trust — Payoff [10:00–10:08]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm 4000K desk lamp glow on screen edges, deep blacks, clean workstation
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- black hole
+
+ACTIONS:
+- Scrolling vertical timeline visualization on high-resolution display: each gravitational-wave event rendered as horizontal bar with date label on left, waveform thumbnail and SNR value on right
+- Counter in top-right corner increments from 1 to 390 in steady rhythm
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- scroll wheel click, mouse button press, counter beep
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 77: Trust — Payoff [10:08–10:16]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Volumetric atmosphere catches facility uplighting, warm 4000K interior glow contrasts cool 6500K starfield
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- black hole
+
+ACTIONS:
+- Three LIGO-Virgo-KAGRA observatory sites rendered as illuminated architectural nodes against Earth's curvature at twilight, Milky Way band arcing overhead in deep navy and amber star-glow
+- Black hole merger visualization overlays sky as translucent rippling spacetime grid, numbered catalog entries appearing sequentially as glowing coordinate pins
+
+CAMERA:
+Wide | Crane
+
+AUDIO:
+- electrical transformer hum pulse, satellite dish motor rotation whir, data stream digital chirp sequence
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 78: Trust — Payoff [10:16–10:24]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Archive computer monitor displaying chronological list of gravitational-wave events, '2015-09-14 GW150914' timestamp at top in white monospace font against black terminal background, entries scrolling smoothly downward as camera follows
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- black hole
+
+ACTIONS:
+- Archive computer monitor displaying chronological list of gravitational-wave events, '2015-09-14 GW150914' timestamp at top in white monospace font against black terminal background, entries scrolling smoothly downward as camera follows
+- Each line shows event ID, date, and brief descriptor (BBH, BNS, mass ranges)
+
+CAMERA:
+Close-up | Tilt
+
+AUDIO:
+- mouse clicking repeatedly, monitor buzzing faintly, liquid sloshing in mug
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 79: Trust — Payoff [10:24–10:32]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Anamorphic 2.39:1 framing emphasizes horizontal expanse
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- black hole
+
+ACTIONS:
+- Single LIGO detector arm stretching 4 kilometers into twilight horizon, linear perspective converging to vanishing point under deep blue-gray sky with first stars emerging
+- Anamorphic 2.39:1 framing emphasizes horizontal expanse
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- distant compressor cycle, metal structure creak, wind gust
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 80: Trust — Payoff [10:32–10:40]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Subdued reflective tone, distant starlight as only illumination
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- black hole
+
+ACTIONS:
+- Single detector silhouette — vertical structure and horizontal arm — black against gradient twilight sky transitioning from deep indigo at top to faint amber horizon line
+- Milky Way band spans upper third, individual stars visible, observatory rendered small and solitary
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- faint wind over open landscape, distant nocturnal insect chirp
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 81: Trust — Payoff [10:40–10:48]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Gentle golden glow from screen illuminates the immediate workspace, creating focused intimate atmosphere
+
+ACTIONS:
+- Computer monitor displays amber text "S251112cm - Classification: Pending" in sharp focus, soft bokeh background of warm observatory lighting
+- Cursor blinks steadily beside the status line
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- keyboard key tapping, mouse clicking
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 82: Trust — Payoff [10:48–10:56]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm amber and steel blue color grading
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- black hole
+
+ACTIONS:
+- Split-screen composition: left half shows clean theoretical sine wave in blue, right half shows real noisy waveform data with signal buried in statistical fluctuations
+- Camera slowly advances into the right panel, emphasizing ambiguity
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- hard drive spin cycle, periodic mechanical click
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 83: Trust — Payoff [10:56–11:04]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep space observatory environment, cool steel blue and twilight gray palette, clinical lighting emphasizing data precision
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- black hole
+
+ACTIONS:
+- Split-screen composition: left half shows clean theoretical sine wave in white on black, right half shows actual noisy gravitational wave data with signal buried in static
+- Camera gradually pushes deeper into the chaotic right panel, waveform flickering and resolving
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- hard drive spin, data processing clicks
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 84: Trust — Payoff [11:04–11:12]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Extreme close-up, static hold with shallow micro-drift
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- black hole
+
+ACTIONS:
+- Scientist's hand reaching toward illuminated "Confirm Event" button on touch panel, fingers hovering millimeters above surface
+- Pulling back without contact
+- Volumetric light slicing through dusty air, amber glow on skin
+
+CAMERA:
+Extreme Close-up | Static
+
+AUDIO:
+- chair leather creak, fabric rustle
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 85: Trust — Payoff [11:12–11:20]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Distant mountain silhouette on horizon
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- black hole
+
+ACTIONS:
+- LIGO Hanford Observatory exterior under night sky, star trails forming concentric arcs around celestial pole
+- Facility lights glow amber against deep navy sky
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- telescope motor gear rotation, periodic position lock click
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 86: Trust — Payoff [11:20–11:28]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Reflective, contemplative lighting in cool twilight tones
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- black hole
+
+ACTIONS:
+- Camera glides past framed archival photograph mounted on laboratory wall: 2015 LIGO detection team celebrating, champagne and cheering
+- Frame catches soft reflections of current workstations in glass
+
+CAMERA:
+Medium | Static
+
+AUDIO:
+- paper sheet rustling on nearby desk, pen rolling
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 87: Trust — Payoff [11:28–11:36]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Deep space navy and golden amber color palette
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Eleven years
+- 390 times
+
+ACTIONS:
+- Earth viewed from low orbit, night side visible with city lights
+- Three LIGO-Virgo-KAGRA detector sites marked by pulsing amber light beacons
+
+CAMERA:
+Wide | Orbit
+
+AUDIO:
+- satellite transponder beep sequence, data packet transmission click
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 88: Trust — Payoff [11:36–11:44]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm golden backlight from adjacent monitors, deep space imagery on secondary screens
+
+NARRATIVE FOCUS (what the audio is about — visualise these):
+- Eleven years
+- 390 times
+
+ACTIONS:
+- Wall-mounted digital catalog display showing scrolling list of 390 detection events, each entry expanding with mass measurements and timestamps as cursor hovers
+- Close foreground shows researcher's hand gesturing toward single highlighted row labeled "S251112cm — anomalous profile"
+
+CAMERA:
+Wide | Tracking
+
+AUDIO:
+- display panel beep, paper rustling on desk
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 89: Trust — Payoff [11:44–11:52]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Warm golden light from desk lamp illuminates both documents, creating depth through focus shift
+
+ACTIONS:
+- Archival newspaper headline "First Gravitational Waves Detected" in sharp focus, mounted in observatory corridor, slowly defocuses as camera advances toward present-day catalog printout pinned behind it showing 390+ detections
+- Warm golden light from desk lamp illuminates both documents, creating depth through focus shift
+
+CAMERA:
+Close-up | Slow push-in
+
+AUDIO:
+- printer paper feed clicking rhythmically
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+────────────────────────────────────────────────
+🎬 SCENE 90: Trust — Payoff [11:52–11:58]
+────────────────────────────────────────────────
+
+ENVIRONMENT (SCENE):
+Single LIGO detector arm extends toward horizon under Milky Way canopy, steel lattice structure silhouetted against deep space navy sky scattered with stars
+
+ACTIONS:
+- Single LIGO detector arm extends toward horizon under Milky Way canopy, steel lattice structure silhouetted against deep space navy sky scattered with stars
+- Telescope arm's linear precision contrasts with organic sprawl of galaxy overhead
+
+CAMERA:
+Wide | Static
+
+AUDIO:
+- nocturnal insects chirping, fading gradually
+- Sound effects only — no music, no voice, no dialogue, no narration
+
+════════════════════════════════════════════════════════════════
+[END SCENE PROMPTS]
+════════════════════════════════════════════════════════════════
